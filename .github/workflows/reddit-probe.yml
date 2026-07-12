@@ -1,0 +1,15 @@
+name: reddit-probe
+on: workflow_dispatch
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe Reddit endpoints from a GitHub runner
+        run: |
+          for url in \
+            "https://www.reddit.com/r/artificial+MachineLearning+LocalLLaMA+singularity/top.json?t=day&limit=3" \
+            "https://www.reddit.com/r/artificial+MachineLearning+LocalLLaMA+singularity/top.rss?t=day&limit=3"; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 15 -A "web:ai-pulse:v1.0 (news aggregator)" "$url")
+            echo "$code $url"
+          done

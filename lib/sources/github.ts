@@ -12,6 +12,7 @@ interface GithubRepo {
   description: string | null;
   stargazers_count: number;
   created_at: string;
+  owner: { avatar_url: string } | null;
 }
 
 export async function fetchGithub(): Promise<SourceResult> {
@@ -50,6 +51,7 @@ export async function fetchGithub(): Promise<SourceResult> {
         score: repo.stargazers_count,
         publishedAt: repo.created_at,
         category: "github",
+        thumbnail: repo.owner?.avatar_url,
       });
     }
     items.sort((a, b) => b.score - a.score);

@@ -24,17 +24,25 @@ async function load() {
 
 function show(result: SourceResult) {
   console.log(`\n=== ${result.label} (${result.category}) ok=${result.ok} items=${result.items.length}${result.error ? ` error=${result.error}` : ""}`);
+  const withThumbs = result.items.filter((item) => item.thumbnail).length;
+  console.log(`  thumbnails: ${withThumbs}/${result.items.length}`);
   for (const item of result.items.slice(0, 5)) {
-    console.log(`  [${item.score}] ${item.title.slice(0, 90)}`);
+    console.log(`  [${item.score}]${item.thumbnail ? " [img]" : ""} ${item.title.slice(0, 90)}`);
     console.log(`      ${item.source} | ${item.publishedAt} | ${item.url.slice(0, 100)}`);
   }
 }
 
 const which = process.argv[2] ?? "all";
 await load();
-const picked = which === "all" ? Object.values(fetchers) : [fetchers[which]];
-if (picked[0] === undefined) {
-  console.error(`Unknown source "${which}". Available: ${Object.keys(fetchers).join(", ")}`);
-  process.exit(1);
+if (which === "all") {
+  // Full pipeline, including og:image thumbnail scraping.
+  const { fetchAllSources } = await import("../lib/sources/index.ts");
+  for (const result of await fetchAllSources()) show(result);
+} else {
+  const fetcher = fetchers[which];
+  if (!fetcher) {
+    console.error(`Unknown source "${which}". Available: ${Object.keys(fetchers).join(", ")}`);
+    process.exit(1);
+  }
+  show(await fetcher());
 }
-for (const result of await Promise.all(picked.map((fn) => fn()))) show(result);

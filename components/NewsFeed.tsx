@@ -45,22 +45,39 @@ function ThemeToggle() {
 
 function Card({ item, now }: { item: NewsItem; now: number | null }) {
   return (
-    <li className="rounded-lg border border-black/10 bg-white px-4 py-3 dark:border-white/10 dark:bg-white/[0.03]">
-      <a
-        href={item.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="text-[15px] font-medium leading-snug hover:underline"
-      >
-        {item.title}
-      </a>
-      <div className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-black/55 dark:text-white/45">
-        <span className={`rounded px-1.5 py-0.5 font-medium ${BADGE_STYLES[item.category]}`}>
-          {item.source}
-        </span>
-        {item.score > 0 && <span>&#9650; {item.score.toLocaleString()}</span>}
-        {now !== null && <span>{timeAgo(item.publishedAt, now)}</span>}
+    <li className="flex items-start gap-3 rounded-lg border border-black/10 bg-white px-4 py-3 dark:border-white/10 dark:bg-white/[0.03]">
+      <div className="min-w-0 flex-1">
+        <a
+          href={item.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-[15px] font-medium leading-snug hover:underline"
+        >
+          {item.title}
+        </a>
+        <div className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-black/55 dark:text-white/45">
+          <span className={`rounded px-1.5 py-0.5 font-medium ${BADGE_STYLES[item.category]}`}>
+            {item.source}
+          </span>
+          {item.score > 0 && <span>&#9650; {item.score.toLocaleString()}</span>}
+          {now !== null && <span>{timeAgo(item.publishedAt, now)}</span>}
+        </div>
       </div>
+      {item.thumbnail && (
+        // Thumbnails come from arbitrary external domains, so next/image's
+        // domain allowlist doesn't fit; a plain lazy img is the right tool.
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src={item.thumbnail}
+          alt=""
+          loading="lazy"
+          referrerPolicy="no-referrer"
+          className="h-16 w-16 shrink-0 rounded-md border border-black/10 object-cover dark:border-white/10"
+          onError={(event) => {
+            event.currentTarget.style.display = "none";
+          }}
+        />
+      )}
     </li>
   );
 }

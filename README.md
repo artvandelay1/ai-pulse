@@ -1,6 +1,8 @@
 # AI Pulse ⚡
 
-A single-page AI news aggregator. Pulls trending AI content from Reddit, Hacker News, arXiv, company blogs, and GitHub into one clean feed — headlines, links, source badges, and scores. No database, no auth, no AI summaries.
+A single-page AI news aggregator. Pulls trending AI content from Reddit, Hacker News, arXiv, company blogs, and GitHub into one clean feed — headlines, links, source badges, scores, and thumbnails. No database, no auth, no AI summaries.
+
+Thumbnails: Reddit and GitHub provide images through their APIs; Hacker News and blog links get their `og:image` scraped server-side at refresh time ([lib/og-image.ts](lib/og-image.ts)); arXiv papers stay text-only.
 
 Built with Next.js 15 (App Router, TypeScript, Tailwind CSS). All fetching happens server-side with ISR: the page is statically served and refreshed at most every 30 minutes.
 

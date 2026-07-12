@@ -9,6 +9,8 @@ export interface NewsItem {
   /** ISO 8601 timestamp */
   publishedAt: string;
   category: Category;
+  /** Absolute image URL, if the source provides one or og:image scraping found one */
+  thumbnail?: string;
 }
 
 export interface SourceResult {

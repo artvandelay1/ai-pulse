@@ -16,7 +16,17 @@ interface RedditPost {
     score: number;
     created_utc: number;
     is_self: boolean;
+    thumbnail?: string;
+    preview?: { images?: { source?: { url?: string } }[] };
   };
+}
+
+// data.thumbnail holds sentinel words ("self", "default", "nsfw") for posts
+// without one; prefer the full-size preview image, which is HTML-escaped.
+function postThumbnail(post: RedditPost["data"]): string | undefined {
+  const preview = post.preview?.images?.[0]?.source?.url?.replace(/&amp;/g, "&");
+  if (preview?.startsWith("http")) return preview;
+  return post.thumbnail?.startsWith("http") ? post.thumbnail : undefined;
 }
 
 async function fromJson(): Promise<NewsItem[]> {
@@ -33,6 +43,7 @@ async function fromJson(): Promise<NewsItem[]> {
     score: post.score ?? 0,
     publishedAt: new Date(post.created_utc * 1000).toISOString(),
     category: "reddit" as const,
+    thumbnail: postThumbnail(post),
   }));
 }
 
@@ -42,7 +53,9 @@ async function fromJson(): Promise<NewsItem[]> {
 async function fromRss(): Promise<NewsItem[]> {
   const res = await fetchWithTimeout(RSS_URL, { headers: { "User-Agent": USER_AGENT } });
   if (!res.ok) throw new Error(`Reddit RSS responded ${res.status}`);
-  const feed = await new Parser().parseString(await res.text());
+  const feed = await new Parser<object, { thumb?: { $?: { url?: string } } }>({
+    customFields: { item: [["media:thumbnail", "thumb"]] },
+  }).parseString(await res.text());
   return feed.items.slice(0, 15).map((item) => ({
     title: item.title ?? "(untitled)",
     url: item.link ?? "",
@@ -50,6 +63,7 @@ async function fromRss(): Promise<NewsItem[]> {
     score: 0,
     publishedAt: item.isoDate ?? new Date().toISOString(),
     category: "reddit" as const,
+    thumbnail: item.thumb?.$?.url?.startsWith("http") ? item.thumb.$.url : undefined,
   }));
 }
 

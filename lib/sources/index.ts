@@ -1,4 +1,5 @@
 import type { SourceResult } from "../types.ts";
+import { addOgThumbnails } from "../og-image.ts";
 import { fetchHackerNews } from "./hackernews.ts";
 import { fetchReddit } from "./reddit.ts";
 import { fetchArxiv } from "./arxiv.ts";
@@ -14,7 +15,7 @@ const FETCHERS = [fetchReddit, fetchHackerNews, fetchArxiv, fetchBlogs, fetchGit
  */
 export async function fetchAllSources(): Promise<SourceResult[]> {
   const settled = await Promise.allSettled(FETCHERS.map((fetcher) => fetcher()));
-  return settled.map((result, i) =>
+  const sources = settled.map((result, i) =>
     result.status === "fulfilled"
       ? result.value
       : {
@@ -25,4 +26,13 @@ export async function fetchAllSources(): Promise<SourceResult[]> {
           items: [],
         }
   );
+
+  // HN and blog items only carry links; scrape their pages' og:image tags.
+  // Reddit/GitHub thumbnails come from their APIs, arXiv stays text-only.
+  await addOgThumbnails(
+    sources
+      .filter((source) => source.category === "hackernews" || source.category === "blogs")
+      .flatMap((source) => source.items)
+  );
+  return sources;
 }

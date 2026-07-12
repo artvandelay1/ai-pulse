@@ -10,7 +10,7 @@ const NEXT_CACHE = { next: { revalidate: 1800 } } as RequestInit;
 // Single source of truth for the subreddit list; the snapshot workflow
 // derives its curl URLs from these exports. Each subreddit contributes its
 // own top-of-day posts so big subs can't crowd out quiet ones.
-export const SUBREDDIT_LIST = ["artificial", "MachineLearning", "singularity", "ClaudeAI", "OpenAI", "codex"];
+export const SUBREDDIT_LIST = ["MachineLearning", "singularity", "ClaudeAI", "OpenAI", "codex"];
 export const PER_SUB_LIMIT = 5;
 export const rssUrlFor = (sub: string) =>
   `https://www.reddit.com/r/${sub}/top.rss?t=day&limit=${PER_SUB_LIMIT}`;

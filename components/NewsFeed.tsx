@@ -122,7 +122,8 @@ export default function NewsFeed({
 
       {failed.length > 0 && (
         <p className="mb-3 text-xs text-black/55 dark:text-white/45">
-          Currently unavailable: {failed.map((source) => source.label).join(", ")}
+          Currently unavailable:{" "}
+          {failed.map((source) => `${source.label}${source.error ? ` (${source.error})` : ""}`).join(", ")}
         </p>
       )}
 

@@ -1,6 +1,11 @@
 import Parser from "rss-parser";
 import type { NewsItem, SourceResult } from "../types.ts";
-import { errorMessage, fetchWithTimeout } from "../util.ts";
+import { errorMessage, fetchWithRetry, fetchWithTimeout } from "../util.ts";
+
+// Cache successful listing responses in Next's data cache (a no-op outside
+// the Next runtime): when a later refresh gets rate-limited, Next serves
+// the stale cached response instead of failing the source.
+const NEXT_CACHE = { next: { revalidate: 1800 } } as RequestInit;
 
 const SUBREDDITS = "artificial+MachineLearning+LocalLLaMA+singularity";
 const JSON_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.json?t=day&limit=15`;
@@ -56,8 +61,9 @@ async function getAppToken(): Promise<string | null> {
 }
 
 async function fromJson(url = JSON_URL, headers: Record<string, string> = {}): Promise<NewsItem[]> {
-  const res = await fetchWithTimeout(url, {
+  const res = await fetchWithRetry(url, {
     headers: { "User-Agent": USER_AGENT, Accept: "application/json", ...headers },
+    ...(headers.Authorization ? {} : NEXT_CACHE),
   });
   if (!res.ok) throw new Error(`Reddit JSON responded ${res.status}`);
   const data = (await res.json()) as { data: { children: RedditPost[] } };
@@ -77,7 +83,10 @@ async function fromJson(url = JSON_URL, headers: Record<string, string> = {}): P
 // while still serving the .rss feed; fall back to it. RSS carries no vote
 // counts, so those items get score 0.
 async function fromRss(): Promise<NewsItem[]> {
-  const res = await fetchWithTimeout(RSS_URL, { headers: { "User-Agent": USER_AGENT } });
+  const res = await fetchWithRetry(RSS_URL, {
+    headers: { "User-Agent": USER_AGENT },
+    ...NEXT_CACHE,
+  });
   if (!res.ok) throw new Error(`Reddit RSS responded ${res.status}`);
   const feed = await new Parser<object, { thumb?: { $?: { url?: string } } }>({
     customFields: { item: [["media:thumbnail", "thumb"]] },

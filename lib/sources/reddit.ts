@@ -7,9 +7,11 @@ import { errorMessage, fetchWithRetry, fetchWithTimeout } from "../util.ts";
 // the stale cached response instead of failing the source.
 const NEXT_CACHE = { next: { revalidate: 1800 } } as RequestInit;
 
-const SUBREDDITS = "artificial+MachineLearning+LocalLLaMA+singularity";
+// Single source of truth for the subreddit list; the snapshot workflow
+// derives its curl URL from the RSS_URL export.
+export const SUBREDDITS = "artificial+MachineLearning+singularity+ClaudeAI+OpenAI+codex";
 const JSON_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.json?t=day&limit=15`;
-const RSS_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.rss?t=day&limit=15`;
+export const RSS_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.rss?t=day&limit=15`;
 const USER_AGENT = "web:ai-pulse:v1.0 (news aggregator)";
 
 interface RedditPost {

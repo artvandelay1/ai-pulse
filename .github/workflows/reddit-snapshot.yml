@@ -17,12 +17,14 @@ jobs:
           node-version: 24
       - run: npm ci
       - name: Fetch Reddit RSS via curl
-        # Reddit's WAF 403s Node fetch from datacenter IPs but tolerates curl
+        # Reddit's WAF 403s Node fetch from datacenter IPs but tolerates curl.
+        # The URL comes from lib/sources/reddit.ts so the subreddit list has
+        # a single source of truth.
         run: |
+          URL=$(node --input-type=module -e "console.log((await import('./lib/sources/reddit.ts')).RSS_URL)")
           curl -sf --retry 3 --retry-delay 5 \
             -A "web:ai-pulse:v1.0 (news aggregator)" \
-            "https://www.reddit.com/r/artificial+MachineLearning+LocalLLaMA+singularity/top.rss?t=day&limit=15" \
-            -o /tmp/reddit.xml
+            "$URL" -o /tmp/reddit.xml
       - name: Build snapshot JSON
         run: node scripts/snapshot-reddit.ts /tmp/reddit-snapshot.json /tmp/reddit.xml
       - name: Commit to data branch

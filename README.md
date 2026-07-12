@@ -43,7 +43,7 @@ Test any fetcher live with `node scripts/sample.ts <name>`.
 
 | Source | Endpoint | Notes |
 | --- | --- | --- |
-| Reddit | r/artificial+MachineLearning+LocalLLaMA+singularity, top of the day | Tries OAuth (if `REDDIT_CLIENT_ID`/`REDDIT_CLIENT_SECRET` are set), then public `top.json`, then the `.rss` feed; the RSS fallback lacks vote counts and shows top-of-day rank (#N today) instead |
+| Reddit | subreddits from `SUBREDDITS` in [lib/sources/reddit.ts](lib/sources/reddit.ts), top of the day | Tries OAuth (if `REDDIT_CLIENT_ID`/`REDDIT_CLIENT_SECRET` are set), then public `top.json`, then the `.rss` feed; the RSS fallback lacks vote counts and shows top-of-day rank (#N today) instead |
 | Hacker News | Algolia search, queries "AI" and "LLM", >50 points, last 7 days | Deduped across queries |
 | arXiv | cs.AI + cs.LG, newest submissions | Atom XML parsed with rss-parser |
 | Blogs | OpenAI, Anthropic, Google DeepMind, Meta AI, Hugging Face | Anthropic publishes no official RSS; uses the community mirror from [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) (rebuilt daily). Meta retired its ai.meta.com feed; uses the official Meta Engineering AI Research feed |

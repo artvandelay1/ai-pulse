@@ -28,13 +28,22 @@ jobs:
             console.log(m.SUBREDDIT_LIST.map((s) => s + ' ' + m.rssUrlFor(s)).join('\n'));
           " > /tmp/subs.txt
           while read -r sub url; do
-            curl -sf --retry 3 --retry-delay 5 \
+            code=$(curl -s --retry 3 --retry-delay 10 \
               -A "web:ai-pulse:v1.0 (news aggregator)" \
-              "$url" -o "/tmp/rss/$sub.xml" || echo "WARN: $sub failed"
-            sleep 2
+              "$url" -o "/tmp/rss/$sub.xml" -w "%{http_code}")
+            if [ "$code" != "200" ]; then
+              echo "WARN: $sub -> HTTP $code"
+              rm -f "/tmp/rss/$sub.xml"
+            fi
+            sleep 5
           done < /tmp/subs.txt
       - name: Build snapshot JSON
-        run: node scripts/snapshot-reddit.ts /tmp/reddit-snapshot.json /tmp/rss
+        # Pass the previous snapshot so subreddits that got rate-limited this
+        # run keep their last-known posts instead of disappearing.
+        run: |
+          git fetch origin data 2>/dev/null && \
+            git show origin/data:data/reddit-snapshot.json > /tmp/prev.json 2>/dev/null || true
+          node scripts/snapshot-reddit.ts /tmp/reddit-snapshot.json /tmp/rss /tmp/prev.json
       - name: Commit to data branch
         run: |
           git config user.name "github-actions[bot]"

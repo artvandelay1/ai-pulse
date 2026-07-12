@@ -24,7 +24,10 @@ node scripts/sample.ts all        # or: hackernews | reddit | arxiv | blogs | gi
 1. Push this repo to GitHub.
 2. In Vercel: **Add New Project** → import the repo → **Deploy**. Zero config needed; Vercel detects Next.js automatically.
 
-Optional: set a `GITHUB_TOKEN` environment variable in Vercel to raise the GitHub API rate limit (unauthenticated is fine at the default refresh rate).
+Optional environment variables:
+
+- `REDDIT_CLIENT_ID` / `REDDIT_CLIENT_SECRET` — **recommended in production.** Reddit 403s anonymous requests from datacenter IPs (including Vercel), which forces the RSS fallback and loses upvote counts. Create a free app at [reddit.com/prefs/apps](https://www.reddit.com/prefs/apps) (type "script", any redirect URI), set these two variables, and the fetcher uses application-only OAuth, which works from anywhere and includes scores.
+- `GITHUB_TOKEN` — raises the GitHub API rate limit (unauthenticated is fine at the default refresh rate).
 
 ## Adjust the refresh interval
 
@@ -40,7 +43,7 @@ Test any fetcher live with `node scripts/sample.ts <name>`.
 
 | Source | Endpoint | Notes |
 | --- | --- | --- |
-| Reddit | `top.json` for r/artificial+MachineLearning+LocalLLaMA+singularity | Falls back to the `.rss` feed when Reddit 403s the JSON endpoint (common from datacenter IPs); RSS items carry no vote counts, so their score shows as none |
+| Reddit | r/artificial+MachineLearning+LocalLLaMA+singularity, top of the day | Tries OAuth (if `REDDIT_CLIENT_ID`/`REDDIT_CLIENT_SECRET` are set), then public `top.json`, then the `.rss` feed; only the RSS fallback lacks vote counts |
 | Hacker News | Algolia search, queries "AI" and "LLM", >50 points, last 7 days | Deduped across queries |
 | arXiv | cs.AI + cs.LG, newest submissions | Atom XML parsed with rss-parser |
 | Blogs | OpenAI, Anthropic, Google DeepMind, Meta AI, Hugging Face | Anthropic publishes no official RSS; uses the community mirror from [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) (rebuilt daily). Meta retired its ai.meta.com feed; uses the official Meta Engineering AI Research feed |

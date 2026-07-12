@@ -1,0 +1,30 @@
+name: reddit-snapshot
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm ci
+      - name: Fetch Reddit snapshot
+        run: node scripts/snapshot-reddit.ts /tmp/reddit-snapshot.json
+      - name: Commit to data branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          (git fetch origin data:data && git checkout data) || git checkout -b data
+          mkdir -p data
+          cp /tmp/reddit-snapshot.json data/reddit-snapshot.json
+          git add data/reddit-snapshot.json
+          git commit -m "reddit snapshot $(date -u +%FT%TZ)" || exit 0
+          git push origin data

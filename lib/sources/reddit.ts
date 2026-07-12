@@ -105,6 +105,28 @@ async function fromRss(): Promise<NewsItem[]> {
   }));
 }
 
+// Last resort: the snapshot a scheduled GitHub Action commits to this
+// repo's data branch every 30 minutes (GitHub's runners can reach Reddit's
+// RSS; Vercel's IPs cannot). Uses the API contents endpoint so a GITHUB_TOKEN
+// works for private repos; for public repos it works unauthenticated.
+const SNAPSHOT_URL =
+  "https://api.github.com/repos/artvandelay1/ai-pulse/contents/data/reddit-snapshot.json?ref=data";
+const SNAPSHOT_MAX_AGE_MS = 3 * 3600_000;
+
+async function fromSnapshot(): Promise<NewsItem[]> {
+  const res = await fetchWithTimeout(SNAPSHOT_URL, {
+    headers: {
+      Accept: "application/vnd.github.raw+json",
+      "User-Agent": USER_AGENT,
+      ...(process.env.GITHUB_TOKEN ? { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {}),
+    },
+  });
+  if (!res.ok) throw new Error(`snapshot fetch responded ${res.status}`);
+  const { fetchedAt, result } = (await res.json()) as { fetchedAt: string; result: SourceResult };
+  if (Date.now() - Date.parse(fetchedAt) > SNAPSHOT_MAX_AGE_MS) throw new Error("snapshot too old");
+  return result.items;
+}
+
 async function fromOauth(): Promise<NewsItem[]> {
   const token = await getAppToken();
   if (!token) throw new Error("no Reddit credentials configured");
@@ -118,7 +140,12 @@ export async function fetchReddit(): Promise<SourceResult> {
   try {
     const items = await fromOauth()
       .catch(() => fromJson())
-      .catch(() => fromRss());
+      .catch(() => fromRss())
+      .catch((err) =>
+        fromSnapshot().catch(() => {
+          throw err; // snapshot failed too; report the direct-fetch error
+        })
+      );
     return { ...base, ok: true, items: items.filter((item) => item.url) };
   } catch (err) {
     return { ...base, ok: false, error: errorMessage(err), items: [] };

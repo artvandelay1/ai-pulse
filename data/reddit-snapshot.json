@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-07-12T21:26:06.610Z",
+  "fetchedAt": "2026-07-12T22:27:48.334Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-12T12:32:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cy6kekuamsch1.jpg?width=140&height=70&auto=webp&s=73676a2130325bec57d5a5677698a48d658477e2"
+      },
+      {
+        "rank": 2,
+        "title": "NeurIPS 2026 Workshop Proposal Decisions [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uuhzzc/neurips_2026_workshop_proposal_decisions_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-12T15:08:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-12T17:58:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Context and average best linear mappings [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uu2p63/context_and_average_best_linear_mappings_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-12T02:18:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Where to publish a construction BIM Benchmark? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-12T13:36:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Just leaving this here for someone to see it and fix things",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T15:41:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/43tsda90ktch1.jpeg?width=640&crop=smart&auto=webp&s=09ba51b56b06874b0929477285cb2bc51e6c4941"
+      },
+      {
+        "rank": 2,
+        "title": "GPT 5.6 Sol XHigh is REALLY Good",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uuk0ut/gpt_56_sol_xhigh_is_really_good/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T16:24:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "This Professor Caught The Majority Of His Students Cheating With ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uulyci/this_professor_caught_the_majority_of_his/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T17:35:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/J7-SqLUsYHbAdDk_AAKJEmrCHxpItEzAIt4vDv5v6b4.jpeg?width=640&crop=smart&auto=webp&s=83e951a4b835ecb9e8bb191d11765742b4ddcd6f"
+      },
+      {
+        "rank": 4,
+        "title": "One Codex task used over 70% of my 5-hour limit in about 20 minutes — is this normal?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uu2gc5/one_codex_task_used_over_70_of_my_5hour_limit_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T02:06:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/grgv92q9ipch1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=15019210430f4214117e60c174bbbb7a291a92e8"
+      },
+      {
+        "rank": 5,
+        "title": "One weird trick to getting government money",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uun47l/one_weird_trick_to_getting_government_money/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T18:18:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lojsdpkybuch1.png?width=320&crop=smart&auto=webp&s=c2a0164abb50b199bc5564ee199cfd43e63f0dbc"
+      },
+      {
+        "rank": 1,
+        "title": "The worst people are fighting",
+        "url": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-12T07:41:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d"
+      },
+      {
+        "rank": 2,
+        "title": "usage limit reset and massively, 5H limits removed entirely. Your move Anthropic",
+        "url": "https://www.reddit.com/r/singularity/comments/1uuprtu/usage_limit_reset_and_massively_5h_limits_removed/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-12T19:57:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/foa1ydxjtuch1.png?width=640&crop=smart&auto=webp&s=97572f3d56aca468a21bcc5ab190306d73327e6d"
+      },
+      {
+        "rank": 3,
+        "title": "Lidl owner wants to build one of several artificial intelligence “gigafactories” planned by the EU",
+        "url": "https://www.reddit.com/r/singularity/comments/1uu997q/lidl_owner_wants_to_build_one_of_several/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-12T08:02:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT Live is so impressive",
+        "url": "https://www.reddit.com/r/singularity/comments/1uuhdpq/chatgpt_live_is_so_impressive/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-12T14:43:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Why has progress on Deep Research products stalled?",
+        "url": "https://www.reddit.com/r/singularity/comments/1uujyic/why_has_progress_on_deep_research_products_stalled/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-12T16:22:07.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Access has been extended!",
@@ -56,52 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-12T12:32:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cy6kekuamsch1.jpg?width=140&height=70&auto=webp&s=73676a2130325bec57d5a5677698a48d658477e2"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS 2026 Workshop Proposal Decisions [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uuhzzc/neurips_2026_workshop_proposal_decisions_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-12T15:08:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:58:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Context and average best linear mappings [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uu2p63/context_and_average_best_linear_mappings_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-12T02:18:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Where to publish a construction BIM Benchmark? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-12T13:36:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "We made the right company famous",
         "url": "https://www.reddit.com/r/codex/comments/1uumqoa/we_made_the_right_company_famous/",
         "source": "r/codex",
@@ -147,102 +243,6 @@
         "publishedAt": "2026-07-12T11:07:59.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/vve1ejq77sch1.jpeg?width=640&crop=smart&auto=webp&s=8fd8a3b0cfb3a00a3e8c294841dab153f0281b17"
-      },
-      {
-        "rank": 1,
-        "title": "Just leaving this here for someone to see it and fix things",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T15:41:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/43tsda90ktch1.jpeg?width=640&crop=smart&auto=webp&s=09ba51b56b06874b0929477285cb2bc51e6c4941"
-      },
-      {
-        "rank": 2,
-        "title": "GPT 5.6 Sol XHigh is REALLY Good",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uuk0ut/gpt_56_sol_xhigh_is_really_good/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T16:24:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "One Codex task used over 70% of my 5-hour limit in about 20 minutes — is this normal?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uu2gc5/one_codex_task_used_over_70_of_my_5hour_limit_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T02:06:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/grgv92q9ipch1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=15019210430f4214117e60c174bbbb7a291a92e8"
-      },
-      {
-        "rank": 4,
-        "title": "The new 5.6 models are great, but the pricing policy is not",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1utvic5/the_new_56_models_are_great_but_the_pricing/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-11T20:57:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "5.4's been with me through this whole gardening season",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uufg9u/54s_been_with_me_through_this_whole_gardening/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T13:25:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lpzh7nnrvsch1.png?width=640&crop=smart&auto=webp&s=c02a5318a5fc258d75aef3f0641e40323282cd05"
-      },
-      {
-        "rank": 1,
-        "title": "The worst people are fighting",
-        "url": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T07:41:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d"
-      },
-      {
-        "rank": 2,
-        "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable",
-        "url": "https://www.reddit.com/r/singularity/comments/1utwxb9/while_musks_neuralink_drills_into_skulls_chinas/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-11T21:58:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/8anA9MfLB7Xw1qPhCOcDGX0j0sTWwtqPQcBcegE9qqQ.jpeg?width=640&crop=smart&auto=webp&s=8b1ed74fcfc32bf020b9056963a52a02bb508604"
-      },
-      {
-        "rank": 3,
-        "title": "Lidl owner wants to build one of several artificial intelligence “gigafactories” planned by the EU",
-        "url": "https://www.reddit.com/r/singularity/comments/1uu997q/lidl_owner_wants_to_build_one_of_several/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T08:02:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ChatGPT Live is so impressive",
-        "url": "https://www.reddit.com/r/singularity/comments/1uuhdpq/chatgpt_live_is_so_impressive/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T14:43:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "SpaceXAI created a memecoin to parody Sam Altman",
-        "url": "https://www.reddit.com/r/singularity/comments/1uumgyo/spacexai_created_a_memecoin_to_parody_sam_altman/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:54:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tbjqmlbn7uch1.png?width=640&crop=smart&auto=webp&s=6dff66ec75c2cbdbe4e9ee8954575a3c5d2bd658"
       }
     ]
   }

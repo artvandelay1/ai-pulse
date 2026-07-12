@@ -60,6 +60,7 @@ function Card({ item, now }: { item: NewsItem; now: number | null }) {
             {item.source}
           </span>
           {item.score > 0 && <span>&#9650; {item.score.toLocaleString()}</span>}
+          {item.score === 0 && item.rank !== undefined && <span>#{item.rank} today</span>}
           {now !== null && <span>{timeAgo(item.publishedAt, now)}</span>}
         </div>
       </div>

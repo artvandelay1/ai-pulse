@@ -11,6 +11,8 @@ export interface NewsItem {
   category: Category;
   /** Absolute image URL, if the source provides one or og:image scraping found one */
   thumbnail?: string;
+  /** 1-based position in the source's own "top" ordering; shown when no score is available */
+  rank?: number;
 }
 
 export interface SourceResult {

@@ -82,7 +82,10 @@ async function fromRss(): Promise<NewsItem[]> {
   const feed = await new Parser<object, { thumb?: { $?: { url?: string } } }>({
     customFields: { item: [["media:thumbnail", "thumb"]] },
   }).parseString(await res.text());
-  return feed.items.slice(0, 15).map((item) => ({
+  // The feed carries no vote counts, but it is ordered top-of-day, so keep
+  // the rank as an honest popularity signal.
+  return feed.items.slice(0, 15).map((item, index) => ({
+    rank: index + 1,
     title: item.title ?? "(untitled)",
     url: item.link ?? "",
     source: item.link?.match(/\/r\/([^/]+)\//)?.[1] ? `r/${item.link.match(/\/r\/([^/]+)\//)![1]}` : "Reddit",

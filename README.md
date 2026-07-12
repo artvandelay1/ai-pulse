@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Pulse ⚡
 
-## Getting Started
+A single-page AI news aggregator. Pulls trending AI content from Reddit, Hacker News, arXiv, company blogs, and GitHub into one clean feed — headlines, links, source badges, and scores. No database, no auth, no AI summaries.
 
-First, run the development server:
+Built with Next.js 15 (App Router, TypeScript, Tailwind CSS). All fetching happens server-side with ISR: the page is statically served and refreshed at most every 30 minutes.
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000. To test the live fetchers without the UI:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+node scripts/sample.ts all        # or: hackernews | reddit | arxiv | blogs | github
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Deploy to Vercel
 
-## Learn More
+1. Push this repo to GitHub.
+2. In Vercel: **Add New Project** → import the repo → **Deploy**. Zero config needed; Vercel detects Next.js automatically.
 
-To learn more about Next.js, take a look at the following resources:
+Optional: set a `GITHUB_TOKEN` environment variable in Vercel to raise the GitHub API rate limit (unauthenticated is fine at the default refresh rate).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Adjust the refresh interval
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Change `revalidate` in [app/page.tsx](app/page.tsx) (seconds; default `1800` = 30 minutes).
 
-## Deploy on Vercel
+## Add or remove sources
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Each source is one file in [lib/sources/](lib/sources/) returning a `SourceResult` (see [lib/types.ts](lib/types.ts)). To add one: create a fetcher that returns normalized `{ title, url, source, score, publishedAt, category }` items, wrap it in try/catch so a dead source renders as a small "unavailable" note instead of breaking the page, and register it in [lib/sources/index.ts](lib/sources/index.ts). To change the company blogs, edit the `FEEDS` list in [lib/sources/blogs.ts](lib/sources/blogs.ts).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Test any fetcher live with `node scripts/sample.ts <name>`.
+
+## Source notes (verified 2026-07-12)
+
+| Source | Endpoint | Notes |
+| --- | --- | --- |
+| Reddit | `top.json` for r/artificial+MachineLearning+LocalLLaMA+singularity | Falls back to the `.rss` feed when Reddit 403s the JSON endpoint (common from datacenter IPs); RSS items carry no vote counts, so their score shows as none |
+| Hacker News | Algolia search, queries "AI" and "LLM", >50 points, last 7 days | Deduped across queries |
+| arXiv | cs.AI + cs.LG, newest submissions | Atom XML parsed with rss-parser |
+| Blogs | OpenAI, Anthropic, Google DeepMind, Meta AI, Hugging Face | Anthropic publishes no official RSS; uses the community mirror from [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) (rebuilt daily). Meta retired its ai.meta.com feed; uses the official Meta Engineering AI Research feed |
+| GitHub | Repo search: topics `ai` / `llm`, created in the last 7 days, by stars | Two queries merged (search API has no OR across topics) |
+
+Every source is fetched in parallel with `Promise.allSettled`; one dead source never breaks the page.

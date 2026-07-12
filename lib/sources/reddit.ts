@@ -88,9 +88,14 @@ async function fromRss(): Promise<NewsItem[]> {
     ...NEXT_CACHE,
   });
   if (!res.ok) throw new Error(`Reddit RSS responded ${res.status}`);
+  return parseRedditRss(await res.text());
+}
+
+/** Exported for scripts/snapshot-reddit.ts, which fetches the XML via curl. */
+export async function parseRedditRss(xml: string): Promise<NewsItem[]> {
   const feed = await new Parser<object, { thumb?: { $?: { url?: string } } }>({
     customFields: { item: [["media:thumbnail", "thumb"]] },
-  }).parseString(await res.text());
+  }).parseString(xml);
   // The feed carries no vote counts, but it is ordered top-of-day, so keep
   // the rank as an honest popularity signal.
   return feed.items.slice(0, 15).map((item, index) => ({

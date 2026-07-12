@@ -10,8 +10,8 @@ const NEXT_CACHE = { next: { revalidate: 1800 } } as RequestInit;
 // Single source of truth for the subreddit list; the snapshot workflow
 // derives its curl URL from the RSS_URL export.
 export const SUBREDDITS = "artificial+MachineLearning+singularity+ClaudeAI+OpenAI+codex";
-const JSON_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.json?t=day&limit=15`;
-export const RSS_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.rss?t=day&limit=15`;
+const JSON_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.json?t=day&limit=25`;
+export const RSS_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.rss?t=day&limit=25`;
 const USER_AGENT = "web:ai-pulse:v1.0 (news aggregator)";
 
 interface RedditPost {
@@ -100,7 +100,7 @@ export async function parseRedditRss(xml: string): Promise<NewsItem[]> {
   }).parseString(xml);
   // The feed carries no vote counts, but it is ordered top-of-day, so keep
   // the rank as an honest popularity signal.
-  return feed.items.slice(0, 15).map((item, index) => ({
+  return feed.items.slice(0, 25).map((item, index) => ({
     rank: index + 1,
     title: item.title ?? "(untitled)",
     url: item.link ?? "",
@@ -137,7 +137,7 @@ async function fromSnapshot(): Promise<NewsItem[]> {
 async function fromOauth(): Promise<NewsItem[]> {
   const token = await getAppToken();
   if (!token) throw new Error("no Reddit credentials configured");
-  return fromJson(`https://oauth.reddit.com/r/${SUBREDDITS}/top?t=day&limit=15`, {
+  return fromJson(`https://oauth.reddit.com/r/${SUBREDDITS}/top?t=day&limit=25`, {
     Authorization: `Bearer ${token}`,
   });
 }

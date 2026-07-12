@@ -8,11 +8,36 @@ import { errorMessage, fetchWithRetry, fetchWithTimeout } from "../util.ts";
 const NEXT_CACHE = { next: { revalidate: 1800 } } as RequestInit;
 
 // Single source of truth for the subreddit list; the snapshot workflow
-// derives its curl URL from the RSS_URL export.
-export const SUBREDDITS = "artificial+MachineLearning+singularity+ClaudeAI+OpenAI+codex";
-const JSON_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.json?t=day&limit=25`;
-export const RSS_URL = `https://www.reddit.com/r/${SUBREDDITS}/top.rss?t=day&limit=25`;
+// derives its curl URLs from these exports. Each subreddit contributes its
+// own top-of-day posts so big subs can't crowd out quiet ones.
+export const SUBREDDIT_LIST = ["artificial", "MachineLearning", "singularity", "ClaudeAI", "OpenAI", "codex"];
+export const PER_SUB_LIMIT = 5;
+export const rssUrlFor = (sub: string) =>
+  `https://www.reddit.com/r/${sub}/top.rss?t=day&limit=${PER_SUB_LIMIT}`;
+const jsonUrlFor = (sub: string) =>
+  `https://www.reddit.com/r/${sub}/top.json?t=day&limit=${PER_SUB_LIMIT}`;
+const oauthUrlFor = (sub: string) =>
+  `https://oauth.reddit.com/r/${sub}/top?t=day&limit=${PER_SUB_LIMIT}`;
 const USER_AGENT = "web:ai-pulse:v1.0 (news aggregator)";
+
+/**
+ * Fetch each subreddit in turn (parallel requests trip Reddit's per-IP
+ * rate limit), tolerating partial failures.
+ */
+async function collect(fetchSub: (sub: string) => Promise<NewsItem[]>): Promise<NewsItem[]> {
+  const items: NewsItem[] = [];
+  let firstError: unknown;
+  for (const [i, sub] of SUBREDDIT_LIST.entries()) {
+    if (i > 0) await new Promise((resolve) => setTimeout(resolve, 1000));
+    try {
+      items.push(...(await fetchSub(sub)));
+    } catch (err) {
+      firstError ??= err;
+    }
+  }
+  if (items.length === 0) throw firstError ?? new Error("all subreddits returned nothing");
+  return items;
+}
 
 interface RedditPost {
   data: {
@@ -62,35 +87,40 @@ async function getAppToken(): Promise<string | null> {
   return cachedToken.token;
 }
 
-async function fromJson(url = JSON_URL, headers: Record<string, string> = {}): Promise<NewsItem[]> {
-  const res = await fetchWithRetry(url, {
-    headers: { "User-Agent": USER_AGENT, Accept: "application/json", ...headers },
-    ...(headers.Authorization ? {} : NEXT_CACHE),
+async function fromJson(urlFor = jsonUrlFor, headers: Record<string, string> = {}): Promise<NewsItem[]> {
+  return collect(async (sub) => {
+    const res = await fetchWithRetry(urlFor(sub), {
+      headers: { "User-Agent": USER_AGENT, Accept: "application/json", ...headers },
+      ...(headers.Authorization ? {} : NEXT_CACHE),
+    });
+    if (!res.ok) throw new Error(`Reddit JSON responded ${res.status}`);
+    const data = (await res.json()) as { data: { children: RedditPost[] } };
+    return data.data.children.map(({ data: post }, index) => ({
+      rank: index + 1,
+      title: post.title,
+      // Link posts go to the linked content, self posts to the discussion.
+      url: post.is_self || !post.url ? `https://www.reddit.com${post.permalink}` : post.url,
+      source: `r/${post.subreddit}`,
+      score: post.score ?? 0,
+      publishedAt: new Date(post.created_utc * 1000).toISOString(),
+      category: "reddit" as const,
+      thumbnail: postThumbnail(post),
+    }));
   });
-  if (!res.ok) throw new Error(`Reddit JSON responded ${res.status}`);
-  const data = (await res.json()) as { data: { children: RedditPost[] } };
-  return data.data.children.map(({ data: post }) => ({
-    title: post.title,
-    // Link posts go to the linked content, self posts to the discussion.
-    url: post.is_self || !post.url ? `https://www.reddit.com${post.permalink}` : post.url,
-    source: `r/${post.subreddit}`,
-    score: post.score ?? 0,
-    publishedAt: new Date(post.created_utc * 1000).toISOString(),
-    category: "reddit" as const,
-    thumbnail: postThumbnail(post),
-  }));
 }
 
 // Reddit 403s the .json endpoints from some networks (notably datacenter IPs)
 // while still serving the .rss feed; fall back to it. RSS carries no vote
 // counts, so those items get score 0.
 async function fromRss(): Promise<NewsItem[]> {
-  const res = await fetchWithRetry(RSS_URL, {
-    headers: { "User-Agent": USER_AGENT },
-    ...NEXT_CACHE,
+  return collect(async (sub) => {
+    const res = await fetchWithRetry(rssUrlFor(sub), {
+      headers: { "User-Agent": USER_AGENT },
+      ...NEXT_CACHE,
+    });
+    if (!res.ok) throw new Error(`Reddit RSS responded ${res.status}`);
+    return parseRedditRss(await res.text());
   });
-  if (!res.ok) throw new Error(`Reddit RSS responded ${res.status}`);
-  return parseRedditRss(await res.text());
 }
 
 /** Exported for scripts/snapshot-reddit.ts, which fetches the XML via curl. */
@@ -99,8 +129,8 @@ export async function parseRedditRss(xml: string): Promise<NewsItem[]> {
     customFields: { item: [["media:thumbnail", "thumb"]] },
   }).parseString(xml);
   // The feed carries no vote counts, but it is ordered top-of-day, so keep
-  // the rank as an honest popularity signal.
-  return feed.items.slice(0, 25).map((item, index) => ({
+  // the rank (within its subreddit) as an honest popularity signal.
+  return feed.items.slice(0, PER_SUB_LIMIT).map((item, index) => ({
     rank: index + 1,
     title: item.title ?? "(untitled)",
     url: item.link ?? "",
@@ -137,9 +167,7 @@ async function fromSnapshot(): Promise<NewsItem[]> {
 async function fromOauth(): Promise<NewsItem[]> {
   const token = await getAppToken();
   if (!token) throw new Error("no Reddit credentials configured");
-  return fromJson(`https://oauth.reddit.com/r/${SUBREDDITS}/top?t=day&limit=25`, {
-    Authorization: `Bearer ${token}`,
-  });
+  return fromJson(oauthUrlFor, { Authorization: `Bearer ${token}` });
 }
 
 export async function fetchReddit(): Promise<SourceResult> {

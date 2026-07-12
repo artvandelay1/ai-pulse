@@ -16,17 +16,25 @@ jobs:
         with:
           node-version: 24
       - run: npm ci
-      - name: Fetch Reddit RSS via curl
+      - name: Fetch per-subreddit RSS via curl
         # Reddit's WAF 403s Node fetch from datacenter IPs but tolerates curl.
-        # The URL comes from lib/sources/reddit.ts so the subreddit list has
-        # a single source of truth.
+        # Subreddit list and URLs come from lib/sources/reddit.ts so they have
+        # a single source of truth. One failed subreddit doesn't fail the run;
+        # the snapshot script errors only if every feed came back empty.
         run: |
-          URL=$(node --input-type=module -e "console.log((await import('./lib/sources/reddit.ts')).RSS_URL)")
-          curl -sf --retry 3 --retry-delay 5 \
-            -A "web:ai-pulse:v1.0 (news aggregator)" \
-            "$URL" -o /tmp/reddit.xml
+          mkdir -p /tmp/rss
+          node --input-type=module -e "
+            const m = await import('./lib/sources/reddit.ts');
+            console.log(m.SUBREDDIT_LIST.map((s) => s + ' ' + m.rssUrlFor(s)).join('\n'));
+          " > /tmp/subs.txt
+          while read -r sub url; do
+            curl -sf --retry 3 --retry-delay 5 \
+              -A "web:ai-pulse:v1.0 (news aggregator)" \
+              "$url" -o "/tmp/rss/$sub.xml" || echo "WARN: $sub failed"
+            sleep 2
+          done < /tmp/subs.txt
       - name: Build snapshot JSON
-        run: node scripts/snapshot-reddit.ts /tmp/reddit-snapshot.json /tmp/reddit.xml
+        run: node scripts/snapshot-reddit.ts /tmp/reddit-snapshot.json /tmp/rss
       - name: Commit to data branch
         run: |
           git config user.name "github-actions[bot]"

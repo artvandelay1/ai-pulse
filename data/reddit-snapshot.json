@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-12T19:12:45.641Z",
+  "fetchedAt": "2026-07-12T20:24:05.699Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Access has been extended!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uul693/access_has_been_extended/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T17:07:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x734p3kcztch1.jpeg?width=640&crop=smart&auto=webp&s=c7bacca81cb2cf0b1cf5ed63c7139b4dc249c504"
+      },
+      {
+        "rank": 2,
+        "title": "Why the majority of vibe coded projects fail",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu17ll/why_the_majority_of_vibe_coded_projects_fail/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T01:06:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/5dKus27HVklBRLIgFeobG8YDm857syjNOhfsHLLvs4A.jpeg?width=640&crop=smart&auto=webp&s=fec9ae9fafcaee8f7ae200b17a0aa7ba569461a2"
+      },
+      {
+        "rank": 3,
+        "title": "Is Anthropic shooting themselves in the foot by pulling Fab 5 from subscriptions tonight?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu9egf/is_anthropic_shooting_themselves_in_the_foot_by/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T08:11:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w8wa19npbrch1.png?width=640&crop=smart&auto=webp&s=722167b6c14004c2ee34e1a34da5396e688c8599"
+      },
+      {
+        "rank": 4,
+        "title": "I'm paying $200/month, and after tomorrow, I can't access Anthropic's best model with my sub?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uudibj/im_paying_200month_and_after_tomorrow_i_cant/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T11:58:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Day 43 of building GTA 6 using claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uub12j/day_43_of_building_gta_6_using_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T09:47:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Y2ZyNzkyNHBzcmNoMeuc-_eH8aPLlQMAyD1Y22p3MfcmBvXC0NSvvGD7o30k.png?width=640&crop=smart&auto=webp&s=157f1bc6a5b62db0f477db9c8fea25df982c37a7"
+      },
       {
         "rank": 1,
         "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
@@ -49,6 +98,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-12T13:36:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "We made the right company famous",
+        "url": "https://www.reddit.com/r/codex/comments/1uumqoa/we_made_the_right_company_famous/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-12T18:04:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/u2ncljaj9uch1.png?width=640&crop=smart&auto=webp&s=750c186c0a48ea5c4823ea524c9c5a263e2e45cd"
+      },
+      {
+        "rank": 2,
+        "title": "Sol Medium as a main driver - Tibo's recommendations",
+        "url": "https://www.reddit.com/r/codex/comments/1utuzrr/sol_medium_as_a_main_driver_tibos_recommendations/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-11T20:37:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oxs6igcuvnch1.jpeg?width=640&crop=smart&auto=webp&s=ce0b8ffc697f8c208fa42dd00bd9e561280d2676"
+      },
+      {
+        "rank": 3,
+        "title": "Note to OpenAI: your users don't have unlimited usage like your employees do. Stop treating us as an unofficial beta program.",
+        "url": "https://www.reddit.com/r/codex/comments/1utx46o/note_to_openai_your_users_dont_have_unlimited/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-11T22:06:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "It would be great to have presets in the Codex app",
+        "url": "https://www.reddit.com/r/codex/comments/1utw4wh/it_would_be_great_to_have_presets_in_the_codex_app/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-11T21:23:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6fb2act93och1.png?width=640&crop=smart&auto=webp&s=2252774ffd77aaed10c5e763018aa6c38b4823a3"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-5.6 Sol vs Terra vs Luna: my early guide to choosing the right model without burning your limits",
+        "url": "https://www.reddit.com/r/codex/comments/1utzi5w/gpt56_sol_vs_terra_vs_luna_my_early_guide_to/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-11T23:52:00.000Z",
         "category": "reddit"
       },
       {
@@ -146,102 +243,6 @@
         "publishedAt": "2026-07-12T17:54:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tbjqmlbn7uch1.png?width=640&crop=smart&auto=webp&s=6dff66ec75c2cbdbe4e9ee8954575a3c5d2bd658"
-      },
-      {
-        "rank": 1,
-        "title": "Access has been extended!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uul693/access_has_been_extended/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:07:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x734p3kcztch1.jpeg?width=640&crop=smart&auto=webp&s=c7bacca81cb2cf0b1cf5ed63c7139b4dc249c504"
-      },
-      {
-        "rank": 2,
-        "title": "Why the majority of vibe coded projects fail",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu17ll/why_the_majority_of_vibe_coded_projects_fail/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T01:06:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/5dKus27HVklBRLIgFeobG8YDm857syjNOhfsHLLvs4A.jpeg?width=640&crop=smart&auto=webp&s=fec9ae9fafcaee8f7ae200b17a0aa7ba569461a2"
-      },
-      {
-        "rank": 3,
-        "title": "Is Anthropic shooting themselves in the foot by pulling Fab 5 from subscriptions tonight?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu9egf/is_anthropic_shooting_themselves_in_the_foot_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T08:11:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w8wa19npbrch1.png?width=640&crop=smart&auto=webp&s=722167b6c14004c2ee34e1a34da5396e688c8599"
-      },
-      {
-        "rank": 4,
-        "title": "I'm paying $200/month, and after tomorrow, I can't access Anthropic's best model with my sub?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uudibj/im_paying_200month_and_after_tomorrow_i_cant/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T11:58:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude Code turned off my WiFi to “test something”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uts1ra/claude_code_turned_off_my_wifi_to_test_something/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-11T18:40:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Sol Medium as a main driver - Tibo's recommendations",
-        "url": "https://www.reddit.com/r/codex/comments/1utuzrr/sol_medium_as_a_main_driver_tibos_recommendations/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-11T20:37:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oxs6igcuvnch1.jpeg?width=640&crop=smart&auto=webp&s=ce0b8ffc697f8c208fa42dd00bd9e561280d2676"
-      },
-      {
-        "rank": 2,
-        "title": "Note to OpenAI: your users don't have unlimited usage like your employees do. Stop treating us as an unofficial beta program.",
-        "url": "https://www.reddit.com/r/codex/comments/1utx46o/note_to_openai_your_users_dont_have_unlimited/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-11T22:06:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "We made the right company famous",
-        "url": "https://www.reddit.com/r/codex/comments/1uumqoa/we_made_the_right_company_famous/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-12T18:04:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u2ncljaj9uch1.png?width=640&crop=smart&auto=webp&s=750c186c0a48ea5c4823ea524c9c5a263e2e45cd"
-      },
-      {
-        "rank": 4,
-        "title": "It would be great to have presets in the Codex app",
-        "url": "https://www.reddit.com/r/codex/comments/1utw4wh/it_would_be_great_to_have_presets_in_the_codex_app/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-11T21:23:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6fb2act93och1.png?width=640&crop=smart&auto=webp&s=2252774ffd77aaed10c5e763018aa6c38b4823a3"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-5.6 Sol vs Terra vs Luna: my early guide to choosing the right model without burning your limits",
-        "url": "https://www.reddit.com/r/codex/comments/1utzi5w/gpt56_sol_vs_terra_vs_luna_my_early_guide_to/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-11T23:52:00.000Z",
-        "category": "reddit"
       }
     ]
   }

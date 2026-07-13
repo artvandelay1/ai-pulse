@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-07-13T22:02:43.907Z",
+  "fetchedAt": "2026-07-13T23:29:11.464Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Visually appealing infographics",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv6xjy/visually_appealing_infographics/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T09:45:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sytxxxrexych1.jpeg?width=640&crop=smart&auto=webp&s=49a6032c6a9f31c1fc9615d3409bdd8064b35b6e"
+      },
+      {
+        "rank": 2,
+        "title": "Honest question: What are you building that you need fable 5 so badly?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv70kq/honest_question_what_are_you_building_that_you/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T09:50:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Needed real dedication to get this done on my Max 20x plan",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuzipe/needed_real_dedication_to_get_this_done_on_my_max/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T02:58:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/44o43cmowwch1.png?width=640&crop=smart&auto=webp&s=441f9887d592c0f0954b38c4b552c91ea77fcc4e"
+      },
+      {
+        "rank": 4,
+        "title": "Claude is really analyzing me!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv0u5l/claude_is_really_analyzing_me/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T04:02:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I put my Claude Code sessions on a calendar and now I can see exactly when my 5h windows reset so I stopped staying up for them",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv39ry/i_put_my_claude_code_sessions_on_a_calendar_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T06:12:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9gwrrpzqqxch1.png?width=640&crop=smart&auto=webp&s=989cd8e3eefe8f69273a62bbe9212cbc5b336516"
+      },
       {
         "rank": 1,
         "title": "Prompt-engineering paper accepted to ICML [R]",
@@ -25,15 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "What's your take on continual learning? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvm2p4/whats_your_take_on_continual_learning_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T19:47:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
         "source": "r/MachineLearning",
@@ -42,12 +81,69 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-13T13:59:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Doubt regarding TMLR[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T10:53:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Banked one for everyone",
+        "url": "https://www.reddit.com/r/codex/comments/1uvk1h5/banked_one_for_everyone/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T18:35:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/90pnbmqxj1dh1.jpeg?width=640&crop=smart&auto=webp&s=b35f1dc7fe91d7e1359023b2d99e7cee950ad5e0"
+      },
+      {
+        "rank": 2,
+        "title": "Codex 5.6 sol at Ultra used 100% of my weekly usage in 1h 32m",
+        "url": "https://www.reddit.com/r/codex/comments/1uv7ui6/codex_56_sol_at_ultra_used_100_of_my_weekly_usage/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T10:35:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3zohbj3x5zch1.png?width=216&crop=smart&auto=webp&s=c6a399d2059b0077126266a64d81a122779977b2"
+      },
+      {
+        "rank": 3,
+        "title": "nerfed Codex Sol MAX",
+        "url": "https://www.reddit.com/r/codex/comments/1uuy5eq/nerfed_codex_sol_max/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T01:52:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Inference optimizations have landed, resulting in 10% more usage on its own across all subscriptions, along with context size being temporarily reduced.",
+        "url": "https://www.reddit.com/r/codex/comments/1uuz4dg/inference_optimizations_have_landed_resulting_in/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T02:39:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/60773rs6twch1.png?width=640&crop=smart&auto=webp&s=c1da6ae511456260abf4dce63dd47d7a43f97543"
+      },
+      {
+        "rank": 5,
+        "title": "No 5h limits changes completely how much I can do with just 5x",
+        "url": "https://www.reddit.com/r/codex/comments/1uv253o/no_5h_limits_changes_completely_how_much_i_can_do/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T05:11:18.000Z",
         "category": "reddit"
       },
       {
@@ -149,104 +245,6 @@
         "publishedAt": "2026-07-13T10:19:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1w305p6i3zch1.jpeg?width=640&crop=smart&auto=webp&s=7e2e7ffaeb9bbc0f3546a076a198907d10c3a289"
-      },
-      {
-        "rank": 1,
-        "title": "fAiR pUsHbAcK",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuovs4/fair_pushback/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T19:23:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ojskoaj8nuch1.png?width=640&crop=smart&auto=webp&s=faf255ea4d5e48202b5ff0e8aa58b2901544c994"
-      },
-      {
-        "rank": 2,
-        "title": "Did not expext Fable 5 to be this good!✨",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuuhj8/did_not_expext_fable_5_to_be_this_good/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T23:07:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y2h1MzlmNHJxdmNoMTmk-Uh6TR_B4BgYGFfL9dR208odzInZklq0KWymZKhY.png?width=640&crop=smart&auto=webp&s=5cd2434f177403fd43e2a9c0095faefb4c5e18f3"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic just poached Google DeepMind's Nobel laureate and University of California, Berkeley's CS division chair in two weeks.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuscvt/anthropic_just_poached_google_deepminds_nobel/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T21:39:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s7ufvu7kbvch1.png?width=640&crop=smart&auto=webp&s=d5f2f38eb8b89cb25550eac8f7f336467abd74bc"
-      },
-      {
-        "rank": 4,
-        "title": "Honest question: What are you building that you need fable 5 so badly?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv70kq/honest_question_what_are_you_building_that_you/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T09:50:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Visually appealing infographics",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv6xjy/visually_appealing_infographics/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T09:45:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sytxxxrexych1.jpeg?width=640&crop=smart&auto=webp&s=49a6032c6a9f31c1fc9615d3409bdd8064b35b6e"
-      },
-      {
-        "rank": 1,
-        "title": "We made the right company famous",
-        "url": "https://www.reddit.com/r/codex/comments/1uumqoa/we_made_the_right_company_famous/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-12T18:04:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u2ncljaj9uch1.png?width=640&crop=smart&auto=webp&s=750c186c0a48ea5c4823ea524c9c5a263e2e45cd"
-      },
-      {
-        "rank": 2,
-        "title": "Let's Gooooooo",
-        "url": "https://www.reddit.com/r/codex/comments/1uus5ow/lets_gooooooo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-12T21:30:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9dxf0wjbavch1.png?width=640&crop=smart&auto=webp&s=8c25f93c91d0a2fc452b9eb08365b2befaee088c"
-      },
-      {
-        "rank": 3,
-        "title": "They really dropped these back to back huh",
-        "url": "https://www.reddit.com/r/codex/comments/1uusbcp/they_really_dropped_these_back_to_back_huh/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-12T21:37:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kenhuzqfbvch1.png?width=640&crop=smart&auto=webp&s=a2f804cca107b87f1ad9cf76740970054e29b244"
-      },
-      {
-        "rank": 4,
-        "title": "Inference optimizations have landed, resulting in 10% more usage on its own across all subscriptions, along with context size being temporarily reduced.",
-        "url": "https://www.reddit.com/r/codex/comments/1uuz4dg/inference_optimizations_have_landed_resulting_in/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T02:39:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/60773rs6twch1.png?width=640&crop=smart&auto=webp&s=c1da6ae511456260abf4dce63dd47d7a43f97543"
-      },
-      {
-        "rank": 5,
-        "title": "nerfed Codex Sol MAX",
-        "url": "https://www.reddit.com/r/codex/comments/1uuy5eq/nerfed_codex_sol_max/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T01:52:33.000Z",
-        "category": "reddit"
       }
     ]
   }

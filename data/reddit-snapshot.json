@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T20:42:45.686Z",
+  "fetchedAt": "2026-07-13T22:02:43.907Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,15 @@
       },
       {
         "rank": 3,
+        "title": "What's your take on continual learning? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvm2p4/whats_your_take_on_continual_learning_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T19:47:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
         "source": "r/MachineLearning",
@@ -33,21 +42,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-13T13:59:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Doubt regarding TMLR[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T10:53:29.000Z",
         "category": "reddit"
       },
       {
@@ -62,6 +62,16 @@
       },
       {
         "rank": 2,
+        "title": "Apple vs OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uvlzj8/apple_vs_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T19:44:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eWsxa2tvYzd3MWRoMdd0q1SbZpIvW_LZ1bVji7adBHHbVFVvXrRioigF0p3E.png?width=640&crop=smart&auto=webp&s=161ebe006dd5537e2eba425245df5574180d1d55"
+      },
+      {
+        "rank": 3,
         "title": "[WARNING] Avoid using 5.6 Sol. It can get you banned for even the most harmless task. Used it once for a legitimate Excel task, got flagged for a “cybersecurity threat,” appeal was rejected within 2h.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uv3txe/warning_avoid_using_56_sol_it_can_get_you_banned/",
         "source": "r/OpenAI",
@@ -69,16 +79,6 @@
         "publishedAt": "2026-07-13T06:44:10.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/n86pl9qp0ych1.png?width=140&height=138&auto=webp&s=521359c168612c0ff136790ad31c848868c64102"
-      },
-      {
-        "rank": 3,
-        "title": "They really dropped these back to back huh",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uusa4a/they_really_dropped_these_back_to_back_huh/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T21:35:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uuu5yez4bvch1.png?width=640&crop=smart&auto=webp&s=84b71253ad807b570d9e3f57af054b040bf5ecfc"
       },
       {
         "rank": 4,

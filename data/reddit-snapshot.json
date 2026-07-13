@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T15:25:11.354Z",
+  "fetchedAt": "2026-07-13T17:33:13.414Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,26 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Access has been extended!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uul693/access_has_been_extended/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:07:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x734p3kcztch1.jpeg?width=640&crop=smart&auto=webp&s=c7bacca81cb2cf0b1cf5ed63c7139b4dc249c504"
-      },
-      {
-        "rank": 2,
-        "title": "Sussy usage",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uulu1c/sussy_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:31:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p635qsve3uch1.jpeg?width=640&crop=smart&auto=webp&s=4047e1fc123fb0b54519f81bbcf38ffdf5ed891b"
-      },
-      {
-        "rank": 3,
         "title": "fAiR pUsHbAcK",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuovs4/fair_pushback/",
         "source": "r/ClaudeAI",
@@ -36,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/ojskoaj8nuch1.png?width=640&crop=smart&auto=webp&s=faf255ea4d5e48202b5ff0e8aa58b2901544c994"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "Did not expext Fable 5 to be this good!✨",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuuhj8/did_not_expext_fable_5_to_be_this_good/",
         "source": "r/ClaudeAI",
@@ -46,7 +26,7 @@
         "thumbnail": "https://external-preview.redd.it/Y2h1MzlmNHJxdmNoMTmk-Uh6TR_B4BgYGFfL9dR208odzInZklq0KWymZKhY.png?width=640&crop=smart&auto=webp&s=5cd2434f177403fd43e2a9c0095faefb4c5e18f3"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "Anthropic just poached Google DeepMind's Nobel laureate and University of California, Berkeley's CS division chair in two weeks.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuscvt/anthropic_just_poached_google_deepminds_nobel/",
         "source": "r/ClaudeAI",
@@ -54,6 +34,25 @@
         "publishedAt": "2026-07-12T21:39:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/s7ufvu7kbvch1.png?width=640&crop=smart&auto=webp&s=d5f2f38eb8b89cb25550eac8f7f336467abd74bc"
+      },
+      {
+        "rank": 4,
+        "title": "Honest question: What are you building that you need fable 5 so badly?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv70kq/honest_question_what_are_you_building_that_you/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T09:50:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Visually appealing infographics",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uv6xjy/visually_appealing_infographics/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T09:45:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sytxxxrexych1.jpeg?width=640&crop=smart&auto=webp&s=49a6032c6a9f31c1fc9615d3409bdd8064b35b6e"
       },
       {
         "rank": 1,
@@ -66,20 +65,20 @@
       },
       {
         "rank": 2,
-        "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:58:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-13T08:27:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-12T17:58:18.000Z",
         "category": "reddit"
       },
       {
@@ -132,16 +131,6 @@
       },
       {
         "rank": 4,
-        "title": "Thank you tibo😭",
-        "url": "https://www.reddit.com/r/codex/comments/1uuodg7/thank_you_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-12T19:04:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5erkztlzjuch1.png?width=140&height=59&auto=webp&s=5645ff075528d3e9dd3618c49f2b1cb1f4307b4a"
-      },
-      {
-        "rank": 5,
         "title": "Inference optimizations have landed, resulting in 10% more usage on its own across all subscriptions, along with context size being temporarily reduced.",
         "url": "https://www.reddit.com/r/codex/comments/1uuz4dg/inference_optimizations_have_landed_resulting_in/",
         "source": "r/codex",
@@ -149,6 +138,15 @@
         "publishedAt": "2026-07-13T02:39:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/60773rs6twch1.png?width=640&crop=smart&auto=webp&s=c1da6ae511456260abf4dce63dd47d7a43f97543"
+      },
+      {
+        "rank": 5,
+        "title": "nerfed Codex Sol MAX",
+        "url": "https://www.reddit.com/r/codex/comments/1uuy5eq/nerfed_codex_sol_max/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T01:52:33.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

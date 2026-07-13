@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T05:03:43.234Z",
+  "fetchedAt": "2026-07-13T08:35:42.976Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "Prompt-engineering paper accepted to ICML [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T05:00:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
         "source": "r/MachineLearning",
@@ -16,7 +25,7 @@
         "thumbnail": "https://preview.redd.it/cy6kekuamsch1.jpg?width=140&height=70&auto=webp&s=73676a2130325bec57d5a5677698a48d658477e2"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
         "source": "r/MachineLearning",
@@ -25,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Where to publish a construction BIM Benchmark? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
         "source": "r/MachineLearning",
@@ -34,23 +43,13 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Look for a team to join ML/AI competition [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv0crm/look_for_a_team_to_join_mlai_competition_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T03:39:04.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
+        "title": "[ECCV 2026] Meaning of \"Authorized Delegate\" & Registration Advice [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv31uj/eccv_2026_meaning_of_authorized_delegate/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-12T11:38:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qe783f41csch1.png?width=640&crop=smart&auto=webp&s=1a5071286a10dd06d5aedc4ec40de6ad2a0a452a"
+        "publishedAt": "2026-07-13T06:00:50.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -84,6 +83,16 @@
       },
       {
         "rank": 4,
+        "title": "Even with the messy apps (I did not like that at all) I will never cancel ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uux36v/even_with_the_messy_apps_i_did_not_like_that_at/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T01:02:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jxkcvmf1cwch1.jpeg?width=640&crop=smart&auto=webp&s=3aca44aab25326c5dd1be35c7a95c4f03743c63a"
+      },
+      {
+        "rank": 5,
         "title": "GPT 5.6 Sol XHigh is REALLY Good",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uuk0ut/gpt_56_sol_xhigh_is_really_good/",
         "source": "r/OpenAI",
@@ -92,27 +101,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "This Professor Caught The Majority Of His Students Cheating With ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uulyci/this_professor_caught_the_majority_of_his/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:35:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/J7-SqLUsYHbAdDk_AAKJEmrCHxpItEzAIt4vDv5v6b4.jpeg?width=640&crop=smart&auto=webp&s=83e951a4b835ecb9e8bb191d11765742b4ddcd6f"
-      },
-      {
         "rank": 1,
-        "title": "The worst people are fighting",
-        "url": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T07:41:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d"
-      },
-      {
-        "rank": 2,
         "title": "usage limit reset and massively, 5H limits removed entirely. Your move Anthropic",
         "url": "https://www.reddit.com/r/singularity/comments/1uuprtu/usage_limit_reset_and_massively_5h_limits_removed/",
         "source": "r/singularity",
@@ -120,6 +109,16 @@
         "publishedAt": "2026-07-12T19:57:18.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/foa1ydxjtuch1.png?width=640&crop=smart&auto=webp&s=97572f3d56aca468a21bcc5ab190306d73327e6d"
+      },
+      {
+        "rank": 2,
+        "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
+        "url": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T06:12:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d"
       },
       {
         "rank": 3,
@@ -133,12 +132,13 @@
       },
       {
         "rank": 4,
-        "title": "Lidl owner wants to build one of several artificial intelligence “gigafactories” planned by the EU",
-        "url": "https://www.reddit.com/r/singularity/comments/1uu997q/lidl_owner_wants_to_build_one_of_several/",
+        "title": "Schrodinger's Fable",
+        "url": "https://www.reddit.com/r/singularity/comments/1uuy50w/schrodingers_fable/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-12T08:02:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-13T01:52:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cmRocDB5bXhrd2NoMfMPiIYYW6Pl29gOKxEAjOWzlk8WG7y9xoOYSS2vg_rf.png?width=320&crop=smart&auto=webp&s=ec57c1e156fd462a84692dfc20673b2f60760b35"
       },
       {
         "rank": 5,

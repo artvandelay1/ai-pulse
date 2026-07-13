@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T08:35:42.976Z",
+  "fetchedAt": "2026-07-13T12:11:44.043Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,20 +35,20 @@
       },
       {
         "rank": 4,
-        "title": "Where to publish a construction BIM Benchmark? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
+        "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-12T13:36:08.000Z",
+        "publishedAt": "2026-07-13T08:27:09.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "[ECCV 2026] Meaning of \"Authorized Delegate\" & Registration Advice [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv31uj/eccv_2026_meaning_of_authorized_delegate/",
+        "title": "Doubt regarding TMLR[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-13T06:00:50.000Z",
+        "publishedAt": "2026-07-13T10:53:29.000Z",
         "category": "reddit"
       },
       {
@@ -93,25 +93,16 @@
       },
       {
         "rank": 5,
-        "title": "GPT 5.6 Sol XHigh is REALLY Good",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uuk0ut/gpt_56_sol_xhigh_is_really_good/",
+        "title": "If you noticed that in Codex you no longer a see a 5-hour usage limit, that's not a bug.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uuqhmk/if_you_noticed_that_in_codex_you_no_longer_a_see/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-12T16:24:34.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-12T20:24:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2eyx13lfyuch1.png?width=140&height=90&auto=webp&s=a74d76bcf5dbbfa02dbf85c0225e9b5098bc40d7"
       },
       {
         "rank": 1,
-        "title": "usage limit reset and massively, 5H limits removed entirely. Your move Anthropic",
-        "url": "https://www.reddit.com/r/singularity/comments/1uuprtu/usage_limit_reset_and_massively_5h_limits_removed/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T19:57:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/foa1ydxjtuch1.png?width=640&crop=smart&auto=webp&s=97572f3d56aca468a21bcc5ab190306d73327e6d"
-      },
-      {
-        "rank": 2,
         "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
         "url": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
         "source": "r/singularity",
@@ -119,6 +110,16 @@
         "publishedAt": "2026-07-13T06:12:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d"
+      },
+      {
+        "rank": 2,
+        "title": "usage limit reset and massively, 5H limits removed entirely. Your move Anthropic",
+        "url": "https://www.reddit.com/r/singularity/comments/1uuprtu/usage_limit_reset_and_massively_5h_limits_removed/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-12T19:57:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/foa1ydxjtuch1.png?width=640&crop=smart&auto=webp&s=97572f3d56aca468a21bcc5ab190306d73327e6d"
       },
       {
         "rank": 3,

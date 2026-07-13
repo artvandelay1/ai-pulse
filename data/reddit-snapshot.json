@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T23:30:42.987Z",
+  "fetchedAt": "2026-07-13T01:10:42.690Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,20 +17,20 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS 2026 Workshop Proposal Decisions [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uuhzzc/neurips_2026_workshop_proposal_decisions_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-12T15:08:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-12T17:58:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Where to publish a construction BIM Benchmark? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-12T13:36:08.000Z",
         "category": "reddit"
       },
       {
@@ -44,12 +44,13 @@
       },
       {
         "rank": 5,
-        "title": "Where to publish a construction BIM Benchmark? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
+        "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-12T13:36:08.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-12T11:38:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qe783f41csch1.png?width=640&crop=smart&auto=webp&s=1a5071286a10dd06d5aedc4ec40de6ad2a0a452a"
       },
       {
         "rank": 1,
@@ -63,25 +64,6 @@
       },
       {
         "rank": 2,
-        "title": "GPT 5.6 Sol XHigh is REALLY Good",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uuk0ut/gpt_56_sol_xhigh_is_really_good/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T16:24:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "This Professor Caught The Majority Of His Students Cheating With ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uulyci/this_professor_caught_the_majority_of_his/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-12T17:35:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/J7-SqLUsYHbAdDk_AAKJEmrCHxpItEzAIt4vDv5v6b4.jpeg?width=640&crop=smart&auto=webp&s=83e951a4b835ecb9e8bb191d11765742b4ddcd6f"
-      },
-      {
-        "rank": 4,
         "title": "They really dropped these back to back huh",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uusa4a/they_really_dropped_these_back_to_back_huh/",
         "source": "r/OpenAI",
@@ -91,14 +73,33 @@
         "thumbnail": "https://preview.redd.it/uuu5yez4bvch1.png?width=640&crop=smart&auto=webp&s=84b71253ad807b570d9e3f57af054b040bf5ecfc"
       },
       {
-        "rank": 5,
-        "title": "One Codex task used over 70% of my 5-hour limit in about 20 minutes — is this normal?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uu2gc5/one_codex_task_used_over_70_of_my_5hour_limit_in/",
+        "rank": 3,
+        "title": "GPT 5.6 Sol XHigh is REALLY Good",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uuk0ut/gpt_56_sol_xhigh_is_really_good/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-12T02:06:18.000Z",
+        "publishedAt": "2026-07-12T16:24:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "This Professor Caught The Majority Of His Students Cheating With ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uulyci/this_professor_caught_the_majority_of_his/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T17:35:38.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/grgv92q9ipch1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=15019210430f4214117e60c174bbbb7a291a92e8"
+        "thumbnail": "https://external-preview.redd.it/J7-SqLUsYHbAdDk_AAKJEmrCHxpItEzAIt4vDv5v6b4.jpeg?width=640&crop=smart&auto=webp&s=83e951a4b835ecb9e8bb191d11765742b4ddcd6f"
+      },
+      {
+        "rank": 5,
+        "title": "One weird trick to getting government money",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uun47l/one_weird_trick_to_getting_government_money/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-12T18:18:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lojsdpkybuch1.png?width=320&crop=smart&auto=webp&s=c2a0164abb50b199bc5564ee199cfd43e63f0dbc"
       },
       {
         "rank": 1,
@@ -131,22 +132,22 @@
       },
       {
         "rank": 4,
+        "title": "I think the safeguards are too strict. They’re flagging basically anything",
+        "url": "https://www.reddit.com/r/singularity/comments/1uuuia3/i_think_the_safeguards_are_too_strict_theyre/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-12T23:08:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eu9al1aprvch1.jpeg?width=640&crop=smart&auto=webp&s=0277d86914f40a3d0bbfd272c6d6f7a91d041493"
+      },
+      {
+        "rank": 5,
         "title": "ChatGPT Live is so impressive",
         "url": "https://www.reddit.com/r/singularity/comments/1uuhdpq/chatgpt_live_is_so_impressive/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-07-12T14:43:50.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I am altering the deal. Pray I alter it further",
-        "url": "https://www.reddit.com/r/singularity/comments/1uurzz8/i_am_altering_the_deal_pray_i_alter_it_further/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T21:24:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rcaxopy59vch1.png?width=640&crop=smart&auto=webp&s=ee5dac1dfba81b387aa516104d22ba84071f38ca"
       },
       {
         "rank": 1,

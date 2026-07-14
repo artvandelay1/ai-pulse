@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T17:43:43.484Z",
+  "fetchedAt": "2026-07-14T19:27:10.334Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
-        "source": "r/MachineLearning",
+        "title": "Claude spent +15 EUR of a 2 EUR limit.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-13T17:50:49.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-14T07:53:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iepu4woeh5dh1.png?width=640&crop=smart&auto=webp&s=f3c854522b3c7dddae23dc3651f16e65e41d4467"
       },
       {
         "rank": 2,
+        "title": "Why can I only buy $1,000,000 worth of tokens?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T08:57:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k2i400tqt5dh1.png?width=640&crop=smart&auto=webp&s=2a4a497b761dbd74585a15c2e2e3dccb3ad1dc29"
+      },
+      {
+        "rank": 3,
+        "title": "When your toxic situationship tweets “available until July 19”",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T11:52:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a8t66slxo6dh1.jpeg?width=640&crop=smart&auto=webp&s=c8b78cd1ea05ef7bf3ea704853c25c788b58bf3a"
+      },
+      {
+        "rank": 4,
+        "title": "I was using Claude Cowork's cloud VMs (free, included in plan) completely wrong. It replaced most of my local workflow once I set them up properly.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvosli/i_was_using_claude_coworks_cloud_vms_free/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T21:25:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I don’t get the Fable coding craze at all",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T00:01:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
         "source": "r/MachineLearning",
@@ -25,7 +64,7 @@
         "thumbnail": "https://preview.redd.it/3uyvbtoa76dh1.png?width=140&height=61&auto=webp&s=523d3943b9adbcbbdaca03be35c5e073be075de9"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
         "source": "r/MachineLearning",
@@ -34,21 +73,78 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
+        "rank": 3,
+        "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-13T19:20:07.000Z",
+        "publishedAt": "2026-07-14T15:37:52.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "[N] AMA Reminder: Raffi Krikorian (CTO, Mozilla)",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uw2do8/n_ama_reminder_raffi_krikorian_cto_mozilla/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-14T08:08:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How many on-the-fly augmentations per image for a single-class segmentation mode [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvxt70/how_many_onthefly_augmentations_per_image_for_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-14T03:58:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "y'all heard the man another reset tmr",
+        "url": "https://www.reddit.com/r/codex/comments/1uw0hm2/yall_heard_the_man_another_reset_tmr/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T06:19:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uhi2fb0j15dh1.png?width=640&crop=smart&auto=webp&s=b46e16e3e85878d8524f7800f821b82dc5abc252"
+      },
+      {
+        "rank": 2,
+        "title": "SOL xhigh is a monster of overengineering",
+        "url": "https://www.reddit.com/r/codex/comments/1uvx9et/sol_xhigh_is_a_monster_of_overengineering/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T03:31:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/opbkonad74dh1.png?width=640&crop=smart&auto=webp&s=a135322fdb1888492639ad9701134b2a38fee9b4"
+      },
+      {
+        "rank": 3,
+        "title": "Simplify your Codex model choices",
+        "url": "https://www.reddit.com/r/codex/comments/1uw4zr9/simplify_your_codex_model_choices/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T10:38:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o32qtmjpb6dh1.png?width=640&crop=smart&auto=webp&s=0e62b286d57f5a1c6b386101f74d155e9ef63058"
+      },
+      {
+        "rank": 4,
+        "title": "If you used grok as a subagent for codex, your entire codebase (Including .env/secrets) has been sent to xAI - here's how to check that",
+        "url": "https://www.reddit.com/r/codex/comments/1uvo6la/if_you_used_grok_as_a_subagent_for_codex_your/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T21:02:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Limits reduced to a minimum, resets used as an anaesthetic",
+        "url": "https://www.reddit.com/r/codex/comments/1uvwql2/limits_reduced_to_a_minimum_resets_used_as_an/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T03:06:00.000Z",
         "category": "reddit"
       },
       {
@@ -149,102 +245,6 @@
         "publishedAt": "2026-07-14T15:31:43.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ajVhY3ZmNjNzN2RoMR6QccDEy8sTDBD88IWlKZO9678uQCNKkvFGczYWd60j.png?width=640&crop=smart&auto=webp&s=db8f502d035d301de778b43ee68ca4b05b2e8fb0"
-      },
-      {
-        "rank": 1,
-        "title": "Claude spent +15 EUR of a 2 EUR limit.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T07:53:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iepu4woeh5dh1.png?width=640&crop=smart&auto=webp&s=f3c854522b3c7dddae23dc3651f16e65e41d4467"
-      },
-      {
-        "rank": 2,
-        "title": "Why can I only buy $1,000,000 worth of tokens?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T08:57:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2i400tqt5dh1.png?width=640&crop=smart&auto=webp&s=2a4a497b761dbd74585a15c2e2e3dccb3ad1dc29"
-      },
-      {
-        "rank": 3,
-        "title": "I was using Claude Cowork's cloud VMs (free, included in plan) completely wrong. It replaced most of my local workflow once I set them up properly.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvosli/i_was_using_claude_coworks_cloud_vms_free/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T21:25:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I don’t get the Fable coding craze at all",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T00:01:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "When your toxic situationship tweets “available until July 19”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T11:52:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a8t66slxo6dh1.jpeg?width=640&crop=smart&auto=webp&s=c8b78cd1ea05ef7bf3ea704853c25c788b58bf3a"
-      },
-      {
-        "rank": 1,
-        "title": "Banked one for everyone",
-        "url": "https://www.reddit.com/r/codex/comments/1uvk1h5/banked_one_for_everyone/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T18:35:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/90pnbmqxj1dh1.jpeg?width=640&crop=smart&auto=webp&s=b35f1dc7fe91d7e1359023b2d99e7cee950ad5e0"
-      },
-      {
-        "rank": 2,
-        "title": "y'all heard the man another reset tmr",
-        "url": "https://www.reddit.com/r/codex/comments/1uw0hm2/yall_heard_the_man_another_reset_tmr/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T06:19:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uhi2fb0j15dh1.png?width=640&crop=smart&auto=webp&s=b46e16e3e85878d8524f7800f821b82dc5abc252"
-      },
-      {
-        "rank": 3,
-        "title": "SOL xhigh is a monster of overengineering",
-        "url": "https://www.reddit.com/r/codex/comments/1uvx9et/sol_xhigh_is_a_monster_of_overengineering/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T03:31:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/opbkonad74dh1.png?width=640&crop=smart&auto=webp&s=a135322fdb1888492639ad9701134b2a38fee9b4"
-      },
-      {
-        "rank": 4,
-        "title": "If you used grok as a subagent for codex, your entire codebase (Including .env/secrets) has been sent to xAI - here's how to check that",
-        "url": "https://www.reddit.com/r/codex/comments/1uvo6la/if_you_used_grok_as_a_subagent_for_codex_your/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T21:02:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Something is clearly off with Codex usage right now.",
-        "url": "https://www.reddit.com/r/codex/comments/1uvl36q/something_is_clearly_off_with_codex_usage_right/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T19:12:07.000Z",
-        "category": "reddit"
       }
     ]
   }

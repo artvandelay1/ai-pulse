@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-07-14T16:23:06.169Z",
+  "fetchedAt": "2026-07-14T17:43:43.484Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Claude spent +15 EUR of a 2 EUR limit.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T07:53:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iepu4woeh5dh1.png?width=640&crop=smart&auto=webp&s=f3c854522b3c7dddae23dc3651f16e65e41d4467"
-      },
-      {
-        "rank": 2,
-        "title": "Why can I only buy $1,000,000 worth of tokens?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T08:57:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2i400tqt5dh1.png?width=640&crop=smart&auto=webp&s=2a4a497b761dbd74585a15c2e2e3dccb3ad1dc29"
-      },
-      {
-        "rank": 3,
-        "title": "I was using Claude Cowork's cloud VMs (free, included in plan) completely wrong. It replaced most of my local workflow once I set them up properly.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvosli/i_was_using_claude_coworks_cloud_vms_free/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T21:25:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I don’t get the Fable coding craze at all",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T00:01:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "When your toxic situationship tweets “available until July 19”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T11:52:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a8t66slxo6dh1.jpeg?width=640&crop=smart&auto=webp&s=c8b78cd1ea05ef7bf3ea704853c25c788b58bf3a"
-      },
       {
         "rank": 1,
         "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
@@ -97,54 +49,6 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-14T08:08:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Banked one for everyone",
-        "url": "https://www.reddit.com/r/codex/comments/1uvk1h5/banked_one_for_everyone/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T18:35:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/90pnbmqxj1dh1.jpeg?width=640&crop=smart&auto=webp&s=b35f1dc7fe91d7e1359023b2d99e7cee950ad5e0"
-      },
-      {
-        "rank": 2,
-        "title": "y'all heard the man another reset tmr",
-        "url": "https://www.reddit.com/r/codex/comments/1uw0hm2/yall_heard_the_man_another_reset_tmr/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T06:19:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uhi2fb0j15dh1.png?width=640&crop=smart&auto=webp&s=b46e16e3e85878d8524f7800f821b82dc5abc252"
-      },
-      {
-        "rank": 3,
-        "title": "SOL xhigh is a monster of overengineering",
-        "url": "https://www.reddit.com/r/codex/comments/1uvx9et/sol_xhigh_is_a_monster_of_overengineering/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T03:31:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/opbkonad74dh1.png?width=640&crop=smart&auto=webp&s=a135322fdb1888492639ad9701134b2a38fee9b4"
-      },
-      {
-        "rank": 4,
-        "title": "If you used grok as a subagent for codex, your entire codebase (Including .env/secrets) has been sent to xAI - here's how to check that",
-        "url": "https://www.reddit.com/r/codex/comments/1uvo6la/if_you_used_grok_as_a_subagent_for_codex_your/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T21:02:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Something is clearly off with Codex usage right now.",
-        "url": "https://www.reddit.com/r/codex/comments/1uvl36q/something_is_clearly_off_with_codex_usage_right/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-13T19:12:07.000Z",
         "category": "reddit"
       },
       {
@@ -199,6 +103,16 @@
       },
       {
         "rank": 1,
+        "title": "It's happening already 🫠",
+        "url": "https://www.reddit.com/r/singularity/comments/1uw9uxm/its_happening_already/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-14T14:12:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/deugwgewd7dh1.jpeg?width=640&crop=smart&auto=webp&s=c5cb36f1291bae514d091c4276ccebe711992242"
+      },
+      {
+        "rank": 2,
         "title": "Another 50+ year-old Erdős problem falls to GPT-5.6",
         "url": "https://www.reddit.com/r/singularity/comments/1uvrtl0/another_50_yearold_erdős_problem_falls_to_gpt56/",
         "source": "r/singularity",
@@ -206,15 +120,6 @@
         "publishedAt": "2026-07-13T23:26:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/xvv5l8etz2dh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ac5ed587dd21b6662f413587d4837029c31d7550"
-      },
-      {
-        "rank": 2,
-        "title": "Richard Sutton launches Oak Lab - \"Our holy grail: A trillion-parameter agent that learns and plans in real-time with 20 watts of energy\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvfrjg/richard_sutton_launches_oak_lab_our_holy_grail_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T16:03:56.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,
@@ -237,13 +142,109 @@
       },
       {
         "rank": 5,
-        "title": "Now any video can fill a 70mm IMAX screen",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvnj9k/now_any_video_can_fill_a_70mm_imax_screen/",
+        "title": "Keio University made these soft, helium-filled flying robots; they can follow you, wake you up, remind you of stuff, and even be your study buddy",
+        "url": "https://www.reddit.com/r/singularity/comments/1uwc0oi/keio_university_made_these_soft_heliumfilled/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-13T20:39:12.000Z",
+        "publishedAt": "2026-07-14T15:31:43.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M2RkMnp2NXk1MmRoMTaeS5tm2BQ9sn4PgOfN1GufpROpjC3N_MhAXGV6yvnk.png?width=640&crop=smart&auto=webp&s=a5460ee9aac14ca25a4d8264f2ddc605aec5f889"
+        "thumbnail": "https://external-preview.redd.it/ajVhY3ZmNjNzN2RoMR6QccDEy8sTDBD88IWlKZO9678uQCNKkvFGczYWd60j.png?width=640&crop=smart&auto=webp&s=db8f502d035d301de778b43ee68ca4b05b2e8fb0"
+      },
+      {
+        "rank": 1,
+        "title": "Claude spent +15 EUR of a 2 EUR limit.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T07:53:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iepu4woeh5dh1.png?width=640&crop=smart&auto=webp&s=f3c854522b3c7dddae23dc3651f16e65e41d4467"
+      },
+      {
+        "rank": 2,
+        "title": "Why can I only buy $1,000,000 worth of tokens?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T08:57:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k2i400tqt5dh1.png?width=640&crop=smart&auto=webp&s=2a4a497b761dbd74585a15c2e2e3dccb3ad1dc29"
+      },
+      {
+        "rank": 3,
+        "title": "I was using Claude Cowork's cloud VMs (free, included in plan) completely wrong. It replaced most of my local workflow once I set them up properly.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvosli/i_was_using_claude_coworks_cloud_vms_free/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T21:25:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I don’t get the Fable coding craze at all",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T00:01:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "When your toxic situationship tweets “available until July 19”",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T11:52:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a8t66slxo6dh1.jpeg?width=640&crop=smart&auto=webp&s=c8b78cd1ea05ef7bf3ea704853c25c788b58bf3a"
+      },
+      {
+        "rank": 1,
+        "title": "Banked one for everyone",
+        "url": "https://www.reddit.com/r/codex/comments/1uvk1h5/banked_one_for_everyone/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T18:35:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/90pnbmqxj1dh1.jpeg?width=640&crop=smart&auto=webp&s=b35f1dc7fe91d7e1359023b2d99e7cee950ad5e0"
+      },
+      {
+        "rank": 2,
+        "title": "y'all heard the man another reset tmr",
+        "url": "https://www.reddit.com/r/codex/comments/1uw0hm2/yall_heard_the_man_another_reset_tmr/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T06:19:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uhi2fb0j15dh1.png?width=640&crop=smart&auto=webp&s=b46e16e3e85878d8524f7800f821b82dc5abc252"
+      },
+      {
+        "rank": 3,
+        "title": "SOL xhigh is a monster of overengineering",
+        "url": "https://www.reddit.com/r/codex/comments/1uvx9et/sol_xhigh_is_a_monster_of_overengineering/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T03:31:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/opbkonad74dh1.png?width=640&crop=smart&auto=webp&s=a135322fdb1888492639ad9701134b2a38fee9b4"
+      },
+      {
+        "rank": 4,
+        "title": "If you used grok as a subagent for codex, your entire codebase (Including .env/secrets) has been sent to xAI - here's how to check that",
+        "url": "https://www.reddit.com/r/codex/comments/1uvo6la/if_you_used_grok_as_a_subagent_for_codex_your/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T21:02:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Something is clearly off with Codex usage right now.",
+        "url": "https://www.reddit.com/r/codex/comments/1uvl36q/something_is_clearly_off_with_codex_usage_right/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-13T19:12:07.000Z",
+        "category": "reddit"
       }
     ]
   }

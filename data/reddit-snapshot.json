@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T06:37:47.046Z",
+  "fetchedAt": "2026-07-14T09:09:42.067Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T08:27:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Doubt regarding TMLR[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-14T01:14:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T19:20:07.000Z",
         "category": "reddit"
       },
       {
@@ -72,16 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "[WARNING] Avoid using 5.6 Sol. It can get you banned for even the most harmless task. Used it once for a legitimate Excel task, got flagged for a “cybersecurity threat,” appeal was rejected within 2h.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uv3txe/warning_avoid_using_56_sol_it_can_get_you_banned/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T06:44:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n86pl9qp0ych1.png?width=140&height=138&auto=webp&s=521359c168612c0ff136790ad31c848868c64102"
-      },
-      {
-        "rank": 4,
         "title": "grok CLI silently uploaded users data to... google cloud",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uvlcvt/grok_cli_silently_uploaded_users_data_to_google/",
         "source": "r/OpenAI",
@@ -91,27 +81,27 @@
         "thumbnail": "https://preview.redd.it/5iiehag7s1dh1.png?width=640&crop=smart&auto=webp&s=ad90d42125c9ae171d22f9894eabe6b6cd7df8b3"
       },
       {
-        "rank": 5,
-        "title": "Changing the narrative like",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uv4f15/changing_the_narrative_like/",
+        "rank": 4,
+        "title": "Still waiting for this update: a proper Chat mode",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uvwciz/still_waiting_for_this_update_a_proper_chat_mode/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-13T07:17:53.000Z",
+        "publishedAt": "2026-07-14T02:48:06.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wrcnibz17ych1.png?width=320&crop=smart&auto=webp&s=5c8eb58618931c498d8e7976d3bf53570ee4ab93"
+        "thumbnail": "https://preview.redd.it/sr2jmbpcr3dh1.png?width=640&crop=smart&auto=webp&s=03407ecf5bb1cae255394de7c7bac28fe8014567"
+      },
+      {
+        "rank": 5,
+        "title": "Add Context window slider to Codex",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uvcazl/add_context_window_slider_to_codex/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T13:56:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wsc7r5a760dh1.png?width=640&crop=smart&auto=webp&s=3c1642c2b08ca96f94ee3cdea5814d049a406a94"
       },
       {
         "rank": 1,
-        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds | Sixty-nine percent of Americans now support “forcing” AI firms to transfer 50% of their stock to a public sovereign wealth fund",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvboti/majority_of_us_workers_support_an_ai_wealth_fund/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T13:32:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_gifF5oxkl-FDc9yiet-TPuH-dlhmFbGqNjMDLlYGqw.jpeg?width=640&crop=smart&auto=webp&s=8a338e2394721df2693495102697f2175216a436"
-      },
-      {
-        "rank": 2,
         "title": "Another 50+ year-old Erdős problem falls to GPT-5.6",
         "url": "https://www.reddit.com/r/singularity/comments/1uvrtl0/another_50_yearold_erdős_problem_falls_to_gpt56/",
         "source": "r/singularity",
@@ -119,6 +109,16 @@
         "publishedAt": "2026-07-13T23:26:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/xvv5l8etz2dh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ac5ed587dd21b6662f413587d4837029c31d7550"
+      },
+      {
+        "rank": 2,
+        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds | Sixty-nine percent of Americans now support “forcing” AI firms to transfer 50% of their stock to a public sovereign wealth fund",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvboti/majority_of_us_workers_support_an_ai_wealth_fund/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T13:32:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_gifF5oxkl-FDc9yiet-TPuH-dlhmFbGqNjMDLlYGqw.jpeg?width=640&crop=smart&auto=webp&s=8a338e2394721df2693495102697f2175216a436"
       },
       {
         "rank": 3,

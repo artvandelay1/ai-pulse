@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-07-13T23:29:11.464Z",
+  "fetchedAt": "2026-07-14T00:57:45.506Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Prompt-engineering paper accepted to ICML [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T05:00:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T17:50:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T08:27:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T13:59:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Doubt regarding TMLR[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T10:53:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Apple vs OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uvlzj8/apple_vs_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T19:44:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eWsxa2tvYzd3MWRoMdd0q1SbZpIvW_LZ1bVji7adBHHbVFVvXrRioigF0p3E.png?width=640&crop=smart&auto=webp&s=161ebe006dd5537e2eba425245df5574180d1d55"
+      },
+      {
+        "rank": 2,
+        "title": "The terrifying rise of schoolboys making AI girlfriends - Boys as young as 12 are now in romantic ‘relationships’ with chatbots, and it’s affecting how they treat girls in the real world",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uvagos/the_terrifying_rise_of_schoolboys_making_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T12:41:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/i09fpjtv3YyyUHm-YRu3rj03SC2DNVTjaVzq_YxJRg0.jpeg?width=640&crop=smart&auto=webp&s=8ad136d16b2c4a7fc0e40a760cb9e5f1cc408341"
+      },
+      {
+        "rank": 3,
+        "title": "[WARNING] Avoid using 5.6 Sol. It can get you banned for even the most harmless task. Used it once for a legitimate Excel task, got flagged for a “cybersecurity threat,” appeal was rejected within 2h.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uv3txe/warning_avoid_using_56_sol_it_can_get_you_banned/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T06:44:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n86pl9qp0ych1.png?width=140&height=138&auto=webp&s=521359c168612c0ff136790ad31c848868c64102"
+      },
+      {
+        "rank": 4,
+        "title": "Changing the narrative like",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uv4f15/changing_the_narrative_like/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T07:17:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wrcnibz17ych1.png?width=320&crop=smart&auto=webp&s=5c8eb58618931c498d8e7976d3bf53570ee4ab93"
+      },
+      {
+        "rank": 5,
+        "title": "Even with the messy apps (I did not like that at all) I will never cancel ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uux36v/even_with_the_messy_apps_i_did_not_like_that_at/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T01:02:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jxkcvmf1cwch1.jpeg?width=640&crop=smart&auto=webp&s=3aca44aab25326c5dd1be35c7a95c4f03743c63a"
+      },
+      {
+        "rank": 1,
+        "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
+        "url": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T06:12:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d"
+      },
+      {
+        "rank": 2,
+        "title": "Schrodinger's Fable",
+        "url": "https://www.reddit.com/r/singularity/comments/1uuy50w/schrodingers_fable/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T01:52:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cmRocDB5bXhrd2NoMfMPiIYYW6Pl29gOKxEAjOWzlk8WG7y9xoOYSS2vg_rf.png?width=320&crop=smart&auto=webp&s=ec57c1e156fd462a84692dfc20673b2f60760b35"
+      },
+      {
+        "rank": 3,
+        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds | Sixty-nine percent of Americans now support “forcing” AI firms to transfer 50% of their stock to a public sovereign wealth fund",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvboti/majority_of_us_workers_support_an_ai_wealth_fund/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T13:32:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_gifF5oxkl-FDc9yiet-TPuH-dlhmFbGqNjMDLlYGqw.jpeg?width=640&crop=smart&auto=webp&s=8a338e2394721df2693495102697f2175216a436"
+      },
+      {
+        "rank": 4,
+        "title": "What Ever Happened To This?",
+        "url": "https://www.reddit.com/r/singularity/comments/1uv7jzs/what_ever_happened_to_this/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T10:19:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1w305p6i3zch1.jpeg?width=640&crop=smart&auto=webp&s=7e2e7ffaeb9bbc0f3546a076a198907d10c3a289"
+      },
+      {
+        "rank": 5,
+        "title": "Richard Sutton launches Oak Lab - \"Our holy grail: A trillion-parameter agent that learns and plans in real-time with 20 watts of energy\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvfrjg/richard_sutton_launches_oak_lab_our_holy_grail_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T16:03:56.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Visually appealing infographics",
@@ -55,51 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "Prompt-engineering paper accepted to ICML [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T05:00:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T17:50:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T08:27:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T13:59:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Doubt regarding TMLR[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T10:53:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Banked one for everyone",
         "url": "https://www.reddit.com/r/codex/comments/1uvk1h5/banked_one_for_everyone/",
         "source": "r/codex",
@@ -145,106 +244,6 @@
         "score": 0,
         "publishedAt": "2026-07-13T05:11:18.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Bye Claude..it was nice while it lasted, until it wasn’t.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uuwfc6/bye_claudeit_was_nice_while_it_lasted_until_it/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T00:32:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kyxhskko6wch1.jpeg?width=640&crop=smart&auto=webp&s=490593440ad8acc182beefcecdbda87aa3a4c20f"
-      },
-      {
-        "rank": 2,
-        "title": "Apple vs OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uvlzj8/apple_vs_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T19:44:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eWsxa2tvYzd3MWRoMdd0q1SbZpIvW_LZ1bVji7adBHHbVFVvXrRioigF0p3E.png?width=640&crop=smart&auto=webp&s=161ebe006dd5537e2eba425245df5574180d1d55"
-      },
-      {
-        "rank": 3,
-        "title": "[WARNING] Avoid using 5.6 Sol. It can get you banned for even the most harmless task. Used it once for a legitimate Excel task, got flagged for a “cybersecurity threat,” appeal was rejected within 2h.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uv3txe/warning_avoid_using_56_sol_it_can_get_you_banned/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T06:44:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n86pl9qp0ych1.png?width=140&height=138&auto=webp&s=521359c168612c0ff136790ad31c848868c64102"
-      },
-      {
-        "rank": 4,
-        "title": "The terrifying rise of schoolboys making AI girlfriends - Boys as young as 12 are now in romantic ‘relationships’ with chatbots, and it’s affecting how they treat girls in the real world",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uvagos/the_terrifying_rise_of_schoolboys_making_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T12:41:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i09fpjtv3YyyUHm-YRu3rj03SC2DNVTjaVzq_YxJRg0.jpeg?width=640&crop=smart&auto=webp&s=8ad136d16b2c4a7fc0e40a760cb9e5f1cc408341"
-      },
-      {
-        "rank": 5,
-        "title": "Changing the narrative like",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uv4f15/changing_the_narrative_like/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T07:17:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wrcnibz17ych1.png?width=320&crop=smart&auto=webp&s=5c8eb58618931c498d8e7976d3bf53570ee4ab93"
-      },
-      {
-        "rank": 1,
-        "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
-        "url": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T06:12:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d"
-      },
-      {
-        "rank": 2,
-        "title": "I think the safeguards are too strict. They’re flagging basically anything",
-        "url": "https://www.reddit.com/r/singularity/comments/1uuuia3/i_think_the_safeguards_are_too_strict_theyre/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-12T23:08:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eu9al1aprvch1.jpeg?width=640&crop=smart&auto=webp&s=0277d86914f40a3d0bbfd272c6d6f7a91d041493"
-      },
-      {
-        "rank": 3,
-        "title": "Schrodinger's Fable",
-        "url": "https://www.reddit.com/r/singularity/comments/1uuy50w/schrodingers_fable/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T01:52:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cmRocDB5bXhrd2NoMfMPiIYYW6Pl29gOKxEAjOWzlk8WG7y9xoOYSS2vg_rf.png?width=320&crop=smart&auto=webp&s=ec57c1e156fd462a84692dfc20673b2f60760b35"
-      },
-      {
-        "rank": 4,
-        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds | Sixty-nine percent of Americans now support “forcing” AI firms to transfer 50% of their stock to a public sovereign wealth fund",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvboti/majority_of_us_workers_support_an_ai_wealth_fund/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T13:32:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_gifF5oxkl-FDc9yiet-TPuH-dlhmFbGqNjMDLlYGqw.jpeg?width=640&crop=smart&auto=webp&s=8a338e2394721df2693495102697f2175216a436"
-      },
-      {
-        "rank": 5,
-        "title": "What Ever Happened To This?",
-        "url": "https://www.reddit.com/r/singularity/comments/1uv7jzs/what_ever_happened_to_this/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T10:19:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1w305p6i3zch1.jpeg?width=640&crop=smart&auto=webp&s=7e2e7ffaeb9bbc0f3546a076a198907d10c3a289"
       }
     ]
   }

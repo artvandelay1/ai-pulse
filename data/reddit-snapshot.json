@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T09:09:42.067Z",
+  "fetchedAt": "2026-07-14T11:10:48.276Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "Doubt regarding TMLR[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T10:53:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
         "source": "r/MachineLearning",
@@ -42,13 +33,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-13T19:20:07.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-14T10:13:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3uyvbtoa76dh1.png?width=140&height=61&auto=webp&s=523d3943b9adbcbbdaca03be35c5e073be075de9"
       },
       {
         "rank": 1,
@@ -131,23 +132,23 @@
       },
       {
         "rank": 4,
-        "title": "What Ever Happened To This?",
-        "url": "https://www.reddit.com/r/singularity/comments/1uv7jzs/what_ever_happened_to_this/",
+        "title": "Sam Altman spends the day roasting Anthropic on X",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvzhej/sam_altman_spends_the_day_roasting_anthropic_on_x/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-13T10:19:38.000Z",
+        "publishedAt": "2026-07-14T05:24:07.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1w305p6i3zch1.jpeg?width=640&crop=smart&auto=webp&s=7e2e7ffaeb9bbc0f3546a076a198907d10c3a289"
+        "thumbnail": "https://preview.redd.it/xtlpef2vq4dh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=5e8054df4eb6bcd04cff1a627a1ea04c6e9d7c09"
       },
       {
         "rank": 5,
-        "title": "‘World’s First’ Fully Robotic Pharmacy Fills Prescriptions in 60 Seconds | Queue’s $18.6M-backed kiosk dispenses 600 pills per minute at a Palo Alto pilot, targeting broader rollout by early 2027",
-        "url": "https://www.reddit.com/r/singularity/comments/1uv9ij0/worlds_first_fully_robotic_pharmacy_fills/",
+        "title": "Now any video can fill a 70mm IMAX screen",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvnj9k/now_any_video_can_fill_a_70mm_imax_screen/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-13T11:59:26.000Z",
+        "publishedAt": "2026-07-13T20:39:12.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bCIw4XIciVM55rmH2D3VaOezdf9zbNS30VcSIxitncs.jpeg?width=640&crop=smart&auto=webp&s=85e6c23dc971ca043463ec274df9cd5309235ac0"
+        "thumbnail": "https://external-preview.redd.it/M2RkMnp2NXk1MmRoMTaeS5tm2BQ9sn4PgOfN1GufpROpjC3N_MhAXGV6yvnk.png?width=640&crop=smart&auto=webp&s=a5460ee9aac14ca25a4d8264f2ddc605aec5f889"
       },
       {
         "rank": 1,

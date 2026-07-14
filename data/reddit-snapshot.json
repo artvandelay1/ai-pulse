@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T00:57:45.506Z",
+  "fetchedAt": "2026-07-14T04:08:51.344Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -82,6 +82,16 @@
       },
       {
         "rank": 4,
+        "title": "grok CLI silently uploaded users data to... google cloud",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uvlcvt/grok_cli_silently_uploaded_users_data_to_google/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-13T19:21:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5iiehag7s1dh1.png?width=640&crop=smart&auto=webp&s=ad90d42125c9ae171d22f9894eabe6b6cd7df8b3"
+      },
+      {
+        "rank": 5,
         "title": "Changing the narrative like",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uv4f15/changing_the_narrative_like/",
         "source": "r/OpenAI",
@@ -89,16 +99,6 @@
         "publishedAt": "2026-07-13T07:17:53.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wrcnibz17ych1.png?width=320&crop=smart&auto=webp&s=5c8eb58618931c498d8e7976d3bf53570ee4ab93"
-      },
-      {
-        "rank": 5,
-        "title": "Even with the messy apps (I did not like that at all) I will never cancel ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uux36v/even_with_the_messy_apps_i_did_not_like_that_at/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T01:02:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jxkcvmf1cwch1.jpeg?width=640&crop=smart&auto=webp&s=3aca44aab25326c5dd1be35c7a95c4f03743c63a"
       },
       {
         "rank": 1,
@@ -112,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "Schrodinger's Fable",
-        "url": "https://www.reddit.com/r/singularity/comments/1uuy50w/schrodingers_fable/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T01:52:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cmRocDB5bXhrd2NoMfMPiIYYW6Pl29gOKxEAjOWzlk8WG7y9xoOYSS2vg_rf.png?width=320&crop=smart&auto=webp&s=ec57c1e156fd462a84692dfc20673b2f60760b35"
-      },
-      {
-        "rank": 3,
         "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds | Sixty-nine percent of Americans now support “forcing” AI firms to transfer 50% of their stock to a public sovereign wealth fund",
         "url": "https://www.reddit.com/r/singularity/comments/1uvboti/majority_of_us_workers_support_an_ai_wealth_fund/",
         "source": "r/singularity",
@@ -129,6 +119,15 @@
         "publishedAt": "2026-07-13T13:32:16.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/_gifF5oxkl-FDc9yiet-TPuH-dlhmFbGqNjMDLlYGqw.jpeg?width=640&crop=smart&auto=webp&s=8a338e2394721df2693495102697f2175216a436"
+      },
+      {
+        "rank": 3,
+        "title": "Richard Sutton launches Oak Lab - \"Our holy grail: A trillion-parameter agent that learns and plans in real-time with 20 watts of energy\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvfrjg/richard_sutton_launches_oak_lab_our_holy_grail_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T16:03:56.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -142,12 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Richard Sutton launches Oak Lab - \"Our holy grail: A trillion-parameter agent that learns and plans in real-time with 20 watts of energy\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvfrjg/richard_sutton_launches_oak_lab_our_holy_grail_a/",
+        "title": "Another 50+ year-old Erdős problem falls to GPT-5.6",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvrtl0/another_50_yearold_erdős_problem_falls_to_gpt56/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-13T16:03:56.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-13T23:26:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xvv5l8etz2dh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ac5ed587dd21b6662f413587d4837029c31d7550"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T19:27:10.334Z",
+  "fetchedAt": "2026-07-14T20:41:12.416Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,6 +27,16 @@
       },
       {
         "rank": 3,
+        "title": "Opus 5 coming soon?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwgx2o/opus_5_coming_soon/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T18:24:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ov9c5crqm8dh1.png?width=320&crop=smart&auto=webp&s=50c9b1bf605ad176ea83fc8bb532c30caccf3953"
+      },
+      {
+        "rank": 4,
         "title": "When your toxic situationship tweets “available until July 19”",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
         "source": "r/ClaudeAI",
@@ -36,21 +46,12 @@
         "thumbnail": "https://preview.redd.it/a8t66slxo6dh1.jpeg?width=640&crop=smart&auto=webp&s=c8b78cd1ea05ef7bf3ea704853c25c788b58bf3a"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "I was using Claude Cowork's cloud VMs (free, included in plan) completely wrong. It replaced most of my local workflow once I set them up properly.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvosli/i_was_using_claude_coworks_cloud_vms_free/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-07-13T21:25:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I don’t get the Fable coding craze at all",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T00:01:24.000Z",
         "category": "reddit"
       },
       {
@@ -140,12 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Limits reduced to a minimum, resets used as an anaesthetic",
-        "url": "https://www.reddit.com/r/codex/comments/1uvwql2/limits_reduced_to_a_minimum_resets_used_as_an/",
+        "title": "(Non-banked?) Reset for 8 Mil Users",
+        "url": "https://www.reddit.com/r/codex/comments/1uwiwx0/nonbanked_reset_for_8_mil_users/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-14T03:06:00.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-14T19:36:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ua2npd1rz8dh1.jpeg?width=640&crop=smart&auto=webp&s=309fa1c87a7b4a73ebddd506cb8e6e074192efb4"
       },
       {
         "rank": 1,

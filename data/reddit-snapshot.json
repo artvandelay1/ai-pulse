@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T12:50:44.795Z",
+  "fetchedAt": "2026-07-14T14:58:46.340Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,12 +16,13 @@
       },
       {
         "rank": 2,
-        "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
+        "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-13T13:59:17.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-14T10:13:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3uyvbtoa76dh1.png?width=140&height=61&auto=webp&s=523d3943b9adbcbbdaca03be35c5e073be075de9"
       },
       {
         "rank": 3,
@@ -34,21 +35,20 @@
       },
       {
         "rank": 4,
-        "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-14T10:13:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3uyvbtoa76dh1.png?width=140&height=61&auto=webp&s=523d3943b9adbcbbdaca03be35c5e073be075de9"
-      },
-      {
-        "rank": 5,
         "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-13T19:20:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How many on-the-fly augmentations per image for a single-class segmentation mode [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvxt70/how_many_onthefly_augmentations_per_image_for_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-14T03:58:22.000Z",
         "category": "reddit"
       },
       {
@@ -93,13 +93,13 @@
       },
       {
         "rank": 5,
-        "title": "Add Context window slider to Codex",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uvcazl/add_context_window_slider_to_codex/",
+        "title": "How am I supposed to harden the security of my own site when 5.6 Sol says this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uvkrym/how_am_i_supposed_to_harden_the_security_of_my/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-13T13:56:34.000Z",
+        "publishedAt": "2026-07-13T19:01:04.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wsc7r5a760dh1.png?width=640&crop=smart&auto=webp&s=3c1642c2b08ca96f94ee3cdea5814d049a406a94"
+        "thumbnail": "https://preview.redd.it/5qb022o8o1dh1.png?width=640&crop=smart&auto=webp&s=d3fa88bcebee7db106746787ffcda7e5e06c1ccb"
       },
       {
         "rank": 1,
@@ -113,21 +113,20 @@
       },
       {
         "rank": 2,
-        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds | Sixty-nine percent of Americans now support “forcing” AI firms to transfer 50% of their stock to a public sovereign wealth fund",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvboti/majority_of_us_workers_support_an_ai_wealth_fund/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T13:32:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_gifF5oxkl-FDc9yiet-TPuH-dlhmFbGqNjMDLlYGqw.jpeg?width=640&crop=smart&auto=webp&s=8a338e2394721df2693495102697f2175216a436"
-      },
-      {
-        "rank": 3,
         "title": "Richard Sutton launches Oak Lab - \"Our holy grail: A trillion-parameter agent that learns and plans in real-time with 20 watts of energy\"",
         "url": "https://www.reddit.com/r/singularity/comments/1uvfrjg/richard_sutton_launches_oak_lab_our_holy_grail_a/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-07-13T16:03:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Demis Hassabis shared a rare essay on X: AGI is few years away, we're in the singularity foothills, proposes US-led Frontier AI Standards Body with eventual mandatory safety testing",
+        "url": "https://www.reddit.com/r/singularity/comments/1uw40fb/demis_hassabis_shared_a_rare_essay_on_x_agi_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-14T09:44:03.000Z",
         "category": "reddit"
       },
       {
@@ -142,12 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Demis Hassabis shared a rare essay on X: AGI is few years away, we're in the singularity foothills, proposes US-led Frontier AI Standards Body with eventual mandatory safety testing",
-        "url": "https://www.reddit.com/r/singularity/comments/1uw40fb/demis_hassabis_shared_a_rare_essay_on_x_agi_is/",
+        "title": "Now any video can fill a 70mm IMAX screen",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvnj9k/now_any_video_can_fill_a_70mm_imax_screen/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-14T09:44:03.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-13T20:39:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/M2RkMnp2NXk1MmRoMTaeS5tm2BQ9sn4PgOfN1GufpROpjC3N_MhAXGV6yvnk.png?width=640&crop=smart&auto=webp&s=a5460ee9aac14ca25a4d8264f2ddc605aec5f889"
       },
       {
         "rank": 1,

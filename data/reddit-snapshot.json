@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T04:08:51.344Z",
+  "fetchedAt": "2026-07-14T06:37:47.046Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Prompt-engineering paper accepted to ICML [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T05:00:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Evaluating J-space entropy as an error predictor across 7 datasets on Qwen3-4B [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uv5l75/evaluating_jspace_entropy_as_an_error_predictor/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Doubt regarding TMLR[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-13T10:53:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-14T01:14:30.000Z",
         "category": "reddit"
       },
       {
@@ -102,16 +102,6 @@
       },
       {
         "rank": 1,
-        "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
-        "url": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-13T06:12:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d"
-      },
-      {
-        "rank": 2,
         "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds | Sixty-nine percent of Americans now support “forcing” AI firms to transfer 50% of their stock to a public sovereign wealth fund",
         "url": "https://www.reddit.com/r/singularity/comments/1uvboti/majority_of_us_workers_support_an_ai_wealth_fund/",
         "source": "r/singularity",
@@ -119,6 +109,16 @@
         "publishedAt": "2026-07-13T13:32:16.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/_gifF5oxkl-FDc9yiet-TPuH-dlhmFbGqNjMDLlYGqw.jpeg?width=640&crop=smart&auto=webp&s=8a338e2394721df2693495102697f2175216a436"
+      },
+      {
+        "rank": 2,
+        "title": "Another 50+ year-old Erdős problem falls to GPT-5.6",
+        "url": "https://www.reddit.com/r/singularity/comments/1uvrtl0/another_50_yearold_erdős_problem_falls_to_gpt56/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-13T23:26:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xvv5l8etz2dh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ac5ed587dd21b6662f413587d4837029c31d7550"
       },
       {
         "rank": 3,
@@ -141,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Another 50+ year-old Erdős problem falls to GPT-5.6",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvrtl0/another_50_yearold_erdős_problem_falls_to_gpt56/",
+        "title": "‘World’s First’ Fully Robotic Pharmacy Fills Prescriptions in 60 Seconds | Queue’s $18.6M-backed kiosk dispenses 600 pills per minute at a Palo Alto pilot, targeting broader rollout by early 2027",
+        "url": "https://www.reddit.com/r/singularity/comments/1uv9ij0/worlds_first_fully_robotic_pharmacy_fills/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-13T23:26:03.000Z",
+        "publishedAt": "2026-07-13T11:59:26.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xvv5l8etz2dh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ac5ed587dd21b6662f413587d4837029c31d7550"
+        "thumbnail": "https://external-preview.redd.it/bCIw4XIciVM55rmH2D3VaOezdf9zbNS30VcSIxitncs.jpeg?width=640&crop=smart&auto=webp&s=85e6c23dc971ca043463ec274df9cd5309235ac0"
       },
       {
         "rank": 1,

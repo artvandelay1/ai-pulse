@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T11:10:48.276Z",
+  "fetchedAt": "2026-07-14T12:50:44.795Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,15 +34,6 @@
       },
       {
         "rank": 4,
-        "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-13T19:20:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
         "source": "r/MachineLearning",
@@ -50,6 +41,15 @@
         "publishedAt": "2026-07-14T10:13:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3uyvbtoa76dh1.png?width=140&height=61&auto=webp&s=523d3943b9adbcbbdaca03be35c5e073be075de9"
+      },
+      {
+        "rank": 5,
+        "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-13T19:20:07.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -63,16 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "The terrifying rise of schoolboys making AI girlfriends - Boys as young as 12 are now in romantic ‘relationships’ with chatbots, and it’s affecting how they treat girls in the real world",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uvagos/the_terrifying_rise_of_schoolboys_making_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-13T12:41:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i09fpjtv3YyyUHm-YRu3rj03SC2DNVTjaVzq_YxJRg0.jpeg?width=640&crop=smart&auto=webp&s=8ad136d16b2c4a7fc0e40a760cb9e5f1cc408341"
-      },
-      {
-        "rank": 3,
         "title": "grok CLI silently uploaded users data to... google cloud",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uvlcvt/grok_cli_silently_uploaded_users_data_to_google/",
         "source": "r/OpenAI",
@@ -82,7 +72,7 @@
         "thumbnail": "https://preview.redd.it/5iiehag7s1dh1.png?width=640&crop=smart&auto=webp&s=ad90d42125c9ae171d22f9894eabe6b6cd7df8b3"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Still waiting for this update: a proper Chat mode",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uvwciz/still_waiting_for_this_update_a_proper_chat_mode/",
         "source": "r/OpenAI",
@@ -90,6 +80,16 @@
         "publishedAt": "2026-07-14T02:48:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/sr2jmbpcr3dh1.png?width=640&crop=smart&auto=webp&s=03407ecf5bb1cae255394de7c7bac28fe8014567"
+      },
+      {
+        "rank": 4,
+        "title": "Palo Alto CEO Arora says AI pricing needs to fall 90% as token costs skyrocket",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uw1822/palo_alto_ceo_arora_says_ai_pricing_needs_to_fall/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T07:00:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/3uNxHYX8bMj3T-ffwny6WLXOlFl8aMekpgjqoL5ijCw.jpeg?width=640&crop=smart&auto=webp&s=d3abacfbb608b40513aabe0eddd50885d2a20096"
       },
       {
         "rank": 5,
@@ -142,13 +142,12 @@
       },
       {
         "rank": 5,
-        "title": "Now any video can fill a 70mm IMAX screen",
-        "url": "https://www.reddit.com/r/singularity/comments/1uvnj9k/now_any_video_can_fill_a_70mm_imax_screen/",
+        "title": "Demis Hassabis shared a rare essay on X: AGI is few years away, we're in the singularity foothills, proposes US-led Frontier AI Standards Body with eventual mandatory safety testing",
+        "url": "https://www.reddit.com/r/singularity/comments/1uw40fb/demis_hassabis_shared_a_rare_essay_on_x_agi_is/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-13T20:39:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M2RkMnp2NXk1MmRoMTaeS5tm2BQ9sn4PgOfN1GufpROpjC3N_MhAXGV6yvnk.png?width=640&crop=smart&auto=webp&s=a5460ee9aac14ca25a4d8264f2ddc605aec5f889"
+        "publishedAt": "2026-07-14T09:44:03.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

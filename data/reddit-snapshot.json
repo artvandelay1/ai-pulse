@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T20:37:09.390Z",
+  "fetchedAt": "2026-07-15T22:07:15.376Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Inspired by caveman and co, I'm open-sourcing a Claude Code plugin that reduces token output by 99.9%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwl7xi/inspired_by_caveman_and_co_im_opensourcing_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T21:03:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "I’m building a fighter jet game with Claude",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/",
         "source": "r/ClaudeAI",
@@ -25,7 +16,7 @@
         "thumbnail": "https://external-preview.redd.it/OGg1eXB4ZmM2ZmRoMVFoYgyeDCm3Vp7QtrJv_3FGhIEFo78HKVE-xn8TN7Cn.png?width=640&crop=smart&auto=webp&s=ecd81aa8990815775115b748a1a0af872921c87e"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Claude helped me make my internet 100x faster",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwtn3m/claude_helped_me_make_my_internet_100x_faster/",
         "source": "r/ClaudeAI",
@@ -35,7 +26,7 @@
         "thumbnail": "https://preview.redd.it/n1ei01g55bdh1.png?width=140&height=54&auto=webp&s=67993dd2dda2b02e43e4634181af7e20832a4c82"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "My Claude Code subagent came back with a prompt-injection payload and hidden \"never tell the user\" instructions",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwn1mv/my_claude_code_subagent_came_back_with_a/",
         "source": "r/ClaudeAI",
@@ -44,13 +35,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "I built a web game with over 25K plays so far using Claude: You try to time the market against a couch that buys once and does nothing.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux1xvh/i_built_a_web_game_with_over_25k_plays_so_far/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-07-15T10:27:08.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Code and Obsidian as an AI-maintained second brain",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwrxbo/claude_code_and_obsidian_as_an_aimaintained/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T01:38:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/n08S3Tao6jyEGbCoyvvl9rSJuM-mcvzWDhm8hXt_R9w.jpeg?width=320&crop=smart&auto=webp&s=bbca35ffe9b330b561d0d91d42eb12591d470266"
       },
       {
         "rank": 1,

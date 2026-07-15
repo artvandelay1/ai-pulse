@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-07-15T12:55:08.135Z",
+  "fetchedAt": "2026-07-15T14:57:50.531Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:59:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Does anyone else miss the old conference ecosystem? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwy25k/does_anyone_else_miss_the_old_conference/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:47:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-14T15:37:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AI/ML Research - What Does it Really Take? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T13:38:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Infinities, impossibilities, and the man in the white linen suit [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwxveq/infinities_impossibilities_and_the_man_in_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:36:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Is this true?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwigmi/is_this_true/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T19:19:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f8b9cqerw8dh1.png?width=640&crop=smart&auto=webp&s=e357d3f6a3a7e15b911fd46b82d3329fe23226a9"
+      },
+      {
+        "rank": 2,
+        "title": "NEW LEAK: OpenAI’s First Device Will Be Moveable, Screenless Speaker Built as AI Companion",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwkxbc/new_leak_openais_first_device_will_be_moveable/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T20:52:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/n3Pka1BXU_OF9letHbsO6p7CarYmAPon80ZKy1hHUgM.png?width=640&crop=smart&auto=webp&s=aa284228c415b8daad3a43a2359491218d929a85"
+      },
+      {
+        "rank": 3,
+        "title": "A note from Tibo",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwvlmp/a_note_from_tibo/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T04:35:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2r5csm4rnbdh1.png?width=640&crop=smart&auto=webp&s=b80867e37a65e484dcf891c85a761b2ed4428960"
+      },
+      {
+        "rank": 4,
+        "title": "Here comes 9M and another reset! I could get used to this",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwxgi5/here_comes_9m_and_another_reset_i_could_get_used/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:14:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5ogmfc0k5cdh1.jpeg?width=640&crop=smart&auto=webp&s=1572d69abef056df71d2477793857ec7b19dafbe"
+      },
+      {
+        "rank": 5,
+        "title": "The first experimental evidence of recursive self-improvement (RSI).",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwwa09/the_first_experimental_evidence_of_recursive/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T05:10:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ziq3lqzztbdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=879e83a3980acedfdaea0f8d2825f9a36b6b8369"
+      },
+      {
+        "rank": 1,
+        "title": "Keio University made these soft, helium-filled flying robots; they can follow you, wake you up, remind you of stuff, and even be your study buddy",
+        "url": "https://www.reddit.com/r/singularity/comments/1uwc0oi/keio_university_made_these_soft_heliumfilled/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-14T15:31:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ajVhY3ZmNjNzN2RoMR6QccDEy8sTDBD88IWlKZO9678uQCNKkvFGczYWd60j.png?width=640&crop=smart&auto=webp&s=db8f502d035d301de778b43ee68ca4b05b2e8fb0"
+      },
+      {
+        "rank": 2,
+        "title": "X to Open Source Their Entire Codebase",
+        "url": "https://www.reddit.com/r/singularity/comments/1ux4siy/x_to_open_source_their_entire_codebase/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-15T12:43:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/39z72dax2edh1.jpeg?width=640&crop=smart&auto=webp&s=88b4325c15ba519a59d6c6cc37c20d232565d968"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 Could Be Out As Soon As This Week Per Reliable Leaker On Twitter",
+        "url": "https://www.reddit.com/r/singularity/comments/1uwftum/opus_5_could_be_out_as_soon_as_this_week_per/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-14T17:47:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lbczbtx8g8dh1.jpeg?width=640&crop=smart&auto=webp&s=600fc703ef74e2e64bfa1c5af6e27f07e39c52f3"
+      },
+      {
+        "rank": 4,
+        "title": "Kimi k3 launching soon (probably more than 2 trillion para acc to leaks)",
+        "url": "https://www.reddit.com/r/singularity/comments/1uwctrz/kimi_k3_launching_soon_probably_more_than_2/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-14T16:00:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8ipfw3cax7dh1.jpeg?width=640&crop=smart&auto=webp&s=4acd7f24c8e14691b09437d425f94d216b2b1d8a"
+      },
+      {
+        "rank": 5,
+        "title": "Differences Between GPT-5.5 Pro and GPT-5.6 Sol on MineBench",
+        "url": "https://www.reddit.com/r/singularity/comments/1uwhvws/differences_between_gpt55_pro_and_gpt56_sol_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-14T18:58:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yji3gov1r8dh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=2e72877abef348992a2be23ed3eff57f13b94d1d"
+      },
       {
         "rank": 1,
         "title": "Opus 5 coming soon?",
@@ -50,51 +195,6 @@
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-07-15T00:21:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:59:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Does anyone else miss the old conference ecosystem? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwy25k/does_anyone_else_miss_the_old_conference/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:47:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-14T15:37:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Infinities, impossibilities, and the man in the white linen suit [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwxveq/infinities_impossibilities_and_the_man_in_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:36:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "If your model finds edge against closing lines, does that edge transfer to earlier bets? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux1n0v/if_your_model_finds_edge_against_closing_lines/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T10:11:16.000Z",
         "category": "reddit"
       },
       {
@@ -145,105 +245,6 @@
         "score": 0,
         "publishedAt": "2026-07-15T02:40:27.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Is this true?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwigmi/is_this_true/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:19:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f8b9cqerw8dh1.png?width=640&crop=smart&auto=webp&s=e357d3f6a3a7e15b911fd46b82d3329fe23226a9"
-      },
-      {
-        "rank": 2,
-        "title": "NEW LEAK: OpenAI’s First Device Will Be Moveable, Screenless Speaker Built as AI Companion",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwkxbc/new_leak_openais_first_device_will_be_moveable/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T20:52:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/n3Pka1BXU_OF9letHbsO6p7CarYmAPon80ZKy1hHUgM.png?width=640&crop=smart&auto=webp&s=aa284228c415b8daad3a43a2359491218d929a85"
-      },
-      {
-        "rank": 3,
-        "title": "A note from Tibo",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwvlmp/a_note_from_tibo/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T04:35:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2r5csm4rnbdh1.png?width=640&crop=smart&auto=webp&s=b80867e37a65e484dcf891c85a761b2ed4428960"
-      },
-      {
-        "rank": 4,
-        "title": "GPT‑5.6 Sol Ultra in a nutsheel: 129 subagents in an 10 hour fanout",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uw6vjj/gpt56_sol_ultra_in_a_nutsheel_129_subagents_in_an/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T12:10:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kvle8dvsr6dh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=09a10b092d5796b5604f344951c9d9ad5c266944"
-      },
-      {
-        "rank": 5,
-        "title": "2014 vs 2026",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwinl7/2014_vs_2026/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:26:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/03e47xmyx8dh1.png?width=640&crop=smart&auto=webp&s=92c9825fe13a20698303fac72af7671db2975006"
-      },
-      {
-        "rank": 1,
-        "title": "Keio University made these soft, helium-filled flying robots; they can follow you, wake you up, remind you of stuff, and even be your study buddy",
-        "url": "https://www.reddit.com/r/singularity/comments/1uwc0oi/keio_university_made_these_soft_heliumfilled/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T15:31:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ajVhY3ZmNjNzN2RoMR6QccDEy8sTDBD88IWlKZO9678uQCNKkvFGczYWd60j.png?width=640&crop=smart&auto=webp&s=db8f502d035d301de778b43ee68ca4b05b2e8fb0"
-      },
-      {
-        "rank": 2,
-        "title": "Well it finally happened: we’re not using models because of cost",
-        "url": "https://www.reddit.com/r/singularity/comments/1uwa1mv/well_it_finally_happened_were_not_using_models/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T14:19:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5 Could Be Out As Soon As This Week Per Reliable Leaker On Twitter",
-        "url": "https://www.reddit.com/r/singularity/comments/1uwftum/opus_5_could_be_out_as_soon_as_this_week_per/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T17:47:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lbczbtx8g8dh1.jpeg?width=640&crop=smart&auto=webp&s=600fc703ef74e2e64bfa1c5af6e27f07e39c52f3"
-      },
-      {
-        "rank": 4,
-        "title": "Kimi k3 launching soon (probably more than 2 trillion para acc to leaks)",
-        "url": "https://www.reddit.com/r/singularity/comments/1uwctrz/kimi_k3_launching_soon_probably_more_than_2/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T16:00:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8ipfw3cax7dh1.jpeg?width=640&crop=smart&auto=webp&s=4acd7f24c8e14691b09437d425f94d216b2b1d8a"
-      },
-      {
-        "rank": 5,
-        "title": "Differences Between GPT-5.5 Pro and GPT-5.6 Sol on MineBench",
-        "url": "https://www.reddit.com/r/singularity/comments/1uwhvws/differences_between_gpt55_pro_and_gpt56_sol_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T18:58:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yji3gov1r8dh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=2e72877abef348992a2be23ed3eff57f13b94d1d"
       }
     ]
   }

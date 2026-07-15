@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-15T00:55:48.711Z",
+  "fetchedAt": "2026-07-15T04:10:11.581Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude spent +15 EUR of a 2 EUR limit.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T07:53:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iepu4woeh5dh1.png?width=640&crop=smart&auto=webp&s=f3c854522b3c7dddae23dc3651f16e65e41d4467"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5 coming soon?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwgx2o/opus_5_coming_soon/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T18:24:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ov9c5crqm8dh1.png?width=320&crop=smart&auto=webp&s=50c9b1bf605ad176ea83fc8bb532c30caccf3953"
+      },
+      {
+        "rank": 3,
+        "title": "Why can I only buy $1,000,000 worth of tokens?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T08:57:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k2i400tqt5dh1.png?width=640&crop=smart&auto=webp&s=2a4a497b761dbd74585a15c2e2e3dccb3ad1dc29"
+      },
+      {
+        "rank": 4,
+        "title": "Inspired by caveman and co, I'm open-sourcing a Claude Code plugin that reduces token output by 99.9%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwl7xi/inspired_by_caveman_and_co_im_opensourcing_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T21:03:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "My Claude subscription has paid for itself for a very long time.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwmlky/my_claude_subscription_has_paid_for_itself_for_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T21:54:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b5qemkodo9dh1.jpeg?width=640&crop=smart&auto=webp&s=e43135f43982dbf748e447525e0a4fe195f4a187"
+      },
       {
         "rank": 1,
         "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
@@ -17,15 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "Are the contents of this monograph reliable with respect to the modern theoretical understanding of deep neural networks? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvuavs/are_the_contents_of_this_monograph_reliable_with/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-14T01:14:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
         "source": "r/MachineLearning",
@@ -34,7 +74,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "[N] AMA Reminder: Raffi Krikorian (CTO, Mozilla)",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uw2do8/n_ama_reminder_raffi_krikorian_cto_mozilla/",
         "source": "r/MachineLearning",
@@ -43,13 +83,72 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "How many on-the-fly augmentations per image for a single-class segmentation mode [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uvxt70/how_many_onthefly_augmentations_per_image_for_a/",
+        "rank": 4,
+        "title": "Cloud-vLLM Benchmark Differences [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-14T03:58:22.000Z",
+        "publishedAt": "2026-07-14T08:17:25.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Things I got wrong building an incremental indexing pipeline [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwnb3g/things_i_got_wrong_building_an_incremental/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-14T22:21:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "(Non-banked?) Reset for 8 Mil Users",
+        "url": "https://www.reddit.com/r/codex/comments/1uwiwx0/nonbanked_reset_for_8_mil_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T19:36:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ua2npd1rz8dh1.jpeg?width=640&crop=smart&auto=webp&s=309fa1c87a7b4a73ebddd506cb8e6e074192efb4"
+      },
+      {
+        "rank": 2,
+        "title": "y'all heard the man another reset tmr",
+        "url": "https://www.reddit.com/r/codex/comments/1uw0hm2/yall_heard_the_man_another_reset_tmr/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T06:19:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uhi2fb0j15dh1.png?width=640&crop=smart&auto=webp&s=b46e16e3e85878d8524f7800f821b82dc5abc252"
+      },
+      {
+        "rank": 3,
+        "title": "Simplify your Codex model choices",
+        "url": "https://www.reddit.com/r/codex/comments/1uw4zr9/simplify_your_codex_model_choices/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T10:38:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o32qtmjpb6dh1.png?width=640&crop=smart&auto=webp&s=0e62b286d57f5a1c6b386101f74d155e9ef63058"
+      },
+      {
+        "rank": 4,
+        "title": "Hiccups?",
+        "url": "https://www.reddit.com/r/codex/comments/1uwiyh9/hiccups/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T19:38:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gbxqc1w109dh1.jpeg?width=640&crop=smart&auto=webp&s=f55a944c300396535fe3ee20ac34a24f27efbd3e"
+      },
+      {
+        "rank": 5,
+        "title": "Is this true?",
+        "url": "https://www.reddit.com/r/codex/comments/1uwihx2/is_this_true/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T19:21:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/el3cfjk0x8dh1.png?width=640&crop=smart&auto=webp&s=6ffbf8ddbfbca0e4b4f594cec536b57a4f0eeb44"
       },
       {
         "rank": 1,
@@ -148,104 +247,6 @@
         "publishedAt": "2026-07-14T17:47:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/lbczbtx8g8dh1.jpeg?width=640&crop=smart&auto=webp&s=600fc703ef74e2e64bfa1c5af6e27f07e39c52f3"
-      },
-      {
-        "rank": 1,
-        "title": "Claude spent +15 EUR of a 2 EUR limit.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T07:53:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iepu4woeh5dh1.png?width=640&crop=smart&auto=webp&s=f3c854522b3c7dddae23dc3651f16e65e41d4467"
-      },
-      {
-        "rank": 2,
-        "title": "Why can I only buy $1,000,000 worth of tokens?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T08:57:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2i400tqt5dh1.png?width=640&crop=smart&auto=webp&s=2a4a497b761dbd74585a15c2e2e3dccb3ad1dc29"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5 coming soon?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwgx2o/opus_5_coming_soon/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T18:24:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ov9c5crqm8dh1.png?width=320&crop=smart&auto=webp&s=50c9b1bf605ad176ea83fc8bb532c30caccf3953"
-      },
-      {
-        "rank": 4,
-        "title": "When your toxic situationship tweets “available until July 19”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw6gwj/when_your_toxic_situationship_tweets_available/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T11:52:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a8t66slxo6dh1.jpeg?width=640&crop=smart&auto=webp&s=c8b78cd1ea05ef7bf3ea704853c25c788b58bf3a"
-      },
-      {
-        "rank": 5,
-        "title": "I don’t get the Fable coding craze at all",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uvsndm/i_dont_get_the_fable_coding_craze_at_all/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T00:01:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "y'all heard the man another reset tmr",
-        "url": "https://www.reddit.com/r/codex/comments/1uw0hm2/yall_heard_the_man_another_reset_tmr/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T06:19:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uhi2fb0j15dh1.png?width=640&crop=smart&auto=webp&s=b46e16e3e85878d8524f7800f821b82dc5abc252"
-      },
-      {
-        "rank": 2,
-        "title": "(Non-banked?) Reset for 8 Mil Users",
-        "url": "https://www.reddit.com/r/codex/comments/1uwiwx0/nonbanked_reset_for_8_mil_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:36:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ua2npd1rz8dh1.jpeg?width=640&crop=smart&auto=webp&s=309fa1c87a7b4a73ebddd506cb8e6e074192efb4"
-      },
-      {
-        "rank": 3,
-        "title": "SOL xhigh is a monster of overengineering",
-        "url": "https://www.reddit.com/r/codex/comments/1uvx9et/sol_xhigh_is_a_monster_of_overengineering/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T03:31:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/opbkonad74dh1.png?width=640&crop=smart&auto=webp&s=a135322fdb1888492639ad9701134b2a38fee9b4"
-      },
-      {
-        "rank": 4,
-        "title": "Simplify your Codex model choices",
-        "url": "https://www.reddit.com/r/codex/comments/1uw4zr9/simplify_your_codex_model_choices/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T10:38:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o32qtmjpb6dh1.png?width=640&crop=smart&auto=webp&s=0e62b286d57f5a1c6b386101f74d155e9ef63058"
-      },
-      {
-        "rank": 5,
-        "title": "Limits reduced to a minimum, resets used as an anaesthetic",
-        "url": "https://www.reddit.com/r/codex/comments/1uvwql2/limits_reduced_to_a_minimum_resets_used_as_an/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T03:06:00.000Z",
-        "category": "reddit"
       }
     ]
   }

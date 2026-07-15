@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-07-15T11:12:43.527Z",
+  "fetchedAt": "2026-07-15T12:55:08.135Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Opus 5 coming soon?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwgx2o/opus_5_coming_soon/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T18:24:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ov9c5crqm8dh1.png?width=320&crop=smart&auto=webp&s=50c9b1bf605ad176ea83fc8bb532c30caccf3953"
+      },
+      {
+        "rank": 2,
+        "title": "Inspired by caveman and co, I'm open-sourcing a Claude Code plugin that reduces token output by 99.9%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwl7xi/inspired_by_caveman_and_co_im_opensourcing_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T21:03:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "My Claude Code subagent came back with a prompt-injection payload and hidden \"never tell the user\" instructions",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwn1mv/my_claude_code_subagent_came_back_with_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T22:11:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude helped me make my internet 100x faster",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwtn3m/claude_helped_me_make_my_internet_100x_faster/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T02:59:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n1ei01g55bdh1.png?width=140&height=54&auto=webp&s=67993dd2dda2b02e43e4634181af7e20832a4c82"
+      },
+      {
+        "rank": 5,
+        "title": "You should be doing all your work in Claude's free cloud computers included in your subscription. You're probably not setting them up right.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwq8ba/you_should_be_doing_all_your_work_in_claudes_free/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T00:21:38.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
@@ -48,6 +95,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-15T10:11:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "(Non-banked?) Reset for 8 Mil Users",
+        "url": "https://www.reddit.com/r/codex/comments/1uwiwx0/nonbanked_reset_for_8_mil_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T19:36:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ua2npd1rz8dh1.jpeg?width=640&crop=smart&auto=webp&s=309fa1c87a7b4a73ebddd506cb8e6e074192efb4"
+      },
+      {
+        "rank": 2,
+        "title": "Tibo wants to know if you want a reset at 9 mil users",
+        "url": "https://www.reddit.com/r/codex/comments/1uwx7wf/tibo_wants_to_know_if_you_want_a_reset_at_9_mil/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:01:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qjgqztm73cdh1.jpeg?width=640&crop=smart&auto=webp&s=baa3a1396e2cd3a990f244ff73fc9eefa731ada4"
+      },
+      {
+        "rank": 3,
+        "title": "Hiccups?",
+        "url": "https://www.reddit.com/r/codex/comments/1uwiyh9/hiccups/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T19:38:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gbxqc1w109dh1.jpeg?width=640&crop=smart&auto=webp&s=f55a944c300396535fe3ee20ac34a24f27efbd3e"
+      },
+      {
+        "rank": 4,
+        "title": "Is this true?",
+        "url": "https://www.reddit.com/r/codex/comments/1uwihx2/is_this_true/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-14T19:21:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/el3cfjk0x8dh1.png?width=640&crop=smart&auto=webp&s=6ffbf8ddbfbca0e4b4f594cec536b57a4f0eeb44"
+      },
+      {
+        "rank": 5,
+        "title": "I think the Codex team is playing the long game with all these quota resets",
+        "url": "https://www.reddit.com/r/codex/comments/1uwt910/i_think_the_codex_team_is_playing_the_long_game/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T02:40:27.000Z",
         "category": "reddit"
       },
       {
@@ -148,105 +244,6 @@
         "publishedAt": "2026-07-14T18:58:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yji3gov1r8dh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=2e72877abef348992a2be23ed3eff57f13b94d1d"
-      },
-      {
-        "rank": 1,
-        "title": "Claude spent +15 EUR of a 2 EUR limit.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw24bp/claude_spent_15_eur_of_a_2_eur_limit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T07:53:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iepu4woeh5dh1.png?width=640&crop=smart&auto=webp&s=f3c854522b3c7dddae23dc3651f16e65e41d4467"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5 coming soon?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwgx2o/opus_5_coming_soon/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T18:24:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ov9c5crqm8dh1.png?width=320&crop=smart&auto=webp&s=50c9b1bf605ad176ea83fc8bb532c30caccf3953"
-      },
-      {
-        "rank": 3,
-        "title": "Why can I only buy $1,000,000 worth of tokens?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uw37yg/why_can_i_only_buy_1000000_worth_of_tokens/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T08:57:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2i400tqt5dh1.png?width=640&crop=smart&auto=webp&s=2a4a497b761dbd74585a15c2e2e3dccb3ad1dc29"
-      },
-      {
-        "rank": 4,
-        "title": "Inspired by caveman and co, I'm open-sourcing a Claude Code plugin that reduces token output by 99.9%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwl7xi/inspired_by_caveman_and_co_im_opensourcing_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T21:03:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "My Claude subscription has paid for itself for a very long time.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwmlky/my_claude_subscription_has_paid_for_itself_for_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T21:54:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b5qemkodo9dh1.jpeg?width=640&crop=smart&auto=webp&s=e43135f43982dbf748e447525e0a4fe195f4a187"
-      },
-      {
-        "rank": 1,
-        "title": "(Non-banked?) Reset for 8 Mil Users",
-        "url": "https://www.reddit.com/r/codex/comments/1uwiwx0/nonbanked_reset_for_8_mil_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:36:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ua2npd1rz8dh1.jpeg?width=640&crop=smart&auto=webp&s=309fa1c87a7b4a73ebddd506cb8e6e074192efb4"
-      },
-      {
-        "rank": 2,
-        "title": "Simplify your Codex model choices",
-        "url": "https://www.reddit.com/r/codex/comments/1uw4zr9/simplify_your_codex_model_choices/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T10:38:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o32qtmjpb6dh1.png?width=640&crop=smart&auto=webp&s=0e62b286d57f5a1c6b386101f74d155e9ef63058"
-      },
-      {
-        "rank": 3,
-        "title": "Hiccups?",
-        "url": "https://www.reddit.com/r/codex/comments/1uwiyh9/hiccups/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:38:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gbxqc1w109dh1.jpeg?width=640&crop=smart&auto=webp&s=f55a944c300396535fe3ee20ac34a24f27efbd3e"
-      },
-      {
-        "rank": 4,
-        "title": "Is this true?",
-        "url": "https://www.reddit.com/r/codex/comments/1uwihx2/is_this_true/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:21:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/el3cfjk0x8dh1.png?width=640&crop=smart&auto=webp&s=6ffbf8ddbfbca0e4b4f594cec536b57a4f0eeb44"
-      },
-      {
-        "rank": 5,
-        "title": "Codex million users reset - are they always banked resets or sometimes just direct reset on the current limit?",
-        "url": "https://www.reddit.com/r/codex/comments/1uwi8ft/codex_million_users_reset_are_they_always_banked/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:11:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mfefi9j8v8dh1.jpeg?width=640&crop=smart&auto=webp&s=ef3368790abb426d30d6b897943312fb8593d758"
       }
     ]
   }

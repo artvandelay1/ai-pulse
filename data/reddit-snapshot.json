@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-07-15T22:07:15.376Z",
+  "fetchedAt": "2026-07-15T23:33:07.766Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "I’m building a fighter jet game with Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T16:24:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OGg1eXB4ZmM2ZmRoMVFoYgyeDCm3Vp7QtrJv_3FGhIEFo78HKVE-xn8TN7Cn.png?width=640&crop=smart&auto=webp&s=ecd81aa8990815775115b748a1a0af872921c87e"
-      },
-      {
-        "rank": 2,
-        "title": "Claude helped me make my internet 100x faster",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwtn3m/claude_helped_me_make_my_internet_100x_faster/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T02:59:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n1ei01g55bdh1.png?width=140&height=54&auto=webp&s=67993dd2dda2b02e43e4634181af7e20832a4c82"
-      },
-      {
-        "rank": 3,
-        "title": "My Claude Code subagent came back with a prompt-injection payload and hidden \"never tell the user\" instructions",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwn1mv/my_claude_code_subagent_came_back_with_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T22:11:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I built a web game with over 25K plays so far using Claude: You try to time the market against a couch that buys once and does nothing.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux1xvh/i_built_a_web_game_with_over_25k_plays_so_far/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T10:27:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude Code and Obsidian as an AI-maintained second brain",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwrxbo/claude_code_and_obsidian_as_an_aimaintained/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T01:38:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/n08S3Tao6jyEGbCoyvvl9rSJuM-mcvzWDhm8hXt_R9w.jpeg?width=320&crop=smart&auto=webp&s=bbca35ffe9b330b561d0d91d42eb12591d470266"
-      },
       {
         "rank": 1,
         "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
@@ -64,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "Does anyone else miss the old conference ecosystem? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwy25k/does_anyone_else_miss_the_old_conference/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:47:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Looking for JEPA devil advocates [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-15T17:34:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Does anyone else miss the old conference ecosystem? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwy25k/does_anyone_else_miss_the_old_conference/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:47:28.000Z",
         "category": "reddit"
       },
       {
@@ -97,6 +49,56 @@
         "score": 0,
         "publishedAt": "2026-07-15T13:44:23.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "A note from Tibo",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwvlmp/a_note_from_tibo/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T04:35:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2r5csm4rnbdh1.png?width=640&crop=smart&auto=webp&s=b80867e37a65e484dcf891c85a761b2ed4428960"
+      },
+      {
+        "rank": 2,
+        "title": "GPT 5.6 Sol tackles the 3 Body Problem",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1ux396z/gpt_56_sol_tackles_the_3_body_problem/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T11:33:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/a2psc2tveDhxZGRoMX0jGUH_gci79cLCAofX2ChClZnURWhEtqMxAwSOWYm-.png?width=640&crop=smart&auto=webp&s=7205b73daca5fd9d4dd7f0d4b180f4bd37303750"
+      },
+      {
+        "rank": 3,
+        "title": "Here comes 9M and another reset! I could get used to this",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwxgi5/here_comes_9m_and_another_reset_i_could_get_used/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:14:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5ogmfc0k5cdh1.jpeg?width=640&crop=smart&auto=webp&s=1572d69abef056df71d2477793857ec7b19dafbe"
+      },
+      {
+        "rank": 4,
+        "title": "The first experimental evidence of recursive self-improvement (RSI).",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwwa09/the_first_experimental_evidence_of_recursive/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T05:10:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ziq3lqzztbdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=879e83a3980acedfdaea0f8d2825f9a36b6b8369"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI anounces GPT-Red - an AI to Hack Its Own Models",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfkju/openai_anounces_gptred_an_ai_to_hack_its_own/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T19:16:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j69g0q390gdh1.jpeg?width=320&crop=smart&auto=webp&s=d455ce30c66f38845d8d9ce1d73abf5905dc25ea"
       },
       {
         "rank": 1,
@@ -149,83 +151,33 @@
       },
       {
         "rank": 1,
-        "title": "Is this true?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwigmi/is_this_true/",
-        "source": "r/OpenAI",
+        "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\" And Not A \"Social Warrior\" Project",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxhnh1/linus_torvalds_reaffirms_that_linux_is_not_antiai/",
+        "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-14T19:19:40.000Z",
+        "publishedAt": "2026-07-15T20:37:54.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f8b9cqerw8dh1.png?width=640&crop=smart&auto=webp&s=e357d3f6a3a7e15b911fd46b82d3329fe23226a9"
+        "thumbnail": "https://external-preview.redd.it/b3ekTIlx6R3geklbLb4RUZ2PO4tVgbJWbQdl7cAJV0M.jpeg?width=640&crop=smart&auto=webp&s=d6dc2cefc6e727a731735519348bd7a59db133fd"
       },
       {
         "rank": 2,
-        "title": "NEW LEAK: OpenAI’s First Device Will Be Moveable, Screenless Speaker Built as AI Companion",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwkxbc/new_leak_openais_first_device_will_be_moveable/",
-        "source": "r/OpenAI",
+        "title": "OpenAI reveals Codex Micro",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxbwiv/openai_reveals_codex_micro/",
+        "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-14T20:52:29.000Z",
+        "publishedAt": "2026-07-15T17:04:06.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/n3Pka1BXU_OF9letHbsO6p7CarYmAPon80ZKy1hHUgM.png?width=640&crop=smart&auto=webp&s=aa284228c415b8daad3a43a2359491218d929a85"
+        "thumbnail": "https://external-preview.redd.it/Z3pvcTN2eWdkZmRoMcCChf6O_89achBtBVH-VlTtShBIeSGekDEiE36AU4sB.png?width=640&crop=smart&auto=webp&s=9278ac09bc34dd877ab73b3d1ef2063c2538494d"
       },
       {
         "rank": 3,
-        "title": "A note from Tibo",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwvlmp/a_note_from_tibo/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T04:35:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2r5csm4rnbdh1.png?width=640&crop=smart&auto=webp&s=b80867e37a65e484dcf891c85a761b2ed4428960"
-      },
-      {
-        "rank": 4,
-        "title": "Here comes 9M and another reset! I could get used to this",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwxgi5/here_comes_9m_and_another_reset_i_could_get_used/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:14:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ogmfc0k5cdh1.jpeg?width=640&crop=smart&auto=webp&s=1572d69abef056df71d2477793857ec7b19dafbe"
-      },
-      {
-        "rank": 5,
-        "title": "GPT 5.6 Sol tackles the 3 Body Problem",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1ux396z/gpt_56_sol_tackles_the_3_body_problem/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T11:33:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/a2psc2tveDhxZGRoMX0jGUH_gci79cLCAofX2ChClZnURWhEtqMxAwSOWYm-.png?width=640&crop=smart&auto=webp&s=7205b73daca5fd9d4dd7f0d4b180f4bd37303750"
-      },
-      {
-        "rank": 1,
-        "title": "X to Open Source Their Entire Codebase",
-        "url": "https://www.reddit.com/r/singularity/comments/1ux4siy/x_to_open_source_their_entire_codebase/",
+        "title": "Thinking Machines releases first Open Weight Model “Inkling”",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxdtpe/thinking_machines_releases_first_open_weight/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-15T12:43:05.000Z",
+        "publishedAt": "2026-07-15T18:11:22.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/39z72dax2edh1.jpeg?width=640&crop=smart&auto=webp&s=88b4325c15ba519a59d6c6cc37c20d232565d968"
-      },
-      {
-        "rank": 2,
-        "title": "Deepmind Internally Delays Gemini 3.5 Pro Again According To Renowned Leaker",
-        "url": "https://www.reddit.com/r/singularity/comments/1uwiq9q/deepmind_internally_delays_gemini_35_pro_again/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:29:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/an4itajjy8dh1.jpeg?width=640&crop=smart&auto=webp&s=f83104614cfebbc76e00d015173cc2ab983ab0b3"
-      },
-      {
-        "rank": 3,
-        "title": "How it feels sometimes",
-        "url": "https://www.reddit.com/r/singularity/comments/1ux94o9/how_it_feels_sometimes/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-15T15:29:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h1avwkbiwedh1.png?width=640&crop=smart&auto=webp&s=c66088c59ea2489f96ae0926a901c7e484bb214b"
+        "thumbnail": "https://preview.redd.it/ta2c1nwhpfdh1.jpeg?width=640&crop=smart&auto=webp&s=2dfb509f6510e1b9f1806e5d9721f281718ae7f9"
       },
       {
         "rank": 4,
@@ -239,13 +191,61 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI reveals Codex Micro",
-        "url": "https://www.reddit.com/r/singularity/comments/1uxbwiv/openai_reveals_codex_micro/",
+        "title": "How it feels sometimes",
+        "url": "https://www.reddit.com/r/singularity/comments/1ux94o9/how_it_feels_sometimes/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-15T17:04:06.000Z",
+        "publishedAt": "2026-07-15T15:29:10.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z3pvcTN2eWdkZmRoMcCChf6O_89achBtBVH-VlTtShBIeSGekDEiE36AU4sB.png?width=640&crop=smart&auto=webp&s=9278ac09bc34dd877ab73b3d1ef2063c2538494d"
+        "thumbnail": "https://preview.redd.it/h1avwkbiwedh1.png?width=640&crop=smart&auto=webp&s=c66088c59ea2489f96ae0926a901c7e484bb214b"
+      },
+      {
+        "rank": 1,
+        "title": "I’m building a fighter jet game with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T16:24:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OGg1eXB4ZmM2ZmRoMVFoYgyeDCm3Vp7QtrJv_3FGhIEFo78HKVE-xn8TN7Cn.png?width=640&crop=smart&auto=webp&s=ecd81aa8990815775115b748a1a0af872921c87e"
+      },
+      {
+        "rank": 2,
+        "title": "Claude helped me make my internet 100x faster",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwtn3m/claude_helped_me_make_my_internet_100x_faster/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T02:59:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n1ei01g55bdh1.png?width=140&height=54&auto=webp&s=67993dd2dda2b02e43e4634181af7e20832a4c82"
+      },
+      {
+        "rank": 3,
+        "title": "My Claude Code subagent came back with a prompt-injection payload and hidden \"never tell the user\" instructions",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwn1mv/my_claude_code_subagent_came_back_with_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T22:11:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built a web game with over 25K plays so far using Claude: You try to time the market against a couch that buys once and does nothing.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux1xvh/i_built_a_web_game_with_over_25k_plays_so_far/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T10:27:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Code and Obsidian as an AI-maintained second brain",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwrxbo/claude_code_and_obsidian_as_an_aimaintained/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T01:38:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/n08S3Tao6jyEGbCoyvvl9rSJuM-mcvzWDhm8hXt_R9w.jpeg?width=320&crop=smart&auto=webp&s=bbca35ffe9b330b561d0d91d42eb12591d470266"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T09:13:45.412Z",
+  "fetchedAt": "2026-07-15T11:12:43.527Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,12 @@
     "items": [
       {
         "rank": 1,
-        "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
+        "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-14T10:13:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3uyvbtoa76dh1.png?width=140&height=61&auto=webp&s=523d3943b9adbcbbdaca03be35c5e073be075de9"
+        "publishedAt": "2026-07-15T06:59:41.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
@@ -35,20 +34,20 @@
       },
       {
         "rank": 4,
-        "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:59:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Infinities, impossibilities, and the man in the white linen suit [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uwxveq/infinities_impossibilities_and_the_man_in_the/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-15T06:36:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "If your model finds edge against closing lines, does that edge transfer to earlier bets? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux1n0v/if_your_model_finds_edge_against_closing_lines/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T10:11:16.000Z",
         "category": "reddit"
       },
       {
@@ -122,15 +121,6 @@
       },
       {
         "rank": 3,
-        "title": "Demis Hassabis shared a rare essay on X: AGI is few years away, we're in the singularity foothills, proposes US-led Frontier AI Standards Body with eventual mandatory safety testing",
-        "url": "https://www.reddit.com/r/singularity/comments/1uw40fb/demis_hassabis_shared_a_rare_essay_on_x_agi_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T09:44:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Opus 5 Could Be Out As Soon As This Week Per Reliable Leaker On Twitter",
         "url": "https://www.reddit.com/r/singularity/comments/1uwftum/opus_5_could_be_out_as_soon_as_this_week_per/",
         "source": "r/singularity",
@@ -140,7 +130,7 @@
         "thumbnail": "https://preview.redd.it/lbczbtx8g8dh1.jpeg?width=640&crop=smart&auto=webp&s=600fc703ef74e2e64bfa1c5af6e27f07e39c52f3"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Kimi k3 launching soon (probably more than 2 trillion para acc to leaks)",
         "url": "https://www.reddit.com/r/singularity/comments/1uwctrz/kimi_k3_launching_soon_probably_more_than_2/",
         "source": "r/singularity",
@@ -148,6 +138,16 @@
         "publishedAt": "2026-07-14T16:00:53.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8ipfw3cax7dh1.jpeg?width=640&crop=smart&auto=webp&s=4acd7f24c8e14691b09437d425f94d216b2b1d8a"
+      },
+      {
+        "rank": 5,
+        "title": "Differences Between GPT-5.5 Pro and GPT-5.6 Sol on MineBench",
+        "url": "https://www.reddit.com/r/singularity/comments/1uwhvws/differences_between_gpt55_pro_and_gpt56_sol_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-14T18:58:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yji3gov1r8dh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=2e72877abef348992a2be23ed3eff57f13b94d1d"
       },
       {
         "rank": 1,

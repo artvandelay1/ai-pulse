@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T17:52:41.581Z",
+  "fetchedAt": "2026-07-15T19:19:48.899Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,20 +34,20 @@
       },
       {
         "rank": 4,
+        "title": "Looking for JEPA devil advocates [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T17:34:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-15T13:44:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Junior Machine Learning Engineer Interview [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux8i9g/junior_machine_learning_engineer_interview_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T15:06:44.000Z",
         "category": "reddit"
       },
       {
@@ -92,13 +92,13 @@
       },
       {
         "rank": 5,
-        "title": "The first experimental evidence of recursive self-improvement (RSI).",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwwa09/the_first_experimental_evidence_of_recursive/",
+        "title": "GPT 5.6 Sol tackles the 3 Body Problem",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1ux396z/gpt_56_sol_tackles_the_3_body_problem/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-15T05:10:21.000Z",
+        "publishedAt": "2026-07-15T11:33:18.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ziq3lqzztbdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=879e83a3980acedfdaea0f8d2825f9a36b6b8369"
+        "thumbnail": "https://external-preview.redd.it/a2psc2tveDhxZGRoMX0jGUH_gci79cLCAofX2ChClZnURWhEtqMxAwSOWYm-.png?width=640&crop=smart&auto=webp&s=7205b73daca5fd9d4dd7f0d4b180f4bd37303750"
       },
       {
         "rank": 1,
@@ -112,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "Differences Between GPT-5.5 Pro and GPT-5.6 Sol on MineBench",
-        "url": "https://www.reddit.com/r/singularity/comments/1uwhvws/differences_between_gpt55_pro_and_gpt56_sol_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-14T18:58:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yji3gov1r8dh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=2e72877abef348992a2be23ed3eff57f13b94d1d"
-      },
-      {
-        "rank": 3,
         "title": "Deepmind Internally Delays Gemini 3.5 Pro Again According To Renowned Leaker",
         "url": "https://www.reddit.com/r/singularity/comments/1uwiq9q/deepmind_internally_delays_gemini_35_pro_again/",
         "source": "r/singularity",
@@ -129,6 +119,16 @@
         "publishedAt": "2026-07-14T19:29:36.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/an4itajjy8dh1.jpeg?width=640&crop=smart&auto=webp&s=f83104614cfebbc76e00d015173cc2ab983ab0b3"
+      },
+      {
+        "rank": 3,
+        "title": "How it feels sometimes",
+        "url": "https://www.reddit.com/r/singularity/comments/1ux94o9/how_it_feels_sometimes/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-15T15:29:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h1avwkbiwedh1.png?width=640&crop=smart&auto=webp&s=c66088c59ea2489f96ae0926a901c7e484bb214b"
       },
       {
         "rank": 4,
@@ -142,13 +142,13 @@
       },
       {
         "rank": 5,
-        "title": "How it feels sometimes",
-        "url": "https://www.reddit.com/r/singularity/comments/1ux94o9/how_it_feels_sometimes/",
+        "title": "OpenAI reveals Codex Micro",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxbwiv/openai_reveals_codex_micro/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-15T15:29:10.000Z",
+        "publishedAt": "2026-07-15T17:04:06.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h1avwkbiwedh1.png?width=640&crop=smart&auto=webp&s=c66088c59ea2489f96ae0926a901c7e484bb214b"
+        "thumbnail": "https://external-preview.redd.it/Z3pvcTN2eWdkZmRoMcCChf6O_89achBtBVH-VlTtShBIeSGekDEiE36AU4sB.png?width=640&crop=smart&auto=webp&s=9278ac09bc34dd877ab73b3d1ef2063c2538494d"
       },
       {
         "rank": 1,

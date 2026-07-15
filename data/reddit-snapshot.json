@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-07-15T19:19:48.899Z",
+  "fetchedAt": "2026-07-15T20:37:09.390Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Inspired by caveman and co, I'm open-sourcing a Claude Code plugin that reduces token output by 99.9%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwl7xi/inspired_by_caveman_and_co_im_opensourcing_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T21:03:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I’m building a fighter jet game with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T16:24:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OGg1eXB4ZmM2ZmRoMVFoYgyeDCm3Vp7QtrJv_3FGhIEFo78HKVE-xn8TN7Cn.png?width=640&crop=smart&auto=webp&s=ecd81aa8990815775115b748a1a0af872921c87e"
+      },
+      {
+        "rank": 3,
+        "title": "Claude helped me make my internet 100x faster",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwtn3m/claude_helped_me_make_my_internet_100x_faster/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T02:59:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n1ei01g55bdh1.png?width=140&height=54&auto=webp&s=67993dd2dda2b02e43e4634181af7e20832a4c82"
+      },
+      {
+        "rank": 4,
+        "title": "My Claude Code subagent came back with a prompt-injection payload and hidden \"never tell the user\" instructions",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwn1mv/my_claude_code_subagent_came_back_with_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-14T22:11:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I built a web game with over 25K plays so far using Claude: You try to time the market against a couch that buys once and does nothing.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ux1xvh/i_built_a_web_game_with_over_25k_plays_so_far/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T10:27:08.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
@@ -25,20 +72,20 @@
       },
       {
         "rank": 3,
-        "title": "AI/ML Research - What Does it Really Take? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T13:38:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Looking for JEPA devil advocates [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-15T17:34:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AI/ML Research - What Does it Really Take? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-15T13:38:27.000Z",
         "category": "reddit"
       },
       {
@@ -48,6 +95,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-15T13:44:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo wants to know if you want a reset at 9 mil users",
+        "url": "https://www.reddit.com/r/codex/comments/1uwx7wf/tibo_wants_to_know_if_you_want_a_reset_at_9_mil/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:01:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qjgqztm73cdh1.jpeg?width=640&crop=smart&auto=webp&s=baa3a1396e2cd3a990f244ff73fc9eefa731ada4"
+      },
+      {
+        "rank": 2,
+        "title": "GPT 5.6 reverse engineered Codex app code and... started adding new features",
+        "url": "https://www.reddit.com/r/codex/comments/1uwxzqq/gpt_56_reverse_engineered_codex_app_code_and/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:43:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ub8ozihpacdh1.png?width=640&crop=smart&auto=webp&s=7860af71d20fabda83d507dd03b53d5f70cea13a"
+      },
+      {
+        "rank": 3,
+        "title": "Bro is a Menace",
+        "url": "https://www.reddit.com/r/codex/comments/1ux0vsn/bro_is_a_menace/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T09:28:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6q7y7i684ddh1.png?width=640&crop=smart&auto=webp&s=85e90e6a25f8253269c4f49268c760cc582e12c1"
+      },
+      {
+        "rank": 4,
+        "title": "$100 free credit if you share what you loved about 5.6-Sol",
+        "url": "https://www.reddit.com/r/codex/comments/1uwwch6/100_free_credit_if_you_share_what_you_loved_about/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T05:13:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4bh789arubdh1.png?width=640&crop=smart&auto=webp&s=5366dc734e2d5087e7fca8377fd3a435076c438d"
+      },
+      {
+        "rank": 5,
+        "title": "I think the Codex team is playing the long game with all these quota resets",
+        "url": "https://www.reddit.com/r/codex/comments/1uwt910/i_think_the_codex_team_is_playing_the_long_game/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T02:40:27.000Z",
         "category": "reddit"
       },
       {
@@ -149,102 +245,6 @@
         "publishedAt": "2026-07-15T17:04:06.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Z3pvcTN2eWdkZmRoMcCChf6O_89achBtBVH-VlTtShBIeSGekDEiE36AU4sB.png?width=640&crop=smart&auto=webp&s=9278ac09bc34dd877ab73b3d1ef2063c2538494d"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5 coming soon?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwgx2o/opus_5_coming_soon/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T18:24:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ov9c5crqm8dh1.png?width=320&crop=smart&auto=webp&s=50c9b1bf605ad176ea83fc8bb532c30caccf3953"
-      },
-      {
-        "rank": 2,
-        "title": "Inspired by caveman and co, I'm open-sourcing a Claude Code plugin that reduces token output by 99.9%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwl7xi/inspired_by_caveman_and_co_im_opensourcing_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T21:03:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "My Claude Code subagent came back with a prompt-injection payload and hidden \"never tell the user\" instructions",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwn1mv/my_claude_code_subagent_came_back_with_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-14T22:11:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Claude helped me make my internet 100x faster",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwtn3m/claude_helped_me_make_my_internet_100x_faster/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T02:59:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n1ei01g55bdh1.png?width=140&height=54&auto=webp&s=67993dd2dda2b02e43e4634181af7e20832a4c82"
-      },
-      {
-        "rank": 5,
-        "title": "You should be doing all your work in Claude's free cloud computers included in your subscription. You're probably not setting them up right.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uwq8ba/you_should_be_doing_all_your_work_in_claudes_free/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T00:21:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "(Non-banked?) Reset for 8 Mil Users",
-        "url": "https://www.reddit.com/r/codex/comments/1uwiwx0/nonbanked_reset_for_8_mil_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:36:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ua2npd1rz8dh1.jpeg?width=640&crop=smart&auto=webp&s=309fa1c87a7b4a73ebddd506cb8e6e074192efb4"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo wants to know if you want a reset at 9 mil users",
-        "url": "https://www.reddit.com/r/codex/comments/1uwx7wf/tibo_wants_to_know_if_you_want_a_reset_at_9_mil/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:01:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qjgqztm73cdh1.jpeg?width=640&crop=smart&auto=webp&s=baa3a1396e2cd3a990f244ff73fc9eefa731ada4"
-      },
-      {
-        "rank": 3,
-        "title": "Hiccups?",
-        "url": "https://www.reddit.com/r/codex/comments/1uwiyh9/hiccups/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:38:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gbxqc1w109dh1.jpeg?width=640&crop=smart&auto=webp&s=f55a944c300396535fe3ee20ac34a24f27efbd3e"
-      },
-      {
-        "rank": 4,
-        "title": "Is this true?",
-        "url": "https://www.reddit.com/r/codex/comments/1uwihx2/is_this_true/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-14T19:21:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/el3cfjk0x8dh1.png?width=640&crop=smart&auto=webp&s=6ffbf8ddbfbca0e4b4f594cec536b57a4f0eeb44"
-      },
-      {
-        "rank": 5,
-        "title": "I think the Codex team is playing the long game with all these quota resets",
-        "url": "https://www.reddit.com/r/codex/comments/1uwt910/i_think_the_codex_team_is_playing_the_long_game/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T02:40:27.000Z",
-        "category": "reddit"
       }
     ]
   }

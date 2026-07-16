@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T12:06:49.470Z",
+  "fetchedAt": "2026-07-16T14:35:43.403Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,29 +16,29 @@
       },
       {
         "rank": 2,
-        "title": "AI/ML Research - What Does it Really Take? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T13:38:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T13:44:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-16T09:55:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T12:50:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T13:31:07.000Z",
         "category": "reddit"
       },
       {
@@ -62,15 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "System Architects are about to become one of the most valuable people in tech",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfs3r/system_architects_are_about_to_become_one_of_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T19:24:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Codex got another usage reset. Tibo, please let me rest.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uxsfa0/codex_got_another_usage_reset_tibo_please_let_me/",
         "source": "r/OpenAI",
@@ -78,6 +69,15 @@
         "publishedAt": "2026-07-16T04:23:02.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3msm9melqidh1.png?width=640&crop=smart&auto=webp&s=ed3f26fc0c0061f5312ff50826c6d85fa6279d03"
+      },
+      {
+        "rank": 3,
+        "title": "System Architects are about to become one of the most valuable people in tech",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfs3r/system_architects_are_about_to_become_one_of_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T19:24:05.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -100,16 +100,6 @@
       },
       {
         "rank": 1,
-        "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\" And Not A \"Social Warrior\" Project",
-        "url": "https://www.reddit.com/r/singularity/comments/1uxhnh1/linus_torvalds_reaffirms_that_linux_is_not_antiai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-15T20:37:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b3ekTIlx6R3geklbLb4RUZ2PO4tVgbJWbQdl7cAJV0M.jpeg?width=640&crop=smart&auto=webp&s=d6dc2cefc6e727a731735519348bd7a59db133fd"
-      },
-      {
-        "rank": 2,
         "title": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
         "url": "https://www.reddit.com/r/singularity/comments/1uxwzi4/george_lucas_says_rejecting_ai_is_like_rejecting/",
         "source": "r/singularity",
@@ -117,6 +107,16 @@
         "publishedAt": "2026-07-16T08:36:42.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813"
+      },
+      {
+        "rank": 2,
+        "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\" And Not A \"Social Warrior\" Project",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxhnh1/linus_torvalds_reaffirms_that_linux_is_not_antiai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-15T20:37:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/b3ekTIlx6R3geklbLb4RUZ2PO4tVgbJWbQdl7cAJV0M.jpeg?width=640&crop=smart&auto=webp&s=d6dc2cefc6e727a731735519348bd7a59db133fd"
       },
       {
         "rank": 3,

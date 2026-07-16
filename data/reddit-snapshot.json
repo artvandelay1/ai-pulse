@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T05:46:45.853Z",
+  "fetchedAt": "2026-07-16T08:22:49.720Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:59:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Looking for JEPA devil advocates [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
         "source": "r/MachineLearning",
@@ -24,16 +15,16 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "Does anyone else miss the old conference ecosystem? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uwy25k/does_anyone_else_miss_the_old_conference/",
+        "rank": 2,
+        "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-15T06:47:28.000Z",
+        "publishedAt": "2026-07-15T13:44:23.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "AI/ML Research - What Does it Really Take? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
         "source": "r/MachineLearning",
@@ -42,12 +33,22 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
+        "rank": 4,
+        "title": "All major robotics and VLA papers, ranked and benchmarked in a single place [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxa7ak/all_major_robotics_and_vla_papers_ranked_and/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-15T13:44:23.000Z",
+        "publishedAt": "2026-07-15T16:05:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wvhcgu1q1fdh1.png?width=140&height=88&auto=webp&s=d914b037ae47cf6b529bc66f8af00430d0d590ae"
+      },
+      {
+        "rank": 5,
+        "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T05:43:55.000Z",
         "category": "reddit"
       },
       {
@@ -72,22 +73,22 @@
       },
       {
         "rank": 3,
-        "title": "Here comes 9M and another reset! I could get used to this",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwxgi5/here_comes_9m_and_another_reset_i_could_get_used/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:14:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ogmfc0k5cdh1.jpeg?width=640&crop=smart&auto=webp&s=1572d69abef056df71d2477793857ec7b19dafbe"
-      },
-      {
-        "rank": 4,
         "title": "System Architects are about to become one of the most valuable people in tech",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uxfs3r/system_architects_are_about_to_become_one_of_the/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-15T19:24:05.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Codex got another usage reset. Tibo, please let me rest.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxsfa0/codex_got_another_usage_reset_tibo_please_let_me/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T04:23:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3msm9melqidh1.png?width=640&crop=smart&auto=webp&s=ed3f26fc0c0061f5312ff50826c6d85fa6279d03"
       },
       {
         "rank": 5,
@@ -141,13 +142,13 @@
       },
       {
         "rank": 5,
-        "title": "How it feels sometimes",
-        "url": "https://www.reddit.com/r/singularity/comments/1ux94o9/how_it_feels_sometimes/",
+        "title": "Anthropic warns that AI will soon be able to improve itself without human intervention",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxhpj3/anthropic_warns_that_ai_will_soon_be_able_to/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-15T15:29:10.000Z",
+        "publishedAt": "2026-07-15T20:40:11.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h1avwkbiwedh1.png?width=640&crop=smart&auto=webp&s=c66088c59ea2489f96ae0926a901c7e484bb214b"
+        "thumbnail": "https://external-preview.redd.it/f11k-oSXgJCeQ1wUbCWx9JnsPVKIsD5gXNbFaiHCPYQ.jpeg?width=640&crop=smart&auto=webp&s=16bc677155efee28f20157d762bc55c0ee2d207e"
       },
       {
         "rank": 1,

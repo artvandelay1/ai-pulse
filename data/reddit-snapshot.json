@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T17:49:07.531Z",
+  "fetchedAt": "2026-07-16T19:20:15.737Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,12 +17,13 @@
       },
       {
         "rank": 2,
-        "title": "Usage Limit was just Reset",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxs0qt/usage_limit_was_just_reset/",
+        "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxy5s8/i_built_a_truescale_atlas_of_the_universe_84m/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-16T04:02:20.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-16T09:43:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YWIxMTMxbXk1a2RoMTwllNMbJZTDTNeemq7chG7CzzovkgKmzvvR64L9OEq5.png?width=640&crop=smart&auto=webp&s=5915cc71dda1b9766a993e6defb59647953cc386"
       },
       {
         "rank": 3,
@@ -36,22 +37,22 @@
       },
       {
         "rank": 4,
-        "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxy5s8/i_built_a_truescale_atlas_of_the_universe_84m/",
+        "title": "Usage Limit was just Reset",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxs0qt/usage_limit_was_just_reset/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-16T09:43:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YWIxMTMxbXk1a2RoMTwllNMbJZTDTNeemq7chG7CzzovkgKmzvvR64L9OEq5.png?width=640&crop=smart&auto=webp&s=5915cc71dda1b9766a993e6defb59647953cc386"
+        "publishedAt": "2026-07-16T04:02:20.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Show us what you've created with Claude!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxlehk/show_us_what_youve_created_with_claude/",
+        "title": "Woke up to this. Yay!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxwdis/woke_up_to_this_yay/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-15T23:01:04.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-16T08:00:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gvz45nrctjdh1.png?width=640&crop=smart&auto=webp&s=1d3d97b02445f60b6beaab9214a02cec34c889f6"
       },
       {
         "rank": 1,
@@ -82,20 +83,20 @@
       },
       {
         "rank": 4,
-        "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T05:43:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-16T16:00:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T05:43:55.000Z",
         "category": "reddit"
       },
       {

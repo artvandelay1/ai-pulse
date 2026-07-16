@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-07-16T20:29:06.381Z",
+  "fetchedAt": "2026-07-16T21:37:44.722Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T09:55:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T12:50:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T13:31:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T16:00:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T05:43:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Kimi-K3 arrived: The era of the Chinese labs being far behind is over",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uyd77a/kimik3_arrived_the_era_of_the_chinese_labs_being/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T19:45:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yk7rxgy7bndh1.jpeg?width=640&crop=smart&auto=webp&s=2e8f27e2af81cffa6475905eae1c2c03513369ba"
+      },
+      {
+        "rank": 2,
+        "title": "Codex got another usage reset. Tibo, please let me rest.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxsfa0/codex_got_another_usage_reset_tibo_please_let_me/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T04:23:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3msm9melqidh1.png?width=640&crop=smart&auto=webp&s=ed3f26fc0c0061f5312ff50826c6d85fa6279d03"
+      },
+      {
+        "rank": 3,
+        "title": "I used 5.6 Sol Ultra to Close a 30-Year Open Gap in Mathematical Optimization Theory, following OpenAI's CDC Proof Prompt Methodology",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T19:34:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI finally launches hardware… for Codex",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxle8o/openai_finally_launches_hardware_for_codex/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T23:00:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/1aqWsjUll1FV7RtExvsG8rqoKWWctkmmJZGcFhWcO7M.png?width=640&crop=smart&auto=webp&s=5bf4bea875ac6356666e5af336d2f7c8ea643b4c"
+      },
+      {
+        "rank": 5,
+        "title": "Introducing OpenMicro: Bring Codex Micro to any gaming controller and coding harness",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxxmai/introducing_openmicro_bring_codex_micro_to_any/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T09:12:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ljg01db26kdh1.png?width=640&crop=smart&auto=webp&s=122bbf3f0c40502f863eb78ba2b0b109d2b2a391"
+      },
+      {
+        "rank": 1,
+        "title": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxwzi4/george_lucas_says_rejecting_ai_is_like_rejecting/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-16T08:36:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813"
+      },
+      {
+        "rank": 2,
+        "title": "Chinese fable 5 is here !! Aka kimi k3",
+        "url": "https://www.reddit.com/r/singularity/comments/1uy3oij/chinese_fable_5_is_here_aka_kimi_k3/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-16T13:59:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uv4k60ydlldh1.jpeg?width=640&crop=smart&auto=webp&s=c270dd3fd85379699641200b43ce4a2a042e1b0c"
+      },
+      {
+        "rank": 3,
+        "title": "Kimi K3 tops Frontend Code Arena",
+        "url": "https://www.reddit.com/r/singularity/comments/1uybldp/kimi_k3_tops_frontend_code_arena/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-16T18:46:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pg72x8ul0ndh1.jpeg?width=640&crop=smart&auto=webp&s=b1f41ff3a1c959f40355a5ccf105883f6057636e"
+      },
+      {
+        "rank": 4,
+        "title": "AI-haters ja-baited with a real Monet claimed as \"AI generated,\" explain why it's slop and nothing like a REAL Monet",
+        "url": "https://www.reddit.com/r/singularity/comments/1uxyv17/aihaters_jabaited_with_a_real_monet_claimed_as_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-16T10:22:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ejJ0cTN4anJpa2RoMYo9Kl91iOJjJDw1Cysm3z5eXCIHQEoZrClLTGGSuW-J.png?width=320&crop=smart&auto=webp&s=b1d48696c630dcf9fe8a55b503c223cb896157b3"
+      },
+      {
+        "rank": 5,
+        "title": "Kimi K3 Benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1uy9e5n/kimi_k3_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-16T17:27:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o5kaqz3kmmdh1.jpeg?width=640&crop=smart&auto=webp&s=6f2805492ce4eb0fa17fdfa8682c9e031754739d"
+      },
       {
         "rank": 1,
         "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
@@ -51,51 +195,6 @@
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-07-15T23:01:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T09:55:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T12:50:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T16:00:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T13:31:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T05:43:55.000Z",
         "category": "reddit"
       },
       {
@@ -147,104 +246,6 @@
         "publishedAt": "2026-07-16T09:09:32.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/v312zal5tjdh1.png?width=640&crop=smart&auto=webp&s=3799d0dc2d471b8b071bc9148da3b7101c3ac11a"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI anounces GPT-Red - an AI to Hack Its Own Models",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfkju/openai_anounces_gptred_an_ai_to_hack_its_own/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T19:16:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j69g0q390gdh1.jpeg?width=320&crop=smart&auto=webp&s=d455ce30c66f38845d8d9ce1d73abf5905dc25ea"
-      },
-      {
-        "rank": 2,
-        "title": "Codex got another usage reset. Tibo, please let me rest.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxsfa0/codex_got_another_usage_reset_tibo_please_let_me/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T04:23:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3msm9melqidh1.png?width=640&crop=smart&auto=webp&s=ed3f26fc0c0061f5312ff50826c6d85fa6279d03"
-      },
-      {
-        "rank": 3,
-        "title": "System Architects are about to become one of the most valuable people in tech",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfs3r/system_architects_are_about_to_become_one_of_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T19:24:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI announces Codex Micro... a keyboard alternative???",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxgwtf/openai_announces_codex_micro_a_keyboard/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T20:08:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aDzvi5nwz_Go7lXqgKCbCLNQP5hwT1MRoW6yHDVxS6I.jpeg?width=320&crop=smart&auto=webp&s=ebe6cd5a6ec60caaa44930569176606886d4fc35"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI loses trademark dispute at EU court",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxi6ae/openai_loses_trademark_dispute_at_eu_court/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T21:00:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
-        "url": "https://www.reddit.com/r/singularity/comments/1uxwzi4/george_lucas_says_rejecting_ai_is_like_rejecting/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-16T08:36:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813"
-      },
-      {
-        "rank": 2,
-        "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\" And Not A \"Social Warrior\" Project",
-        "url": "https://www.reddit.com/r/singularity/comments/1uxhnh1/linus_torvalds_reaffirms_that_linux_is_not_antiai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-15T20:37:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b3ekTIlx6R3geklbLb4RUZ2PO4tVgbJWbQdl7cAJV0M.jpeg?width=640&crop=smart&auto=webp&s=d6dc2cefc6e727a731735519348bd7a59db133fd"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI reveals Codex Micro",
-        "url": "https://www.reddit.com/r/singularity/comments/1uxbwiv/openai_reveals_codex_micro/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-15T17:04:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z3pvcTN2eWdkZmRoMcCChf6O_89achBtBVH-VlTtShBIeSGekDEiE36AU4sB.png?width=640&crop=smart&auto=webp&s=9278ac09bc34dd877ab73b3d1ef2063c2538494d"
-      },
-      {
-        "rank": 4,
-        "title": "Thinking Machines releases first Open Weight Model “Inkling”",
-        "url": "https://www.reddit.com/r/singularity/comments/1uxdtpe/thinking_machines_releases_first_open_weight/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-15T18:11:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ta2c1nwhpfdh1.jpeg?width=640&crop=smart&auto=webp&s=2dfb509f6510e1b9f1806e5d9721f281718ae7f9"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic warns that AI will soon be able to improve itself without human intervention",
-        "url": "https://www.reddit.com/r/singularity/comments/1uxhpj3/anthropic_warns_that_ai_will_soon_be_able_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-15T20:40:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/f11k-oSXgJCeQ1wUbCWx9JnsPVKIsD5gXNbFaiHCPYQ.jpeg?width=640&crop=smart&auto=webp&s=16bc677155efee28f20157d762bc55c0ee2d207e"
       }
     ]
   }

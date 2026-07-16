@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-16T14:35:43.403Z",
+  "fetchedAt": "2026-07-16T16:22:13.287Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I’m building a fighter jet game with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T16:24:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OGg1eXB4ZmM2ZmRoMVFoYgyeDCm3Vp7QtrJv_3FGhIEFo78HKVE-xn8TN7Cn.png?width=640&crop=smart&auto=webp&s=ecd81aa8990815775115b748a1a0af872921c87e"
+      },
+      {
+        "rank": 2,
+        "title": "‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxhe4w/anthropic_doesnt_care_about_europe_eu_officials/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T20:27:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/6s8FNNTAFuvYOnRm5-ZNSCWKIBvkV3VpxMbVEFtLDhk.jpeg?width=640&crop=smart&auto=webp&s=8ff54747b806567e21d8f1802bb441904fc7dbe6"
+      },
+      {
+        "rank": 3,
+        "title": "Usage Limit was just Reset",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxs0qt/usage_limit_was_just_reset/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T04:02:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Dear mr Dario",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxler8/dear_mr_dario/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T23:01:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/u07gskb85hdh1.jpeg?width=320&crop=smart&auto=webp&s=85f5e1cb15702935eb6ff847ebd1290673252cd2"
+      },
+      {
+        "rank": 5,
+        "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxy5s8/i_built_a_truescale_atlas_of_the_universe_84m/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T09:43:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YWIxMTMxbXk1a2RoMTwllNMbJZTDTNeemq7chG7CzzovkgKmzvvR64L9OEq5.png?width=640&crop=smart&auto=webp&s=5915cc71dda1b9766a993e6defb59647953cc386"
+      },
       {
         "rank": 1,
         "title": "Looking for JEPA devil advocates [R]",
@@ -16,20 +65,20 @@
       },
       {
         "rank": 2,
-        "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T09:55:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-16T12:50:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T09:55:40.000Z",
         "category": "reddit"
       },
       {
@@ -48,6 +97,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-16T05:43:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "A normal day for me",
+        "url": "https://www.reddit.com/r/codex/comments/1uxftrp/a_normal_day_for_me/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T19:25:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7dge8jge2gdh1.png?width=640&crop=smart&auto=webp&s=bf659d0fa7d98d72a2b3b21f452f7cdf6cd66f1d"
+      },
+      {
+        "rank": 2,
+        "title": "Reset for 9 Mil Users (non-banked)",
+        "url": "https://www.reddit.com/r/codex/comments/1uxs9xh/reset_for_9_mil_users_nonbanked/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-16T04:15:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fd9t2q48pidh1.jpeg?width=640&crop=smart&auto=webp&s=8eeb226768269c651f9ed4079166d08790478b3d"
+      },
+      {
+        "rank": 3,
+        "title": "I think ability set limits for our work should be in our hands.",
+        "url": "https://www.reddit.com/r/codex/comments/1uxzgef/i_think_ability_set_limits_for_our_work_should_be/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-16T10:54:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ja2s065gokdh1.jpeg?width=640&crop=smart&auto=webp&s=863f63bd147624c1366c281130402ef0ef173470"
+      },
+      {
+        "rank": 4,
+        "title": "I made sim city game using SOL 5.6. In 3 hours.",
+        "url": "https://www.reddit.com/r/codex/comments/1uxo8y5/i_made_sim_city_game_using_sol_56_in_3_hours/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-16T01:03:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Zm05OTVocXlxaGRoMYv3nXep6AVn8yDJRtGbYj6m1qbrhvqAyVjJeHGACkJ3.png?width=640&crop=smart&auto=webp&s=e85aa7403b8ecc2608a228cd39f20c8f1ddf5313"
+      },
+      {
+        "rank": 5,
+        "title": "Sol is excellent and Codex is holding it back",
+        "url": "https://www.reddit.com/r/codex/comments/1uxbeja/sol_is_excellent_and_codex_is_holding_it_back/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T16:46:46.000Z",
         "category": "reddit"
       },
       {
@@ -147,103 +245,6 @@
         "publishedAt": "2026-07-15T20:40:11.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/f11k-oSXgJCeQ1wUbCWx9JnsPVKIsD5gXNbFaiHCPYQ.jpeg?width=640&crop=smart&auto=webp&s=16bc677155efee28f20157d762bc55c0ee2d207e"
-      },
-      {
-        "rank": 1,
-        "title": "I’m building a fighter jet game with Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T16:24:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OGg1eXB4ZmM2ZmRoMVFoYgyeDCm3Vp7QtrJv_3FGhIEFo78HKVE-xn8TN7Cn.png?width=640&crop=smart&auto=webp&s=ecd81aa8990815775115b748a1a0af872921c87e"
-      },
-      {
-        "rank": 2,
-        "title": "‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxhe4w/anthropic_doesnt_care_about_europe_eu_officials/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T20:27:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/6s8FNNTAFuvYOnRm5-ZNSCWKIBvkV3VpxMbVEFtLDhk.jpeg?width=640&crop=smart&auto=webp&s=8ff54747b806567e21d8f1802bb441904fc7dbe6"
-      },
-      {
-        "rank": 3,
-        "title": "Usage Limit was just Reset",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxs0qt/usage_limit_was_just_reset/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T04:02:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Dear mr Dario",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxler8/dear_mr_dario/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T23:01:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u07gskb85hdh1.jpeg?width=320&crop=smart&auto=webp&s=85f5e1cb15702935eb6ff847ebd1290673252cd2"
-      },
-      {
-        "rank": 5,
-        "title": "Show us what you've created with Claude!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxlehk/show_us_what_youve_created_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T23:01:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "A normal day for me",
-        "url": "https://www.reddit.com/r/codex/comments/1uxftrp/a_normal_day_for_me/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T19:25:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7dge8jge2gdh1.png?width=640&crop=smart&auto=webp&s=bf659d0fa7d98d72a2b3b21f452f7cdf6cd66f1d"
-      },
-      {
-        "rank": 2,
-        "title": "Reset for 9 Mil Users (non-banked)",
-        "url": "https://www.reddit.com/r/codex/comments/1uxs9xh/reset_for_9_mil_users_nonbanked/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-16T04:15:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fd9t2q48pidh1.jpeg?width=640&crop=smart&auto=webp&s=8eeb226768269c651f9ed4079166d08790478b3d"
-      },
-      {
-        "rank": 3,
-        "title": "How do you guys decide a prompt is Terra or Luna level instead of Sol",
-        "url": "https://www.reddit.com/r/codex/comments/1ux53ql/how_do_you_guys_decide_a_prompt_is_terra_or_luna/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T12:56:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yx85b4jq4edh1.png?width=640&crop=smart&auto=webp&s=3fa2c0736b9dee1a67a46c7f98767418f3f1371a"
-      },
-      {
-        "rank": 4,
-        "title": "Sol is excellent and Codex is holding it back",
-        "url": "https://www.reddit.com/r/codex/comments/1uxbeja/sol_is_excellent_and_codex_is_holding_it_back/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T16:46:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I made sim city game using SOL 5.6. In 3 hours.",
-        "url": "https://www.reddit.com/r/codex/comments/1uxo8y5/i_made_sim_city_game_using_sol_56_in_3_hours/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-16T01:03:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Zm05OTVocXlxaGRoMYv3nXep6AVn8yDJRtGbYj6m1qbrhvqAyVjJeHGACkJ3.png?width=640&crop=smart&auto=webp&s=e85aa7403b8ecc2608a228cd39f20c8f1ddf5313"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T02:55:48.122Z",
+  "fetchedAt": "2026-07-16T05:46:45.853Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -52,16 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "A note from Tibo",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwvlmp/a_note_from_tibo/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T04:35:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2r5csm4rnbdh1.png?width=640&crop=smart&auto=webp&s=b80867e37a65e484dcf891c85a761b2ed4428960"
-      },
-      {
-        "rank": 2,
         "title": "GPT 5.6 Sol tackles the 3 Body Problem",
         "url": "https://www.reddit.com/r/OpenAI/comments/1ux396z/gpt_56_sol_tackles_the_3_body_problem/",
         "source": "r/OpenAI",
@@ -69,6 +59,16 @@
         "publishedAt": "2026-07-15T11:33:18.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/a2psc2tveDhxZGRoMX0jGUH_gci79cLCAofX2ChClZnURWhEtqMxAwSOWYm-.png?width=640&crop=smart&auto=webp&s=7205b73daca5fd9d4dd7f0d4b180f4bd37303750"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI anounces GPT-Red - an AI to Hack Its Own Models",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfkju/openai_anounces_gptred_an_ai_to_hack_its_own/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T19:16:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j69g0q390gdh1.jpeg?width=320&crop=smart&auto=webp&s=d455ce30c66f38845d8d9ce1d73abf5905dc25ea"
       },
       {
         "rank": 3,
@@ -82,23 +82,22 @@
       },
       {
         "rank": 4,
-        "title": "OpenAI anounces GPT-Red - an AI to Hack Its Own Models",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfkju/openai_anounces_gptred_an_ai_to_hack_its_own/",
+        "title": "System Architects are about to become one of the most valuable people in tech",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxfs3r/system_architects_are_about_to_become_one_of_the/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-15T19:16:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j69g0q390gdh1.jpeg?width=320&crop=smart&auto=webp&s=d455ce30c66f38845d8d9ce1d73abf5905dc25ea"
+        "publishedAt": "2026-07-15T19:24:05.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "The first experimental evidence of recursive self-improvement (RSI).",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwwa09/the_first_experimental_evidence_of_recursive/",
+        "title": "OpenAI announces Codex Micro... a keyboard alternative???",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uxgwtf/openai_announces_codex_micro_a_keyboard/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-15T05:10:21.000Z",
+        "publishedAt": "2026-07-15T20:08:25.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ziq3lqzztbdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=879e83a3980acedfdaea0f8d2825f9a36b6b8369"
+        "thumbnail": "https://external-preview.redd.it/aDzvi5nwz_Go7lXqgKCbCLNQP5hwT1MRoW6yHDVxS6I.jpeg?width=320&crop=smart&auto=webp&s=ebe6cd5a6ec60caaa44930569176606886d4fc35"
       },
       {
         "rank": 1,

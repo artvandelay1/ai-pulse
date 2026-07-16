@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T16:22:13.287Z",
+  "fetchedAt": "2026-07-16T17:49:07.531Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "I’m building a fighter jet game with Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxarq9/im_building_a_fighter_jet_game_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T16:24:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OGg1eXB4ZmM2ZmRoMVFoYgyeDCm3Vp7QtrJv_3FGhIEFo78HKVE-xn8TN7Cn.png?width=640&crop=smart&auto=webp&s=ecd81aa8990815775115b748a1a0af872921c87e"
-      },
-      {
-        "rank": 2,
         "title": "‘Anthropic doesn’t care about Europe’ — EU officials peeved after AI giant sends junior staffer to testify about safety",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxhe4w/anthropic_doesnt_care_about_europe_eu_officials/",
         "source": "r/ClaudeAI",
@@ -26,7 +16,7 @@
         "thumbnail": "https://external-preview.redd.it/6s8FNNTAFuvYOnRm5-ZNSCWKIBvkV3VpxMbVEFtLDhk.jpeg?width=640&crop=smart&auto=webp&s=8ff54747b806567e21d8f1802bb441904fc7dbe6"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Usage Limit was just Reset",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxs0qt/usage_limit_was_just_reset/",
         "source": "r/ClaudeAI",
@@ -35,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Dear mr Dario",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxler8/dear_mr_dario/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "thumbnail": "https://preview.redd.it/u07gskb85hdh1.jpeg?width=320&crop=smart&auto=webp&s=85f5e1cb15702935eb6ff847ebd1290673252cd2"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "I built a true-scale atlas of the universe (8.4M real stars) in about a week with Fable",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxy5s8/i_built_a_truescale_atlas_of_the_universe_84m/",
         "source": "r/ClaudeAI",
@@ -55,12 +45,21 @@
         "thumbnail": "https://external-preview.redd.it/YWIxMTMxbXk1a2RoMTwllNMbJZTDTNeemq7chG7CzzovkgKmzvvR64L9OEq5.png?width=640&crop=smart&auto=webp&s=5915cc71dda1b9766a993e6defb59647953cc386"
       },
       {
+        "rank": 5,
+        "title": "Show us what you've created with Claude!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uxlehk/show_us_what_youve_created_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-15T23:01:04.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "Looking for JEPA devil advocates [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
+        "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-15T17:34:44.000Z",
+        "publishedAt": "2026-07-16T09:55:40.000Z",
         "category": "reddit"
       },
       {
@@ -74,15 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T09:55:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
         "source": "r/MachineLearning",
@@ -91,12 +81,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uxty9v/best_current_tools_for_multiobjective/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-16T05:43:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T16:00:01.000Z",
         "category": "reddit"
       },
       {
@@ -111,16 +110,6 @@
       },
       {
         "rank": 2,
-        "title": "Reset for 9 Mil Users (non-banked)",
-        "url": "https://www.reddit.com/r/codex/comments/1uxs9xh/reset_for_9_mil_users_nonbanked/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-16T04:15:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fd9t2q48pidh1.jpeg?width=640&crop=smart&auto=webp&s=8eeb226768269c651f9ed4079166d08790478b3d"
-      },
-      {
-        "rank": 3,
         "title": "I think ability set limits for our work should be in our hands.",
         "url": "https://www.reddit.com/r/codex/comments/1uxzgef/i_think_ability_set_limits_for_our_work_should_be/",
         "source": "r/codex",
@@ -128,6 +117,16 @@
         "publishedAt": "2026-07-16T10:54:27.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ja2s065gokdh1.jpeg?width=640&crop=smart&auto=webp&s=863f63bd147624c1366c281130402ef0ef173470"
+      },
+      {
+        "rank": 3,
+        "title": "Reset for 9 Mil Users (non-banked)",
+        "url": "https://www.reddit.com/r/codex/comments/1uxs9xh/reset_for_9_mil_users_nonbanked/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-16T04:15:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fd9t2q48pidh1.jpeg?width=640&crop=smart&auto=webp&s=8eeb226768269c651f9ed4079166d08790478b3d"
       },
       {
         "rank": 4,
@@ -141,12 +140,13 @@
       },
       {
         "rank": 5,
-        "title": "Sol is excellent and Codex is holding it back",
-        "url": "https://www.reddit.com/r/codex/comments/1uxbeja/sol_is_excellent_and_codex_is_holding_it_back/",
+        "title": "Got my 100$ credits!!",
+        "url": "https://www.reddit.com/r/codex/comments/1uxvbk0/got_my_100_credits/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-15T16:46:46.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-16T06:59:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8ginmaphijdh1.jpeg?width=640&crop=smart&auto=webp&s=028953048a69277a9e8eebecd4dd1927fb10325a"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T23:33:07.766Z",
+  "fetchedAt": "2026-07-16T02:55:48.122Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -82,16 +82,6 @@
       },
       {
         "rank": 4,
-        "title": "The first experimental evidence of recursive self-improvement (RSI).",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uwwa09/the_first_experimental_evidence_of_recursive/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-15T05:10:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ziq3lqzztbdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=879e83a3980acedfdaea0f8d2825f9a36b6b8369"
-      },
-      {
-        "rank": 5,
         "title": "OpenAI anounces GPT-Red - an AI to Hack Its Own Models",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uxfkju/openai_anounces_gptred_an_ai_to_hack_its_own/",
         "source": "r/OpenAI",
@@ -101,53 +91,14 @@
         "thumbnail": "https://preview.redd.it/j69g0q390gdh1.jpeg?width=320&crop=smart&auto=webp&s=d455ce30c66f38845d8d9ce1d73abf5905dc25ea"
       },
       {
-        "rank": 1,
-        "title": "Tibo wants to know if you want a reset at 9 mil users",
-        "url": "https://www.reddit.com/r/codex/comments/1uwx7wf/tibo_wants_to_know_if_you_want_a_reset_at_9_mil/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:01:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qjgqztm73cdh1.jpeg?width=640&crop=smart&auto=webp&s=baa3a1396e2cd3a990f244ff73fc9eefa731ada4"
-      },
-      {
-        "rank": 2,
-        "title": "GPT 5.6 reverse engineered Codex app code and... started adding new features",
-        "url": "https://www.reddit.com/r/codex/comments/1uwxzqq/gpt_56_reverse_engineered_codex_app_code_and/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T06:43:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ub8ozihpacdh1.png?width=640&crop=smart&auto=webp&s=7860af71d20fabda83d507dd03b53d5f70cea13a"
-      },
-      {
-        "rank": 3,
-        "title": "Bro is a Menace",
-        "url": "https://www.reddit.com/r/codex/comments/1ux0vsn/bro_is_a_menace/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T09:28:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6q7y7i684ddh1.png?width=640&crop=smart&auto=webp&s=85e90e6a25f8253269c4f49268c760cc582e12c1"
-      },
-      {
-        "rank": 4,
-        "title": "$100 free credit if you share what you loved about 5.6-Sol",
-        "url": "https://www.reddit.com/r/codex/comments/1uwwch6/100_free_credit_if_you_share_what_you_loved_about/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-15T05:13:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4bh789arubdh1.png?width=640&crop=smart&auto=webp&s=5366dc734e2d5087e7fca8377fd3a435076c438d"
-      },
-      {
         "rank": 5,
-        "title": "I think the Codex team is playing the long game with all these quota resets",
-        "url": "https://www.reddit.com/r/codex/comments/1uwt910/i_think_the_codex_team_is_playing_the_long_game/",
-        "source": "r/codex",
+        "title": "The first experimental evidence of recursive self-improvement (RSI).",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uwwa09/the_first_experimental_evidence_of_recursive/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-15T02:40:27.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-15T05:10:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ziq3lqzztbdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=879e83a3980acedfdaea0f8d2825f9a36b6b8369"
       },
       {
         "rank": 1,
@@ -198,6 +149,55 @@
         "publishedAt": "2026-07-15T15:29:10.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/h1avwkbiwedh1.png?width=640&crop=smart&auto=webp&s=c66088c59ea2489f96ae0926a901c7e484bb214b"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo wants to know if you want a reset at 9 mil users",
+        "url": "https://www.reddit.com/r/codex/comments/1uwx7wf/tibo_wants_to_know_if_you_want_a_reset_at_9_mil/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:01:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qjgqztm73cdh1.jpeg?width=640&crop=smart&auto=webp&s=baa3a1396e2cd3a990f244ff73fc9eefa731ada4"
+      },
+      {
+        "rank": 2,
+        "title": "GPT 5.6 reverse engineered Codex app code and... started adding new features",
+        "url": "https://www.reddit.com/r/codex/comments/1uwxzqq/gpt_56_reverse_engineered_codex_app_code_and/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T06:43:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ub8ozihpacdh1.png?width=640&crop=smart&auto=webp&s=7860af71d20fabda83d507dd03b53d5f70cea13a"
+      },
+      {
+        "rank": 3,
+        "title": "Bro is a Menace",
+        "url": "https://www.reddit.com/r/codex/comments/1ux0vsn/bro_is_a_menace/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T09:28:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6q7y7i684ddh1.png?width=640&crop=smart&auto=webp&s=85e90e6a25f8253269c4f49268c760cc582e12c1"
+      },
+      {
+        "rank": 4,
+        "title": "$100 free credit if you share what you loved about 5.6-Sol",
+        "url": "https://www.reddit.com/r/codex/comments/1uwwch6/100_free_credit_if_you_share_what_you_loved_about/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T05:13:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4bh789arubdh1.png?width=640&crop=smart&auto=webp&s=5366dc734e2d5087e7fca8377fd3a435076c438d"
+      },
+      {
+        "rank": 5,
+        "title": "I think the Codex team is playing the long game with all these quota resets",
+        "url": "https://www.reddit.com/r/codex/comments/1uwt910/i_think_the_codex_team_is_playing_the_long_game/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-15T02:40:27.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

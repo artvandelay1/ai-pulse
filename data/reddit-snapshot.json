@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T21:26:45.718Z",
+  "fetchedAt": "2026-07-17T22:25:50.128Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -54,16 +54,6 @@
       },
       {
         "rank": 1,
-        "title": "Time for your quarterly freak out over a benchmaxxed Chinese open source model",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uyg5wl/time_for_your_quarterly_freak_out_over_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T21:38:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yuc5hggavndh1.jpeg?width=640&crop=smart&auto=webp&s=2ea642cf88c5e356420f045b870f261a082e9dc9"
-      },
-      {
-        "rank": 2,
         "title": "Kimi K3 is $3/$15 per million tokens. That's not cheap Chinese AI anymore",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uyo1hr/kimi_k3_is_315_per_million_tokens_thats_not_cheap/",
         "source": "r/OpenAI",
@@ -72,7 +62,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "2023 vs 2026",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uys30p/2023_vs_2026/",
         "source": "r/OpenAI",
@@ -82,7 +72,7 @@
         "thumbnail": "https://preview.redd.it/va53exnrlqdh1.png?width=640&crop=smart&auto=webp&s=732cee0d18972d37f9a72ffa6ddd70cfcd023f95"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "26 Meta employees accuse Mark Zuckerberg of using AI to target 8,000 layoffs against workers on medical, parental or family leave",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uys8d3/26_meta_employees_accuse_mark_zuckerberg_of_using/",
         "source": "r/OpenAI",
@@ -92,7 +82,7 @@
         "thumbnail": "https://external-preview.redd.it/s-Sw42QOXjJ9-8ri9B0WoqFerg2IR7WkRe-JsdpvJKg.jpeg?width=640&crop=smart&auto=webp&s=0758ee4abf77edf24e04d1a9474d13add47e27e3"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Kimi K3 is 4.5x the price of GPT 5.6 Sol Medium",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uyrea7/kimi_k3_is_45x_the_price_of_gpt_56_sol_medium/",
         "source": "r/OpenAI",
@@ -100,6 +90,16 @@
         "publishedAt": "2026-07-17T06:12:08.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8yijdjajeqdh1.jpeg?width=640&crop=smart&auto=webp&s=828f38f9e46ead86eed8985001ccf1ed44e5bda8"
+      },
+      {
+        "rank": 5,
+        "title": "\"Humans\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uz0gs9/humans/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-17T13:55:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dbfko66npsdh1.png?width=640&crop=smart&auto=webp&s=d395f7a1c2252836138d95f81259eca6d3e0ac76"
       },
       {
         "rank": 1,
@@ -123,16 +123,6 @@
       },
       {
         "rank": 3,
-        "title": "open source models pose EXTREME DANGERS",
-        "url": "https://www.reddit.com/r/singularity/comments/1uymwqa/open_source_models_pose_extreme_dangers/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T02:25:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wxku4e5hapdh1.png?width=640&crop=smart&auto=webp&s=5f9324a6bc33a7147fe61e0a839be30a2fa199c2"
-      },
-      {
-        "rank": 4,
         "title": "This is the most cyberpunk thing I've seen lately, drone swarm returning to base. The past would be stunned and confused.",
         "url": "https://www.reddit.com/r/singularity/comments/1uz31zl/this_is_the_most_cyberpunk_thing_ive_seen_lately/",
         "source": "r/singularity",
@@ -140,6 +130,16 @@
         "publishedAt": "2026-07-17T15:31:25.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/dmJiaHA1enI2dGRoMeLyYn1IBRoZcam0UfTGdfp87V2ZADuKcOKxdfNR-_C2.png?width=320&crop=smart&auto=webp&s=459d89aedc2d520f39913cdaa76311f8d0371a06"
+      },
+      {
+        "rank": 4,
+        "title": "open source models pose EXTREME DANGERS",
+        "url": "https://www.reddit.com/r/singularity/comments/1uymwqa/open_source_models_pose_extreme_dangers/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T02:25:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wxku4e5hapdh1.png?width=640&crop=smart&auto=webp&s=5f9324a6bc33a7147fe61e0a839be30a2fa199c2"
       },
       {
         "rank": 5,

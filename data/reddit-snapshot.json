@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T09:29:47.123Z",
+  "fetchedAt": "2026-07-17T11:09:50.261Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Why is ECCV so insanely expensive for students presenting papers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uxyd6z/why_is_eccv_so_insanely_expensive_for_students/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T09:55:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "whats the best and complete way to keep up with ai/ml news? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
         "source": "r/MachineLearning",
@@ -34,7 +25,7 @@
         "thumbnail": "https://preview.redd.it/b0u6q9a46ndh1.jpg?width=140&height=98&auto=webp&s=dbb02d2e0fc85305a04e37864167c2578891d46c"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-16T12:50:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T16:00:01.000Z",
         "category": "reddit"
       },
       {
@@ -91,13 +91,12 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI workers found body bags outside their HQ this morning, placed in protest of the company's military work",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uye96j/openai_workers_found_body_bags_outside_their_hq/",
+        "title": "Kimi K3 is $3/$15 per million tokens. That's not cheap Chinese AI anymore",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uyo1hr/kimi_k3_is_315_per_million_tokens_thats_not_cheap/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-16T20:25:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hf8p0v89indh1.png?width=640&crop=smart&auto=webp&s=77e69e96c29fb73876df5864d9d5c3dfc6a6c0f7"
+        "publishedAt": "2026-07-17T03:18:34.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -121,16 +120,6 @@
       },
       {
         "rank": 3,
-        "title": "Chinese fable 5 is here !! Aka kimi k3",
-        "url": "https://www.reddit.com/r/singularity/comments/1uy3oij/chinese_fable_5_is_here_aka_kimi_k3/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-16T13:59:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uv4k60ydlldh1.jpeg?width=640&crop=smart&auto=webp&s=c270dd3fd85379699641200b43ce4a2a042e1b0c"
-      },
-      {
-        "rank": 4,
         "title": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
         "url": "https://www.reddit.com/r/singularity/comments/1uypik5/chinese_president_xi_jinping_speaks_at_world_ai/",
         "source": "r/singularity",
@@ -138,6 +127,16 @@
         "publishedAt": "2026-07-17T04:31:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1b2s142iwpdh1.png?width=320&crop=smart&auto=webp&s=12a33f0c686db7df8cea8fdb373f43cf867c1fe4"
+      },
+      {
+        "rank": 4,
+        "title": "Chinese fable 5 is here !! Aka kimi k3",
+        "url": "https://www.reddit.com/r/singularity/comments/1uy3oij/chinese_fable_5_is_here_aka_kimi_k3/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-16T13:59:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uv4k60ydlldh1.jpeg?width=640&crop=smart&auto=webp&s=c270dd3fd85379699641200b43ce4a2a042e1b0c"
       },
       {
         "rank": 5,

@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-07-17T20:30:14.269Z",
+  "fetchedAt": "2026-07-17T21:26:45.718Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Prism accidentally leaked [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T17:59:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/csr59ogtwtdh1.png?width=140&height=27&auto=webp&s=d8b3c46b64b19d75c4b2b1726b0b3cbea225f38d"
+      },
+      {
+        "rank": 2,
+        "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T08:18:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ACL ARR 2026 - can't seem to find the review issue report button anywhere? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uytw5s/acl_arr_2026_cant_seem_to_find_the_review_issue/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T08:36:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lywderhn4rdh1.png?width=140&height=33&auto=webp&s=c1fc5e51d555da2fa701c7f0943a5ede295d5cc4"
+      },
+      {
+        "rank": 4,
+        "title": "short-paper at ACL/EMNLP/EACL [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uz8w8q/shortpaper_at_aclemnlpeacl_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T19:02:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "TACL journal doubts [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uyw0i0/tacl_journal_doubts_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T10:37:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Time for your quarterly freak out over a benchmaxxed Chinese open source model",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uyg5wl/time_for_your_quarterly_freak_out_over_a/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T21:38:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yuc5hggavndh1.jpeg?width=640&crop=smart&auto=webp&s=2ea642cf88c5e356420f045b870f261a082e9dc9"
+      },
+      {
+        "rank": 2,
+        "title": "Kimi K3 is $3/$15 per million tokens. That's not cheap Chinese AI anymore",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uyo1hr/kimi_k3_is_315_per_million_tokens_thats_not_cheap/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-17T03:18:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "2023 vs 2026",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uys30p/2023_vs_2026/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-17T06:50:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/va53exnrlqdh1.png?width=640&crop=smart&auto=webp&s=732cee0d18972d37f9a72ffa6ddd70cfcd023f95"
+      },
+      {
+        "rank": 4,
+        "title": "26 Meta employees accuse Mark Zuckerberg of using AI to target 8,000 layoffs against workers on medical, parental or family leave",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uys8d3/26_meta_employees_accuse_mark_zuckerberg_of_using/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-17T06:58:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/s-Sw42QOXjJ9-8ri9B0WoqFerg2IR7WkRe-JsdpvJKg.jpeg?width=640&crop=smart&auto=webp&s=0758ee4abf77edf24e04d1a9474d13add47e27e3"
+      },
+      {
+        "rank": 5,
+        "title": "Kimi K3 is 4.5x the price of GPT 5.6 Sol Medium",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uyrea7/kimi_k3_is_45x_the_price_of_gpt_56_sol_medium/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-17T06:12:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8yijdjajeqdh1.jpeg?width=640&crop=smart&auto=webp&s=828f38f9e46ead86eed8985001ccf1ed44e5bda8"
+      },
+      {
+        "rank": 1,
+        "title": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1uypik5/chinese_president_xi_jinping_speaks_at_world_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T04:31:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1b2s142iwpdh1.png?width=320&crop=smart&auto=webp&s=12a33f0c686db7df8cea8fdb373f43cf867c1fe4"
+      },
+      {
+        "rank": 2,
+        "title": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
+        "url": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T15:45:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a"
+      },
+      {
+        "rank": 3,
+        "title": "open source models pose EXTREME DANGERS",
+        "url": "https://www.reddit.com/r/singularity/comments/1uymwqa/open_source_models_pose_extreme_dangers/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T02:25:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wxku4e5hapdh1.png?width=640&crop=smart&auto=webp&s=5f9324a6bc33a7147fe61e0a839be30a2fa199c2"
+      },
+      {
+        "rank": 4,
+        "title": "This is the most cyberpunk thing I've seen lately, drone swarm returning to base. The past would be stunned and confused.",
+        "url": "https://www.reddit.com/r/singularity/comments/1uz31zl/this_is_the_most_cyberpunk_thing_ive_seen_lately/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T15:31:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dmJiaHA1enI2dGRoMeLyYn1IBRoZcam0UfTGdfp87V2ZADuKcOKxdfNR-_C2.png?width=320&crop=smart&auto=webp&s=459d89aedc2d520f39913cdaa76311f8d0371a06"
+      },
+      {
+        "rank": 5,
+        "title": "Insane new humanoid battle tournament in Shenzhen",
+        "url": "https://www.reddit.com/r/singularity/comments/1uyu4x8/insane_new_humanoid_battle_tournament_in_shenzhen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T08:50:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bTBpNDE2ejE3cmRoMZzL1cS_8O6Pjcy3-BF6_a_4fccltBYLnMHbUgVoz0EH.png?width=320&crop=smart&auto=webp&s=1b82cbbd56896b0545be18ff2b3e1ddd76dc511c"
+      },
       {
         "rank": 1,
         "title": "I built an open-source canvas where Claude responds beside your handwritings",
@@ -57,53 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "whats the best and complete way to keep up with ai/ml news? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T20:28:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Prism accidentally leaked [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T17:59:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/csr59ogtwtdh1.png?width=140&height=27&auto=webp&s=d8b3c46b64b19d75c4b2b1726b0b3cbea225f38d"
-      },
-      {
-        "rank": 3,
-        "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T08:18:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ACL ARR 2026 - can't seem to find the review issue report button anywhere? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uytw5s/acl_arr_2026_cant_seem_to_find_the_review_issue/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T08:36:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lywderhn4rdh1.png?width=140&height=33&auto=webp&s=c1fc5e51d555da2fa701c7f0943a5ede295d5cc4"
-      },
-      {
-        "rank": 5,
-        "title": "short-paper at ACL/EMNLP/EACL [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uz8w8q/shortpaper_at_aclemnlpeacl_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T19:02:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Fable is in love with Codex Sol’s work",
         "url": "https://www.reddit.com/r/codex/comments/1uyo6je/fable_is_in_love_with_codex_sols_work/",
         "source": "r/codex",
@@ -149,103 +248,6 @@
         "publishedAt": "2026-07-16T23:37:37.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tleiqanlgodh1.png?width=140&height=140&auto=webp&s=83c34e1d2e346d23aeb933e4c97bd33bcdf3cd95"
-      },
-      {
-        "rank": 1,
-        "title": "Kimi-K3 arrived: The era of the Chinese labs being far behind is over",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uyd77a/kimik3_arrived_the_era_of_the_chinese_labs_being/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T19:45:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yk7rxgy7bndh1.jpeg?width=640&crop=smart&auto=webp&s=2e8f27e2af81cffa6475905eae1c2c03513369ba"
-      },
-      {
-        "rank": 2,
-        "title": "I used 5.6 Sol Ultra to Close a 30-Year Open Gap in Mathematical Optimization Theory, following OpenAI's CDC Proof Prompt Methodology",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T19:34:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Time for your quarterly freak out over a benchmaxxed Chinese open source model",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uyg5wl/time_for_your_quarterly_freak_out_over_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T21:38:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yuc5hggavndh1.jpeg?width=640&crop=smart&auto=webp&s=2ea642cf88c5e356420f045b870f261a082e9dc9"
-      },
-      {
-        "rank": 4,
-        "title": "Kimi K3 is $3/$15 per million tokens. That's not cheap Chinese AI anymore",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uyo1hr/kimi_k3_is_315_per_million_tokens_thats_not_cheap/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-17T03:18:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "GPT 5.6 solved all 6 problems from IMO 2026",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uyeq3t/gpt_56_solved_all_6_problems_from_imo_2026/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T20:43:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "We have Real Steel now (Alpha Version)",
-        "url": "https://www.reddit.com/r/singularity/comments/1uyas13/we_have_real_steel_now_alpha_version/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-16T18:16:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/czBjc2Z5c3V1bWRoMdfXYtRw92QIuOdFBUMKvweN4eJWMIiFFlW88dZ1i2VH.png?width=640&crop=smart&auto=webp&s=54bc704ee643fe1c16faa3e410e1d672636ccd4e"
-      },
-      {
-        "rank": 2,
-        "title": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1uypik5/chinese_president_xi_jinping_speaks_at_world_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T04:31:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1b2s142iwpdh1.png?width=320&crop=smart&auto=webp&s=12a33f0c686db7df8cea8fdb373f43cf867c1fe4"
-      },
-      {
-        "rank": 3,
-        "title": "Kimi K3 tops Frontend Code Arena",
-        "url": "https://www.reddit.com/r/singularity/comments/1uybldp/kimi_k3_tops_frontend_code_arena/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-16T18:46:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pg72x8ul0ndh1.jpeg?width=640&crop=smart&auto=webp&s=b1f41ff3a1c959f40355a5ccf105883f6057636e"
-      },
-      {
-        "rank": 4,
-        "title": "open source models pose EXTREME DANGERS",
-        "url": "https://www.reddit.com/r/singularity/comments/1uymwqa/open_source_models_pose_extreme_dangers/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T02:25:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wxku4e5hapdh1.png?width=640&crop=smart&auto=webp&s=5f9324a6bc33a7147fe61e0a839be30a2fa199c2"
-      },
-      {
-        "rank": 5,
-        "title": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
-        "url": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T15:45:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a"
       }
     ]
   }

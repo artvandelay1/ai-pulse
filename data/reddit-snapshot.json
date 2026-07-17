@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T19:18:14.663Z",
+  "fetchedAt": "2026-07-17T20:30:14.269Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -47,12 +47,13 @@
       },
       {
         "rank": 5,
-        "title": "PSA: claude-seo (11.5k star Claude Code SEO skill) silently appends a self-promo footer to your audit output, no disclosure",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uyfssp/psa_claudeseo_115k_star_claude_code_seo_skill/",
+        "title": "Got 6 months of Claude Max 20x for free — thanks Anthropic and OpenSource",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uz5gtz/got_6_months_of_claude_max_20x_for_free_thanks/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-16T21:24:39.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-17T16:59:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/osxdkr3jmtdh1.png?width=640&crop=smart&auto=webp&s=549c5b3dc66addbe1bcd658af51c64fb39b2f9db"
       },
       {
         "rank": 1,
@@ -65,16 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T19:17:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b0u6q9a46ndh1.jpg?width=140&height=98&auto=webp&s=dbb02d2e0fc85305a04e37864167c2578891d46c"
-      },
-      {
-        "rank": 3,
         "title": "Prism accidentally leaked [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
         "source": "r/MachineLearning",
@@ -84,7 +75,7 @@
         "thumbnail": "https://preview.redd.it/csr59ogtwtdh1.png?width=140&height=27&auto=webp&s=d8b3c46b64b19d75c4b2b1726b0b3cbea225f38d"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
         "source": "r/MachineLearning",
@@ -93,7 +84,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "ACL ARR 2026 - can't seem to find the review issue report button anywhere? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uytw5s/acl_arr_2026_cant_seem_to_find_the_review_issue/",
         "source": "r/MachineLearning",
@@ -101,6 +92,15 @@
         "publishedAt": "2026-07-17T08:36:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/lywderhn4rdh1.png?width=140&height=33&auto=webp&s=c1fc5e51d555da2fa701c7f0943a5ede295d5cc4"
+      },
+      {
+        "rank": 5,
+        "title": "short-paper at ACL/EMNLP/EACL [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uz8w8q/shortpaper_at_aclemnlpeacl_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T19:02:01.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T23:02:46.387Z",
+  "fetchedAt": "2026-07-17T01:05:42.979Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,15 @@
       },
       {
         "rank": 3,
+        "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-16T16:00:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
         "source": "r/MachineLearning",
@@ -33,7 +42,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
         "source": "r/MachineLearning",
@@ -41,15 +50,6 @@
         "publishedAt": "2026-07-16T19:17:01.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/b0u6q9a46ndh1.jpg?width=140&height=98&auto=webp&s=dbb02d2e0fc85305a04e37864167c2578891d46c"
-      },
-      {
-        "rank": 5,
-        "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T16:00:01.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -63,6 +63,15 @@
       },
       {
         "rank": 2,
+        "title": "I used 5.6 Sol Ultra to Close a 30-Year Open Gap in Mathematical Optimization Theory, following OpenAI's CDC Proof Prompt Methodology",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T19:34:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Codex got another usage reset. Tibo, please let me rest.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uxsfa0/codex_got_another_usage_reset_tibo_please_let_me/",
         "source": "r/OpenAI",
@@ -70,15 +79,6 @@
         "publishedAt": "2026-07-16T04:23:02.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3msm9melqidh1.png?width=640&crop=smart&auto=webp&s=ed3f26fc0c0061f5312ff50826c6d85fa6279d03"
-      },
-      {
-        "rank": 3,
-        "title": "I used 5.6 Sol Ultra to Close a 30-Year Open Gap in Mathematical Optimization Theory, following OpenAI's CDC Proof Prompt Methodology",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uycwq1/i_used_56_sol_ultra_to_close_a_30year_open_gap_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T19:34:54.000Z",
-        "category": "reddit"
       },
       {
         "rank": 4,
@@ -92,13 +92,12 @@
       },
       {
         "rank": 5,
-        "title": "Starting price 399",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uxu1va/starting_price_399/",
+        "title": "GPT 5.6 solved all 6 problems from IMO 2026",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uyeq3t/gpt_56_solved_all_6_problems_from_imo_2026/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-16T05:49:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6zztty5w5jdh1.png?width=640&crop=smart&auto=webp&s=c7c09f29b5087e236733dec5cc0f4b1838f4aca1"
+        "publishedAt": "2026-07-16T20:43:05.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -112,6 +111,16 @@
       },
       {
         "rank": 2,
+        "title": "We have Real Steel now (Alpha Version)",
+        "url": "https://www.reddit.com/r/singularity/comments/1uyas13/we_have_real_steel_now_alpha_version/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-16T18:16:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/czBjc2Z5c3V1bWRoMdfXYtRw92QIuOdFBUMKvweN4eJWMIiFFlW88dZ1i2VH.png?width=640&crop=smart&auto=webp&s=54bc704ee643fe1c16faa3e410e1d672636ccd4e"
+      },
+      {
+        "rank": 3,
         "title": "Chinese fable 5 is here !! Aka kimi k3",
         "url": "https://www.reddit.com/r/singularity/comments/1uy3oij/chinese_fable_5_is_here_aka_kimi_k3/",
         "source": "r/singularity",
@@ -121,7 +130,7 @@
         "thumbnail": "https://preview.redd.it/uv4k60ydlldh1.jpeg?width=640&crop=smart&auto=webp&s=c270dd3fd85379699641200b43ce4a2a042e1b0c"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Kimi K3 tops Frontend Code Arena",
         "url": "https://www.reddit.com/r/singularity/comments/1uybldp/kimi_k3_tops_frontend_code_arena/",
         "source": "r/singularity",
@@ -129,16 +138,6 @@
         "publishedAt": "2026-07-16T18:46:08.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/pg72x8ul0ndh1.jpeg?width=640&crop=smart&auto=webp&s=b1f41ff3a1c959f40355a5ccf105883f6057636e"
-      },
-      {
-        "rank": 4,
-        "title": "We have Real Steel now (Alpha Version)",
-        "url": "https://www.reddit.com/r/singularity/comments/1uyas13/we_have_real_steel_now_alpha_version/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-16T18:16:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/czBjc2Z5c3V1bWRoMdfXYtRw92QIuOdFBUMKvweN4eJWMIiFFlW88dZ1i2VH.png?width=640&crop=smart&auto=webp&s=54bc704ee643fe1c16faa3e410e1d672636ccd4e"
       },
       {
         "rank": 5,

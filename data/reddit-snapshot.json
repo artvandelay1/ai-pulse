@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T11:09:50.261Z",
+  "fetchedAt": "2026-07-17T12:45:41.823Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -82,20 +82,20 @@
       },
       {
         "rank": 4,
-        "title": "GPT 5.6 solved all 6 problems from IMO 2026",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uyeq3t/gpt_56_solved_all_6_problems_from_imo_2026/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-16T20:43:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Kimi K3 is $3/$15 per million tokens. That's not cheap Chinese AI anymore",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uyo1hr/kimi_k3_is_315_per_million_tokens_thats_not_cheap/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-17T03:18:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "GPT 5.6 solved all 6 problems from IMO 2026",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uyeq3t/gpt_56_solved_all_6_problems_from_imo_2026/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-16T20:43:05.000Z",
         "category": "reddit"
       },
       {

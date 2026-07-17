@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T12:45:41.823Z",
+  "fetchedAt": "2026-07-17T14:48:42.691Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,30 +26,31 @@
       },
       {
         "rank": 3,
-        "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
+        "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-16T13:31:07.000Z",
+        "publishedAt": "2026-07-17T08:18:09.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-16T12:50:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-16T16:00:01.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ACL ARR 2026 - can't seem to find the review issue report button anywhere? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uytw5s/acl_arr_2026_cant_seem_to_find_the_review_issue/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T08:36:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lywderhn4rdh1.png?width=140&height=33&auto=webp&s=c1fc5e51d555da2fa701c7f0943a5ede295d5cc4"
       },
       {
         "rank": 1,
@@ -110,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "Kimi K3 tops Frontend Code Arena",
-        "url": "https://www.reddit.com/r/singularity/comments/1uybldp/kimi_k3_tops_frontend_code_arena/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-16T18:46:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pg72x8ul0ndh1.jpeg?width=640&crop=smart&auto=webp&s=b1f41ff3a1c959f40355a5ccf105883f6057636e"
-      },
-      {
-        "rank": 3,
         "title": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
         "url": "https://www.reddit.com/r/singularity/comments/1uypik5/chinese_president_xi_jinping_speaks_at_world_ai/",
         "source": "r/singularity",
@@ -129,14 +120,24 @@
         "thumbnail": "https://preview.redd.it/1b2s142iwpdh1.png?width=320&crop=smart&auto=webp&s=12a33f0c686db7df8cea8fdb373f43cf867c1fe4"
       },
       {
-        "rank": 4,
-        "title": "Chinese fable 5 is here !! Aka kimi k3",
-        "url": "https://www.reddit.com/r/singularity/comments/1uy3oij/chinese_fable_5_is_here_aka_kimi_k3/",
+        "rank": 3,
+        "title": "Kimi K3 tops Frontend Code Arena",
+        "url": "https://www.reddit.com/r/singularity/comments/1uybldp/kimi_k3_tops_frontend_code_arena/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-16T13:59:05.000Z",
+        "publishedAt": "2026-07-16T18:46:08.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uv4k60ydlldh1.jpeg?width=640&crop=smart&auto=webp&s=c270dd3fd85379699641200b43ce4a2a042e1b0c"
+        "thumbnail": "https://preview.redd.it/pg72x8ul0ndh1.jpeg?width=640&crop=smart&auto=webp&s=b1f41ff3a1c959f40355a5ccf105883f6057636e"
+      },
+      {
+        "rank": 4,
+        "title": "open source models pose EXTREME DANGERS",
+        "url": "https://www.reddit.com/r/singularity/comments/1uymwqa/open_source_models_pose_extreme_dangers/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T02:25:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wxku4e5hapdh1.png?width=640&crop=smart&auto=webp&s=5f9324a6bc33a7147fe61e0a839be30a2fa199c2"
       },
       {
         "rank": 5,

@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-18T20:23:43.185Z",
+  "fetchedAt": "2026-07-18T21:27:08.114Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Fable staying on Max",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzjcop/fable_staying_on_max/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T02:18:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h4a2sn6bewdh1.jpeg?width=640&crop=smart&auto=webp&s=33c627b660e5d15780af42faaca7c1a3b20424e1"
+      },
+      {
+        "rank": 2,
+        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T07:32:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cs8oa9fxxxdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea7c07937ad68952e4ec9b95a57a2a4b6aa1855d"
+      },
+      {
+        "rank": 3,
+        "title": "Me as an NPC in my own codebase",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzihik/me_as_an_npc_in_my_own_codebase/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T01:37:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gq2c82rs6wdh1.jpeg?width=640&crop=smart&auto=webp&s=bb8c6a35ce5381413644442b980bc89a1bb9050e"
+      },
+      {
+        "rank": 4,
+        "title": "just got claude oss sponsorhip despite having 25 stars in my project",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzmh94/just_got_claude_oss_sponsorhip_despite_having_25/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T04:56:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7pjhnbuc6xdh1.jpeg?width=320&crop=smart&auto=webp&s=fade821b5415931e094403e474d6c8e2f6410a41"
+      },
+      {
+        "rank": 5,
+        "title": "Scientist's view - the BS of F@ble \"too dangerous for science\" now that Sol and Kimi K3 available",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzxcyt/scientists_view_the_bs_of_fble_too_dangerous_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:28:17.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
@@ -49,6 +98,56 @@
         "score": 0,
         "publishedAt": "2026-07-18T14:15:03.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Thanks Tibo! Thanks OpenAI team!",
+        "url": "https://www.reddit.com/r/codex/comments/1uzkuna/thanks_tibo_thanks_openai_team/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T03:32:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0aqx8maerwdh1.png?width=640&crop=smart&auto=webp&s=e5568441ceffbec0b0c839fc14310c8faa95cddb"
+      },
+      {
+        "rank": 2,
+        "title": "Tibo is seeing what he can do",
+        "url": "https://www.reddit.com/r/codex/comments/1uzew5j/tibo_is_seeing_what_he_can_do/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-17T22:56:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r0eed4j3evdh1.jpeg?width=640&crop=smart&auto=webp&s=ccf7c160d603704708d0cbca34955626f89f496e"
+      },
+      {
+        "rank": 3,
+        "title": "The sun came out.",
+        "url": "https://www.reddit.com/r/codex/comments/1v010h6/the_sun_came_out/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T16:54:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mxy97oifq0eh1.jpeg?width=640&crop=smart&auto=webp&s=ba650e3241489624849d651c655ce0d40559bda7"
+      },
+      {
+        "rank": 4,
+        "title": "Reset soon",
+        "url": "https://www.reddit.com/r/codex/comments/1uzk47g/reset_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T02:56:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o4po8z0ukwdh1.png?width=320&crop=smart&auto=webp&s=968c470a0e30f116da95aada828dad0b39fd1112"
+      },
+      {
+        "rank": 5,
+        "title": "That's it, I'm dumping my quota to 0% asap now",
+        "url": "https://www.reddit.com/r/codex/comments/1uzib8a/thats_it_im_dumping_my_quota_to_0_asap_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T01:29:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q9fful1d5wdh1.png?width=640&crop=smart&auto=webp&s=61b05b8b18515c3055fac8fcab2c90e35a473f82"
       },
       {
         "rank": 1,
@@ -146,106 +245,6 @@
         "publishedAt": "2026-07-17T22:40:04.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/-KczC1UmqEcnGBDS515CirzTAqT6tzCp3jt6UDz7TgM.jpeg?width=640&crop=smart&auto=webp&s=0bcae6e3d6f1474a74bab9b684b2b42b44a1d9ce"
-      },
-      {
-        "rank": 1,
-        "title": "Fable staying on Max",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzjcop/fable_staying_on_max/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T02:18:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h4a2sn6bewdh1.jpeg?width=640&crop=smart&auto=webp&s=33c627b660e5d15780af42faaca7c1a3b20424e1"
-      },
-      {
-        "rank": 2,
-        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T07:32:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cs8oa9fxxxdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea7c07937ad68952e4ec9b95a57a2a4b6aa1855d"
-      },
-      {
-        "rank": 3,
-        "title": "Me as an NPC in my own codebase",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzihik/me_as_an_npc_in_my_own_codebase/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T01:37:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gq2c82rs6wdh1.jpeg?width=640&crop=smart&auto=webp&s=bb8c6a35ce5381413644442b980bc89a1bb9050e"
-      },
-      {
-        "rank": 4,
-        "title": "Claude called me [30M] Nadia for no reason.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uz9tp1/claude_called_me_30m_nadia_for_no_reason/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-17T19:35:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/41rbz2vdeudh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bfb012ffa48ab65218474279dafc23c6cb2b9d31"
-      },
-      {
-        "rank": 5,
-        "title": "just got claude oss sponsorhip despite having 25 stars in my project",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzmh94/just_got_claude_oss_sponsorhip_despite_having_25/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T04:56:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7pjhnbuc6xdh1.jpeg?width=320&crop=smart&auto=webp&s=fade821b5415931e094403e474d6c8e2f6410a41"
-      },
-      {
-        "rank": 1,
-        "title": "Thanks Tibo! Thanks OpenAI team!",
-        "url": "https://www.reddit.com/r/codex/comments/1uzkuna/thanks_tibo_thanks_openai_team/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T03:32:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0aqx8maerwdh1.png?width=640&crop=smart&auto=webp&s=e5568441ceffbec0b0c839fc14310c8faa95cddb"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo is seeing what he can do",
-        "url": "https://www.reddit.com/r/codex/comments/1uzew5j/tibo_is_seeing_what_he_can_do/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-17T22:56:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r0eed4j3evdh1.jpeg?width=640&crop=smart&auto=webp&s=ccf7c160d603704708d0cbca34955626f89f496e"
-      },
-      {
-        "rank": 3,
-        "title": "The sun came out.",
-        "url": "https://www.reddit.com/r/codex/comments/1v010h6/the_sun_came_out/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T16:54:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mxy97oifq0eh1.jpeg?width=640&crop=smart&auto=webp&s=ba650e3241489624849d651c655ce0d40559bda7"
-      },
-      {
-        "rank": 4,
-        "title": "Reset soon",
-        "url": "https://www.reddit.com/r/codex/comments/1uzk47g/reset_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T02:56:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o4po8z0ukwdh1.png?width=320&crop=smart&auto=webp&s=968c470a0e30f116da95aada828dad0b39fd1112"
-      },
-      {
-        "rank": 5,
-        "title": "That's it, I'm dumping my quota to 0% asap now",
-        "url": "https://www.reddit.com/r/codex/comments/1uzib8a/thats_it_im_dumping_my_quota_to_0_asap_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T01:29:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q9fful1d5wdh1.png?width=640&crop=smart&auto=webp&s=61b05b8b18515c3055fac8fcab2c90e35a473f82"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T22:26:46.745Z",
+  "fetchedAt": "2026-07-18T23:30:43.416Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,21 +16,22 @@
       },
       {
         "rank": 2,
-        "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T22:55:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-18T01:40:59.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T21:29:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
       },
       {
         "rank": 4,
@@ -43,13 +44,12 @@
       },
       {
         "rank": 5,
-        "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+        "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-18T21:29:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
+        "publishedAt": "2026-07-18T22:42:20.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -82,22 +82,22 @@
       },
       {
         "rank": 4,
+        "title": "OpenAI's head of strategic futures thinks open-weight models are a \"dystopian hellscape\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v05o91/openais_head_of_strategic_futures_thinks/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T19:56:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lj2ish9vm1eh1.png?width=640&crop=smart&auto=webp&s=4092f93008db99a0b62a888c5729a8663c411934"
+      },
+      {
+        "rank": 5,
         "title": "RESET IS HERE",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uzktm2/reset_is_here/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-18T03:31:24.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzqn7i/llms_show_hidden_bias_in_favor_of_their_creators/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T08:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/chn3udfrbydh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=bea22198464f8b03b978deaa331916d86f2bcd7d"
       },
       {
         "rank": 1,
@@ -140,13 +140,12 @@
       },
       {
         "rank": 5,
-        "title": "Bloomberg (feat 9to5): Gemini 3.5 Pro delays due to coding performance, upgraded Flash model in testing",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzeihc/bloomberg_feat_9to5_gemini_35_pro_delays_due_to/",
+        "title": "Just to be clear, owning the hardware isn’t easy either!",
+        "url": "https://www.reddit.com/r/singularity/comments/1v03lhb/just_to_be_clear_owning_the_hardware_isnt_easy/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-17T22:40:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-KczC1UmqEcnGBDS515CirzTAqT6tzCp3jt6UDz7TgM.jpeg?width=640&crop=smart&auto=webp&s=0bcae6e3d6f1474a74bab9b684b2b42b44a1d9ce"
+        "publishedAt": "2026-07-18T18:33:56.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

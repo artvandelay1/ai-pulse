@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T16:33:48.698Z",
+  "fetchedAt": "2026-07-18T17:59:50.155Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T15:10:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
         "source": "r/MachineLearning",
@@ -15,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Prism accidentally leaked [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
         "source": "r/MachineLearning",
@@ -23,15 +32,6 @@
         "publishedAt": "2026-07-17T17:59:44.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/csr59ogtwtdh1.png?width=140&height=27&auto=webp&s=d8b3c46b64b19d75c4b2b1726b0b3cbea225f38d"
-      },
-      {
-        "rank": 3,
-        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T15:10:52.000Z",
-        "category": "reddit"
       },
       {
         "rank": 4,
@@ -91,13 +91,13 @@
       },
       {
         "rank": 5,
-        "title": "Anthropic Leads top 10 models by $/spent",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uz5d59/anthropic_leads_top_10_models_by_spent/",
+        "title": "anyone in here into 3d printing and using their images to make models?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzl8gi/anyone_in_here_into_3d_printing_and_using_their/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-17T16:55:55.000Z",
+        "publishedAt": "2026-07-18T03:52:42.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ada2e7f1ltdh1.jpeg?width=640&crop=smart&auto=webp&s=af46d2634b93260253863a49fa4eade0df6924b5"
+        "thumbnail": "https://preview.redd.it/e9kzz2qzuwdh1.gif?frame=1&width=140&height=140&auto=webp&s=973cd425c04a1335d347cc80b5c71410e97d4282"
       },
       {
         "rank": 1,
@@ -130,6 +130,16 @@
       },
       {
         "rank": 4,
+        "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
+        "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T16:15:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556"
+      },
+      {
+        "rank": 5,
         "title": "The U.S.–China AI Race in Frontend Coding",
         "url": "https://www.reddit.com/r/singularity/comments/1uzgruf/the_uschina_ai_race_in_frontend_coding/",
         "source": "r/singularity",
@@ -137,16 +147,6 @@
         "publishedAt": "2026-07-18T00:17:12.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/rwsf16cjsvdh1.jpeg?width=640&crop=smart&auto=webp&s=6cf08e37ca4d6f408e9f57e68d59dc310863238f"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-5.6 Sol outperforms Mythos 5 on AISI’s cyber challenge",
-        "url": "https://www.reddit.com/r/singularity/comments/1uz91nn/gpt56_sol_outperforms_mythos_5_on_aisis_cyber/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T19:07:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t2qjbl0v7udh1.jpeg?width=640&crop=smart&auto=webp&s=80b9a4dde7cde1343cdf544c27dcac51514d75ac"
       },
       {
         "rank": 1,

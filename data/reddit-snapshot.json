@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-07-18T19:19:10.725Z",
+  "fetchedAt": "2026-07-18T20:23:43.185Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T15:10:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T22:55:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T01:40:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AAAI 27 AI Alignment track [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:44:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:15:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo Strikes Back.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T03:07:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/g19qbp58kwdh1.png?width=640&crop=smart&auto=webp&s=38785571210aad41841bc8ec356d67c353594e76"
+      },
+      {
+        "rank": 2,
+        "title": "Think this could happen to OpenAI ?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v02622/think_this_could_happen_to_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T17:38:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y7lyrwy0v0eh1.jpeg?width=640&crop=smart&auto=webp&s=4ee7e4741d95eebc57c7ebe4d999952c58bb5062"
+      },
+      {
+        "rank": 3,
+        "title": "ChatGPT Voice mode is insane",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzs4gu/chatgpt_voice_mode_is_insane/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T10:16:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "RESET IS HERE",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzktm2/reset_is_here/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T03:31:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzqn7i/llms_show_hidden_bias_in_favor_of_their_creators/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T08:48:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/chn3udfrbydh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=bea22198464f8b03b978deaa331916d86f2bcd7d"
+      },
+      {
+        "rank": 1,
+        "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
+        "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T16:15:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556"
+      },
+      {
+        "rank": 2,
+        "title": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T23:29:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b"
+      },
+      {
+        "rank": 3,
+        "title": "Claude on X: \"Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to\" / X",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzji34/claude_on_x_beginning_july_20_claude_fable_5_will/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T02:26:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The U.S.–China AI Race in Frontend Coding",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzgruf/the_uschina_ai_race_in_frontend_coding/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T00:17:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rwsf16cjsvdh1.jpeg?width=640&crop=smart&auto=webp&s=6cf08e37ca4d6f408e9f57e68d59dc310863238f"
+      },
+      {
+        "rank": 5,
+        "title": "Bloomberg (feat 9to5): Gemini 3.5 Pro delays due to coding performance, upgraded Flash model in testing",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzeihc/bloomberg_feat_9to5_gemini_35_pro_delays_due_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T22:40:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-KczC1UmqEcnGBDS515CirzTAqT6tzCp3jt6UDz7TgM.jpeg?width=640&crop=smart&auto=webp&s=0bcae6e3d6f1474a74bab9b684b2b42b44a1d9ce"
+      },
       {
         "rank": 1,
         "title": "Fable staying on Max",
@@ -57,51 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T15:10:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T22:55:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T01:40:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "AAAI 27 AI Alignment track [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:44:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:15:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Thanks Tibo! Thanks OpenAI team!",
         "url": "https://www.reddit.com/r/codex/comments/1uzkuna/thanks_tibo_thanks_openai_team/",
         "source": "r/codex",
@@ -149,103 +246,6 @@
         "publishedAt": "2026-07-18T01:29:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/q9fful1d5wdh1.png?width=640&crop=smart&auto=webp&s=61b05b8b18515c3055fac8fcab2c90e35a473f82"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo Strikes Back.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T03:07:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g19qbp58kwdh1.png?width=640&crop=smart&auto=webp&s=38785571210aad41841bc8ec356d67c353594e76"
-      },
-      {
-        "rank": 2,
-        "title": "ChatGPT Voice mode is insane",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzs4gu/chatgpt_voice_mode_is_insane/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T10:16:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "RESET IS HERE",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzktm2/reset_is_here/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T03:31:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzqn7i/llms_show_hidden_bias_in_favor_of_their_creators/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T08:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/chn3udfrbydh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=bea22198464f8b03b978deaa331916d86f2bcd7d"
-      },
-      {
-        "rank": 5,
-        "title": "anyone in here into 3d printing and using their images to make models?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzl8gi/anyone_in_here_into_3d_printing_and_using_their/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T03:52:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e9kzz2qzuwdh1.gif?frame=1&width=140&height=140&auto=webp&s=973cd425c04a1335d347cc80b5c71410e97d4282"
-      },
-      {
-        "rank": 1,
-        "title": "All this hysteria about datacenter water use. Check out this graph of how Al water consumption in America compares to laundry, flushing toilets, etc. From CBS news. Also AI is only 10% of datacenter use.",
-        "url": "https://www.reddit.com/r/singularity/comments/1uz74vn/all_this_hysteria_about_datacenter_water_use/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T17:58:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gog4hc83xtdh1.jpeg?width=640&crop=smart&auto=webp&s=d82daaeecba09f7b721806bd755d349e0a40c8b1"
-      },
-      {
-        "rank": 2,
-        "title": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T23:29:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b"
-      },
-      {
-        "rank": 3,
-        "title": "Claude on X: \"Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to\" / X",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzji34/claude_on_x_beginning_july_20_claude_fable_5_will/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T02:26:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
-        "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T16:15:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556"
-      },
-      {
-        "rank": 5,
-        "title": "The U.S.–China AI Race in Frontend Coding",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzgruf/the_uschina_ai_race_in_frontend_coding/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T00:17:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rwsf16cjsvdh1.jpeg?width=640&crop=smart&auto=webp&s=6cf08e37ca4d6f408e9f57e68d59dc310863238f"
       }
     ]
   }

@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-07-18T15:32:14.929Z",
+  "fetchedAt": "2026-07-18T16:33:48.698Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T22:55:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Prism accidentally leaked [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-17T17:59:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/csr59ogtwtdh1.png?width=140&height=27&auto=webp&s=d8b3c46b64b19d75c4b2b1726b0b3cbea225f38d"
+      },
+      {
+        "rank": 3,
+        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T15:10:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T01:40:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AAAI 27 AI Alignment track [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:44:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo Strikes Back.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T03:07:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/g19qbp58kwdh1.png?width=640&crop=smart&auto=webp&s=38785571210aad41841bc8ec356d67c353594e76"
+      },
+      {
+        "rank": 2,
+        "title": "ChatGPT Voice mode is insane",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzs4gu/chatgpt_voice_mode_is_insane/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T10:16:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "RESET IS HERE",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzktm2/reset_is_here/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T03:31:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzqn7i/llms_show_hidden_bias_in_favor_of_their_creators/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T08:48:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/chn3udfrbydh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=bea22198464f8b03b978deaa331916d86f2bcd7d"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic Leads top 10 models by $/spent",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uz5d59/anthropic_leads_top_10_models_by_spent/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-17T16:55:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ada2e7f1ltdh1.jpeg?width=640&crop=smart&auto=webp&s=af46d2634b93260253863a49fa4eade0df6924b5"
+      },
+      {
+        "rank": 1,
+        "title": "All this hysteria about datacenter water use. Check out this graph of how Al water consumption in America compares to laundry, flushing toilets, etc. From CBS news. Also AI is only 10% of datacenter use.",
+        "url": "https://www.reddit.com/r/singularity/comments/1uz74vn/all_this_hysteria_about_datacenter_water_use/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T17:58:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gog4hc83xtdh1.jpeg?width=640&crop=smart&auto=webp&s=d82daaeecba09f7b721806bd755d349e0a40c8b1"
+      },
+      {
+        "rank": 2,
+        "title": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T23:29:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b"
+      },
+      {
+        "rank": 3,
+        "title": "Claude on X: \"Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to\" / X",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzji34/claude_on_x_beginning_july_20_claude_fable_5_will/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T02:26:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The U.S.–China AI Race in Frontend Coding",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzgruf/the_uschina_ai_race_in_frontend_coding/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T00:17:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rwsf16cjsvdh1.jpeg?width=640&crop=smart&auto=webp&s=6cf08e37ca4d6f408e9f57e68d59dc310863238f"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-5.6 Sol outperforms Mythos 5 on AISI’s cyber challenge",
+        "url": "https://www.reddit.com/r/singularity/comments/1uz91nn/gpt56_sol_outperforms_mythos_5_on_aisis_cyber/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-17T19:07:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t2qjbl0v7udh1.jpeg?width=640&crop=smart&auto=webp&s=80b9a4dde7cde1343cdf544c27dcac51514d75ac"
+      },
       {
         "rank": 1,
         "title": "Fable staying on Max",
@@ -57,52 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Prism accidentally leaked [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T17:59:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/csr59ogtwtdh1.png?width=140&height=27&auto=webp&s=d8b3c46b64b19d75c4b2b1726b0b3cbea225f38d"
-      },
-      {
-        "rank": 2,
-        "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-17T22:55:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T15:10:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T01:40:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "AAAI 27 AI Alignment track [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:44:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Tibo is seeing what he can do",
         "url": "https://www.reddit.com/r/codex/comments/1uzew5j/tibo_is_seeing_what_he_can_do/",
         "source": "r/codex",
@@ -149,104 +246,6 @@
         "publishedAt": "2026-07-18T01:29:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/q9fful1d5wdh1.png?width=640&crop=smart&auto=webp&s=61b05b8b18515c3055fac8fcab2c90e35a473f82"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo Strikes Back.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T03:07:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g19qbp58kwdh1.png?width=640&crop=smart&auto=webp&s=38785571210aad41841bc8ec356d67c353594e76"
-      },
-      {
-        "rank": 2,
-        "title": "RESET IS HERE",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzktm2/reset_is_here/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T03:31:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic Leads top 10 models by $/spent",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uz5d59/anthropic_leads_top_10_models_by_spent/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-17T16:55:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ada2e7f1ltdh1.jpeg?width=640&crop=smart&auto=webp&s=af46d2634b93260253863a49fa4eade0df6924b5"
-      },
-      {
-        "rank": 4,
-        "title": "\"Humans\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uz0gs9/humans/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-17T13:55:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dbfko66npsdh1.png?width=640&crop=smart&auto=webp&s=d395f7a1c2252836138d95f81259eca6d3e0ac76"
-      },
-      {
-        "rank": 5,
-        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzqn7i/llms_show_hidden_bias_in_favor_of_their_creators/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T08:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/chn3udfrbydh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=bea22198464f8b03b978deaa331916d86f2bcd7d"
-      },
-      {
-        "rank": 1,
-        "title": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
-        "url": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T15:45:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a"
-      },
-      {
-        "rank": 2,
-        "title": "This is the most cyberpunk thing I've seen lately, drone swarm returning to base. The past would be stunned and confused.",
-        "url": "https://www.reddit.com/r/singularity/comments/1uz31zl/this_is_the_most_cyberpunk_thing_ive_seen_lately/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T15:31:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmJiaHA1enI2dGRoMeLyYn1IBRoZcam0UfTGdfp87V2ZADuKcOKxdfNR-_C2.png?width=320&crop=smart&auto=webp&s=459d89aedc2d520f39913cdaa76311f8d0371a06"
-      },
-      {
-        "rank": 3,
-        "title": "All this hysteria about datacenter water use. Check out this graph of how Al water consumption in America compares to laundry, flushing toilets, etc. From CBS news. Also AI is only 10% of datacenter use.",
-        "url": "https://www.reddit.com/r/singularity/comments/1uz74vn/all_this_hysteria_about_datacenter_water_use/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T17:58:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gog4hc83xtdh1.jpeg?width=640&crop=smart&auto=webp&s=d82daaeecba09f7b721806bd755d349e0a40c8b1"
-      },
-      {
-        "rank": 4,
-        "title": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-17T23:29:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b"
-      },
-      {
-        "rank": 5,
-        "title": "Claude on X: \"Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Demand for Fable has been challenging to\" / X",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzji34/claude_on_x_beginning_july_20_claude_fable_5_will/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T02:26:15.000Z",
-        "category": "reddit"
       }
     ]
   }

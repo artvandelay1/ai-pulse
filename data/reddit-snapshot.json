@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T12:30:13.375Z",
+  "fetchedAt": "2026-07-18T14:04:11.333Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "I built an open-source canvas where Claude responds beside your handwritings",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uz0ajn/i_built_an_opensource_canvas_where_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-17T13:48:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z2FpbDI3N3Jtc2RoMenfMHLu16PndNTh8j9BgE4gTK3nwi1CfBP49AkUNWl0.png?width=640&crop=smart&auto=webp&s=288892882f40f29a726188b7c436adf7109810ac"
-      },
-      {
-        "rank": 3,
         "title": "Got 6 months of Claude Max 20x for free — thanks Anthropic and OpenSource",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uz5gtz/got_6_months_of_claude_max_20x_for_free_thanks/",
         "source": "r/ClaudeAI",
@@ -36,7 +26,7 @@
         "thumbnail": "https://preview.redd.it/osxdkr3jmtdh1.png?width=640&crop=smart&auto=webp&s=549c5b3dc66addbe1bcd658af51c64fb39b2f9db"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Claude called me [30M] Nadia for no reason.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uz9tp1/claude_called_me_30m_nadia_for_no_reason/",
         "source": "r/ClaudeAI",
@@ -46,13 +36,23 @@
         "thumbnail": "https://preview.redd.it/41rbz2vdeudh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bfb012ffa48ab65218474279dafc23c6cb2b9d31"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Claude Code not allowing me to use Fable 5",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1uz7u1g/claude_code_not_allowing_me_to_use_fable_5/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-07-17T18:23:31.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal (Gift Article)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzd5mw/meta_in_talks_to_lease_computing_power_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-17T21:43:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/jMdwx_gJyWuKXYzDoMtmtZq3DsdQQAuLtBatVDZGte4.jpeg?width=640&crop=smart&auto=webp&s=e6949d04b2b6b6e3d0f6df6ff9ddf66851120893"
       },
       {
         "rank": 1,
@@ -122,16 +122,6 @@
       },
       {
         "rank": 3,
-        "title": "SOL Empire lasted only one day.",
-        "url": "https://www.reddit.com/r/codex/comments/1uyyr38/sol_empire_lasted_only_one_day/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-17T12:47:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z7ge30ehdsdh1.png?width=640&crop=smart&auto=webp&s=ca918f2b25624391f2990d364a60bbacc2570a2b"
-      },
-      {
-        "rank": 4,
         "title": "Reset soon",
         "url": "https://www.reddit.com/r/codex/comments/1uzk47g/reset_soon/",
         "source": "r/codex",
@@ -141,13 +131,23 @@
         "thumbnail": "https://preview.redd.it/o4po8z0ukwdh1.png?width=320&crop=smart&auto=webp&s=968c470a0e30f116da95aada828dad0b39fd1112"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "To the codex team, if you remove the 5hrs limits ever, i will go to the 100$ plan",
         "url": "https://www.reddit.com/r/codex/comments/1uz5njb/to_the_codex_team_if_you_remove_the_5hrs_limits/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-07-17T17:06:02.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "That's it, I'm dumping my quota to 0% asap now",
+        "url": "https://www.reddit.com/r/codex/comments/1uzib8a/thats_it_im_dumping_my_quota_to_0_asap_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T01:29:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q9fful1d5wdh1.png?width=640&crop=smart&auto=webp&s=61b05b8b18515c3055fac8fcab2c90e35a473f82"
       },
       {
         "rank": 1,

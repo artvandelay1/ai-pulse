@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T09:31:44.418Z",
+  "fetchedAt": "2026-07-19T10:59:45.599Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -74,15 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "ChatGPT Voice mode is insane",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzs4gu/chatgpt_voice_mode_is_insane/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T10:16:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "A masterclass in shifting the blame",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v03td6/a_masterclass_in_shifting_the_blame/",
         "source": "r/OpenAI",
@@ -92,7 +83,7 @@
         "thumbnail": "https://preview.redd.it/kgmlwi0891eh1.png?width=640&crop=smart&auto=webp&s=c17a0c2827bc7481b5d7673efd7bffabed563c79"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Anthropic routes 13.1% of tracked tokens, but captures an estimated 61.4% of the spend",
         "url": "https://www.reddit.com/r/OpenAI/comments/1uzwzhw/anthropic_routes_131_of_tracked_tokens_but/",
         "source": "r/OpenAI",
@@ -100,6 +91,16 @@
         "publishedAt": "2026-07-18T14:12:54.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ucuw4hmoxzdh1.jpeg?width=640&crop=smart&auto=webp&s=ab2cf2112d3c0a88903b66135a4eb29019624a5d"
+      },
+      {
+        "rank": 5,
+        "title": "Anybody hates the Pet button location?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0kerb/anybody_hates_the_pet_button_location/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T07:53:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o3rk9fwg65eh1.png?width=140&height=87&auto=webp&s=dfb0802bad3f0126aa161c8c042c5168e56bf203"
       },
       {
         "rank": 1,
@@ -123,6 +124,16 @@
       },
       {
         "rank": 3,
+        "title": "JUST IN: Qwen 3.8 is coming. Open weight storm from China is continuing.",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0l4j0/just_in_qwen_38_is_coming_open_weight_storm_from/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T08:35:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rcv4pomce5eh1.jpeg?width=640&crop=smart&auto=webp&s=ed32b587160c2ff40cc76d89cc5d43c10f46aeec"
+      },
+      {
+        "rank": 4,
         "title": "Just to be clear, owning the hardware isn’t easy either!",
         "url": "https://www.reddit.com/r/singularity/comments/1v03lhb/just_to_be_clear_owning_the_hardware_isnt_easy/",
         "source": "r/singularity",
@@ -131,7 +142,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "After OpenAI’s CDC proof announcement, GPT-5.6 used a similar prompt to close a 30-year gap in convex optimization, verified in Lean",
         "url": "https://www.reddit.com/r/singularity/comments/1uzwy9q/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "source": "r/singularity",
@@ -139,16 +150,6 @@
         "publishedAt": "2026-07-18T14:11:31.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/3a9qHV-nRw5Xyxdk2izMBfcYPsXF3tVJzKq2TBVlTqs.png?width=640&crop=smart&auto=webp&s=5cf55cc25df43837adeb7e75e57bc9a66e415913"
-      },
-      {
-        "rank": 5,
-        "title": "JUST IN: Qwen 3.8 is coming. Open weight storm from China is continuing.",
-        "url": "https://www.reddit.com/r/singularity/comments/1v0l4j0/just_in_qwen_38_is_coming_open_weight_storm_from/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-19T08:35:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rcv4pomce5eh1.jpeg?width=640&crop=smart&auto=webp&s=ed32b587160c2ff40cc76d89cc5d43c10f46aeec"
       },
       {
         "rank": 1,

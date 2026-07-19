@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T14:04:48.976Z",
+  "fetchedAt": "2026-07-19T15:33:41.670Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T15:10:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
         "source": "r/MachineLearning",
@@ -25,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
         "source": "r/MachineLearning",
@@ -34,21 +25,31 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "AAAI 27 AI Alignment track [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:44:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-18T22:42:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-19T12:54:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o6l1c96lo6eh1.png?width=640&crop=smart&auto=webp&s=92447206205a44b4f473a41cc8557c245d73a7d0"
+      },
+      {
+        "rank": 5,
+        "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-19T12:44:45.000Z",
         "category": "reddit"
       },
       {
@@ -93,13 +94,13 @@
       },
       {
         "rank": 5,
-        "title": "Anthropic routes 13.1% of tracked tokens, but captures an estimated 61.4% of the spend",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzwzhw/anthropic_routes_131_of_tracked_tokens_but/",
+        "title": "Anybody hates the Pet button location?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0kerb/anybody_hates_the_pet_button_location/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-18T14:12:54.000Z",
+        "publishedAt": "2026-07-19T07:53:04.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ucuw4hmoxzdh1.jpeg?width=640&crop=smart&auto=webp&s=ab2cf2112d3c0a88903b66135a4eb29019624a5d"
+        "thumbnail": "https://preview.redd.it/o3rk9fwg65eh1.png?width=140&height=87&auto=webp&s=dfb0802bad3f0126aa161c8c042c5168e56bf203"
       },
       {
         "rank": 1,
@@ -142,13 +143,13 @@
       },
       {
         "rank": 5,
-        "title": "After OpenAI’s CDC proof announcement, GPT-5.6 used a similar prompt to close a 30-year gap in convex optimization, verified in Lean",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzwy9q/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "title": "Is AI really getting expensive?",
+        "url": "https://www.reddit.com/r/singularity/comments/1v06dxu/is_ai_really_getting_expensive/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-18T14:11:31.000Z",
+        "publishedAt": "2026-07-18T20:24:39.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/3a9qHV-nRw5Xyxdk2izMBfcYPsXF3tVJzKq2TBVlTqs.png?width=640&crop=smart&auto=webp&s=5cf55cc25df43837adeb7e75e57bc9a66e415913"
+        "thumbnail": "https://preview.redd.it/pmzkyu8ar1eh1.png?width=640&crop=smart&auto=webp&s=66edec5bdba9f57bb28b34f70620a4c41dd80a6c"
       },
       {
         "rank": 1,

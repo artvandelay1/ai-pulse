@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-07-19T07:31:15.227Z",
+  "fetchedAt": "2026-07-19T09:31:44.418Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T15:10:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T21:29:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
+      },
+      {
+        "rank": 3,
+        "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T22:42:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AAAI 27 AI Alignment track [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:44:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T20:35:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n3okgq66t1eh1.png?width=140&height=99&auto=webp&s=c7f944d68ce877e0198147bb832e40cbb826fa91"
+      },
+      {
+        "rank": 1,
+        "title": "Think this could happen to OpenAI ?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v02622/think_this_could_happen_to_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T17:38:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y7lyrwy0v0eh1.jpeg?width=640&crop=smart&auto=webp&s=4ee7e4741d95eebc57c7ebe4d999952c58bb5062"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI's head of strategic futures thinks open-weight models are a \"dystopian hellscape\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v05o91/openais_head_of_strategic_futures_thinks/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T19:56:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lj2ish9vm1eh1.png?width=640&crop=smart&auto=webp&s=4092f93008db99a0b62a888c5729a8663c411934"
+      },
+      {
+        "rank": 3,
+        "title": "ChatGPT Voice mode is insane",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzs4gu/chatgpt_voice_mode_is_insane/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T10:16:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "A masterclass in shifting the blame",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v03td6/a_masterclass_in_shifting_the_blame/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T18:42:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kgmlwi0891eh1.png?width=640&crop=smart&auto=webp&s=c17a0c2827bc7481b5d7673efd7bffabed563c79"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic routes 13.1% of tracked tokens, but captures an estimated 61.4% of the spend",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1uzwzhw/anthropic_routes_131_of_tracked_tokens_but/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:12:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ucuw4hmoxzdh1.jpeg?width=640&crop=smart&auto=webp&s=ab2cf2112d3c0a88903b66135a4eb29019624a5d"
+      },
+      {
+        "rank": 1,
+        "title": "So poetic 🌙",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0c8lc/so_poetic/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T00:39:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uow5bkgh13eh1.jpeg?width=640&crop=smart&auto=webp&s=194e03d2b5baf2f3f815d5ae73423d8ebb471972"
+      },
+      {
+        "rank": 2,
+        "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
+        "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T16:15:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556"
+      },
+      {
+        "rank": 3,
+        "title": "Just to be clear, owning the hardware isn’t easy either!",
+        "url": "https://www.reddit.com/r/singularity/comments/1v03lhb/just_to_be_clear_owning_the_hardware_isnt_easy/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T18:33:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "After OpenAI’s CDC proof announcement, GPT-5.6 used a similar prompt to close a 30-year gap in convex optimization, verified in Lean",
+        "url": "https://www.reddit.com/r/singularity/comments/1uzwy9q/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:11:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/3a9qHV-nRw5Xyxdk2izMBfcYPsXF3tVJzKq2TBVlTqs.png?width=640&crop=smart&auto=webp&s=5cf55cc25df43837adeb7e75e57bc9a66e415913"
+      },
+      {
+        "rank": 5,
+        "title": "JUST IN: Qwen 3.8 is coming. Open weight storm from China is continuing.",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0l4j0/just_in_qwen_38_is_coming_open_weight_storm_from/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T08:35:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rcv4pomce5eh1.jpeg?width=640&crop=smart&auto=webp&s=ed32b587160c2ff40cc76d89cc5d43c10f46aeec"
+      },
       {
         "rank": 1,
         "title": "Another move to sweeten the masses",
@@ -55,53 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T15:10:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T21:29:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
-      },
-      {
-        "rank": 3,
-        "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T22:42:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "AAAI 27 AI Alignment track [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:44:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T20:35:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n3okgq66t1eh1.png?width=140&height=99&auto=webp&s=c7f944d68ce877e0198147bb832e40cbb826fa91"
-      },
-      {
-        "rank": 1,
         "title": "The sun came out.",
         "url": "https://www.reddit.com/r/codex/comments/1v010h6/the_sun_came_out/",
         "source": "r/codex",
@@ -147,104 +245,6 @@
         "score": 0,
         "publishedAt": "2026-07-18T16:03:43.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Think this could happen to OpenAI ?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v02622/think_this_could_happen_to_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T17:38:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y7lyrwy0v0eh1.jpeg?width=640&crop=smart&auto=webp&s=4ee7e4741d95eebc57c7ebe4d999952c58bb5062"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI's head of strategic futures thinks open-weight models are a \"dystopian hellscape\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v05o91/openais_head_of_strategic_futures_thinks/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T19:56:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lj2ish9vm1eh1.png?width=640&crop=smart&auto=webp&s=4092f93008db99a0b62a888c5729a8663c411934"
-      },
-      {
-        "rank": 3,
-        "title": "ChatGPT Voice mode is insane",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzs4gu/chatgpt_voice_mode_is_insane/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T10:16:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1uzqn7i/llms_show_hidden_bias_in_favor_of_their_creators/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T08:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/chn3udfrbydh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=bea22198464f8b03b978deaa331916d86f2bcd7d"
-      },
-      {
-        "rank": 5,
-        "title": "A masterclass in shifting the blame",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v03td6/a_masterclass_in_shifting_the_blame/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T18:42:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kgmlwi0891eh1.png?width=640&crop=smart&auto=webp&s=c17a0c2827bc7481b5d7673efd7bffabed563c79"
-      },
-      {
-        "rank": 1,
-        "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
-        "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T16:15:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556"
-      },
-      {
-        "rank": 2,
-        "title": "So poetic 🌙",
-        "url": "https://www.reddit.com/r/singularity/comments/1v0c8lc/so_poetic/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-19T00:39:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uow5bkgh13eh1.jpeg?width=640&crop=smart&auto=webp&s=194e03d2b5baf2f3f815d5ae73423d8ebb471972"
-      },
-      {
-        "rank": 3,
-        "title": "Just to be clear, owning the hardware isn’t easy either!",
-        "url": "https://www.reddit.com/r/singularity/comments/1v03lhb/just_to_be_clear_owning_the_hardware_isnt_easy/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T18:33:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "After OpenAI’s CDC proof announcement, GPT-5.6 used a similar prompt to close a 30-year gap in convex optimization, verified in Lean",
-        "url": "https://www.reddit.com/r/singularity/comments/1uzwy9q/after_openais_cdc_proof_announcement_gpt56_used_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:11:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/3a9qHV-nRw5Xyxdk2izMBfcYPsXF3tVJzKq2TBVlTqs.png?width=640&crop=smart&auto=webp&s=5cf55cc25df43837adeb7e75e57bc9a66e415913"
-      },
-      {
-        "rank": 5,
-        "title": "Is AI really getting expensive?",
-        "url": "https://www.reddit.com/r/singularity/comments/1v06dxu/is_ai_really_getting_expensive/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T20:24:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pmzkyu8ar1eh1.png?width=640&crop=smart&auto=webp&s=66edec5bdba9f57bb28b34f70620a4c41dd80a6c"
       }
     ]
   }

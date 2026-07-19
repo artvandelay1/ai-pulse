@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-07-19T19:48:10.816Z",
+  "fetchedAt": "2026-07-19T20:57:48.870Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T21:29:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
+      },
+      {
+        "rank": 2,
+        "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-19T12:29:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-19T12:54:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o6l1c96lo6eh1.png?width=640&crop=smart&auto=webp&s=92447206205a44b4f473a41cc8557c245d73a7d0"
+      },
+      {
+        "rank": 4,
+        "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T22:42:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-19T12:44:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI head of strategic futures says open-weight model dominance is AI communism",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0nx8b/openai_head_of_strategic_futures_says_openweight/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T11:19:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nfnezmsl76eh1.png?width=640&crop=smart&auto=webp&s=eb40339d78e42a8646a89e936b3463a77d8491f6"
+      },
+      {
+        "rank": 2,
+        "title": "tokenmaxing and successmaxing not the same",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0tuzi/tokenmaxing_and_successmaxing_not_the_same/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T15:43:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tfnnu7jki7eh1.jpeg?width=640&crop=smart&auto=webp&s=314116eea69b6da992f437f3d6617abf6980d616"
+      },
+      {
+        "rank": 3,
+        "title": "Sam Altman emails OpenAI board in 2022",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0uo80/sam_altman_emails_openai_board_in_2022/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T16:13:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v02blrp6o7eh1.jpeg?width=640&crop=smart&auto=webp&s=3c8b3622fdd244b74df32b6679b6670085a952a9"
+      },
+      {
+        "rank": 4,
+        "title": "Anybody hates the Pet button location?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0kerb/anybody_hates_the_pet_button_location/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T07:53:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o3rk9fwg65eh1.png?width=140&height=87&auto=webp&s=dfb0802bad3f0126aa161c8c042c5168e56bf203"
+      },
+      {
+        "rank": 5,
+        "title": "Chatgpt currently Down?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0rxrj/chatgpt_currently_down/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T14:24:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "So poetic 🌙",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0c8lc/so_poetic/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T00:39:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uow5bkgh13eh1.jpeg?width=640&crop=smart&auto=webp&s=194e03d2b5baf2f3f815d5ae73423d8ebb471972"
+      },
+      {
+        "rank": 2,
+        "title": "Kimi is temporarily pausing new subscriptions and prioritizing compute for current members due to surging demand.",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0uqm4/kimi_is_temporarily_pausing_new_subscriptions_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T16:16:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k8zbvfjgo7eh1.png?width=640&crop=smart&auto=webp&s=4b374ff817e1fda6a383ee27aced9ee031f79d4a"
+      },
+      {
+        "rank": 3,
+        "title": "JUST IN: Qwen 3.8 is coming. Open weight storm from China is continuing.",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0l4j0/just_in_qwen_38_is_coming_open_weight_storm_from/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T08:35:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rcv4pomce5eh1.jpeg?width=640&crop=smart&auto=webp&s=ed32b587160c2ff40cc76d89cc5d43c10f46aeec"
+      },
+      {
+        "rank": 4,
+        "title": "Qwen3.8",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0ygxj/qwen38/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T18:42:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p0pci49oe8eh1.jpeg?width=640&crop=smart&auto=webp&s=b2631bc92dfeecaf134b85c044b2a7a2a6690421"
+      },
+      {
+        "rank": 5,
+        "title": "David Sacks calls Anthropic and OpenAI a duopoly, and says they want to use the government to eliminate their open source competition",
+        "url": "https://www.reddit.com/r/singularity/comments/1v0sxo1/david_sacks_calls_anthropic_and_openai_a_duopoly/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T15:05:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a4qmn6ey97eh1.png?width=140&height=135&auto=webp&s=873bc128531ef6a5eca955242b8561759d1742aa"
+      },
       {
         "rank": 1,
         "title": "Another move to sweeten the masses",
@@ -57,53 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T21:29:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
-      },
-      {
-        "rank": 2,
-        "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-19T12:29:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-19T12:54:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o6l1c96lo6eh1.png?width=640&crop=smart&auto=webp&s=92447206205a44b4f473a41cc8557c245d73a7d0"
-      },
-      {
-        "rank": 4,
-        "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T22:42:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-19T12:44:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Codex is wearing out our devices",
         "url": "https://www.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
         "source": "r/codex",
@@ -149,105 +248,6 @@
         "publishedAt": "2026-07-18T23:48:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ym9jfj1bs2eh1.png?width=640&crop=smart&auto=webp&s=c45cc972b26a4cff85ab540cc6417eaf33181659"
-      },
-      {
-        "rank": 1,
-        "title": "Think this could happen to OpenAI ?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v02622/think_this_could_happen_to_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T17:38:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y7lyrwy0v0eh1.jpeg?width=640&crop=smart&auto=webp&s=4ee7e4741d95eebc57c7ebe4d999952c58bb5062"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI's head of strategic futures thinks open-weight models are a \"dystopian hellscape\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v05o91/openais_head_of_strategic_futures_thinks/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T19:56:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lj2ish9vm1eh1.png?width=640&crop=smart&auto=webp&s=4092f93008db99a0b62a888c5729a8663c411934"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI head of strategic futures says open-weight model dominance is AI communism",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v0nx8b/openai_head_of_strategic_futures_says_openweight/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T11:19:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nfnezmsl76eh1.png?width=640&crop=smart&auto=webp&s=eb40339d78e42a8646a89e936b3463a77d8491f6"
-      },
-      {
-        "rank": 4,
-        "title": "A masterclass in shifting the blame",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v03td6/a_masterclass_in_shifting_the_blame/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T18:42:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kgmlwi0891eh1.png?width=640&crop=smart&auto=webp&s=c17a0c2827bc7481b5d7673efd7bffabed563c79"
-      },
-      {
-        "rank": 5,
-        "title": "Anybody hates the Pet button location?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v0kerb/anybody_hates_the_pet_button_location/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T07:53:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o3rk9fwg65eh1.png?width=140&height=87&auto=webp&s=dfb0802bad3f0126aa161c8c042c5168e56bf203"
-      },
-      {
-        "rank": 1,
-        "title": "So poetic 🌙",
-        "url": "https://www.reddit.com/r/singularity/comments/1v0c8lc/so_poetic/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-19T00:39:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uow5bkgh13eh1.jpeg?width=640&crop=smart&auto=webp&s=194e03d2b5baf2f3f815d5ae73423d8ebb471972"
-      },
-      {
-        "rank": 2,
-        "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
-        "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T16:15:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556"
-      },
-      {
-        "rank": 3,
-        "title": "JUST IN: Qwen 3.8 is coming. Open weight storm from China is continuing.",
-        "url": "https://www.reddit.com/r/singularity/comments/1v0l4j0/just_in_qwen_38_is_coming_open_weight_storm_from/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-19T08:35:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rcv4pomce5eh1.jpeg?width=640&crop=smart&auto=webp&s=ed32b587160c2ff40cc76d89cc5d43c10f46aeec"
-      },
-      {
-        "rank": 4,
-        "title": "Just to be clear, owning the hardware isn’t easy either!",
-        "url": "https://www.reddit.com/r/singularity/comments/1v03lhb/just_to_be_clear_owning_the_hardware_isnt_easy/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T18:33:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is AI really getting expensive?",
-        "url": "https://www.reddit.com/r/singularity/comments/1v06dxu/is_ai_really_getting_expensive/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-18T20:24:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pmzkyu8ar1eh1.png?width=640&crop=smart&auto=webp&s=66edec5bdba9f57bb28b34f70620a4c41dd80a6c"
       }
     ]
   }

@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-19T15:33:41.670Z",
+  "fetchedAt": "2026-07-19T17:04:14.311Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Another move to sweeten the masses",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v05ucl/another_move_to_sweeten_the_masses/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T20:02:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/evx0daa4o1eh1.jpeg?width=640&crop=smart&auto=webp&s=942f9783f993c4dd846a00e9184f22a5c1170d3b"
+      },
+      {
+        "rank": 2,
+        "title": "Made this to see what Claude was doing. Now I basically work from it",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v08p2q/made_this_to_see_what_claude_was_doing_now_i/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T22:01:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/L42Rm813mgxukGFR85xYfUL7TbORZLaqTfpUSOeG5hs.png?width=640&crop=smart&auto=webp&s=ef99f7600fc10359f31d4941104d32242cdb7c23"
+      },
+      {
+        "rank": 3,
+        "title": "Clown Code🤡",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0mogt/clown_code/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T10:08:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rmpd0enst5eh1.jpeg?width=640&crop=smart&auto=webp&s=81ee88ac6a1992e53a6863af68ad7bd3fb3c5a3f"
+      },
+      {
+        "rank": 4,
+        "title": "What are people actually using Claude for?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v08afp/what_are_people_actually_using_claude_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T21:44:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Code 50% extra weekly usage extended to Aug 19",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v01o7q/claude_code_50_extra_weekly_usage_extended_to_aug/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T17:19:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/98si9tcwu0eh1.png?width=640&crop=smart&auto=webp&s=3ce0bfbd0fcf9a5324cd6e9eef21c1a66e62c40b"
+      },
       {
         "rank": 1,
         "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
@@ -26,15 +75,6 @@
       },
       {
         "rank": 3,
-        "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-18T22:42:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
         "source": "r/MachineLearning",
@@ -44,12 +84,68 @@
         "thumbnail": "https://preview.redd.it/o6l1c96lo6eh1.png?width=640&crop=smart&auto=webp&s=92447206205a44b4f473a41cc8557c245d73a7d0"
       },
       {
+        "rank": 4,
+        "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-18T22:42:20.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 5,
         "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-19T12:44:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Codex is wearing out our devices",
+        "url": "https://www.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T09:34:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Fable + 5.6 Sol + Opus on the same team is just unfair!!!",
+        "url": "https://www.reddit.com/r/codex/comments/1v0nav6/fable_56_sol_opus_on_the_same_team_is_just_unfair/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T10:44:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c2FsZDBwNmgxNmVoMVKj3tbl1OhNLhMMV7aN1nZRS0kpDawUlnhk9niMThJ0.png?width=640&crop=smart&auto=webp&s=b9a6eeac4ace496ac2d0edade0c52b40d5be60e9"
+      },
+      {
+        "rank": 3,
+        "title": "You can easily switch between, and use, custom model providers in the Codex/ChatGPT app now, without signing out of your ChatGPT account or changing the used provider in the config file.",
+        "url": "https://www.reddit.com/r/codex/comments/1v06e5y/you_can_easily_switch_between_and_use_custom/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T20:24:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dqxpjpryr1eh1.png?width=640&crop=smart&auto=webp&s=f47739f27fcd88abd3131c1537d21c2875b95fd3"
+      },
+      {
+        "rank": 4,
+        "title": "Anyone noticing that 5.6 feels like it's pulling teeth now?",
+        "url": "https://www.reddit.com/r/codex/comments/1v0hgvb/anyone_noticing_that_56_feels_like_its_pulling/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T05:05:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-5.6 context reduced to 272k",
+        "url": "https://www.reddit.com/r/codex/comments/1v02y73/gpt56_context_reduced_to_272k/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T18:09:07.000Z",
         "category": "reddit"
       },
       {
@@ -150,102 +246,6 @@
         "publishedAt": "2026-07-18T20:24:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/pmzkyu8ar1eh1.png?width=640&crop=smart&auto=webp&s=66edec5bdba9f57bb28b34f70620a4c41dd80a6c"
-      },
-      {
-        "rank": 1,
-        "title": "Another move to sweeten the masses",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v05ucl/another_move_to_sweeten_the_masses/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T20:02:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/evx0daa4o1eh1.jpeg?width=640&crop=smart&auto=webp&s=942f9783f993c4dd846a00e9184f22a5c1170d3b"
-      },
-      {
-        "rank": 2,
-        "title": "Scientist's view - the BS of F@ble \"too dangerous for science\" now that Sol and Kimi K3 available",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzxcyt/scientists_view_the_bs_of_fble_too_dangerous_for/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:28:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T07:32:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cs8oa9fxxxdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea7c07937ad68952e4ec9b95a57a2a4b6aa1855d"
-      },
-      {
-        "rank": 4,
-        "title": "I made Claude read an entire World Cup (all 102 match commentaries) to tell me who wins tomorrow’s final. It’s either brilliant or about to be very funny.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0gabd/i_made_claude_read_an_entire_world_cup_all_102/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T04:02:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Made this to see what Claude was doing. Now I basically work from it",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v08p2q/made_this_to_see_what_claude_was_doing_now_i/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T22:01:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/L42Rm813mgxukGFR85xYfUL7TbORZLaqTfpUSOeG5hs.png?width=640&crop=smart&auto=webp&s=ef99f7600fc10359f31d4941104d32242cdb7c23"
-      },
-      {
-        "rank": 1,
-        "title": "The sun came out.",
-        "url": "https://www.reddit.com/r/codex/comments/1v010h6/the_sun_came_out/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T16:54:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mxy97oifq0eh1.jpeg?width=640&crop=smart&auto=webp&s=ba650e3241489624849d651c655ce0d40559bda7"
-      },
-      {
-        "rank": 2,
-        "title": "What did he mean by this",
-        "url": "https://www.reddit.com/r/codex/comments/1uzxct3/what_did_he_mean_by_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:28:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x56nkq9e00eh1.jpeg?width=640&crop=smart&auto=webp&s=8cdd1f676aa76e8955a68d0c9c0f329198b211cf"
-      },
-      {
-        "rank": 3,
-        "title": "You can easily switch between, and use, custom model providers in the Codex/ChatGPT app now, without signing out of your ChatGPT account or changing the used provider in the config file.",
-        "url": "https://www.reddit.com/r/codex/comments/1v06e5y/you_can_easily_switch_between_and_use_custom/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T20:24:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dqxpjpryr1eh1.png?width=640&crop=smart&auto=webp&s=f47739f27fcd88abd3131c1537d21c2875b95fd3"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-5.6 context reduced to 272k",
-        "url": "https://www.reddit.com/r/codex/comments/1v02y73/gpt56_context_reduced_to_272k/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T18:09:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I made a feature request to permanently remove Codex’s 5-hour limit—let’s show OpenAI we want weekly-only usage to stay",
-        "url": "https://www.reddit.com/r/codex/comments/1uzzqoh/i_made_a_feature_request_to_permanently_remove/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T16:03:43.000Z",
-        "category": "reddit"
       }
     ]
   }

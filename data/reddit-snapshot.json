@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T20:57:48.870Z",
+  "fetchedAt": "2026-07-19T22:00:08.728Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,55 @@
     "items": [
       {
         "rank": 1,
-        "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
-        "source": "r/MachineLearning",
+        "title": "POV: My Claude credits are about to hit zero.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0x0ks/pov_my_claude_credits_are_about_to_hit_zero/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-18T21:29:05.000Z",
+        "publishedAt": "2026-07-19T17:45:28.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tlvz4c3i32eh1.png?width=640&crop=smart&auto=webp&s=aad6aeec9197e26debda00093dd47611e70c5a08"
+        "thumbnail": "https://external-preview.redd.it/bHhlMXM0bGk0OGVoMdw9EMulEMbj0w_vVcJmvxT49xYoQgMgKHZ_AE9_E6A-.png?width=320&crop=smart&auto=webp&s=212db650baf10f2fc9864aeec0523d2848193d60"
       },
       {
         "rank": 2,
+        "title": "Clown Code🤡",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0mogt/clown_code/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T10:08:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rmpd0enst5eh1.jpeg?width=640&crop=smart&auto=webp&s=81ee88ac6a1992e53a6863af68ad7bd3fb3c5a3f"
+      },
+      {
+        "rank": 3,
+        "title": "Made this to see what Claude was doing. Now I basically work from it",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v08p2q/made_this_to_see_what_claude_was_doing_now_i/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T22:01:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/L42Rm813mgxukGFR85xYfUL7TbORZLaqTfpUSOeG5hs.png?width=640&crop=smart&auto=webp&s=ef99f7600fc10359f31d4941104d32242cdb7c23"
+      },
+      {
+        "rank": 4,
+        "title": "I made Claude read an entire World Cup (all 102 match commentaries) to tell me who wins tomorrow’s final. It’s either brilliant or about to be very funny.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0gabd/i_made_claude_read_an_entire_world_cup_all_102/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T04:02:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "asked fable 5 to make its own website pretty. now my claude has falling sakura petals and i cant go back",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0pl6d/asked_fable_5_to_make_its_own_website_pretty_now/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T12:41:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bTdwZnk3eTJtNmVoMWDTGYNnYQSRaMXyQKAniKelUQqmd-P8u5jo2HTyRxUP.png?width=640&crop=smart&auto=webp&s=2a22c99101e40c7af59e3b878638d66396f2e08c"
+      },
+      {
+        "rank": 1,
         "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
         "source": "r/MachineLearning",
@@ -25,7 +64,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
         "source": "r/MachineLearning",
@@ -35,7 +74,7 @@
         "thumbnail": "https://preview.redd.it/o6l1c96lo6eh1.png?width=640&crop=smart&auto=webp&s=92447206205a44b4f473a41cc8557c245d73a7d0"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
         "source": "r/MachineLearning",
@@ -44,13 +83,61 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-19T12:44:45.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Codex is wearing out our devices",
+        "url": "https://www.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T09:34:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Fable + 5.6 Sol + Opus on the same team is just unfair!!!",
+        "url": "https://www.reddit.com/r/codex/comments/1v0nav6/fable_56_sol_opus_on_the_same_team_is_just_unfair/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T10:44:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c2FsZDBwNmgxNmVoMVKj3tbl1OhNLhMMV7aN1nZRS0kpDawUlnhk9niMThJ0.png?width=640&crop=smart&auto=webp&s=b9a6eeac4ace496ac2d0edade0c52b40d5be60e9"
+      },
+      {
+        "rank": 3,
+        "title": "Anyone noticing that 5.6 feels like it's pulling teeth now?",
+        "url": "https://www.reddit.com/r/codex/comments/1v0hgvb/anyone_noticing_that_56_feels_like_its_pulling/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T05:05:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Sol high is best value per intelligence",
+        "url": "https://www.reddit.com/r/codex/comments/1v0b3m8/sol_high_is_best_value_per_intelligence/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T23:48:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ym9jfj1bs2eh1.png?width=640&crop=smart&auto=webp&s=c45cc972b26a4cff85ab540cc6417eaf33181659"
+      },
+      {
+        "rank": 5,
+        "title": "Ultrafast mode is coming",
+        "url": "https://www.reddit.com/r/codex/comments/1v0omwe/ultrafast_mode_is_coming/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T11:56:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/pSOz-OoUCtDOVTccnJKyWYNYfWBFQkqLnUoLsWV2zMY.png?width=140&height=140&auto=webp&s=5620c1eb818bd2adac3d591a3d8bd0cfe8f77648"
       },
       {
         "rank": 1,
@@ -150,104 +237,6 @@
         "publishedAt": "2026-07-19T15:05:45.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/a4qmn6ey97eh1.png?width=140&height=135&auto=webp&s=873bc128531ef6a5eca955242b8561759d1742aa"
-      },
-      {
-        "rank": 1,
-        "title": "Another move to sweeten the masses",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v05ucl/another_move_to_sweeten_the_masses/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T20:02:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/evx0daa4o1eh1.jpeg?width=640&crop=smart&auto=webp&s=942f9783f993c4dd846a00e9184f22a5c1170d3b"
-      },
-      {
-        "rank": 2,
-        "title": "Clown Code🤡",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0mogt/clown_code/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T10:08:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rmpd0enst5eh1.jpeg?width=640&crop=smart&auto=webp&s=81ee88ac6a1992e53a6863af68ad7bd3fb3c5a3f"
-      },
-      {
-        "rank": 3,
-        "title": "Made this to see what Claude was doing. Now I basically work from it",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v08p2q/made_this_to_see_what_claude_was_doing_now_i/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T22:01:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/L42Rm813mgxukGFR85xYfUL7TbORZLaqTfpUSOeG5hs.png?width=640&crop=smart&auto=webp&s=ef99f7600fc10359f31d4941104d32242cdb7c23"
-      },
-      {
-        "rank": 4,
-        "title": "POV: My Claude credits are about to hit zero.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0x0ks/pov_my_claude_credits_are_about_to_hit_zero/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T17:45:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bHhlMXM0bGk0OGVoMdw9EMulEMbj0w_vVcJmvxT49xYoQgMgKHZ_AE9_E6A-.png?width=320&crop=smart&auto=webp&s=212db650baf10f2fc9864aeec0523d2848193d60"
-      },
-      {
-        "rank": 5,
-        "title": "asked fable 5 to make its own website pretty. now my claude has falling sakura petals and i cant go back",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0pl6d/asked_fable_5_to_make_its_own_website_pretty_now/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T12:41:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bTdwZnk3eTJtNmVoMWDTGYNnYQSRaMXyQKAniKelUQqmd-P8u5jo2HTyRxUP.png?width=640&crop=smart&auto=webp&s=2a22c99101e40c7af59e3b878638d66396f2e08c"
-      },
-      {
-        "rank": 1,
-        "title": "Codex is wearing out our devices",
-        "url": "https://www.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-19T09:34:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Fable + 5.6 Sol + Opus on the same team is just unfair!!!",
-        "url": "https://www.reddit.com/r/codex/comments/1v0nav6/fable_56_sol_opus_on_the_same_team_is_just_unfair/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-19T10:44:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c2FsZDBwNmgxNmVoMVKj3tbl1OhNLhMMV7aN1nZRS0kpDawUlnhk9niMThJ0.png?width=640&crop=smart&auto=webp&s=b9a6eeac4ace496ac2d0edade0c52b40d5be60e9"
-      },
-      {
-        "rank": 3,
-        "title": "You can easily switch between, and use, custom model providers in the Codex/ChatGPT app now, without signing out of your ChatGPT account or changing the used provider in the config file.",
-        "url": "https://www.reddit.com/r/codex/comments/1v06e5y/you_can_easily_switch_between_and_use_custom/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T20:24:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dqxpjpryr1eh1.png?width=640&crop=smart&auto=webp&s=f47739f27fcd88abd3131c1537d21c2875b95fd3"
-      },
-      {
-        "rank": 4,
-        "title": "Anyone noticing that 5.6 feels like it's pulling teeth now?",
-        "url": "https://www.reddit.com/r/codex/comments/1v0hgvb/anyone_noticing_that_56_feels_like_its_pulling/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-19T05:05:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Sol high is best value per intelligence",
-        "url": "https://www.reddit.com/r/codex/comments/1v0b3m8/sol_high_is_best_value_per_intelligence/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T23:48:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ym9jfj1bs2eh1.png?width=640&crop=smart&auto=webp&s=c45cc972b26a4cff85ab540cc6417eaf33181659"
       }
     ]
   }

@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-07-19T04:52:43.775Z",
+  "fetchedAt": "2026-07-19T07:31:15.227Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Another move to sweeten the masses",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v05ucl/another_move_to_sweeten_the_masses/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T20:02:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/evx0daa4o1eh1.jpeg?width=640&crop=smart&auto=webp&s=942f9783f993c4dd846a00e9184f22a5c1170d3b"
+      },
+      {
+        "rank": 2,
+        "title": "Scientist's view - the BS of F@ble \"too dangerous for science\" now that Sol and Kimi K3 available",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzxcyt/scientists_view_the_bs_of_fble_too_dangerous_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:28:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T07:32:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cs8oa9fxxxdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea7c07937ad68952e4ec9b95a57a2a4b6aa1855d"
+      },
+      {
+        "rank": 4,
+        "title": "I made Claude read an entire World Cup (all 102 match commentaries) to tell me who wins tomorrow’s final. It’s either brilliant or about to be very funny.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v0gabd/i_made_claude_read_an_entire_world_cup_all_102/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T04:02:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Made this to see what Claude was doing. Now I basically work from it",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v08p2q/made_this_to_see_what_claude_was_doing_now_i/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-18T22:01:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/L42Rm813mgxukGFR85xYfUL7TbORZLaqTfpUSOeG5hs.png?width=640&crop=smart&auto=webp&s=ef99f7600fc10359f31d4941104d32242cdb7c23"
+      },
       {
         "rank": 1,
         "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
@@ -51,6 +99,54 @@
         "publishedAt": "2026-07-18T20:35:16.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/n3okgq66t1eh1.png?width=140&height=99&auto=webp&s=c7f944d68ce877e0198147bb832e40cbb826fa91"
+      },
+      {
+        "rank": 1,
+        "title": "The sun came out.",
+        "url": "https://www.reddit.com/r/codex/comments/1v010h6/the_sun_came_out/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T16:54:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mxy97oifq0eh1.jpeg?width=640&crop=smart&auto=webp&s=ba650e3241489624849d651c655ce0d40559bda7"
+      },
+      {
+        "rank": 2,
+        "title": "What did he mean by this",
+        "url": "https://www.reddit.com/r/codex/comments/1uzxct3/what_did_he_mean_by_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T14:28:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x56nkq9e00eh1.jpeg?width=640&crop=smart&auto=webp&s=8cdd1f676aa76e8955a68d0c9c0f329198b211cf"
+      },
+      {
+        "rank": 3,
+        "title": "You can easily switch between, and use, custom model providers in the Codex/ChatGPT app now, without signing out of your ChatGPT account or changing the used provider in the config file.",
+        "url": "https://www.reddit.com/r/codex/comments/1v06e5y/you_can_easily_switch_between_and_use_custom/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T20:24:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dqxpjpryr1eh1.png?width=640&crop=smart&auto=webp&s=f47739f27fcd88abd3131c1537d21c2875b95fd3"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-5.6 context reduced to 272k",
+        "url": "https://www.reddit.com/r/codex/comments/1v02y73/gpt56_context_reduced_to_272k/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T18:09:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I made a feature request to permanently remove Codex’s 5-hour limit—let’s show OpenAI we want weekly-only usage to stay",
+        "url": "https://www.reddit.com/r/codex/comments/1uzzqoh/i_made_a_feature_request_to_permanently_remove/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-18T16:03:43.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -149,104 +245,6 @@
         "publishedAt": "2026-07-18T20:24:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/pmzkyu8ar1eh1.png?width=640&crop=smart&auto=webp&s=66edec5bdba9f57bb28b34f70620a4c41dd80a6c"
-      },
-      {
-        "rank": 1,
-        "title": "Fable staying on Max",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzjcop/fable_staying_on_max/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T02:18:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h4a2sn6bewdh1.jpeg?width=640&crop=smart&auto=webp&s=33c627b660e5d15780af42faaca7c1a3b20424e1"
-      },
-      {
-        "rank": 2,
-        "title": "Scientist's view - the BS of F@ble \"too dangerous for science\" now that Sol and Kimi K3 available",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzxcyt/scientists_view_the_bs_of_fble_too_dangerous_for/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T14:28:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T07:32:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cs8oa9fxxxdh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea7c07937ad68952e4ec9b95a57a2a4b6aa1855d"
-      },
-      {
-        "rank": 4,
-        "title": "Me as an NPC in my own codebase",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzihik/me_as_an_npc_in_my_own_codebase/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T01:37:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gq2c82rs6wdh1.jpeg?width=640&crop=smart&auto=webp&s=bb8c6a35ce5381413644442b980bc89a1bb9050e"
-      },
-      {
-        "rank": 5,
-        "title": "just got claude oss sponsorhip despite having 25 stars in my project",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzmh94/just_got_claude_oss_sponsorhip_despite_having_25/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-18T04:56:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7pjhnbuc6xdh1.jpeg?width=320&crop=smart&auto=webp&s=fade821b5415931e094403e474d6c8e2f6410a41"
-      },
-      {
-        "rank": 1,
-        "title": "The sun came out.",
-        "url": "https://www.reddit.com/r/codex/comments/1v010h6/the_sun_came_out/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T16:54:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mxy97oifq0eh1.jpeg?width=640&crop=smart&auto=webp&s=ba650e3241489624849d651c655ce0d40559bda7"
-      },
-      {
-        "rank": 2,
-        "title": "Thanks Tibo! Thanks OpenAI team!",
-        "url": "https://www.reddit.com/r/codex/comments/1uzkuna/thanks_tibo_thanks_openai_team/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T03:32:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0aqx8maerwdh1.png?width=640&crop=smart&auto=webp&s=e5568441ceffbec0b0c839fc14310c8faa95cddb"
-      },
-      {
-        "rank": 3,
-        "title": "Reset soon",
-        "url": "https://www.reddit.com/r/codex/comments/1uzk47g/reset_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T02:56:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o4po8z0ukwdh1.png?width=320&crop=smart&auto=webp&s=968c470a0e30f116da95aada828dad0b39fd1112"
-      },
-      {
-        "rank": 4,
-        "title": "That's it, I'm dumping my quota to 0% asap now",
-        "url": "https://www.reddit.com/r/codex/comments/1uzib8a/thats_it_im_dumping_my_quota_to_0_asap_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T01:29:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q9fful1d5wdh1.png?width=640&crop=smart&auto=webp&s=61b05b8b18515c3055fac8fcab2c90e35a473f82"
-      },
-      {
-        "rank": 5,
-        "title": "A simple one-liner in agents.md saved me 20k lines of context. A must-have for greenfield projects.",
-        "url": "https://www.reddit.com/r/codex/comments/1uzndrp/a_simple_oneliner_in_agentsmd_saved_me_20k_lines/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-18T05:43:28.000Z",
-        "category": "reddit"
       }
     ]
   }

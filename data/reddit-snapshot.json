@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T03:08:49.567Z",
+  "fetchedAt": "2026-07-20T05:09:48.069Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -31,6 +31,15 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-20T00:32:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ARR 2026 Meta Review score [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v1bd95/arr_2026_meta_review_score_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-20T04:29:06.000Z",
         "category": "reddit"
       },
       {
@@ -114,16 +123,6 @@
       },
       {
         "rank": 4,
-        "title": "The race is on...",
-        "url": "https://www.reddit.com/r/singularity/comments/1v10h32/the_race_is_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-19T20:07:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4bn6kxbwt8eh1.jpeg?width=640&crop=smart&auto=webp&s=f0492e2668608b3126ff50cbbc687830d7edaf99"
-      },
-      {
-        "rank": 5,
         "title": "David Sacks says U.S. AI guardrails are making American models less competitive after China’s Kimi K3 fixed 15 security bugs that Codex and Fable refused",
         "url": "https://www.reddit.com/r/singularity/comments/1v17ck7/david_sacks_says_us_ai_guardrails_are_making/",
         "source": "r/singularity",
@@ -131,6 +130,16 @@
         "publishedAt": "2026-07-20T01:07:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/d1aczpxxaaeh1.png?width=320&crop=smart&auto=webp&s=da2a9a831704b212133b3c8c1488a44ac33d4de6"
+      },
+      {
+        "rank": 5,
+        "title": "The race is on...",
+        "url": "https://www.reddit.com/r/singularity/comments/1v10h32/the_race_is_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-19T20:07:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4bn6kxbwt8eh1.jpeg?width=640&crop=smart&auto=webp&s=f0492e2668608b3126ff50cbbc687830d7edaf99"
       },
       {
         "rank": 1,

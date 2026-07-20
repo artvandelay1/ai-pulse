@@ -1,56 +1,10 @@
 {
-  "fetchedAt": "2026-07-20T13:29:09.273Z",
+  "fetchedAt": "2026-07-20T15:32:43.586Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Fable may have disproved a 100 year old conjecture.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1b4i8/fable_may_have_disproved_a_100_year_old_conjecture/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T04:15:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Fable's Goodbye Note",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v12lat/fables_goodbye_note/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T21:41:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What's the most useful MCP you've used with Claude?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v14g75/whats_the_most_useful_mcp_youve_used_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T23:00:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I built loom — a free generative MIDI instrument for macOS that grows a whole evolving ambient electronic track from a single seed",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1c1d4/i_built_loom_a_free_generative_midi_instrument/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T05:05:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cw9117l3hbeh1.png?width=640&crop=smart&auto=webp&s=75582e3696db8bb4f5f5b4b6eca01e8cb895e80e"
-      },
-      {
-        "rank": 5,
-        "title": "What would you do if you had a fully working offline Claude Code in the year 2000?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v19c2x/what_would_you_do_if_you_had_a_fully_working/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T02:44:52.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Are there some textbooks that take a primarily engineering approach to machine learning (as opposed to a \"scientific\" approach)? [D]",
@@ -90,54 +44,6 @@
       },
       {
         "rank": 1,
-        "title": "Another reset soon?",
-        "url": "https://www.reddit.com/r/codex/comments/1v1bw7r/another_reset_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T04:58:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/clwbadxjgbeh1.jpeg?width=640&crop=smart&auto=webp&s=efe1890fdaa6c031053c3af34065fcaa4b18a60b"
-      },
-      {
-        "rank": 2,
-        "title": "Codex 5.6 resurrected a 2001 Windows game in a few hours",
-        "url": "https://www.reddit.com/r/codex/comments/1v183oa/codex_56_resurrected_a_2001_windows_game_in_a_few/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T01:43:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Image -> HTML. Fable takes 2hrs+. Got it working in 60s.",
-        "url": "https://www.reddit.com/r/codex/comments/1v139yu/image_html_fable_takes_2hrs_got_it_working_in_60s/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-19T22:12:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MmgwaTBpYnJmOWVoMWReK4iP6F_PNrPWXZPUqQidr0Hc94BsbyaNe9owTpVa.png?width=640&crop=smart&auto=webp&s=b4c8db6c9bbccd44f1a9c7cad2bc5ba7e2bbbc04"
-      },
-      {
-        "rank": 4,
-        "title": "Insane memory leaks happening as of this weekend",
-        "url": "https://www.reddit.com/r/codex/comments/1v1ddlp/insane_memory_leaks_happening_as_of_this_weekend/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T06:19:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ksa7g7gyubeh1.jpeg?width=640&crop=smart&auto=webp&s=f046aadd0c2d894948e00ae78971863e0766a128"
-      },
-      {
-        "rank": 5,
-        "title": "Thank you Tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1v0qrki/thank_you_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-19T13:34:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "tokenmaxing and successmaxing not the same",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v0tuzi/tokenmaxing_and_successmaxing_not_the_same/",
         "source": "r/OpenAI",
@@ -148,16 +54,6 @@
       },
       {
         "rank": 2,
-        "title": "Sam Altman emails OpenAI board in 2022",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v0uo80/sam_altman_emails_openai_board_in_2022/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-19T16:13:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v02blrp6o7eh1.jpeg?width=640&crop=smart&auto=webp&s=3c8b3622fdd244b74df32b6679b6670085a952a9"
-      },
-      {
-        "rank": 3,
         "title": "The true blackpill",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v1g2rb/the_true_blackpill/",
         "source": "r/OpenAI",
@@ -167,23 +63,34 @@
         "thumbnail": "https://preview.redd.it/k2zt6ducnceh1.png?width=640&crop=smart&auto=webp&s=5d814bbc5c202295810dec843ff9b819f9e6295d"
       },
       {
-        "rank": 4,
-        "title": "Chatgpt currently Down?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v0rxrj/chatgpt_currently_down/",
+        "rank": 3,
+        "title": "Sam Altman emails OpenAI board in 2022",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v0uo80/sam_altman_emails_openai_board_in_2022/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-19T14:24:41.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-19T16:13:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v02blrp6o7eh1.jpeg?width=640&crop=smart&auto=webp&s=3c8b3622fdd244b74df32b6679b6670085a952a9"
+      },
+      {
+        "rank": 4,
+        "title": "Ready for another usage reset ❤️",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v15s0n/ready_for_another_usage_reset/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T23:57:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/43lmlghiy9eh1.png?width=140&height=109&auto=webp&s=52297745fb3e3c3f2b21913a95e901808fe4a664"
       },
       {
         "rank": 5,
-        "title": "ChatGPT is everything all down?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v0s5fq/chatgpt_is_everything_all_down/",
+        "title": "WTF, okay I've never seen gemini break like this.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v1hskc/wtf_okay_ive_never_seen_gemini_break_like_this/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-19T14:33:31.000Z",
+        "publishedAt": "2026-07-20T10:35:41.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jvvv3nsz57eh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=5c1d9b3e36643307e25ff4168c9389870b108492"
+        "thumbnail": "https://preview.redd.it/uzkqyq6i4deh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0501e4762fb4a7c14da452f9aa322bbef44735b0"
       },
       {
         "rank": 1,
@@ -234,6 +141,100 @@
         "publishedAt": "2026-07-19T20:07:59.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4bn6kxbwt8eh1.jpeg?width=640&crop=smart&auto=webp&s=f0492e2668608b3126ff50cbbc687830d7edaf99"
+      },
+      {
+        "rank": 1,
+        "title": "Fable may have disproved a 100 year old conjecture.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1b4i8/fable_may_have_disproved_a_100_year_old_conjecture/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T04:15:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Fable's Goodbye Note",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v12lat/fables_goodbye_note/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T21:41:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "What's the most useful MCP you've used with Claude?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v14g75/whats_the_most_useful_mcp_youve_used_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-19T23:00:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built loom — a free generative MIDI instrument for macOS that grows a whole evolving ambient electronic track from a single seed",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1c1d4/i_built_loom_a_free_generative_midi_instrument/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T05:05:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cw9117l3hbeh1.png?width=640&crop=smart&auto=webp&s=75582e3696db8bb4f5f5b4b6eca01e8cb895e80e"
+      },
+      {
+        "rank": 5,
+        "title": "What would you do if you had a fully working offline Claude Code in the year 2000?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v19c2x/what_would_you_do_if_you_had_a_fully_working/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T02:44:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Another reset soon?",
+        "url": "https://www.reddit.com/r/codex/comments/1v1bw7r/another_reset_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-20T04:58:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/clwbadxjgbeh1.jpeg?width=640&crop=smart&auto=webp&s=efe1890fdaa6c031053c3af34065fcaa4b18a60b"
+      },
+      {
+        "rank": 2,
+        "title": "Codex 5.6 resurrected a 2001 Windows game in a few hours",
+        "url": "https://www.reddit.com/r/codex/comments/1v183oa/codex_56_resurrected_a_2001_windows_game_in_a_few/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-20T01:43:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Image -> HTML. Fable takes 2hrs+. Got it working in 60s.",
+        "url": "https://www.reddit.com/r/codex/comments/1v139yu/image_html_fable_takes_2hrs_got_it_working_in_60s/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T22:12:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MmgwaTBpYnJmOWVoMWReK4iP6F_PNrPWXZPUqQidr0Hc94BsbyaNe9owTpVa.png?width=640&crop=smart&auto=webp&s=b4c8db6c9bbccd44f1a9c7cad2bc5ba7e2bbbc04"
+      },
+      {
+        "rank": 4,
+        "title": "Insane memory leaks happening as of this weekend",
+        "url": "https://www.reddit.com/r/codex/comments/1v1ddlp/insane_memory_leaks_happening_as_of_this_weekend/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-20T06:19:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ksa7g7gyubeh1.jpeg?width=640&crop=smart&auto=webp&s=f046aadd0c2d894948e00ae78971863e0766a128"
+      },
+      {
+        "rank": 5,
+        "title": "Thank you Tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1v0qrki/thank_you_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-19T13:34:36.000Z",
+        "category": "reddit"
       }
     ]
   }

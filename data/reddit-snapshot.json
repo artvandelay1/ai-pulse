@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T08:27:42.281Z",
+  "fetchedAt": "2026-07-20T11:25:47.000Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -43,17 +43,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "OpenAI head of strategic futures says open-weight model dominance is AI communism",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v0nx8b/openai_head_of_strategic_futures_says_openweight/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "[ECCV 2026 Malmö] Looking for 3-4 people to share an Airbnb — Sept 7–13/14, splitting costs across 7-8 people [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v1fjgo/eccv_2026_malmö_looking_for_34_people_to_share_an/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-19T11:19:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nfnezmsl76eh1.png?width=640&crop=smart&auto=webp&s=eb40339d78e42a8646a89e936b3463a77d8491f6"
+        "publishedAt": "2026-07-20T08:25:51.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "tokenmaxing and successmaxing not the same",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v0tuzi/tokenmaxing_and_successmaxing_not_the_same/",
         "source": "r/OpenAI",
@@ -63,7 +62,7 @@
         "thumbnail": "https://preview.redd.it/tfnnu7jki7eh1.jpeg?width=640&crop=smart&auto=webp&s=314116eea69b6da992f437f3d6617abf6980d616"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Sam Altman emails OpenAI board in 2022",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v0uo80/sam_altman_emails_openai_board_in_2022/",
         "source": "r/OpenAI",
@@ -71,6 +70,16 @@
         "publishedAt": "2026-07-19T16:13:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/v02blrp6o7eh1.jpeg?width=640&crop=smart&auto=webp&s=3c8b3622fdd244b74df32b6679b6670085a952a9"
+      },
+      {
+        "rank": 3,
+        "title": "The true blackpill",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v1g2rb/the_true_blackpill/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T08:58:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k2zt6ducnceh1.png?width=640&crop=smart&auto=webp&s=5d814bbc5c202295810dec843ff9b819f9e6295d"
       },
       {
         "rank": 4,
@@ -113,16 +122,6 @@
       },
       {
         "rank": 3,
-        "title": "JUST IN: Qwen 3.8 is coming. Open weight storm from China is continuing.",
-        "url": "https://www.reddit.com/r/singularity/comments/1v0l4j0/just_in_qwen_38_is_coming_open_weight_storm_from/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-19T08:35:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rcv4pomce5eh1.jpeg?width=640&crop=smart&auto=webp&s=ed32b587160c2ff40cc76d89cc5d43c10f46aeec"
-      },
-      {
-        "rank": 4,
         "title": "David Sacks says U.S. AI guardrails are making American models less competitive after China’s Kimi K3 fixed 15 security bugs that Codex and Fable refused",
         "url": "https://www.reddit.com/r/singularity/comments/1v17ck7/david_sacks_says_us_ai_guardrails_are_making/",
         "source": "r/singularity",
@@ -130,6 +129,16 @@
         "publishedAt": "2026-07-20T01:07:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/d1aczpxxaaeh1.png?width=320&crop=smart&auto=webp&s=da2a9a831704b212133b3c8c1488a44ac33d4de6"
+      },
+      {
+        "rank": 4,
+        "title": "Apparently the Jacobian conjecture was just proven false by Fable",
+        "url": "https://www.reddit.com/r/singularity/comments/1v1aie6/apparently_the_jacobian_conjecture_was_just/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-20T03:44:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7q16nwbb3beh1.png?width=140&height=100&auto=webp&s=30a7702f7ed983e62b882291556c31a81f02d1d0"
       },
       {
         "rank": 5,

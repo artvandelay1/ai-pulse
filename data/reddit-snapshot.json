@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-21T07:36:48.900Z",
+  "fetchedAt": "2026-07-21T10:30:12.580Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude usage as reward",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1s4tz/claude_usage_as_reward/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T17:31:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tf314zbx6feh1.png?width=640&crop=smart&auto=webp&s=dad975980986d8e1ba298f66f013fae1999645a5"
+      },
+      {
+        "rank": 2,
+        "title": "FabIe in caveman mode talking about this reddit community is so accurate and surprisingly hilarious",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v21m1l/fabie_in_caveman_mode_talking_about_this_reddit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T23:30:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j6h22jg0zgeh1.png?width=640&crop=smart&auto=webp&s=2603bb935425b8ca632002cc102e62f7d0ae3488"
+      },
+      {
+        "rank": 3,
+        "title": "Umm….. this is happening to me right now. Respectfully, what on earth?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v23cbo/umm_this_is_happening_to_me_right_now/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T00:46:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wmsd83vlcheh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8855d98105933b1861ff6e3321d17a80fa5ec484"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Sonnet 5 price will be increased starting September 1",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1qak5/claude_sonnet_5_price_will_be_increased_starting/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T16:25:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Code unlocked my laptop's bios!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1vwg7/claude_code_unlocked_my_laptops_bios/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T19:46:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vz69bf1fqfeh1.jpeg?width=640&crop=smart&auto=webp&s=3f5ed7b00c6cbe2e91a6b5702308b43052d7876c"
+      },
       {
         "rank": 1,
         "title": "I just read LeCun’s recent thoughts on world models. Thoughts on JEPA as a path forward? [D]",
@@ -50,6 +99,54 @@
         "score": 0,
         "publishedAt": "2026-07-20T16:26:55.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-5.6 Sol used almost my entire weekly Codex limit in one day. Anyone else seeing this?",
+        "url": "https://www.reddit.com/r/codex/comments/1v1wpfy/gpt56_sol_used_almost_my_entire_weekly_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-20T20:15:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "The ''Invite a friend'' button in the chatgpt app always appears a bit late and every time i wanna check my usage i end up clicking the ''show pet'' button instead",
+        "url": "https://www.reddit.com/r/codex/comments/1v1oljz/the_invite_a_friend_button_in_the_chatgpt_app/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-20T15:23:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MWxsZjRkMXNqZWVoMY_vUzBPJ42gZs04VagpeHcZNTGtC8MdCvtNh1w7Hhw7.png?width=640&crop=smart&auto=webp&s=4c48f336213aa7c9df90bdf69cafe86926853918"
+      },
+      {
+        "rank": 3,
+        "title": "Does anyone even use gpt 5.6 terra ?",
+        "url": "https://www.reddit.com/r/codex/comments/1v21pa4/does_anyone_even_use_gpt_56_terra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-20T23:34:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l1zih6zpzgeh1.jpeg?width=640&crop=smart&auto=webp&s=8092b7303114094d02f1a9e11b5d53b74107e364"
+      },
+      {
+        "rank": 4,
+        "title": "Task to task messaging is underrated",
+        "url": "https://www.reddit.com/r/codex/comments/1v1puqa/task_to_task_messaging_is_underrated/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-20T16:09:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I left Codex yesterday at 31% weekly, internet off. I woke up this morning to 28%, nothing touched. Anyone knows why",
+        "url": "https://www.reddit.com/r/codex/comments/1v27odn/i_left_codex_yesterday_at_31_weekly_internet_off/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-21T04:08:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n23cme6dcieh1.png?width=320&crop=smart&auto=webp&s=3255a2293045dd9394666a38e117d971c0bf2022"
       },
       {
         "rank": 1,
@@ -149,102 +246,6 @@
         "publishedAt": "2026-07-20T18:29:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/kwtu43gigfeh1.png?width=640&crop=smart&auto=webp&s=9afc8adb628e9f9d0d239bfc01befea408cbe030"
-      },
-      {
-        "rank": 1,
-        "title": "Claude usage as reward",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1s4tz/claude_usage_as_reward/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T17:31:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tf314zbx6feh1.png?width=640&crop=smart&auto=webp&s=dad975980986d8e1ba298f66f013fae1999645a5"
-      },
-      {
-        "rank": 2,
-        "title": "Fable may have disproved a 100 year old conjecture.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1b4i8/fable_may_have_disproved_a_100_year_old_conjecture/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T04:15:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Claude Sonnet 5 price will be increased starting September 1",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1qak5/claude_sonnet_5_price_will_be_increased_starting/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T16:25:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How is it that I just logged in to Claude Code this morning, /compact a session from yesterday (16h ago), and use 100% of my 5hr limit? (Pro plan)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1lr3g/how_is_it_that_i_just_logged_in_to_claude_code/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T13:35:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vdf6kyjozdeh1.png?width=640&crop=smart&auto=webp&s=d5618595806547b8b1331b14f84f5bcd981451e7"
-      },
-      {
-        "rank": 5,
-        "title": "I built loom — a free generative MIDI instrument for macOS that grows a whole evolving ambient electronic track from a single seed",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v1c1d4/i_built_loom_a_free_generative_midi_instrument/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T05:05:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cw9117l3hbeh1.png?width=640&crop=smart&auto=webp&s=75582e3696db8bb4f5f5b4b6eca01e8cb895e80e"
-      },
-      {
-        "rank": 1,
-        "title": "Another reset soon?",
-        "url": "https://www.reddit.com/r/codex/comments/1v1bw7r/another_reset_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T04:58:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/clwbadxjgbeh1.jpeg?width=640&crop=smart&auto=webp&s=efe1890fdaa6c031053c3af34065fcaa4b18a60b"
-      },
-      {
-        "rank": 2,
-        "title": "Codex 5.6 resurrected a 2001 Windows game in a few hours",
-        "url": "https://www.reddit.com/r/codex/comments/1v183oa/codex_56_resurrected_a_2001_windows_game_in_a_few/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T01:43:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Insane memory leaks happening as of this weekend",
-        "url": "https://www.reddit.com/r/codex/comments/1v1ddlp/insane_memory_leaks_happening_as_of_this_weekend/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T06:19:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ksa7g7gyubeh1.jpeg?width=640&crop=smart&auto=webp&s=f046aadd0c2d894948e00ae78971863e0766a128"
-      },
-      {
-        "rank": 4,
-        "title": "The ''Invite a friend'' button in the chatgpt app always appears a bit late and every time i wanna check my usage i end up clicking the ''show pet'' button instead",
-        "url": "https://www.reddit.com/r/codex/comments/1v1oljz/the_invite_a_friend_button_in_the_chatgpt_app/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T15:23:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MWxsZjRkMXNqZWVoMY_vUzBPJ42gZs04VagpeHcZNTGtC8MdCvtNh1w7Hhw7.png?width=640&crop=smart&auto=webp&s=4c48f336213aa7c9df90bdf69cafe86926853918"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-5.6 Sol used almost my entire weekly Codex limit in one day. Anyone else seeing this?",
-        "url": "https://www.reddit.com/r/codex/comments/1v1wpfy/gpt56_sol_used_almost_my_entire_weekly_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T20:15:57.000Z",
-        "category": "reddit"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T04:50:50.395Z",
+  "fetchedAt": "2026-07-21T07:36:48.900Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "ACL ARR (May 2026)- Updating Reviewer Score post 17 July AoE Deadline? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v1ukpx/acl_arr_may_2026_updating_reviewer_score_post_17/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-20T18:58:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Tri-Net v2: Open-source implementation of our Scientific Reports paper on unified skin lesion and symptom-based monkeypox detection [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v26adz/trinet_v2_opensource_implementation_of_our/",
         "source": "r/MachineLearning",
@@ -32,6 +23,15 @@
         "publishedAt": "2026-07-21T03:01:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/vwax5ludzheh1.png?width=140&height=79&auto=webp&s=25929233532a0110f28de21f8e7a57634c6f791b"
+      },
+      {
+        "rank": 3,
+        "title": "ACL ARR (May 2026)- Updating Reviewer Score post 17 July AoE Deadline? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v1ukpx/acl_arr_may_2026_updating_reviewer_score_post_17/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-20T18:58:24.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -63,16 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "The true blackpill",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v1g2rb/the_true_blackpill/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T08:58:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2zt6ducnceh1.png?width=640&crop=smart&auto=webp&s=5d814bbc5c202295810dec843ff9b819f9e6295d"
-      },
-      {
-        "rank": 3,
         "title": "Trump Admin Considers Banning Kimi K3 & Other Chinese Models",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v1s5vv/trump_admin_considers_banning_kimi_k3_other/",
         "source": "r/OpenAI",
@@ -80,6 +70,16 @@
         "publishedAt": "2026-07-20T17:33:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/i4xgbe657feh1.png?width=640&crop=smart&auto=webp&s=0ed10cd5dfa810368658d5816c014dbbae24ff30"
+      },
+      {
+        "rank": 3,
+        "title": "The true blackpill",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v1g2rb/the_true_blackpill/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-20T08:58:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k2zt6ducnceh1.png?width=640&crop=smart&auto=webp&s=5d814bbc5c202295810dec843ff9b819f9e6295d"
       },
       {
         "rank": 4,

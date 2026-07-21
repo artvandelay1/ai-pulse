@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T16:27:43.447Z",
+  "fetchedAt": "2026-07-21T17:56:44.270Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,34 +35,24 @@
       },
       {
         "rank": 4,
-        "title": "Exploring continual learning without replay buffers: Our findings using dynamic task-similarity routing [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v1rmbb/exploring_continual_learning_without_replay/",
+        "title": "My OCR model mislabels section titles as body text. Is a CRF the right fix, or am I overcomplicating it? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2bs2k/my_ocr_model_mislabels_section_titles_as_body/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-20T17:13:34.000Z",
+        "publishedAt": "2026-07-21T07:51:20.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
+        "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-20T16:26:55.000Z",
+        "publishedAt": "2026-07-21T07:19:51.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Trump Admin Considers Banning Kimi K3 & Other Chinese Models",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v1s5vv/trump_admin_considers_banning_kimi_k3_other/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T17:33:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i4xgbe657feh1.png?width=640&crop=smart&auto=webp&s=0ed10cd5dfa810368658d5816c014dbbae24ff30"
-      },
-      {
-        "rank": 2,
         "title": "OpenAI had to pause an unreleased model after it escaped containment.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v292gi/openai_had_to_pause_an_unreleased_model_after_it/",
         "source": "r/OpenAI",
@@ -72,7 +62,7 @@
         "thumbnail": "https://preview.redd.it/9ej9bwf7pieh1.png?width=640&crop=smart&auto=webp&s=6cdd1a2922dc0d06f10bcf62f1d48cd3117a73e9"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Alibaba says Qwen3.8-Max is second only to Fable 5 — at roughly 1/10 the price. There's no benchmark table, model card, or license yet.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v2bwet/alibaba_says_qwen38max_is_second_only_to_fable_5/",
         "source": "r/OpenAI",
@@ -81,17 +71,17 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "The Trump administration considers banning Chinese open-source AI models, sparked by Kimi K3 -Axios",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v1qk08/the_trump_administration_considers_banning/",
+        "rank": 3,
+        "title": "Reset (10M Users)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v2o5gr/reset_10m_users/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-20T16:35:38.000Z",
+        "publishedAt": "2026-07-21T16:54:48.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6f0l6dxyweeh1.jpeg?width=640&crop=smart&auto=webp&s=2bde203bd17b9c00aa3bbb46251a9c083ab99657"
+        "thumbnail": "https://preview.redd.it/3hn1hpwa5meh1.jpeg?width=640&crop=smart&auto=webp&s=b03e3d66bcb9b1f634daf587a4b704ef260cc3ad"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Personal project: Blender Bench - how good LLMs are at building 3D scenes in Blender",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v1tzfx/personal_project_blender_bench_how_good_llms_are/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-07-20T18:37:11.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0755qcbeleeh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=5cf06b2068d56b675f3e1f6e5a735ec0a167568b"
+      },
+      {
+        "rank": 5,
+        "title": "'This one was different from anything we had handled before': Hugging Face confirms it was hit by cyberattack powered by an AI agent",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v2e7e6/this_one_was_different_from_anything_we_had/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T10:11:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cfSUFw6NC0uWQkHWhfiS3ZSE6XcKU-KuyE5gHEig5iw.jpeg?width=640&crop=smart&auto=webp&s=653ff5976180c4e321d7e0fb8e9c28b8fed9dec1"
       },
       {
         "rank": 1,
@@ -122,16 +122,6 @@
       },
       {
         "rank": 3,
-        "title": "2025 -> 2026",
-        "url": "https://www.reddit.com/r/singularity/comments/1v1qy5n/2025_2026/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-20T16:49:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8zticybazeeh1.png?width=140&height=103&auto=webp&s=b36be5df6a8d77ea88f41a766dd7356b6f7af97d"
-      },
-      {
-        "rank": 4,
         "title": "Chat is this real",
         "url": "https://www.reddit.com/r/singularity/comments/1v1us5b/chat_is_this_real/",
         "source": "r/singularity",
@@ -139,6 +129,16 @@
         "publishedAt": "2026-07-20T19:05:41.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ypg8t24pnfeh1.png?width=640&crop=smart&auto=webp&s=9b36983e1d95a401069543fd3bb78a1365643699"
+      },
+      {
+        "rank": 4,
+        "title": "Gemini 3.6 Flash benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2l6sm/gemini_36_flash_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-21T15:09:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/krqjyu8gmleh1.jpeg?width=640&crop=smart&auto=webp&s=87ecb4c3a62e1e7cee0482f40e8d0f0dd5ca1a90"
       },
       {
         "rank": 5,

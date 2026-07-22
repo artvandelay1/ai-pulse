@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T19:55:10.384Z",
+  "fetchedAt": "2026-07-22T21:15:15.078Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "claude doesn’t lie anymore",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2u429/claude_doesnt_lie_anymore/",
+        "title": "Anthropic Claims 50% usage boost that doesn't exist :)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3d8iz/anthropic_claims_50_usage_boost_that_doesnt_exist/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-21T20:22:58.000Z",
+        "publishedAt": "2026-07-22T11:21:11.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fx5hujwf6neh1.jpeg?width=640&crop=smart&auto=webp&s=e96f5ac11b53135c3fd881d4e285562e9ef39ddb"
+        "thumbnail": "https://preview.redd.it/x9n1yreklreh1.png?width=140&height=118&auto=webp&s=20016693f6c3a3d2810ea57b05f8ea1bd12e0b34"
       },
       {
         "rank": 2,
@@ -26,16 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "Anthropic Claims 50% usage boost that doesn't exist :)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3d8iz/anthropic_claims_50_usage_boost_that_doesnt_exist/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T11:21:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x9n1yreklreh1.png?width=140&height=118&auto=webp&s=20016693f6c3a3d2810ea57b05f8ea1bd12e0b34"
-      },
-      {
-        "rank": 4,
         "title": "This is what happens when you hire cleaners in the bay area!",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3iqde/this_is_what_happens_when_you_hire_cleaners_in/",
         "source": "r/ClaudeAI",
@@ -43,6 +33,16 @@
         "publishedAt": "2026-07-22T15:03:40.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/t3os6n0dqseh1.png?width=640&crop=smart&auto=webp&s=ae6e73bd37bce96510ed2bdb50377952d7ca95d1"
+      },
+      {
+        "rank": 4,
+        "title": "A small trick to guide an LLM Agent while it’s coding",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3o7fe/a_small_trick_to_guide_an_llm_agent_while_its/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T18:12:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qefqhqmqnteh1.png?width=640&crop=smart&auto=webp&s=5934f1b733137f42cc7901de29c2d6c4312747dc"
       },
       {
         "rank": 5,

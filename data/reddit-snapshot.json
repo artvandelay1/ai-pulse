@@ -1,10 +1,157 @@
 {
-  "fetchedAt": "2026-07-22T05:58:08.266Z",
+  "fetchedAt": "2026-07-22T08:39:47.722Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Number of Submissions @ AAAI [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-21T10:22:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-21T22:33:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4k0bf6wgtneh1.gif?width=640&crop=smart&s=7309dc4cdba7df36b615ed9025f212c2b34fd4b0"
+      },
+      {
+        "rank": 3,
+        "title": "SkewAdam: A tiered optimizer that cuts MoE state memory by 97% (fits a 6.7B MoE on a 40GB GPU) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T07:04:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1457xi9fcqeh1.jpg?width=140&height=90&auto=webp&s=879aad6df9e51a2735d91112d01518ff76ba3cbe"
+      },
+      {
+        "rank": 4,
+        "title": "Vibe-coded a tool to ELI5 research papers in-place [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v37s1f/vibecoded_a_tool_to_eli5_research_papers_inplace_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T06:21:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS 2026 reviews exact timing[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2j950/neurips_2026_reviews_exact_timingd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-21T13:58:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Damn Tibo 🤣",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v2z99r/damn_tibo/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T23:42:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/at9frzm26oeh1.jpeg?width=640&crop=smart&auto=webp&s=5e01a50406fd9cb324f3d882b046e879a9524f52"
+      },
+      {
+        "rank": 2,
+        "title": "Hugging Face CEO suspected the sophisticated cyberattack on their infrastructure might have come from a frontier lab",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v33uux/hugging_face_ceo_suspected_the_sophisticated/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T03:04:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x3kb7xvo5peh1.png?width=320&crop=smart&auto=webp&s=eeca93714449c23c538b65f731de805306a84b1e"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v2ybnw/openai_models_escaped_containment_and_hacked/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T23:03:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/uomUES69iAngRpEBlfK7nvY2mKbQde0uesRx0lj6zgM.jpeg?width=640&crop=smart&auto=webp&s=899c5b49b2e5aab25c3f9c264815b9b934222778"
+      },
+      {
+        "rank": 4,
+        "title": "Sam Altman briefing US Gov on GPT-6. Speculation on imminent release!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v2wu0u/sam_altman_briefing_us_gov_on_gpt6_speculation_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T22:04:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kk1zyt0honeh1.jpeg?width=640&crop=smart&auto=webp&s=e4693564694d8a1e0309c2623bb426d85b27c726"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT said: see you on the other side",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v32xje/chatgpt_said_see_you_on_the_other_side/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T02:22:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lrxfo9w8yoeh1.png?width=640&crop=smart&auto=webp&s=2ebc713949def900ffc1a1f2a9f0da7261d02ee8"
+      },
+      {
+        "rank": 1,
+        "title": "in a not so distance future",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2ng7a/in_a_not_so_distance_future/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-21T16:29:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jjj3qrub0meh1.png?width=640&crop=smart&auto=webp&s=4928a9bdf28154391092367fbac231eb5269f565"
+      },
+      {
+        "rank": 2,
+        "title": "New insights into recent DeepMind staff departures",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2ird9/new_insights_into_recent_deepmind_staff_departures/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-21T13:39:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q90ztfld6leh1.png?width=640&crop=smart&auto=webp&s=65f4b7ac934f7d37aa94eb6c85732357a84c3169"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI's Internal Model Is Responsible This Week's Hugging Face Hack",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2txp7/openais_internal_model_is_responsible_this_weeks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-21T20:16:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xdoc7ic95neh1.png?width=640&crop=smart&auto=webp&s=f0c11038a46aa9ffd40e3f7fb221286135bf3728"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI hacking huggingface in one meme",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2xgqc/openai_hacking_huggingface_in_one_meme/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-21T22:29:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vejvs1zzsneh1.jpeg?width=640&crop=smart&auto=webp&s=c544206b8bcc14fe75d18e6ac36131d664719e71"
+      },
+      {
+        "rank": 5,
+        "title": "Gemini 3.6 Flash benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2l6sm/gemini_36_flash_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-21T15:09:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/krqjyu8gmleh1.jpeg?width=640&crop=smart&auto=webp&s=87ecb4c3a62e1e7cee0482f40e8d0f0dd5ca1a90"
+      },
       {
         "rank": 1,
         "title": "ANTHROPIC GOT SUED",
@@ -56,52 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "Number of Submissions @ AAAI [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-21T10:22:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-21T22:33:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4k0bf6wgtneh1.gif?width=640&crop=smart&s=7309dc4cdba7df36b615ed9025f212c2b34fd4b0"
-      },
-      {
-        "rank": 3,
-        "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-21T07:19:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "My OCR model mislabels section titles as body text. Is a CRF the right fix, or am I overcomplicating it? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2bs2k/my_ocr_model_mislabels_section_titles_as_body/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-21T07:51:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "My federated learning project just showed that \"high accuracy\" can completely hide a model missing every single attack from an entire category, and I think more people should know about this [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v32mfs/my_federated_learning_project_just_showed_that/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T02:08:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "🚨 Reset Inbound",
         "url": "https://www.reddit.com/r/codex/comments/1v2o2dy/reset_inbound/",
         "source": "r/codex",
@@ -148,106 +249,6 @@
         "score": 0,
         "publishedAt": "2026-07-21T08:54:28.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Sam Altman briefing US Gov on GPT-6. Speculation on imminent release!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v2wu0u/sam_altman_briefing_us_gov_on_gpt6_speculation_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T22:04:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kk1zyt0honeh1.jpeg?width=640&crop=smart&auto=webp&s=e4693564694d8a1e0309c2623bb426d85b27c726"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI had to pause an unreleased model after it escaped containment.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v292gi/openai_had_to_pause_an_unreleased_model_after_it/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T05:19:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9ej9bwf7pieh1.png?width=640&crop=smart&auto=webp&s=6cdd1a2922dc0d06f10bcf62f1d48cd3117a73e9"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v2ybnw/openai_models_escaped_containment_and_hacked/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T23:03:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/uomUES69iAngRpEBlfK7nvY2mKbQde0uesRx0lj6zgM.jpeg?width=640&crop=smart&auto=webp&s=899c5b49b2e5aab25c3f9c264815b9b934222778"
-      },
-      {
-        "rank": 4,
-        "title": "Reset (10M Users)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v2o5gr/reset_10m_users/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T16:54:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3hn1hpwa5meh1.jpeg?width=640&crop=smart&auto=webp&s=b03e3d66bcb9b1f634daf587a4b704ef260cc3ad"
-      },
-      {
-        "rank": 5,
-        "title": "Damn Tibo 🤣",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v2z99r/damn_tibo/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T23:42:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/at9frzm26oeh1.jpeg?width=640&crop=smart&auto=webp&s=5e01a50406fd9cb324f3d882b046e879a9524f52"
-      },
-      {
-        "rank": 1,
-        "title": "in a not so distance future",
-        "url": "https://www.reddit.com/r/singularity/comments/1v2ng7a/in_a_not_so_distance_future/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-21T16:29:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jjj3qrub0meh1.png?width=640&crop=smart&auto=webp&s=4928a9bdf28154391092367fbac231eb5269f565"
-      },
-      {
-        "rank": 2,
-        "title": "New insights into recent DeepMind staff departures",
-        "url": "https://www.reddit.com/r/singularity/comments/1v2ird9/new_insights_into_recent_deepmind_staff_departures/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-21T13:39:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q90ztfld6leh1.png?width=640&crop=smart&auto=webp&s=65f4b7ac934f7d37aa94eb6c85732357a84c3169"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI's Internal Model Is Responsible This Week's Hugging Face Hack",
-        "url": "https://www.reddit.com/r/singularity/comments/1v2txp7/openais_internal_model_is_responsible_this_weeks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-21T20:16:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xdoc7ic95neh1.png?width=640&crop=smart&auto=webp&s=f0c11038a46aa9ffd40e3f7fb221286135bf3728"
-      },
-      {
-        "rank": 4,
-        "title": "Gemini 3.6 Flash benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1v2l6sm/gemini_36_flash_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-21T15:09:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/krqjyu8gmleh1.jpeg?width=640&crop=smart&auto=webp&s=87ecb4c3a62e1e7cee0482f40e8d0f0dd5ca1a90"
-      },
-      {
-        "rank": 5,
-        "title": "Sam Altman to brief Trump admin next week on GPT-6 and its capabilities/potential job impact, according to Bloomberg",
-        "url": "https://www.reddit.com/r/singularity/comments/1v2onp4/sam_altman_to_brief_trump_admin_next_week_on_gpt6/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-21T17:12:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jwwwxk0g8meh1.jpeg?width=640&crop=smart&auto=webp&s=ad897d2add64f30e4aeb984555bda6e870763c1d"
       }
     ]
   }

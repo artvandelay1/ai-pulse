@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-22T02:58:50.080Z",
+  "fetchedAt": "2026-07-22T05:58:08.266Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ANTHROPIC GOT SUED",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2cc6o/anthropic_got_sued/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T08:24:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6e1sejz6mjeh1.jpeg?width=640&crop=smart&auto=webp&s=bab699c13cff5bd037eaa2b1f516b4c983d3237a"
+      },
+      {
+        "rank": 2,
+        "title": "New: Teach Claude a skill",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2qdct/new_teach_claude_a_skill/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T18:11:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pzzp55hjimeh1.png?width=640&crop=smart&auto=webp&s=36f86ae7f3f76a1381fdf7ffc6127783aa0716f8"
+      },
+      {
+        "rank": 3,
+        "title": "claude doesn’t lie anymore",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2u429/claude_doesnt_lie_anymore/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T20:22:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fx5hujwf6neh1.jpeg?width=640&crop=smart&auto=webp&s=e96f5ac11b53135c3fd881d4e285562e9ef39ddb"
+      },
+      {
+        "rank": 4,
+        "title": "Asked Claude to sort through GPT's feedback on my draft. It opened with this",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2m3tj/asked_claude_to_sort_through_gpts_feedback_on_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T15:41:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7ftq9ppvrleh1.png?width=640&crop=smart&auto=webp&s=eb22847569c1b3eb5238534a96d29b50e871d154"
+      },
+      {
+        "rank": 5,
+        "title": "I think we're going to forget how good we were at Googling.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2h9op/i_think_were_going_to_forget_how_good_we_were_at/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T12:39:15.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Number of Submissions @ AAAI [D]",
@@ -16,13 +65,13 @@
       },
       {
         "rank": 2,
-        "title": "Tri-Net v2: Open-source implementation of our Scientific Reports paper on unified skin lesion and symptom-based monkeypox detection [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v26adz/trinet_v2_opensource_implementation_of_our/",
+        "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-21T03:01:03.000Z",
+        "publishedAt": "2026-07-21T22:33:50.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vwax5ludzheh1.png?width=140&height=79&auto=webp&s=25929233532a0110f28de21f8e7a57634c6f791b"
+        "thumbnail": "https://preview.redd.it/4k0bf6wgtneh1.gif?width=640&crop=smart&s=7309dc4cdba7df36b615ed9025f212c2b34fd4b0"
       },
       {
         "rank": 3,
@@ -49,6 +98,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-22T02:08:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "🚨 Reset Inbound",
+        "url": "https://www.reddit.com/r/codex/comments/1v2o2dy/reset_inbound/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-21T16:51:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/td4qo47r4meh1.jpeg?width=640&crop=smart&auto=webp&s=c23dc49f8920e6461274ea0969d0f8e346000653"
+      },
+      {
+        "rank": 2,
+        "title": "Bro is a menace",
+        "url": "https://www.reddit.com/r/codex/comments/1v2wzct/bro_is_a_menace/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-21T22:10:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/81rkmchkpneh1.png?width=640&crop=smart&auto=webp&s=082537cbbada301c2288ca92c9ca6999395c1c3b"
+      },
+      {
+        "rank": 3,
+        "title": "Tibo is slowly becoming the hero of the Codex community 😂",
+        "url": "https://www.reddit.com/r/codex/comments/1v2ongb/tibo_is_slowly_becoming_the_hero_of_the_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-21T17:12:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/slbzrkcj7meh1.png?width=640&crop=smart&auto=webp&s=1794caebfec3fcf74efdfa469f9f57ee5586f8bd"
+      },
+      {
+        "rank": 4,
+        "title": "I planned my usage around no more resets, until I saw this tweet",
+        "url": "https://www.reddit.com/r/codex/comments/1v2gq77/i_planned_my_usage_around_no_more_resets_until_i/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-21T12:15:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jt3y8xcjrkeh1.jpeg?width=640&crop=smart&auto=webp&s=0725ead460baa8f6f8e46c721e4f587352659f1a"
+      },
+      {
+        "rank": 5,
+        "title": "What happened? The usage seems extremely inconsistent this week.",
+        "url": "https://www.reddit.com/r/codex/comments/1v2cuz3/what_happened_the_usage_seems_extremely/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-21T08:54:28.000Z",
         "category": "reddit"
       },
       {
@@ -150,105 +248,6 @@
         "publishedAt": "2026-07-21T17:12:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jwwwxk0g8meh1.jpeg?width=640&crop=smart&auto=webp&s=ad897d2add64f30e4aeb984555bda6e870763c1d"
-      },
-      {
-        "rank": 1,
-        "title": "ANTHROPIC GOT SUED",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2cc6o/anthropic_got_sued/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T08:24:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6e1sejz6mjeh1.jpeg?width=640&crop=smart&auto=webp&s=bab699c13cff5bd037eaa2b1f516b4c983d3237a"
-      },
-      {
-        "rank": 2,
-        "title": "FabIe in caveman mode talking about this reddit community is so accurate and surprisingly hilarious",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v21m1l/fabie_in_caveman_mode_talking_about_this_reddit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T23:30:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j6h22jg0zgeh1.png?width=640&crop=smart&auto=webp&s=2603bb935425b8ca632002cc102e62f7d0ae3488"
-      },
-      {
-        "rank": 3,
-        "title": "New: Teach Claude a skill",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v2qdct/new_teach_claude_a_skill/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T18:11:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pzzp55hjimeh1.png?width=640&crop=smart&auto=webp&s=36f86ae7f3f76a1381fdf7ffc6127783aa0716f8"
-      },
-      {
-        "rank": 4,
-        "title": "Umm….. this is happening to me right now. Respectfully, what on earth?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v23cbo/umm_this_is_happening_to_me_right_now/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T00:46:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wmsd83vlcheh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8855d98105933b1861ff6e3321d17a80fa5ec484"
-      },
-      {
-        "rank": 5,
-        "title": "Does the 'Claim free credits' button also open me up to a massive bill in September if I'm not paying attention?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v216k9/does_the_claim_free_credits_button_also_open_me/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-20T23:12:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/238so14pugeh1.png?width=640&crop=smart&auto=webp&s=a0b8f0471d97bf31182ba0a8426c22e14411e050"
-      },
-      {
-        "rank": 1,
-        "title": "🚨 Reset Inbound",
-        "url": "https://www.reddit.com/r/codex/comments/1v2o2dy/reset_inbound/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-21T16:51:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/td4qo47r4meh1.jpeg?width=640&crop=smart&auto=webp&s=c23dc49f8920e6461274ea0969d0f8e346000653"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo is slowly becoming the hero of the Codex community 😂",
-        "url": "https://www.reddit.com/r/codex/comments/1v2ongb/tibo_is_slowly_becoming_the_hero_of_the_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-21T17:12:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/slbzrkcj7meh1.png?width=640&crop=smart&auto=webp&s=1794caebfec3fcf74efdfa469f9f57ee5586f8bd"
-      },
-      {
-        "rank": 3,
-        "title": "I planned my usage around no more resets, until I saw this tweet",
-        "url": "https://www.reddit.com/r/codex/comments/1v2gq77/i_planned_my_usage_around_no_more_resets_until_i/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-21T12:15:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jt3y8xcjrkeh1.jpeg?width=640&crop=smart&auto=webp&s=0725ead460baa8f6f8e46c721e4f587352659f1a"
-      },
-      {
-        "rank": 4,
-        "title": "Does anyone even use gpt 5.6 terra ?",
-        "url": "https://www.reddit.com/r/codex/comments/1v21pa4/does_anyone_even_use_gpt_56_terra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-20T23:34:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l1zih6zpzgeh1.jpeg?width=640&crop=smart&auto=webp&s=8092b7303114094d02f1a9e11b5d53b74107e364"
-      },
-      {
-        "rank": 5,
-        "title": "What happened? The usage seems extremely inconsistent this week.",
-        "url": "https://www.reddit.com/r/codex/comments/1v2cuz3/what_happened_the_usage_seems_extremely/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-21T08:54:28.000Z",
-        "category": "reddit"
       }
     ]
   }

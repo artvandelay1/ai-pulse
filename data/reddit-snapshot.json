@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T13:02:43.205Z",
+  "fetchedAt": "2026-07-22T15:22:50.540Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,20 +27,20 @@
       },
       {
         "rank": 3,
-        "title": "NeurIPS 2026 Reviews Are Out Today (22 July, AoE) — Discussion Thread [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3a2le/neurips_2026_reviews_are_out_today_22_july_aoe/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T08:30:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Happy openreview refresh day to all those who celebrate [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v3enzq/happy_openreview_refresh_day_to_all_those_who/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-22T12:25:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 Reviews Are Out Today (22 July, AoE) — Discussion Thread [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3a2le/neurips_2026_reviews_are_out_today_22_july_aoe/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T08:30:19.000Z",
         "category": "reddit"
       },
       {
@@ -84,16 +84,6 @@
       },
       {
         "rank": 4,
-        "title": "Sam Altman briefing US Gov on GPT-6. Speculation on imminent release!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v2wu0u/sam_altman_briefing_us_gov_on_gpt6_speculation_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-21T22:04:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kk1zyt0honeh1.jpeg?width=640&crop=smart&auto=webp&s=e4693564694d8a1e0309c2623bb426d85b27c726"
-      },
-      {
-        "rank": 5,
         "title": "ChatGPT said: see you on the other side",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v32xje/chatgpt_said_see_you_on_the_other_side/",
         "source": "r/OpenAI",
@@ -101,6 +91,16 @@
         "publishedAt": "2026-07-22T02:22:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/lrxfo9w8yoeh1.png?width=640&crop=smart&auto=webp&s=2ebc713949def900ffc1a1f2a9f0da7261d02ee8"
+      },
+      {
+        "rank": 5,
+        "title": "Sam Altman briefing US Gov on GPT-6. Speculation on imminent release!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v2wu0u/sam_altman_briefing_us_gov_on_gpt6_speculation_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-21T22:04:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kk1zyt0honeh1.jpeg?width=640&crop=smart&auto=webp&s=e4693564694d8a1e0309c2623bb426d85b27c726"
       },
       {
         "rank": 1,
@@ -114,16 +114,6 @@
       },
       {
         "rank": 2,
-        "title": "New insights into recent DeepMind staff departures",
-        "url": "https://www.reddit.com/r/singularity/comments/1v2ird9/new_insights_into_recent_deepmind_staff_departures/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-21T13:39:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q90ztfld6leh1.png?width=640&crop=smart&auto=webp&s=65f4b7ac934f7d37aa94eb6c85732357a84c3169"
-      },
-      {
-        "rank": 3,
         "title": "OpenAI's Internal Model Is Responsible This Week's Hugging Face Hack",
         "url": "https://www.reddit.com/r/singularity/comments/1v2txp7/openais_internal_model_is_responsible_this_weeks/",
         "source": "r/singularity",
@@ -133,7 +123,7 @@
         "thumbnail": "https://preview.redd.it/xdoc7ic95neh1.png?width=640&crop=smart&auto=webp&s=f0c11038a46aa9ffd40e3f7fb221286135bf3728"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "OpenAI hacking huggingface in one meme",
         "url": "https://www.reddit.com/r/singularity/comments/1v2xgqc/openai_hacking_huggingface_in_one_meme/",
         "source": "r/singularity",
@@ -143,14 +133,24 @@
         "thumbnail": "https://preview.redd.it/vejvs1zzsneh1.jpeg?width=640&crop=smart&auto=webp&s=c544206b8bcc14fe75d18e6ac36131d664719e71"
       },
       {
-        "rank": 5,
-        "title": "Gemini 3.6 Flash benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1v2l6sm/gemini_36_flash_benchmarks/",
+        "rank": 4,
+        "title": "Sam Altman to brief Trump admin next week on GPT-6 and its capabilities/potential job impact, according to Bloomberg",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2onp4/sam_altman_to_brief_trump_admin_next_week_on_gpt6/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-21T15:09:26.000Z",
+        "publishedAt": "2026-07-21T17:12:24.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/krqjyu8gmleh1.jpeg?width=640&crop=smart&auto=webp&s=87ecb4c3a62e1e7cee0482f40e8d0f0dd5ca1a90"
+        "thumbnail": "https://preview.redd.it/jwwwxk0g8meh1.jpeg?width=640&crop=smart&auto=webp&s=ad897d2add64f30e4aeb984555bda6e870763c1d"
+      },
+      {
+        "rank": 5,
+        "title": "Judge approves a US$1.5B Anthropic settlement over pirated books used to train Claude - the lawsuit cover half a million books",
+        "url": "https://www.reddit.com/r/singularity/comments/1v2mjy5/judge_approves_a_us15b_anthropic_settlement_over/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-21T15:57:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/o9pOqzxcIqT25FT6n6yk70Ktdcp7oVuTgWyHzwJ1rK0.jpeg?width=640&crop=smart&auto=webp&s=cc50f4bde22406cd84678939e7c28b37f28a5876"
       },
       {
         "rank": 1,

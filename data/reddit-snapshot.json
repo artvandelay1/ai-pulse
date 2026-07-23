@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T15:34:47.315Z",
+  "fetchedAt": "2026-07-23T17:28:41.205Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,6 +16,15 @@
       },
       {
         "rank": 2,
+        "title": "Prompt Injection in NeurIPS 2026? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-23T16:34:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Asking about how to collaborate with professors or research labs [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v3t8s0/asking_about_how_to_collaborate_with_professors/",
         "source": "r/MachineLearning",
@@ -24,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
         "source": "r/MachineLearning",
@@ -33,21 +42,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "NeurIPS E and D track submissions still showing 0 reviews even after deadline [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4cfyz/neurips_e_and_d_track_submissions_still_showing_0/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-23T12:26:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T13:43:03.000Z",
         "category": "reddit"
       },
       {
@@ -112,26 +112,16 @@
       },
       {
         "rank": 2,
-        "title": "This guy has a good point..",
-        "url": "https://www.reddit.com/r/singularity/comments/1v43eao/this_guy_has_a_good_point/",
+        "title": "AGI achieved",
+        "url": "https://www.reddit.com/r/singularity/comments/1v4dcbr/agi_achieved/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-23T04:26:45.000Z",
+        "publishedAt": "2026-07-23T13:03:54.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cch1vkcnpweh1.png?width=640&crop=smart&auto=webp&s=d34b81883281427e756624567e9374a32e53f383"
+        "thumbnail": "https://external-preview.redd.it/dzlwNzBwOXg5emVoMXVAnuzq98KdeHVVwqQxMa0H3rkg4a5qhVRXZLpGq1uL.png?width=640&crop=smart&auto=webp&s=5da9a769af2f42793b9c79b2a44b62325980d108"
       },
       {
         "rank": 3,
-        "title": "I solved 6 open Erdős problems in 5 days",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3xmuw/i_solved_6_open_erdős_problems_in_5_days/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T00:02:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n2b4ymcheveh1.png?width=640&crop=smart&auto=webp&s=61171f74ae17ac1e096761d3304dbd74772230ae"
-      },
-      {
-        "rank": 4,
         "title": "This guy will never admit that he could be wrong too",
         "url": "https://www.reddit.com/r/singularity/comments/1v496m8/this_guy_will_never_admit_that_he_could_be_wrong/",
         "source": "r/singularity",
@@ -141,14 +131,24 @@
         "thumbnail": "https://preview.redd.it/ll7kp8ks9yeh1.png?width=640&crop=smart&auto=webp&s=0474b45dcc9024bfdf056a70c3c8c96f7d745f24"
       },
       {
-        "rank": 5,
-        "title": "❗NEWS❗The former Director of the White House Office of Science and Technology Policy and Presidential Science Advisor stated that Kimi K3 was distilled from Anthropic's Fable.",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3lpwv/newsthe_former_director_of_the_white_house_office/",
+        "rank": 4,
+        "title": "This guy has a good point..",
+        "url": "https://www.reddit.com/r/singularity/comments/1v43eao/this_guy_has_a_good_point/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-22T16:48:20.000Z",
+        "publishedAt": "2026-07-23T04:26:45.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/etj86tbe8teh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b01f66cfe12fa10c21f9a38aeb5ce4605d3a2c49"
+        "thumbnail": "https://preview.redd.it/cch1vkcnpweh1.png?width=640&crop=smart&auto=webp&s=d34b81883281427e756624567e9374a32e53f383"
+      },
+      {
+        "rank": 5,
+        "title": "I solved 6 open Erdős problems in 5 days",
+        "url": "https://www.reddit.com/r/singularity/comments/1v3xmuw/i_solved_6_open_erdős_problems_in_5_days/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-23T00:02:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n2b4ymcheveh1.png?width=640&crop=smart&auto=webp&s=61171f74ae17ac1e096761d3304dbd74772230ae"
       },
       {
         "rank": 1,

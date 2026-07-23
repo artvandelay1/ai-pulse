@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-07-23T09:29:13.942Z",
+  "fetchedAt": "2026-07-23T11:28:44.073Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Happy openreview refresh day to all those who celebrate [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3enzq/happy_openreview_refresh_day_to_all_those_who/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T12:25:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Asking about how to collaborate with professors or research labs [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3t8s0/asking_about_how_to_collaborate_with_professors/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T21:09:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Institution Prestige VS Research Alignment When Choosing University For Masters [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3dm96/institution_prestige_vs_research_alignment_when/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T11:39:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "EMNLP Industry 2026 Paper Reviews [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3iaux/emnlp_industry_2026_paper_reviews_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T14:48:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-22T22:48:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "People who got their OpenAI made $230 mini keyboard, what are your reviews?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v42jyo/people_who_got_their_openai_made_230_mini/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T03:45:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3f64nnq8iweh1.png?width=640&crop=smart&auto=webp&s=3c3d28746b4502852c7e090eb4691eb203738015"
+      },
+      {
+        "rank": 2,
+        "title": "Frontier lab PR strategy, 2026",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v3t50w/frontier_lab_pr_strategy_2026/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T21:05:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bjkqricwiueh1.jpeg?width=640&crop=smart&auto=webp&s=54a4117c35fda9e4ecc17b2d4353bf8350bdf93c"
+      },
+      {
+        "rank": 3,
+        "title": "Gemini 3.6 Flash: twice as fast, 18% cheaper, and precisely 0% smarter🥲",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v3g73p/gemini_36_flash_twice_as_fast_18_cheaper_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T13:28:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lamarnp49seh1.jpeg?width=640&crop=smart&auto=webp&s=4d740ea1b6a1e0d826b5ce1abfa22c5051b8ffc8"
+      },
+      {
+        "rank": 4,
+        "title": "Introducing OpenAI Presence",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v3gx7e/introducing_openai_presence/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T13:56:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "The 20 dollar plan differential is crazy",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v3dlnd/the_20_dollar_plan_differential_is_crazy/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T11:38:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z3rhizwrpreh1.png?width=640&crop=smart&auto=webp&s=6387aa9cff5c5672c7c5a154c209c43d881c144f"
+      },
+      {
+        "rank": 1,
+        "title": "Task failed successfully",
+        "url": "https://www.reddit.com/r/singularity/comments/1v3omt3/task_failed_successfully/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-22T18:27:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1r0r3excqteh1.jpeg?width=640&crop=smart&auto=webp&s=5528c0f2340c6eea9a49fedf26231dc79e5bc2f9"
+      },
+      {
+        "rank": 2,
+        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
+        "url": "https://www.reddit.com/r/singularity/comments/1v3ia58/unlimited_ai_tokens_arent_unlimited_after_all_as/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-22T14:47:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/rbel3g6YcsPgclld8uTR3hYoHOkUDTmYc5aMzgylc_k.jpeg?width=640&crop=smart&auto=webp&s=f14a9e8cbd644aaf1ffdf5906a4f549b780fc973"
+      },
+      {
+        "rank": 3,
+        "title": "❗NEWS❗The former Director of the White House Office of Science and Technology Policy and Presidential Science Advisor stated that Kimi K3 was distilled from Anthropic's Fable.",
+        "url": "https://www.reddit.com/r/singularity/comments/1v3lpwv/newsthe_former_director_of_the_white_house_office/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-22T16:48:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/etj86tbe8teh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b01f66cfe12fa10c21f9a38aeb5ce4605d3a2c49"
+      },
+      {
+        "rank": 4,
+        "title": "I solved 6 open Erdős problems in 5 days",
+        "url": "https://www.reddit.com/r/singularity/comments/1v3xmuw/i_solved_6_open_erdős_problems_in_5_days/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-23T00:02:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n2b4ymcheveh1.png?width=640&crop=smart&auto=webp&s=61171f74ae17ac1e096761d3304dbd74772230ae"
+      },
+      {
+        "rank": 5,
+        "title": "This guy has a good point..",
+        "url": "https://www.reddit.com/r/singularity/comments/1v43eao/this_guy_has_a_good_point/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-23T04:26:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cch1vkcnpweh1.png?width=640&crop=smart&auto=webp&s=d34b81883281427e756624567e9374a32e53f383"
+      },
       {
         "rank": 1,
         "title": "Warning: claiming the \"free $100 Fable 5 credits\" silently turns on paid usage billing (Pro plan)",
@@ -56,51 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Happy openreview refresh day to all those who celebrate [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3enzq/happy_openreview_refresh_day_to_all_those_who/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T12:25:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Asking about how to collaborate with professors or research labs [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3t8s0/asking_about_how_to_collaborate_with_professors/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T21:09:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Institution Prestige VS Research Alignment When Choosing University For Masters [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3dm96/institution_prestige_vs_research_alignment_when/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T11:39:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "EMNLP Industry 2026 Paper Reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3iaux/emnlp_industry_2026_paper_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T14:48:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T22:48:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "OpenAI has fooled us with the recent token usage and constant resets",
         "url": "https://www.reddit.com/r/codex/comments/1v3b42d/openai_has_fooled_us_with_the_recent_token_usage/",
         "source": "r/codex",
@@ -143,105 +242,6 @@
         "score": 0,
         "publishedAt": "2026-07-22T23:42:12.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Frontier lab PR strategy, 2026",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3t50w/frontier_lab_pr_strategy_2026/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T21:05:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bjkqricwiueh1.jpeg?width=640&crop=smart&auto=webp&s=54a4117c35fda9e4ecc17b2d4353bf8350bdf93c"
-      },
-      {
-        "rank": 2,
-        "title": "Gemini 3.6 Flash: twice as fast, 18% cheaper, and precisely 0% smarter🥲",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3g73p/gemini_36_flash_twice_as_fast_18_cheaper_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T13:28:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lamarnp49seh1.jpeg?width=640&crop=smart&auto=webp&s=4d740ea1b6a1e0d826b5ce1abfa22c5051b8ffc8"
-      },
-      {
-        "rank": 3,
-        "title": "Introducing OpenAI Presence",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3gx7e/introducing_openai_presence/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T13:56:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "This is a theoretical physicist",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3ajn1/this_is_a_theoretical_physicist/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T08:57:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mr399d4zwqeh1.png?width=640&crop=smart&auto=webp&s=7625df63b3aa4899652cb7f69cf74bf6ea46e7f3"
-      },
-      {
-        "rank": 5,
-        "title": "The 20 dollar plan differential is crazy",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3dlnd/the_20_dollar_plan_differential_is_crazy/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T11:38:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z3rhizwrpreh1.png?width=640&crop=smart&auto=webp&s=6387aa9cff5c5672c7c5a154c209c43d881c144f"
-      },
-      {
-        "rank": 1,
-        "title": "Task failed successfully",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3omt3/task_failed_successfully/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-22T18:27:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1r0r3excqteh1.jpeg?width=640&crop=smart&auto=webp&s=5528c0f2340c6eea9a49fedf26231dc79e5bc2f9"
-      },
-      {
-        "rank": 2,
-        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3ia58/unlimited_ai_tokens_arent_unlimited_after_all_as/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-22T14:47:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/rbel3g6YcsPgclld8uTR3hYoHOkUDTmYc5aMzgylc_k.jpeg?width=640&crop=smart&auto=webp&s=f14a9e8cbd644aaf1ffdf5906a4f549b780fc973"
-      },
-      {
-        "rank": 3,
-        "title": "Gemini is behind Meta's Models now, lol",
-        "url": "https://www.reddit.com/r/singularity/comments/1v397w9/gemini_is_behind_metas_models_now_lol/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-22T07:41:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bs97jpjjjqeh1.png?width=640&crop=smart&auto=webp&s=89221326f1f4b7fef1f217ae3c75ef17aac335b0"
-      },
-      {
-        "rank": 4,
-        "title": "In light of the recent HuggingFace incident caused by OpenAI's internal model",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3b12f/in_light_of_the_recent_huggingface_incident/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-22T09:25:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yg11xm0x1reh1.png?width=640&crop=smart&auto=webp&s=8ce9cbd86101a52db718a65f92c118970fe174b6"
-      },
-      {
-        "rank": 5,
-        "title": "❗NEWS❗The former Director of the White House Office of Science and Technology Policy and Presidential Science Advisor stated that Kimi K3 was distilled from Anthropic's Fable.",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3lpwv/newsthe_former_director_of_the_white_house_office/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-22T16:48:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/etj86tbe8teh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b01f66cfe12fa10c21f9a38aeb5ce4605d3a2c49"
       }
     ]
   }

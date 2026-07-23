@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T13:07:48.091Z",
+  "fetchedAt": "2026-07-23T15:34:47.315Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "EMNLP Industry 2026 Paper Reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3iaux/emnlp_industry_2026_paper_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T14:48:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Anyone heading to Jeju for KDD? Let's meet up! 🙋[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3mii4/anyone_heading_to_jeju_for_kdd_lets_meet_up_d/",
+        "rank": 4,
+        "title": "NeurIPS E and D track submissions still showing 0 reviews even after deadline [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4cfyz/neurips_e_and_d_track_submissions_still_showing_0/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-22T17:15:14.000Z",
+        "publishedAt": "2026-07-23T12:26:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-23T13:43:03.000Z",
         "category": "reddit"
       },
       {
@@ -72,25 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "Gemini 3.6 Flash: twice as fast, 18% cheaper, and precisely 0% smarter🥲",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3g73p/gemini_36_flash_twice_as_fast_18_cheaper_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T13:28:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lamarnp49seh1.jpeg?width=640&crop=smart&auto=webp&s=4d740ea1b6a1e0d826b5ce1abfa22c5051b8ffc8"
-      },
-      {
-        "rank": 4,
-        "title": "Introducing OpenAI Presence",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3gx7e/introducing_openai_presence/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T13:56:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Elon's Tweet about OpenAI's Model",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v49v7c/elons_tweet_about_openais_model/",
         "source": "r/OpenAI",
@@ -98,6 +79,26 @@
         "publishedAt": "2026-07-23T10:22:54.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dfrfy2c7hyeh1.jpeg?width=640&crop=smart&auto=webp&s=02b12ccfdf4a8cf0368549a61655ee77135f9e3a"
+      },
+      {
+        "rank": 4,
+        "title": "Strange times",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v48v88/strange_times/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T09:28:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qgjkjvxc7yeh1.png?width=640&crop=smart&auto=webp&s=c62ae001f137291cb6082e48a757c4e7e18a6e43"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT hacked itself",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v4627h/chatgpt_hacked_itself/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T06:48:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/td9a6ydxexeh1.jpeg?width=320&crop=smart&auto=webp&s=90f6de4118324a40e9eeebc774bcc71bf14cf2a1"
       },
       {
         "rank": 1,
@@ -111,13 +112,13 @@
       },
       {
         "rank": 2,
-        "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3ia58/unlimited_ai_tokens_arent_unlimited_after_all_as/",
+        "title": "This guy has a good point..",
+        "url": "https://www.reddit.com/r/singularity/comments/1v43eao/this_guy_has_a_good_point/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-22T14:47:27.000Z",
+        "publishedAt": "2026-07-23T04:26:45.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/rbel3g6YcsPgclld8uTR3hYoHOkUDTmYc5aMzgylc_k.jpeg?width=640&crop=smart&auto=webp&s=f14a9e8cbd644aaf1ffdf5906a4f549b780fc973"
+        "thumbnail": "https://preview.redd.it/cch1vkcnpweh1.png?width=640&crop=smart&auto=webp&s=d34b81883281427e756624567e9374a32e53f383"
       },
       {
         "rank": 3,
@@ -131,6 +132,16 @@
       },
       {
         "rank": 4,
+        "title": "This guy will never admit that he could be wrong too",
+        "url": "https://www.reddit.com/r/singularity/comments/1v496m8/this_guy_will_never_admit_that_he_could_be_wrong/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-23T09:46:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ll7kp8ks9yeh1.png?width=640&crop=smart&auto=webp&s=0474b45dcc9024bfdf056a70c3c8c96f7d745f24"
+      },
+      {
+        "rank": 5,
         "title": "❗NEWS❗The former Director of the White House Office of Science and Technology Policy and Presidential Science Advisor stated that Kimi K3 was distilled from Anthropic's Fable.",
         "url": "https://www.reddit.com/r/singularity/comments/1v3lpwv/newsthe_former_director_of_the_white_house_office/",
         "source": "r/singularity",
@@ -138,16 +149,6 @@
         "publishedAt": "2026-07-22T16:48:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/etj86tbe8teh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b01f66cfe12fa10c21f9a38aeb5ce4605d3a2c49"
-      },
-      {
-        "rank": 5,
-        "title": "This guy has a good point..",
-        "url": "https://www.reddit.com/r/singularity/comments/1v43eao/this_guy_has_a_good_point/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T04:26:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cch1vkcnpweh1.png?width=640&crop=smart&auto=webp&s=d34b81883281427e756624567e9374a32e53f383"
       },
       {
         "rank": 1,

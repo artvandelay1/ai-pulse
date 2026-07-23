@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-07-23T20:18:45.909Z",
+  "fetchedAt": "2026-07-23T21:38:06.580Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Warning: claiming the \"free $100 Fable 5 credits\" silently turns on paid usage billing (Pro plan)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3yk7a/warning_claiming_the_free_100_fable_5_credits/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T00:43:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Claude Code just added native codebase security scanning",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v48e9x/claude_code_just_added_native_codebase_security/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T09:01:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tjefi31o2yeh1.jpeg?width=640&crop=smart&auto=webp&s=7ec3bd9bfff4e48bf6d585a748ccb3ae811b3dfb"
+      },
+      {
+        "rank": 3,
+        "title": "No longer shows full thinking?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3u707/no_longer_shows_full_thinking/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T21:44:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/24a18fbjpueh1.png?width=140&height=55&auto=webp&s=38d3abddedbab91c1e612f95ecde816cf07ee8d2"
+      },
+      {
+        "rank": 4,
+        "title": "Show us what you've created with Claude!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3w5za/show_us_what_youve_created_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T23:01:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "i edited this video using fable 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4atkf/i_edited_this_video_using_fable_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T11:11:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dXI1cmx4bDZweWVoMTuhOsGuRCx6Dgw40j9-OivD7Zbg5h7n6JwoLZdmIKDA.png?width=640&crop=smart&auto=webp&s=7ba768f160be361a4182cf6e18669b939c88b45d"
+      },
       {
         "rank": 1,
         "title": "Prompt Injection in NeurIPS 2026? [D]",
@@ -25,15 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "Asking about how to collaborate with professors or research labs [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v3t8s0/asking_about_how_to_collaborate_with_professors/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-22T21:09:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
         "source": "r/MachineLearning",
@@ -42,13 +81,70 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "NeurIPS E and D track submissions still showing 0 reviews even after deadline [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4cfyz/neurips_e_and_d_track_submissions_still_showing_0/",
+        "rank": 4,
+        "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-23T12:26:01.000Z",
+        "publishedAt": "2026-07-23T19:20:01.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-23T21:07:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "We were fooled... I'm going back to Claude",
+        "url": "https://www.reddit.com/r/codex/comments/1v3x5hr/we_were_fooled_im_going_back_to_claude/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-22T23:42:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Codex Usage Limits and Performance Megathread",
+        "url": "https://www.reddit.com/r/codex/comments/1v42x6r/codex_usage_limits_and_performance_megathread/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-23T04:03:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "What do you think is coming next?",
+        "url": "https://www.reddit.com/r/codex/comments/1v48bro/what_do_you_think_is_coming_next/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-23T08:57:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/69wtfe802yeh1.jpeg?width=640&crop=smart&auto=webp&s=eeb190a9e8c9545a00d95740a1d206af1d62625b"
+      },
+      {
+        "rank": 4,
+        "title": "So just another reset ? While the issue of usage remains unanswered",
+        "url": "https://www.reddit.com/r/codex/comments/1v43j9t/so_just_another_reset_while_the_issue_of_usage/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-23T04:34:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z3rx1toyqweh1.jpeg?width=640&crop=smart&auto=webp&s=7e83a1226b04550ce9340ca11cd8fb4068d3d259"
+      },
+      {
+        "rank": 5,
+        "title": "I've been measuring my $100 Pro Lite weekly limit. It dropped ~11% in the last 10 days (~$675 → ~$600 API-equivalent)",
+        "url": "https://www.reddit.com/r/codex/comments/1v4ds6g/ive_been_measuring_my_100_pro_lite_weekly_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-23T13:21:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/va1xbmwzczeh1.png?width=640&crop=smart&auto=webp&s=37fb7547ce4787d21496a9e89e34f03c1811d606"
       },
       {
         "rank": 1,
@@ -147,100 +243,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-07-22T21:13:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Warning: claiming the \"free $100 Fable 5 credits\" silently turns on paid usage billing (Pro plan)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3yk7a/warning_claiming_the_free_100_fable_5_credits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T00:43:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic Claims 50% usage boost that doesn't exist :)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3d8iz/anthropic_claims_50_usage_boost_that_doesnt_exist/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T11:21:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x9n1yreklreh1.png?width=140&height=118&auto=webp&s=20016693f6c3a3d2810ea57b05f8ea1bd12e0b34"
-      },
-      {
-        "rank": 3,
-        "title": "Life after the latest update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3kco7/life_after_the_latest_update/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T16:00:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p9hwy8n3yseh1.jpeg?width=640&crop=smart&auto=webp&s=d95829fc9051fde7958bb4c4f41fc651849e024a"
-      },
-      {
-        "rank": 4,
-        "title": "This is what happens when you hire cleaners in the bay area!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3iqde/this_is_what_happens_when_you_hire_cleaners_in/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T15:03:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t3os6n0dqseh1.png?width=640&crop=smart&auto=webp&s=ae6e73bd37bce96510ed2bdb50377952d7ca95d1"
-      },
-      {
-        "rank": 5,
-        "title": "A small trick to guide an LLM Agent while it’s coding",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3o7fe/a_small_trick_to_guide_an_llm_agent_while_its/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T18:12:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qefqhqmqnteh1.png?width=640&crop=smart&auto=webp&s=5934f1b733137f42cc7901de29c2d6c4312747dc"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI has fooled us with the recent token usage and constant resets",
-        "url": "https://www.reddit.com/r/codex/comments/1v3b42d/openai_has_fooled_us_with_the_recent_token_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-22T09:29:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Enough. We are not idiots.",
-        "url": "https://www.reddit.com/r/codex/comments/1v3sv26/enough_we_are_not_idiots/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-22T20:55:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Do we have a official statement from OpenAI or tiboo why usage is draining so fast ?",
-        "url": "https://www.reddit.com/r/codex/comments/1v3fgm7/do_we_have_a_official_statement_from_openai_or/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-22T12:59:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "My Pro 20x account limits feel the same as the 5x account from a few months ago.",
-        "url": "https://www.reddit.com/r/codex/comments/1v3ltwx/my_pro_20x_account_limits_feel_the_same_as_the_5x/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-22T16:52:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "We were fooled... I'm going back to Claude",
-        "url": "https://www.reddit.com/r/codex/comments/1v3x5hr/we_were_fooled_im_going_back_to_claude/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-22T23:42:12.000Z",
         "category": "reddit"
       }
     ]

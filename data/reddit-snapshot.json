@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T17:28:41.205Z",
+  "fetchedAt": "2026-07-23T18:49:41.520Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T12:13:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Prompt Injection in NeurIPS 2026? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-23T16:34:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-23T12:13:50.000Z",
         "category": "reddit"
       },
       {
@@ -62,16 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "Frontier lab PR strategy, 2026",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v3t50w/frontier_lab_pr_strategy_2026/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T21:05:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bjkqricwiueh1.jpeg?width=640&crop=smart&auto=webp&s=54a4117c35fda9e4ecc17b2d4353bf8350bdf93c"
-      },
-      {
-        "rank": 3,
         "title": "Elon's Tweet about OpenAI's Model",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v49v7c/elons_tweet_about_openais_model/",
         "source": "r/OpenAI",
@@ -79,6 +69,16 @@
         "publishedAt": "2026-07-23T10:22:54.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dfrfy2c7hyeh1.jpeg?width=640&crop=smart&auto=webp&s=02b12ccfdf4a8cf0368549a61655ee77135f9e3a"
+      },
+      {
+        "rank": 3,
+        "title": "Frontier lab PR strategy, 2026",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v3t50w/frontier_lab_pr_strategy_2026/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-22T21:05:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bjkqricwiueh1.jpeg?width=640&crop=smart&auto=webp&s=54a4117c35fda9e4ecc17b2d4353bf8350bdf93c"
       },
       {
         "rank": 4,
@@ -102,16 +102,6 @@
       },
       {
         "rank": 1,
-        "title": "Task failed successfully",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3omt3/task_failed_successfully/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-22T18:27:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1r0r3excqteh1.jpeg?width=640&crop=smart&auto=webp&s=5528c0f2340c6eea9a49fedf26231dc79e5bc2f9"
-      },
-      {
-        "rank": 2,
         "title": "AGI achieved",
         "url": "https://www.reddit.com/r/singularity/comments/1v4dcbr/agi_achieved/",
         "source": "r/singularity",
@@ -121,7 +111,7 @@
         "thumbnail": "https://external-preview.redd.it/dzlwNzBwOXg5emVoMXVAnuzq98KdeHVVwqQxMa0H3rkg4a5qhVRXZLpGq1uL.png?width=640&crop=smart&auto=webp&s=5da9a769af2f42793b9c79b2a44b62325980d108"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "This guy will never admit that he could be wrong too",
         "url": "https://www.reddit.com/r/singularity/comments/1v496m8/this_guy_will_never_admit_that_he_could_be_wrong/",
         "source": "r/singularity",
@@ -131,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/ll7kp8ks9yeh1.png?width=640&crop=smart&auto=webp&s=0474b45dcc9024bfdf056a70c3c8c96f7d745f24"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "This guy has a good point..",
         "url": "https://www.reddit.com/r/singularity/comments/1v43eao/this_guy_has_a_good_point/",
         "source": "r/singularity",
@@ -141,7 +131,7 @@
         "thumbnail": "https://preview.redd.it/cch1vkcnpweh1.png?width=640&crop=smart&auto=webp&s=d34b81883281427e756624567e9374a32e53f383"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "I solved 6 open Erdős problems in 5 days",
         "url": "https://www.reddit.com/r/singularity/comments/1v3xmuw/i_solved_6_open_erdős_problems_in_5_days/",
         "source": "r/singularity",
@@ -149,6 +139,15 @@
         "publishedAt": "2026-07-23T00:02:28.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/n2b4ymcheveh1.png?width=640&crop=smart&auto=webp&s=61171f74ae17ac1e096761d3304dbd74772230ae"
+      },
+      {
+        "rank": 5,
+        "title": "No, the HuggingFace incident is not a publicity stunt",
+        "url": "https://www.reddit.com/r/singularity/comments/1v3tcyx/no_the_huggingface_incident_is_not_a_publicity/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-22T21:13:35.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

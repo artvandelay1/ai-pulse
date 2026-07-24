@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-07-24T20:39:08.534Z",
+  "fetchedAt": "2026-07-24T22:10:45.514Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:15:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T12:15:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS Meta Review - whats going on? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T08:18:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ACM MM 26 Registration [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T07:37:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What machine is best for my setup? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5jzkv/what_machine_is_best_for_my_setup_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T18:38:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Jensen Huan created his official X account just to share his support for open models, an hour ago.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5duk6/jensen_huan_created_his_official_x_account_just/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T15:00:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cvwyeq78z6fh1.png?width=320&crop=smart&auto=webp&s=a9e943919ea0fc78e41a12981e87c7beb1582727"
+      },
+      {
+        "rank": 2,
+        "title": "Introducing Health In ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T06:42:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
+      },
+      {
+        "rank": 3,
+        "title": "Each provider has own issues!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T04:39:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
+      },
+      {
+        "rank": 4,
+        "title": "Normal technology",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5axkd/normal_technology/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T13:08:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lbnb6vekf6fh1.png?width=640&crop=smart&auto=webp&s=d467076bea7107a29a642df3c9ecf694c2b24a20"
+      },
+      {
+        "rank": 5,
+        "title": "Open Source Tax Engine outperforming gpt sol and Fable 5",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v4yh4j/open_source_tax_engine_outperforming_gpt_sol_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T02:31:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Microsoft, NVIDIA, Meta, IBM, Palantir and more released a joint letter warning Washington not to kill open-weight models",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5ahji/microsoft_nvidia_meta_ibm_palantir_and_more/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T12:50:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pgoteuswa6fh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a59d628c71b69545dec2202466242ef47147b567"
+      },
+      {
+        "rank": 2,
+        "title": "Claude Opus 5 BENCHMARKS!",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5h8o6/claude_opus_5_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T17:01:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wtvjoqi8l7fh1.jpeg?width=640&crop=smart&auto=webp&s=f4fbd74e65b52c9ea12a839d6c55b19d8e151a12"
+      },
+      {
+        "rank": 3,
+        "title": "Goodbye, cavities? New gel could regrow tooth enamel",
+        "url": "https://www.reddit.com/r/singularity/comments/1v4x3mt/goodbye_cavities_new_gel_could_regrow_tooth_enamel/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T01:27:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/LV_QmhV0ifZ_fexgoi-EjAak3EYHU05bFGj-p2T39oQ.jpeg?width=640&crop=smart&auto=webp&s=988d5fa7322280dcb7d3769610fcdbec53bf2e6d"
+      },
+      {
+        "rank": 4,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5h4xc/introducing_claude_opus_5/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:58:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Jensen Huang has created an X account!",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5cj5m/jensen_huang_has_created_an_x_account/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T14:11:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fotq9x8vq6fh1.jpeg?width=640&crop=smart&auto=webp&s=ea9523281c4c49ace4ae837d0f3ed1c33e5f70a9"
+      },
       {
         "rank": 1,
         "title": "I made a Claude Code skill that turns a photo of your handwriting into an installable font",
@@ -55,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T16:15:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T21:07:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T12:15:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "NeurIPS Meta Review - whats going on? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T08:18:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "ACM MM 26 Registration [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T07:37:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "They live in their own bubble",
         "url": "https://www.reddit.com/r/codex/comments/1v4uj8n/they_live_in_their_own_bubble/",
         "source": "r/codex",
@@ -145,105 +243,6 @@
         "publishedAt": "2026-07-24T06:22:54.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8qfaddw4f4fh1.png?width=140&height=69&auto=webp&s=9be128fff11a20de05eed150c6625237d720ac3b"
-      },
-      {
-        "rank": 1,
-        "title": "Jensen Huan created his official X account just to share his support for open models, an hour ago.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5duk6/jensen_huan_created_his_official_x_account_just/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T15:00:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cvwyeq78z6fh1.png?width=320&crop=smart&auto=webp&s=a9e943919ea0fc78e41a12981e87c7beb1582727"
-      },
-      {
-        "rank": 2,
-        "title": "Introducing Health In ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T06:42:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
-      },
-      {
-        "rank": 3,
-        "title": "Each provider has own issues!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T04:39:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI is trying to conquer the office. Legal is next.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v4p2ne/openai_is_trying_to_conquer_the_office_legal_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T20:05:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/kzhJZzFivsI7cchfGS1qotQiZPcMgFsdhr_kE9IWIO4.jpeg?width=640&crop=smart&auto=webp&s=64b0d9008004ac5666942e55ec451ad50b43fe15"
-      },
-      {
-        "rank": 5,
-        "title": "Open Source Tax Engine outperforming gpt sol and Fable 5",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v4yh4j/open_source_tax_engine_outperforming_gpt_sol_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T02:31:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Microsoft, NVIDIA, Meta, IBM, Palantir and more released a joint letter warning Washington not to kill open-weight models",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5ahji/microsoft_nvidia_meta_ibm_palantir_and_more/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T12:50:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pgoteuswa6fh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a59d628c71b69545dec2202466242ef47147b567"
-      },
-      {
-        "rank": 2,
-        "title": "Goodbye, cavities? New gel could regrow tooth enamel",
-        "url": "https://www.reddit.com/r/singularity/comments/1v4x3mt/goodbye_cavities_new_gel_could_regrow_tooth_enamel/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T01:27:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/LV_QmhV0ifZ_fexgoi-EjAak3EYHU05bFGj-p2T39oQ.jpeg?width=640&crop=smart&auto=webp&s=988d5fa7322280dcb7d3769610fcdbec53bf2e6d"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic Donates $20M for Stricter AI Regulations",
-        "url": "https://www.reddit.com/r/singularity/comments/1v4nc6t/anthropic_donates_20m_for_stricter_ai_regulations/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T19:04:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/91gyqh4921fh1.jpeg?width=640&crop=smart&auto=webp&s=a72d55b64533ba2adef84cdb24b78fae6ff52a06"
-      },
-      {
-        "rank": 4,
-        "title": "Jensen Huang has created an X account!",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5cj5m/jensen_huang_has_created_an_x_account/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T14:11:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fotq9x8vq6fh1.jpeg?width=640&crop=smart&auto=webp&s=ea9523281c4c49ace4ae837d0f3ed1c33e5f70a9"
-      },
-      {
-        "rank": 5,
-        "title": "Claude Opus 5 BENCHMARKS!",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5h8o6/claude_opus_5_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T17:01:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wtvjoqi8l7fh1.jpeg?width=640&crop=smart&auto=webp&s=f4fbd74e65b52c9ea12a839d6c55b19d8e151a12"
       }
     ]
   }

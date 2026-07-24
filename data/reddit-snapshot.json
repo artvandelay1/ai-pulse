@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T09:07:42.491Z",
+  "fetchedAt": "2026-07-24T11:20:42.229Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -43,35 +43,15 @@
       },
       {
         "rank": 5,
-        "title": "ACM MM 26 Registration [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
+        "title": "NeurIPS Meta Review - whats going on? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-24T07:37:17.000Z",
+        "publishedAt": "2026-07-24T08:18:06.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Elon's Tweet about OpenAI's Model",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v49v7c/elons_tweet_about_openais_model/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T10:22:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dfrfy2c7hyeh1.jpeg?width=640&crop=smart&auto=webp&s=02b12ccfdf4a8cf0368549a61655ee77135f9e3a"
-      },
-      {
-        "rank": 2,
-        "title": "Strange times",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v48v88/strange_times/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T09:28:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qgjkjvxc7yeh1.png?width=640&crop=smart&auto=webp&s=c62ae001f137291cb6082e48a757c4e7e18a6e43"
-      },
-      {
-        "rank": 3,
         "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4bcxx/mathematicians_grapple_with_a_very_rapid_and_very/",
         "source": "r/OpenAI",
@@ -81,7 +61,7 @@
         "thumbnail": "https://external-preview.redd.it/PYa6jGq2p5DpQnIVI0f4CT5v9NZZGwOaSFR8WUzrFBU.jpeg?width=640&crop=smart&auto=webp&s=398718565830233ee67006aaa90cc1ca96d7d00d"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "Some of OpenAI's negative glassdoor reviews",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4e7h9/some_of_openais_negative_glassdoor_reviews/",
         "source": "r/OpenAI",
@@ -91,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/wr4k4zq4fzeh1.png?width=140&height=83&auto=webp&s=30ada9b36692c04e3990ec2bec06d823d7c38bf9"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "OpenAI is trying to conquer the office. Legal is next.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4p2ne/openai_is_trying_to_conquer_the_office_legal_is/",
         "source": "r/OpenAI",
@@ -99,6 +79,26 @@
         "publishedAt": "2026-07-23T20:05:22.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/kzhJZzFivsI7cchfGS1qotQiZPcMgFsdhr_kE9IWIO4.jpeg?width=640&crop=smart&auto=webp&s=64b0d9008004ac5666942e55ec451ad50b43fe15"
+      },
+      {
+        "rank": 4,
+        "title": "Each provider has own issues!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T04:39:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
+      },
+      {
+        "rank": 5,
+        "title": "Introducing Health In ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T06:42:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
       },
       {
         "rank": 1,
@@ -112,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "This guy will never admit that he could be wrong too",
-        "url": "https://www.reddit.com/r/singularity/comments/1v496m8/this_guy_will_never_admit_that_he_could_be_wrong/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T09:46:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ll7kp8ks9yeh1.png?width=640&crop=smart&auto=webp&s=0474b45dcc9024bfdf056a70c3c8c96f7d745f24"
-      },
-      {
-        "rank": 3,
         "title": "Anthropic Donates $20M for Stricter AI Regulations",
         "url": "https://www.reddit.com/r/singularity/comments/1v4nc6t/anthropic_donates_20m_for_stricter_ai_regulations/",
         "source": "r/singularity",
@@ -131,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/91gyqh4921fh1.jpeg?width=640&crop=smart&auto=webp&s=a72d55b64533ba2adef84cdb24b78fae6ff52a06"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Goodbye, cavities? New gel could regrow tooth enamel",
         "url": "https://www.reddit.com/r/singularity/comments/1v4x3mt/goodbye_cavities_new_gel_could_regrow_tooth_enamel/",
         "source": "r/singularity",
@@ -141,7 +131,7 @@
         "thumbnail": "https://external-preview.redd.it/LV_QmhV0ifZ_fexgoi-EjAak3EYHU05bFGj-p2T39oQ.jpeg?width=640&crop=smart&auto=webp&s=988d5fa7322280dcb7d3769610fcdbec53bf2e6d"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Fields medalist Jacob Tsimerman joins OpenAI",
         "url": "https://www.reddit.com/r/singularity/comments/1v4p6qj/fields_medalist_jacob_tsimerman_joins_openai/",
         "source": "r/singularity",
@@ -149,6 +139,16 @@
         "publishedAt": "2026-07-23T20:09:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/38ryd4itd1fh1.png?width=640&crop=smart&auto=webp&s=af35b74f844733134f673ae1a0cb6d665eeb8fa3"
+      },
+      {
+        "rank": 5,
+        "title": "Kimi K3 performs significantly below the most recent frontier cyber-capable models on preliminary cyber evaluations run by UK AISI / CAISI.",
+        "url": "https://www.reddit.com/r/singularity/comments/1v4kned/kimi_k3_performs_significantly_below_the_most/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-23T17:30:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/5npmstVPJ-ArlgVSZDL6w-2H0VwRMvGSHF03ZGBB9bI.png?width=640&crop=smart&auto=webp&s=b3f6a7b01bae461920869bb8dea914b8cead93c4"
       },
       {
         "rank": 1,

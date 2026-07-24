@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T13:02:42.289Z",
+  "fetchedAt": "2026-07-24T15:15:50.361Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,11 +34,11 @@
       },
       {
         "rank": 4,
-        "title": "NeurIPS Meta Review - whats going on? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
+        "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-24T08:18:06.000Z",
+        "publishedAt": "2026-07-24T12:15:31.000Z",
         "category": "reddit"
       },
       {
@@ -52,16 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "Some of OpenAI's negative glassdoor reviews",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v4e7h9/some_of_openais_negative_glassdoor_reviews/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T13:38:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wr4k4zq4fzeh1.png?width=140&height=83&auto=webp&s=30ada9b36692c04e3990ec2bec06d823d7c38bf9"
-      },
-      {
-        "rank": 2,
         "title": "Each provider has own issues!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
         "source": "r/OpenAI",
@@ -69,6 +59,16 @@
         "publishedAt": "2026-07-24T04:39:26.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
+      },
+      {
+        "rank": 2,
+        "title": "Introducing Health In ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T06:42:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
       },
       {
         "rank": 3,
@@ -82,33 +82,32 @@
       },
       {
         "rank": 4,
-        "title": "Introducing Health In ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
+        "title": "Open Source Tax Engine outperforming gpt sol and Fable 5",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v4yh4j/open_source_tax_engine_outperforming_gpt_sol_and/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-24T06:42:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
+        "publishedAt": "2026-07-24T02:31:18.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "I've been measuring my $100 Pro Lite weekly limit. It dropped ~11% in the last 10 days (~$675 → ~$600 API-equivalent)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v4dr5l/ive_been_measuring_my_100_pro_lite_weekly_limit/",
+        "title": "Normal technology",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5axkd/normal_technology/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-23T13:20:31.000Z",
+        "publishedAt": "2026-07-24T13:08:28.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gz3zkxdgczeh1.png?width=640&crop=smart&auto=webp&s=2ba78eb06b53bcf2ccd846a1afe4d420fa6b5231"
+        "thumbnail": "https://preview.redd.it/lbnb6vekf6fh1.png?width=640&crop=smart&auto=webp&s=d467076bea7107a29a642df3c9ecf694c2b24a20"
       },
       {
         "rank": 1,
-        "title": "AGI achieved",
-        "url": "https://www.reddit.com/r/singularity/comments/1v4dcbr/agi_achieved/",
+        "title": "Microsoft, NVIDIA, Meta, IBM, Palantir and more released a joint letter warning Washington not to kill open-weight models",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5ahji/microsoft_nvidia_meta_ibm_palantir_and_more/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-23T13:03:54.000Z",
+        "publishedAt": "2026-07-24T12:50:30.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dzlwNzBwOXg5emVoMXVAnuzq98KdeHVVwqQxMa0H3rkg4a5qhVRXZLpGq1uL.png?width=640&crop=smart&auto=webp&s=5da9a769af2f42793b9c79b2a44b62325980d108"
+        "thumbnail": "https://preview.redd.it/pgoteuswa6fh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a59d628c71b69545dec2202466242ef47147b567"
       },
       {
         "rank": 2,
@@ -132,6 +131,16 @@
       },
       {
         "rank": 4,
+        "title": "Gary Marcus, June 1, 2022",
+        "url": "https://www.reddit.com/r/singularity/comments/1v546dp/gary_marcus_june_1_2022/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T07:18:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1apiiwdxo4fh1.png?width=640&crop=smart&auto=webp&s=1bc0721c59073bed99185f95a7ab7fdc07aebc16"
+      },
+      {
+        "rank": 5,
         "title": "Fields medalist Jacob Tsimerman joins OpenAI",
         "url": "https://www.reddit.com/r/singularity/comments/1v4p6qj/fields_medalist_jacob_tsimerman_joins_openai/",
         "source": "r/singularity",
@@ -139,16 +148,6 @@
         "publishedAt": "2026-07-23T20:09:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/38ryd4itd1fh1.png?width=640&crop=smart&auto=webp&s=af35b74f844733134f673ae1a0cb6d665eeb8fa3"
-      },
-      {
-        "rank": 5,
-        "title": "Kimi K3 performs significantly below the most recent frontier cyber-capable models on preliminary cyber evaluations run by UK AISI / CAISI.",
-        "url": "https://www.reddit.com/r/singularity/comments/1v4kned/kimi_k3_performs_significantly_below_the_most/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T17:30:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/5npmstVPJ-ArlgVSZDL6w-2H0VwRMvGSHF03ZGBB9bI.png?width=640&crop=smart&auto=webp&s=b3f6a7b01bae461920869bb8dea914b8cead93c4"
       },
       {
         "rank": 1,

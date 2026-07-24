@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T15:15:50.361Z",
+  "fetchedAt": "2026-07-24T17:08:49.499Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "Prompt Injection in NeurIPS 2026? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T16:34:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-23T21:07:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:15:16.000Z",
         "category": "reddit"
       },
       {
@@ -52,13 +52,13 @@
       },
       {
         "rank": 1,
-        "title": "Each provider has own issues!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
+        "title": "Jensen Huan created his official X account just to share his support for open models, an hour ago.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5duk6/jensen_huan_created_his_official_x_account_just/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-24T04:39:26.000Z",
+        "publishedAt": "2026-07-24T15:00:10.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
+        "thumbnail": "https://preview.redd.it/cvwyeq78z6fh1.png?width=320&crop=smart&auto=webp&s=a9e943919ea0fc78e41a12981e87c7beb1582727"
       },
       {
         "rank": 2,
@@ -72,6 +72,16 @@
       },
       {
         "rank": 3,
+        "title": "Each provider has own issues!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T04:39:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
+      },
+      {
+        "rank": 4,
         "title": "OpenAI is trying to conquer the office. Legal is next.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4p2ne/openai_is_trying_to_conquer_the_office_legal_is/",
         "source": "r/OpenAI",
@@ -81,23 +91,13 @@
         "thumbnail": "https://external-preview.redd.it/kzhJZzFivsI7cchfGS1qotQiZPcMgFsdhr_kE9IWIO4.jpeg?width=640&crop=smart&auto=webp&s=64b0d9008004ac5666942e55ec451ad50b43fe15"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Open Source Tax Engine outperforming gpt sol and Fable 5",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4yh4j/open_source_tax_engine_outperforming_gpt_sol_and/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-24T02:31:18.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Normal technology",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5axkd/normal_technology/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T13:08:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lbnb6vekf6fh1.png?width=640&crop=smart&auto=webp&s=d467076bea7107a29a642df3c9ecf694c2b24a20"
       },
       {
         "rank": 1,
@@ -131,6 +131,16 @@
       },
       {
         "rank": 4,
+        "title": "Jensen Huang has created an X account!",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5cj5m/jensen_huang_has_created_an_x_account/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T14:11:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fotq9x8vq6fh1.jpeg?width=640&crop=smart&auto=webp&s=ea9523281c4c49ace4ae837d0f3ed1c33e5f70a9"
+      },
+      {
+        "rank": 5,
         "title": "Gary Marcus, June 1, 2022",
         "url": "https://www.reddit.com/r/singularity/comments/1v546dp/gary_marcus_june_1_2022/",
         "source": "r/singularity",
@@ -138,16 +148,6 @@
         "publishedAt": "2026-07-24T07:18:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1apiiwdxo4fh1.png?width=640&crop=smart&auto=webp&s=1bc0721c59073bed99185f95a7ab7fdc07aebc16"
-      },
-      {
-        "rank": 5,
-        "title": "Fields medalist Jacob Tsimerman joins OpenAI",
-        "url": "https://www.reddit.com/r/singularity/comments/1v4p6qj/fields_medalist_jacob_tsimerman_joins_openai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T20:09:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/38ryd4itd1fh1.png?width=640&crop=smart&auto=webp&s=af35b74f844733134f673ae1a0cb6d665eeb8fa3"
       },
       {
         "rank": 1,

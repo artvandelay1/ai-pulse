@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-24T22:10:45.514Z",
+  "fetchedAt": "2026-07-24T23:36:09.443Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I made a Claude Code skill that turns a photo of your handwriting into an installable font",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55he0/i_made_a_claude_code_skill_that_turns_a_photo_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T08:33:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dWV1OHdoZGoyNWZoMQXeplFC2puhXHF02h_wByC9s0-51zcoqxxujsdsXjON.png?width=640&crop=smart&auto=webp&s=dedc839557a4f4c6bc6ee6e944ef7e5812c04163"
+      },
+      {
+        "rank": 2,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h6o9/introducing_claude_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T17:00:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4gpyd1of7fh1.png?width=140&height=140&auto=webp&s=2110d599637196398b8d90021a33adb89418c026"
+      },
+      {
+        "rank": 3,
+        "title": "Used claude to replay everybody that played my daily racing game yesterday at the same time",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4xc5j/used_claude_to_replay_everybody_that_played_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T01:38:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dW5xaXppNHh6MmZoMdMgqcuI7kQinO5tZCbZXjCzgBgJjSYCa_lY7rU5QbcX.png?width=640&crop=smart&auto=webp&s=25a4bb1880f480300e6193610fc68a7dce9ca793"
+      },
+      {
+        "rank": 4,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h4id/introducing_claude_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:58:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic cut 80% of Claude Code's system prompt for the Claude 5 models and published what should still go in your CLAUDE.md and skills",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5mhhl/anthropic_cut_80_of_claude_codes_system_prompt/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T20:08:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2i9TKA81xe9SC8YEtUCsWqKxNiD2FBAxl2l1hMMHTyQ.jpeg?width=640&crop=smart&auto=webp&s=15836a9a4c59794563fbb690f79ad184a4dc700e"
+      },
       {
         "rank": 1,
         "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
@@ -42,13 +91,52 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "What machine is best for my setup? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5jzkv/what_machine_is_best_for_my_setup_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "How many of us are hanging at 0% since last reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1v5d8xu/how_many_of_us_are_hanging_at_0_since_last_reset/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-24T18:38:39.000Z",
+        "publishedAt": "2026-07-24T14:38:15.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Possible GPT-5.6 Sol usage workaround: explicit tool batching cut weighted usage by 27–45% in my repeated tests",
+        "url": "https://www.reddit.com/r/codex/comments/1v4vcnr/possible_gpt56_sol_usage_workaround_explicit_tool/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T00:09:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "opus 5 just got released with half of the price of fable!!!",
+        "url": "https://www.reddit.com/r/codex/comments/1v5i3da/opus_5_just_got_released_with_half_of_the_price/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T17:31:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s2rirtheq7fh1.png?width=140&height=116&auto=webp&s=0fb695c9d4c4d1b0a4f8dc0b348ed87e5225b080"
+      },
+      {
+        "rank": 4,
+        "title": "Sol 5.6 High spent 23 minutes on a task that should have taken 30 seconds",
+        "url": "https://www.reddit.com/r/codex/comments/1v535no/sol_56_high_spent_23_minutes_on_a_task_that/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T06:22:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8qfaddw4f4fh1.png?width=140&height=69&auto=webp&s=9be128fff11a20de05eed150c6625237d720ac3b"
+      },
+      {
+        "rank": 5,
+        "title": "Lol I guess it's Tibo's time now to be on the other end of it(after Opus 5) OpenAI can only save itself now by releasing cerebras model and giving us full 1M context and keep the them banked ones coming else I am jumpting ship again to claude it was good while it lasted",
+        "url": "https://www.reddit.com/r/codex/comments/1v5mwx8/lol_i_guess_its_tibos_time_now_to_be_on_the_other/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T20:24:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wu4nkf7zk8fh1.png?width=640&crop=smart&auto=webp&s=b6e227f371b6d9d0539fd1e89cee718cd2a0db7e"
       },
       {
         "rank": 1,
@@ -147,102 +235,6 @@
         "publishedAt": "2026-07-24T14:11:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/fotq9x8vq6fh1.jpeg?width=640&crop=smart&auto=webp&s=ea9523281c4c49ace4ae837d0f3ed1c33e5f70a9"
-      },
-      {
-        "rank": 1,
-        "title": "I made a Claude Code skill that turns a photo of your handwriting into an installable font",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55he0/i_made_a_claude_code_skill_that_turns_a_photo_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T08:33:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dWV1OHdoZGoyNWZoMQXeplFC2puhXHF02h_wByC9s0-51zcoqxxujsdsXjON.png?width=640&crop=smart&auto=webp&s=dedc839557a4f4c6bc6ee6e944ef7e5812c04163"
-      },
-      {
-        "rank": 2,
-        "title": "Introducing Claude Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h6o9/introducing_claude_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T17:00:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i4gpyd1of7fh1.png?width=140&height=140&auto=webp&s=2110d599637196398b8d90021a33adb89418c026"
-      },
-      {
-        "rank": 3,
-        "title": "Used claude to replay everybody that played my daily racing game yesterday at the same time",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4xc5j/used_claude_to_replay_everybody_that_played_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T01:38:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dW5xaXppNHh6MmZoMdMgqcuI7kQinO5tZCbZXjCzgBgJjSYCa_lY7rU5QbcX.png?width=640&crop=smart&auto=webp&s=25a4bb1880f480300e6193610fc68a7dce9ca793"
-      },
-      {
-        "rank": 4,
-        "title": "What is the most expensive app that you or your company replaced by coding it yourself?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4rudf/what_is_the_most_expensive_app_that_you_or_your/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T21:47:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Introducing Claude Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h4id/introducing_claude_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T16:58:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "They live in their own bubble",
-        "url": "https://www.reddit.com/r/codex/comments/1v4uj8n/they_live_in_their_own_bubble/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-23T23:35:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ymtu1v1le2fh1.jpeg?width=640&crop=smart&auto=webp&s=654f910f59a9694c5479d7cf5032816f6224a8c5"
-      },
-      {
-        "rank": 2,
-        "title": "Possible GPT-5.6 Sol usage workaround: explicit tool batching cut weighted usage by 27–45% in my repeated tests",
-        "url": "https://www.reddit.com/r/codex/comments/1v4vcnr/possible_gpt56_sol_usage_workaround_explicit_tool/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T00:09:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How many of us are hanging at 0% since last reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1v5d8xu/how_many_of_us_are_hanging_at_0_since_last_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T14:38:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "opus 5 just got released with half of the price of fable!!!",
-        "url": "https://www.reddit.com/r/codex/comments/1v5i3da/opus_5_just_got_released_with_half_of_the_price/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T17:31:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s2rirtheq7fh1.png?width=140&height=116&auto=webp&s=0fb695c9d4c4d1b0a4f8dc0b348ed87e5225b080"
-      },
-      {
-        "rank": 5,
-        "title": "Sol 5.6 High spent 23 minutes on a task that should have taken 30 seconds",
-        "url": "https://www.reddit.com/r/codex/comments/1v535no/sol_56_high_spent_23_minutes_on_a_task_that/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T06:22:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8qfaddw4f4fh1.png?width=140&height=69&auto=webp&s=9be128fff11a20de05eed150c6625237d720ac3b"
       }
     ]
   }

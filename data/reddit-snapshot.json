@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T00:09:43.194Z",
+  "fetchedAt": "2026-07-24T03:56:43.926Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,24 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Prompt Injection in NeurIPS 2026? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T16:34:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T12:13:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
         "source": "r/MachineLearning",
@@ -33,16 +15,25 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
+        "rank": 2,
+        "title": "Prompt Injection in NeurIPS 2026? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-23T13:43:03.000Z",
+        "publishedAt": "2026-07-23T16:34:33.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-23T12:13:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
         "source": "r/MachineLearning",
@@ -51,17 +42,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "People who got their OpenAI made $230 mini keyboard, what are your reviews?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v42jyo/people_who_got_their_openai_made_230_mini/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-23T03:45:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3f64nnq8iweh1.png?width=640&crop=smart&auto=webp&s=3c3d28746b4502852c7e090eb4691eb203738015"
+        "publishedAt": "2026-07-23T13:43:03.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Elon's Tweet about OpenAI's Model",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v49v7c/elons_tweet_about_openais_model/",
         "source": "r/OpenAI",
@@ -71,7 +61,7 @@
         "thumbnail": "https://preview.redd.it/dfrfy2c7hyeh1.jpeg?width=640&crop=smart&auto=webp&s=02b12ccfdf4a8cf0368549a61655ee77135f9e3a"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Strange times",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v48v88/strange_times/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/qgjkjvxc7yeh1.png?width=640&crop=smart&auto=webp&s=c62ae001f137291cb6082e48a757c4e7e18a6e43"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ChatGPT hacked itself",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4627h/chatgpt_hacked_itself/",
         "source": "r/OpenAI",
@@ -91,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/td9a6ydxexeh1.jpeg?width=320&crop=smart&auto=webp&s=90f6de4118324a40e9eeebc774bcc71bf14cf2a1"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4bcxx/mathematicians_grapple_with_a_very_rapid_and_very/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-07-23T11:36:44.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/PYa6jGq2p5DpQnIVI0f4CT5v9NZZGwOaSFR8WUzrFBU.jpeg?width=640&crop=smart&auto=webp&s=398718565830233ee67006aaa90cc1ca96d7d00d"
+      },
+      {
+        "rank": 5,
+        "title": "Some of OpenAI's negative glassdoor reviews",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v4e7h9/some_of_openais_negative_glassdoor_reviews/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T13:38:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wr4k4zq4fzeh1.png?width=140&height=83&auto=webp&s=30ada9b36692c04e3990ec2bec06d823d7c38bf9"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T11:20:42.229Z",
+  "fetchedAt": "2026-07-24T13:02:42.289Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T12:13:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
         "source": "r/MachineLearning",
@@ -42,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "NeurIPS Meta Review - whats going on? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
         "source": "r/MachineLearning",
@@ -51,17 +42,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Mathematicians grapple with a ‘very rapid and very unsettling change’ as AI cracks yet another century-old problem",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v4bcxx/mathematicians_grapple_with_a_very_rapid_and_very/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "ACM MM 26 Registration [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-23T11:36:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/PYa6jGq2p5DpQnIVI0f4CT5v9NZZGwOaSFR8WUzrFBU.jpeg?width=640&crop=smart&auto=webp&s=398718565830233ee67006aaa90cc1ca96d7d00d"
+        "publishedAt": "2026-07-24T07:37:17.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Some of OpenAI's negative glassdoor reviews",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v4e7h9/some_of_openais_negative_glassdoor_reviews/",
         "source": "r/OpenAI",
@@ -69,6 +59,16 @@
         "publishedAt": "2026-07-23T13:38:36.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wr4k4zq4fzeh1.png?width=140&height=83&auto=webp&s=30ada9b36692c04e3990ec2bec06d823d7c38bf9"
+      },
+      {
+        "rank": 2,
+        "title": "Each provider has own issues!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T04:39:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
       },
       {
         "rank": 3,
@@ -82,16 +82,6 @@
       },
       {
         "rank": 4,
-        "title": "Each provider has own issues!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T04:39:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
-      },
-      {
-        "rank": 5,
         "title": "Introducing Health In ChatGPT",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-07-24T06:42:43.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
+      },
+      {
+        "rank": 5,
+        "title": "I've been measuring my $100 Pro Lite weekly limit. It dropped ~11% in the last 10 days (~$675 → ~$600 API-equivalent)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v4dr5l/ive_been_measuring_my_100_pro_lite_weekly_limit/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T13:20:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gz3zkxdgczeh1.png?width=640&crop=smart&auto=webp&s=2ba78eb06b53bcf2ccd846a1afe4d420fa6b5231"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T23:01:47.847Z",
+  "fetchedAt": "2026-07-24T00:09:43.194Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,20 +34,20 @@
       },
       {
         "rank": 4,
-        "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T21:07:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-23T13:43:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-23T21:07:12.000Z",
         "category": "reddit"
       },
       {
@@ -132,16 +132,6 @@
       },
       {
         "rank": 4,
-        "title": "I solved 6 open Erdős problems in 5 days",
-        "url": "https://www.reddit.com/r/singularity/comments/1v3xmuw/i_solved_6_open_erdős_problems_in_5_days/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T00:02:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n2b4ymcheveh1.png?width=640&crop=smart&auto=webp&s=61171f74ae17ac1e096761d3304dbd74772230ae"
-      },
-      {
-        "rank": 5,
         "title": "Anthropic Donates $20M for Stricter AI Regulations",
         "url": "https://www.reddit.com/r/singularity/comments/1v4nc6t/anthropic_donates_20m_for_stricter_ai_regulations/",
         "source": "r/singularity",
@@ -149,6 +139,16 @@
         "publishedAt": "2026-07-23T19:04:25.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/91gyqh4921fh1.jpeg?width=640&crop=smart&auto=webp&s=a72d55b64533ba2adef84cdb24b78fae6ff52a06"
+      },
+      {
+        "rank": 5,
+        "title": "Fields medalist Jacob Tsimerman joins OpenAI",
+        "url": "https://www.reddit.com/r/singularity/comments/1v4p6qj/fields_medalist_jacob_tsimerman_joins_openai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-23T20:09:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/38ryd4itd1fh1.png?width=640&crop=smart&auto=webp&s=af35b74f844733134f673ae1a0cb6d665eeb8fa3"
       },
       {
         "rank": 1,

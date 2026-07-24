@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T19:01:49.666Z",
+  "fetchedAt": "2026-07-24T20:39:08.534Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
-        "source": "r/MachineLearning",
+        "title": "I made a Claude Code skill that turns a photo of your handwriting into an installable font",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55he0/i_made_a_claude_code_skill_that_turns_a_photo_of/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-23T19:20:01.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-24T08:33:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dWV1OHdoZGoyNWZoMQXeplFC2puhXHF02h_wByC9s0-51zcoqxxujsdsXjON.png?width=640&crop=smart&auto=webp&s=dedc839557a4f4c6bc6ee6e944ef7e5812c04163"
       },
       {
         "rank": 2,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h6o9/introducing_claude_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T17:00:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4gpyd1of7fh1.png?width=140&height=140&auto=webp&s=2110d599637196398b8d90021a33adb89418c026"
+      },
+      {
+        "rank": 3,
+        "title": "Used claude to replay everybody that played my daily racing game yesterday at the same time",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4xc5j/used_claude_to_replay_everybody_that_played_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T01:38:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dW5xaXppNHh6MmZoMdMgqcuI7kQinO5tZCbZXjCzgBgJjSYCa_lY7rU5QbcX.png?width=640&crop=smart&auto=webp&s=25a4bb1880f480300e6193610fc68a7dce9ca793"
+      },
+      {
+        "rank": 4,
+        "title": "What is the most expensive app that you or your company replaced by coding it yourself?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4rudf/what_is_the_most_expensive_app_that_you_or_your/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-23T21:47:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h4id/introducing_claude_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:58:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
         "source": "r/MachineLearning",
@@ -24,7 +63,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
         "source": "r/MachineLearning",
@@ -33,7 +72,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
         "source": "r/MachineLearning",
@@ -42,13 +81,70 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "What machine is best for my setup? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5jzkv/what_machine_is_best_for_my_setup_d/",
+        "rank": 4,
+        "title": "NeurIPS Meta Review - whats going on? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-24T18:38:39.000Z",
+        "publishedAt": "2026-07-24T08:18:06.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ACM MM 26 Registration [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T07:37:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "They live in their own bubble",
+        "url": "https://www.reddit.com/r/codex/comments/1v4uj8n/they_live_in_their_own_bubble/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-23T23:35:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ymtu1v1le2fh1.jpeg?width=640&crop=smart&auto=webp&s=654f910f59a9694c5479d7cf5032816f6224a8c5"
+      },
+      {
+        "rank": 2,
+        "title": "Possible GPT-5.6 Sol usage workaround: explicit tool batching cut weighted usage by 27–45% in my repeated tests",
+        "url": "https://www.reddit.com/r/codex/comments/1v4vcnr/possible_gpt56_sol_usage_workaround_explicit_tool/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T00:09:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How many of us are hanging at 0% since last reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1v5d8xu/how_many_of_us_are_hanging_at_0_since_last_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T14:38:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "opus 5 just got released with half of the price of fable!!!",
+        "url": "https://www.reddit.com/r/codex/comments/1v5i3da/opus_5_just_got_released_with_half_of_the_price/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T17:31:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s2rirtheq7fh1.png?width=140&height=116&auto=webp&s=0fb695c9d4c4d1b0a4f8dc0b348ed87e5225b080"
+      },
+      {
+        "rank": 5,
+        "title": "Sol 5.6 High spent 23 minutes on a task that should have taken 30 seconds",
+        "url": "https://www.reddit.com/r/codex/comments/1v535no/sol_56_high_spent_23_minutes_on_a_task_that/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T06:22:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8qfaddw4f4fh1.png?width=140&height=69&auto=webp&s=9be128fff11a20de05eed150c6625237d720ac3b"
       },
       {
         "rank": 1,
@@ -148,102 +244,6 @@
         "publishedAt": "2026-07-24T17:01:57.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wtvjoqi8l7fh1.jpeg?width=640&crop=smart&auto=webp&s=f4fbd74e65b52c9ea12a839d6c55b19d8e151a12"
-      },
-      {
-        "rank": 1,
-        "title": "Warning: claiming the \"free $100 Fable 5 credits\" silently turns on paid usage billing (Pro plan)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3yk7a/warning_claiming_the_free_100_fable_5_credits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T00:43:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Claude Code just added native codebase security scanning",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v48e9x/claude_code_just_added_native_codebase_security/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T09:01:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tjefi31o2yeh1.jpeg?width=640&crop=smart&auto=webp&s=7ec3bd9bfff4e48bf6d585a748ccb3ae811b3dfb"
-      },
-      {
-        "rank": 3,
-        "title": "No longer shows full thinking?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3u707/no_longer_shows_full_thinking/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T21:44:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/24a18fbjpueh1.png?width=140&height=55&auto=webp&s=38d3abddedbab91c1e612f95ecde816cf07ee8d2"
-      },
-      {
-        "rank": 4,
-        "title": "Show us what you've created with Claude!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v3w5za/show_us_what_youve_created_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-22T23:01:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "i edited this video using fable 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4atkf/i_edited_this_video_using_fable_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-23T11:11:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dXI1cmx4bDZweWVoMTuhOsGuRCx6Dgw40j9-OivD7Zbg5h7n6JwoLZdmIKDA.png?width=640&crop=smart&auto=webp&s=7ba768f160be361a4182cf6e18669b939c88b45d"
-      },
-      {
-        "rank": 1,
-        "title": "We were fooled... I'm going back to Claude",
-        "url": "https://www.reddit.com/r/codex/comments/1v3x5hr/we_were_fooled_im_going_back_to_claude/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-22T23:42:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Codex Usage Limits and Performance Megathread",
-        "url": "https://www.reddit.com/r/codex/comments/1v42x6r/codex_usage_limits_and_performance_megathread/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-23T04:03:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What do you think is coming next?",
-        "url": "https://www.reddit.com/r/codex/comments/1v48bro/what_do_you_think_is_coming_next/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-23T08:57:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/69wtfe802yeh1.jpeg?width=640&crop=smart&auto=webp&s=eeb190a9e8c9545a00d95740a1d206af1d62625b"
-      },
-      {
-        "rank": 4,
-        "title": "So just another reset ? While the issue of usage remains unanswered",
-        "url": "https://www.reddit.com/r/codex/comments/1v43j9t/so_just_another_reset_while_the_issue_of_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-23T04:34:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z3rx1toyqweh1.jpeg?width=640&crop=smart&auto=webp&s=7e83a1226b04550ce9340ca11cd8fb4068d3d259"
-      },
-      {
-        "rank": 5,
-        "title": "I've been measuring my $100 Pro Lite weekly limit. It dropped ~11% in the last 10 days (~$675 → ~$600 API-equivalent)",
-        "url": "https://www.reddit.com/r/codex/comments/1v4ds6g/ive_been_measuring_my_100_pro_lite_weekly_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-23T13:21:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/va1xbmwzczeh1.png?width=640&crop=smart&auto=webp&s=37fb7547ce4787d21496a9e89e34f03c1811d606"
       }
     ]
   }

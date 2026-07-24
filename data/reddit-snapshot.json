@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T17:08:49.499Z",
+  "fetchedAt": "2026-07-24T19:01:49.666Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-23T21:07:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-24T16:15:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS E and D, Average rating 3 and average confidence 4, I can rebuttal and address all their concerns? Do I still have a decent shot or unlikely ?[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v4qrv9/neurips_e_and_d_average_rating_3_and_average/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-23T21:07:12.000Z",
         "category": "reddit"
       },
       {
@@ -43,11 +43,11 @@
       },
       {
         "rank": 5,
-        "title": "ACM MM 26 Registration [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
+        "title": "What machine is best for my setup? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5jzkv/what_machine_is_best_for_my_setup_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-24T07:37:17.000Z",
+        "publishedAt": "2026-07-24T18:38:39.000Z",
         "category": "reddit"
       },
       {
@@ -111,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "Anthropic Donates $20M for Stricter AI Regulations",
-        "url": "https://www.reddit.com/r/singularity/comments/1v4nc6t/anthropic_donates_20m_for_stricter_ai_regulations/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-23T19:04:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/91gyqh4921fh1.jpeg?width=640&crop=smart&auto=webp&s=a72d55b64533ba2adef84cdb24b78fae6ff52a06"
-      },
-      {
-        "rank": 3,
         "title": "Goodbye, cavities? New gel could regrow tooth enamel",
         "url": "https://www.reddit.com/r/singularity/comments/1v4x3mt/goodbye_cavities_new_gel_could_regrow_tooth_enamel/",
         "source": "r/singularity",
@@ -128,6 +118,16 @@
         "publishedAt": "2026-07-24T01:27:09.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/LV_QmhV0ifZ_fexgoi-EjAak3EYHU05bFGj-p2T39oQ.jpeg?width=640&crop=smart&auto=webp&s=988d5fa7322280dcb7d3769610fcdbec53bf2e6d"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic Donates $20M for Stricter AI Regulations",
+        "url": "https://www.reddit.com/r/singularity/comments/1v4nc6t/anthropic_donates_20m_for_stricter_ai_regulations/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-23T19:04:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/91gyqh4921fh1.jpeg?width=640&crop=smart&auto=webp&s=a72d55b64533ba2adef84cdb24b78fae6ff52a06"
       },
       {
         "rank": 4,
@@ -141,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Gary Marcus, June 1, 2022",
-        "url": "https://www.reddit.com/r/singularity/comments/1v546dp/gary_marcus_june_1_2022/",
+        "title": "Claude Opus 5 BENCHMARKS!",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5h8o6/claude_opus_5_benchmarks/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-24T07:18:20.000Z",
+        "publishedAt": "2026-07-24T17:01:57.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1apiiwdxo4fh1.png?width=640&crop=smart&auto=webp&s=1bc0721c59073bed99185f95a7ab7fdc07aebc16"
+        "thumbnail": "https://preview.redd.it/wtvjoqi8l7fh1.jpeg?width=640&crop=smart&auto=webp&s=f4fbd74e65b52c9ea12a839d6c55b19d8e151a12"
       },
       {
         "rank": 1,

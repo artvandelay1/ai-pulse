@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T19:15:44.521Z",
+  "fetchedAt": "2026-07-25T20:29:49.278Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-25T18:48:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Neurips Position Track Rebuttal and Reviews [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v5ykl8/neurips_position_track_rebuttal_and_reviews_r/",
         "source": "r/MachineLearning",
@@ -15,21 +24,12 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "I still didn't get my NeurIPS meta review [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v5wcy3/i_still_didnt_get_my_neurips_meta_review_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-25T03:02:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-25T18:48:18.000Z",
         "category": "reddit"
       },
       {
@@ -93,16 +93,6 @@
       },
       {
         "rank": 2,
-        "title": "You can't outrun this dog",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5mn72/you_cant_outrun_this_dog/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T20:14:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0"
-      },
-      {
-        "rank": 3,
         "title": "Opus 5 ARC AGI score was benchmaxxed",
         "url": "https://www.reddit.com/r/singularity/comments/1v66o8k/opus_5_arc_agi_score_was_benchmaxxed/",
         "source": "r/singularity",
@@ -112,7 +102,7 @@
         "thumbnail": "https://preview.redd.it/j5nlhihq9dfh1.png?width=640&crop=smart&auto=webp&s=592f2d4375907df7e7961da1ef012b37ec17dabd"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
         "url": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
         "source": "r/singularity",
@@ -122,7 +112,7 @@
         "thumbnail": "https://preview.redd.it/8urxtu2fl9fh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bea049f4575f9cf30c6196faef2db91646f24d5"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Opus 5 outperformed Fable 5 in 3D destruction physics",
         "url": "https://www.reddit.com/r/singularity/comments/1v5ujes/opus_5_outperformed_fable_5_in_3d_destruction/",
         "source": "r/singularity",
@@ -130,6 +120,16 @@
         "publishedAt": "2026-07-25T01:37:19.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/czhxZno3djM1YWZoMTTjMD2FegtP6DrkeNs7KDB8FUPzDcGlixGkL_s1hD7i.png?width=640&crop=smart&auto=webp&s=d9f5102bf0fd9f1851e3be7bc41286632b4c2c9a"
+      },
+      {
+        "rank": 5,
+        "title": "Delhi Police using AI facial recognition to track student protestors",
+        "url": "https://www.reddit.com/r/singularity/comments/1v68na1/delhi_police_using_ai_facial_recognition_to_track/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T13:37:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bG9oaDI3b3FwZGZoMaq3gUeVzfyu8gkaHOw8slRUs_KIyO1YIApJs1K5ZsWj.png?width=320&crop=smart&auto=webp&s=671e1568fb405821bdb7c733a1d9d0ba3d196453"
       },
       {
         "rank": 1,

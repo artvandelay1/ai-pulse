@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-07-25T08:13:43.304Z",
+  "fetchedAt": "2026-07-25T10:11:14.443Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h6o9/introducing_claude_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T17:00:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4gpyd1of7fh1.png?width=140&height=140&auto=webp&s=2110d599637196398b8d90021a33adb89418c026"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic cut 80% of Claude Code's system prompt for the Claude 5 models and published what should still go in your CLAUDE.md and skills",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5mhhl/anthropic_cut_80_of_claude_codes_system_prompt/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T20:08:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2i9TKA81xe9SC8YEtUCsWqKxNiD2FBAxl2l1hMMHTyQ.jpeg?width=640&crop=smart&auto=webp&s=15836a9a4c59794563fbb690f79ad184a4dc700e"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 results are really shocking!!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5le69/opus_5_results_are_really_shocking/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T19:28:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h4id/introducing_claude_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:58:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I don't know if anyone else has this impression of how Anthropic treats Haiku",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5rwld/i_dont_know_if_anyone_else_has_this_impression_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T23:40:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/d6ux2jffk9fh1.png?width=640&crop=smart&auto=webp&s=a65757fce95bf69ce639f74efe83b93805ea94d2"
+      },
       {
         "rank": 1,
         "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
@@ -25,6 +73,15 @@
       },
       {
         "rank": 3,
+        "title": "I still didn't get my NeurIPS meta review [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5wcy3/i_still_didnt_get_my_neurips_meta_review_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-25T03:02:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
         "source": "r/MachineLearning",
@@ -33,22 +90,52 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "NeurIPS Meta Review - whats going on? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "How many of us are hanging at 0% since last reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1v5d8xu/how_many_of_us_are_hanging_at_0_since_last_reset/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-24T08:18:06.000Z",
+        "publishedAt": "2026-07-24T14:38:15.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "I still didn't get my NeurIPS meta review [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5wcy3/i_still_didnt_get_my_neurips_meta_review_d/",
-        "source": "r/MachineLearning",
+        "rank": 2,
+        "title": "opus 5 just got released with half of the price of fable!!!",
+        "url": "https://www.reddit.com/r/codex/comments/1v5i3da/opus_5_just_got_released_with_half_of_the_price/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-25T03:02:33.000Z",
+        "publishedAt": "2026-07-24T17:31:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s2rirtheq7fh1.png?width=140&height=116&auto=webp&s=0fb695c9d4c4d1b0a4f8dc0b348ed87e5225b080"
+      },
+      {
+        "rank": 3,
+        "title": "I want to personally thank Sam Altman for all those resets to celebrate our new lower limits",
+        "url": "https://www.reddit.com/r/codex/comments/1v5s7y9/i_want_to_personally_thank_sam_altman_for_all/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-24T23:54:29.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Incoming reset",
+        "url": "https://www.reddit.com/r/codex/comments/1v5x9lg/incoming_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-25T03:46:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x3ovcjr8safh1.png?width=640&crop=smart&auto=webp&s=d9dab4e91c51d6bb525a268700bf68c82aacbe70"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo floated a /slow mode using batch compute two months ago. Would you trade latency for significantly more Codex usage?",
+        "url": "https://www.reddit.com/r/codex/comments/1v5xkyt/tibo_floated_a_slow_mode_using_batch_compute_two/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-25T04:01:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bh050vl1vafh1.jpeg?width=640&crop=smart&auto=webp&s=4e57a8a0dcdf1c41d681d57f3c13db2e58fe71e8"
       },
       {
         "rank": 1,
@@ -148,103 +235,6 @@
         "publishedAt": "2026-07-24T17:05:23.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/j21p14vtl7fh1.jpeg?width=640&crop=smart&auto=webp&s=b48d44e935296936d8961900ca425b3fcd28f553"
-      },
-      {
-        "rank": 1,
-        "title": "I made a Claude Code skill that turns a photo of your handwriting into an installable font",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v55he0/i_made_a_claude_code_skill_that_turns_a_photo_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T08:33:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dWV1OHdoZGoyNWZoMQXeplFC2puhXHF02h_wByC9s0-51zcoqxxujsdsXjON.png?width=640&crop=smart&auto=webp&s=dedc839557a4f4c6bc6ee6e944ef7e5812c04163"
-      },
-      {
-        "rank": 2,
-        "title": "Introducing Claude Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h6o9/introducing_claude_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T17:00:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i4gpyd1of7fh1.png?width=140&height=140&auto=webp&s=2110d599637196398b8d90021a33adb89418c026"
-      },
-      {
-        "rank": 3,
-        "title": "Used claude to replay everybody that played my daily racing game yesterday at the same time",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v4xc5j/used_claude_to_replay_everybody_that_played_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T01:38:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dW5xaXppNHh6MmZoMdMgqcuI7kQinO5tZCbZXjCzgBgJjSYCa_lY7rU5QbcX.png?width=640&crop=smart&auto=webp&s=25a4bb1880f480300e6193610fc68a7dce9ca793"
-      },
-      {
-        "rank": 4,
-        "title": "Introducing Claude Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5h4id/introducing_claude_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T16:58:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic cut 80% of Claude Code's system prompt for the Claude 5 models and published what should still go in your CLAUDE.md and skills",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v5mhhl/anthropic_cut_80_of_claude_codes_system_prompt/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T20:08:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2i9TKA81xe9SC8YEtUCsWqKxNiD2FBAxl2l1hMMHTyQ.jpeg?width=640&crop=smart&auto=webp&s=15836a9a4c59794563fbb690f79ad184a4dc700e"
-      },
-      {
-        "rank": 1,
-        "title": "How many of us are hanging at 0% since last reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1v5d8xu/how_many_of_us_are_hanging_at_0_since_last_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T14:38:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Possible GPT-5.6 Sol usage workaround: explicit tool batching cut weighted usage by 27–45% in my repeated tests",
-        "url": "https://www.reddit.com/r/codex/comments/1v4vcnr/possible_gpt56_sol_usage_workaround_explicit_tool/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T00:09:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "opus 5 just got released with half of the price of fable!!!",
-        "url": "https://www.reddit.com/r/codex/comments/1v5i3da/opus_5_just_got_released_with_half_of_the_price/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T17:31:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s2rirtheq7fh1.png?width=140&height=116&auto=webp&s=0fb695c9d4c4d1b0a4f8dc0b348ed87e5225b080"
-      },
-      {
-        "rank": 4,
-        "title": "Sol 5.6 High spent 23 minutes on a task that should have taken 30 seconds",
-        "url": "https://www.reddit.com/r/codex/comments/1v535no/sol_56_high_spent_23_minutes_on_a_task_that/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T06:22:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8qfaddw4f4fh1.png?width=140&height=69&auto=webp&s=9be128fff11a20de05eed150c6625237d720ac3b"
-      },
-      {
-        "rank": 5,
-        "title": "Lol I guess it's Tibo's time now to be on the other end of it(after Opus 5) OpenAI can only save itself now by releasing cerebras model and giving us full 1M context and keep the them banked ones coming else I am jumpting ship again to claude it was good while it lasted",
-        "url": "https://www.reddit.com/r/codex/comments/1v5mwx8/lol_i_guess_its_tibos_time_now_to_be_on_the_other/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-24T20:24:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wu4nkf7zk8fh1.png?width=640&crop=smart&auto=webp&s=b6e227f371b6d9d0539fd1e89cee718cd2a0db7e"
       }
     ]
   }

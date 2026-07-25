@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T05:50:47.263Z",
+  "fetchedAt": "2026-07-25T08:13:43.304Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "ACM MM 26 Registration [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T07:37:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Neurips Position Track Rebuttal and Reviews [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v5ykl8/neurips_position_track_rebuttal_and_reviews_r/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "NeurIPS Meta Review - whats going on? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-24T08:18:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I still didn't get my NeurIPS meta review [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5wcy3/i_still_didnt_get_my_neurips_meta_review_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-25T03:02:33.000Z",
         "category": "reddit"
       },
       {
@@ -72,16 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "Introducing Health In ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T06:42:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
-      },
-      {
-        "rank": 4,
         "title": "Normal technology",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v5axkd/normal_technology/",
         "source": "r/OpenAI",
@@ -91,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/lbnb6vekf6fh1.png?width=640&crop=smart&auto=webp&s=d467076bea7107a29a642df3c9ecf694c2b24a20"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v5c6i0/more_than_20_companies_including_nvidia_meta/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-07-24T13:58:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0uu6emjco6fh1.jpeg?width=640&crop=smart&auto=webp&s=8999f897ec4afea2fcf8b1b450c7308e4895c05b"
+      },
+      {
+        "rank": 5,
+        "title": "First time seeing this notification while using 5.6 Sol extra high model in Chat",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5eglc/first_time_seeing_this_notification_while_using/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T15:22:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p7ljkvxk37fh1.jpeg?width=640&crop=smart&auto=webp&s=1515efb329f71a16dad4cbaf0c87eae6c99e1b62"
       },
       {
         "rank": 1,

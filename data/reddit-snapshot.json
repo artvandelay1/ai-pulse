@@ -1,10 +1,136 @@
 {
-  "fetchedAt": "2026-07-25T11:48:10.894Z",
+  "fetchedAt": "2026-07-25T13:45:41.446Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:15:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Neurips Position Track Rebuttal and Reviews [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5ykl8/neurips_position_track_rebuttal_and_reviews_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-25T04:52:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I still didn't get my NeurIPS meta review [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5wcy3/i_still_didnt_get_my_neurips_meta_review_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-25T03:02:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Jensen Huan created his official X account just to share his support for open models, an hour ago.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5duk6/jensen_huan_created_his_official_x_account_just/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T15:00:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cvwyeq78z6fh1.png?width=320&crop=smart&auto=webp&s=a9e943919ea0fc78e41a12981e87c7beb1582727"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI refuses to sign letter supporting Open weight models.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5qba5/openai_refuses_to_sign_letter_supporting_open/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T22:33:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h7jsqdkg89fh1.png?width=640&crop=smart&auto=webp&s=5de86d360cc72bfa79fde21b767b142f2cd65264"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI signed the letter supporting Open Source Models.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v6156h/openai_signed_the_letter_supporting_open_source/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-25T07:06:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q62nmob0sbfh1.jpeg?width=640&crop=smart&auto=webp&s=0e2956a4e5a7655b75d6275ead2b1c77cd419fb5"
+      },
+      {
+        "rank": 4,
+        "title": "More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5c6i0/more_than_20_companies_including_nvidia_meta/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T13:58:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0uu6emjco6fh1.jpeg?width=640&crop=smart&auto=webp&s=8999f897ec4afea2fcf8b1b450c7308e4895c05b"
+      },
+      {
+        "rank": 5,
+        "title": "Bro...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v635n9/bro/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-25T09:01:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/clzpk5kjccfh1.png?width=640&crop=smart&auto=webp&s=e4375fe212d513f8d61e9da00ec8ddd6e3ad3f52"
+      },
+      {
+        "rank": 1,
+        "title": "You can't outrun this dog",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5mn72/you_cant_outrun_this_dog/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T20:14:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0"
+      },
+      {
+        "rank": 2,
+        "title": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
+        "url": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T06:34:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e"
+      },
+      {
+        "rank": 3,
+        "title": "Claude Opus 5 BENCHMARKS!",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5h8o6/claude_opus_5_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T17:01:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wtvjoqi8l7fh1.jpeg?width=640&crop=smart&auto=webp&s=f4fbd74e65b52c9ea12a839d6c55b19d8e151a12"
+      },
+      {
+        "rank": 4,
+        "title": "Introducing Claude Opus 5",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5h4xc/introducing_claude_opus_5/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T16:58:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-24T23:46:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8urxtu2fl9fh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bea049f4575f9cf30c6196faef2db91646f24d5"
+      },
       {
         "rank": 1,
         "title": "Introducing Claude Opus 5",
@@ -55,42 +181,6 @@
       },
       {
         "rank": 1,
-        "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T16:15:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Neurips Position Track Rebuttal and Reviews [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5ykl8/neurips_position_track_rebuttal_and_reviews_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-25T04:52:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I still didn't get my NeurIPS meta review [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5wcy3/i_still_didnt_get_my_neurips_meta_review_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-25T03:02:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T12:15:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "How many of us are hanging at 0% since last reset?",
         "url": "https://www.reddit.com/r/codex/comments/1v5d8xu/how_many_of_us_are_hanging_at_0_since_last_reset/",
         "source": "r/codex",
@@ -136,105 +226,6 @@
         "publishedAt": "2026-07-25T04:01:50.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/bh050vl1vafh1.jpeg?width=640&crop=smart&auto=webp&s=4e57a8a0dcdf1c41d681d57f3c13db2e58fe71e8"
-      },
-      {
-        "rank": 1,
-        "title": "Jensen Huan created his official X account just to share his support for open models, an hour ago.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5duk6/jensen_huan_created_his_official_x_account_just/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T15:00:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cvwyeq78z6fh1.png?width=320&crop=smart&auto=webp&s=a9e943919ea0fc78e41a12981e87c7beb1582727"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI refuses to sign letter supporting Open weight models.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5qba5/openai_refuses_to_sign_letter_supporting_open/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T22:33:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h7jsqdkg89fh1.png?width=640&crop=smart&auto=webp&s=5de86d360cc72bfa79fde21b767b142f2cd65264"
-      },
-      {
-        "rank": 3,
-        "title": "Normal technology",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5axkd/normal_technology/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T13:08:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lbnb6vekf6fh1.png?width=640&crop=smart&auto=webp&s=d467076bea7107a29a642df3c9ecf694c2b24a20"
-      },
-      {
-        "rank": 4,
-        "title": "More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5c6i0/more_than_20_companies_including_nvidia_meta/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T13:58:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0uu6emjco6fh1.jpeg?width=640&crop=smart&auto=webp&s=8999f897ec4afea2fcf8b1b450c7308e4895c05b"
-      },
-      {
-        "rank": 5,
-        "title": "First time seeing this notification while using 5.6 Sol extra high model in Chat",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5eglc/first_time_seeing_this_notification_while_using/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T15:22:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p7ljkvxk37fh1.jpeg?width=640&crop=smart&auto=webp&s=1515efb329f71a16dad4cbaf0c87eae6c99e1b62"
-      },
-      {
-        "rank": 1,
-        "title": "Microsoft, NVIDIA, Meta, IBM, Palantir and more released a joint letter warning Washington not to kill open-weight models",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5ahji/microsoft_nvidia_meta_ibm_palantir_and_more/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T12:50:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pgoteuswa6fh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=a59d628c71b69545dec2202466242ef47147b567"
-      },
-      {
-        "rank": 2,
-        "title": "You can't outrun this dog",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5mn72/you_cant_outrun_this_dog/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T20:14:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0"
-      },
-      {
-        "rank": 3,
-        "title": "Claude Opus 5 BENCHMARKS!",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5h8o6/claude_opus_5_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T17:01:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wtvjoqi8l7fh1.jpeg?width=640&crop=smart&auto=webp&s=f4fbd74e65b52c9ea12a839d6c55b19d8e151a12"
-      },
-      {
-        "rank": 4,
-        "title": "Introducing Claude Opus 5",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5h4xc/introducing_claude_opus_5/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T16:58:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5 scores 30.2% on ARC-AGI 3 !",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5hc2s/opus_5_scores_302_on_arcagi_3/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T17:05:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j21p14vtl7fh1.jpeg?width=640&crop=smart&auto=webp&s=b48d44e935296936d8961900ca425b3fcd28f553"
       }
     ]
   }

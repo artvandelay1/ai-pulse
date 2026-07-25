@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T02:58:41.111Z",
+  "fetchedAt": "2026-07-25T05:50:47.263Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS Meta Review - whats going on? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-24T08:18:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "ACM MM 26 Registration [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v54i9j/acm_mm_26_registration_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-24T07:37:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Neurips Position Track Rebuttal and Reviews [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5ykl8/neurips_position_track_rebuttal_and_reviews_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-25T04:52:02.000Z",
         "category": "reddit"
       },
       {
@@ -39,6 +39,15 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-24T12:15:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS Meta Review - whats going on? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v5586m/neurips_meta_review_whats_going_on_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-24T08:18:06.000Z",
         "category": "reddit"
       },
       {
@@ -53,26 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "Introducing Health In ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T06:42:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
-      },
-      {
-        "rank": 3,
-        "title": "Each provider has own issues!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5154q/each_provider_has_own_issues/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-24T04:39:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nnvnz9fkw3fh1.png?width=640&crop=smart&auto=webp&s=0420facd110d4a3c7be4792405345898e85d89ba"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI refuses to sign letter supporting Open weight models.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v5qba5/openai_refuses_to_sign_letter_supporting_open/",
         "source": "r/OpenAI",
@@ -82,7 +71,17 @@
         "thumbnail": "https://preview.redd.it/h7jsqdkg89fh1.png?width=640&crop=smart&auto=webp&s=5de86d360cc72bfa79fde21b767b142f2cd65264"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "title": "Introducing Health In ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v53inh/introducing_health_in_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T06:42:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hwtop4soi4fh1.png?width=640&crop=smart&auto=webp&s=b1dfe52fe413bf40ec21d4dc517efaf0039e5b66"
+      },
+      {
+        "rank": 4,
         "title": "Normal technology",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v5axkd/normal_technology/",
         "source": "r/OpenAI",
@@ -90,6 +89,16 @@
         "publishedAt": "2026-07-24T13:08:28.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/lbnb6vekf6fh1.png?width=640&crop=smart&auto=webp&s=d467076bea7107a29a642df3c9ecf694c2b24a20"
+      },
+      {
+        "rank": 5,
+        "title": "More than 20 companies including NVIDIA, Meta, Microsoft, Palantir, and Hugging Face have signed a letter urging policymakers to avoid premature restrictions on open weight models",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v5c6i0/more_than_20_companies_including_nvidia_meta/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-24T13:58:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0uu6emjco6fh1.jpeg?width=640&crop=smart&auto=webp&s=8999f897ec4afea2fcf8b1b450c7308e4895c05b"
       },
       {
         "rank": 1,

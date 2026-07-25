@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T16:28:47.150Z",
+  "fetchedAt": "2026-07-25T17:35:41.262Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -30,15 +30,6 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-25T16:09:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What are real use-cases right now for custom models and model training for big corporations that have real business value? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6cc5v/what_are_real_usecases_right_now_for_custom/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-25T16:08:42.000Z",
         "category": "reddit"
       },
       {
@@ -91,16 +82,6 @@
       },
       {
         "rank": 1,
-        "title": "You can't outrun this dog",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5mn72/you_cant_outrun_this_dog/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T20:14:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0"
-      },
-      {
-        "rank": 2,
         "title": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
         "url": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
         "source": "r/singularity",
@@ -110,26 +91,27 @@
         "thumbnail": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e"
       },
       {
-        "rank": 3,
-        "title": "Claude Opus 5 BENCHMARKS!",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5h8o6/claude_opus_5_benchmarks/",
+        "rank": 2,
+        "title": "You can't outrun this dog",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5mn72/you_cant_outrun_this_dog/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-24T17:01:57.000Z",
+        "publishedAt": "2026-07-24T20:14:33.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wtvjoqi8l7fh1.jpeg?width=640&crop=smart&auto=webp&s=f4fbd74e65b52c9ea12a839d6c55b19d8e151a12"
+        "thumbnail": "https://external-preview.redd.it/bXpoOTR3dW5qOGZoMcdflpYokuoIBuWwxW_hF9CdG_T6a_vYwgBrXqFLW1GQ.png?width=640&crop=smart&auto=webp&s=152bd01a9cb2d61accc99dd2db981ab460e44ce0"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 ARC AGI score was benchmaxxed",
+        "url": "https://www.reddit.com/r/singularity/comments/1v66o8k/opus_5_arc_agi_score_was_benchmaxxed/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T12:08:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j5nlhihq9dfh1.png?width=640&crop=smart&auto=webp&s=592f2d4375907df7e7961da1ef012b37ec17dabd"
       },
       {
         "rank": 4,
-        "title": "Introducing Claude Opus 5",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5h4xc/introducing_claude_opus_5/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T16:58:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
         "url": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
         "source": "r/singularity",
@@ -137,6 +119,16 @@
         "publishedAt": "2026-07-24T23:46:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8urxtu2fl9fh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bea049f4575f9cf30c6196faef2db91646f24d5"
+      },
+      {
+        "rank": 5,
+        "title": "Opus 5 outperformed Fable 5 in 3D destruction physics",
+        "url": "https://www.reddit.com/r/singularity/comments/1v5ujes/opus_5_outperformed_fable_5_in_3d_destruction/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T01:37:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/czhxZno3djM1YWZoMTTjMD2FegtP6DrkeNs7KDB8FUPzDcGlixGkL_s1hD7i.png?width=640&crop=smart&auto=webp&s=d9f5102bf0fd9f1851e3be7bc41286632b4c2c9a"
       },
       {
         "rank": 1,

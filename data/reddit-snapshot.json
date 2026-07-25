@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T17:35:41.262Z",
+  "fetchedAt": "2026-07-25T19:15:44.521Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,11 +25,11 @@
       },
       {
         "rank": 3,
-        "title": "Why first person video may matter for robot learning[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6cd5j/why_first_person_video_may_matter_for_robot/",
+        "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-25T16:09:54.000Z",
+        "publishedAt": "2026-07-25T18:48:18.000Z",
         "category": "reddit"
       },
       {
@@ -54,6 +54,16 @@
       },
       {
         "rank": 3,
+        "title": "Anonymous OpenAI staffer: \"Externally, this feels like a big warning shot, but internally, related incidents have been happening for a while.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v69yqi/anonymous_openai_staffer_externally_this_feels/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-25T14:31:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vp7r7zbfzdfh1.png?width=640&crop=smart&auto=webp&s=08f3807c3b06cd40df4594443b7f7e7aee630159"
+      },
+      {
+        "rank": 4,
         "title": "Bro...",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v635n9/bro/",
         "source": "r/OpenAI",
@@ -63,21 +73,12 @@
         "thumbnail": "https://preview.redd.it/clzpk5kjccfh1.png?width=640&crop=smart&auto=webp&s=e4375fe212d513f8d61e9da00ec8ddd6e3ad3f52"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Anyone else can log in anymore? Says primaryapi_server_error",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v6396e/anyone_else_can_log_in_anymore_says_primaryapi/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-25T09:07:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is Open AI API down?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v63d5m/is_open_ai_api_down/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-25T09:13:07.000Z",
         "category": "reddit"
       },
       {

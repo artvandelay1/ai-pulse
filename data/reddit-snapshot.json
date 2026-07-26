@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T17:36:13.796Z",
+  "fetchedAt": "2026-07-26T19:19:11.988Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "You can view a lot of shared conversations via Google.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-25T18:11:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ftk2x1nl2ffh1.png?width=640&crop=smart&auto=webp&s=ff9e8c63bc0ba6e6c86f8681bb19fde2d2706105"
-      },
-      {
-        "rank": 2,
         "title": "Used Claude to fight a $1,200 medical bill. It drafted the letter. The bill got cut to $180.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6zx6v/used_claude_to_fight_a_1200_medical_bill_it/",
         "source": "r/ClaudeAI",
@@ -25,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Used claude to replay over 3000 users that played my daily racing game yesterday at the same time",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6p0gp/used_claude_to_replay_over_3000_users_that_played/",
         "source": "r/ClaudeAI",
@@ -35,7 +25,7 @@
         "thumbnail": "https://external-preview.redd.it/eDRscnJuejYwaGZoMcZpkCz7_5euvfPBrHT4rnNHg_3W4DHFExAMHDceuwhS.png?width=640&crop=smart&auto=webp&s=79fff2bf1d414dcdefd4069979c143b536a6d16d"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Whelp",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6tc8h/whelp/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "thumbnail": "https://preview.redd.it/zne1airo2ifh1.png?width=640&crop=smart&auto=webp&s=31ed5e9fb7900f7435ba5906ddbef98d14fec87b"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "You can also view a lot of shared artifacts.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6yk7d/you_can_also_view_a_lot_of_shared_artifacts/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-07-26T09:02:13.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/cd0yngojhjfh1.jpeg?width=640&crop=smart&auto=webp&s=f3d2fb4736b033e1c6cd9e4e1a6d4d0c4a19576b"
+      },
+      {
+        "rank": 5,
+        "title": "Opus 5 is VERY good at blender & 3D!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6pvby/opus_5_is_very_good_at_blender_3d/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-26T01:26:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nhfoqiij7hfh1.png?width=140&height=78&auto=webp&s=f9bb405a0f5e00f48f52a13abbcfd3e1cd2d3626"
       },
       {
         "rank": 1,
@@ -66,15 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-25T18:48:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Link plots/figures in NeurIPS rebuttal [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v6qt8l/link_plotsfigures_in_neurips_rebuttal_r/",
         "source": "r/MachineLearning",
@@ -83,7 +74,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
         "source": "r/MachineLearning",
@@ -92,7 +83,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "We compared different LLMs on IMO 2026 [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
         "source": "r/MachineLearning",
@@ -101,7 +92,25 @@
         "category": "reddit"
       },
       {
+        "rank": 5,
+        "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T11:58:39.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
+        "title": "I can't believe im saying this but currently CC has more usa*e than Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1v6m9qc/i_cant_believe_im_saying_this_but_currently_cc/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-25T22:42:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Reset is in",
         "url": "https://www.reddit.com/r/codex/comments/1v6he1d/reset_is_in/",
         "source": "r/codex",
@@ -109,15 +118,6 @@
         "publishedAt": "2026-07-25T19:23:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/16hwc55ffffh1.png?width=640&crop=smart&auto=webp&s=9a63d95e15dbe4df2e1c3f0a5f64b9ec2e919269"
-      },
-      {
-        "rank": 2,
-        "title": "I can't believe im saying this but currently CC has more usa*e than Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1v6m9qc/i_cant_believe_im_saying_this_but_currently_cc/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-25T22:42:41.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,
@@ -131,12 +131,13 @@
       },
       {
         "rank": 4,
-        "title": "What happend?",
-        "url": "https://www.reddit.com/r/codex/comments/1v6gb87/what_happend/",
+        "title": "Codex removed the 5-hour limit… and gave it a weekly nametag",
+        "url": "https://www.reddit.com/r/codex/comments/1v71chi/codex_removed_the_5hour_limit_and_gave_it_a/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-25T18:42:00.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-26T11:31:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7m9a28uy7kfh1.png?width=640&crop=smart&auto=webp&s=47cc86275abf02c5915321c333a61a0ee6b04c1f"
       },
       {
         "rank": 5,

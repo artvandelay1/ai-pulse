@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T14:40:50.166Z",
+  "fetchedAt": "2026-07-26T16:06:43.714Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,20 +35,20 @@
       },
       {
         "rank": 4,
-        "title": "Understanding GPU Inference Workloads [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6sjiu/understanding_gpu_inference_workloads_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T03:37:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-26T11:58:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "We compared different LLMs on IMO 2026 [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T07:21:40.000Z",
         "category": "reddit"
       },
       {
@@ -101,16 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "With Google and OpenAI signing the letter in support of open weight model, it's pretty much every big tech companies vs Anthropic now",
-        "url": "https://www.reddit.com/r/singularity/comments/1v6n1uk/with_google_and_openai_signing_the_letter_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-25T23:17:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ack9wv1zkgfh1.png?width=640&crop=smart&auto=webp&s=3a31c7d19883f36fb813610177633ddaf75e4012"
-      },
-      {
-        "rank": 2,
         "title": "Opus 5 built a procedural painterly world with wind-reactive grass, all in one HTML file",
         "url": "https://www.reddit.com/r/singularity/comments/1v6o465/opus_5_built_a_procedural_painterly_world_with/",
         "source": "r/singularity",
@@ -118,6 +108,16 @@
         "publishedAt": "2026-07-26T00:04:46.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/aGkxNnVxbmt0Z2ZoMf9lhUDE0bRYfNRP2RoLnDO8Mb0CWZbzCqiWjbwyjP2s.png?width=640&crop=smart&auto=webp&s=996caa78f543be03b2e60aa15733534321f9f0ec"
+      },
+      {
+        "rank": 2,
+        "title": "With Google and OpenAI signing the letter in support of open weight model, it's pretty much every big tech companies vs Anthropic now",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6n1uk/with_google_and_openai_signing_the_letter_in/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T23:17:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ack9wv1zkgfh1.png?width=640&crop=smart&auto=webp&s=3a31c7d19883f36fb813610177633ddaf75e4012"
       },
       {
         "rank": 3,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T21:33:10.538Z",
+  "fetchedAt": "2026-07-26T23:04:13.816Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -46,13 +46,12 @@
       },
       {
         "rank": 5,
-        "title": "Opus 5 is VERY good at blender & 3D!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6pvby/opus_5_is_very_good_at_blender_3d/",
+        "title": "Claude ran mock interviews for a job I badly wanted. The real one felt like a rerun. I got it.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7fo9i/claude_ran_mock_interviews_for_a_job_i_badly/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-26T01:26:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nhfoqiij7hfh1.png?width=140&height=78&auto=webp&s=f9bb405a0f5e00f48f52a13abbcfd3e1cd2d3626"
+        "publishedAt": "2026-07-26T20:49:06.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -84,6 +83,15 @@
       },
       {
         "rank": 4,
+        "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T11:58:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "We compared different LLMs on IMO 2026 [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
         "source": "r/MachineLearning",
@@ -93,25 +101,7 @@
         "thumbnail": "https://preview.redd.it/fy4ayale5nfh1.png?width=140&height=73&auto=webp&s=473d0bc0475a2513ba0bb7106f245288abfeef5f"
       },
       {
-        "rank": 5,
-        "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T11:58:39.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "I can't believe im saying this but currently CC has more usa*e than Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1v6m9qc/i_cant_believe_im_saying_this_but_currently_cc/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-25T22:42:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "I think I actually figured why we're all \"hating\" codex right now.",
         "url": "https://www.reddit.com/r/codex/comments/1v73uws/i_think_i_actually_figured_why_were_all_hating/",
         "source": "r/codex",
@@ -119,6 +109,16 @@
         "publishedAt": "2026-07-26T13:25:32.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/a7cx0wrfskfh1.png?width=140&height=94&auto=webp&s=54d49a232174d99f71a80079a2944f7a13eb9135"
+      },
+      {
+        "rank": 2,
+        "title": "Codex removed the 5-hour limit… and gave it a weekly nametag",
+        "url": "https://www.reddit.com/r/codex/comments/1v71chi/codex_removed_the_5hour_limit_and_gave_it_a/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-26T11:31:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7m9a28uy7kfh1.png?width=640&crop=smart&auto=webp&s=47cc86275abf02c5915321c333a61a0ee6b04c1f"
       },
       {
         "rank": 3,
@@ -131,16 +131,6 @@
       },
       {
         "rank": 4,
-        "title": "Codex removed the 5-hour limit… and gave it a weekly nametag",
-        "url": "https://www.reddit.com/r/codex/comments/1v71chi/codex_removed_the_5hour_limit_and_gave_it_a/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-26T11:31:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7m9a28uy7kfh1.png?width=640&crop=smart&auto=webp&s=47cc86275abf02c5915321c333a61a0ee6b04c1f"
-      },
-      {
-        "rank": 5,
         "title": "IT'S COMING: Cerebras-5.6-Sol in July",
         "url": "https://www.reddit.com/r/codex/comments/1v6mxpx/its_coming_cerebras56sol_in_july/",
         "source": "r/codex",
@@ -148,6 +138,16 @@
         "publishedAt": "2026-07-25T23:12:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dmvfai8ligfh1.png?width=640&crop=smart&auto=webp&s=50151a8d117d00b20da275bddd4123873f094494"
+      },
+      {
+        "rank": 5,
+        "title": "From a dev who tried it all: How to actually get most of codex",
+        "url": "https://www.reddit.com/r/codex/comments/1v7cvw6/from_a_dev_who_tried_it_all_how_to_actually_get/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-26T19:04:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/muIldsp-fS62sz0dYBoLsfyY-r_aa-9f3Hqlil8t0hU.png?width=140&height=70&auto=webp&s=02848b35084d679d3626dbfb33836e3b335b51c7"
       },
       {
         "rank": 1,

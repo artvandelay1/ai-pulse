@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T22:33:44.555Z",
+  "fetchedAt": "2026-07-26T00:04:43.469Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -33,17 +33,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "OpenAI refuses to sign letter supporting Open weight models.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v5qba5/openai_refuses_to_sign_letter_supporting_open/",
-        "source": "r/OpenAI",
+        "rank": 4,
+        "title": "Need Arxiv endorsement for CS.LG to publish a preprint about Learning Stable Latent Manifolds from noisy sensor data /Observation space [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6m081/need_arxiv_endorsement_for_cslg_to_publish_a/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-24T22:33:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h7jsqdkg89fh1.png?width=640&crop=smart&auto=webp&s=5de86d360cc72bfa79fde21b767b142f2cd65264"
+        "publishedAt": "2026-07-25T22:31:11.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "OpenAI signed the letter supporting Open Source Models.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v6156h/openai_signed_the_letter_supporting_open_source/",
         "source": "r/OpenAI",
@@ -53,7 +52,7 @@
         "thumbnail": "https://preview.redd.it/q62nmob0sbfh1.jpeg?width=640&crop=smart&auto=webp&s=0e2956a4e5a7655b75d6275ead2b1c77cd419fb5"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Anonymous OpenAI staffer: \"Externally, this feels like a big warning shot, but internally, related incidents have been happening for a while.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v69yqi/anonymous_openai_staffer_externally_this_feels/",
         "source": "r/OpenAI",
@@ -63,7 +62,7 @@
         "thumbnail": "https://preview.redd.it/vp7r7zbfzdfh1.png?width=640&crop=smart&auto=webp&s=08f3807c3b06cd40df4594443b7f7e7aee630159"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Bro...",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v635n9/bro/",
         "source": "r/OpenAI",
@@ -73,12 +72,21 @@
         "thumbnail": "https://preview.redd.it/clzpk5kjccfh1.png?width=640&crop=smart&auto=webp&s=e4375fe212d513f8d61e9da00ec8ddd6e3ad3f52"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Anyone else can log in anymore? Says primaryapi_server_error",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v6396e/anyone_else_can_log_in_anymore_says_primaryapi/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-25T09:07:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is Open AI API down?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v63d5m/is_open_ai_api_down/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-25T09:13:07.000Z",
         "category": "reddit"
       },
       {
@@ -103,16 +111,6 @@
       },
       {
         "rank": 3,
-        "title": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
-        "url": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-24T23:46:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8urxtu2fl9fh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bea049f4575f9cf30c6196faef2db91646f24d5"
-      },
-      {
-        "rank": 4,
         "title": "Delhi Police using AI facial recognition to track student protestors",
         "url": "https://www.reddit.com/r/singularity/comments/1v68na1/delhi_police_using_ai_facial_recognition_to_track/",
         "source": "r/singularity",
@@ -122,7 +120,7 @@
         "thumbnail": "https://external-preview.redd.it/bG9oaDI3b3FwZGZoMaq3gUeVzfyu8gkaHOw8slRUs_KIyO1YIApJs1K5ZsWj.png?width=320&crop=smart&auto=webp&s=671e1568fb405821bdb7c733a1d9d0ba3d196453"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Opus 5 outperformed Fable 5 in 3D destruction physics",
         "url": "https://www.reddit.com/r/singularity/comments/1v5ujes/opus_5_outperformed_fable_5_in_3d_destruction/",
         "source": "r/singularity",
@@ -130,6 +128,16 @@
         "publishedAt": "2026-07-25T01:37:19.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/czhxZno3djM1YWZoMTTjMD2FegtP6DrkeNs7KDB8FUPzDcGlixGkL_s1hD7i.png?width=640&crop=smart&auto=webp&s=d9f5102bf0fd9f1851e3be7bc41286632b4c2c9a"
+      },
+      {
+        "rank": 5,
+        "title": "Sam Altman unambiguously confirms we are in the singularity",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6ibgw/sam_altman_unambiguously_confirms_we_are_in_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T19:59:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ldide7wilffh1.jpeg?width=640&crop=smart&auto=webp&s=db59e9912fbc99e19e3b54f842536c15353548dc"
       },
       {
         "rank": 1,

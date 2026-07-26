@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-07-26T12:41:08.971Z",
+  "fetchedAt": "2026-07-26T14:40:50.166Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T06:43:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wiyelkfpsifh1.jpeg?width=640&crop=smart&auto=webp&s=9ed353f6d1eab4c20efcaa110c0c5f642a6d6e99"
+      },
+      {
+        "rank": 2,
+        "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-25T18:48:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Link plots/figures in NeurIPS rebuttal [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6qt8l/link_plotsfigures_in_neurips_rebuttal_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T02:12:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Understanding GPU Inference Workloads [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6sjiu/understanding_gpu_inference_workloads_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T03:37:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T11:58:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "So GPT 6 isn’t it?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v6vs4r/so_gpt_6_isnt_it/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-26T06:25:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/utfbf77opifh1.jpeg?width=640&crop=smart&auto=webp&s=a5163d710ba0339bdf2019699ca2328a7f5fbc24"
+      },
+      {
+        "rank": 2,
+        "title": "The AIs that hacked out of OpenAI into Hugging Face were on the loose for days",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v6crm8/the_ais_that_hacked_out_of_openai_into_hugging/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-25T16:25:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5u6p656qjefh1.png?width=640&crop=smart&auto=webp&s=00fa923f4590af7b4ab33b344589c1518b07367c"
+      },
+      {
+        "rank": 3,
+        "title": "Weekly usage limit just reset",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v6iike/weekly_usage_limit_just_reset/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-25T20:07:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI took ten days to tell Hugging Face its models were behind the July 11 weekend hack, report claims — rogue AI agents reportedly active on the open Internet for several days",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v6f6b7/openai_took_ten_days_to_tell_hugging_face_its/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-25T17:58:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/r8eQdGJnOs-60rbgMoRRAbXWYtdV6lhLrT208Z_P3Lo.jpeg?width=640&crop=smart&auto=webp&s=ec5a83db4e8ceb8149d5419c7e6246beba79b089"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT read our support calls and now I owe my customers an apology",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v6zamn/chatgpt_read_our_support_calls_and_now_i_owe_my/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-26T09:43:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "With Google and OpenAI signing the letter in support of open weight model, it's pretty much every big tech companies vs Anthropic now",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6n1uk/with_google_and_openai_signing_the_letter_in/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T23:17:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ack9wv1zkgfh1.png?width=640&crop=smart&auto=webp&s=3a31c7d19883f36fb813610177633ddaf75e4012"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5 built a procedural painterly world with wind-reactive grass, all in one HTML file",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6o465/opus_5_built_a_procedural_painterly_world_with/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-26T00:04:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aGkxNnVxbmt0Z2ZoMf9lhUDE0bRYfNRP2RoLnDO8Mb0CWZbzCqiWjbwyjP2s.png?width=640&crop=smart&auto=webp&s=996caa78f543be03b2e60aa15733534321f9f0ec"
+      },
+      {
+        "rank": 3,
+        "title": "Sam Altman unambiguously confirms we are in the singularity",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6ibgw/sam_altman_unambiguously_confirms_we_are_in_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T19:59:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ldide7wilffh1.jpeg?width=640&crop=smart&auto=webp&s=db59e9912fbc99e19e3b54f842536c15353548dc"
+      },
+      {
+        "rank": 4,
+        "title": "Proof we’re in a Singularity",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6sa34/proof_were_in_a_singularity/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-26T03:24:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9jjt61ebthfh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c80339d4f31b37bd2d481da2ddf6965dcf289bc7"
+      },
+      {
+        "rank": 5,
+        "title": "Opus 5 on MineBench Soon",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6eyb4/opus_5_on_minebench_soon/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-25T17:50:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a7fqasbnyefh1.gif?width=640&crop=smart&s=1b7866e1304ef306c95349b1dbd0a954ff072259"
+      },
       {
         "rank": 1,
         "title": "You can view a lot of shared conversations via Google.",
@@ -55,52 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T06:43:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wiyelkfpsifh1.jpeg?width=640&crop=smart&auto=webp&s=9ed353f6d1eab4c20efcaa110c0c5f642a6d6e99"
-      },
-      {
-        "rank": 2,
-        "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-25T18:48:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Link plots/figures in NeurIPS rebuttal [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6qt8l/link_plotsfigures_in_neurips_rebuttal_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T02:12:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Understanding GPU Inference Workloads [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6sjiu/understanding_gpu_inference_workloads_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T03:37:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T11:58:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Fix the limits or that line is gonna go down as fast it went up",
         "url": "https://www.reddit.com/r/codex/comments/1v6afdg/fix_the_limits_or_that_line_is_gonna_go_down_as/",
         "source": "r/codex",
@@ -145,105 +243,6 @@
         "score": 0,
         "publishedAt": "2026-07-25T18:42:00.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Anonymous OpenAI staffer: \"Externally, this feels like a big warning shot, but internally, related incidents have been happening for a while.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v69yqi/anonymous_openai_staffer_externally_this_feels/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-25T14:31:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vp7r7zbfzdfh1.png?width=640&crop=smart&auto=webp&s=08f3807c3b06cd40df4594443b7f7e7aee630159"
-      },
-      {
-        "rank": 2,
-        "title": "So GPT 6 isn’t it?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v6vs4r/so_gpt_6_isnt_it/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T06:25:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/utfbf77opifh1.jpeg?width=640&crop=smart&auto=webp&s=a5163d710ba0339bdf2019699ca2328a7f5fbc24"
-      },
-      {
-        "rank": 3,
-        "title": "The AIs that hacked out of OpenAI into Hugging Face were on the loose for days",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v6crm8/the_ais_that_hacked_out_of_openai_into_hugging/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-25T16:25:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5u6p656qjefh1.png?width=640&crop=smart&auto=webp&s=00fa923f4590af7b4ab33b344589c1518b07367c"
-      },
-      {
-        "rank": 4,
-        "title": "Weekly usage limit just reset",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v6iike/weekly_usage_limit_just_reset/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-25T20:07:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "inclusionAI (Ant Group) released Ling-3.0-flash, a 124B sparse MoE (5.1B active), 256K context, API-only on OpenRouter and free for a week",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v659ww/inclusionai_ant_group_released_ling30flash_a_124b/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-25T10:58:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4kuupycdxcfh1.jpeg?width=640&crop=smart&auto=webp&s=b2d4cd69b08fe772aae619f90a5e8f8fe57ff4d3"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5 ARC AGI score was benchmaxxed",
-        "url": "https://www.reddit.com/r/singularity/comments/1v66o8k/opus_5_arc_agi_score_was_benchmaxxed/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-25T12:08:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j5nlhihq9dfh1.png?width=640&crop=smart&auto=webp&s=592f2d4375907df7e7961da1ef012b37ec17dabd"
-      },
-      {
-        "rank": 2,
-        "title": "With Google and OpenAI signing the letter in support of open weight model, it's pretty much every big tech companies vs Anthropic now",
-        "url": "https://www.reddit.com/r/singularity/comments/1v6n1uk/with_google_and_openai_signing_the_letter_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-25T23:17:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ack9wv1zkgfh1.png?width=640&crop=smart&auto=webp&s=3a31c7d19883f36fb813610177633ddaf75e4012"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5 built a procedural painterly world with wind-reactive grass, all in one HTML file",
-        "url": "https://www.reddit.com/r/singularity/comments/1v6o465/opus_5_built_a_procedural_painterly_world_with/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-26T00:04:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aGkxNnVxbmt0Z2ZoMf9lhUDE0bRYfNRP2RoLnDO8Mb0CWZbzCqiWjbwyjP2s.png?width=640&crop=smart&auto=webp&s=996caa78f543be03b2e60aa15733534321f9f0ec"
-      },
-      {
-        "rank": 4,
-        "title": "Sam Altman unambiguously confirms we are in the singularity",
-        "url": "https://www.reddit.com/r/singularity/comments/1v6ibgw/sam_altman_unambiguously_confirms_we_are_in_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-25T19:59:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ldide7wilffh1.jpeg?width=640&crop=smart&auto=webp&s=db59e9912fbc99e19e3b54f842536c15353548dc"
-      },
-      {
-        "rank": 5,
-        "title": "Delhi Police using AI facial recognition to track student protestors",
-        "url": "https://www.reddit.com/r/singularity/comments/1v68na1/delhi_police_using_ai_facial_recognition_to_track/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-25T13:37:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bG9oaDI3b3FwZGZoMaq3gUeVzfyu8gkaHOw8slRUs_KIyO1YIApJs1K5ZsWj.png?width=320&crop=smart&auto=webp&s=671e1568fb405821bdb7c733a1d9d0ba3d196453"
       }
     ]
   }

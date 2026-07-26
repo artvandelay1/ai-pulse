@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T11:24:11.160Z",
+  "fetchedAt": "2026-07-26T12:41:08.971Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -46,13 +46,12 @@
       },
       {
         "rank": 5,
-        "title": "Whelp",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6tc8h/whelp/",
+        "title": "Used Claude to fight a $1,200 medical bill. It drafted the letter. The bill got cut to $180.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6zx6v/used_claude_to_fight_a_1200_medical_bill_it/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-26T04:17:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zne1airo2ifh1.png?width=640&crop=smart&auto=webp&s=31ed5e9fb7900f7435ba5906ddbef98d14fec87b"
+        "publishedAt": "2026-07-26T10:17:30.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -93,11 +92,11 @@
       },
       {
         "rank": 5,
-        "title": "We compared different LLMs on IMO 2026 [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
+        "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-26T07:21:40.000Z",
+        "publishedAt": "2026-07-26T11:58:39.000Z",
         "category": "reddit"
       },
       {

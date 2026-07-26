@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T19:19:11.988Z",
+  "fetchedAt": "2026-07-26T20:32:10.573Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -111,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "Reset is in",
-        "url": "https://www.reddit.com/r/codex/comments/1v6he1d/reset_is_in/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-25T19:23:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/16hwc55ffffh1.png?width=640&crop=smart&auto=webp&s=9a63d95e15dbe4df2e1c3f0a5f64b9ec2e919269"
-      },
-      {
-        "rank": 3,
         "title": "I think I actually figured why we're all \"hating\" codex right now.",
         "url": "https://www.reddit.com/r/codex/comments/1v73uws/i_think_i_actually_figured_why_were_all_hating/",
         "source": "r/codex",
@@ -130,7 +120,7 @@
         "thumbnail": "https://preview.redd.it/a7cx0wrfskfh1.png?width=140&height=94&auto=webp&s=54d49a232174d99f71a80079a2944f7a13eb9135"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Codex removed the 5-hour limit… and gave it a weekly nametag",
         "url": "https://www.reddit.com/r/codex/comments/1v71chi/codex_removed_the_5hour_limit_and_gave_it_a/",
         "source": "r/codex",
@@ -138,6 +128,15 @@
         "publishedAt": "2026-07-26T11:31:25.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7m9a28uy7kfh1.png?width=640&crop=smart&auto=webp&s=47cc86275abf02c5915321c333a61a0ee6b04c1f"
+      },
+      {
+        "rank": 4,
+        "title": "I hate the resets... it is unpredictable when they will come. They reset your usage even if you have 95% of quota and 3 days left...",
+        "url": "https://www.reddit.com/r/codex/comments/1v788rs/i_hate_the_resets_it_is_unpredictable_when_they/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-26T16:14:36.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-26T20:32:10.573Z",
+  "fetchedAt": "2026-07-26T21:33:10.538Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,16 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "Used claude to replay over 3000 users that played my daily racing game yesterday at the same time",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6p0gp/used_claude_to_replay_over_3000_users_that_played/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T00:45:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eDRscnJuejYwaGZoMcZpkCz7_5euvfPBrHT4rnNHg_3W4DHFExAMHDceuwhS.png?width=640&crop=smart&auto=webp&s=79fff2bf1d414dcdefd4069979c143b536a6d16d"
-      },
-      {
-        "rank": 3,
         "title": "Whelp",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6tc8h/whelp/",
         "source": "r/ClaudeAI",
@@ -33,6 +23,16 @@
         "publishedAt": "2026-07-26T04:17:18.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zne1airo2ifh1.png?width=640&crop=smart&auto=webp&s=31ed5e9fb7900f7435ba5906ddbef98d14fec87b"
+      },
+      {
+        "rank": 3,
+        "title": "Used claude to replay over 3000 users that played my daily racing game yesterday at the same time",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v6p0gp/used_claude_to_replay_over_3000_users_that_played/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-26T00:45:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eDRscnJuejYwaGZoMcZpkCz7_5euvfPBrHT4rnNHg_3W4DHFExAMHDceuwhS.png?width=640&crop=smart&auto=webp&s=79fff2bf1d414dcdefd4069979c143b536a6d16d"
       },
       {
         "rank": 4,
@@ -89,7 +89,8 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-26T07:21:40.000Z",
-        "category": "reddit"
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fy4ayale5nfh1.png?width=140&height=73&auto=webp&s=473d0bc0475a2513ba0bb7106f245288abfeef5f"
       },
       {
         "rank": 5,
@@ -121,6 +122,15 @@
       },
       {
         "rank": 3,
+        "title": "I hate the resets... it is unpredictable when they will come. They reset your usage even if you have 95% of quota and 3 days left...",
+        "url": "https://www.reddit.com/r/codex/comments/1v788rs/i_hate_the_resets_it_is_unpredictable_when_they/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-26T16:14:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Codex removed the 5-hour limit… and gave it a weekly nametag",
         "url": "https://www.reddit.com/r/codex/comments/1v71chi/codex_removed_the_5hour_limit_and_gave_it_a/",
         "source": "r/codex",
@@ -128,15 +138,6 @@
         "publishedAt": "2026-07-26T11:31:25.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7m9a28uy7kfh1.png?width=640&crop=smart&auto=webp&s=47cc86275abf02c5915321c333a61a0ee6b04c1f"
-      },
-      {
-        "rank": 4,
-        "title": "I hate the resets... it is unpredictable when they will come. They reset your usage even if you have 95% of quota and 3 days left...",
-        "url": "https://www.reddit.com/r/codex/comments/1v788rs/i_hate_the_resets_it_is_unpredictable_when_they/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-26T16:14:36.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,

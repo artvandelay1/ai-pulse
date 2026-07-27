@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-27T21:44:50.763Z",
+  "fetchedAt": "2026-07-27T23:09:09.415Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Anyone else's human get quietly nerfed this week?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7zlxd/anyone_elses_human_get_quietly_nerfed_this_week/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T12:55:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Finally, the usage limits page is much more transparent now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v86ls8/finally_the_usage_limits_page_is_much_more/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T17:13:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tb8q6k222tfh1.jpeg?width=640&crop=smart&auto=webp&s=f49bef887c18c06fa56478e674373559d274ade1"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 High Comes Close, but Kimi K3 Still Leads on Frontend",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7sp6z/opus_5_high_comes_close_but_kimi_k3_still_leads/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T06:50:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yotk7tzwxpfh1.png?width=640&crop=smart&auto=webp&s=ac9d5f05c89c19f477fd40c6519bf312ea363ca6"
+      },
+      {
+        "rank": 4,
+        "title": "Unlike Dario Amodei, Nvidia CEO Jensen Huang supports Open-Source AI by saying distillation is like learning from others",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v81q0z/unlike_dario_amodei_nvidia_ceo_jensen_huang/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T14:17:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHBmY2M4d2k2c2ZoMQIYEkPdiwR3DAn4F89Jzs2o4b1KYn8yuOtOh2EpcD87.png?width=640&crop=smart&auto=webp&s=1d605d1c6011c6ebbd1cf75c4405da0f3759bb07"
+      },
+      {
+        "rank": 5,
+        "title": "I’m glad Anthropic’s safety filters caught this dangerous prompt",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7mgmn/im_glad_anthropics_safety_filters_caught_this/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T01:34:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rzvpfwhleofh1.jpeg?width=640&crop=smart&auto=webp&s=8ba26eaa3049cdc237259a196f08b45c8a625b89"
+      },
       {
         "rank": 1,
         "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
@@ -43,12 +92,60 @@
       },
       {
         "rank": 5,
-        "title": "Training data needs a real go/no-go gate before training [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8a3nu/training_data_needs_a_real_gonogo_gate_before/",
+        "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-27T19:13:16.000Z",
+        "publishedAt": "2026-07-27T22:37:40.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI kept Nerfing our limits- so I built something to prove it instead of complaining without proof.",
+        "url": "https://www.reddit.com/r/codex/comments/1v7wlrm/openai_kept_nerfing_our_limits_so_i_built/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-27T10:34:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o4qfju9b2rfh1.png?width=140&height=73&auto=webp&s=b5f52b17b6be5d995dfe6776bbcdde44b7fc04e7"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6 will drop soon",
+        "url": "https://www.reddit.com/r/codex/comments/1v7wknp/gpt6_will_drop_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-27T10:32:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Codex's latest limit reduction makes it almost unusable",
+        "url": "https://www.reddit.com/r/codex/comments/1v7vfmf/codexs_latest_limit_reduction_makes_it_almost/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-27T09:29:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Is anyone else's agent too eager to code",
+        "url": "https://www.reddit.com/r/codex/comments/1v7t4d1/is_anyone_elses_agent_too_eager_to_code/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-27T07:13:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bhpa8db43qfh1.png?width=320&crop=smart&auto=webp&s=e8d41d1d85ebef41e482238332ca65e8c97206eb"
+      },
+      {
+        "rank": 5,
+        "title": "That day, if the limits weren’t kept separate, it’d be goodbye",
+        "url": "https://www.reddit.com/r/codex/comments/1v7tmr0/that_day_if_the_limits_werent_kept_separate_itd/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-27T07:43:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bezv7axf8qfh1.jpeg?width=640&crop=smart&auto=webp&s=ce53256674189d77a5a30caf65f75387188be5d1"
       },
       {
         "rank": 1,
@@ -147,101 +244,6 @@
         "publishedAt": "2026-07-27T12:58:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/h6fid2vmsrfh1.jpeg?width=640&crop=smart&auto=webp&s=cdfbee18bcb4720d0ba768c38d7b4b91c040fdb7"
-      },
-      {
-        "rank": 1,
-        "title": "Claude ran mock interviews for a job I badly wanted. The real one felt like a rerun. I got it.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7fo9i/claude_ran_mock_interviews_for_a_job_i_badly/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T20:49:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Anyone else's human get quietly nerfed this week?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7zlxd/anyone_elses_human_get_quietly_nerfed_this_week/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-27T12:55:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built a procedural desert explorer with Claude Code (Opus 5) and Three.js",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7h5e3/i_built_a_procedural_desert_explorer_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T21:45:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmNjcTE3ams5bmZoMUF8V9P7Oy-a-LuRDdf0Sl-M2gtjBYOMj_NcPcLttagh.png?width=640&crop=smart&auto=webp&s=d255864262cb65ab6bff32966accb5bd08cf2199"
-      },
-      {
-        "rank": 4,
-        "title": "Differences Between Fable 5 and Opus 5 on MineBench.ai",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7i49g/differences_between_fable_5_and_opus_5_on/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T22:24:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wva19c9dfnfh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=ca6c4793c106bef790442289f2a946f4afd2b2ac"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5 is an incredible coder and really painful to work with",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7b1u1/opus_5_is_an_incredible_coder_and_really_painful/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T17:57:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "From a dev who tried it all: How to actually get most of codex",
-        "url": "https://www.reddit.com/r/codex/comments/1v7cvw6/from_a_dev_who_tried_it_all_how_to_actually_get/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-26T19:04:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/muIldsp-fS62sz0dYBoLsfyY-r_aa-9f3Hqlil8t0hU.png?width=140&height=70&auto=webp&s=02848b35084d679d3626dbfb33836e3b335b51c7"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI kept Nerfing our limits- so I built something to prove it instead of complaining without proof.",
-        "url": "https://www.reddit.com/r/codex/comments/1v7wlrm/openai_kept_nerfing_our_limits_so_i_built/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-27T10:34:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o4qfju9b2rfh1.png?width=140&height=73&auto=webp&s=b5f52b17b6be5d995dfe6776bbcdde44b7fc04e7"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 will drop soon",
-        "url": "https://www.reddit.com/r/codex/comments/1v7wknp/gpt6_will_drop_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-27T10:32:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "There is Hope",
-        "url": "https://www.reddit.com/r/codex/comments/1v7eq0n/there_is_hope/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-26T20:13:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o8an6g49tmfh1.png?width=640&crop=smart&auto=webp&s=53b12ca01ff8b3b89088c2f2a00ea4f14201911c"
-      },
-      {
-        "rank": 5,
-        "title": "Codex's latest limit reduction makes it almost unusable",
-        "url": "https://www.reddit.com/r/codex/comments/1v7vfmf/codexs_latest_limit_reduction_makes_it_almost/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-27T09:29:36.000Z",
-        "category": "reddit"
       }
     ]
   }

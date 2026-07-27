@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T01:11:46.433Z",
+  "fetchedAt": "2026-07-27T05:27:44.683Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Link plots/figures in NeurIPS rebuttal [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6qt8l/link_plotsfigures_in_neurips_rebuttal_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T02:12:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
         "source": "r/MachineLearning",
@@ -34,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
         "source": "r/MachineLearning",
@@ -43,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "We compared different LLMs on IMO 2026 [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
         "source": "r/MachineLearning",
@@ -51,6 +42,15 @@
         "publishedAt": "2026-07-26T07:21:40.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/fy4ayale5nfh1.png?width=140&height=73&auto=webp&s=473d0bc0475a2513ba0bb7106f245288abfeef5f"
+      },
+      {
+        "rank": 5,
+        "title": "CICD / KAFKA / KUBERNETES / Interview questions (MLE) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v7jvsx/cicd_kafka_kubernetes_interview_questions_mle_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T23:38:56.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -111,25 +111,16 @@
       },
       {
         "rank": 2,
-        "title": "Proof we’re in a Singularity",
-        "url": "https://www.reddit.com/r/singularity/comments/1v6sa34/proof_were_in_a_singularity/",
+        "title": "NVIDIA IN TALKS TO PROVIDE $250 BILLION FINANCIAL BACKSTOP FOR OPENAI DATA CENTER IN OHIO",
+        "url": "https://www.reddit.com/r/singularity/comments/1v7ke1r/nvidia_in_talks_to_provide_250_billion_financial/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-26T03:24:37.000Z",
+        "publishedAt": "2026-07-27T00:00:49.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9jjt61ebthfh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c80339d4f31b37bd2d481da2ddf6965dcf289bc7"
+        "thumbnail": "https://preview.redd.it/rko6524vxnfh1.jpeg?width=320&crop=smart&auto=webp&s=61f5d2c88c43bb1292e7066de90b89e811e1c436"
       },
       {
         "rank": 3,
-        "title": "Yann LeCun’s Bet That Intelligence Starts in the World",
-        "url": "https://www.reddit.com/r/singularity/comments/1v6xqfq/yann_lecuns_bet_that_intelligence_starts_in_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-26T08:15:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Chegg and StackOverflow were both basically destroyed by LLMs, what other websites / companies have already seen their traffic go to 0 because of LLMs?",
         "url": "https://www.reddit.com/r/singularity/comments/1v7fawg/chegg_and_stackoverflow_were_both_basically/",
         "source": "r/singularity",
@@ -138,14 +129,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "NVIDIA IN TALKS TO PROVIDE $250 BILLION FINANCIAL BACKSTOP FOR OPENAI DATA CENTER IN OHIO",
-        "url": "https://www.reddit.com/r/singularity/comments/1v7ke1r/nvidia_in_talks_to_provide_250_billion_financial/",
+        "rank": 4,
+        "title": "Yann LeCun’s Bet That Intelligence Starts in the World",
+        "url": "https://www.reddit.com/r/singularity/comments/1v6xqfq/yann_lecuns_bet_that_intelligence_starts_in_the/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-27T00:00:49.000Z",
+        "publishedAt": "2026-07-26T08:15:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Ben Goertzel explains the Singularity and why it's not only about AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1v7hsjm/ben_goertzel_explains_the_singularity_and_why_its/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-26T22:10:58.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rko6524vxnfh1.jpeg?width=320&crop=smart&auto=webp&s=61f5d2c88c43bb1292e7066de90b89e811e1c436"
+        "thumbnail": "https://external-preview.redd.it/Z3V4cWF6ZzhlbmZoMdnDU1ka4GFr-9kKfvsi3f0_6p7NpbXPTj4TWNdLoOCn.png?width=640&crop=smart&auto=webp&s=b3e88d7cd3b298bd90c8b768c5c2cbde71a59b16"
       },
       {
         "rank": 1,

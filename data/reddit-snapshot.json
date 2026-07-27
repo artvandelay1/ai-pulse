@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T18:58:42.389Z",
+  "fetchedAt": "2026-07-27T20:28:49.080Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "Made a small model that extracts text from a white background [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v811sc/made_a_small_model_that_extracts_text_from_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-27T13:52:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v86qo9/built_trained_a_transformer_from_scratch_in_pure/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-27T17:17:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Made a small model that extracts text from a white background [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v811sc/made_a_small_model_that_extracts_text_from_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-27T13:52:41.000Z",
         "category": "reddit"
       },
       {
@@ -43,13 +43,12 @@
       },
       {
         "rank": 5,
-        "title": "Missed AAAI reciprocal reviewer nomination deadline — risk of desk rejection? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v7hgrh/missed_aaai_reciprocal_reviewer_nomination/",
+        "title": "Training data needs a real go/no-go gate before training [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8a3nu/training_data_needs_a_real_gonogo_gate_before/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-26T21:58:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fd85k8fqbnfh1.png?width=140&height=65&auto=webp&s=6dc300ba1cc3750ff86fb3b910f1dd55ab3824cf"
+        "publishedAt": "2026-07-27T19:13:16.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -63,16 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "How to escape Permanent Underclass?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v7qae3/how_to_escape_permanent_underclass/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-27T04:39:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pr6pgighbpfh1.jpeg?width=640&crop=smart&auto=webp&s=537a8660c17b698ba166340bf6b85b67722ae218"
-      },
-      {
-        "rank": 3,
         "title": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v8182u/hugging_face_ceo_shares_his_demands_of_openai/",
         "source": "r/OpenAI",
@@ -80,6 +69,16 @@
         "publishedAt": "2026-07-27T13:59:26.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ivlY-mohLtC__6ZaAE5oXhDompQ4l9QU7YTsEhKRkk4.jpeg?width=640&crop=smart&auto=webp&s=1711ad81f51cd597ecfe1062f981e46bbd2298c9"
+      },
+      {
+        "rank": 3,
+        "title": "How to escape Permanent Underclass?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v7qae3/how_to_escape_permanent_underclass/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T04:39:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pr6pgighbpfh1.jpeg?width=640&crop=smart&auto=webp&s=537a8660c17b698ba166340bf6b85b67722ae218"
       },
       {
         "rank": 4,
@@ -111,6 +110,15 @@
       },
       {
         "rank": 2,
+        "title": "In 1983, DARPA published a plan to build \"machine intelligence technology\" within a decade: a self-driving reconnaissance vehicle, an AI copilot trained by its own pilot, and an AI system to run naval battle strategy. The document is public. It reads like it was written last year.",
+        "url": "https://www.reddit.com/r/singularity/comments/1v7oolu/in_1983_darpa_published_a_plan_to_build_machine/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-27T03:18:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Chegg and StackOverflow were both basically destroyed by LLMs, what other websites / companies have already seen their traffic go to 0 because of LLMs?",
         "url": "https://www.reddit.com/r/singularity/comments/1v7fawg/chegg_and_stackoverflow_were_both_basically/",
         "source": "r/singularity",
@@ -119,7 +127,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "NVIDIA IN TALKS TO PROVIDE $250 BILLION FINANCIAL BACKSTOP FOR OPENAI DATA CENTER IN OHIO",
         "url": "https://www.reddit.com/r/singularity/comments/1v7ke1r/nvidia_in_talks_to_provide_250_billion_financial/",
         "source": "r/singularity",
@@ -127,15 +135,6 @@
         "publishedAt": "2026-07-27T00:00:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/rko6524vxnfh1.jpeg?width=320&crop=smart&auto=webp&s=61f5d2c88c43bb1292e7066de90b89e811e1c436"
-      },
-      {
-        "rank": 4,
-        "title": "In 1983, DARPA published a plan to build \"machine intelligence technology\" within a decade: a self-driving reconnaissance vehicle, an AI copilot trained by its own pilot, and an AI system to run naval battle strategy. The document is public. It reads like it was written last year.",
-        "url": "https://www.reddit.com/r/singularity/comments/1v7oolu/in_1983_darpa_published_a_plan_to_build_machine/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-27T03:18:47.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,

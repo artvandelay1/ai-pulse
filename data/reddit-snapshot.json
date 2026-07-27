@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T05:27:44.683Z",
+  "fetchedAt": "2026-07-27T08:57:43.033Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "I implemented the YOLO26n model inference from scratch using ARM64 Assembly Language (No framework) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T06:43:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wiyelkfpsifh1.jpeg?width=640&crop=smart&auto=webp&s=9ed353f6d1eab4c20efcaa110c0c5f642a6d6e99"
-      },
-      {
-        "rank": 2,
         "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
         "source": "r/MachineLearning",
@@ -25,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
         "source": "r/MachineLearning",
@@ -34,17 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "We compared different LLMs on IMO 2026 [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-26T07:21:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fy4ayale5nfh1.png?width=140&height=73&auto=webp&s=473d0bc0475a2513ba0bb7106f245288abfeef5f"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "CICD / KAFKA / KUBERNETES / Interview questions (MLE) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v7jvsx/cicd_kafka_kubernetes_interview_questions_mle_r/",
         "source": "r/MachineLearning",
@@ -53,17 +33,25 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "So GPT 6 isn’t it?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v6vs4r/so_gpt_6_isnt_it/",
-        "source": "r/OpenAI",
+        "rank": 4,
+        "title": "Recent project I worked on: End to End Edge ML platform [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v7nudc/recent_project_i_worked_on_end_to_end_edge_ml/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-26T06:25:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/utfbf77opifh1.jpeg?width=640&crop=smart&auto=webp&s=a5163d710ba0339bdf2019699ca2328a7f5fbc24"
+        "publishedAt": "2026-07-27T02:38:26.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "title": "Multi-Tenant SaaS: Which Architecture Would You Choose? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v794kw/multitenant_saas_which_architecture_would_you/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-26T16:47:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "I'm going to say this quietly (in case the inevitable nerf is incoming), but 5.6 Sol High is a fucking beast",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v7gs1v/im_going_to_say_this_quietly_in_case_the/",
         "source": "r/OpenAI",
@@ -72,7 +60,36 @@
         "category": "reddit"
       },
       {
+        "rank": 2,
+        "title": "How the OpenAI agents escaped onto the internet and hacked another company - ELI5",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v7t47e/how_the_openai_agents_escaped_onto_the_internet/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T07:13:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ydsgw9rz2qfh1.png?width=140&height=96&auto=webp&s=56882f308c4528ad7cbf8af8d4b6075498045c7c"
+      },
+      {
         "rank": 3,
+        "title": "How to escape Permanent Underclass?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v7qae3/how_to_escape_permanent_underclass/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T04:39:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pr6pgighbpfh1.jpeg?width=640&crop=smart&auto=webp&s=537a8660c17b698ba166340bf6b85b67722ae218"
+      },
+      {
+        "rank": 4,
+        "title": "Chat massively needs to improve its ablity to creatively write (5.6 SOL)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v7rmpl/chat_massively_needs_to_improve_its_ablity_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T05:50:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Vibe Coding on Vacation — No Laptop, Just a Phone and Codex",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v79q3l/vibe_coding_on_vacation_no_laptop_just_a_phone/",
         "source": "r/OpenAI",
@@ -80,24 +97,6 @@
         "publishedAt": "2026-07-26T17:08:42.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Fv50ZSlgpIg0lH7kEfCWTgAtKYocwS-7kteo7QxSdGQ.png?width=640&crop=smart&auto=webp&s=d91c226d28b63bd3e912db0369f7aeacc6112cd7"
-      },
-      {
-        "rank": 4,
-        "title": "Since GPT image 2 performed well. Do you guys think there'll be a GPT Image 2.5 soon?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v7471e/since_gpt_image_2_performed_well_do_you_guys/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T13:39:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Business has the same GPT-Live limits as Plus, but without the free mini. Why?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v6ur7g/business_has_the_same_gptlive_limits_as_plus_but/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T05:31:02.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -111,6 +110,15 @@
       },
       {
         "rank": 2,
+        "title": "Chegg and StackOverflow were both basically destroyed by LLMs, what other websites / companies have already seen their traffic go to 0 because of LLMs?",
+        "url": "https://www.reddit.com/r/singularity/comments/1v7fawg/chegg_and_stackoverflow_were_both_basically/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-26T20:35:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "NVIDIA IN TALKS TO PROVIDE $250 BILLION FINANCIAL BACKSTOP FOR OPENAI DATA CENTER IN OHIO",
         "url": "https://www.reddit.com/r/singularity/comments/1v7ke1r/nvidia_in_talks_to_provide_250_billion_financial/",
         "source": "r/singularity",
@@ -120,25 +128,7 @@
         "thumbnail": "https://preview.redd.it/rko6524vxnfh1.jpeg?width=320&crop=smart&auto=webp&s=61f5d2c88c43bb1292e7066de90b89e811e1c436"
       },
       {
-        "rank": 3,
-        "title": "Chegg and StackOverflow were both basically destroyed by LLMs, what other websites / companies have already seen their traffic go to 0 because of LLMs?",
-        "url": "https://www.reddit.com/r/singularity/comments/1v7fawg/chegg_and_stackoverflow_were_both_basically/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-26T20:35:08.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 4,
-        "title": "Yann LeCun’s Bet That Intelligence Starts in the World",
-        "url": "https://www.reddit.com/r/singularity/comments/1v6xqfq/yann_lecuns_bet_that_intelligence_starts_in_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-26T08:15:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Ben Goertzel explains the Singularity and why it's not only about AI",
         "url": "https://www.reddit.com/r/singularity/comments/1v7hsjm/ben_goertzel_explains_the_singularity_and_why_its/",
         "source": "r/singularity",
@@ -146,6 +136,15 @@
         "publishedAt": "2026-07-26T22:10:58.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Z3V4cWF6ZzhlbmZoMdnDU1ka4GFr-9kKfvsi3f0_6p7NpbXPTj4TWNdLoOCn.png?width=640&crop=smart&auto=webp&s=b3e88d7cd3b298bd90c8b768c5c2cbde71a59b16"
+      },
+      {
+        "rank": 5,
+        "title": "How far ahead of Fable 5 is Anthropic’s internal model by now?",
+        "url": "https://www.reddit.com/r/singularity/comments/1v7h05n/how_far_ahead_of_fable_5_is_anthropics_internal/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-26T21:39:50.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

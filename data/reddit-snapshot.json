@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T20:28:49.080Z",
+  "fetchedAt": "2026-07-27T21:44:50.763Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -82,21 +82,22 @@
       },
       {
         "rank": 4,
-        "title": "I'm going to say this quietly (in case the inevitable nerf is incoming), but 5.6 Sol High is a fucking beast",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v7gs1v/im_going_to_say_this_quietly_in_case_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-26T21:31:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Chat massively needs to improve its ablity to creatively write (5.6 SOL)",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v7rmpl/chat_massively_needs_to_improve_its_ablity_to/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-27T05:50:13.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines. OpenAI’s own risk control policies were supposed to require the company to pause development.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v86w5f/ai_safety_experts_say_openais_rogue_models_may/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T17:23:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZMYMgTLS5yRv_l_sHDkyLrvPb-a3o3-Zy4_Wzq6D2is.jpeg?width=640&crop=smart&auto=webp&s=6cce6dfbaf939d46e9c5240af93097ddc43a9bbd"
       },
       {
         "rank": 1,
@@ -119,15 +120,6 @@
       },
       {
         "rank": 3,
-        "title": "Chegg and StackOverflow were both basically destroyed by LLMs, what other websites / companies have already seen their traffic go to 0 because of LLMs?",
-        "url": "https://www.reddit.com/r/singularity/comments/1v7fawg/chegg_and_stackoverflow_were_both_basically/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-26T20:35:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "NVIDIA IN TALKS TO PROVIDE $250 BILLION FINANCIAL BACKSTOP FOR OPENAI DATA CENTER IN OHIO",
         "url": "https://www.reddit.com/r/singularity/comments/1v7ke1r/nvidia_in_talks_to_provide_250_billion_financial/",
         "source": "r/singularity",
@@ -137,7 +129,7 @@
         "thumbnail": "https://preview.redd.it/rko6524vxnfh1.jpeg?width=320&crop=smart&auto=webp&s=61f5d2c88c43bb1292e7066de90b89e811e1c436"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Ben Goertzel explains the Singularity and why it's not only about AI",
         "url": "https://www.reddit.com/r/singularity/comments/1v7hsjm/ben_goertzel_explains_the_singularity_and_why_its/",
         "source": "r/singularity",
@@ -145,6 +137,16 @@
         "publishedAt": "2026-07-26T22:10:58.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Z3V4cWF6ZzhlbmZoMdnDU1ka4GFr-9kKfvsi3f0_6p7NpbXPTj4TWNdLoOCn.png?width=640&crop=smart&auto=webp&s=b3e88d7cd3b298bd90c8b768c5c2cbde71a59b16"
+      },
+      {
+        "rank": 5,
+        "title": "The Chinese labs everyone lumps together are making four pretty different bets",
+        "url": "https://www.reddit.com/r/singularity/comments/1v7zopf/the_chinese_labs_everyone_lumps_together_are/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-27T12:58:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h6fid2vmsrfh1.jpeg?width=640&crop=smart&auto=webp&s=cdfbee18bcb4720d0ba768c38d7b4b91c040fdb7"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T07:18:08.050Z",
+  "fetchedAt": "2026-07-28T10:11:08.497Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -45,16 +45,25 @@
       },
       {
         "rank": 5,
-        "title": "Unlike Dario Amodei, Nvidia CEO Jensen Huang supports Open-Source AI by saying distillation is like learning from others",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v81q0z/unlike_dario_amodei_nvidia_ceo_jensen_huang/",
+        "title": "Too many models these day",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v80dvl/too_many_models_these_day/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-27T14:17:51.000Z",
+        "publishedAt": "2026-07-27T13:26:29.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHBmY2M4d2k2c2ZoMQIYEkPdiwR3DAn4F89Jzs2o4b1KYn8yuOtOh2EpcD87.png?width=640&crop=smart&auto=webp&s=1d605d1c6011c6ebbd1cf75c4405da0f3759bb07"
+        "thumbnail": "https://preview.redd.it/c1iee1vjxrfh1.png?width=320&crop=smart&auto=webp&s=bfae16b68d3478e7892c4558c55a455be2615397"
       },
       {
         "rank": 1,
+        "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T07:33:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v86qo9/built_trained_a_transformer_from_scratch_in_pure/",
         "source": "r/MachineLearning",
@@ -63,7 +72,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Editing Neurips Rebuttal [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v8jzmn/editing_neurips_rebuttal_d/",
         "source": "r/MachineLearning",
@@ -72,7 +81,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Made a small model that extracts text from a white background [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v811sc/made_a_small_model_that_extracts_text_from_a/",
         "source": "r/MachineLearning",
@@ -81,21 +90,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "DP-FedSOFIM: Second-Order Federated Optimization Under Differential Privacy Without Extra Privacy Cost [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8pkb7/dpfedsofim_secondorder_federated_optimization/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T06:04:06.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
+        "title": "Pattern Recognition (Elsevier): \"With Editor\" status date changed, but status didn't. Is this normal? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8q9xc/pattern_recognition_elsevier_with_editor_status/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-27T22:37:40.000Z",
+        "publishedAt": "2026-07-28T06:42:34.000Z",
         "category": "reddit"
       },
       {
@@ -129,12 +129,13 @@
       },
       {
         "rank": 4,
-        "title": "Codex's latest limit reduction makes it almost unusable",
-        "url": "https://www.reddit.com/r/codex/comments/1v7vfmf/codexs_latest_limit_reduction_makes_it_almost/",
+        "title": "Limit is reset , Lets Gooo !",
+        "url": "https://www.reddit.com/r/codex/comments/1v8m2pr/limit_is_reset_lets_gooo/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-27T09:29:36.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-28T03:10:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bn153bgn0wfh1.jpeg?width=640&crop=smart&auto=webp&s=87b5570ad0a0fedafdfa2f7b1d427b3868637ca9"
       },
       {
         "rank": 5,

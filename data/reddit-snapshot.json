@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T04:19:10.004Z",
+  "fetchedAt": "2026-07-28T07:18:08.050Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,26 +26,15 @@
       },
       {
         "rank": 3,
-        "title": "Opus 5 High Comes Close, but Kimi K3 Still Leads on Frontend",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v7sp6z/opus_5_high_comes_close_but_kimi_k3_still_leads/",
+        "title": "Whoever created the ADHD skill god bless you",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v8o1jn/whoever_created_the_adhd_skill_god_bless_you/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-27T06:50:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yotk7tzwxpfh1.png?width=640&crop=smart&auto=webp&s=ac9d5f05c89c19f477fd40c6519bf312ea363ca6"
+        "publishedAt": "2026-07-28T04:45:07.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "Unlike Dario Amodei, Nvidia CEO Jensen Huang supports Open-Source AI by saying distillation is like learning from others",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v81q0z/unlike_dario_amodei_nvidia_ceo_jensen_huang/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-27T14:17:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHBmY2M4d2k2c2ZoMQIYEkPdiwR3DAn4F89Jzs2o4b1KYn8yuOtOh2EpcD87.png?width=640&crop=smart&auto=webp&s=1d605d1c6011c6ebbd1cf75c4405da0f3759bb07"
-      },
-      {
-        "rank": 5,
         "title": "Our position on open-weights models \\ Anthropic",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1v8gzrm/our_position_on_openweights_models_anthropic/",
         "source": "r/ClaudeAI",
@@ -53,6 +42,16 @@
         "publishedAt": "2026-07-27T23:31:09.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/0VTtIWybFg7Rsc3UPviZK-Bg9jIhOyJGDIW7vBBzDaY.png?width=640&crop=smart&auto=webp&s=1168972150f4c2f4de2a0e53855ebb7e9639d685"
+      },
+      {
+        "rank": 5,
+        "title": "Unlike Dario Amodei, Nvidia CEO Jensen Huang supports Open-Source AI by saying distillation is like learning from others",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v81q0z/unlike_dario_amodei_nvidia_ceo_jensen_huang/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-27T14:17:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHBmY2M4d2k2c2ZoMQIYEkPdiwR3DAn4F89Jzs2o4b1KYn8yuOtOh2EpcD87.png?width=640&crop=smart&auto=webp&s=1d605d1c6011c6ebbd1cf75c4405da0f3759bb07"
       },
       {
         "rank": 1,
@@ -83,6 +82,15 @@
       },
       {
         "rank": 4,
+        "title": "DP-FedSOFIM: Second-Order Federated Optimization Under Differential Privacy Without Extra Privacy Cost [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8pkb7/dpfedsofim_secondorder_federated_optimization/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T06:04:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
         "source": "r/MachineLearning",
@@ -111,15 +119,6 @@
       },
       {
         "rank": 3,
-        "title": "Codex's latest limit reduction makes it almost unusable",
-        "url": "https://www.reddit.com/r/codex/comments/1v7vfmf/codexs_latest_limit_reduction_makes_it_almost/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-27T09:29:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "GET READY!!",
         "url": "https://www.reddit.com/r/codex/comments/1v8ig62/get_ready/",
         "source": "r/codex",
@@ -127,6 +126,15 @@
         "publishedAt": "2026-07-28T00:30:34.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/g9f672538vfh1.jpeg?width=640&crop=smart&auto=webp&s=a8e20e86a3a4d0f7985fa646972f9e5f42db67ce"
+      },
+      {
+        "rank": 4,
+        "title": "Codex's latest limit reduction makes it almost unusable",
+        "url": "https://www.reddit.com/r/codex/comments/1v7vfmf/codexs_latest_limit_reduction_makes_it_almost/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-27T09:29:36.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T17:01:43.300Z",
+  "fetchedAt": "2026-07-28T18:25:44.471Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -72,16 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "AI safety experts say OpenAI’s rogue models may mean the company has already blown past its own internal red lines. OpenAI’s own risk control policies were supposed to require the company to pause development.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v86w5f/ai_safety_experts_say_openais_rogue_models_may/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-27T17:23:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZMYMgTLS5yRv_l_sHDkyLrvPb-a3o3-Zy4_Wzq6D2is.jpeg?width=640&crop=smart&auto=webp&s=6cce6dfbaf939d46e9c5240af93097ddc43a9bbd"
-      },
-      {
-        "rank": 4,
         "title": "Tibo is getting a limit reset, so apparently I have to crawl out of bed and work again",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v8ihqi/tibo_is_getting_a_limit_reset_so_apparently_i/",
         "source": "r/OpenAI",
@@ -91,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/2lsield18vfh1.png?width=640&crop=smart&auto=webp&s=8470353b7b6b9334b52580167b4d90485c6fa9cb"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Guys ig it's here 750t/sec GPT 5.6",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v8ci5d/guys_ig_its_here_750tsec_gpt_56/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-07-27T20:38:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gkfdqifp2ufh1.jpeg?width=640&crop=smart&auto=webp&s=df591851066f6403ee3e5cbecab1c1523e339148"
+      },
+      {
+        "rank": 5,
+        "title": "AI executives demand OpenAI release more details about how the Hugging Face hack happened",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v8pxu9/ai_executives_demand_openai_release_more_details/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-28T06:24:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-LaD7SfjUHHaldLeAvJbFypOCGVQKlMidxDaOWzuZ6I.jpeg?width=640&crop=smart&auto=webp&s=e5b722679518128516e62a58a97c0f71e0b3bdde"
       },
       {
         "rank": 1,

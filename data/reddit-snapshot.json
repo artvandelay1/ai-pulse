@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T12:32:47.878Z",
+  "fetchedAt": "2026-07-29T15:34:45.290Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,29 +7,29 @@
     "items": [
       {
         "rank": 1,
-        "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+        "title": "ICLR 2027 Deadline is before NeurIPS 2026 Decisions [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9v4e7/iclr_2027_deadline_is_before_neurips_2026/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-28T14:52:01.000Z",
+        "publishedAt": "2026-07-29T12:43:33.000Z",
         "category": "reddit"
       },
       {
         "rank": 2,
-        "title": "Neurips rebuttals not visible to reviewers [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8yv7y/neurips_rebuttals_not_visible_to_reviewers_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T13:41:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "EMNLP 2026 AI Reviewing Experiment [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-29T02:44:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Workshop paper accepted, reviewers asked new experiments [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9owaf/workshop_paper_accepted_reviewers_asked_new/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-29T07:21:00.000Z",
         "category": "reddit"
       },
       {
@@ -43,11 +43,11 @@
       },
       {
         "rank": 5,
-        "title": "Workshop paper accepted, reviewers asked new experiments [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9owaf/workshop_paper_accepted_reviewers_asked_new/",
+        "title": "NeurIPS E&D: Should authors respond to ethical reviews during the discussion period? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9hth4/neurips_ed_should_authors_respond_to_ethical/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-29T07:21:00.000Z",
+        "publishedAt": "2026-07-29T01:32:40.000Z",
         "category": "reddit"
       },
       {
@@ -62,6 +62,15 @@
       },
       {
         "rank": 2,
+        "title": "Ngl Chatgpt explains concepts better than half my professors",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v9wc7j/ngl_chatgpt_explains_concepts_better_than_half_my/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T13:32:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "This is such a cool update!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v952ra/this_is_such_a_cool_update/",
         "source": "r/OpenAI",
@@ -71,7 +80,7 @@
         "thumbnail": "https://preview.redd.it/rsd7l2b990gh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d722337fae401a0f722d5d116b45844aa226621c"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "80% of our traffic are AI crawlers. Two referrals to show for it.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1v9e3sb/80_of_our_traffic_are_ai_crawlers_two_referrals/",
         "source": "r/OpenAI",
@@ -79,16 +88,6 @@
         "publishedAt": "2026-07-28T22:56:56.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ndtirt38w1gh1.png?width=140&height=87&auto=webp&s=fdcf35e006cd60dd4bb491ad3f4f19b675fdc66a"
-      },
-      {
-        "rank": 4,
-        "title": "Codex Security CLI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v9sroo/codex_security_cli/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T10:54:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0e1ebcubg5gh1.png?width=640&crop=smart&auto=webp&s=d2804e0aa5b50e458308c06bb9c0298ba8fb51c5"
       },
       {
         "rank": 5,
@@ -129,22 +128,22 @@
       },
       {
         "rank": 4,
+        "title": "Claude Opus 5 is Insane",
+        "url": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T12:43:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aWowbmRzNXR6NWdoMbW3SwN7yEmeurH7D4tTRoVR-9rPz8rhfYzwsabc7VXQ.png?width=640&crop=smart&auto=webp&s=c4040474caa769a0bc6249a0fbb60cea409fc4d4"
+      },
+      {
+        "rank": 5,
         "title": "Huggingface releases detailed blog post, including an interactive visualization, detailing the attack on their servers",
         "url": "https://www.reddit.com/r/singularity/comments/1v9cynn/huggingface_releases_detailed_blog_post_including/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-07-28T22:12:15.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9jidr/openais_rogue_ai_agent_hacked_more_than_just/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T02:48:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/5-lFipMiYWTuthiyNxWAqijvgxPBg1NlHjAF-kA80BY.jpeg?width=640&crop=smart&auto=webp&s=95d79f613e6d11a8d4df1a64ca593a3783e8df84"
       },
       {
         "rank": 1,

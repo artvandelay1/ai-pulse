@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-29T16:52:51.714Z",
+  "fetchedAt": "2026-07-29T18:12:09.709Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "When I have to compact a 2 day long 900k context session with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9bq96/when_i_have_to_compact_a_2_day_long_900k_context/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-28T21:25:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0sh1zglof1gh1.png?width=320&crop=smart&auto=webp&s=d9d2cbfcfe5d53bb2938220cef18e9c32e86c705"
+      },
+      {
+        "rank": 2,
+        "title": "Claude tried to prompt inject me",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9j6us/claude_tried_to_prompt_inject_me/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T02:33:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z83jlqnzy2gh1.jpeg?width=640&crop=smart&auto=webp&s=da91f86f26eed946838019f419253f810b36ea71"
+      },
+      {
+        "rank": 3,
+        "title": "check it: ask your agent to report you to its own company",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9elnr/check_it_ask_your_agent_to_report_you_to_its_own/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-28T23:16:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Bandicoot - Shumer's Gauntlet Loop on a 3d Platformer",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9m76g/claude_bandicoot_shumers_gauntlet_loop_on_a_3d/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T04:57:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cG04bjhtOGRuM2doMRxk0ecx47lf9LVzXBzTWrQ_aT_Odjp4RjAixsWG6FjP.png?width=640&crop=smart&auto=webp&s=a160380bcf4594d0858f42671a5c4c623edbf9c7"
+      },
+      {
+        "rank": 5,
+        "title": "100% Vibecoded a 130+ card multiplayer CCG in the browser",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9v61k/100_vibecoded_a_130_card_multiplayer_ccg_in_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T12:45:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MmVjY3JyNDEwNmdoMZRKalb034advfaW1BRj0bXt_0GtbYFsvTpzHlPxDwDG.png?width=640&crop=smart&auto=webp&s=c44a19d7cff85beecfb690f9a5dd1aa74b5742c5"
+      },
       {
         "rank": 1,
         "title": "ICLR 2027 Deadline is before NeurIPS 2026 Decisions [D]",
@@ -43,11 +92,59 @@
       },
       {
         "rank": 5,
-        "title": "NeurIPS-side prompt injection triggering ethics reviewers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v955f6/neuripsside_prompt_injection_triggering_ethics/",
+        "title": "How to deal with text only vector search across multimodal embedding space? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9ad2j/how_to_deal_with_text_only_vector_search_across/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-28T17:28:35.000Z",
+        "publishedAt": "2026-07-28T20:34:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "5-Hour Limit Returning Tomorrow",
+        "url": "https://www.reddit.com/r/codex/comments/1v9l9ls/5hour_limit_returning_tomorrow/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-29T04:11:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aFvELVmneAeS4fnZ5Gf8yQrn235PyrrSIzboL6yQaY4.jpeg?width=640&crop=smart&auto=webp&s=c352b228ec274228460d6b28306d01a8cc7e021c"
+      },
+      {
+        "rank": 2,
+        "title": "The real reason why Codex brought back the 5 hour limit",
+        "url": "https://www.reddit.com/r/codex/comments/1v9mv57/the_real_reason_why_codex_brought_back_the_5_hour/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-29T05:31:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "😭",
+        "url": "https://www.reddit.com/r/codex/comments/1v9v80c/_/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-29T12:47:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e5yc8mij06gh1.jpeg?width=320&crop=smart&auto=webp&s=4614e81d968927db583c4b91bde35bc74a3a5754"
+      },
+      {
+        "rank": 4,
+        "title": "Codex Security could be a game changer for vibe coders like me",
+        "url": "https://www.reddit.com/r/codex/comments/1v9eip2/codex_security_could_be_a_game_changer_for_vibe/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-28T23:13:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nz9nkej6z1gh1.png?width=320&crop=smart&auto=webp&s=747b30a4d3ca374b07b2ffa2c3adbc12c2a5d836"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo addresses usage limits finally",
+        "url": "https://www.reddit.com/r/codex/comments/1v9l8oe/tibo_addresses_usage_limits_finally/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-29T04:10:04.000Z",
         "category": "reddit"
       },
       {
@@ -145,102 +242,6 @@
         "score": 0,
         "publishedAt": "2026-07-28T22:12:15.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "People liked my desert, so here's a waterbending demo!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v94nal/people_liked_my_desert_so_heres_a_waterbending/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T17:10:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZDI5amdqaTQ1MGdoMaJzpoDG05Ka7gczcR-jHwFjKT5Bu_izuzPSigfIUAHb.png?width=640&crop=smart&auto=webp&s=78ad86fca08868c8ce71df0901d5003a3982e908"
-      },
-      {
-        "rank": 2,
-        "title": "When I have to compact a 2 day long 900k context session with Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9bq96/when_i_have_to_compact_a_2_day_long_900k_context/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T21:25:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0sh1zglof1gh1.png?width=320&crop=smart&auto=webp&s=d9d2cbfcfe5d53bb2938220cef18e9c32e86c705"
-      },
-      {
-        "rank": 3,
-        "title": "The company I work for received a US Government directive requiring us to discontinue the use of Anthropic products, services, and models.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v932su/the_company_i_work_for_received_a_us_government/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T16:15:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "It finally happened!!!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v8zu0p/it_finally_happened/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T14:17:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Anyone afraid of how fast things are progressing",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9391u/anyone_afraid_of_how_fast_things_are_progressing/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T16:21:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l4vpukcrxzfh1.jpeg?width=640&crop=smart&auto=webp&s=dc3f7cda501490175406302372906b8e7cbbabf9"
-      },
-      {
-        "rank": 1,
-        "title": "5-Hour Limit Returning Tomorrow",
-        "url": "https://www.reddit.com/r/codex/comments/1v9l9ls/5hour_limit_returning_tomorrow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-29T04:11:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aFvELVmneAeS4fnZ5Gf8yQrn235PyrrSIzboL6yQaY4.jpeg?width=640&crop=smart&auto=webp&s=c352b228ec274228460d6b28306d01a8cc7e021c"
-      },
-      {
-        "rank": 2,
-        "title": "Codex Security could be a game changer for vibe coders like me",
-        "url": "https://www.reddit.com/r/codex/comments/1v9eip2/codex_security_could_be_a_game_changer_for_vibe/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-28T23:13:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nz9nkej6z1gh1.png?width=320&crop=smart&auto=webp&s=747b30a4d3ca374b07b2ffa2c3adbc12c2a5d836"
-      },
-      {
-        "rank": 3,
-        "title": "The real reason why Codex brought back the 5 hour limit",
-        "url": "https://www.reddit.com/r/codex/comments/1v9mv57/the_real_reason_why_codex_brought_back_the_5_hour/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-29T05:31:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Last reset reduced limits even further?",
-        "url": "https://www.reddit.com/r/codex/comments/1v94899/last_reset_reduced_limits_even_further/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-28T16:56:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I benchmarked every single \"usage saving\" tool out there!",
-        "url": "https://www.reddit.com/r/codex/comments/1v8zwjl/i_benchmarked_every_single_usage_saving_tool_out/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-28T14:20:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pqraoj94czfh1.png?width=640&crop=smart&auto=webp&s=d464abfeb57c2af8812be720ca90ec6478e982f4"
       }
     ]
   }

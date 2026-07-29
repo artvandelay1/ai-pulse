@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-29T15:34:45.290Z",
+  "fetchedAt": "2026-07-29T16:52:51.714Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,20 +34,20 @@
       },
       {
         "rank": 4,
-        "title": "PNAS: Over Half of All Academic Articles Now Show LLM Influence—7.3M-Paper Study [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v93q78/pnas_over_half_of_all_academic_articles_now_show/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T16:38:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "NeurIPS E&D: Should authors respond to ethical reviews during the discussion period? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1v9hth4/neurips_ed_should_authors_respond_to_ethical/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-29T01:32:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS-side prompt injection triggering ethics reviewers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v955f6/neuripsside_prompt_injection_triggering_ethics/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T17:28:35.000Z",
         "category": "reddit"
       },
       {
@@ -91,12 +91,13 @@
       },
       {
         "rank": 5,
-        "title": "Another reset? I'm crying.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v9lx58/another_reset_im_crying/",
+        "title": "Waking up to see the usage reset.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v9v947/waking_up_to_see_the_usage_reset/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-07-29T04:43:37.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-29T12:49:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mfqbsums06gh1.jpeg?width=640&crop=smart&auto=webp&s=ad36a2440d8168138ab507b588c9a8b7e7a3b9fa"
       },
       {
         "rank": 1,

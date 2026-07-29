@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-07-29T04:23:13.669Z",
+  "fetchedAt": "2026-07-29T07:27:43.975Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T14:52:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T07:33:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS 2026 AI-generated reviews [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T11:34:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Neurips rebuttals not visible to reviewers [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8yv7y/neurips_rebuttals_not_visible_to_reviewers_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T13:41:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How exactly does the NeurIPS meta reviewer response work? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8uic0/how_exactly_does_the_neurips_meta_reviewer/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-28T10:34:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Return of the bicameral mind.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v8us89/return_of_the_bicameral_mind/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-28T10:48:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uth3p1u8ayfh1.jpeg?width=640&crop=smart&auto=webp&s=ad32740005cf3f4f910379fa3f5ca2396ffd34d1"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v9gdw0/openais_rogue_ai_agent_hacked_more_than_just/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T00:30:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/5-lFipMiYWTuthiyNxWAqijvgxPBg1NlHjAF-kA80BY.jpeg?width=640&crop=smart&auto=webp&s=95d79f613e6d11a8d4df1a64ca593a3783e8df84"
+      },
+      {
+        "rank": 3,
+        "title": "This is such a cool update!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v952ra/this_is_such_a_cool_update/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-28T17:26:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rsd7l2b990gh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d722337fae401a0f722d5d116b45844aa226621c"
+      },
+      {
+        "rank": 4,
+        "title": "80% of our traffic are AI crawlers. Two referrals to show for it.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v9e3sb/80_of_our_traffic_are_ai_crawlers_two_referrals/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-28T22:56:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ndtirt38w1gh1.png?width=140&height=87&auto=webp&s=fdcf35e006cd60dd4bb491ad3f4f19b675fdc66a"
+      },
+      {
+        "rank": 5,
+        "title": "I built my own DIY Codex Micro over a weekend",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v94vra/i_built_my_own_diy_codex_micro_over_a_weekend/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-28T17:19:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/u5fw5u5v70gh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=61e91f7c61b64f9fca67c9b8d24bca62541a9161"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
+        "url": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-28T12:17:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qtjsnxm6qyfh1.jpeg?width=640&crop=smart&auto=webp&s=6568a44635ff7151f6f998ac546e7f115be65b60"
+      },
+      {
+        "rank": 2,
+        "title": "Elon completely contradicts himself at the end of his disastrous interview with The Economist",
+        "url": "https://www.reddit.com/r/singularity/comments/1v97e70/elon_completely_contradicts_himself_at_the_end_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-28T18:46:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Trump is banning chinese robots/ai models",
+        "url": "https://www.reddit.com/r/singularity/comments/1v97isn/trump_is_banning_chinese_robotsai_models/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-28T18:50:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2mpxywl9o0gh1.png?width=640&crop=smart&auto=webp&s=0ca0231b44de36d0b2a4d09723f2c11eb0ee2154"
+      },
+      {
+        "rank": 4,
+        "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+        "url": "https://www.reddit.com/r/singularity/comments/1v8vmeg/google_and_reddit_do_not_own_the_internet_web/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-28T11:25:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ptgKFpWx-fsedl9Eq_awOwqalPAIr4N5rWvFElkDSkc.jpeg?width=640&crop=smart&auto=webp&s=f6be670195b2765b85eb872a2c105ac7ac1fad77"
+      },
+      {
+        "rank": 5,
+        "title": "Nvidia invests 5 billion dollars into Ilya Sutskever's (creator of ChatGPT) new company SSI (Safe Superintelligence)",
+        "url": "https://www.reddit.com/r/singularity/comments/1v8sc6v/nvidia_invests_5_billion_dollars_into_ilya/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-28T08:38:26.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "People liked my desert, so here's a waterbending demo!",
@@ -54,51 +197,6 @@
       },
       {
         "rank": 1,
-        "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T14:52:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Are single GPU research still published in ML/DL and its applications nowadays? Which are the most notable recent ones? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8r7ab/are_single_gpu_research_still_published_in_mldl/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T07:33:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS 2026 AI-generated reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T11:34:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Neurips rebuttals not visible to reviewers [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8yv7y/neurips_rebuttals_not_visible_to_reviewers_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T13:41:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "How exactly does the NeurIPS meta reviewer response work? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v8uic0/how_exactly_does_the_neurips_meta_reviewer/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-28T10:34:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "While people are celebrating the \"reset\" and \"Saints Tibo\", here is some reality",
         "url": "https://www.reddit.com/r/codex/comments/1v8s68e/while_people_are_celebrating_the_reset_and_saints/",
         "source": "r/codex",
@@ -144,105 +242,6 @@
         "publishedAt": "2026-07-28T14:20:30.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/pqraoj94czfh1.png?width=640&crop=smart&auto=webp&s=d464abfeb57c2af8812be720ca90ec6478e982f4"
-      },
-      {
-        "rank": 1,
-        "title": "Return of the bicameral mind.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v8us89/return_of_the_bicameral_mind/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T10:48:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uth3p1u8ayfh1.jpeg?width=640&crop=smart&auto=webp&s=ad32740005cf3f4f910379fa3f5ca2396ffd34d1"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo is getting a limit reset, so apparently I have to crawl out of bed and work again",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v8ihqi/tibo_is_getting_a_limit_reset_so_apparently_i/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T00:32:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2lsield18vfh1.png?width=640&crop=smart&auto=webp&s=8470353b7b6b9334b52580167b4d90485c6fa9cb"
-      },
-      {
-        "rank": 3,
-        "title": "AI executives demand OpenAI release more details about how the Hugging Face hack happened",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v8pxu9/ai_executives_demand_openai_release_more_details/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T06:24:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-LaD7SfjUHHaldLeAvJbFypOCGVQKlMidxDaOWzuZ6I.jpeg?width=640&crop=smart&auto=webp&s=e5b722679518128516e62a58a97c0f71e0b3bdde"
-      },
-      {
-        "rank": 4,
-        "title": "Apparently matrix multiplication is dangerous stuff...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v8lwsk/apparently_matrix_multiplication_is_dangerous/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T03:03:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/50kmbsa5zvfh1.png?width=140&height=118&auto=webp&s=8a335d7524f7a619fa9f4eb8760a8a2064776d93"
-      },
-      {
-        "rank": 5,
-        "title": "This is such a cool update!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v952ra/this_is_such_a_cool_update/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-28T17:26:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rsd7l2b990gh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d722337fae401a0f722d5d116b45844aa226621c"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
-        "url": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-28T12:17:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qtjsnxm6qyfh1.jpeg?width=640&crop=smart&auto=webp&s=6568a44635ff7151f6f998ac546e7f115be65b60"
-      },
-      {
-        "rank": 2,
-        "title": "Someone made a NMS style exploration game in a day with Opus 5",
-        "url": "https://www.reddit.com/r/singularity/comments/1v8lj7w/someone_made_a_nms_style_exploration_game_in_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-28T02:46:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cnVmZjhxejB3dmZoMUzQrm-Mx3YPjdd0LsOsUnQZgTDvh4wGhSXEZRqp3b1B.png?width=640&crop=smart&auto=webp&s=9d0def1cddc196ede8f1e39536e302df32cda615"
-      },
-      {
-        "rank": 3,
-        "title": "That was quick",
-        "url": "https://www.reddit.com/r/singularity/comments/1v8oe8v/that_was_quick/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-28T05:03:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tolypp5nkwfh1.png?width=640&crop=smart&auto=webp&s=4e924ee25d54347ef6885b60781550a16add7459"
-      },
-      {
-        "rank": 4,
-        "title": "Elon completely contradicts himself at the end of his disastrous interview with The Economist",
-        "url": "https://www.reddit.com/r/singularity/comments/1v97e70/elon_completely_contradicts_himself_at_the_end_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-28T18:46:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Trump is banning chinese robots/ai models",
-        "url": "https://www.reddit.com/r/singularity/comments/1v97isn/trump_is_banning_chinese_robotsai_models/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-28T18:50:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2mpxywl9o0gh1.png?width=640&crop=smart&auto=webp&s=0ca0231b44de36d0b2a4d09723f2c11eb0ee2154"
       }
     ]
   }

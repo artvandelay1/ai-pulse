@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T11:12:49.693Z",
+  "fetchedAt": "2026-07-30T13:09:50.431Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "ICLR 2027 Deadline is before NeurIPS 2026 Decisions [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9v4e7/iclr_2027_deadline_is_before_neurips_2026/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-29T12:43:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I taught an LSTM to move a mouse like a human [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
         "source": "r/MachineLearning",
@@ -42,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "AI Security Leaderboard: benchmarking model robustness [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
         "source": "r/MachineLearning",
@@ -50,6 +41,15 @@
         "publishedAt": "2026-07-29T22:09:52.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/849sof2qs8gh1.jpeg?width=640&crop=smart&auto=webp&s=e35866046cddc5468b5da927b9bf8e5e3eef66c3"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS reviewers not engaging [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1va5io6/neurips_reviewers_not_engaging_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-29T18:59:18.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -71,6 +71,16 @@
       },
       {
         "rank": 3,
+        "title": "After their models escaped and hacked another company, OpenAI has been forced to pause training new models. They admit they do not know how to keep them from escaping.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vappny/after_their_models_escaped_and_hacked_another/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T10:24:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dGpjZ24zM3JmY2doMQoCgyaLf1G4iz5TQx9hYV7wsasCI6CQq93RUvr_nho_.png?width=640&crop=smart&auto=webp&s=9b07a90e88948544b83a8d99197466150a9cfe3f"
+      },
+      {
+        "rank": 4,
         "title": "Sam Altman says he gets why people don't want AI data centers in their backyard",
         "url": "https://www.reddit.com/r/OpenAI/comments/1va8hvd/sam_altman_says_he_gets_why_people_dont_want_ai/",
         "source": "r/OpenAI",
@@ -78,16 +88,6 @@
         "publishedAt": "2026-07-29T20:44:28.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/w8dkes88cKFuV6Yw0nnsWA3gUqWLPzJpbfhcpYpgpps.jpeg?width=640&crop=smart&auto=webp&s=b3ae88a09988fcc33d9c47c608fad19ad755cb90"
-      },
-      {
-        "rank": 4,
-        "title": "Waking up to see the usage reset.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v9v947/waking_up_to_see_the_usage_reset/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T12:49:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mfqbsums06gh1.jpeg?width=640&crop=smart&auto=webp&s=ad36a2440d8168138ab507b588c9a8b7e7a3b9fa"
       },
       {
         "rank": 5,
@@ -100,16 +100,6 @@
       },
       {
         "rank": 1,
-        "title": "Claude Opus 5 is Insane",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T12:43:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aWowbmRzNXR6NWdoMbW3SwN7yEmeurH7D4tTRoVR-9rPz8rhfYzwsabc7VXQ.png?width=640&crop=smart&auto=webp&s=c4040474caa769a0bc6249a0fbb60cea409fc4d4"
-      },
-      {
-        "rank": 2,
         "title": "GPT-5.6 Sol helped optimize its own inference",
         "url": "https://www.reddit.com/r/singularity/comments/1va9qu0/gpt56_sol_helped_optimize_its_own_inference/",
         "source": "r/singularity",
@@ -119,7 +109,7 @@
         "thumbnail": "https://preview.redd.it/2vuf6rgpl8gh1.png?width=640&crop=smart&auto=webp&s=3616d956c804f7ea9f20de28d624fa15e515a8dd"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Elon Musk: “If Chinese Companies had a lot of Compute, good chance that They Would be Leaders in AI. At Some Point, They will probably have More Compute”",
         "url": "https://www.reddit.com/r/singularity/comments/1v9xth4/elon_musk_if_chinese_companies_had_a_lot_of/",
         "source": "r/singularity",
@@ -128,17 +118,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Rewinding to 2020...",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9u8v4/rewinding_to_2020/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T12:04:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rxocczsss5gh1.png?width=640&crop=smart&auto=webp&s=2a2c5f72439b291c0c56ab14523da23ea8267409"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Claude Opus 5 behaves strangely with this prompt.",
         "url": "https://www.reddit.com/r/singularity/comments/1vaebys/claude_opus_5_behaves_strangely_with_this_prompt/",
         "source": "r/singularity",
@@ -146,6 +126,25 @@
         "publishedAt": "2026-07-30T00:37:30.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/cdz0l8s2j9gh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0558471ae572dd1b1bffe96967fee56fb55030d0"
+      },
+      {
+        "rank": 4,
+        "title": "Claude 5 Opus and 3D Moonlight Scene",
+        "url": "https://www.reddit.com/r/singularity/comments/1vaax68/claude_5_opus_and_3d_moonlight_scene/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T22:16:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eXdxbW51ejN0OGdoMTMnNHelHr8ie5VDxs8LWWIg4mYH3PPrNvi5RjvqR2Pa.png?width=640&crop=smart&auto=webp&s=7c7c6b9283118c97e154bebf8bf222241bd520c9"
+      },
+      {
+        "rank": 5,
+        "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley",
+        "url": "https://www.reddit.com/r/singularity/comments/1va6qrc/a_backlash_against_anthropic_is_brewing_in/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T19:41:37.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

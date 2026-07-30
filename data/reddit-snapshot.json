@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T17:41:44.251Z",
+  "fetchedAt": "2026-07-30T19:40:49.197Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,15 @@
       },
       {
         "rank": 3,
+        "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T16:37:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "I taught an LSTM to move a mouse like a human [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
         "source": "r/MachineLearning",
@@ -33,21 +42,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-29T20:22:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T16:37:50.000Z",
         "category": "reddit"
       },
       {
@@ -61,6 +61,15 @@
       },
       {
         "rank": 2,
+        "title": "OpenAI reduces prices on its models by 5x",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vb0kur/openai_reduces_prices_on_its_models_by_5x/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T17:41:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "After their models escaped and hacked another company, OpenAI has been forced to pause training new models. They admit they do not know how to keep them from escaping.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vappny/after_their_models_escaped_and_hacked_another/",
         "source": "r/OpenAI",
@@ -70,7 +79,7 @@
         "thumbnail": "https://external-preview.redd.it/dGpjZ24zM3JmY2doMQoCgyaLf1G4iz5TQx9hYV7wsasCI6CQq93RUvr_nho_.png?width=640&crop=smart&auto=webp&s=9b07a90e88948544b83a8d99197466150a9cfe3f"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "OpenAI are now talking to the White House about the need to slow down AI",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vavnez/openai_are_now_talking_to_the_white_house_about/",
         "source": "r/OpenAI",
@@ -80,23 +89,13 @@
         "thumbnail": "https://external-preview.redd.it/c2dhc2VzdDZxZGdoMX7rmJ2-tS-HBMTMQWY2JIeO2Wew8cG09hu3LLPv5wFz.png?width=640&crop=smart&auto=webp&s=a416bbd7d9393f1a75dec49b2a060aa008430682"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Hardcoding one model not working for us anymore",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vaxmz1/hardcoding_one_model_not_working_for_us_anymore/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-30T15:57:18.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Sam Altman says he gets why people don't want AI data centers in their backyard",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1va8hvd/sam_altman_says_he_gets_why_people_dont_want_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T20:44:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/w8dkes88cKFuV6Yw0nnsWA3gUqWLPzJpbfhcpYpgpps.jpeg?width=640&crop=smart&auto=webp&s=b3ae88a09988fcc33d9c47c608fad19ad755cb90"
       },
       {
         "rank": 1,

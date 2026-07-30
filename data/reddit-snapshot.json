@@ -1,10 +1,150 @@
 {
-  "fetchedAt": "2026-07-30T05:47:09.484Z",
+  "fetchedAt": "2026-07-30T08:35:48.946Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ICLR 2027 Deadline is before NeurIPS 2026 Decisions [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9v4e7/iclr_2027_deadline_is_before_neurips_2026/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-29T12:43:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T02:54:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-29T20:22:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Vendor-agnostic ML inference on production edge devices [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-29T10:22:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS reviewers not engaging [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1va5io6/neurips_reviewers_not_engaging_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-29T18:59:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Ngl Chatgpt explains concepts better than half my professors",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v9wc7j/ngl_chatgpt_explains_concepts_better_than_half_my/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T13:32:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1va6un6/openais_rogue_models_roamed_the_internet_for_4/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T19:45:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Sam Altman says he gets why people don't want AI data centers in their backyard",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1va8hvd/sam_altman_says_he_gets_why_people_dont_want_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T20:44:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/w8dkes88cKFuV6Yw0nnsWA3gUqWLPzJpbfhcpYpgpps.jpeg?width=640&crop=smart&auto=webp&s=b3ae88a09988fcc33d9c47c608fad19ad755cb90"
+      },
+      {
+        "rank": 4,
+        "title": "Waking up to see the usage reset.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1v9v947/waking_up_to_see_the_usage_reset/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T12:49:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mfqbsums06gh1.jpeg?width=640&crop=smart&auto=webp&s=ad36a2440d8168138ab507b588c9a8b7e7a3b9fa"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT ftw",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1va4sq1/chatgpt_ftw/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T18:34:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Claude Opus 5 is Insane",
+        "url": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T12:43:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aWowbmRzNXR6NWdoMbW3SwN7yEmeurH7D4tTRoVR-9rPz8rhfYzwsabc7VXQ.png?width=640&crop=smart&auto=webp&s=c4040474caa769a0bc6249a0fbb60cea409fc4d4"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-5.6 Sol helped optimize its own inference",
+        "url": "https://www.reddit.com/r/singularity/comments/1va9qu0/gpt56_sol_helped_optimize_its_own_inference/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T21:31:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2vuf6rgpl8gh1.png?width=640&crop=smart&auto=webp&s=3616d956c804f7ea9f20de28d624fa15e515a8dd"
+      },
+      {
+        "rank": 3,
+        "title": "Elon Musk: “If Chinese Companies had a lot of Compute, good chance that They Would be Leaders in AI. At Some Point, They will probably have More Compute”",
+        "url": "https://www.reddit.com/r/singularity/comments/1v9xth4/elon_musk_if_chinese_companies_had_a_lot_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T14:28:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Mark Zuckerberg Says U.S. Should Accelerate Al Development, Not Restrict It",
+        "url": "https://www.reddit.com/r/singularity/comments/1v9skbw/mark_zuckerberg_says_us_should_accelerate_al/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T10:44:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Rewinding to 2020...",
+        "url": "https://www.reddit.com/r/singularity/comments/1v9u8v4/rewinding_to_2020/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-29T12:04:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rxocczsss5gh1.png?width=640&crop=smart&auto=webp&s=2a2c5f72439b291c0c56ab14523da23ea8267409"
+      },
       {
         "rank": 1,
         "title": "Why is Claude so mean to its subagents",
@@ -57,51 +197,6 @@
       },
       {
         "rank": 1,
-        "title": "ICLR 2027 Deadline is before NeurIPS 2026 Decisions [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9v4e7/iclr_2027_deadline_is_before_neurips_2026/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-29T12:43:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Workshop paper accepted, reviewers asked new experiments [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9owaf/workshop_paper_accepted_reviewers_asked_new/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-29T07:21:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T02:54:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-29T20:22:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Vendor-agnostic ML inference on production edge devices [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-29T10:22:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "😭",
         "url": "https://www.reddit.com/r/codex/comments/1v9v80c/_/",
         "source": "r/codex",
@@ -148,101 +243,6 @@
         "publishedAt": "2026-07-30T03:05:02.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/muyv5phd9agh1.png?width=140&height=57&auto=webp&s=bef71a1cfb2ecbe7843640334c8fa22cccbb5ef6"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v9gdw0/openais_rogue_ai_agent_hacked_more_than_just/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T00:30:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/5-lFipMiYWTuthiyNxWAqijvgxPBg1NlHjAF-kA80BY.jpeg?width=640&crop=smart&auto=webp&s=95d79f613e6d11a8d4df1a64ca593a3783e8df84"
-      },
-      {
-        "rank": 2,
-        "title": "Ngl Chatgpt explains concepts better than half my professors",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v9wc7j/ngl_chatgpt_explains_concepts_better_than_half_my/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T13:32:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1va6un6/openais_rogue_models_roamed_the_internet_for_4/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T19:45:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Waking up to see the usage reset.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1v9v947/waking_up_to_see_the_usage_reset/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T12:49:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mfqbsums06gh1.jpeg?width=640&crop=smart&auto=webp&s=ad36a2440d8168138ab507b588c9a8b7e7a3b9fa"
-      },
-      {
-        "rank": 5,
-        "title": "Sam Altman says he gets why people don't want AI data centers in their backyard",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1va8hvd/sam_altman_says_he_gets_why_people_dont_want_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T20:44:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/w8dkes88cKFuV6Yw0nnsWA3gUqWLPzJpbfhcpYpgpps.jpeg?width=640&crop=smart&auto=webp&s=b3ae88a09988fcc33d9c47c608fad19ad755cb90"
-      },
-      {
-        "rank": 1,
-        "title": "Claude Opus 5 is Insane",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T12:43:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aWowbmRzNXR6NWdoMbW3SwN7yEmeurH7D4tTRoVR-9rPz8rhfYzwsabc7VXQ.png?width=640&crop=smart&auto=webp&s=c4040474caa769a0bc6249a0fbb60cea409fc4d4"
-      },
-      {
-        "rank": 2,
-        "title": "Google DeepMind dismantles Nobel-winning AlphaFold team, loses top talent in major shift toward Gemini and AI Agents. Will it remain research-first lab?",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9mq82/google_deepmind_dismantles_nobelwinning_alphafold/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T05:24:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-5.6 Sol helped optimize its own inference",
-        "url": "https://www.reddit.com/r/singularity/comments/1va9qu0/gpt56_sol_helped_optimize_its_own_inference/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T21:31:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2vuf6rgpl8gh1.png?width=640&crop=smart&auto=webp&s=3616d956c804f7ea9f20de28d624fa15e515a8dd"
-      },
-      {
-        "rank": 4,
-        "title": "Mark Zuckerberg Says U.S. Should Accelerate Al Development, Not Restrict It",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9skbw/mark_zuckerberg_says_us_should_accelerate_al/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T10:44:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Elon Musk: “If Chinese Companies had a lot of Compute, good chance that They Would be Leaders in AI. At Some Point, They will probably have More Compute”",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9xth4/elon_musk_if_chinese_companies_had_a_lot_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T14:28:47.000Z",
-        "category": "reddit"
       }
     ]
   }

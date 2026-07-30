@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T02:46:06.457Z",
+  "fetchedAt": "2026-07-30T05:47:09.484Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,15 +37,6 @@
       },
       {
         "rank": 4,
-        "title": "\"Clever ape.\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1v9wm4z/clever_ape/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T13:43:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "This technology is limitless",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaamj3/this_technology_is_limitless/",
         "source": "r/ClaudeAI",
@@ -53,6 +44,16 @@
         "publishedAt": "2026-07-29T22:04:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/504mshkvr8gh1.jpeg?width=640&crop=smart&auto=webp&s=d3fdb4129b60dc418ceeb7580af682c7695fc21c"
+      },
+      {
+        "rank": 5,
+        "title": "Please tell me I'm not the only one...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1va7ln5/please_tell_me_im_not_the_only_one/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T20:11:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zghcz8jq78gh1.png?width=640&crop=smart&auto=webp&s=bd86b5fdd4e22ff3c760c2c42705dcbce9fc5cd3"
       },
       {
         "rank": 1,
@@ -74,11 +75,11 @@
       },
       {
         "rank": 3,
-        "title": "EMNLP 2026 AI Reviewing Experiment [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
+        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-29T02:44:29.000Z",
+        "publishedAt": "2026-07-30T02:54:23.000Z",
         "category": "reddit"
       },
       {
@@ -101,16 +102,6 @@
       },
       {
         "rank": 1,
-        "title": "5-Hour Limit Returning Tomorrow",
-        "url": "https://www.reddit.com/r/codex/comments/1v9l9ls/5hour_limit_returning_tomorrow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-29T04:11:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aFvELVmneAeS4fnZ5Gf8yQrn235PyrrSIzboL6yQaY4.jpeg?width=640&crop=smart&auto=webp&s=c352b228ec274228460d6b28306d01a8cc7e021c"
-      },
-      {
-        "rank": 2,
         "title": "😭",
         "url": "https://www.reddit.com/r/codex/comments/1v9v80c/_/",
         "source": "r/codex",
@@ -120,16 +111,7 @@
         "thumbnail": "https://preview.redd.it/e5yc8mij06gh1.jpeg?width=320&crop=smart&auto=webp&s=4614e81d968927db583c4b91bde35bc74a3a5754"
       },
       {
-        "rank": 3,
-        "title": "The real reason why Codex brought back the 5 hour limit",
-        "url": "https://www.reddit.com/r/codex/comments/1v9mv57/the_real_reason_why_codex_brought_back_the_5_hour/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-29T05:31:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "Wow Waaay better... gpt-5.6-sol xhigh, 3.5 Hours and Only 3% Used. Fixed for everyone?",
         "url": "https://www.reddit.com/r/codex/comments/1v9uexe/wow_waaay_better_gpt56sol_xhigh_35_hours_and_only/",
         "source": "r/codex",
@@ -139,13 +121,33 @@
         "thumbnail": "https://preview.redd.it/7eg599h0t5gh1.png?width=140&height=14&auto=webp&s=ba0ff60400ea2d2850bea087fb2f2b1b68ff6d7b"
       },
       {
-        "rank": 5,
-        "title": "Tibo addresses usage limits finally",
-        "url": "https://www.reddit.com/r/codex/comments/1v9l8oe/tibo_addresses_usage_limits_finally/",
+        "rank": 3,
+        "title": "Tibo addresses 5.6 Sol Score on ARC-AGI-3",
+        "url": "https://www.reddit.com/r/codex/comments/1vacy8a/tibo_addresses_56_sol_score_on_arcagi3/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-29T04:10:04.000Z",
+        "publishedAt": "2026-07-29T23:38:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/537srj5n89gh1.jpeg?width=640&crop=smart&auto=webp&s=c568f75ac67fcf89da7e923d5e460257b9822e63"
+      },
+      {
+        "rank": 4,
+        "title": "I tested 5 popular token saving methods on GPT-5.6 Sol across 10 real tasks, and none cut total tokens in both runs.",
+        "url": "https://www.reddit.com/r/codex/comments/1v9xdc5/i_tested_5_popular_token_saving_methods_on_gpt56/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-29T14:12:08.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo is hyping a new launch tomorrow, intelligence too cheap to meter",
+        "url": "https://www.reddit.com/r/codex/comments/1vahl9u/tibo_is_hyping_a_new_launch_tomorrow_intelligence/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T03:05:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/muyv5phd9agh1.png?width=140&height=57&auto=webp&s=bef71a1cfb2ecbe7843640334c8fa22cccbb5ef6"
       },
       {
         "rank": 1,

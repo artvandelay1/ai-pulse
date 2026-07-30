@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T21:17:08.325Z",
+  "fetchedAt": "2026-07-30T22:39:13.488Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Why is Claude so mean to its subagents",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1va9ozk/why_is_claude_so_mean_to_its_subagents/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T21:29:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fozl8mefl8gh1.png?width=320&crop=smart&auto=webp&s=38ee75dfc43207d453541c02581e643b97658a0a"
-      },
-      {
-        "rank": 2,
         "title": "Claude thought I could be having a stroke. I was.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vavbyk/claude_thought_i_could_be_having_a_stroke_i_was/",
         "source": "r/ClaudeAI",
@@ -26,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/lvpn6is3odgh1.jpeg?width=640&crop=smart&auto=webp&s=a0ebea703739e80940ac4abccb8d5a822dc5fc66"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "I had an idea for an airgapped file transfer mechanism",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vawcw3/i_had_an_idea_for_an_airgapped_file_transfer/",
         "source": "r/ClaudeAI",
@@ -36,17 +26,7 @@
         "thumbnail": "https://external-preview.redd.it/Mmd6NWFqenR1ZGdoMZy34Onx-3NTAMdj1GJt9zAaeCPojOcxKcDUvs5b6Mew.png?width=640&crop=smart&auto=webp&s=021164a91f4eaa2f14f4a57652baddb87f5aeb9d"
       },
       {
-        "rank": 4,
-        "title": "This technology is limitless",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaamj3/this_technology_is_limitless/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T22:04:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/504mshkvr8gh1.jpeg?width=640&crop=smart&auto=webp&s=d3fdb4129b60dc418ceeb7580af682c7695fc21c"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "I was never a fan of Claude, but Opus 5 really is insanely impressive, it's like a genie.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vae3md/i_was_never_a_fan_of_claude_but_opus_5_really_is/",
         "source": "r/ClaudeAI",
@@ -54,6 +34,24 @@
         "publishedAt": "2026-07-30T00:27:11.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gr4jrrbbg9gh1.png?width=140&height=110&auto=webp&s=97708e9f7979b2d87c8017f101f444ba72da2c4f"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic cut most of Claude Code's system prompt and told us to put the rest in CLAUDE.md. Honestly I think this is the right call.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vauevs/anthropic_cut_most_of_claude_codes_system_prompt/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T13:58:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Opus 5's stream of consciousness and long-winded replies are becoming taxing. What are you guys doing to improve it?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vam0ak/opus_5s_stream_of_consciousness_and_longwinded/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T06:52:52.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -66,15 +64,6 @@
       },
       {
         "rank": 2,
-        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T02:54:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
         "source": "r/MachineLearning",
@@ -82,6 +71,15 @@
         "publishedAt": "2026-07-30T19:40:56.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795"
+      },
+      {
+        "rank": 3,
+        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T02:54:23.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,

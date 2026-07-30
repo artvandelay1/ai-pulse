@@ -1,10 +1,60 @@
 {
-  "fetchedAt": "2026-07-30T19:40:49.197Z",
+  "fetchedAt": "2026-07-30T21:17:08.325Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Why is Claude so mean to its subagents",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1va9ozk/why_is_claude_so_mean_to_its_subagents/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T21:29:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fozl8mefl8gh1.png?width=320&crop=smart&auto=webp&s=38ee75dfc43207d453541c02581e643b97658a0a"
+      },
+      {
+        "rank": 2,
+        "title": "Claude thought I could be having a stroke. I was.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vavbyk/claude_thought_i_could_be_having_a_stroke_i_was/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T14:32:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lvpn6is3odgh1.jpeg?width=640&crop=smart&auto=webp&s=a0ebea703739e80940ac4abccb8d5a822dc5fc66"
+      },
+      {
+        "rank": 3,
+        "title": "I had an idea for an airgapped file transfer mechanism",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vawcw3/i_had_an_idea_for_an_airgapped_file_transfer/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T15:10:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Mmd6NWFqenR1ZGdoMZy34Onx-3NTAMdj1GJt9zAaeCPojOcxKcDUvs5b6Mew.png?width=640&crop=smart&auto=webp&s=021164a91f4eaa2f14f4a57652baddb87f5aeb9d"
+      },
+      {
+        "rank": 4,
+        "title": "This technology is limitless",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaamj3/this_technology_is_limitless/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-29T22:04:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/504mshkvr8gh1.jpeg?width=640&crop=smart&auto=webp&s=d3fdb4129b60dc418ceeb7580af682c7695fc21c"
+      },
+      {
+        "rank": 5,
+        "title": "I was never a fan of Claude, but Opus 5 really is insanely impressive, it's like a genie.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vae3md/i_was_never_a_fan_of_claude_but_opus_5_really_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T00:27:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gr4jrrbbg9gh1.png?width=140&height=110&auto=webp&s=97708e9f7979b2d87c8017f101f444ba72da2c4f"
+      },
       {
         "rank": 1,
         "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
@@ -25,6 +75,16 @@
       },
       {
         "rank": 3,
+        "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T19:40:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795"
+      },
+      {
+        "rank": 4,
         "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
         "source": "r/MachineLearning",
@@ -33,7 +93,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "I taught an LSTM to move a mouse like a human [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
         "source": "r/MachineLearning",
@@ -42,13 +102,53 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "OpenAI cuts GPT-5.6 Terra and Luna prices",
+        "url": "https://www.reddit.com/r/codex/comments/1vazoph/openai_cuts_gpt56_terra_and_luna_prices/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-07-29T20:22:16.000Z",
+        "publishedAt": "2026-07-30T17:09:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/oO3C6ooVmf7PpWzIMfvqzGCF9sDgSxLtHgolHPfwpuQ.jpeg?width=640&crop=smart&auto=webp&s=29d84a63b3a9033c7576a039c63041fcccf47518"
+      },
+      {
+        "rank": 2,
+        "title": "5h limits are mentally exhausting - please don't bring them back!",
+        "url": "https://www.reddit.com/r/codex/comments/1vat8te/5h_limits_are_mentally_exhausting_please_dont/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T13:10:38.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Tibo is hyping a new launch tomorrow, intelligence too cheap to meter",
+        "url": "https://www.reddit.com/r/codex/comments/1vahl9u/tibo_is_hyping_a_new_launch_tomorrow_intelligence/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T03:05:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/muyv5phd9agh1.png?width=140&height=57&auto=webp&s=bef71a1cfb2ecbe7843640334c8fa22cccbb5ef6"
+      },
+      {
+        "rank": 4,
+        "title": "Tibo addresses 5.6 Sol Score on ARC-AGI-3",
+        "url": "https://www.reddit.com/r/codex/comments/1vacy8a/tibo_addresses_56_sol_score_on_arcagi3/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-29T23:38:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/537srj5n89gh1.jpeg?width=640&crop=smart&auto=webp&s=c568f75ac67fcf89da7e923d5e460257b9822e63"
+      },
+      {
+        "rank": 5,
+        "title": "Codex cheaper than ever",
+        "url": "https://www.reddit.com/r/codex/comments/1vb0qme/codex_cheaper_than_ever/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T17:46:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5xjxq3xlmegh1.png?width=140&height=69&auto=webp&s=eeca91cf11505280d6e35209ace16e0b823dae8a"
       },
       {
         "rank": 1,
@@ -145,104 +245,6 @@
         "publishedAt": "2026-07-29T22:16:08.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/eXdxbW51ejN0OGdoMTMnNHelHr8ie5VDxs8LWWIg4mYH3PPrNvi5RjvqR2Pa.png?width=640&crop=smart&auto=webp&s=7c7c6b9283118c97e154bebf8bf222241bd520c9"
-      },
-      {
-        "rank": 1,
-        "title": "Why is Claude so mean to its subagents",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1va9ozk/why_is_claude_so_mean_to_its_subagents/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T21:29:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fozl8mefl8gh1.png?width=320&crop=smart&auto=webp&s=38ee75dfc43207d453541c02581e643b97658a0a"
-      },
-      {
-        "rank": 2,
-        "title": "This technology is limitless",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaamj3/this_technology_is_limitless/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T22:04:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/504mshkvr8gh1.jpeg?width=640&crop=smart&auto=webp&s=d3fdb4129b60dc418ceeb7580af682c7695fc21c"
-      },
-      {
-        "rank": 3,
-        "title": "Please tell me I'm not the only one...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1va7ln5/please_tell_me_im_not_the_only_one/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T20:11:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zghcz8jq78gh1.png?width=640&crop=smart&auto=webp&s=bd86b5fdd4e22ff3c760c2c42705dcbce9fc5cd3"
-      },
-      {
-        "rank": 4,
-        "title": "Claude thought I could be having a stroke. I was.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vavbyk/claude_thought_i_could_be_having_a_stroke_i_was/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T14:32:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lvpn6is3odgh1.jpeg?width=640&crop=smart&auto=webp&s=a0ebea703739e80940ac4abccb8d5a822dc5fc66"
-      },
-      {
-        "rank": 5,
-        "title": "I got tired of watching Claude Code work in a plain terminal so I built it 3D cozy game simulation for my agents",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1va26us/i_got_tired_of_watching_claude_code_work_in_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T17:02:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eHZlZ200Yng5N2doMYXekq6jsDv2Y9NnriRv9S1U36yaz2OYCsdtiJ3Z1aDF.png?width=640&crop=smart&auto=webp&s=c4c4653cb466af13e2514d75e4b1530b4b8f2bbb"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo is hyping a new launch tomorrow, intelligence too cheap to meter",
-        "url": "https://www.reddit.com/r/codex/comments/1vahl9u/tibo_is_hyping_a_new_launch_tomorrow_intelligence/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T03:05:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/muyv5phd9agh1.png?width=140&height=57&auto=webp&s=bef71a1cfb2ecbe7843640334c8fa22cccbb5ef6"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo addresses 5.6 Sol Score on ARC-AGI-3",
-        "url": "https://www.reddit.com/r/codex/comments/1vacy8a/tibo_addresses_56_sol_score_on_arcagi3/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-29T23:38:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/537srj5n89gh1.jpeg?width=640&crop=smart&auto=webp&s=c568f75ac67fcf89da7e923d5e460257b9822e63"
-      },
-      {
-        "rank": 3,
-        "title": "5h limits are mentally exhausting - please don't bring them back!",
-        "url": "https://www.reddit.com/r/codex/comments/1vat8te/5h_limits_are_mentally_exhausting_please_dont/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T13:10:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Tibo is teasing another Codex release?",
-        "url": "https://www.reddit.com/r/codex/comments/1vai6d7/tibo_is_teasing_another_codex_release/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T03:33:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l0h52oldeagh1.png?width=640&crop=smart&auto=webp&s=ad36d38ebef58c113947794d70aa6122f19b30bc"
-      },
-      {
-        "rank": 5,
-        "title": "Just tried to cancel ChatGPT subscription and got 30 days free",
-        "url": "https://www.reddit.com/r/codex/comments/1va5vna/just_tried_to_cancel_chatgpt_subscription_and_got/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-29T19:11:40.000Z",
-        "category": "reddit"
       }
     ]
   }

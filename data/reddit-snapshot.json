@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T08:35:48.946Z",
+  "fetchedAt": "2026-07-30T11:12:49.693Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,21 +34,22 @@
       },
       {
         "rank": 4,
-        "title": "Vendor-agnostic ML inference on production edge devices [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/",
+        "title": "I taught an LSTM to move a mouse like a human [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-29T10:22:27.000Z",
+        "publishedAt": "2026-07-30T05:52:50.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "NeurIPS reviewers not engaging [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1va5io6/neurips_reviewers_not_engaging_d/",
+        "title": "AI Security Leaderboard: benchmarking model robustness [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-29T18:59:18.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-29T22:09:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/849sof2qs8gh1.jpeg?width=640&crop=smart&auto=webp&s=e35866046cddc5468b5da927b9bf8e5e3eef66c3"
       },
       {
         "rank": 1,
@@ -128,15 +129,6 @@
       },
       {
         "rank": 4,
-        "title": "Mark Zuckerberg Says U.S. Should Accelerate Al Development, Not Restrict It",
-        "url": "https://www.reddit.com/r/singularity/comments/1v9skbw/mark_zuckerberg_says_us_should_accelerate_al/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T10:44:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Rewinding to 2020...",
         "url": "https://www.reddit.com/r/singularity/comments/1v9u8v4/rewinding_to_2020/",
         "source": "r/singularity",
@@ -144,6 +136,16 @@
         "publishedAt": "2026-07-29T12:04:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/rxocczsss5gh1.png?width=640&crop=smart&auto=webp&s=2a2c5f72439b291c0c56ab14523da23ea8267409"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Opus 5 behaves strangely with this prompt.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vaebys/claude_opus_5_behaves_strangely_with_this_prompt/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-30T00:37:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cdz0l8s2j9gh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0558471ae572dd1b1bffe96967fee56fb55030d0"
       },
       {
         "rank": 1,

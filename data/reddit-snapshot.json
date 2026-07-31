@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-07-31T17:07:49.490Z",
+  "fetchedAt": "2026-07-31T18:56:17.178Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Now, Anthropic reporting its own models went rogue",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T00:13:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5ilakmn6jggh1.jpeg?width=640&crop=smart&auto=webp&s=0b0c5a09ee598b18238a6d74ac146639f4244e00"
+      },
+      {
+        "rank": 2,
+        "title": "Is Opus 5 actually that bad, or is it just Reddit hype?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbdp39/is_opus_5_actually_that_bad_or_is_it_just_reddit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T02:17:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic finally launched a financial literacy toy for young AI engineers",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbrwxt/anthropic_finally_launched_a_financial_literacy/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T14:05:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/obyo72nlnkgh1.png?width=640&crop=smart&auto=webp&s=c8723e0257eb739346953d8fe9ec217e0035accc"
+      },
+      {
+        "rank": 4,
+        "title": "I close every Claude session with the same two questions and it keeps catching things I would have shipped.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbkq6o/i_close_every_claude_session_with_the_same_two/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T08:13:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic Just Open-Sourced Their Distillation Check",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vb5e8i/anthropic_just_opensourced_their_distillation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T20:33:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ggts3mlggfgh1.png?width=640&crop=smart&auto=webp&s=6fa2d0401744c6c457234a83414b25ec888871ba"
+      },
       {
         "rank": 1,
         "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
@@ -50,6 +98,54 @@
         "score": 0,
         "publishedAt": "2026-07-31T02:30:08.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Well played, Tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1vbjml1/well_played_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T07:11:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Just used a reset, thank me later",
+        "url": "https://www.reddit.com/r/codex/comments/1vb6ynr/just_used_a_reset_thank_me_later/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T21:31:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "GPT 5.6 Luna pricing has been updated on DeepSWE",
+        "url": "https://www.reddit.com/r/codex/comments/1vb5ia6/gpt_56_luna_pricing_has_been_updated_on_deepswe/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T20:37:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xrnxpsh6hfgh1.png?width=640&crop=smart&auto=webp&s=d7a090eb19b40ef936ce8aaeb3c1b57fcdba201b"
+      },
+      {
+        "rank": 4,
+        "title": "Woah",
+        "url": "https://www.reddit.com/r/codex/comments/1vbdlsn/woah/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T02:13:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qpdi8ypl4hgh1.png?width=640&crop=smart&auto=webp&s=e89a70548eb618edb2ae7649972ef7e996f23a66"
+      },
+      {
+        "rank": 5,
+        "title": "GPT 5.6 Luna right now is cheaper than Deepseek on openrouter",
+        "url": "https://www.reddit.com/r/codex/comments/1vb6ptv/gpt_56_luna_right_now_is_cheaper_than_deepseek_on/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T21:22:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z9zfvhc4pfgh1.png?width=140&height=81&auto=webp&s=9beb3d0b8eb2ac22420c1ea325bf5976b39bb4c4"
       },
       {
         "rank": 1,
@@ -146,105 +242,6 @@
         "publishedAt": "2026-07-31T01:49:10.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/nic2h7us0hgh1.png?width=640&crop=smart&auto=webp&s=1fff828d0a64edb286541a63635995d9c090bf14"
-      },
-      {
-        "rank": 1,
-        "title": "I had an idea for an airgapped file transfer mechanism",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vawcw3/i_had_an_idea_for_an_airgapped_file_transfer/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T15:10:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mmd6NWFqenR1ZGdoMZy34Onx-3NTAMdj1GJt9zAaeCPojOcxKcDUvs5b6Mew.png?width=640&crop=smart&auto=webp&s=021164a91f4eaa2f14f4a57652baddb87f5aeb9d"
-      },
-      {
-        "rank": 2,
-        "title": "Claude thought I could be having a stroke. I was.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vavbyk/claude_thought_i_could_be_having_a_stroke_i_was/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T14:32:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lvpn6is3odgh1.jpeg?width=640&crop=smart&auto=webp&s=a0ebea703739e80940ac4abccb8d5a822dc5fc66"
-      },
-      {
-        "rank": 3,
-        "title": "Now, Anthropic reporting its own models went rogue",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T00:13:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ilakmn6jggh1.jpeg?width=640&crop=smart&auto=webp&s=0b0c5a09ee598b18238a6d74ac146639f4244e00"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Pro 5h Limit is Broken, and Anthropic isn't hiding it anymore",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaykt8/claude_pro_5h_limit_is_broken_and_anthropic_isnt/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T16:30:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iclymd7h8egh1.png?width=640&crop=smart&auto=webp&s=4b3d2f38c370f5a733c9ee0808b09f1328707610"
-      },
-      {
-        "rank": 5,
-        "title": "last update on politician factchecker",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vb19a6/last_update_on_politician_factchecker/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T18:04:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cXRtdDVxaWxwZWdoMVhgC2qnrd4rnDJftPWwChUHLw1GrwvaNxzluEIWvYQh.png?width=640&crop=smart&auto=webp&s=308b71d613fd11c54961f2c8d9f2fa717075e0ed"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI cuts GPT-5.6 Terra and Luna prices",
-        "url": "https://www.reddit.com/r/codex/comments/1vazoph/openai_cuts_gpt56_terra_and_luna_prices/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T17:09:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/oO3C6ooVmf7PpWzIMfvqzGCF9sDgSxLtHgolHPfwpuQ.jpeg?width=640&crop=smart&auto=webp&s=29d84a63b3a9033c7576a039c63041fcccf47518"
-      },
-      {
-        "rank": 2,
-        "title": "Codex cheaper than ever",
-        "url": "https://www.reddit.com/r/codex/comments/1vb0qme/codex_cheaper_than_ever/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T17:46:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5xjxq3xlmegh1.png?width=140&height=69&auto=webp&s=eeca91cf11505280d6e35209ace16e0b823dae8a"
-      },
-      {
-        "rank": 3,
-        "title": "5h limits are mentally exhausting - please don't bring them back!",
-        "url": "https://www.reddit.com/r/codex/comments/1vat8te/5h_limits_are_mentally_exhausting_please_dont/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T13:10:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "openai just killed chinese models by reducing luna price by 80%",
-        "url": "https://www.reddit.com/r/codex/comments/1vb19nl/openai_just_killed_chinese_models_by_reducing/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T18:04:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o2u7qwu0qegh1.jpeg?width=640&crop=smart&auto=webp&s=fffc57739a6531e8fabb684771731d3ea0c77b66"
-      },
-      {
-        "rank": 5,
-        "title": "GPT 5.6 Luna pricing has been updated on DeepSWE",
-        "url": "https://www.reddit.com/r/codex/comments/1vb5ia6/gpt_56_luna_pricing_has_been_updated_on_deepswe/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T20:37:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xrnxpsh6hfgh1.png?width=640&crop=smart&auto=webp&s=d7a090eb19b40ef936ce8aaeb3c1b57fcdba201b"
       }
     ]
   }

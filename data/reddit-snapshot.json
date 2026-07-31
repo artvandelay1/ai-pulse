@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T12:29:44.668Z",
+  "fetchedAt": "2026-07-31T15:04:46.624Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -63,16 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "OpenAI are now talking to the White House about the need to slow down AI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vavnez/openai_are_now_talking_to_the_white_house_about/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T14:44:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c2dhc2VzdDZxZGdoMX7rmJ2-tS-HBMTMQWY2JIeO2Wew8cG09hu3LLPv5wFz.png?width=640&crop=smart&auto=webp&s=a416bbd7d9393f1a75dec49b2a060aa008430682"
-      },
-      {
-        "rank": 3,
         "title": "GPT-5.6 Luna is now cheaper than GPT-4.1 mini",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vbiqef/gpt56_luna_is_now_cheaper_than_gpt41_mini/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Price reduction for Luna and Terra!!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vb08qu/price_reduction_for_luna_and_terra/",
         "source": "r/OpenAI",
@@ -90,12 +80,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Hardcoding one model not working for us anymore",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vaxmz1/hardcoding_one_model_not_working_for_us_anymore/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-30T15:57:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Exploring the \"Dario and Amanda\" Prompt",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vbeeup/exploring_the_dario_and_amanda_prompt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T02:50:58.000Z",
         "category": "reddit"
       },
       {
@@ -120,16 +119,6 @@
       },
       {
         "rank": 3,
-        "title": "GPT‑5.6 Luna will cost 80% less, while GPT‑5.6 Terra will cost 20% less.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vb0giw/gpt56_luna_will_cost_80_less_while_gpt56_terra/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-30T17:36:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zt186jmwkegh1.png?width=640&crop=smart&auto=webp&s=6fd0dd1e3d91f5db8988a20f3b1207aa584712f2"
-      },
-      {
-        "rank": 4,
         "title": "The cost of AI is decreasing",
         "url": "https://www.reddit.com/r/singularity/comments/1vbh3o1/the_cost_of_ai_is_decreasing/",
         "source": "r/singularity",
@@ -139,14 +128,24 @@
         "thumbnail": "https://preview.redd.it/9u8slyawyhgh1.png?width=640&crop=smart&auto=webp&s=fb9aa2ce59178dcb7a9e548253400c4a375cdcc5"
       },
       {
-        "rank": 5,
-        "title": "Would you choose to live indefinitely in a robot body?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vasfzn/would_you_choose_to_live_indefinitely_in_a_robot/",
+        "rank": 4,
+        "title": "GPT‑5.6 Luna will cost 80% less, while GPT‑5.6 Terra will cost 20% less.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vb0giw/gpt56_luna_will_cost_80_less_while_gpt56_terra/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-30T12:36:35.000Z",
+        "publishedAt": "2026-07-30T17:36:46.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lmwh3hbk2dgh1.png?width=320&crop=smart&auto=webp&s=696681b8ae36c226603423bf0d1dcce30d2555ce"
+        "thumbnail": "https://preview.redd.it/zt186jmwkegh1.png?width=640&crop=smart&auto=webp&s=6fd0dd1e3d91f5db8988a20f3b1207aa584712f2"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI beats DeepSeek on price/performance after 80% Luna price cut",
+        "url": "https://www.reddit.com/r/singularity/comments/1vb1pen/openai_beats_deepseek_on_priceperformance_after/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-30T18:20:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/47svzvinsegh1.png?width=640&crop=smart&auto=webp&s=d4b0d3d36e54248c389c576a487940b45d95ff2f"
       },
       {
         "rank": 1,

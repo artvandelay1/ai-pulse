@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T15:04:46.624Z",
+  "fetchedAt": "2026-07-31T17:07:49.490Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T15:30:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
         "source": "r/MachineLearning",
@@ -25,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "If reviewing is mandatory for paper submissions, low-quality reviews can no longer be justified as “volunteer work” [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vbeqhw/if_reviewing_is_mandatory_for_paper_submissions/",
         "source": "r/MachineLearning",
@@ -34,12 +25,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
+        "rank": 3,
+        "title": "ACL ARR May 2026 Meta-Reviews are out [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtgz8/acl_arr_may_2026_metareviews_are_out_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-30T16:37:50.000Z",
+        "publishedAt": "2026-07-31T15:03:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T16:20:13.000Z",
         "category": "reddit"
       },
       {
@@ -81,20 +81,20 @@
       },
       {
         "rank": 4,
-        "title": "Hardcoding one model not working for us anymore",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vaxmz1/hardcoding_one_model_not_working_for_us_anymore/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T15:57:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Exploring the \"Dario and Amanda\" Prompt",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vbeeup/exploring_the_dario_and_amanda_prompt/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-31T02:50:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vb1ova/how_gpt56_fuses_frontier_intelligence_with/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T18:19:33.000Z",
         "category": "reddit"
       },
       {
@@ -139,13 +139,13 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI beats DeepSeek on price/performance after 80% Luna price cut",
-        "url": "https://www.reddit.com/r/singularity/comments/1vb1pen/openai_beats_deepseek_on_priceperformance_after/",
+        "title": "New benchmark dropped",
+        "url": "https://www.reddit.com/r/singularity/comments/1vbd25j/new_benchmark_dropped/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-30T18:20:08.000Z",
+        "publishedAt": "2026-07-31T01:49:10.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/47svzvinsegh1.png?width=640&crop=smart&auto=webp&s=d4b0d3d36e54248c389c576a487940b45d95ff2f"
+        "thumbnail": "https://preview.redd.it/nic2h7us0hgh1.png?width=640&crop=smart&auto=webp&s=1fff828d0a64edb286541a63635995d9c090bf14"
       },
       {
         "rank": 1,

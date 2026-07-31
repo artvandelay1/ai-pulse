@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-07-31T00:07:44.357Z",
+  "fetchedAt": "2026-07-31T04:03:08.410Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I had an idea for an airgapped file transfer mechanism",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vawcw3/i_had_an_idea_for_an_airgapped_file_transfer/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T15:10:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Mmd6NWFqenR1ZGdoMZy34Onx-3NTAMdj1GJt9zAaeCPojOcxKcDUvs5b6Mew.png?width=640&crop=smart&auto=webp&s=021164a91f4eaa2f14f4a57652baddb87f5aeb9d"
+      },
+      {
+        "rank": 2,
+        "title": "Claude thought I could be having a stroke. I was.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vavbyk/claude_thought_i_could_be_having_a_stroke_i_was/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T14:32:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lvpn6is3odgh1.jpeg?width=640&crop=smart&auto=webp&s=a0ebea703739e80940ac4abccb8d5a822dc5fc66"
+      },
+      {
+        "rank": 3,
+        "title": "Claude Pro 5h Limit is Broken, and Anthropic isn't hiding it anymore",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaykt8/claude_pro_5h_limit_is_broken_and_anthropic_isnt/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T16:30:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iclymd7h8egh1.png?width=640&crop=smart&auto=webp&s=4b3d2f38c370f5a733c9ee0808b09f1328707610"
+      },
+      {
+        "rank": 4,
+        "title": "Now, Anthropic reporting its own models went rogue",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T00:13:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5ilakmn6jggh1.jpeg?width=640&crop=smart&auto=webp&s=0b0c5a09ee598b18238a6d74ac146639f4244e00"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic cut most of Claude Code's system prompt and told us to put the rest in CLAUDE.md. Honestly I think this is the right call.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vauevs/anthropic_cut_most_of_claude_codes_system_prompt/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T13:58:03.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
@@ -26,11 +75,11 @@
       },
       {
         "rank": 3,
-        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+        "title": "If reviewing is mandatory for paper submissions, low-quality reviews can no longer be justified as “volunteer work” [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbeqhw/if_reviewing_is_mandatory_for_paper_submissions/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-30T02:54:23.000Z",
+        "publishedAt": "2026-07-31T03:05:48.000Z",
         "category": "reddit"
       },
       {
@@ -50,6 +99,55 @@
         "score": 0,
         "publishedAt": "2026-07-30T05:52:50.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI cuts GPT-5.6 Terra and Luna prices",
+        "url": "https://www.reddit.com/r/codex/comments/1vazoph/openai_cuts_gpt56_terra_and_luna_prices/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T17:09:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/oO3C6ooVmf7PpWzIMfvqzGCF9sDgSxLtHgolHPfwpuQ.jpeg?width=640&crop=smart&auto=webp&s=29d84a63b3a9033c7576a039c63041fcccf47518"
+      },
+      {
+        "rank": 2,
+        "title": "Codex cheaper than ever",
+        "url": "https://www.reddit.com/r/codex/comments/1vb0qme/codex_cheaper_than_ever/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T17:46:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5xjxq3xlmegh1.png?width=140&height=69&auto=webp&s=eeca91cf11505280d6e35209ace16e0b823dae8a"
+      },
+      {
+        "rank": 3,
+        "title": "5h limits are mentally exhausting - please don't bring them back!",
+        "url": "https://www.reddit.com/r/codex/comments/1vat8te/5h_limits_are_mentally_exhausting_please_dont/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T13:10:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "openai just killed chinese models by reducing luna price by 80%",
+        "url": "https://www.reddit.com/r/codex/comments/1vb19nl/openai_just_killed_chinese_models_by_reducing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T18:04:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o2u7qwu0qegh1.jpeg?width=640&crop=smart&auto=webp&s=fffc57739a6531e8fabb684771731d3ea0c77b66"
+      },
+      {
+        "rank": 5,
+        "title": "GPT 5.6 Luna pricing has been updated on DeepSWE",
+        "url": "https://www.reddit.com/r/codex/comments/1vb5ia6/gpt_56_luna_pricing_has_been_updated_on_deepswe/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-30T20:37:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xrnxpsh6hfgh1.png?width=640&crop=smart&auto=webp&s=d7a090eb19b40ef936ce8aaeb3c1b57fcdba201b"
       },
       {
         "rank": 1,
@@ -147,103 +245,6 @@
         "publishedAt": "2026-07-30T18:20:08.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/47svzvinsegh1.png?width=640&crop=smart&auto=webp&s=d4b0d3d36e54248c389c576a487940b45d95ff2f"
-      },
-      {
-        "rank": 1,
-        "title": "Claude thought I could be having a stroke. I was.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vavbyk/claude_thought_i_could_be_having_a_stroke_i_was/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T14:32:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lvpn6is3odgh1.jpeg?width=640&crop=smart&auto=webp&s=a0ebea703739e80940ac4abccb8d5a822dc5fc66"
-      },
-      {
-        "rank": 2,
-        "title": "I had an idea for an airgapped file transfer mechanism",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vawcw3/i_had_an_idea_for_an_airgapped_file_transfer/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T15:10:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mmd6NWFqenR1ZGdoMZy34Onx-3NTAMdj1GJt9zAaeCPojOcxKcDUvs5b6Mew.png?width=640&crop=smart&auto=webp&s=021164a91f4eaa2f14f4a57652baddb87f5aeb9d"
-      },
-      {
-        "rank": 3,
-        "title": "I was never a fan of Claude, but Opus 5 really is insanely impressive, it's like a genie.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vae3md/i_was_never_a_fan_of_claude_but_opus_5_really_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T00:27:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gr4jrrbbg9gh1.png?width=140&height=110&auto=webp&s=97708e9f7979b2d87c8017f101f444ba72da2c4f"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic cut most of Claude Code's system prompt and told us to put the rest in CLAUDE.md. Honestly I think this is the right call.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vauevs/anthropic_cut_most_of_claude_codes_system_prompt/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T13:58:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5's stream of consciousness and long-winded replies are becoming taxing. What are you guys doing to improve it?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vam0ak/opus_5s_stream_of_consciousness_and_longwinded/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T06:52:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI cuts GPT-5.6 Terra and Luna prices",
-        "url": "https://www.reddit.com/r/codex/comments/1vazoph/openai_cuts_gpt56_terra_and_luna_prices/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T17:09:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/oO3C6ooVmf7PpWzIMfvqzGCF9sDgSxLtHgolHPfwpuQ.jpeg?width=640&crop=smart&auto=webp&s=29d84a63b3a9033c7576a039c63041fcccf47518"
-      },
-      {
-        "rank": 2,
-        "title": "5h limits are mentally exhausting - please don't bring them back!",
-        "url": "https://www.reddit.com/r/codex/comments/1vat8te/5h_limits_are_mentally_exhausting_please_dont/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T13:10:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Tibo is hyping a new launch tomorrow, intelligence too cheap to meter",
-        "url": "https://www.reddit.com/r/codex/comments/1vahl9u/tibo_is_hyping_a_new_launch_tomorrow_intelligence/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T03:05:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/muyv5phd9agh1.png?width=140&height=57&auto=webp&s=bef71a1cfb2ecbe7843640334c8fa22cccbb5ef6"
-      },
-      {
-        "rank": 4,
-        "title": "Tibo addresses 5.6 Sol Score on ARC-AGI-3",
-        "url": "https://www.reddit.com/r/codex/comments/1vacy8a/tibo_addresses_56_sol_score_on_arcagi3/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-29T23:38:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/537srj5n89gh1.jpeg?width=640&crop=smart&auto=webp&s=c568f75ac67fcf89da7e923d5e460257b9822e63"
-      },
-      {
-        "rank": 5,
-        "title": "Codex cheaper than ever",
-        "url": "https://www.reddit.com/r/codex/comments/1vb0qme/codex_cheaper_than_ever/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T17:46:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5xjxq3xlmegh1.png?width=140&height=69&auto=webp&s=eeca91cf11505280d6e35209ace16e0b823dae8a"
       }
     ]
   }

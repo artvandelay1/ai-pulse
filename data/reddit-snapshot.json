@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T04:03:08.410Z",
+  "fetchedAt": "2026-07-31T07:25:10.731Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,16 +27,6 @@
       },
       {
         "rank": 3,
-        "title": "Claude Pro 5h Limit is Broken, and Anthropic isn't hiding it anymore",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaykt8/claude_pro_5h_limit_is_broken_and_anthropic_isnt/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T16:30:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iclymd7h8egh1.png?width=640&crop=smart&auto=webp&s=4b3d2f38c370f5a733c9ee0808b09f1328707610"
-      },
-      {
-        "rank": 4,
         "title": "Now, Anthropic reporting its own models went rogue",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/",
         "source": "r/ClaudeAI",
@@ -46,13 +36,24 @@
         "thumbnail": "https://preview.redd.it/5ilakmn6jggh1.jpeg?width=640&crop=smart&auto=webp&s=0b0c5a09ee598b18238a6d74ac146639f4244e00"
       },
       {
-        "rank": 5,
-        "title": "Anthropic cut most of Claude Code's system prompt and told us to put the rest in CLAUDE.md. Honestly I think this is the right call.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vauevs/anthropic_cut_most_of_claude_codes_system_prompt/",
+        "rank": 4,
+        "title": "Claude Pro 5h Limit is Broken, and Anthropic isn't hiding it anymore",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vaykt8/claude_pro_5h_limit_is_broken_and_anthropic_isnt/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-07-30T13:58:03.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-07-30T16:30:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iclymd7h8egh1.png?width=640&crop=smart&auto=webp&s=4b3d2f38c370f5a733c9ee0808b09f1328707610"
+      },
+      {
+        "rank": 5,
+        "title": "last update on politician factchecker",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vb19a6/last_update_on_politician_factchecker/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T18:04:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cXRtdDVxaWxwZWdoMVhgC2qnrd4rnDJftPWwChUHLw1GrwvaNxzluEIWvYQh.png?width=640&crop=smart&auto=webp&s=308b71d613fd11c54961f2c8d9f2fa717075e0ed"
       },
       {
         "rank": 1,
@@ -93,11 +94,11 @@
       },
       {
         "rank": 5,
-        "title": "I taught an LSTM to move a mouse like a human [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
+        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-30T05:52:50.000Z",
+        "publishedAt": "2026-07-31T02:30:08.000Z",
         "category": "reddit"
       },
       {

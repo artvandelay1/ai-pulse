@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-07-30T22:39:13.488Z",
+  "fetchedAt": "2026-07-31T00:07:44.357Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T15:30:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T19:40:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795"
+      },
+      {
+        "rank": 3,
+        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T02:54:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T16:37:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I taught an LSTM to move a mouse like a human [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-30T05:52:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI reduces prices on its models by 5x",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vb0kur/openai_reduces_prices_on_its_models_by_5x/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T17:41:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI are now talking to the White House about the need to slow down AI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vavnez/openai_are_now_talking_to_the_white_house_about/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T14:44:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c2dhc2VzdDZxZGdoMX7rmJ2-tS-HBMTMQWY2JIeO2Wew8cG09hu3LLPv5wFz.png?width=640&crop=smart&auto=webp&s=a416bbd7d9393f1a75dec49b2a060aa008430682"
+      },
+      {
+        "rank": 3,
+        "title": "After their models escaped and hacked another company, OpenAI has been forced to pause training new models. They admit they do not know how to keep them from escaping.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vappny/after_their_models_escaped_and_hacked_another/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T10:24:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dGpjZ24zM3JmY2doMQoCgyaLf1G4iz5TQx9hYV7wsasCI6CQq93RUvr_nho_.png?width=640&crop=smart&auto=webp&s=9b07a90e88948544b83a8d99197466150a9cfe3f"
+      },
+      {
+        "rank": 4,
+        "title": "Hardcoding one model not working for us anymore",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vaxmz1/hardcoding_one_model_not_working_for_us_anymore/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T15:57:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Price reduction for Luna and Terra!!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vb08qu/price_reduction_for_luna_and_terra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-30T17:29:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Opus 5 Pokemon",
+        "url": "https://www.reddit.com/r/singularity/comments/1vb5fhl/opus_5_pokemon/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-30T20:34:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cGE0MGxjOWRnZmdoMf6Oz2UNNEHhA4l7PZ6emH3cGHLDvPTBQoSE78Y0ywqf.png?width=640&crop=smart&auto=webp&s=c82d49d9aabe2ee4a5f8b04295671d8c2e9e36ea"
+      },
+      {
+        "rank": 2,
+        "title": "Would you choose to live indefinitely in a robot body?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vasfzn/would_you_choose_to_live_indefinitely_in_a_robot/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-30T12:36:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lmwh3hbk2dgh1.png?width=320&crop=smart&auto=webp&s=696681b8ae36c226603423bf0d1dcce30d2555ce"
+      },
+      {
+        "rank": 3,
+        "title": "GPT‑5.6 Luna will cost 80% less, while GPT‑5.6 Terra will cost 20% less.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vb0giw/gpt56_luna_will_cost_80_less_while_gpt56_terra/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-30T17:36:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zt186jmwkegh1.png?width=640&crop=smart&auto=webp&s=6fd0dd1e3d91f5db8988a20f3b1207aa584712f2"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Opus 5 behaves strangely with this prompt.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vaebys/claude_opus_5_behaves_strangely_with_this_prompt/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-30T00:37:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cdz0l8s2j9gh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0558471ae572dd1b1bffe96967fee56fb55030d0"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI beats DeepSeek on price/performance after 80% Luna price cut",
+        "url": "https://www.reddit.com/r/singularity/comments/1vb1pen/openai_beats_deepseek_on_priceperformance_after/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-30T18:20:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/47svzvinsegh1.png?width=640&crop=smart&auto=webp&s=d4b0d3d36e54248c389c576a487940b45d95ff2f"
+      },
       {
         "rank": 1,
         "title": "Claude thought I could be having a stroke. I was.",
@@ -55,52 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T15:30:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T19:40:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9qnhkw960fgh1.png?width=640&crop=smart&auto=webp&s=56e30d9b0ba2781439bd302e229d6a327259f795"
-      },
-      {
-        "rank": 3,
-        "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T02:54:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T16:37:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I taught an LSTM to move a mouse like a human [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-30T05:52:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "OpenAI cuts GPT-5.6 Terra and Luna prices",
         "url": "https://www.reddit.com/r/codex/comments/1vazoph/openai_cuts_gpt56_terra_and_luna_prices/",
         "source": "r/codex",
@@ -147,102 +244,6 @@
         "publishedAt": "2026-07-30T17:46:41.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/5xjxq3xlmegh1.png?width=140&height=69&auto=webp&s=eeca91cf11505280d6e35209ace16e0b823dae8a"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1va6un6/openais_rogue_models_roamed_the_internet_for_4/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-29T19:45:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI reduces prices on its models by 5x",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vb0kur/openai_reduces_prices_on_its_models_by_5x/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T17:41:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "After their models escaped and hacked another company, OpenAI has been forced to pause training new models. They admit they do not know how to keep them from escaping.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vappny/after_their_models_escaped_and_hacked_another/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T10:24:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dGpjZ24zM3JmY2doMQoCgyaLf1G4iz5TQx9hYV7wsasCI6CQq93RUvr_nho_.png?width=640&crop=smart&auto=webp&s=9b07a90e88948544b83a8d99197466150a9cfe3f"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI are now talking to the White House about the need to slow down AI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vavnez/openai_are_now_talking_to_the_white_house_about/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T14:44:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c2dhc2VzdDZxZGdoMX7rmJ2-tS-HBMTMQWY2JIeO2Wew8cG09hu3LLPv5wFz.png?width=640&crop=smart&auto=webp&s=a416bbd7d9393f1a75dec49b2a060aa008430682"
-      },
-      {
-        "rank": 5,
-        "title": "Hardcoding one model not working for us anymore",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vaxmz1/hardcoding_one_model_not_working_for_us_anymore/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-30T15:57:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-5.6 Sol helped optimize its own inference",
-        "url": "https://www.reddit.com/r/singularity/comments/1va9qu0/gpt56_sol_helped_optimize_its_own_inference/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T21:31:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2vuf6rgpl8gh1.png?width=640&crop=smart&auto=webp&s=3616d956c804f7ea9f20de28d624fa15e515a8dd"
-      },
-      {
-        "rank": 2,
-        "title": "Would you choose to live indefinitely in a robot body?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vasfzn/would_you_choose_to_live_indefinitely_in_a_robot/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-30T12:36:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lmwh3hbk2dgh1.png?width=320&crop=smart&auto=webp&s=696681b8ae36c226603423bf0d1dcce30d2555ce"
-      },
-      {
-        "rank": 3,
-        "title": "Claude Opus 5 behaves strangely with this prompt.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vaebys/claude_opus_5_behaves_strangely_with_this_prompt/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-30T00:37:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cdz0l8s2j9gh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0558471ae572dd1b1bffe96967fee56fb55030d0"
-      },
-      {
-        "rank": 4,
-        "title": "A Backlash Against Anthropic Is Brewing in Silicon Valley",
-        "url": "https://www.reddit.com/r/singularity/comments/1va6qrc/a_backlash_against_anthropic_is_brewing_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T19:41:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude 5 Opus and 3D Moonlight Scene",
-        "url": "https://www.reddit.com/r/singularity/comments/1vaax68/claude_5_opus_and_3d_moonlight_scene/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-29T22:16:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eXdxbW51ejN0OGdoMTMnNHelHr8ie5VDxs8LWWIg4mYH3PPrNvi5RjvqR2Pa.png?width=640&crop=smart&auto=webp&s=7c7c6b9283118c97e154bebf8bf222241bd520c9"
       }
     ]
   }

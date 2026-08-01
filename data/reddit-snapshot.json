@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T14:38:42.908Z",
+  "fetchedAt": "2026-08-01T16:05:41.682Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,15 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "ACL ARR May 2026 Meta-Reviews are out [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtgz8/acl_arr_may_2026_metareviews_are_out_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T15:03:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "ARR May Meta Review[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-01T02:43:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Detecting *whether* text exists in an image? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbzwp9/detecting_whether_text_exists_in_an_image_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T18:57:32.000Z",
         "category": "reddit"
       },
       {
@@ -111,6 +111,15 @@
       },
       {
         "rank": 2,
+        "title": "Ten advances in mathematics and theoretical computer science (OpenAI model Astra)",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcgutk/ten_advances_in_mathematics_and_theoretical/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T07:39:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Harvard & UIUC talent discover a 3rd pretraining axis: 6.2x sample efficiency and 250x faster GenAI generation",
         "url": "https://www.reddit.com/r/singularity/comments/1vby7fp/harvard_uiuc_talent_discover_a_3rd_pretraining/",
         "source": "r/singularity",
@@ -118,15 +127,6 @@
         "publishedAt": "2026-07-31T17:54:45.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tarlu2h9rlgh1.png?width=640&crop=smart&auto=webp&s=c7632fd6bde837ff2f074eca0b8ec2dda8e1fc42"
-      },
-      {
-        "rank": 3,
-        "title": "Ten advances in mathematics and theoretical computer science (OpenAI model Astra)",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcgutk/ten_advances_in_mathematics_and_theoretical/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T07:39:10.000Z",
-        "category": "reddit"
       },
       {
         "rank": 4,

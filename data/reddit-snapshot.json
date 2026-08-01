@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T11:21:43.552Z",
+  "fetchedAt": "2026-08-01T12:35:42.641Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -53,6 +53,15 @@
       },
       {
         "rank": 1,
+        "title": "OpenAI’s internal model “Astra” claims 10 major advances in mathematics and theoretical computer science",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vch4jr/openais_internal_model_astra_claims_10_major/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T07:54:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Sam Altman demoed OpenAl's unreleased \"Astra\" model to policymakers this week",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vc73yv/sam_altman_demoed_openals_unreleased_astra_model/",
         "source": "r/OpenAI",
@@ -62,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/mko7zm3lingh1.jpeg?width=640&crop=smart&auto=webp&s=8054d2a423eba290f595ea3ca2c431902ec33d4d"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "New post train of DeepSeek v4 flash is out",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vc527y/new_post_train_of_deepseek_v4_flash_is_out/",
         "source": "r/OpenAI",
@@ -70,15 +79,6 @@
         "publishedAt": "2026-07-31T22:14:31.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/vsao0zgg3ngh1.png?width=640&crop=smart&auto=webp&s=017d0be1788b6839c470c9f6e3f6c8ee03cb768a"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI’s internal model “Astra” claims 10 major advances in mathematics and theoretical computer science",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vch4jr/openais_internal_model_astra_claims_10_major/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T07:54:53.000Z",
-        "category": "reddit"
       },
       {
         "rank": 4,
@@ -100,16 +100,6 @@
       },
       {
         "rank": 1,
-        "title": "Weights of Deepseek v4 flash 0731 have been released!!!",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbphpz/weights_of_deepseek_v4_flash_0731_have_been/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T12:25:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4wuKMSgR8Kkk0pgA3-HhBYFoQX79t2M-87LJSpJS8lU.png?width=640&crop=smart&auto=webp&s=dd2f6d4f044c0f49c2385b4f8cc5ff8cc853a0b3"
-      },
-      {
-        "rank": 2,
         "title": "In one California town, Flock misread license plates in 71% of the alerts it sent to police",
         "url": "https://www.reddit.com/r/singularity/comments/1vbrcki/in_one_california_town_flock_misread_license/",
         "source": "r/singularity",
@@ -117,6 +107,16 @@
         "publishedAt": "2026-07-31T13:43:23.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/48O_zdVJxUja8h0v1Tbc_uFcOljNsRuH4TqRPv_c-o8.jpeg?width=640&crop=smart&auto=webp&s=3ecd4cba5660f0643a6cf3446abd6feda468e959"
+      },
+      {
+        "rank": 2,
+        "title": "Leaked paper attributed to OpenAI claims the first construction of a nonsofic group",
+        "url": "https://www.reddit.com/r/singularity/comments/1vccy9k/leaked_paper_attributed_to_openai_claims_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T04:10:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/87dopc9suogh1.png?width=640&crop=smart&auto=webp&s=da08dd59502aa38f3768cbd31543e0cafc5a0c62"
       },
       {
         "rank": 3,
@@ -130,13 +130,12 @@
       },
       {
         "rank": 4,
-        "title": "Leaked paper attributed to OpenAI claims the first construction of a nonsofic group",
-        "url": "https://www.reddit.com/r/singularity/comments/1vccy9k/leaked_paper_attributed_to_openai_claims_the/",
+        "title": "Ten advances in mathematics and theoretical computer science (OpenAI model Astra)",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcgutk/ten_advances_in_mathematics_and_theoretical/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-01T04:10:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/87dopc9suogh1.png?width=640&crop=smart&auto=webp&s=da08dd59502aa38f3768cbd31543e0cafc5a0c62"
+        "publishedAt": "2026-08-01T07:39:10.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

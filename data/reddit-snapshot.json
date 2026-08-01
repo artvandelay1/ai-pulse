@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-07-31T23:07:11.819Z",
+  "fetchedAt": "2026-08-01T01:06:42.046Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I have trained a model to predict my blood sugar [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:09:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v3bputi1cmgh1.png?width=140&height=91&auto=webp&s=5fcaa20e54e37915fc9d5911c43947f4a7ddb940"
+      },
+      {
+        "rank": 2,
+        "title": "If reviewing is mandatory for paper submissions, low-quality reviews can no longer be justified as “volunteer work” [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbeqhw/if_reviewing_is_mandatory_for_paper_submissions/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T03:05:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T16:20:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ACL ARR May 2026 Meta-Reviews are out [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtgz8/acl_arr_may_2026_metareviews_are_out_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T15:03:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T02:30:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-5.6 Luna is now cheaper than GPT-4.1 mini",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vbiqef/gpt56_luna_is_now_cheaper_than_gpt41_mini/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T06:23:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vc2e6a/openai_finds_evidence_other_ai_agents_escaped/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:30:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Exploring the \"Dario and Amanda\" Prompt",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vbeeup/exploring_the_dario_and_amanda_prompt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T02:50:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "New post train of DeepSeek v4 flash is out",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vc527y/new_post_train_of_deepseek_v4_flash_is_out/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T22:14:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vsao0zgg3ngh1.png?width=640&crop=smart&auto=webp&s=017d0be1788b6839c470c9f6e3f6c8ee03cb768a"
+      },
+      {
+        "rank": 5,
+        "title": "This U of T professor just won math's highest honour — and is taking a leave to join OpenAI. Here's why",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vc1qfd/this_u_of_t_professor_just_won_maths_highest/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:05:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "The cost of AI is decreasing",
+        "url": "https://www.reddit.com/r/singularity/comments/1vbh3o1/the_cost_of_ai_is_decreasing/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-31T05:00:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9u8slyawyhgh1.png?width=640&crop=smart&auto=webp&s=fb9aa2ce59178dcb7a9e548253400c4a375cdcc5"
+      },
+      {
+        "rank": 2,
+        "title": "New benchmark dropped",
+        "url": "https://www.reddit.com/r/singularity/comments/1vbd25j/new_benchmark_dropped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-31T01:49:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nic2h7us0hgh1.png?width=640&crop=smart&auto=webp&s=1fff828d0a64edb286541a63635995d9c090bf14"
+      },
+      {
+        "rank": 3,
+        "title": "Weights of Deepseek v4 flash 0731 have been released!!!",
+        "url": "https://www.reddit.com/r/singularity/comments/1vbphpz/weights_of_deepseek_v4_flash_0731_have_been/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-31T12:25:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4wuKMSgR8Kkk0pgA3-HhBYFoQX79t2M-87LJSpJS8lU.png?width=640&crop=smart&auto=webp&s=dd2f6d4f044c0f49c2385b4f8cc5ff8cc853a0b3"
+      },
+      {
+        "rank": 4,
+        "title": "Treasury Secretary Scott Bessent Ripped After Claiming Americans Soon Won't Need Retirement Savings Thanks To AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vbcbn4/treasury_secretary_scott_bessent_ripped_after/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-31T01:15:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/gQda5yuSdchwVRdNV37xr0q8rJxGCyDpH5bKEbuh_9U.png?width=640&crop=smart&auto=webp&s=c914e5e307632f88d8e5a2ccfaae9531a5c5bffe"
+      },
+      {
+        "rank": 5,
+        "title": "In one California town, Flock misread license plates in 71% of the alerts it sent to police",
+        "url": "https://www.reddit.com/r/singularity/comments/1vbrcki/in_one_california_town_flock_misread_license/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-31T13:43:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/48O_zdVJxUja8h0v1Tbc_uFcOljNsRuH4TqRPv_c-o8.jpeg?width=640&crop=smart&auto=webp&s=3ecd4cba5660f0643a6cf3446abd6feda468e959"
+      },
       {
         "rank": 1,
         "title": "Now, Anthropic reporting its own models went rogue",
@@ -55,52 +197,6 @@
       },
       {
         "rank": 1,
-        "title": "If reviewing is mandatory for paper submissions, low-quality reviews can no longer be justified as “volunteer work” [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbeqhw/if_reviewing_is_mandatory_for_paper_submissions/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T03:05:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I have trained a model to predict my blood sugar [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T20:09:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v3bputi1cmgh1.png?width=140&height=91&auto=webp&s=5fcaa20e54e37915fc9d5911c43947f4a7ddb940"
-      },
-      {
-        "rank": 3,
-        "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T16:20:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ACL ARR May 2026 Meta-Reviews are out [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtgz8/acl_arr_may_2026_metareviews_are_out_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T15:03:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T02:30:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Well played, Tibo",
         "url": "https://www.reddit.com/r/codex/comments/1vbjml1/well_played_tibo/",
         "source": "r/codex",
@@ -145,102 +241,6 @@
         "score": 0,
         "publishedAt": "2026-07-30T23:49:33.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic is literally copying OpenAI’s marketing team at this point",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vbap4p/anthropic_is_literally_copying_openais_marketing/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T00:03:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fd9bkkn2iggh1.jpeg?width=640&crop=smart&auto=webp&s=3b36f2a2922590dcf5ade6e622063ccf044c1fe1"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-5.6 Luna is now cheaper than GPT-4.1 mini",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vbiqef/gpt56_luna_is_now_cheaper_than_gpt41_mini/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T06:23:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Exploring the \"Dario and Amanda\" Prompt",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vbeeup/exploring_the_dario_and_amanda_prompt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T02:50:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I don’t understand why the Hugging Face hack is being treated like proof that advanced AI can’t be contained.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vbr405/i_dont_understand_why_the_hugging_face_hack_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T13:34:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vc2e6a/openai_finds_evidence_other_ai_agents_escaped/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T20:30:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic says Claude hacked multiple companies starting in April",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbam9s/anthropic_says_claude_hacked_multiple_companies/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T00:00:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/qDyl8EXf6lGY1sw1cRFVrjLaaOR5mTch6BUsLIbo1rg.png?width=640&crop=smart&auto=webp&s=ba07e5c3d93eea19d841e7ac04483f1b61427168"
-      },
-      {
-        "rank": 2,
-        "title": "The cost of AI is decreasing",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbh3o1/the_cost_of_ai_is_decreasing/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T05:00:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9u8slyawyhgh1.png?width=640&crop=smart&auto=webp&s=fb9aa2ce59178dcb7a9e548253400c4a375cdcc5"
-      },
-      {
-        "rank": 3,
-        "title": "New benchmark dropped",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbd25j/new_benchmark_dropped/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T01:49:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nic2h7us0hgh1.png?width=640&crop=smart&auto=webp&s=1fff828d0a64edb286541a63635995d9c090bf14"
-      },
-      {
-        "rank": 4,
-        "title": "Treasury Secretary Scott Bessent Ripped After Claiming Americans Soon Won't Need Retirement Savings Thanks To AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbcbn4/treasury_secretary_scott_bessent_ripped_after/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T01:15:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/gQda5yuSdchwVRdNV37xr0q8rJxGCyDpH5bKEbuh_9U.png?width=640&crop=smart&auto=webp&s=c914e5e307632f88d8e5a2ccfaae9531a5c5bffe"
-      },
-      {
-        "rank": 5,
-        "title": "Weights of Deepseek v4 flash 0731 have been released!!!",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbphpz/weights_of_deepseek_v4_flash_0731_have_been/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T12:25:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4wuKMSgR8Kkk0pgA3-HhBYFoQX79t2M-87LJSpJS8lU.png?width=640&crop=smart&auto=webp&s=dd2f6d4f044c0f49c2385b4f8cc5ff8cc853a0b3"
       }
     ]
   }

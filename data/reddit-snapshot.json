@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T12:35:42.641Z",
+  "fetchedAt": "2026-08-01T14:38:42.908Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -82,6 +82,16 @@
       },
       {
         "rank": 4,
+        "title": "OpenAi says it has reached a new threshold in AI, new model capable of breakthrough research",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vck8sv/openai_says_it_has_reached_a_new_threshold_in_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T10:54:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4jylflt8uqgh1.jpeg?width=640&crop=smart&auto=webp&s=3d1f0a76ba395706e83fd3c69882b246a24640fe"
+      },
+      {
+        "rank": 5,
         "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vc2e6a/openai_finds_evidence_other_ai_agents_escaped/",
         "source": "r/OpenAI",
@@ -90,26 +100,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "This U of T professor just won math's highest honour — and is taking a leave to join OpenAI. Here's why",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vc1qfd/this_u_of_t_professor_just_won_maths_highest/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T20:05:55.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "In one California town, Flock misread license plates in 71% of the alerts it sent to police",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbrcki/in_one_california_town_flock_misread_license/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T13:43:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/48O_zdVJxUja8h0v1Tbc_uFcOljNsRuH4TqRPv_c-o8.jpeg?width=640&crop=smart&auto=webp&s=3ecd4cba5660f0643a6cf3446abd6feda468e959"
-      },
-      {
-        "rank": 2,
         "title": "Leaked paper attributed to OpenAI claims the first construction of a nonsofic group",
         "url": "https://www.reddit.com/r/singularity/comments/1vccy9k/leaked_paper_attributed_to_openai_claims_the/",
         "source": "r/singularity",
@@ -119,7 +110,7 @@
         "thumbnail": "https://preview.redd.it/87dopc9suogh1.png?width=640&crop=smart&auto=webp&s=da08dd59502aa38f3768cbd31543e0cafc5a0c62"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Harvard & UIUC talent discover a 3rd pretraining axis: 6.2x sample efficiency and 250x faster GenAI generation",
         "url": "https://www.reddit.com/r/singularity/comments/1vby7fp/harvard_uiuc_talent_discover_a_3rd_pretraining/",
         "source": "r/singularity",
@@ -129,7 +120,7 @@
         "thumbnail": "https://preview.redd.it/tarlu2h9rlgh1.png?width=640&crop=smart&auto=webp&s=c7632fd6bde837ff2f074eca0b8ec2dda8e1fc42"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Ten advances in mathematics and theoretical computer science (OpenAI model Astra)",
         "url": "https://www.reddit.com/r/singularity/comments/1vcgutk/ten_advances_in_mathematics_and_theoretical/",
         "source": "r/singularity",
@@ -138,7 +129,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Sam Altman demoed OpenAI's unreleased \"Astra\" model to policymakers this week",
         "url": "https://www.reddit.com/r/singularity/comments/1vc6o4b/sam_altman_demoed_openais_unreleased_astra_model/",
         "source": "r/singularity",
@@ -146,6 +137,15 @@
         "publishedAt": "2026-07-31T23:20:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/82pp1sctengh1.png?width=640&crop=smart&auto=webp&s=b2472a8c9f4fe5592c9a95a6bdd7432ab1dc2bc3"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+        "url": "https://www.reddit.com/r/singularity/comments/1vc2eug/openai_finds_evidence_other_ai_agents_escaped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:31:13.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

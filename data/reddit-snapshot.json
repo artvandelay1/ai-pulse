@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-01T16:05:41.682Z",
+  "fetchedAt": "2026-08-01T17:34:09.770Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I don't see the tech sector surviving this timeline",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcg25v/i_dont_see_the_tech_sector_surviving_this_timeline/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T06:54:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Whoever popularized the \"adversarial reviewer\" skill pattern, thank you, it fixed the one thing I could never get Claude to do",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc11nl/whoever_popularized_the_adversarial_reviewer/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T19:40:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Consent based refactoring",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcdmm4/consent_based_refactoring/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T04:45:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uvp8jifl0pgh1.png?width=640&crop=smart&auto=webp&s=1934883be1db073831fa3ad7801bb095c64ef612"
+      },
+      {
+        "rank": 4,
+        "title": "I'm not a developer. I built a 537-member campaign finance tracker with Claude.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc2oma/im_not_a_developer_i_built_a_537member_campaign/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:41:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/waee8rxtmmgh1.png?width=140&height=140&auto=webp&s=417bb168d3097fe5a290ee7badcb0b0da1d6003b"
+      },
+      {
+        "rank": 5,
+        "title": "$1000 in Claude Credits to create my dream game, how badly did I overpay?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc2aw2/1000_in_claude_credits_to_create_my_dream_game/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:27:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/6-iwS-4bhMlqv7EgnggvAmGNr2PciOBfAR_FmPnXXRY.jpeg?width=320&crop=smart&auto=webp&s=f900bc451ede8130ab1452ef5062e322d40984a4"
+      },
       {
         "rank": 1,
         "title": "I have trained a model to predict my blood sugar [P]",
@@ -17,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T16:20:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/",
         "source": "r/MachineLearning",
@@ -34,12 +73,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ARR May Meta Review[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-01T02:43:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How Symmetric Are the Insides of a Go Network? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T16:18:53.000Z",
         "category": "reddit"
       },
       {
@@ -49,6 +97,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-07-31T18:57:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "The real reason 5.6 Luna became 5x cheaper",
+        "url": "https://www.reddit.com/r/codex/comments/1vciiun/the_real_reason_56_luna_became_5x_cheaper/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-01T09:15:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I was at 1%. Woohoo! 4 days away and boom.",
+        "url": "https://www.reddit.com/r/codex/comments/1vccb13/i_was_at_1_woohoo_4_days_away_and_boom/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-01T03:39:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/he256ouapogh1.png?width=640&crop=smart&auto=webp&s=862ec9fa3da19eddec19276eb8ce2ffcbed9c891"
+      },
+      {
+        "rank": 3,
+        "title": "5.6-SOL: OVER ENGINEERING GOAT",
+        "url": "https://www.reddit.com/r/codex/comments/1vcjx7z/56sol_over_engineering_goat/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-01T10:36:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c2cfx66jrqgh1.png?width=640&crop=smart&auto=webp&s=d77b9ec2f9d7b7bbb0b39f474b577c628487c3a3"
+      },
+      {
+        "rank": 4,
+        "title": "A forecast for \"will Tibo reset Codex limits today\" lol",
+        "url": "https://www.reddit.com/r/codex/comments/1vc1d62/a_forecast_for_will_tibo_reset_codex_limits_today/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T19:52:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cx95je0ndmgh1.png?width=640&crop=smart&auto=webp&s=6ef52867216167456413999610b16b8687e6d973"
+      },
+      {
+        "rank": 5,
+        "title": "RESET RECEIVED",
+        "url": "https://www.reddit.com/r/codex/comments/1vcc985/reset_received/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-01T03:37:25.000Z",
         "category": "reddit"
       },
       {
@@ -145,102 +241,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-07-31T20:31:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic finally launched a financial literacy toy for young AI engineers",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbrwxt/anthropic_finally_launched_a_financial_literacy/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T14:05:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/obyo72nlnkgh1.png?width=640&crop=smart&auto=webp&s=c8723e0257eb739346953d8fe9ec217e0035accc"
-      },
-      {
-        "rank": 2,
-        "title": "I close every Claude session with the same two questions and it keeps catching things I would have shipped.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbkq6o/i_close_every_claude_session_with_the_same_two/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T08:13:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I'm not a developer. I built a 537-member campaign finance tracker with Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc2oma/im_not_a_developer_i_built_a_537member_campaign/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T20:41:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/waee8rxtmmgh1.png?width=140&height=140&auto=webp&s=417bb168d3097fe5a290ee7badcb0b0da1d6003b"
-      },
-      {
-        "rank": 4,
-        "title": "$200 subscription vs $7,470 of API usage",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbvdzl/200_subscription_vs_7470_of_api_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T16:12:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bnabrqzf6lgh1.png?width=320&crop=smart&auto=webp&s=ee37f71b07e0d266145b8eb16ce3b31e9c4755dc"
-      },
-      {
-        "rank": 5,
-        "title": "I've just build a Worms Armageddon clone with one single prompt. Agentic loops are mind blowing 🤯",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbjryq/ive_just_build_a_worms_armageddon_clone_with_one/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T07:19:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bzZlcDlmc3NtaWdoMRX-2tKEZiBxnIjeVJIW4HiHJvJmDp_ivbgU4SMIXgDz.png?width=640&crop=smart&auto=webp&s=5a806679bf19a44e83b3f24e272d27e7c620c273"
-      },
-      {
-        "rank": 1,
-        "title": "Well played, Tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1vbjml1/well_played_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T07:11:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I hate forced Codex resets — all extra resets should be banked",
-        "url": "https://www.reddit.com/r/codex/comments/1vbt2ff/i_hate_forced_codex_resets_all_extra_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T14:48:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What the hell is going on?",
-        "url": "https://www.reddit.com/r/codex/comments/1vbla2z/what_the_hell_is_going_on/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T08:45:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v4fievtj2jgh1.png?width=140&height=72&auto=webp&s=8bdaf96b38a3620376fa2a8541382e41f9f4a739"
-      },
-      {
-        "rank": 4,
-        "title": "A forecast for \"will Tibo reset Codex limits today\" lol",
-        "url": "https://www.reddit.com/r/codex/comments/1vc1d62/a_forecast_for_will_tibo_reset_codex_limits_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T19:52:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cx95je0ndmgh1.png?width=640&crop=smart&auto=webp&s=6ef52867216167456413999610b16b8687e6d973"
-      },
-      {
-        "rank": 5,
-        "title": "Average solution proposed by GPT 5.6 SOL after being asked to build a datepicker:",
-        "url": "https://www.reddit.com/r/codex/comments/1vbrmnc/average_solution_proposed_by_gpt_56_sol_after/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T13:54:27.000Z",
         "category": "reddit"
       }
     ]

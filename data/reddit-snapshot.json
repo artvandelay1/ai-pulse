@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T09:35:46.468Z",
+  "fetchedAt": "2026-08-01T11:21:43.552Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,20 +35,20 @@
       },
       {
         "rank": 4,
+        "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T09:27:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "ARR May Meta Review[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-01T02:43:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Detecting *whether* text exists in an image? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbzwp9/detecting_whether_text_exists_in_an_image_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T18:57:32.000Z",
         "category": "reddit"
       },
       {
@@ -73,20 +73,20 @@
       },
       {
         "rank": 3,
-        "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vc2e6a/openai_finds_evidence_other_ai_agents_escaped/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T20:30:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI’s internal model “Astra” claims 10 major advances in mathematics and theoretical computer science",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vch4jr/openais_internal_model_astra_claims_10_major/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-01T07:54:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vc2e6a/openai_finds_evidence_other_ai_agents_escaped/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:30:33.000Z",
         "category": "reddit"
       },
       {
@@ -140,13 +140,13 @@
       },
       {
         "rank": 5,
-        "title": "DeepSeek-V4-Flash Official API is now LIVE in public beta! Massive upgrades for flash model.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbm5m8/deepseekv4flash_official_api_is_now_live_in/",
+        "title": "Sam Altman demoed OpenAI's unreleased \"Astra\" model to policymakers this week",
+        "url": "https://www.reddit.com/r/singularity/comments/1vc6o4b/sam_altman_demoed_openais_unreleased_astra_model/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-07-31T09:35:44.000Z",
+        "publishedAt": "2026-07-31T23:20:20.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z35fca23cjgh1.jpeg?width=640&crop=smart&auto=webp&s=079b69a5c425c83b21044c3bcdfd90582abd27ba"
+        "thumbnail": "https://preview.redd.it/82pp1sctengh1.png?width=640&crop=smart&auto=webp&s=b2472a8c9f4fe5592c9a95a6bdd7432ab1dc2bc3"
       },
       {
         "rank": 1,

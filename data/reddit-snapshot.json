@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T07:31:47.070Z",
+  "fetchedAt": "2026-08-01T09:35:46.468Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,20 +35,20 @@
       },
       {
         "rank": 4,
-        "title": "Detecting *whether* text exists in an image? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbzwp9/detecting_whether_text_exists_in_an_image_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T18:57:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "ARR May Meta Review[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-01T02:43:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Detecting *whether* text exists in an image? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbzwp9/detecting_whether_text_exists_in_an_image_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-07-31T18:57:32.000Z",
         "category": "reddit"
       },
       {
@@ -82,20 +82,20 @@
       },
       {
         "rank": 4,
+        "title": "OpenAI’s internal model “Astra” claims 10 major advances in mathematics and theoretical computer science",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vch4jr/openais_internal_model_astra_claims_10_major/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T07:54:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "This U of T professor just won math's highest honour — and is taking a leave to join OpenAI. Here's why",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vc1qfd/this_u_of_t_professor_just_won_maths_highest/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-07-31T20:05:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I don’t understand why the Hugging Face hack is being treated like proof that advanced AI can’t be contained.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vbr405/i_dont_understand_why_the_hugging_face_hack_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T13:34:02.000Z",
         "category": "reddit"
       },
       {
@@ -130,6 +130,16 @@
       },
       {
         "rank": 4,
+        "title": "Leaked paper attributed to OpenAI claims the first construction of a nonsofic group",
+        "url": "https://www.reddit.com/r/singularity/comments/1vccy9k/leaked_paper_attributed_to_openai_claims_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T04:10:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/87dopc9suogh1.png?width=640&crop=smart&auto=webp&s=da08dd59502aa38f3768cbd31543e0cafc5a0c62"
+      },
+      {
+        "rank": 5,
         "title": "DeepSeek-V4-Flash Official API is now LIVE in public beta! Massive upgrades for flash model.",
         "url": "https://www.reddit.com/r/singularity/comments/1vbm5m8/deepseekv4flash_official_api_is_now_live_in/",
         "source": "r/singularity",
@@ -137,16 +147,6 @@
         "publishedAt": "2026-07-31T09:35:44.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/z35fca23cjgh1.jpeg?width=640&crop=smart&auto=webp&s=079b69a5c425c83b21044c3bcdfd90582abd27ba"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5 with this prompt is wild",
-        "url": "https://www.reddit.com/r/singularity/comments/1vbk8k8/opus_5_with_this_prompt_is_wild/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T07:45:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z55hz3yhsigh1.jpg?width=140&height=105&auto=webp&s=1bb31d654e11febe133b7922635e286bb7810738"
       },
       {
         "rank": 1,

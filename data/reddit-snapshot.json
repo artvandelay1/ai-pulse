@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-01T01:06:42.046Z",
+  "fetchedAt": "2026-08-01T04:56:14.931Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Anthropic finally launched a financial literacy toy for young AI engineers",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbrwxt/anthropic_finally_launched_a_financial_literacy/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T14:05:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/obyo72nlnkgh1.png?width=640&crop=smart&auto=webp&s=c8723e0257eb739346953d8fe9ec217e0035accc"
+      },
+      {
+        "rank": 2,
+        "title": "I close every Claude session with the same two questions and it keeps catching things I would have shipped.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbkq6o/i_close_every_claude_session_with_the_same_two/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T08:13:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I'm not a developer. I built a 537-member campaign finance tracker with Claude.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc2oma/im_not_a_developer_i_built_a_537member_campaign/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T20:41:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/waee8rxtmmgh1.png?width=140&height=140&auto=webp&s=417bb168d3097fe5a290ee7badcb0b0da1d6003b"
+      },
+      {
+        "rank": 4,
+        "title": "$200 subscription vs $7,470 of API usage",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbvdzl/200_subscription_vs_7470_of_api_usage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T16:12:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bnabrqzf6lgh1.png?width=320&crop=smart&auto=webp&s=ee37f71b07e0d266145b8eb16ce3b31e9c4755dc"
+      },
+      {
+        "rank": 5,
+        "title": "I've just build a Worms Armageddon clone with one single prompt. Agentic loops are mind blowing 🤯",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbjryq/ive_just_build_a_worms_armageddon_clone_with_one/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-07-31T07:19:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bzZlcDlmc3NtaWdoMRX-2tKEZiBxnIjeVJIW4HiHJvJmDp_ivbgU4SMIXgDz.png?width=640&crop=smart&auto=webp&s=5a806679bf19a44e83b3f24e272d27e7c620c273"
+      },
       {
         "rank": 1,
         "title": "I have trained a model to predict my blood sugar [P]",
@@ -17,15 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "If reviewing is mandatory for paper submissions, low-quality reviews can no longer be justified as “volunteer work” [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbeqhw/if_reviewing_is_mandatory_for_paper_submissions/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-07-31T03:05:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
         "source": "r/MachineLearning",
@@ -34,7 +74,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ACL ARR May 2026 Meta-Reviews are out [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtgz8/acl_arr_may_2026_metareviews_are_out_d/",
         "source": "r/MachineLearning",
@@ -43,12 +83,68 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbdygo/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+        "rank": 4,
+        "title": "Detecting *whether* text exists in an image? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vbzwp9/detecting_whether_text_exists_in_an_image_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-07-31T02:30:08.000Z",
+        "publishedAt": "2026-07-31T18:57:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ARR May Meta Review[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T02:43:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Well played, Tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1vbjml1/well_played_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T07:11:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I hate forced Codex resets — all extra resets should be banked",
+        "url": "https://www.reddit.com/r/codex/comments/1vbt2ff/i_hate_forced_codex_resets_all_extra_resets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T14:48:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "What the hell is going on?",
+        "url": "https://www.reddit.com/r/codex/comments/1vbla2z/what_the_hell_is_going_on/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T08:45:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v4fievtj2jgh1.png?width=140&height=72&auto=webp&s=8bdaf96b38a3620376fa2a8541382e41f9f4a739"
+      },
+      {
+        "rank": 4,
+        "title": "A forecast for \"will Tibo reset Codex limits today\" lol",
+        "url": "https://www.reddit.com/r/codex/comments/1vc1d62/a_forecast_for_will_tibo_reset_codex_limits_today/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T19:52:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cx95je0ndmgh1.png?width=640&crop=smart&auto=webp&s=6ef52867216167456413999610b16b8687e6d973"
+      },
+      {
+        "rank": 5,
+        "title": "Average solution proposed by GPT 5.6 SOL after being asked to build a datepicker:",
+        "url": "https://www.reddit.com/r/codex/comments/1vbrmnc/average_solution_proposed_by_gpt_56_sol_after/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-07-31T13:54:27.000Z",
         "category": "reddit"
       },
       {
@@ -146,101 +242,6 @@
         "publishedAt": "2026-07-31T13:43:23.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/48O_zdVJxUja8h0v1Tbc_uFcOljNsRuH4TqRPv_c-o8.jpeg?width=640&crop=smart&auto=webp&s=3ecd4cba5660f0643a6cf3446abd6feda468e959"
-      },
-      {
-        "rank": 1,
-        "title": "Now, Anthropic reporting its own models went rogue",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbawpx/now_anthropic_reporting_its_own_models_went_rogue/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T00:13:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ilakmn6jggh1.jpeg?width=640&crop=smart&auto=webp&s=0b0c5a09ee598b18238a6d74ac146639f4244e00"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic finally launched a financial literacy toy for young AI engineers",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbrwxt/anthropic_finally_launched_a_financial_literacy/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T14:05:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/obyo72nlnkgh1.png?width=640&crop=smart&auto=webp&s=c8723e0257eb739346953d8fe9ec217e0035accc"
-      },
-      {
-        "rank": 3,
-        "title": "Is Opus 5 actually that bad, or is it just Reddit hype?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbdp39/is_opus_5_actually_that_bad_or_is_it_just_reddit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T02:17:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I close every Claude session with the same two questions and it keeps catching things I would have shipped.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbkq6o/i_close_every_claude_session_with_the_same_two/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T08:13:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I've just build a Worms Armageddon clone with one single prompt. Agentic loops are mind blowing 🤯",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vbjryq/ive_just_build_a_worms_armageddon_clone_with_one/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T07:19:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bzZlcDlmc3NtaWdoMRX-2tKEZiBxnIjeVJIW4HiHJvJmDp_ivbgU4SMIXgDz.png?width=640&crop=smart&auto=webp&s=5a806679bf19a44e83b3f24e272d27e7c620c273"
-      },
-      {
-        "rank": 1,
-        "title": "Well played, Tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1vbjml1/well_played_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T07:11:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Woah",
-        "url": "https://www.reddit.com/r/codex/comments/1vbdlsn/woah/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T02:13:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qpdi8ypl4hgh1.png?width=640&crop=smart&auto=webp&s=e89a70548eb618edb2ae7649972ef7e996f23a66"
-      },
-      {
-        "rank": 3,
-        "title": "I hate forced Codex resets — all extra resets should be banked",
-        "url": "https://www.reddit.com/r/codex/comments/1vbt2ff/i_hate_forced_codex_resets_all_extra_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T14:48:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What the hell is going on?",
-        "url": "https://www.reddit.com/r/codex/comments/1vbla2z/what_the_hell_is_going_on/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-31T08:45:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v4fievtj2jgh1.png?width=140&height=72&auto=webp&s=8bdaf96b38a3620376fa2a8541382e41f9f4a739"
-      },
-      {
-        "rank": 5,
-        "title": "ChatGPT Plus with Luna Max in fast mode is all you need.",
-        "url": "https://www.reddit.com/r/codex/comments/1vbacap/chatgpt_plus_with_luna_max_in_fast_mode_is_all/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-07-30T23:49:33.000Z",
-        "category": "reddit"
       }
     ]
   }

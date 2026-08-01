@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T20:29:09.385Z",
+  "fetchedAt": "2026-08-01T21:29:08.460Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,16 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "I'm not a developer. I built a 537-member campaign finance tracker with Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vc2oma/im_not_a_developer_i_built_a_537member_campaign/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T20:41:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/waee8rxtmmgh1.png?width=140&height=140&auto=webp&s=417bb168d3097fe5a290ee7badcb0b0da1d6003b"
-      },
-      {
-        "rank": 4,
         "title": "Fable 5 ultracode deleted 2.2M files on my server",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcsc7m/fable_5_ultracode_deleted_22m_files_on_my_server/",
         "source": "r/ClaudeAI",
@@ -43,6 +33,16 @@
         "publishedAt": "2026-08-01T16:50:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/61cfhpygmsgh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9fc887316de03de45830e93892c5315f15dd9621"
+      },
+      {
+        "rank": 4,
+        "title": "I built a real self-evolving operating system: Fable-os",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcv9hc/i_built_a_real_selfevolving_operating_system/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T18:46:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ajJmdzZoMnI1dGdoMRi5UY3qmz_kkt_l5Jr3zLTfmTsuwHl_rxIZjpaUApCA.png?width=640&crop=smart&auto=webp&s=f4a60e750435d5046a92c2c52ad88192339b7fb0"
       },
       {
         "rank": 5,

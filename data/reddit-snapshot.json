@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T22:31:46.059Z",
+  "fetchedAt": "2026-08-01T23:34:47.102Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "ARR May Meta Review[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T02:43:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "How Symmetric Are the Insides of a Go Network? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
         "source": "r/MachineLearning",
@@ -33,21 +24,30 @@
         "category": "reddit"
       },
       {
+        "rank": 3,
+        "title": "ARR May Meta Review[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcb4zw/arr_may_meta_reviewd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T02:43:00.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 4,
+        "title": "Question about NeurIPS discussion phase [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcykc5/question_about_neurips_discussion_phase_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T20:58:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "[D] Simple Questions Thread",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcpms3/d_simple_questions_thread/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-01T15:00:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Github repo to learn the OPD/OPSD and how they perform compared to GRPO, on a consumer grade GPU [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vclrah/github_repo_to_learn_the_opdopsd_and_how_they/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T12:11:34.000Z",
         "category": "reddit"
       },
       {
@@ -130,16 +130,6 @@
       },
       {
         "rank": 4,
-        "title": "Sam Altman demoed OpenAI's unreleased \"Astra\" model to policymakers this week",
-        "url": "https://www.reddit.com/r/singularity/comments/1vc6o4b/sam_altman_demoed_openais_unreleased_astra_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-07-31T23:20:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/82pp1sctengh1.png?width=640&crop=smart&auto=webp&s=b2472a8c9f4fe5592c9a95a6bdd7432ab1dc2bc3"
-      },
-      {
-        "rank": 5,
         "title": "This is why \"abandon that office job\"/\"learn a trade\" is not going to help you when stronger algorithms and easier, more widespread adoption comes. Executives see this as the end goal of all forms of human employment.",
         "url": "https://www.reddit.com/r/singularity/comments/1vcrzhg/this_is_why_abandon_that_office_joblearn_a_trade/",
         "source": "r/singularity",
@@ -147,6 +137,15 @@
         "publishedAt": "2026-08-01T16:35:43.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/YTVjdDY2eGtqc2doMRobzU1UFlUTI6GBBa9U3PjYyR7A5NOjgjniKEbP5s8P.png?width=640&crop=smart&auto=webp&s=baa2fdc902e098b08e15799464e90829e69b3d40"
+      },
+      {
+        "rank": 5,
+        "title": "Life is so hard I really hope the singularity comes as soon as possible.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcb8xn/life_is_so_hard_i_really_hope_the_singularity/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T02:48:16.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

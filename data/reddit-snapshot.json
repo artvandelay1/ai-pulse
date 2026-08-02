@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T15:41:07.827Z",
+  "fetchedAt": "2026-08-02T17:06:05.770Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Fable 5 ultracode deleted 2.2M files on my server",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcsc7m/fable_5_ultracode_deleted_22m_files_on_my_server/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T16:50:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/61cfhpygmsgh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9fc887316de03de45830e93892c5315f15dd9621"
-      },
-      {
-        "rank": 2,
         "title": "I built a real self-evolving operating system: Fable-os",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcv9hc/i_built_a_real_selfevolving_operating_system/",
         "source": "r/ClaudeAI",
@@ -26,7 +16,7 @@
         "thumbnail": "https://external-preview.redd.it/ajJmdzZoMnI1dGdoMRi5UY3qmz_kkt_l5Jr3zLTfmTsuwHl_rxIZjpaUApCA.png?width=640&crop=smart&auto=webp&s=f4a60e750435d5046a92c2c52ad88192339b7fb0"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Claude’s Plan 🙏",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcylv0/claudes_plan/",
         "source": "r/ClaudeAI",
@@ -36,7 +26,7 @@
         "thumbnail": "https://external-preview.redd.it/dTZkYzhpZ3p1dGdoMdPU0MkdHvCnXwOqbDi-tYlrCUVW0D-odzTwRt_Qnhel.jpeg?width=640&crop=smart&auto=webp&s=37e935c5b3da247fbd9a63c84722003cbc7fd9b0"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Well that's awkward",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcvtcv/well_thats_awkward/",
         "source": "r/ClaudeAI",
@@ -46,13 +36,23 @@
         "thumbnail": "https://preview.redd.it/ii3s6l13btgh1.png?width=320&crop=smart&auto=webp&s=c4a825f4ca50aecb2e5032b83a60f9ddd4faa0ee"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "CLAUDE.md for Opus 5 based on Anthropic's official platform docs to fix verbosity and more.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vd57c0/claudemd_for_opus_5_based_on_anthropics_official/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-02T01:57:47.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude helped me fix my oven!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vd22i7/claude_helped_me_fix_my_oven/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T23:28:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rh0yt07mlugh1.jpeg?width=640&crop=smart&auto=webp&s=f56e8b122e32485c9d8c44074c488199adb4903b"
       },
       {
         "rank": 1,
@@ -74,11 +74,11 @@
       },
       {
         "rank": 3,
-        "title": "How Symmetric Are the Insides of a Go Network? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-01T16:18:53.000Z",
+        "publishedAt": "2026-08-02T02:15:24.000Z",
         "category": "reddit"
       },
       {
@@ -101,25 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "Please keep it that way 😭😭😭😭😭😭😭",
-        "url": "https://www.reddit.com/r/codex/comments/1vcsq9u/please_keep_it_that_way/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-01T17:05:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/806ltzh5psgh1.png?width=320&crop=smart&auto=webp&s=d7d7df79241b9d9112ea8ecf6cbb2d0e6e29c594"
-      },
-      {
-        "rank": 2,
-        "title": "For those who don't know how to set up Sol orchestrator + Luna subagent",
-        "url": "https://www.reddit.com/r/codex/comments/1vcrwsi/for_those_who_dont_know_how_to_set_up_sol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-01T16:32:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Terra Max is absolute peak value to me",
         "url": "https://www.reddit.com/r/codex/comments/1vd7r0r/terra_max_is_absolute_peak_value_to_me/",
         "source": "r/codex",
@@ -128,7 +109,17 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "title": "Interesting usecase: using chatgpt web as the orchestrator",
+        "url": "https://www.reddit.com/r/codex/comments/1vdgrt0/interesting_usecase_using_chatgpt_web_as_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T12:25:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oiihwa7nfygh1.png?width=640&crop=smart&auto=webp&s=8b952c7383627f15973e440bede6375dd9d6f856"
+      },
+      {
+        "rank": 3,
         "title": "how to use subagents without lighting your tokens on fire",
         "url": "https://www.reddit.com/r/codex/comments/1vdb20n/how_to_use_subagents_without_lighting_your_tokens/",
         "source": "r/codex",
@@ -137,12 +128,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Asked Sol to make a brand website. It came back with 316 policies.",
         "url": "https://www.reddit.com/r/codex/comments/1vdckp7/asked_sol_to_make_a_brand_website_it_came_back/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-02T08:29:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Does software actually exist as hardened as Sol tries to make even small projects",
+        "url": "https://www.reddit.com/r/codex/comments/1vdc48e/does_software_actually_exist_as_hardened_as_sol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T08:02:29.000Z",
         "category": "reddit"
       },
       {

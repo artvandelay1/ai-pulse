@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T10:46:50.045Z",
+  "fetchedAt": "2026-08-02T12:07:44.470Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "No replies to rebuttals and comments even by AC [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdeae3/no_replies_to_rebuttals_and_comments_even_by_ac_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T10:11:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Question about NeurIPS discussion phase [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcykc5/question_about_neurips_discussion_phase_d/",
         "source": "r/MachineLearning",
@@ -15,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "How Symmetric Are the Insides of a Go Network? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
         "source": "r/MachineLearning",
@@ -24,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "[D] Self-Promotion Thread",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
         "source": "r/MachineLearning",
@@ -33,7 +42,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "[R] CausalVLBench: Benchmarking Visual Causal Reasoning in Large VLMs.",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdd7ty/r_causalvlbench_benchmarking_visual_causal/",
         "source": "r/MachineLearning",
@@ -42,26 +51,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "[D] Simple Questions Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcpms3/d_simple_questions_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T15:00:40.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "OpenAi says it has reached a new threshold in AI, new model capable of breakthrough research",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vck8sv/openai_says_it_has_reached_a_new_threshold_in_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T10:54:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4jylflt8uqgh1.jpeg?width=640&crop=smart&auto=webp&s=3d1f0a76ba395706e83fd3c69882b246a24640fe"
-      },
-      {
-        "rank": 2,
         "title": "Well that's awkward",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vcvot6/well_thats_awkward/",
         "source": "r/OpenAI",
@@ -71,7 +61,7 @@
         "thumbnail": "https://preview.redd.it/duvafik8atgh1.png?width=320&crop=smart&auto=webp&s=812e74163ecbef45d0953f63066203392589d154"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "GPT-5.6 Sol Raw reasoning leaked on failed tool call attempt",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vd3wfp/gpt56_sol_raw_reasoning_leaked_on_failed_tool/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/antqmpdq0vgh1.png?width=140&height=122&auto=webp&s=e4fab1000ec3af41786d6d54e61130714bb789e5"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "AI firms must answer for rogue bots, says boss of hacked company",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vcyycy/ai_firms_must_answer_for_rogue_bots_says_boss_of/",
         "source": "r/OpenAI",
@@ -91,12 +81,21 @@
         "thumbnail": "https://external-preview.redd.it/P-A_eM9Gnpo5eFcFzKJcBXBMbPPBE6UBXiv3bF2ejRk.jpeg?width=640&crop=smart&auto=webp&s=0f2758aede2cc995f9b60b56bc68e8e4d4d36124"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "In the EU are deleted chats actually deleted or just de identfied?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vcxzes/in_the_eu_are_deleted_chats_actually_deleted_or/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-01T20:34:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Luna Max usage is worsening",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vde40n/luna_max_usage_is_worsening/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T10:00:57.000Z",
         "category": "reddit"
       },
       {
@@ -111,15 +110,6 @@
       },
       {
         "rank": 2,
-        "title": "Why is Elon somewhat able to compete in AI while Zuckerberg gets crushed?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vczhlb/why_is_elon_somewhat_able_to_compete_in_ai_while/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T21:36:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Figure.AI demos F.03 climbing a ladder autonomously",
         "url": "https://www.reddit.com/r/singularity/comments/1vcypst/figureai_demos_f03_climbing_a_ladder_autonomously/",
         "source": "r/singularity",
@@ -129,16 +119,16 @@
         "thumbnail": "https://external-preview.redd.it/Y3VjYTdieHN2dGdoMe98ftauaEhWFqZZIHQAnwkcf0OlBteCaN295u3Ki9oo.png?width=320&crop=smart&auto=webp&s=2ca15acb7d69dfca822c08b69572b687666d6df7"
       },
       {
-        "rank": 4,
-        "title": "Agent 0 from AI-2027 is here - it's called Astra.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcmg36/agent_0_from_ai2027_is_here_its_called_astra/",
+        "rank": 3,
+        "title": "Why is Elon somewhat able to compete in AI while Zuckerberg gets crushed?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vczhlb/why_is_elon_somewhat_able_to_compete_in_ai_while/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-01T12:44:05.000Z",
+        "publishedAt": "2026-08-01T21:36:12.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Mathematician reflects on the impact of recent AI progress",
         "url": "https://www.reddit.com/r/singularity/comments/1vd9snp/mathematician_reflects_on_the_impact_of_recent_ai/",
         "source": "r/singularity",
@@ -146,6 +136,15 @@
         "publishedAt": "2026-08-02T05:51:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/e0fc331shwgh1.png?width=140&height=80&auto=webp&s=9dd474ccb4b5a91a5fc6e82c39b6d33f34b38d6a"
+      },
+      {
+        "rank": 5,
+        "title": "Agent 0 from AI-2027 is here - it's called Astra.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcmg36/agent_0_from_ai2027_is_here_its_called_astra/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T12:44:05.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

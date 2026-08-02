@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-08-02T21:28:05.910Z",
+  "fetchedAt": "2026-08-02T22:31:51.283Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "No replies to rebuttals and comments even by AC [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdeae3/no_replies_to_rebuttals_and_comments_even_by_ac_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T10:11:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "neurips 2026: ACs and reviewers have disappeared [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T21:33:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Conference Reviews: Asking Too Much? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdl461/conference_reviews_asking_too_much_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T15:33:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ARR August Cycle [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdgpha/arr_august_cycle_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T12:22:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T02:15:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-5.6 Sol Raw reasoning leaked on failed tool call attempt",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vd3wfp/gpt56_sol_raw_reasoning_leaked_on_failed_tool/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T00:54:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/antqmpdq0vgh1.png?width=140&height=122&auto=webp&s=e4fab1000ec3af41786d6d54e61130714bb789e5"
+      },
+      {
+        "rank": 2,
+        "title": "this ultra realistic AI generated image",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vdjyji/this_ultra_realistic_ai_generated_image/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T14:47:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y1xqw6ao4zgh1.png?width=640&crop=smart&auto=webp&s=94cb3f0a51164508059a14a602a50a0c84ca4694"
+      },
+      {
+        "rank": 3,
+        "title": "Made a codex/chatgpt skill to one shot Vox style videos. What would you improve?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vdi7ar/made_a_codexchatgpt_skill_to_one_shot_vox_style/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T13:32:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z3FmOGxmMjNzeWdoMbjWJ2xFXLXM00WLFjLMT1_Hl9WsZJv3KNiT9NUY-DLT.png?width=640&crop=smart&auto=webp&s=352302cb48dc900c4ba3ab3cdd5f5fb1c979f53f"
+      },
+      {
+        "rank": 4,
+        "title": "An unreleased OpenAI model has solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vdrwt1/an_unreleased_openai_model_has_solved_10_major/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T20:00:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/u3x16b5ap0hh1.png?width=640&crop=smart&auto=webp&s=ba45b0a1c0fb1da8f9fae843b3df2311ad20f70a"
+      },
+      {
+        "rank": 5,
+        "title": "Luna Max usage is worsening",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vde40n/luna_max_usage_is_worsening/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T10:00:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "This scene from \"Don't Look Up\" is now real",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdfa3z/this_scene_from_dont_look_up_is_now_real/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T11:07:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MXg1eHE5c2IyeWdoMQ8YqwxEEOrOP8cj8SCugGsP8PFQ-TdXxYX3hn_BI0li.png?width=640&crop=smart&auto=webp&s=029fc120f830d8d90e068337db183d48c18d34db"
+      },
+      {
+        "rank": 2,
+        "title": "Where would Google be today if it had released ChatGPT-like assistant before OpenAI?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdeifa/where_would_google_be_today_if_it_had_released/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T10:24:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uim5y0bhrxgh1.jpeg?width=640&crop=smart&auto=webp&s=e47f49748259dc559e0be1a2bf0f4831eaaf3e2b"
+      },
+      {
+        "rank": 3,
+        "title": "Mathematician reflects on the impact of recent AI progress",
+        "url": "https://www.reddit.com/r/singularity/comments/1vd9snp/mathematician_reflects_on_the_impact_of_recent_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T05:51:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e0fc331shwgh1.png?width=140&height=80&auto=webp&s=9dd474ccb4b5a91a5fc6e82c39b6d33f34b38d6a"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Built a Walkable Jungle Without any Assets, Only Code",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdcv0q/claude_built_a_walkable_jungle_without_any_assets/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T08:46:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NTNjN2Z2Y3RjeGdoMWHtWnSZ5ziYDastox9W21uViXwmWcyCU2MOS7S2Yuuk.png?width=640&crop=smart&auto=webp&s=2db84d732428cecbfc21e12edf2dc1d487377831"
+      },
+      {
+        "rank": 5,
+        "title": "4 years difference. Imagine 10 - 50 years from now",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdj41z/4_years_difference_imagine_10_50_years_from_now/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T14:11:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hiiuhi85zygh1.jpeg?width=640&crop=smart&auto=webp&s=4dd5227c308f980d7f3331c25bf145ee54eaa92f"
+      },
       {
         "rank": 1,
         "title": "7 days without a claude code update, are they re-writing it in rust or something?",
@@ -56,51 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "No replies to rebuttals and comments even by AC [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdeae3/no_replies_to_rebuttals_and_comments_even_by_ac_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T10:11:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Conference Reviews: Asking Too Much? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdl461/conference_reviews_asking_too_much_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T15:33:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "[D] Self-Promotion Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T02:15:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Kimi K3 Deep Dive — Architecture, Training & Benchmarks of the 2.78-Trillion-Parameter Open-Weight Model [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdndys/kimi_k3_deep_dive_architecture_training/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T17:03:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "ARR August Cycle [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdgpha/arr_august_cycle_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T12:22:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Terra Max is absolute peak value to me",
         "url": "https://www.reddit.com/r/codex/comments/1vd7r0r/terra_max_is_absolute_peak_value_to_me/",
         "source": "r/codex",
@@ -145,102 +244,6 @@
         "publishedAt": "2026-08-02T17:29:23.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zje93uoeyzgh1.jpeg?width=640&crop=smart&auto=webp&s=f562cb1bc38d11f88024c2f1b6851899af122765"
-      },
-      {
-        "rank": 1,
-        "title": "Well that's awkward",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vcvot6/well_thats_awkward/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T19:03:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/duvafik8atgh1.png?width=320&crop=smart&auto=webp&s=812e74163ecbef45d0953f63066203392589d154"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-5.6 Sol Raw reasoning leaked on failed tool call attempt",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vd3wfp/gpt56_sol_raw_reasoning_leaked_on_failed_tool/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T00:54:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/antqmpdq0vgh1.png?width=140&height=122&auto=webp&s=e4fab1000ec3af41786d6d54e61130714bb789e5"
-      },
-      {
-        "rank": 3,
-        "title": "AI firms must answer for rogue bots, says boss of hacked company",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vcyycy/ai_firms_must_answer_for_rogue_bots_says_boss_of/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T21:13:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/P-A_eM9Gnpo5eFcFzKJcBXBMbPPBE6UBXiv3bF2ejRk.jpeg?width=640&crop=smart&auto=webp&s=0f2758aede2cc995f9b60b56bc68e8e4d4d36124"
-      },
-      {
-        "rank": 4,
-        "title": "In the EU are deleted chats actually deleted or just de identfied?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vcxzes/in_the_eu_are_deleted_chats_actually_deleted_or/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T20:34:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Luna Max usage is worsening",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vde40n/luna_max_usage_is_worsening/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T10:00:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Gemini's reaction to ChatGPT's discoveries.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcmxsn/geminis_reaction_to_chatgpts_discoveries/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T13:05:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0ogr91ldirgh1.png?width=640&crop=smart&auto=webp&s=d56abfcd2cd415bc48bbdfcc8b2a3610f02d970c"
-      },
-      {
-        "rank": 2,
-        "title": "Figure.AI demos F.03 climbing a ladder autonomously",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcypst/figureai_demos_f03_climbing_a_ladder_autonomously/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T21:04:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y3VjYTdieHN2dGdoMe98ftauaEhWFqZZIHQAnwkcf0OlBteCaN295u3Ki9oo.png?width=320&crop=smart&auto=webp&s=2ca15acb7d69dfca822c08b69572b687666d6df7"
-      },
-      {
-        "rank": 3,
-        "title": "Why is Elon somewhat able to compete in AI while Zuckerberg gets crushed?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vczhlb/why_is_elon_somewhat_able_to_compete_in_ai_while/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T21:36:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Mathematician reflects on the impact of recent AI progress",
-        "url": "https://www.reddit.com/r/singularity/comments/1vd9snp/mathematician_reflects_on_the_impact_of_recent_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T05:51:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e0fc331shwgh1.png?width=140&height=80&auto=webp&s=9dd474ccb4b5a91a5fc6e82c39b6d33f34b38d6a"
-      },
-      {
-        "rank": 5,
-        "title": "Agent 0 from AI-2027 is here - it's called Astra.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcmg36/agent_0_from_ai2027_is_here_its_called_astra/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T12:44:05.000Z",
-        "category": "reddit"
       }
     ]
   }

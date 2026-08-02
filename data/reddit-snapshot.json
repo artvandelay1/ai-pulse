@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T03:23:06.888Z",
+  "fetchedAt": "2026-08-02T06:20:15.486Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,16 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "Consent based refactoring",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcdmm4/consent_based_refactoring/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T04:45:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uvp8jifl0pgh1.png?width=640&crop=smart&auto=webp&s=1934883be1db073831fa3ad7801bb095c64ef612"
-      },
-      {
-        "rank": 4,
         "title": "I built a real self-evolving operating system: Fable-os",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcv9hc/i_built_a_real_selfevolving_operating_system/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "thumbnail": "https://external-preview.redd.it/ajJmdzZoMnI1dGdoMRi5UY3qmz_kkt_l5Jr3zLTfmTsuwHl_rxIZjpaUApCA.png?width=640&crop=smart&auto=webp&s=f4a60e750435d5046a92c2c52ad88192339b7fb0"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Claude’s Plan 🙏",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcylv0/claudes_plan/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-08-01T20:59:47.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/dTZkYzhpZ3p1dGdoMdPU0MkdHvCnXwOqbDi-tYlrCUVW0D-odzTwRt_Qnhel.jpeg?width=640&crop=smart&auto=webp&s=37e935c5b3da247fbd9a63c84722003cbc7fd9b0"
+      },
+      {
+        "rank": 5,
+        "title": "Well that's awkward",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcvtcv/well_thats_awkward/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T19:08:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ii3s6l13btgh1.png?width=320&crop=smart&auto=webp&s=c4a825f4ca50aecb2e5032b83a60f9ddd4faa0ee"
       },
       {
         "rank": 1,
@@ -110,16 +110,6 @@
       },
       {
         "rank": 2,
-        "title": "5.6-SOL: OVER ENGINEERING GOAT",
-        "url": "https://www.reddit.com/r/codex/comments/1vcjx7z/56sol_over_engineering_goat/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-01T10:36:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c2cfx66jrqgh1.png?width=640&crop=smart&auto=webp&s=d77b9ec2f9d7b7bbb0b39f474b577c628487c3a3"
-      },
-      {
-        "rank": 3,
         "title": "Please keep it that way 😭😭😭😭😭😭😭",
         "url": "https://www.reddit.com/r/codex/comments/1vcsq9u/please_keep_it_that_way/",
         "source": "r/codex",
@@ -129,22 +119,32 @@
         "thumbnail": "https://preview.redd.it/806ltzh5psgh1.png?width=320&crop=smart&auto=webp&s=d7d7df79241b9d9112ea8ecf6cbb2d0e6e29c594"
       },
       {
-        "rank": 4,
-        "title": "I was at 1%. Woohoo! 4 days away and boom.",
-        "url": "https://www.reddit.com/r/codex/comments/1vccb13/i_was_at_1_woohoo_4_days_away_and_boom/",
+        "rank": 3,
+        "title": "5.6-SOL: OVER ENGINEERING GOAT",
+        "url": "https://www.reddit.com/r/codex/comments/1vcjx7z/56sol_over_engineering_goat/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-01T03:39:55.000Z",
+        "publishedAt": "2026-08-01T10:36:39.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/he256ouapogh1.png?width=640&crop=smart&auto=webp&s=862ec9fa3da19eddec19276eb8ce2ffcbed9c891"
+        "thumbnail": "https://preview.redd.it/c2cfx66jrqgh1.png?width=640&crop=smart&auto=webp&s=d77b9ec2f9d7b7bbb0b39f474b577c628487c3a3"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5 approves GPT 5.6 Luna's Max work 👏🏻",
+        "url": "https://www.reddit.com/r/codex/comments/1vcqiwq/opus_5_approves_gpt_56_lunas_max_work/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-01T15:37:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/czsgpduy8sgh1.png?width=140&height=93&auto=webp&s=fb4d7b2d67e3f4e81dd493a0ef7ea4f91b7edd64"
       },
       {
         "rank": 5,
-        "title": "RESET RECEIVED",
-        "url": "https://www.reddit.com/r/codex/comments/1vcc985/reset_received/",
+        "title": "For those who don't know how to set up Sol orchestrator + Luna subagent",
+        "url": "https://www.reddit.com/r/codex/comments/1vcrwsi/for_those_who_dont_know_how_to_set_up_sol/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-01T03:37:25.000Z",
+        "publishedAt": "2026-08-01T16:32:41.000Z",
         "category": "reddit"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T17:06:05.770Z",
+  "fetchedAt": "2026-08-02T18:33:13.344Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -83,20 +83,20 @@
       },
       {
         "rank": 4,
+        "title": "Conference Reviews: Asking Too Much? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdl461/conference_reviews_asking_too_much_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T15:33:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "ARR August Cycle [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdgpha/arr_august_cycle_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-02T12:22:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[R] CausalVLBench: Benchmarking Visual Causal Reasoning in Large VLMs.",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdd7ty/r_causalvlbench_benchmarking_visual_causal/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T09:07:49.000Z",
         "category": "reddit"
       },
       {
@@ -110,6 +110,25 @@
       },
       {
         "rank": 2,
+        "title": "how to use subagents without lighting your tokens on fire",
+        "url": "https://www.reddit.com/r/codex/comments/1vdb20n/how_to_use_subagents_without_lighting_your_tokens/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T07:01:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cg7xzhbyvzgh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=fe6a36c157feb92f3ab06b344a08630fb9e20e33"
+      },
+      {
+        "rank": 3,
+        "title": "Asked Sol to make a brand website. It came back with 316 policies.",
+        "url": "https://www.reddit.com/r/codex/comments/1vdckp7/asked_sol_to_make_a_brand_website_it_came_back/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T08:29:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Interesting usecase: using chatgpt web as the orchestrator",
         "url": "https://www.reddit.com/r/codex/comments/1vdgrt0/interesting_usecase_using_chatgpt_web_as_the/",
         "source": "r/codex",
@@ -117,24 +136,6 @@
         "publishedAt": "2026-08-02T12:25:18.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/oiihwa7nfygh1.png?width=640&crop=smart&auto=webp&s=8b952c7383627f15973e440bede6375dd9d6f856"
-      },
-      {
-        "rank": 3,
-        "title": "how to use subagents without lighting your tokens on fire",
-        "url": "https://www.reddit.com/r/codex/comments/1vdb20n/how_to_use_subagents_without_lighting_your_tokens/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T07:01:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Asked Sol to make a brand website. It came back with 316 policies.",
-        "url": "https://www.reddit.com/r/codex/comments/1vdckp7/asked_sol_to_make_a_brand_website_it_came_back/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T08:29:20.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,

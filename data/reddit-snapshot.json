@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T20:14:06.107Z",
+  "fetchedAt": "2026-08-02T21:28:05.910Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "Claude’s Plan 🙏",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vcylv0/claudes_plan/",
+        "title": "7 days without a claude code update, are they re-writing it in rust or something?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdk55g/7_days_without_a_claude_code_update_are_they/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-01T20:59:47.000Z",
+        "publishedAt": "2026-08-02T14:54:43.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dTZkYzhpZ3p1dGdoMdPU0MkdHvCnXwOqbDi-tYlrCUVW0D-odzTwRt_Qnhel.jpeg?width=640&crop=smart&auto=webp&s=37e935c5b3da247fbd9a63c84722003cbc7fd9b0"
+        "thumbnail": "https://preview.redd.it/9fnyzojh6zgh1.png?width=140&height=64&auto=webp&s=54ef251e3edd2f4e7e4a7ca44f840eee625fc4f4"
       },
       {
         "rank": 2,
@@ -26,16 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "7 days without a claude code update, are they re-writing it in rust or something?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdk55g/7_days_without_a_claude_code_update_are_they/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T14:54:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9fnyzojh6zgh1.png?width=140&height=64&auto=webp&s=54ef251e3edd2f4e7e4a7ca44f840eee625fc4f4"
-      },
-      {
-        "rank": 4,
         "title": "Claude helped me fix my oven!",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vd22i7/claude_helped_me_fix_my_oven/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "thumbnail": "https://preview.redd.it/rh0yt07mlugh1.jpeg?width=640&crop=smart&auto=webp&s=f56e8b122e32485c9d8c44074c488199adb4903b"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Claude Code just randomly spat out Kimi K2 Thinking output mid-response",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdbtzy/claude_code_just_randomly_spat_out_kimi_k2/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-08-02T07:46:31.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8e8zyj0y1xgh1.png?width=640&crop=smart&auto=webp&s=c7ef02c4b015a501d37c1058772ef519c07dd559"
+      },
+      {
+        "rank": 5,
+        "title": "NotchBasket – a 1 MB basketball hoop for your Mac, for while your AI codes",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdfd8j/notchbasket_a_1_mb_basketball_hoop_for_your_mac/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T11:12:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MmtkcGI5ODAzeWdoMQLYwSBRucQLnhXjSjoF9ZcxJ2-U2E5lFDVc7UVwoR0g.png?width=640&crop=smart&auto=webp&s=d7cf8ffa4715464a1010b06608d49fa584f1b3c2"
       },
       {
         "rank": 1,
@@ -65,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "Question about NeurIPS discussion phase [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcykc5/question_about_neurips_discussion_phase_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T20:58:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Conference Reviews: Asking Too Much? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdl461/conference_reviews_asking_too_much_d/",
         "source": "r/MachineLearning",
@@ -82,21 +73,30 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "ARR August Cycle [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdgpha/arr_august_cycle_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T12:22:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "[D] Self-Promotion Thread",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-02T02:15:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Kimi K3 Deep Dive — Architecture, Training & Benchmarks of the 2.78-Trillion-Parameter Open-Weight Model [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdndys/kimi_k3_deep_dive_architecture_training/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T17:03:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ARR August Cycle [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdgpha/arr_august_cycle_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T12:22:18.000Z",
         "category": "reddit"
       },
       {
@@ -119,22 +119,22 @@
       },
       {
         "rank": 3,
+        "title": "ClaudeCode and Codex working on the same Project",
+        "url": "https://www.reddit.com/r/codex/comments/1vdpuyu/claudecode_and_codex_working_on_the_same_project/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T18:40:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NGpwankwaTFiMGhoMei33PfAIdCdfV_YEskyIVElqKsvZLCAs9xurVfAP5v6.png?width=320&crop=smart&auto=webp&s=4b1a2a88ca254786c820ce64a06a9f58190cbc2c"
+      },
+      {
+        "rank": 4,
         "title": "Asked Sol to make a brand website. It came back with 316 policies.",
         "url": "https://www.reddit.com/r/codex/comments/1vdckp7/asked_sol_to_make_a_brand_website_it_came_back/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-02T08:29:20.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "how to use subagents without lighting your tokens on fire",
-        "url": "https://www.reddit.com/r/codex/comments/1vdb20n/how_to_use_subagents_without_lighting_your_tokens/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T07:01:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cg7xzhbyvzgh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=fe6a36c157feb92f3ab06b344a08630fb9e20e33"
       },
       {
         "rank": 5,

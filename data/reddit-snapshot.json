@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T14:11:11.209Z",
+  "fetchedAt": "2026-08-02T15:41:07.827Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -83,20 +83,20 @@
       },
       {
         "rank": 4,
+        "title": "ARR August Cycle [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdgpha/arr_august_cycle_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T12:22:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "[R] CausalVLBench: Benchmarking Visual Causal Reasoning in Large VLMs.",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdd7ty/r_causalvlbench_benchmarking_visual_causal/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-02T09:07:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[D] Self-Promotion Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T02:15:24.000Z",
         "category": "reddit"
       },
       {
@@ -120,16 +120,6 @@
       },
       {
         "rank": 3,
-        "title": "Opus 5 approves GPT 5.6 Luna's Max work 👏🏻",
-        "url": "https://www.reddit.com/r/codex/comments/1vcqiwq/opus_5_approves_gpt_56_lunas_max_work/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-01T15:37:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/czsgpduy8sgh1.png?width=140&height=93&auto=webp&s=fb4d7b2d67e3f4e81dd493a0ef7ea4f91b7edd64"
-      },
-      {
-        "rank": 4,
         "title": "Terra Max is absolute peak value to me",
         "url": "https://www.reddit.com/r/codex/comments/1vd7r0r/terra_max_is_absolute_peak_value_to_me/",
         "source": "r/codex",
@@ -138,12 +128,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Luna is the new Default.",
-        "url": "https://www.reddit.com/r/codex/comments/1vcp5mc/luna_is_the_new_default/",
+        "rank": 4,
+        "title": "how to use subagents without lighting your tokens on fire",
+        "url": "https://www.reddit.com/r/codex/comments/1vdb20n/how_to_use_subagents_without_lighting_your_tokens/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-01T14:40:37.000Z",
+        "publishedAt": "2026-08-02T07:01:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Asked Sol to make a brand website. It came back with 316 policies.",
+        "url": "https://www.reddit.com/r/codex/comments/1vdckp7/asked_sol_to_make_a_brand_website_it_came_back/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T08:29:20.000Z",
         "category": "reddit"
       },
       {

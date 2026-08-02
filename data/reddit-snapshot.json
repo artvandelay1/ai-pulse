@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-08-02T06:20:15.486Z",
+  "fetchedAt": "2026-08-02T08:57:42.758Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T09:27:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Question about NeurIPS discussion phase [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcykc5/question_about_neurips_discussion_phase_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T20:58:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How Symmetric Are the Insides of a Go Network? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-01T16:18:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T02:15:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Discussion About Meta-Review Issue Report in ARR Cycle [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdb3ct/discussion_about_metareview_issue_report_in_arr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T07:03:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAi says it has reached a new threshold in AI, new model capable of breakthrough research",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vck8sv/openai_says_it_has_reached_a_new_threshold_in_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T10:54:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4jylflt8uqgh1.jpeg?width=640&crop=smart&auto=webp&s=3d1f0a76ba395706e83fd3c69882b246a24640fe"
+      },
+      {
+        "rank": 2,
+        "title": "Well that's awkward",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vcvot6/well_thats_awkward/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T19:03:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/duvafik8atgh1.png?width=320&crop=smart&auto=webp&s=812e74163ecbef45d0953f63066203392589d154"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-5.6 Sol Raw reasoning leaked on failed tool call attempt",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vd3wfp/gpt56_sol_raw_reasoning_leaked_on_failed_tool/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T00:54:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/antqmpdq0vgh1.png?width=140&height=122&auto=webp&s=e4fab1000ec3af41786d6d54e61130714bb789e5"
+      },
+      {
+        "rank": 4,
+        "title": "AI firms must answer for rogue bots, says boss of hacked company",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vcyycy/ai_firms_must_answer_for_rogue_bots_says_boss_of/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T21:13:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/P-A_eM9Gnpo5eFcFzKJcBXBMbPPBE6UBXiv3bF2ejRk.jpeg?width=640&crop=smart&auto=webp&s=0f2758aede2cc995f9b60b56bc68e8e4d4d36124"
+      },
+      {
+        "rank": 5,
+        "title": "In the EU are deleted chats actually deleted or just de identfied?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vcxzes/in_the_eu_are_deleted_chats_actually_deleted_or/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-01T20:34:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Gemini's reaction to ChatGPT's discoveries.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcmxsn/geminis_reaction_to_chatgpts_discoveries/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T13:05:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0ogr91ldirgh1.png?width=640&crop=smart&auto=webp&s=d56abfcd2cd415bc48bbdfcc8b2a3610f02d970c"
+      },
+      {
+        "rank": 2,
+        "title": "Why is Elon somewhat able to compete in AI while Zuckerberg gets crushed?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vczhlb/why_is_elon_somewhat_able_to_compete_in_ai_while/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T21:36:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Figure.AI demos F.03 climbing a ladder autonomously",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcypst/figureai_demos_f03_climbing_a_ladder_autonomously/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T21:04:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Y3VjYTdieHN2dGdoMe98ftauaEhWFqZZIHQAnwkcf0OlBteCaN295u3Ki9oo.png?width=320&crop=smart&auto=webp&s=2ca15acb7d69dfca822c08b69572b687666d6df7"
+      },
+      {
+        "rank": 4,
+        "title": "Agent 0 from AI-2027 is here - it's called Astra.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcmg36/agent_0_from_ai2027_is_here_its_called_astra/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T12:44:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "DeepSeek V4 Flash 0731 in Hermes Agent and one prompt, took 32 minutes and cost 0.07$, this model is so cheap to the point where 2 dollars can last you a full day.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vcsrwh/deepseek_v4_flash_0731_in_hermes_agent_and_one/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-01T17:07:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZGI2NWRrMmxwc2doMYhAYxDP2wpSycatl3zDebS2xq7PQ7cXippP2CDVEEBS.png?width=640&crop=smart&auto=webp&s=9c1bb70bf7f33428f946da2115090ed47cc51a52"
+      },
       {
         "rank": 1,
         "title": "I don't see the tech sector surviving this timeline",
@@ -56,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "VLMs can score well on benchmarks, while silently erasing meaningful terms and including hallucinate bias [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T09:27:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Question about NeurIPS discussion phase [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcykc5/question_about_neurips_discussion_phase_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T20:58:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How Symmetric Are the Insides of a Go Network? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T16:18:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "[D] Self-Promotion Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T02:15:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[D] Simple Questions Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vcpms3/d_simple_questions_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-01T15:00:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "The real reason 5.6 Luna became 5x cheaper",
         "url": "https://www.reddit.com/r/codex/comments/1vciiun/the_real_reason_56_luna_became_5x_cheaper/",
         "source": "r/codex",
@@ -145,103 +242,6 @@
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-01T16:32:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI’s internal model “Astra” claims 10 major advances in mathematics and theoretical computer science",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vch4jr/openais_internal_model_astra_claims_10_major/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T07:54:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAi says it has reached a new threshold in AI, new model capable of breakthrough research",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vck8sv/openai_says_it_has_reached_a_new_threshold_in_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T10:54:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4jylflt8uqgh1.jpeg?width=640&crop=smart&auto=webp&s=3d1f0a76ba395706e83fd3c69882b246a24640fe"
-      },
-      {
-        "rank": 3,
-        "title": "Sam Altman demoed OpenAl's unreleased \"Astra\" model to policymakers this week",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vc73yv/sam_altman_demoed_openals_unreleased_astra_model/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-07-31T23:39:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mko7zm3lingh1.jpeg?width=640&crop=smart&auto=webp&s=8054d2a423eba290f595ea3ca2c431902ec33d4d"
-      },
-      {
-        "rank": 4,
-        "title": "Well that's awkward",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vcvot6/well_thats_awkward/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T19:03:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/duvafik8atgh1.png?width=320&crop=smart&auto=webp&s=812e74163ecbef45d0953f63066203392589d154"
-      },
-      {
-        "rank": 5,
-        "title": "AI firms must answer for rogue bots, says boss of hacked company",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vcyycy/ai_firms_must_answer_for_rogue_bots_says_boss_of/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-01T21:13:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/P-A_eM9Gnpo5eFcFzKJcBXBMbPPBE6UBXiv3bF2ejRk.jpeg?width=640&crop=smart&auto=webp&s=0f2758aede2cc995f9b60b56bc68e8e4d4d36124"
-      },
-      {
-        "rank": 1,
-        "title": "Leaked paper attributed to OpenAI claims the first construction of a nonsofic group",
-        "url": "https://www.reddit.com/r/singularity/comments/1vccy9k/leaked_paper_attributed_to_openai_claims_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T04:10:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/87dopc9suogh1.png?width=640&crop=smart&auto=webp&s=da08dd59502aa38f3768cbd31543e0cafc5a0c62"
-      },
-      {
-        "rank": 2,
-        "title": "Ten advances in mathematics and theoretical computer science (OpenAI model Astra)",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcgutk/ten_advances_in_mathematics_and_theoretical/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T07:39:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Gemini's reaction to ChatGPT's discoveries.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcmxsn/geminis_reaction_to_chatgpts_discoveries/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T13:05:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0ogr91ldirgh1.png?width=640&crop=smart&auto=webp&s=d56abfcd2cd415bc48bbdfcc8b2a3610f02d970c"
-      },
-      {
-        "rank": 4,
-        "title": "This is why \"abandon that office job\"/\"learn a trade\" is not going to help you when stronger algorithms and easier, more widespread adoption comes. Executives see this as the end goal of all forms of human employment.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcrzhg/this_is_why_abandon_that_office_joblearn_a_trade/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T16:35:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YTVjdDY2eGtqc2doMRobzU1UFlUTI6GBBa9U3PjYyR7A5NOjgjniKEbP5s8P.png?width=640&crop=smart&auto=webp&s=baa2fdc902e098b08e15799464e90829e69b3d40"
-      },
-      {
-        "rank": 5,
-        "title": "Life is so hard I really hope the singularity comes as soon as possible.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vcb8xn/life_is_so_hard_i_really_hope_the_singularity/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-01T02:48:16.000Z",
         "category": "reddit"
       }
     ]

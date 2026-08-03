@@ -1,10 +1,56 @@
 {
-  "fetchedAt": "2026-08-03T18:22:43.276Z",
+  "fetchedAt": "2026-08-03T20:15:11.028Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "GTA 6 first attempt. Far from perfect, but it's impressive what the right harness and agentic loops can build.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve7u9r/gta_6_first_attempt_far_from_perfect_but_its/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-03T08:46:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/djdmZmh2a3NoNGhoMRcEm8nefJelZ7l0zKq1VuAvJMHBK4EPiyZdkztGvuH6.png?width=640&crop=smart&auto=webp&s=e5b2e3a569ba64415bda345a53776f5087da1dfb"
+      },
+      {
+        "rank": 2,
+        "title": "Warning for those that haven't experienced this yet.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdtzhm/warning_for_those_that_havent_experienced_this_yet/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T21:22:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "delete claude.md",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-03T01:18:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Had claude make a pointless website on friday, it's consumed my whole weekend",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve52z4/had_claude_make_a_pointless_website_on_friday_its/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-03T06:07:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I switched to sonnet 5 and now my max sub is unlimited",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdvgo6/i_switched_to_sonnet_5_and_now_my_max_sub_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T22:23:31.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
@@ -16,15 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "neurips 2026: ACs and reviewers have disappeared [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T21:33:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
         "source": "r/MachineLearning",
@@ -33,21 +70,79 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "No rebuttals from neurips authors [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdz19e/no_rebuttals_from_neurips_authors_d/",
+        "rank": 3,
+        "title": "neurips 2026: ACs and reviewers have disappeared [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-03T01:02:07.000Z",
+        "publishedAt": "2026-08-02T21:33:05.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-03T16:17:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Bad but typical NeurIPS experience? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1veg84o/bad_but_typical_neurips_experience_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-03T15:12:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "My first time using Codex for video editing: \"Wow...\"",
+        "url": "https://www.reddit.com/r/codex/comments/1vdt01x/my_first_time_using_codex_for_video_editing_wow/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T20:42:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c4gnmfvmt0hh1.png?width=140&height=51&auto=webp&s=d67986cecea82a67a25cdca62cfecd82542ac43d"
+      },
+      {
+        "rank": 2,
+        "title": "Codex just refuses to give up. 48 hours straight with no breaks",
+        "url": "https://www.reddit.com/r/codex/comments/1vejoye/codex_just_refuses_to_give_up_48_hours_straight/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-03T17:16:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5ikq9s7vz6hh1.jpeg?width=640&crop=smart&auto=webp&s=6bd489113bcd1b24718a9c91a359913c42f67628"
+      },
+      {
+        "rank": 3,
+        "title": "New refferal/invite rewards! No more banked, credits instead",
+        "url": "https://www.reddit.com/r/codex/comments/1vdykpk/new_refferalinvite_rewards_no_more_banked_credits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-03T00:40:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/51hz5a4332hh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1a48074e24deb3d101028959d1d433a1a4f80199"
+      },
+      {
+        "rank": 4,
+        "title": "A cost analysis of my usage of using Sol using Luna max subagents",
+        "url": "https://www.reddit.com/r/codex/comments/1veac6s/a_cost_analysis_of_my_usage_of_using_sol_using/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-03T11:06:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vcoovdha65hh1.png?width=140&height=45&auto=webp&s=d6a798b29267563483b9e03f4acd6573779546ce"
+      },
+      {
+        "rank": 5,
+        "title": "Have everyones luna usage extended 5x since price reduction update?",
+        "url": "https://www.reddit.com/r/codex/comments/1ve9kh1/have_everyones_luna_usage_extended_5x_since_price/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-03T10:24:34.000Z",
         "category": "reddit"
       },
       {
@@ -147,101 +242,6 @@
         "score": 0,
         "publishedAt": "2026-08-03T03:18:10.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "GTA 6 first attempt. Far from perfect, but it's impressive what the right harness and agentic loops can build.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve7u9r/gta_6_first_attempt_far_from_perfect_but_its/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-03T08:46:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/djdmZmh2a3NoNGhoMRcEm8nefJelZ7l0zKq1VuAvJMHBK4EPiyZdkztGvuH6.png?width=640&crop=smart&auto=webp&s=e5b2e3a569ba64415bda345a53776f5087da1dfb"
-      },
-      {
-        "rank": 2,
-        "title": "Warning for those that haven't experienced this yet.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdtzhm/warning_for_those_that_havent_experienced_this_yet/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T21:22:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "delete claude.md",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-03T01:18:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I switched to sonnet 5 and now my max sub is unlimited",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdvgo6/i_switched_to_sonnet_5_and_now_my_max_sub_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T22:23:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Had claude make a pointless website on friday, it's consumed my whole weekend",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve52z4/had_claude_make_a_pointless_website_on_friday_its/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-03T06:07:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "ClaudeCode and Codex working on the same Project",
-        "url": "https://www.reddit.com/r/codex/comments/1vdpuyu/claudecode_and_codex_working_on_the_same_project/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T18:40:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NGpwankwaTFiMGhoMei33PfAIdCdfV_YEskyIVElqKsvZLCAs9xurVfAP5v6.png?width=320&crop=smart&auto=webp&s=4b1a2a88ca254786c820ce64a06a9f58190cbc2c"
-      },
-      {
-        "rank": 2,
-        "title": "Never Run Out of Tokens Again",
-        "url": "https://www.reddit.com/r/codex/comments/1vdp65s/never_run_out_of_tokens_again/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T18:13:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "My first time using Codex for video editing: \"Wow...\"",
-        "url": "https://www.reddit.com/r/codex/comments/1vdt01x/my_first_time_using_codex_for_video_editing_wow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T20:42:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c4gnmfvmt0hh1.png?width=140&height=51&auto=webp&s=d67986cecea82a67a25cdca62cfecd82542ac43d"
-      },
-      {
-        "rank": 4,
-        "title": "Adding this one line allows your codex to ask questions outside plan mode",
-        "url": "https://www.reddit.com/r/codex/comments/1vdo16g/adding_this_one_line_allows_your_codex_to_ask/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T17:29:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zje93uoeyzgh1.jpeg?width=640&crop=smart&auto=webp&s=f562cb1bc38d11f88024c2f1b6851899af122765"
-      },
-      {
-        "rank": 5,
-        "title": "New refferal/invite rewards! No more banked, credits instead",
-        "url": "https://www.reddit.com/r/codex/comments/1vdykpk/new_refferalinvite_rewards_no_more_banked_credits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-03T00:40:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/51hz5a4332hh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1a48074e24deb3d101028959d1d433a1a4f80199"
       }
     ]
   }

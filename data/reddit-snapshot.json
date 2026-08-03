@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T13:45:13.750Z",
+  "fetchedAt": "2026-08-03T16:31:06.317Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "7 days without a claude code update, are they re-writing it in rust or something?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdk55g/7_days_without_a_claude_code_update_are_they/",
+        "title": "GTA 6 first attempt. Far from perfect, but it's impressive what the right harness and agentic loops can build.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve7u9r/gta_6_first_attempt_far_from_perfect_but_its/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-02T14:54:43.000Z",
+        "publishedAt": "2026-08-03T08:46:47.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9fnyzojh6zgh1.png?width=140&height=64&auto=webp&s=54ef251e3edd2f4e7e4a7ca44f840eee625fc4f4"
+        "thumbnail": "https://external-preview.redd.it/djdmZmh2a3NoNGhoMRcEm8nefJelZ7l0zKq1VuAvJMHBK4EPiyZdkztGvuH6.png?width=640&crop=smart&auto=webp&s=e5b2e3a569ba64415bda345a53776f5087da1dfb"
       },
       {
         "rank": 2,
@@ -26,16 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "GTA 6 first attempt. Far from perfect, but it's impressive what the right harness and agentic loops can build.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve7u9r/gta_6_first_attempt_far_from_perfect_but_its/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-03T08:46:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/djdmZmh2a3NoNGhoMRcEm8nefJelZ7l0zKq1VuAvJMHBK4EPiyZdkztGvuH6.png?width=640&crop=smart&auto=webp&s=e5b2e3a569ba64415bda345a53776f5087da1dfb"
-      },
-      {
-        "rank": 4,
         "title": "delete claude.md",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd/",
         "source": "r/ClaudeAI",
@@ -44,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "I switched to sonnet 5 and now my max sub is unlimited",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdvgo6/i_switched_to_sonnet_5_and_now_my_max_sub_is/",
         "source": "r/ClaudeAI",
@@ -53,16 +43,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "neurips 2026: ACs and reviewers have disappeared [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
-        "source": "r/MachineLearning",
+        "rank": 5,
+        "title": "Had claude make a pointless website on friday, it's consumed my whole weekend",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve52z4/had_claude_make_a_pointless_website_on_friday_its/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-02T21:33:05.000Z",
+        "publishedAt": "2026-08-03T06:07:45.000Z",
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
         "source": "r/MachineLearning",
@@ -71,7 +61,25 @@
         "category": "reddit"
       },
       {
+        "rank": 2,
+        "title": "neurips 2026: ACs and reviewers have disappeared [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T21:33:05.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 3,
+        "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-03T15:01:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "No rebuttals from neurips authors [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdz19e/no_rebuttals_from_neurips_authors_d/",
         "source": "r/MachineLearning",
@@ -80,21 +88,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Neurips 2026: does every metareview recommend accept/reject? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-02T22:28:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Conference Reviews: Asking Too Much? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdl461/conference_reviews_asking_too_much_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T15:33:35.000Z",
         "category": "reddit"
       },
       {

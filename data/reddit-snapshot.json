@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T21:43:50.915Z",
+  "fetchedAt": "2026-08-03T23:07:49.411Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-03T15:01:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-03T16:17:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-03T15:01:36.000Z",
         "category": "reddit"
       },
       {
@@ -121,16 +121,6 @@
       },
       {
         "rank": 3,
-        "title": "On second thought, maybe there should be AI regulation 🤔",
-        "url": "https://www.reddit.com/r/singularity/comments/1vdurxs/on_second_thought_maybe_there_should_be_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T21:55:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/apydtwnt91hh1.jpeg?width=640&crop=smart&auto=webp&s=03c4349fe5bc343e99fefc20a9a98657375f8c48"
-      },
-      {
-        "rank": 4,
         "title": "Qwen 3.8 max benchmarks",
         "url": "https://www.reddit.com/r/singularity/comments/1ve0hp7/qwen_38_max_benchmarks/",
         "source": "r/singularity",
@@ -140,13 +130,23 @@
         "thumbnail": "https://preview.redd.it/9w62xemhj2hh1.png?width=640&crop=smart&auto=webp&s=94e56d13aeeb3440c296877ff63d3e3cee1e94d1"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "The world is moving faster to posthumanism than transhumanism",
         "url": "https://www.reddit.com/r/singularity/comments/1ve1v8o/the_world_is_moving_faster_to_posthumanism_than/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-03T03:18:10.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Trump admin invited OpenAI, Anthropic and Google to the White House on Tuesday to preview the new AI voluntary framework, AI companies were lobbying for specific language on issues including open-source",
+        "url": "https://www.reddit.com/r/singularity/comments/1vehiq5/trump_admin_invited_openai_anthropic_and_google/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-03T15:59:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7x3nowm4m6hh1.png?width=140&height=64&auto=webp&s=c6b2587a167af170ee3297846da126792b62dab0"
       },
       {
         "rank": 1,

@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-08-03T06:47:15.080Z",
+  "fetchedAt": "2026-08-03T10:48:42.599Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "neurips 2026: ACs and reviewers have disappeared [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T21:33:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-03T08:17:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Neurips 2026: does every metareview recommend accept/reject? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T22:28:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "No rebuttals from neurips authors [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdz19e/no_rebuttals_from_neurips_authors_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-03T01:02:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Conference Reviews: Asking Too Much? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdl461/conference_reviews_asking_too_much_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T15:33:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "An unreleased OpenAI model has solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vdrwt1/an_unreleased_openai_model_has_solved_10_major/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T20:00:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/u3x16b5ap0hh1.png?width=640&crop=smart&auto=webp&s=ba45b0a1c0fb1da8f9fae843b3df2311ad20f70a"
+      },
+      {
+        "rank": 2,
+        "title": "this ultra realistic AI generated image",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vdjyji/this_ultra_realistic_ai_generated_image/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T14:47:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y1xqw6ao4zgh1.png?width=640&crop=smart&auto=webp&s=94cb3f0a51164508059a14a602a50a0c84ca4694"
+      },
+      {
+        "rank": 3,
+        "title": "Ah shit here we go again",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1ve6uvv/ah_shit_here_we_go_again/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-03T07:49:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qtkvkrbu74hh1.png?width=640&crop=smart&auto=webp&s=60d1ad172535b734c3a147580f6eee104809bd4a"
+      },
+      {
+        "rank": 4,
+        "title": "Made a codex/chatgpt skill to one shot Vox style videos. What would you improve?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vdi7ar/made_a_codexchatgpt_skill_to_one_shot_vox_style/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T13:32:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z3FmOGxmMjNzeWdoMbjWJ2xFXLXM00WLFjLMT1_Hl9WsZJv3KNiT9NUY-DLT.png?width=640&crop=smart&auto=webp&s=352302cb48dc900c4ba3ab3cdd5f5fb1c979f53f"
+      },
+      {
+        "rank": 5,
+        "title": "Can someone explain to me how ChatGPT is able to solve research-grade math problems?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vdwuct/can_someone_explain_to_me_how_chatgpt_is_able_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-02T23:23:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "This scene from \"Don't Look Up\" is now real",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdfa3z/this_scene_from_dont_look_up_is_now_real/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T11:07:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MXg1eHE5c2IyeWdoMQ8YqwxEEOrOP8cj8SCugGsP8PFQ-TdXxYX3hn_BI0li.png?width=640&crop=smart&auto=webp&s=029fc120f830d8d90e068337db183d48c18d34db"
+      },
+      {
+        "rank": 2,
+        "title": "Just tell the model what you want",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdxilc/just_tell_the_model_what_you_want/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T23:53:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4lw9v3dzu1hh1.jpeg?width=640&crop=smart&auto=webp&s=99401580c410479e1b3b01f119f9b1fc55a6b1fb"
+      },
+      {
+        "rank": 3,
+        "title": "4 years difference. Imagine 10 - 50 years from now",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdj41z/4_years_difference_imagine_10_50_years_from_now/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T14:11:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hiiuhi85zygh1.jpeg?width=640&crop=smart&auto=webp&s=4dd5227c308f980d7f3331c25bf145ee54eaa92f"
+      },
+      {
+        "rank": 4,
+        "title": "On second thought, maybe there should be AI regulation 🤔",
+        "url": "https://www.reddit.com/r/singularity/comments/1vdurxs/on_second_thought_maybe_there_should_be_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-02T21:55:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/apydtwnt91hh1.jpeg?width=640&crop=smart&auto=webp&s=03c4349fe5bc343e99fefc20a9a98657375f8c48"
+      },
+      {
+        "rank": 5,
+        "title": "Qwen 3.8 morning to you too Dario, 2$ input/ 6$ output per 1M.",
+        "url": "https://www.reddit.com/r/singularity/comments/1ve6k6v/qwen_38_morning_to_you_too_dario_2_input_6_output/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-03T07:31:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uliv3ozp44hh1.jpeg?width=640&crop=smart&auto=webp&s=cce40ad39cf6b33683069120458319f132ba5ee8"
+      },
       {
         "rank": 1,
         "title": "7 days without a claude code update, are they re-writing it in rust or something?",
@@ -55,51 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "neurips 2026: ACs and reviewers have disappeared [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T21:33:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "No replies to rebuttals and comments even by AC [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdeae3/no_replies_to_rebuttals_and_comments_even_by_ac_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T10:11:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "No rebuttals from neurips authors [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdz19e/no_rebuttals_from_neurips_authors_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-03T01:02:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Neurips 2026: does every metareview recommend accept/reject? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T22:28:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Conference Reviews: Asking Too Much? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdl461/conference_reviews_asking_too_much_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T15:33:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "ClaudeCode and Codex working on the same Project",
         "url": "https://www.reddit.com/r/codex/comments/1vdpuyu/claudecode_and_codex_working_on_the_same_project/",
         "source": "r/codex",
@@ -146,105 +245,6 @@
         "publishedAt": "2026-08-02T07:01:13.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/cg7xzhbyvzgh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=fe6a36c157feb92f3ab06b344a08630fb9e20e33"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-5.6 Sol Raw reasoning leaked on failed tool call attempt",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vd3wfp/gpt56_sol_raw_reasoning_leaked_on_failed_tool/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T00:54:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/antqmpdq0vgh1.png?width=140&height=122&auto=webp&s=e4fab1000ec3af41786d6d54e61130714bb789e5"
-      },
-      {
-        "rank": 2,
-        "title": "this ultra realistic AI generated image",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vdjyji/this_ultra_realistic_ai_generated_image/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T14:47:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y1xqw6ao4zgh1.png?width=640&crop=smart&auto=webp&s=94cb3f0a51164508059a14a602a50a0c84ca4694"
-      },
-      {
-        "rank": 3,
-        "title": "Made a codex/chatgpt skill to one shot Vox style videos. What would you improve?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vdi7ar/made_a_codexchatgpt_skill_to_one_shot_vox_style/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T13:32:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z3FmOGxmMjNzeWdoMbjWJ2xFXLXM00WLFjLMT1_Hl9WsZJv3KNiT9NUY-DLT.png?width=640&crop=smart&auto=webp&s=352302cb48dc900c4ba3ab3cdd5f5fb1c979f53f"
-      },
-      {
-        "rank": 4,
-        "title": "An unreleased OpenAI model has solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vdrwt1/an_unreleased_openai_model_has_solved_10_major/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T20:00:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u3x16b5ap0hh1.png?width=640&crop=smart&auto=webp&s=ba45b0a1c0fb1da8f9fae843b3df2311ad20f70a"
-      },
-      {
-        "rank": 5,
-        "title": "Luna Max usage is worsening",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vde40n/luna_max_usage_is_worsening/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-02T10:00:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "This scene from \"Don't Look Up\" is now real",
-        "url": "https://www.reddit.com/r/singularity/comments/1vdfa3z/this_scene_from_dont_look_up_is_now_real/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T11:07:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MXg1eHE5c2IyeWdoMQ8YqwxEEOrOP8cj8SCugGsP8PFQ-TdXxYX3hn_BI0li.png?width=640&crop=smart&auto=webp&s=029fc120f830d8d90e068337db183d48c18d34db"
-      },
-      {
-        "rank": 2,
-        "title": "Where would Google be today if it had released ChatGPT-like assistant before OpenAI?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vdeifa/where_would_google_be_today_if_it_had_released/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T10:24:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uim5y0bhrxgh1.jpeg?width=640&crop=smart&auto=webp&s=e47f49748259dc559e0be1a2bf0f4831eaaf3e2b"
-      },
-      {
-        "rank": 3,
-        "title": "Mathematician reflects on the impact of recent AI progress",
-        "url": "https://www.reddit.com/r/singularity/comments/1vd9snp/mathematician_reflects_on_the_impact_of_recent_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T05:51:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e0fc331shwgh1.png?width=140&height=80&auto=webp&s=9dd474ccb4b5a91a5fc6e82c39b6d33f34b38d6a"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Built a Walkable Jungle Without any Assets, Only Code",
-        "url": "https://www.reddit.com/r/singularity/comments/1vdcv0q/claude_built_a_walkable_jungle_without_any_assets/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T08:46:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NTNjN2Z2Y3RjeGdoMWHtWnSZ5ziYDastox9W21uViXwmWcyCU2MOS7S2Yuuk.png?width=640&crop=smart&auto=webp&s=2db84d732428cecbfc21e12edf2dc1d487377831"
-      },
-      {
-        "rank": 5,
-        "title": "4 years difference. Imagine 10 - 50 years from now",
-        "url": "https://www.reddit.com/r/singularity/comments/1vdj41z/4_years_difference_imagine_10_50_years_from_now/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T14:11:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hiiuhi85zygh1.jpeg?width=640&crop=smart&auto=webp&s=4dd5227c308f980d7f3331c25bf145ee54eaa92f"
       }
     ]
   }

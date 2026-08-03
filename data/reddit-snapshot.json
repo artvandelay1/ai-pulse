@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T03:25:07.815Z",
+  "fetchedAt": "2026-08-03T06:47:15.080Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -46,24 +46,15 @@
       },
       {
         "rank": 5,
-        "title": "What files do you keep besides CLAUDE.md?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdhjm3/what_files_do_you_keep_besides_claudemd/",
+        "title": "delete claude.md",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vdzdgi/delete_claudemd/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-02T13:02:18.000Z",
+        "publishedAt": "2026-08-03T01:18:04.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "No replies to rebuttals and comments even by AC [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdeae3/no_replies_to_rebuttals_and_comments_even_by_ac_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-02T10:11:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "neurips 2026: ACs and reviewers have disappeared [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdu92a/neurips_2026_acs_and_reviewers_have_disappeared_d/",
         "source": "r/MachineLearning",
@@ -72,21 +63,30 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "Neurips 2026: does every metareview recommend accept/reject? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
+        "rank": 2,
+        "title": "No replies to rebuttals and comments even by AC [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdeae3/no_replies_to_rebuttals_and_comments_even_by_ac_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-02T22:28:25.000Z",
+        "publishedAt": "2026-08-02T10:11:21.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "No rebuttals from neurips authors [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vdz19e/no_rebuttals_from_neurips_authors_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-03T01:02:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Neurips 2026: does every metareview recommend accept/reject? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-02T22:28:25.000Z",
         "category": "reddit"
       },
       {
@@ -100,15 +100,6 @@
       },
       {
         "rank": 1,
-        "title": "Never Run Out of Tokens Again",
-        "url": "https://www.reddit.com/r/codex/comments/1vdp65s/never_run_out_of_tokens_again/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-02T18:13:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "ClaudeCode and Codex working on the same Project",
         "url": "https://www.reddit.com/r/codex/comments/1vdpuyu/claudecode_and_codex_working_on_the_same_project/",
         "source": "r/codex",
@@ -118,16 +109,16 @@
         "thumbnail": "https://external-preview.redd.it/NGpwankwaTFiMGhoMei33PfAIdCdfV_YEskyIVElqKsvZLCAs9xurVfAP5v6.png?width=320&crop=smart&auto=webp&s=4b1a2a88ca254786c820ce64a06a9f58190cbc2c"
       },
       {
-        "rank": 3,
-        "title": "Terra Max is absolute peak value to me",
-        "url": "https://www.reddit.com/r/codex/comments/1vd7r0r/terra_max_is_absolute_peak_value_to_me/",
+        "rank": 2,
+        "title": "Never Run Out of Tokens Again",
+        "url": "https://www.reddit.com/r/codex/comments/1vdp65s/never_run_out_of_tokens_again/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-02T04:03:23.000Z",
+        "publishedAt": "2026-08-02T18:13:32.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "My first time using Codex for video editing: \"Wow...\"",
         "url": "https://www.reddit.com/r/codex/comments/1vdt01x/my_first_time_using_codex_for_video_editing_wow/",
         "source": "r/codex",
@@ -137,7 +128,7 @@
         "thumbnail": "https://preview.redd.it/c4gnmfvmt0hh1.png?width=140&height=51&auto=webp&s=d67986cecea82a67a25cdca62cfecd82542ac43d"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Adding this one line allows your codex to ask questions outside plan mode",
         "url": "https://www.reddit.com/r/codex/comments/1vdo16g/adding_this_one_line_allows_your_codex_to_ask/",
         "source": "r/codex",
@@ -145,6 +136,16 @@
         "publishedAt": "2026-08-02T17:29:23.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zje93uoeyzgh1.jpeg?width=640&crop=smart&auto=webp&s=f562cb1bc38d11f88024c2f1b6851899af122765"
+      },
+      {
+        "rank": 5,
+        "title": "how to use subagents without lighting your tokens on fire",
+        "url": "https://www.reddit.com/r/codex/comments/1vdb20n/how_to_use_subagents_without_lighting_your_tokens/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-02T07:01:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cg7xzhbyvzgh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=fe6a36c157feb92f3ab06b344a08630fb9e20e33"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T01:02:46.545Z",
+  "fetchedAt": "2026-08-04T04:46:48.002Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-03T08:17:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-03T15:01:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-03T08:17:40.000Z",
         "category": "reddit"
       },
       {
@@ -43,12 +43,13 @@
       },
       {
         "rank": 5,
-        "title": "No rebuttals from neurips authors [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vdz19e/no_rebuttals_from_neurips_authors_d/",
+        "title": "I created an autonomous boxing benchmark [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-03T01:02:07.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-03T21:39:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r2i8f52ub8hh1.jpg?width=140&height=78&auto=webp&s=5ea73e9fad702339bb34f2c4c3a5ff60f2b2653b"
       },
       {
         "rank": 1,
@@ -112,16 +113,6 @@
       },
       {
         "rank": 2,
-        "title": "Qwen 3.8 max benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1ve0hp7/qwen_38_max_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-03T02:11:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9w62xemhj2hh1.png?width=640&crop=smart&auto=webp&s=94e56d13aeeb3440c296877ff63d3e3cee1e94d1"
-      },
-      {
-        "rank": 3,
         "title": "The U.S. lead over China in AI is all but gone.",
         "url": "https://www.reddit.com/r/singularity/comments/1veoeho/the_us_lead_over_china_in_ai_is_all_but_gone/",
         "source": "r/singularity",
@@ -131,7 +122,7 @@
         "thumbnail": "https://external-preview.redd.it/qlcQN8u9f-0oO8kHbsQEA8qhdLSBknE3uRoukc1EHqU.jpeg?width=640&crop=smart&auto=webp&s=abc956ea7f8d8fa7beb05d00fae92c16fa56cec1"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
         "url": "https://www.reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
         "source": "r/singularity",
@@ -140,7 +131,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Is anyone else surprised Google DeepMind isn't leading these mathematical benchmarks?",
         "url": "https://www.reddit.com/r/singularity/comments/1ven8ow/is_anyone_else_surprised_google_deepmind_isnt/",
         "source": "r/singularity",
@@ -148,6 +139,16 @@
         "publishedAt": "2026-08-03T19:24:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/03bf4yqsm7hh1.png?width=140&height=116&auto=webp&s=1886b8a134b1f5676f9a31e8321427fd41b66666"
+      },
+      {
+        "rank": 5,
+        "title": "Models are now training models.",
+        "url": "https://www.reddit.com/r/singularity/comments/1veje3t/models_are_now_training_models/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-03T17:06:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/981xlxe1z6hh1.png?width=140&height=79&auto=webp&s=7ff600f1385378f9385407c35bdf91b9842c7fef"
       },
       {
         "rank": 1,

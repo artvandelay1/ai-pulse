@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T07:44:10.090Z",
+  "fetchedAt": "2026-08-04T10:45:13.516Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "GTA 6 first attempt. Far from perfect, but it's impressive what the right harness and agentic loops can build.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ve7u9r/gta_6_first_attempt_far_from_perfect_but_its/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-03T08:46:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/djdmZmh2a3NoNGhoMRcEm8nefJelZ7l0zKq1VuAvJMHBK4EPiyZdkztGvuH6.png?width=640&crop=smart&auto=webp&s=e5b2e3a569ba64415bda345a53776f5087da1dfb"
-      },
-      {
-        "rank": 3,
         "title": "Opus 5 is just annoying to work with. Back to Opus 4.8 for me.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vephjv/opus_5_is_just_annoying_to_work_with_back_to_opus/",
         "source": "r/ClaudeAI",
@@ -35,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Big D Claude out here shipping and showing off",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1veltsl/big_d_claude_out_here_shipping_and_showing_off/",
         "source": "r/ClaudeAI",
@@ -45,14 +35,24 @@
         "thumbnail": "https://preview.redd.it/0vmgvyb8e7hh1.png?width=640&crop=smart&auto=webp&s=5dcfb241b5f63ca91785bd99883a1319a97039c0"
       },
       {
-        "rank": 5,
-        "title": "Claude shows its thinking again!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ved6x1/claude_shows_its_thinking_again/",
+        "rank": 4,
+        "title": "Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-03T13:17:55.000Z",
+        "publishedAt": "2026-08-04T08:21:59.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/he2yjzs7u5hh1.png?width=640&crop=smart&auto=webp&s=ec269006b38318db4b469810efc7773555af2a9b"
+        "thumbnail": "https://external-preview.redd.it/BZ_5MMBKWcSSugONzqiMBmsdC14n8hDEL3qbHvnFtBE.png?width=640&crop=smart&auto=webp&s=b5f968ecda988c264a50cf6f615aa6c2dc82b2a7"
+      },
+      {
+        "rank": 5,
+        "title": "I built a terminal with Claude to replace Claude Desktop",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf1n91/i_built_a_terminal_with_claude_to_replace_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T05:51:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MGQ3dGM1YWlxYWhoMRdGCM_LloNXydxEZNJyJugsYK6FDwBPd9OOby6H-QyZ.png?width=640&crop=smart&auto=webp&s=234633585a5a159d819cf7df8d14b38917392843"
       },
       {
         "rank": 1,
@@ -74,20 +74,20 @@
       },
       {
         "rank": 3,
-        "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-03T08:17:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Bad but typical NeurIPS experience? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1veg84o/bad_but_typical_neurips_experience_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-03T15:12:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The Downsides of LLM-Generated Peer Reviews [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T09:03:02.000Z",
         "category": "reddit"
       },
       {

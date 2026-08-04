@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T23:07:49.411Z",
+  "fetchedAt": "2026-08-04T01:02:46.545Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-03T08:17:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-03T16:17:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-03T08:17:40.000Z",
         "category": "reddit"
       },
       {
@@ -82,12 +82,13 @@
       },
       {
         "rank": 4,
-        "title": "Can someone explain to me how ChatGPT is able to solve research-grade math problems?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vdwuct/can_someone_explain_to_me_how_chatgpt_is_able_to/",
+        "title": "The situation is insane",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vet1o7/the_situation_is_insane/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-02T23:23:24.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-03T23:07:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2bregl9wq8hh1.png?width=640&crop=smart&auto=webp&s=62e88eb018f580a2a8db7726a18d15b07a22b0e8"
       },
       {
         "rank": 5,
@@ -111,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "Just tell the model what you want",
-        "url": "https://www.reddit.com/r/singularity/comments/1vdxilc/just_tell_the_model_what_you_want/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-02T23:53:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4lw9v3dzu1hh1.jpeg?width=640&crop=smart&auto=webp&s=99401580c410479e1b3b01f119f9b1fc55a6b1fb"
-      },
-      {
-        "rank": 3,
         "title": "Qwen 3.8 max benchmarks",
         "url": "https://www.reddit.com/r/singularity/comments/1ve0hp7/qwen_38_max_benchmarks/",
         "source": "r/singularity",
@@ -130,23 +121,33 @@
         "thumbnail": "https://preview.redd.it/9w62xemhj2hh1.png?width=640&crop=smart&auto=webp&s=94e56d13aeeb3440c296877ff63d3e3cee1e94d1"
       },
       {
-        "rank": 4,
-        "title": "The world is moving faster to posthumanism than transhumanism",
-        "url": "https://www.reddit.com/r/singularity/comments/1ve1v8o/the_world_is_moving_faster_to_posthumanism_than/",
+        "rank": 3,
+        "title": "The U.S. lead over China in AI is all but gone.",
+        "url": "https://www.reddit.com/r/singularity/comments/1veoeho/the_us_lead_over_china_in_ai_is_all_but_gone/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-03T03:18:10.000Z",
+        "publishedAt": "2026-08-03T20:07:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/qlcQN8u9f-0oO8kHbsQEA8qhdLSBknE3uRoukc1EHqU.jpeg?width=640&crop=smart&auto=webp&s=abc956ea7f8d8fa7beb05d00fae92c16fa56cec1"
+      },
+      {
+        "rank": 4,
+        "title": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-03T22:48:48.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Trump admin invited OpenAI, Anthropic and Google to the White House on Tuesday to preview the new AI voluntary framework, AI companies were lobbying for specific language on issues including open-source",
-        "url": "https://www.reddit.com/r/singularity/comments/1vehiq5/trump_admin_invited_openai_anthropic_and_google/",
+        "title": "Is anyone else surprised Google DeepMind isn't leading these mathematical benchmarks?",
+        "url": "https://www.reddit.com/r/singularity/comments/1ven8ow/is_anyone_else_surprised_google_deepmind_isnt/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-03T15:59:53.000Z",
+        "publishedAt": "2026-08-03T19:24:38.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7x3nowm4m6hh1.png?width=140&height=64&auto=webp&s=c6b2587a167af170ee3297846da126792b62dab0"
+        "thumbnail": "https://preview.redd.it/03bf4yqsm7hh1.png?width=140&height=116&auto=webp&s=1886b8a134b1f5676f9a31e8321427fd41b66666"
       },
       {
         "rank": 1,

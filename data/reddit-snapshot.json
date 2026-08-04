@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T19:47:43.863Z",
+  "fetchedAt": "2026-08-04T21:18:43.251Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,15 @@
       },
       {
         "rank": 3,
+        "title": "Completely dead NeurIPS review period from both ends? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfm2k9/completely_dead_neurips_review_period_from_both/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T20:30:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Missed EMNLP commitment deadline, what can be done? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1veyvev/missed_emnlp_commitment_deadline_what_can_be_done/",
         "source": "r/MachineLearning",
@@ -33,7 +42,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "I created an autonomous boxing benchmark [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/",
         "source": "r/MachineLearning",
@@ -41,15 +50,6 @@
         "publishedAt": "2026-08-03T21:39:46.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/r2i8f52ub8hh1.jpg?width=140&height=78&auto=webp&s=5ea73e9fad702339bb34f2c4c3a5ff60f2b2653b"
-      },
-      {
-        "rank": 5,
-        "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T18:05:47.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -111,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "The U.S. lead over China in AI is all but gone.",
-        "url": "https://www.reddit.com/r/singularity/comments/1veoeho/the_us_lead_over_china_in_ai_is_all_but_gone/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-03T20:07:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/qlcQN8u9f-0oO8kHbsQEA8qhdLSBknE3uRoukc1EHqU.jpeg?width=640&crop=smart&auto=webp&s=abc956ea7f8d8fa7beb05d00fae92c16fa56cec1"
-      },
-      {
-        "rank": 3,
         "title": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
         "url": "https://www.reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
         "source": "r/singularity",
@@ -129,7 +119,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Ilya’s SSI (Safe Super Intelligence) to release their first model this month.",
         "url": "https://www.reddit.com/r/singularity/comments/1vffbbw/ilyas_ssi_safe_super_intelligence_to_release/",
         "source": "r/singularity",
@@ -139,13 +129,23 @@
         "thumbnail": "https://preview.redd.it/p9juij4mxdhh1.jpeg?width=640&crop=smart&auto=webp&s=2fa87e8693fc07e052a19a0c954d97807cc55279"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Apple is getting this wrong – OpenAI",
         "url": "https://www.reddit.com/r/singularity/comments/1vf2855/apple_is_getting_this_wrong_openai/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-04T06:23:28.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AGI IN AUGUST?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vffle9/agi_in_august/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T16:39:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3bue471dzdhh1.jpeg?width=640&crop=smart&auto=webp&s=a594d78a005323d1a6a25847bea7d614133947ff"
       },
       {
         "rank": 1,

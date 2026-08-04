@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-04T10:45:13.516Z",
+  "fetchedAt": "2026-08-04T13:07:08.262Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T08:21:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/BZ_5MMBKWcSSugONzqiMBmsdC14n8hDEL3qbHvnFtBE.png?width=640&crop=smart&auto=webp&s=b5f968ecda988c264a50cf6f615aa6c2dc82b2a7"
+      },
+      {
+        "rank": 3,
         "title": "Opus 5 is just annoying to work with. Back to Opus 4.8 for me.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vephjv/opus_5_is_just_annoying_to_work_with_back_to_opus/",
         "source": "r/ClaudeAI",
@@ -25,7 +35,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Big D Claude out here shipping and showing off",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1veltsl/big_d_claude_out_here_shipping_and_showing_off/",
         "source": "r/ClaudeAI",
@@ -33,16 +43,6 @@
         "publishedAt": "2026-08-03T18:33:30.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0vmgvyb8e7hh1.png?width=640&crop=smart&auto=webp&s=5dcfb241b5f63ca91785bd99883a1319a97039c0"
-      },
-      {
-        "rank": 4,
-        "title": "Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T08:21:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/BZ_5MMBKWcSSugONzqiMBmsdC14n8hDEL3qbHvnFtBE.png?width=640&crop=smart&auto=webp&s=b5f968ecda988c264a50cf6f615aa6c2dc82b2a7"
       },
       {
         "rank": 5,

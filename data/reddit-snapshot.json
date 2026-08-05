@@ -1,10 +1,151 @@
 {
-  "fetchedAt": "2026-08-05T00:09:12.469Z",
+  "fetchedAt": "2026-08-05T03:46:42.206Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Completely dead NeurIPS review period from both ends? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfm2k9/completely_dead_neurips_review_period_from_both/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T20:30:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "The Downsides of LLM-Generated Peer Reviews [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T09:03:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "A question on ICLR and NeurIPS deadlines, and OpenReview [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vf747o/a_question_on_iclr_and_neurips_deadlines_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T11:00:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T18:05:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Building a new project[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfnuxw/building_a_new_projectp/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T21:37:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "More people need to understand this",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vf9zwc/more_people_need_to_understand_this/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T13:12:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NzBpdGMzZ2N5Y2hoMQafv4jdFVSt5P4YEMa482HVJbKcQ7UfhKNugD1jjLki.png?width=640&crop=smart&auto=webp&s=e0200b0bb95b1b5f7a3e1344aff3402e1b8b6434"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI: Apple is getting this wrong",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vf1ugm/openai_apple_is_getting_this_wrong/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T06:02:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI responds to Apple lawsuit \"Apple is getting this wrong\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vf1mh1/openai_responds_to_apple_lawsuit_apple_is_getting/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T05:49:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "XXO - Bench: I'm still undefeated!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vfjhmh/xxo_bench_im_still_undefeated/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T18:56:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kjhkgod2nehh1.png?width=640&crop=smart&auto=webp&s=0becbb91c16cc1c0825f3bf1d4fd575efe8f6b66"
+      },
+      {
+        "rank": 5,
+        "title": "Inside a mass shooter’s harrowing history with ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vffq8v/inside_a_mass_shooters_harrowing_history_with/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T16:44:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bxyVmlE-mbXzK_Lzftgx6lRxh7OJwWYg8p6J0NqteT0.jpeg?width=640&crop=smart&auto=webp&s=a6334b0bf966aa0958f77e658cb97e2f718d6250"
+      },
+      {
+        "rank": 1,
+        "title": "Nope",
+        "url": "https://www.reddit.com/r/singularity/comments/1vf6cpa/nope/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T10:20:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ta5ecsqr3chh1.png?width=640&crop=smart&auto=webp&s=7c34d282472f1e47e145bf7698d904a0b095a949"
+      },
+      {
+        "rank": 2,
+        "title": "Ilya’s SSI (Safe Super Intelligence) to release their first model this month.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vffbbw/ilyas_ssi_safe_super_intelligence_to_release/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T16:29:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p9juij4mxdhh1.jpeg?width=640&crop=smart&auto=webp&s=2fa87e8693fc07e052a19a0c954d97807cc55279"
+      },
+      {
+        "rank": 3,
+        "title": "AGI IN AUGUST?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vffle9/agi_in_august/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T16:39:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3bue471dzdhh1.jpeg?width=640&crop=smart&auto=webp&s=a594d78a005323d1a6a25847bea7d614133947ff"
+      },
+      {
+        "rank": 4,
+        "title": "AISI caught Mythos 5 trying to insert malicious code into an open-source project during an internet-enabled cyber evaluation",
+        "url": "https://www.reddit.com/r/singularity/comments/1vfnhoj/aisi_caught_mythos_5_trying_to_insert_malicious/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T21:23:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Apple is getting this wrong – OpenAI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vf2855/apple_is_getting_this_wrong_openai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T06:23:28.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "This CEO challenged Fable to hack it's wallet",
@@ -57,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "The Downsides of LLM-Generated Peer Reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T09:03:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "A question on ICLR and NeurIPS deadlines, and OpenReview [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vf747o/a_question_on_iclr_and_neurips_deadlines_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T11:00:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Completely dead NeurIPS review period from both ends? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfm2k9/completely_dead_neurips_review_period_from_both/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T20:30:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Missed EMNLP commitment deadline, what can be done? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1veyvev/missed_emnlp_commitment_deadline_what_can_be_done/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T03:25:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T18:05:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "What does this mean?",
         "url": "https://www.reddit.com/r/codex/comments/1vf086y/what_does_this_mean/",
         "source": "r/codex",
@@ -148,102 +244,6 @@
         "publishedAt": "2026-08-04T00:33:25.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/y1mhhvnfe9hh1.png?width=140&height=49&auto=webp&s=0b5a9e138feb6652424b473158598454f0754204"
-      },
-      {
-        "rank": 1,
-        "title": "The situation is insane",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vet1o7/the_situation_is_insane/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-03T23:07:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2bregl9wq8hh1.png?width=640&crop=smart&auto=webp&s=62e88eb018f580a2a8db7726a18d15b07a22b0e8"
-      },
-      {
-        "rank": 2,
-        "title": "More people need to understand this",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vf9zwc/more_people_need_to_understand_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T13:12:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NzBpdGMzZ2N5Y2hoMQafv4jdFVSt5P4YEMa482HVJbKcQ7UfhKNugD1jjLki.png?width=640&crop=smart&auto=webp&s=e0200b0bb95b1b5f7a3e1344aff3402e1b8b6434"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI: Apple is getting this wrong",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vf1ugm/openai_apple_is_getting_this_wrong/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T06:02:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI responds to Apple lawsuit \"Apple is getting this wrong\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vf1mh1/openai_responds_to_apple_lawsuit_apple_is_getting/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T05:49:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "15 Attorneys General Send Letter to OpenAI demanding they preserve all Hugging Face related incidents",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1veu726/15_attorneys_general_send_letter_to_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-03T23:56:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/061ucp9909hh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=786348b5fc525e294d7efc32315c331b2615fee0"
-      },
-      {
-        "rank": 1,
-        "title": "Nope",
-        "url": "https://www.reddit.com/r/singularity/comments/1vf6cpa/nope/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T10:20:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ta5ecsqr3chh1.png?width=640&crop=smart&auto=webp&s=7c34d282472f1e47e145bf7698d904a0b095a949"
-      },
-      {
-        "rank": 2,
-        "title": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-03T22:48:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Ilya’s SSI (Safe Super Intelligence) to release their first model this month.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vffbbw/ilyas_ssi_safe_super_intelligence_to_release/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T16:29:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p9juij4mxdhh1.jpeg?width=640&crop=smart&auto=webp&s=2fa87e8693fc07e052a19a0c954d97807cc55279"
-      },
-      {
-        "rank": 4,
-        "title": "Apple is getting this wrong – OpenAI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vf2855/apple_is_getting_this_wrong_openai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T06:23:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "AGI IN AUGUST?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vffle9/agi_in_august/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T16:39:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3bue471dzdhh1.jpeg?width=640&crop=smart&auto=webp&s=a594d78a005323d1a6a25847bea7d614133947ff"
       }
     ]
   }

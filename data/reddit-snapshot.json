@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-05T12:03:49.281Z",
+  "fetchedAt": "2026-08-05T14:58:12.103Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Why they can't use Fable 5?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg0dqg/why_they_cant_use_fable_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T07:27:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nkdio9xpdihh1.png?width=640&crop=smart&auto=webp&s=ada1d302c4faf3cbe2ff59caae1c54ec6b02c131"
+      },
+      {
+        "rank": 2,
+        "title": "This CEO challenged Fable to hack it's wallet",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfds0c/this_ceo_challenged_fable_to_hack_its_wallet/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T15:34:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q210le1sndhh1.png?width=640&crop=smart&auto=webp&s=9791dfe70fd0835ddc1a887fa433884c531e3e5b"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 if you forget to tell it to be concise",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfly57/opus_5_if_you_forget_to_tell_it_to_be_concise/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T20:25:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude from a small business perspective",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T01:50:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Opus 4.8 > Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T03:41:56.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
@@ -26,20 +73,20 @@
       },
       {
         "rank": 3,
-        "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T18:05:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-05T04:36:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-04T18:05:47.000Z",
         "category": "reddit"
       },
       {
@@ -50,6 +97,54 @@
         "score": 0,
         "publishedAt": "2026-08-05T10:28:44.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Is there an actual benefit to using CLI instead of the desktop app?",
+        "url": "https://www.reddit.com/r/codex/comments/1vfmuca/is_there_an_actual_benefit_to_using_cli_instead/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-04T20:59:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Why is Codex Sol still eating up tokens like no tomorrow?",
+        "url": "https://www.reddit.com/r/codex/comments/1vfy1ie/why_is_codex_sol_still_eating_up_tokens_like_no/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T05:18:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Codex ran for 2h 33 min. No way Claude could run for this long without rate limits.",
+        "url": "https://www.reddit.com/r/codex/comments/1vfs2yf/codex_ran_for_2h_33_min_no_way_claude_could_run/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T00:33:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ylbk12otbghh1.png?width=140&height=25&auto=webp&s=e6e8e535a5f0744be4fe5e170206fa685bf8d291"
+      },
+      {
+        "rank": 4,
+        "title": "A new little Invite a friend Codex perk just dropped",
+        "url": "https://www.reddit.com/r/codex/comments/1vg2551/a_new_little_invite_a_friend_codex_perk_just/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T09:11:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fyhjcojawihh1.png?width=640&crop=smart&auto=webp&s=5a395bd97b2dbac79f51cec5bad870c2e276ae66"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-5.6 Sol, Luna and Terra: choosing by cost, speed and capability instead of one universal ranking",
+        "url": "https://www.reddit.com/r/codex/comments/1vfwsug/gpt56_sol_luna_and_terra_choosing_by_cost_speed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T04:13:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5erpqcw1fhhh1.png?width=140&height=97&auto=webp&s=4f56e49c46c3481991a340d3d1c23045361a8b1e"
       },
       {
         "rank": 1,
@@ -149,105 +244,6 @@
         "publishedAt": "2026-08-04T17:14:33.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c"
-      },
-      {
-        "rank": 1,
-        "title": "This CEO challenged Fable to hack it's wallet",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfds0c/this_ceo_challenged_fable_to_hack_its_wallet/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T15:34:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q210le1sndhh1.png?width=640&crop=smart&auto=webp&s=9791dfe70fd0835ddc1a887fa433884c531e3e5b"
-      },
-      {
-        "rank": 2,
-        "title": "Claude reviewing Codex's code lifted the pass rate from 71.6% to 89.7%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf4apv/claude_reviewing_codexs_code_lifted_the_pass_rate/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T08:21:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/BZ_5MMBKWcSSugONzqiMBmsdC14n8hDEL3qbHvnFtBE.png?width=640&crop=smart&auto=webp&s=b5f968ecda988c264a50cf6f615aa6c2dc82b2a7"
-      },
-      {
-        "rank": 3,
-        "title": "I built a terminal with Claude to replace Claude Desktop",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf1n91/i_built_a_terminal_with_claude_to_replace_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T05:51:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MGQ3dGM1YWlxYWhoMRdGCM_LloNXydxEZNJyJugsYK6FDwBPd9OOby6H-QyZ.png?width=640&crop=smart&auto=webp&s=234633585a5a159d819cf7df8d14b38917392843"
-      },
-      {
-        "rank": 4,
-        "title": "Max 20x usage went from 0% to 100% in half an hour while I was not using Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vf6i4y/max_20x_usage_went_from_0_to_100_in_half_an_hour/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T10:28:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mxbykj2x4chh1.png?width=140&height=104&auto=webp&s=eda3c5834f4d8c7ef569f8d53e7c02b033bc0693"
-      },
-      {
-        "rank": 5,
-        "title": "Strange, Creepy Hallucinated Responses?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfble0/strange_creepy_hallucinated_responses/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T14:15:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3ao3hrxl9dhh1.jpeg?width=640&crop=smart&auto=webp&s=1bf5b2052d86e9b03f3be47a1257e0c254176fc0"
-      },
-      {
-        "rank": 1,
-        "title": "What does this mean?",
-        "url": "https://www.reddit.com/r/codex/comments/1vf086y/what_does_this_mean/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-04T04:34:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xhi9mqp0eahh1.jpeg?width=640&crop=smart&auto=webp&s=b928335b114e2629d2d25f9ff13e9c291131cb21"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo teasing GPT 6 Release?",
-        "url": "https://www.reddit.com/r/codex/comments/1vf8m1g/tibo_teasing_gpt_6_release/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-04T12:13:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Study: Codex reviewing Claude's code dropped the pass rate from 91.4% to 82.8%",
-        "url": "https://www.reddit.com/r/codex/comments/1vf45uh/study_codex_reviewing_claudes_code_dropped_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-04T08:13:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/BZ_5MMBKWcSSugONzqiMBmsdC14n8hDEL3qbHvnFtBE.png?width=640&crop=smart&auto=webp&s=b5f968ecda988c264a50cf6f615aa6c2dc82b2a7"
-      },
-      {
-        "rank": 4,
-        "title": "Our weekly routine",
-        "url": "https://www.reddit.com/r/codex/comments/1vf33ab/our_weekly_routine/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-04T07:11:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g1mbi2e16bhh1.png?width=640&crop=smart&auto=webp&s=6772d7c71134b1d655abd2bb20b174957c3ecf24"
-      },
-      {
-        "rank": 5,
-        "title": "Vibe-coded iOS app reached 35k LOC and I no longer trust the codebase — how should I recover?",
-        "url": "https://www.reddit.com/r/codex/comments/1vev2fl/vibecoded_ios_app_reached_35k_loc_and_i_no_longer/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-04T00:33:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y1mhhvnfe9hh1.png?width=140&height=49&auto=webp&s=0b5a9e138feb6652424b473158598454f0754204"
       }
     ]
   }

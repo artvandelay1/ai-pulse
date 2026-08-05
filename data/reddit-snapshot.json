@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T18:26:10.157Z",
+  "fetchedAt": "2026-08-05T20:11:10.344Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,15 +35,6 @@
       },
       {
         "rank": 4,
-        "title": "Opus 4.8 > Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T03:41:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions alone",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/",
         "source": "r/ClaudeAI",
@@ -51,6 +42,15 @@
         "publishedAt": "2026-08-05T09:03:18.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/c3ppNHF2aTZ1aWhoMVNVGpBZNoz6evBPG-ydvMCgs0itiWsa0BuHcolegffB.png?width=640&crop=smart&auto=webp&s=6e7d38c23ea78b35d3a2d87d7db98e0f252284b9"
+      },
+      {
+        "rank": 5,
+        "title": "Opus 4.8 > Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T03:41:56.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -118,6 +118,15 @@
       },
       {
         "rank": 3,
+        "title": "They're Testing Us",
+        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T15:49:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Codex ran for 2h 33 min. No way Claude could run for this long without rate limits.",
         "url": "https://www.reddit.com/r/codex/comments/1vfs2yf/codex_ran_for_2h_33_min_no_way_claude_could_run/",
         "source": "r/codex",
@@ -125,16 +134,6 @@
         "publishedAt": "2026-08-05T00:33:45.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ylbk12otbghh1.png?width=140&height=25&auto=webp&s=e6e8e535a5f0744be4fe5e170206fa685bf8d291"
-      },
-      {
-        "rank": 4,
-        "title": "A new little Invite a friend Codex perk just dropped",
-        "url": "https://www.reddit.com/r/codex/comments/1vg2551/a_new_little_invite_a_friend_codex_perk_just/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T09:11:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fyhjcojawihh1.png?width=640&crop=smart&auto=webp&s=5a395bd97b2dbac79f51cec5bad870c2e276ae66"
       },
       {
         "rank": 5,

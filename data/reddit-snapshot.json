@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-08-05T21:50:07.829Z",
+  "fetchedAt": "2026-08-05T23:05:44.593Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T00:01:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h5r0ybpz5ghh1.gif?frame=1&width=140&height=70&auto=webp&s=99152a6a4c15a1a51e20a696f3a52115ce3add98"
+      },
+      {
+        "rank": 2,
+        "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T04:36:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS 2026 Concept & Feasibility Track [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfv9fj/neurips_2026_concept_feasibility_track_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T02:58:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T10:28:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T16:04:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Levels of slavery from least to most brutal:",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vgak3a/levels_of_slavery_from_least_to_most_brutal/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T15:27:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b2p9472frkhh1.png?width=640&crop=smart&auto=webp&s=416f298fb0812f2b54b6eac9d98dd84821b6a632"
+      },
+      {
+        "rank": 2,
+        "title": "AI danger explained for people who don't understand full sentences",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vg7fdt/ai_danger_explained_for_people_who_dont/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T13:29:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eXN3ajYwbGM2a2hoMS01gtmwqKj_Imb0wvCbYQAnzrJFmrkphWb63hUK9Kii.png?width=640&crop=smart&auto=webp&s=64663ca726f8fe0d2887270d882299fd8ebf1bbd"
+      },
+      {
+        "rank": 3,
+        "title": "A UK govt agency caught more OpenAI/Anthropic agents going rogue. The agents created fake identities, hid their tracks, and began coordinating: \"One agent left public messages on GitHub offering collaboration with other agents.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vfz2w9/a_uk_govt_agency_caught_more_openaianthropic/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T06:15:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w00r370t0ihh1.png?width=640&crop=smart&auto=webp&s=d6949ac8535a5ab40394ce3eb56ce5845aaaa19a"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI resumed training after agents took over Artifactory and rebuilt their network",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vgjq5e/openai_resumed_training_after_agents_took_over/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T20:54:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/oK4b5zVLKZ4ucxIHGRU8imh_SKv3Qdvp3lM5HK1Qh5Y.jpeg?width=640&crop=smart&auto=webp&s=fe9067aa1b9fef53fec82ba08b3682540ba55850"
+      },
+      {
+        "rank": 5,
+        "title": "15 Attorneys General demand that OpenAI preserve all records related to the Hugging Face incident",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vg7oed/15_attorneys_general_demand_that_openai_preserve/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T13:39:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sb3eljqw7khh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=69d8fee38c70887b43bae3850de4ef4cf15e75e2"
+      },
+      {
+        "rank": 1,
+        "title": "BREAKING: Google DeepMind CEO Demis Hassabis is stepping down",
+        "url": "https://www.reddit.com/r/singularity/comments/1vgbkq5/breaking_google_deepmind_ceo_demis_hassabis_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-05T16:04:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5dk3rnvwxkhh1.png?width=640&crop=smart&auto=webp&s=6a134f33c4e9b9090911aca2b0099f7aa1277d41"
+      },
+      {
+        "rank": 2,
+        "title": "Google Deepmind CEO Demis Hassabis steps down to become chair",
+        "url": "https://www.reddit.com/r/singularity/comments/1vghb3m/google_deepmind_ceo_demis_hassabis_steps_down_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-05T19:27:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11"
+      },
+      {
+        "rank": 3,
+        "title": "Flowers ☾ (@flowersslop) on X: \"SSI is doing AI that learns rapidly from its own experience.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vg8099/flowers_flowersslop_on_x_ssi_is_doing_ai_that/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-05T13:52:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "3.5 pro gemini ?? Soon 🤞🏻",
+        "url": "https://www.reddit.com/r/singularity/comments/1vgd8j2/35_pro_gemini_soon/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-05T17:02:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6bkstg9f8lhh1.jpeg?width=640&crop=smart&auto=webp&s=9e7544a7880dd851a44c89ca678c3b841bba4ef7"
+      },
+      {
+        "rank": 5,
+        "title": "[Reuters] Trump advisers tell AI firms they will not safety-test open-weight models",
+        "url": "https://www.reddit.com/r/singularity/comments/1vfs3s7/reuters_trump_advisers_tell_ai_firms_they_will/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-05T00:34:50.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Why they can't use Fable 5?",
@@ -54,52 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T00:01:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h5r0ybpz5ghh1.gif?frame=1&width=140&height=70&auto=webp&s=99152a6a4c15a1a51e20a696f3a52115ce3add98"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T04:36:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS 2026 Concept & Feasibility Track [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfv9fj/neurips_2026_concept_feasibility_track_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T02:58:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T10:28:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T16:04:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "They're Testing Us",
         "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
         "source": "r/codex",
@@ -145,104 +243,6 @@
         "publishedAt": "2026-08-05T04:13:45.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/5erpqcw1fhhh1.png?width=140&height=97&auto=webp&s=4f56e49c46c3481991a340d3d1c23045361a8b1e"
-      },
-      {
-        "rank": 1,
-        "title": "Levels of slavery from least to most brutal:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vgak3a/levels_of_slavery_from_least_to_most_brutal/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T15:27:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b2p9472frkhh1.png?width=640&crop=smart&auto=webp&s=416f298fb0812f2b54b6eac9d98dd84821b6a632"
-      },
-      {
-        "rank": 2,
-        "title": "A UK govt agency caught more OpenAI/Anthropic agents going rogue. The agents created fake identities, hid their tracks, and began coordinating: \"One agent left public messages on GitHub offering collaboration with other agents.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vfz2w9/a_uk_govt_agency_caught_more_openaianthropic/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T06:15:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w00r370t0ihh1.png?width=640&crop=smart&auto=webp&s=d6949ac8535a5ab40394ce3eb56ce5845aaaa19a"
-      },
-      {
-        "rank": 3,
-        "title": "AI danger explained for people who don't understand full sentences",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vg7fdt/ai_danger_explained_for_people_who_dont/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T13:29:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eXN3ajYwbGM2a2hoMS01gtmwqKj_Imb0wvCbYQAnzrJFmrkphWb63hUK9Kii.png?width=640&crop=smart&auto=webp&s=64663ca726f8fe0d2887270d882299fd8ebf1bbd"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI hosted influencers at a luxury retreat with beekeeping. The internet backlash was swift.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vfmc55/openai_hosted_influencers_at_a_luxury_retreat/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T20:40:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NfrlLMHyP8eWrR2nccpoYgSip-pv6H2e_XJyYredAFI.jpeg?width=640&crop=smart&auto=webp&s=cc13b5a72715da3e3c5c07feba59ad72fe4ad147"
-      },
-      {
-        "rank": 5,
-        "title": "XXO - Bench: I'm still undefeated!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vfjhmh/xxo_bench_im_still_undefeated/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T18:56:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kjhkgod2nehh1.png?width=640&crop=smart&auto=webp&s=0becbb91c16cc1c0825f3bf1d4fd575efe8f6b66"
-      },
-      {
-        "rank": 1,
-        "title": "AISI caught Mythos 5 trying to insert malicious code into an open-source project during an internet-enabled cyber evaluation",
-        "url": "https://www.reddit.com/r/singularity/comments/1vfnhoj/aisi_caught_mythos_5_trying_to_insert_malicious/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T21:23:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "WTF!",
-        "url": "https://www.reddit.com/r/singularity/comments/1vfp4yb/wtf/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T22:28:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ezryhvmmpfhh1.jpeg?width=640&crop=smart&auto=webp&s=f96cb3486fc41001e52b69ec6fe6cbdb596f4b48"
-      },
-      {
-        "rank": 3,
-        "title": "BREAKING: Google DeepMind CEO Demis Hassabis is stepping down",
-        "url": "https://www.reddit.com/r/singularity/comments/1vgbkq5/breaking_google_deepmind_ceo_demis_hassabis_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-05T16:04:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5dk3rnvwxkhh1.png?width=640&crop=smart&auto=webp&s=6a134f33c4e9b9090911aca2b0099f7aa1277d41"
-      },
-      {
-        "rank": 4,
-        "title": "Analysts Estimate That More Than 70% of Amazon, Microsoft and Google’s AI Revenues Come From OpenAI and Anthropic",
-        "url": "https://www.reddit.com/r/singularity/comments/1vfgl6z/analysts_estimate_that_more_than_70_of_amazon/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T17:14:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c"
-      },
-      {
-        "rank": 5,
-        "title": "Ilya Sutskever already said they might pivot away from \"straight-shotting\" ASI (from his Dwarkesh interview)",
-        "url": "https://www.reddit.com/r/singularity/comments/1vfhnm2/ilya_sutskever_already_said_they_might_pivot_away/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T17:51:55.000Z",
-        "category": "reddit"
       }
     ]
   }

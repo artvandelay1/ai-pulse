@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T09:40:45.429Z",
+  "fetchedAt": "2026-08-05T12:03:49.281Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,15 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "A question on ICLR and NeurIPS deadlines, and OpenReview [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vf747o/a_question_on_iclr_and_neurips_deadlines_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T11:00:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-05T04:36:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T10:28:44.000Z",
         "category": "reddit"
       },
       {
@@ -103,16 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "Nope",
-        "url": "https://www.reddit.com/r/singularity/comments/1vf6cpa/nope/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T10:20:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ta5ecsqr3chh1.png?width=640&crop=smart&auto=webp&s=7c34d282472f1e47e145bf7698d904a0b095a949"
-      },
-      {
-        "rank": 2,
         "title": "Ilya’s SSI (Safe Super Intelligence) to release their first model this month.",
         "url": "https://www.reddit.com/r/singularity/comments/1vffbbw/ilyas_ssi_safe_super_intelligence_to_release/",
         "source": "r/singularity",
@@ -122,7 +112,7 @@
         "thumbnail": "https://preview.redd.it/p9juij4mxdhh1.jpeg?width=640&crop=smart&auto=webp&s=2fa87e8693fc07e052a19a0c954d97807cc55279"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "AISI caught Mythos 5 trying to insert malicious code into an open-source project during an internet-enabled cyber evaluation",
         "url": "https://www.reddit.com/r/singularity/comments/1vfnhoj/aisi_caught_mythos_5_trying_to_insert_malicious/",
         "source": "r/singularity",
@@ -131,7 +121,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "WTF!",
         "url": "https://www.reddit.com/r/singularity/comments/1vfp4yb/wtf/",
         "source": "r/singularity",
@@ -141,7 +131,7 @@
         "thumbnail": "https://preview.redd.it/ezryhvmmpfhh1.jpeg?width=640&crop=smart&auto=webp&s=f96cb3486fc41001e52b69ec6fe6cbdb596f4b48"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "AGI IN AUGUST?",
         "url": "https://www.reddit.com/r/singularity/comments/1vffle9/agi_in_august/",
         "source": "r/singularity",
@@ -149,6 +139,16 @@
         "publishedAt": "2026-08-04T16:39:40.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3bue471dzdhh1.jpeg?width=640&crop=smart&auto=webp&s=a594d78a005323d1a6a25847bea7d614133947ff"
+      },
+      {
+        "rank": 5,
+        "title": "Analysts Estimate That More Than 70% of Amazon, Microsoft and Google’s AI Revenues Come From OpenAI and Anthropic",
+        "url": "https://www.reddit.com/r/singularity/comments/1vfgl6z/analysts_estimate_that_more_than_70_of_amazon/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T17:14:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/flji8vf-X9KsDjcGlvsFd_cp8VIU0ckJ1dT4ZleV9sQ.jpeg?width=640&crop=smart&auto=webp&s=20dccfbd265a344e5f472f62ff009aaa7e75d51c"
       },
       {
         "rank": 1,

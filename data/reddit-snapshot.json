@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-05T16:47:46.511Z",
+  "fetchedAt": "2026-08-05T18:26:10.157Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Why they can't use Fable 5?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg0dqg/why_they_cant_use_fable_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T07:27:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nkdio9xpdihh1.png?width=640&crop=smart&auto=webp&s=ada1d302c4faf3cbe2ff59caae1c54ec6b02c131"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5 if you forget to tell it to be concise",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfly57/opus_5_if_you_forget_to_tell_it_to_be_concise/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T20:25:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Claude from a small business perspective",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T01:50:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 4.8 > Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T03:41:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions alone",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T09:03:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c3ppNHF2aTZ1aWhoMVNVGpBZNoz6evBPG-ydvMCgs0itiWsa0BuHcolegffB.png?width=640&crop=smart&auto=webp&s=6e7d38c23ea78b35d3a2d87d7db98e0f252284b9"
+      },
       {
         "rank": 1,
         "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
@@ -35,21 +82,69 @@
       },
       {
         "rank": 4,
-        "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T18:05:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "NeurIPS 2026 Concept & Feasibility Track [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vfv9fj/neurips_2026_concept_feasibility_track_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-05T02:58:39.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T10:28:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Is there an actual benefit to using CLI instead of the desktop app?",
+        "url": "https://www.reddit.com/r/codex/comments/1vfmuca/is_there_an_actual_benefit_to_using_cli_instead/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-04T20:59:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Why is Codex Sol still eating up tokens like no tomorrow?",
+        "url": "https://www.reddit.com/r/codex/comments/1vfy1ie/why_is_codex_sol_still_eating_up_tokens_like_no/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T05:18:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Codex ran for 2h 33 min. No way Claude could run for this long without rate limits.",
+        "url": "https://www.reddit.com/r/codex/comments/1vfs2yf/codex_ran_for_2h_33_min_no_way_claude_could_run/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T00:33:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ylbk12otbghh1.png?width=140&height=25&auto=webp&s=e6e8e535a5f0744be4fe5e170206fa685bf8d291"
+      },
+      {
+        "rank": 4,
+        "title": "A new little Invite a friend Codex perk just dropped",
+        "url": "https://www.reddit.com/r/codex/comments/1vg2551/a_new_little_invite_a_friend_codex_perk_just/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T09:11:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fyhjcojawihh1.png?width=640&crop=smart&auto=webp&s=5a395bd97b2dbac79f51cec5bad870c2e276ae66"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-5.6 Sol, Luna and Terra: choosing by cost, speed and capability instead of one universal ranking",
+        "url": "https://www.reddit.com/r/codex/comments/1vfwsug/gpt56_sol_luna_and_terra_choosing_by_cost_speed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T04:13:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5erpqcw1fhhh1.png?width=140&height=97&auto=webp&s=4f56e49c46c3481991a340d3d1c23045361a8b1e"
       },
       {
         "rank": 1,
@@ -148,101 +243,6 @@
         "score": 0,
         "publishedAt": "2026-08-04T17:51:55.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Why they can't use Fable 5?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg0dqg/why_they_cant_use_fable_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T07:27:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nkdio9xpdihh1.png?width=640&crop=smart&auto=webp&s=ada1d302c4faf3cbe2ff59caae1c54ec6b02c131"
-      },
-      {
-        "rank": 2,
-        "title": "This CEO challenged Fable to hack it's wallet",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfds0c/this_ceo_challenged_fable_to_hack_its_wallet/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T15:34:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q210le1sndhh1.png?width=640&crop=smart&auto=webp&s=9791dfe70fd0835ddc1a887fa433884c531e3e5b"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5 if you forget to tell it to be concise",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfly57/opus_5_if_you_forget_to_tell_it_to_be_concise/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T20:25:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Claude from a small business perspective",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T01:50:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 4.8 > Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T03:41:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Is there an actual benefit to using CLI instead of the desktop app?",
-        "url": "https://www.reddit.com/r/codex/comments/1vfmuca/is_there_an_actual_benefit_to_using_cli_instead/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-04T20:59:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Why is Codex Sol still eating up tokens like no tomorrow?",
-        "url": "https://www.reddit.com/r/codex/comments/1vfy1ie/why_is_codex_sol_still_eating_up_tokens_like_no/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T05:18:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Codex ran for 2h 33 min. No way Claude could run for this long without rate limits.",
-        "url": "https://www.reddit.com/r/codex/comments/1vfs2yf/codex_ran_for_2h_33_min_no_way_claude_could_run/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T00:33:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ylbk12otbghh1.png?width=140&height=25&auto=webp&s=e6e8e535a5f0744be4fe5e170206fa685bf8d291"
-      },
-      {
-        "rank": 4,
-        "title": "A new little Invite a friend Codex perk just dropped",
-        "url": "https://www.reddit.com/r/codex/comments/1vg2551/a_new_little_invite_a_friend_codex_perk_just/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T09:11:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fyhjcojawihh1.png?width=640&crop=smart&auto=webp&s=5a395bd97b2dbac79f51cec5bad870c2e276ae66"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-5.6 Sol, Luna and Terra: choosing by cost, speed and capability instead of one universal ranking",
-        "url": "https://www.reddit.com/r/codex/comments/1vfwsug/gpt56_sol_luna_and_terra_choosing_by_cost_speed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T04:13:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5erpqcw1fhhh1.png?width=140&height=97&auto=webp&s=4f56e49c46c3481991a340d3d1c23045361a8b1e"
       }
     ]
   }

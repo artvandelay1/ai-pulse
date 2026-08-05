@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T06:33:41.278Z",
+  "fetchedAt": "2026-08-05T09:40:45.429Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,15 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "The Downsides of LLM-Generated Peer Reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-04T09:03:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "A question on ICLR and NeurIPS deadlines, and OpenReview [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vf747o/a_question_on_iclr_and_neurips_deadlines_and/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "NeurIPS 2026 post-rebuttal score distribution poll [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vfi23r/neurips_2026_postrebuttal_score_distribution_poll/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-04T18:05:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T04:36:38.000Z",
         "category": "reddit"
       },
       {
@@ -63,26 +63,16 @@
       },
       {
         "rank": 2,
-        "title": "XXO - Bench: I'm still undefeated!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vfjhmh/xxo_bench_im_still_undefeated/",
+        "title": "A UK govt agency caught more OpenAI/Anthropic agents going rogue. The agents created fake identities, hid their tracks, and began coordinating: \"One agent left public messages on GitHub offering collaboration with other agents.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vfz2w9/a_uk_govt_agency_caught_more_openaianthropic/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-04T18:56:39.000Z",
+        "publishedAt": "2026-08-05T06:15:04.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kjhkgod2nehh1.png?width=640&crop=smart&auto=webp&s=0becbb91c16cc1c0825f3bf1d4fd575efe8f6b66"
+        "thumbnail": "https://preview.redd.it/w00r370t0ihh1.png?width=640&crop=smart&auto=webp&s=d6949ac8535a5ab40394ce3eb56ce5845aaaa19a"
       },
       {
         "rank": 3,
-        "title": "Inside a mass shooter’s harrowing history with ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vffq8v/inside_a_mass_shooters_harrowing_history_with/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-04T16:44:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bxyVmlE-mbXzK_Lzftgx6lRxh7OJwWYg8p6J0NqteT0.jpeg?width=640&crop=smart&auto=webp&s=a6334b0bf966aa0958f77e658cb97e2f718d6250"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI hosted influencers at a luxury retreat with beekeeping. The internet backlash was swift.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vfmc55/openai_hosted_influencers_at_a_luxury_retreat/",
         "source": "r/OpenAI",
@@ -92,13 +82,24 @@
         "thumbnail": "https://external-preview.redd.it/NfrlLMHyP8eWrR2nccpoYgSip-pv6H2e_XJyYredAFI.jpeg?width=640&crop=smart&auto=webp&s=cc13b5a72715da3e3c5c07feba59ad72fe4ad147"
       },
       {
-        "rank": 5,
-        "title": "Is ChatGPT Plus still worth it over Kimi or other Chinese frontier models?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vf3hbq/is_chatgpt_plus_still_worth_it_over_kimi_or_other/",
+        "rank": 4,
+        "title": "XXO - Bench: I'm still undefeated!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vfjhmh/xxo_bench_im_still_undefeated/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-04T07:34:00.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-04T18:56:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kjhkgod2nehh1.png?width=640&crop=smart&auto=webp&s=0becbb91c16cc1c0825f3bf1d4fd575efe8f6b66"
+      },
+      {
+        "rank": 5,
+        "title": "Inside a mass shooter’s harrowing history with ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vffq8v/inside_a_mass_shooters_harrowing_history_with/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-04T16:44:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bxyVmlE-mbXzK_Lzftgx6lRxh7OJwWYg8p6J0NqteT0.jpeg?width=640&crop=smart&auto=webp&s=a6334b0bf966aa0958f77e658cb97e2f718d6250"
       },
       {
         "rank": 1,
@@ -131,16 +132,6 @@
       },
       {
         "rank": 4,
-        "title": "AGI IN AUGUST?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vffle9/agi_in_august/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-04T16:39:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3bue471dzdhh1.jpeg?width=640&crop=smart&auto=webp&s=a594d78a005323d1a6a25847bea7d614133947ff"
-      },
-      {
-        "rank": 5,
         "title": "WTF!",
         "url": "https://www.reddit.com/r/singularity/comments/1vfp4yb/wtf/",
         "source": "r/singularity",
@@ -148,6 +139,16 @@
         "publishedAt": "2026-08-04T22:28:41.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ezryhvmmpfhh1.jpeg?width=640&crop=smart&auto=webp&s=f96cb3486fc41001e52b69ec6fe6cbdb596f4b48"
+      },
+      {
+        "rank": 5,
+        "title": "AGI IN AUGUST?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vffle9/agi_in_august/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-04T16:39:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3bue471dzdhh1.jpeg?width=640&crop=smart&auto=webp&s=a594d78a005323d1a6a25847bea7d614133947ff"
       },
       {
         "rank": 1,

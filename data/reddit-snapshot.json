@@ -1,57 +1,10 @@
 {
-  "fetchedAt": "2026-08-06T00:54:09.573Z",
+  "fetchedAt": "2026-08-06T04:17:47.823Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Claude from a small business perspective",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T01:50:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions alone",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T09:03:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c3ppNHF2aTZ1aWhoMVNVGpBZNoz6evBPG-ydvMCgs0itiWsa0BuHcolegffB.png?width=640&crop=smart&auto=webp&s=6e7d38c23ea78b35d3a2d87d7db98e0f252284b9"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 4.8 > Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T03:41:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "The Cutting Room Floor served Claude Code a payload telling it to wipe the working directory",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgif8w/the_cutting_room_floor_served_claude_code_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T20:06:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k5q8gjm75mhh1.jpeg?width=640&crop=smart&auto=webp&s=89845bc78b0ff1628956e1d0932893a7ead9bda4"
-      },
-      {
-        "rank": 5,
-        "title": "With Opus 4.8 internal thinking I was \"The boss\" but with 5.0 I'm a \"colleague\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T17:25:19.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
@@ -63,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS 2026 Concept & Feasibility Track [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfv9fj/neurips_2026_concept_feasibility_track_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T02:58:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
         "source": "r/MachineLearning",
@@ -80,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
         "source": "r/MachineLearning",
@@ -89,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Do LLMs make ML research more fair for small teams? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
         "source": "r/MachineLearning",
@@ -98,51 +42,13 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Every OpenAI vs Claude benchmark be like",
-        "url": "https://www.reddit.com/r/codex/comments/1vgk83h/every_openai_vs_claude_benchmark_be_like/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T21:13:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m2smg296hmhh1.jpeg?width=640&crop=smart&auto=webp&s=73bd85c2c182c2b2122dd972822bd71ab73f21f0"
-      },
-      {
-        "rank": 2,
-        "title": "They're Testing Us",
-        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T15:49:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "We Need Usage Predictability NOT Reset Generosity",
-        "url": "https://www.reddit.com/r/codex/comments/1vgl0u2/we_need_usage_predictability_not_reset_generosity/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T21:44:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Why is Codex Sol still eating up tokens like no tomorrow?",
-        "url": "https://www.reddit.com/r/codex/comments/1vfy1ie/why_is_codex_sol_still_eating_up_tokens_like_no/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T05:18:14.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "It's my cake day Tibo! Can you please press the button for my cake day present?",
-        "url": "https://www.reddit.com/r/codex/comments/1vggctp/its_my_cake_day_tibo_can_you_please_press_the/",
-        "source": "r/codex",
+        "title": "Anyone here working on AI/ML projects? I’d like to join and contribute [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgcnio/anyone_here_working_on_aiml_projects_id_like_to/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-05T18:53:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ngq3vuw4slhh1.png?width=140&height=140&auto=webp&s=b5e1c84cc4260f301dd8a15b007b521c2c2767cb"
+        "publishedAt": "2026-08-05T16:42:10.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -196,16 +102,6 @@
       },
       {
         "rank": 1,
-        "title": "BREAKING: Google DeepMind CEO Demis Hassabis is stepping down",
-        "url": "https://www.reddit.com/r/singularity/comments/1vgbkq5/breaking_google_deepmind_ceo_demis_hassabis_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-05T16:04:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5dk3rnvwxkhh1.png?width=640&crop=smart&auto=webp&s=6a134f33c4e9b9090911aca2b0099f7aa1277d41"
-      },
-      {
-        "rank": 2,
         "title": "Google Deepmind CEO Demis Hassabis steps down to become chair",
         "url": "https://www.reddit.com/r/singularity/comments/1vghb3m/google_deepmind_ceo_demis_hassabis_steps_down_to/",
         "source": "r/singularity",
@@ -213,6 +109,16 @@
         "publishedAt": "2026-08-05T19:27:26.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11"
+      },
+      {
+        "rank": 2,
+        "title": "BREAKING: Google DeepMind CEO Demis Hassabis is stepping down",
+        "url": "https://www.reddit.com/r/singularity/comments/1vgbkq5/breaking_google_deepmind_ceo_demis_hassabis_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-05T16:04:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5dk3rnvwxkhh1.png?width=640&crop=smart&auto=webp&s=6a134f33c4e9b9090911aca2b0099f7aa1277d41"
       },
       {
         "rank": 3,
@@ -235,12 +141,107 @@
       },
       {
         "rank": 5,
-        "title": "[Reuters] Trump advisers tell AI firms they will not safety-test open-weight models",
-        "url": "https://www.reddit.com/r/singularity/comments/1vfs3s7/reuters_trump_advisers_tell_ai_firms_they_will/",
+        "title": "Meta releases Muse Code in beta",
+        "url": "https://www.reddit.com/r/singularity/comments/1vgi7td/meta_releases_muse_code_in_beta/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-05T00:34:50.000Z",
+        "publishedAt": "2026-08-05T19:59:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0u1r27tt3mhh1.png?width=640&crop=smart&auto=webp&s=37404cb7f39065d77baa29a137ec5d257623d673"
+      },
+      {
+        "rank": 1,
+        "title": "Claude from a small business perspective",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T01:50:48.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions alone",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T09:03:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c3ppNHF2aTZ1aWhoMVNVGpBZNoz6evBPG-ydvMCgs0itiWsa0BuHcolegffB.png?width=640&crop=smart&auto=webp&s=6e7d38c23ea78b35d3a2d87d7db98e0f252284b9"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 4.8 > Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T03:41:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The Cutting Room Floor served Claude Code a payload telling it to wipe the working directory",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgif8w/the_cutting_room_floor_served_claude_code_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T20:06:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k5q8gjm75mhh1.jpeg?width=640&crop=smart&auto=webp&s=89845bc78b0ff1628956e1d0932893a7ead9bda4"
+      },
+      {
+        "rank": 5,
+        "title": "With Opus 4.8 internal thinking I was \"The boss\" but with 5.0 I'm a \"colleague\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T17:25:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Every OpenAI vs Claude benchmark be like",
+        "url": "https://www.reddit.com/r/codex/comments/1vgk83h/every_openai_vs_claude_benchmark_be_like/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T21:13:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m2smg296hmhh1.jpeg?width=640&crop=smart&auto=webp&s=73bd85c2c182c2b2122dd972822bd71ab73f21f0"
+      },
+      {
+        "rank": 2,
+        "title": "They're Testing Us",
+        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T15:49:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "We Need Usage Predictability NOT Reset Generosity",
+        "url": "https://www.reddit.com/r/codex/comments/1vgl0u2/we_need_usage_predictability_not_reset_generosity/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T21:44:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Why is Codex Sol still eating up tokens like no tomorrow?",
+        "url": "https://www.reddit.com/r/codex/comments/1vfy1ie/why_is_codex_sol_still_eating_up_tokens_like_no/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T05:18:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "It's my cake day Tibo! Can you please press the button for my cake day present?",
+        "url": "https://www.reddit.com/r/codex/comments/1vggctp/its_my_cake_day_tibo_can_you_please_press_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T18:53:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ngq3vuw4slhh1.png?width=140&height=140&auto=webp&s=b5e1c84cc4260f301dd8a15b007b521c2c2767cb"
       }
     ]
   }

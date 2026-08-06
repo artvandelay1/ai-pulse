@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T12:28:50.504Z",
+  "fetchedAt": "2026-08-06T14:58:48.124Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,16 @@
     "items": [
       {
         "rank": 1,
+        "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-06T12:10:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/do9dnbn6xqhh1.jpeg?width=640&crop=smart&auto=webp&s=617d6a696d01fe6c1400dfe1a478504a401b02cf"
+      },
+      {
+        "rank": 2,
         "title": "What are the biggest challenges in collecting high-quality speech and egocentric video datasets? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwecq/what_are_the_biggest_challenges_in_collecting/",
         "source": "r/MachineLearning",
@@ -15,7 +25,16 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "title": "The current state of language models and human preference based rankings [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vh42ed/the_current_state_of_language_models_and_human/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-06T13:19:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
         "source": "r/MachineLearning",
@@ -24,30 +43,12 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "title": "[R], Need some best model suggestions for Face Detection,Face Recognition,Body Detection and Body identification. [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgx5dk/r_need_some_best_model_suggestions_for_face/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-06T07:17:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-06T07:07:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Do LLMs make ML research more fair for small teams? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T19:16:29.000Z",
         "category": "reddit"
       },
       {
@@ -62,16 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "AI danger explained for people who don't understand full sentences",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vg7fdt/ai_danger_explained_for_people_who_dont/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T13:29:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eXN3ajYwbGM2a2hoMS01gtmwqKj_Imb0wvCbYQAnzrJFmrkphWb63hUK9Kii.png?width=640&crop=smart&auto=webp&s=64663ca726f8fe0d2887270d882299fd8ebf1bbd"
-      },
-      {
-        "rank": 3,
         "title": "OpenAI resumed training after agents took over Artifactory and rebuilt their network",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vgjq5e/openai_resumed_training_after_agents_took_over/",
         "source": "r/OpenAI",
@@ -81,17 +72,7 @@
         "thumbnail": "https://external-preview.redd.it/oK4b5zVLKZ4ucxIHGRU8imh_SKv3Qdvp3lM5HK1Qh5Y.jpeg?width=640&crop=smart&auto=webp&s=fe9067aa1b9fef53fec82ba08b3682540ba55850"
       },
       {
-        "rank": 4,
-        "title": "15 Attorneys General demand that OpenAI preserve all records related to the Hugging Face incident",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vg7oed/15_attorneys_general_demand_that_openai_preserve/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T13:39:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sb3eljqw7khh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=69d8fee38c70887b43bae3850de4ef4cf15e75e2"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "A new survey found 1 in 4 people in Japan believe AI could replace friends or family",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vgdxed/a_new_survey_found_1_in_4_people_in_japan_believe/",
         "source": "r/OpenAI",
@@ -99,6 +80,26 @@
         "publishedAt": "2026-08-05T17:27:16.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/uy83g39qclhh1.jpeg?width=640&crop=smart&auto=webp&s=bcb758012320fd5334b1074a35297636a2ae37b1"
+      },
+      {
+        "rank": 4,
+        "title": "Have limits changed in the last few days? Every time I get a reply on Sol High it uses up 1% of my weekly limit. Versus last week, when several questions (and the same use case) on Sol High barely used up 1%",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vgoty5/have_limits_changed_in_the_last_few_days_every/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T00:22:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/raq3j8soenhh1.png?width=640&crop=smart&auto=webp&s=1a3d546863cf7cbc4deec057ad6516072df19876"
+      },
+      {
+        "rank": 5,
+        "title": "Report: U.S. to exclude open-weight AI models from new safety tests",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vh21sa/report_us_to_exclude_openweight_ai_models_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T11:52:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/xC41bo9cWNV3jZV2S76e6Ic80nacigrF37lrv0reRk8.jpeg?width=640&crop=smart&auto=webp&s=e0c098d366c9b76964247ead929ece2d386bbb80"
       },
       {
         "rank": 1,
@@ -122,12 +123,13 @@
       },
       {
         "rank": 3,
-        "title": "Flowers ☾ (@flowersslop) on X: \"SSI is doing AI that learns rapidly from its own experience.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vg8099/flowers_flowersslop_on_x_ssi_is_doing_ai_that/",
+        "title": "Current situation of Ai race",
+        "url": "https://www.reddit.com/r/singularity/comments/1vgr75w/current_situation_of_ai_race/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-05T13:52:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-06T02:09:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7n4a6mwgylhh1.jpeg?width=640&crop=smart&auto=webp&s=4291b4c5525621a8051b4957f1de83b131c357f3"
       },
       {
         "rank": 4,
@@ -141,13 +143,13 @@
       },
       {
         "rank": 5,
-        "title": "Current situation of Ai race",
-        "url": "https://www.reddit.com/r/singularity/comments/1vgr75w/current_situation_of_ai_race/",
+        "title": "Reddit is introducing a new moderator: AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vgy45f/reddit_is_introducing_a_new_moderator_ai/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-06T02:09:14.000Z",
+        "publishedAt": "2026-08-06T08:14:35.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7n4a6mwgylhh1.jpeg?width=640&crop=smart&auto=webp&s=4291b4c5525621a8051b4957f1de83b131c357f3"
+        "thumbnail": "https://external-preview.redd.it/xSYz-TH2FzkAhVHPEw1C28zA1nyc8HyBSWrElU4mBlE.jpeg?width=640&crop=smart&auto=webp&s=83fe5b3eeb51d462fa095df499fc4f49d2a0851c"
       },
       {
         "rank": 1,

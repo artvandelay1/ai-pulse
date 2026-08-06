@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T23:05:44.593Z",
+  "fetchedAt": "2026-08-06T00:54:09.573Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,53 @@
     "items": [
       {
         "rank": 1,
-        "title": "I Compressed Bad Apple into a 3MB Neural Network [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vfrco1/i_compressed_bad_apple_into_a_3mb_neural_network_p/",
-        "source": "r/MachineLearning",
+        "title": "Claude from a small business perspective",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-05T00:01:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h5r0ybpz5ghh1.gif?frame=1&width=140&height=70&auto=webp&s=99152a6a4c15a1a51e20a696f3a52115ce3add98"
+        "publishedAt": "2026-08-05T01:50:48.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
+        "title": "I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions alone",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T09:03:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c3ppNHF2aTZ1aWhoMVNVGpBZNoz6evBPG-ydvMCgs0itiWsa0BuHcolegffB.png?width=640&crop=smart&auto=webp&s=6e7d38c23ea78b35d3a2d87d7db98e0f252284b9"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 4.8 > Opus 5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T03:41:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The Cutting Room Floor served Claude Code a payload telling it to wipe the working directory",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgif8w/the_cutting_room_floor_served_claude_code_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T20:06:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k5q8gjm75mhh1.jpeg?width=640&crop=smart&auto=webp&s=89845bc78b0ff1628956e1d0932893a7ead9bda4"
+      },
+      {
+        "rank": 5,
+        "title": "With Opus 4.8 internal thinking I was \"The boss\" but with 5.0 I'm a \"colleague\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-05T17:25:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
         "source": "r/MachineLearning",
@@ -25,12 +62,21 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "NeurIPS 2026 Concept & Feasibility Track [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vfv9fj/neurips_2026_concept_feasibility_track_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-05T02:58:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-05T16:04:42.000Z",
         "category": "reddit"
       },
       {
@@ -44,12 +90,59 @@
       },
       {
         "rank": 5,
-        "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
+        "title": "Do LLMs make ML research more fair for small teams? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-05T16:04:42.000Z",
+        "publishedAt": "2026-08-05T19:16:29.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Every OpenAI vs Claude benchmark be like",
+        "url": "https://www.reddit.com/r/codex/comments/1vgk83h/every_openai_vs_claude_benchmark_be_like/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T21:13:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m2smg296hmhh1.jpeg?width=640&crop=smart&auto=webp&s=73bd85c2c182c2b2122dd972822bd71ab73f21f0"
+      },
+      {
+        "rank": 2,
+        "title": "They're Testing Us",
+        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T15:49:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "We Need Usage Predictability NOT Reset Generosity",
+        "url": "https://www.reddit.com/r/codex/comments/1vgl0u2/we_need_usage_predictability_not_reset_generosity/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T21:44:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Why is Codex Sol still eating up tokens like no tomorrow?",
+        "url": "https://www.reddit.com/r/codex/comments/1vfy1ie/why_is_codex_sol_still_eating_up_tokens_like_no/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T05:18:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "It's my cake day Tibo! Can you please press the button for my cake day present?",
+        "url": "https://www.reddit.com/r/codex/comments/1vggctp/its_my_cake_day_tibo_can_you_please_press_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T18:53:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ngq3vuw4slhh1.png?width=140&height=140&auto=webp&s=b5e1c84cc4260f301dd8a15b007b521c2c2767cb"
       },
       {
         "rank": 1,
@@ -148,101 +241,6 @@
         "score": 0,
         "publishedAt": "2026-08-05T00:34:50.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Why they can't use Fable 5?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg0dqg/why_they_cant_use_fable_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T07:27:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nkdio9xpdihh1.png?width=640&crop=smart&auto=webp&s=ada1d302c4faf3cbe2ff59caae1c54ec6b02c131"
-      },
-      {
-        "rank": 2,
-        "title": "Claude from a small business perspective",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T01:50:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions alone",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T09:03:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c3ppNHF2aTZ1aWhoMVNVGpBZNoz6evBPG-ydvMCgs0itiWsa0BuHcolegffB.png?width=640&crop=smart&auto=webp&s=6e7d38c23ea78b35d3a2d87d7db98e0f252284b9"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 4.8 > Opus 5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vfw5tp/opus_48_opus_5/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T03:41:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "With Opus 4.8 internal thinking I was \"The boss\" but with 5.0 I'm a \"colleague\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T17:25:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "They're Testing Us",
-        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T15:49:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Why is Codex Sol still eating up tokens like no tomorrow?",
-        "url": "https://www.reddit.com/r/codex/comments/1vfy1ie/why_is_codex_sol_still_eating_up_tokens_like_no/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T05:18:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Codex ran for 2h 33 min. No way Claude could run for this long without rate limits.",
-        "url": "https://www.reddit.com/r/codex/comments/1vfs2yf/codex_ran_for_2h_33_min_no_way_claude_could_run/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T00:33:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ylbk12otbghh1.png?width=140&height=25&auto=webp&s=e6e8e535a5f0744be4fe5e170206fa685bf8d291"
-      },
-      {
-        "rank": 4,
-        "title": "It's my cake day Tibo! Can you please press the button for my cake day present?",
-        "url": "https://www.reddit.com/r/codex/comments/1vggctp/its_my_cake_day_tibo_can_you_please_press_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T18:53:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ngq3vuw4slhh1.png?width=140&height=140&auto=webp&s=b5e1c84cc4260f301dd8a15b007b521c2c2767cb"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-5.6 Sol, Luna and Terra: choosing by cost, speed and capability instead of one universal ranking",
-        "url": "https://www.reddit.com/r/codex/comments/1vfwsug/gpt56_sol_luna_and_terra_choosing_by_cost_speed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T04:13:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5erpqcw1fhhh1.png?width=140&height=97&auto=webp&s=4f56e49c46c3481991a340d3d1c23045361a8b1e"
       }
     ]
   }

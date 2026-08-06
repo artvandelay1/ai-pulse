@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T07:19:12.763Z",
+  "fetchedAt": "2026-08-06T10:17:07.103Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,13 +27,12 @@
       },
       {
         "rank": 3,
-        "title": "I built a captioning app for short-form video, then gave Claude an MCP so it can work with captions alone",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vg206l/i_built_a_captioning_app_for_shortform_video_then/",
+        "title": "I gave Claude Fable a domain and said You can build whatever you want.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgo8vt/i_gave_claude_fable_a_domain_and_said_you_can/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-05T09:03:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c3ppNHF2aTZ1aWhoMVNVGpBZNoz6evBPG-ydvMCgs0itiWsa0BuHcolegffB.png?width=640&crop=smart&auto=webp&s=6e7d38c23ea78b35d3a2d87d7db98e0f252284b9"
+        "publishedAt": "2026-08-05T23:57:27.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -47,24 +46,15 @@
       },
       {
         "rank": 5,
-        "title": "I gave Claude Fable a domain and said You can build whatever you want.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgo8vt/i_gave_claude_fable_a_domain_and_said_you_can/",
+        "title": "With Opus 4.8 internal thinking I was \"The boss\" but with 5.0 I'm a \"colleague\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-05T23:57:27.000Z",
+        "publishedAt": "2026-08-05T17:25:19.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Observations: non-instructional text prefix may bypass RLHF constraints without adversarial prompting? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgty78/observations_noninstructional_text_prefix_may/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-06T04:21:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "What are the biggest challenges in collecting high-quality speech and egocentric video datasets? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwecq/what_are_the_biggest_challenges_in_collecting/",
         "source": "r/MachineLearning",
@@ -73,7 +63,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
         "source": "r/MachineLearning",
@@ -82,7 +72,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Monodratic: learned product-hash routing for sparse causal attention [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vg3jda/monodratic_learned_producthash_routing_for_sparse/",
         "source": "r/MachineLearning",
@@ -91,12 +81,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Do LLMs make ML research more fair for small teams? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
+        "rank": 4,
+        "title": "[R], Need some best model suggestions for Face Detection,Face Recognition,Body Detection and Body identification. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgx5dk/r_need_some_best_model_suggestions_for_face/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-05T19:16:29.000Z",
+        "publishedAt": "2026-08-06T07:17:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-06T07:07:44.000Z",
         "category": "reddit"
       },
       {
@@ -120,15 +119,6 @@
       },
       {
         "rank": 3,
-        "title": "They're Testing Us",
-        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T15:49:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Hold Up Wait A Minute 🖐️",
         "url": "https://www.reddit.com/r/codex/comments/1vgudti/hold_up_wait_a_minute/",
         "source": "r/codex",
@@ -136,6 +126,15 @@
         "publishedAt": "2026-08-06T04:44:44.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/5al90befpohh1.png?width=640&crop=smart&auto=webp&s=ce1bd91cdcd154e209fe63aaabeac3398e3b6e01"
+      },
+      {
+        "rank": 4,
+        "title": "They're Testing Us",
+        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-05T15:49:23.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

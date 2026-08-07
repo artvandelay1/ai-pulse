@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-07T03:32:45.717Z",
+  "fetchedAt": "2026-08-07T05:45:10.341Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "My experience with Opus 5 so far",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhagay/my_experience_with_opus_5_so_far/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T17:15:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zuavhdmlfshh1.jpeg?width=640&crop=smart&auto=webp&s=056c3aa6249d9272d11435d0a45ad7eaa17588d6"
+      },
+      {
+        "rank": 2,
+        "title": "I benchmarked 10 LLMs on building towers in a physics sim. Claude Opus 5 won",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhcv9e/i_benchmarked_10_llms_on_building_towers_in_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T18:41:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Ym02bXg3NW90c2hoMXP9y546x76SnQXQTniZ5yIEO_qgPesRBX3Sf-pfP-8A.png?width=640&crop=smart&auto=webp&s=7332d47b0e2cdae858183b7bd83948d17a1a855c"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 is literally useless for documentation",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:40:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Top 15+ MCP servers that are actually useful in 2026? I’m tired of fake awesome lists",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vh0yd3/top_15_mcp_servers_that_are_actually_useful_in/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T10:57:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Am I the only one getting physically stressed from AI coding?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vh1zan/am_i_the_only_one_getting_physically_stressed/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T11:48:49.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
@@ -50,6 +97,56 @@
         "score": 0,
         "publishedAt": "2026-08-06T13:19:57.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "A 'Mythos level' GPT 6 next week!",
+        "url": "https://www.reddit.com/r/codex/comments/1vh5cxi/a_mythos_level_gpt_6_next_week/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T14:10:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fjwjxvnfirhh1.png?width=640&crop=smart&auto=webp&s=580964b6447f586fb527cbacab1d64d28f19b78c"
+      },
+      {
+        "rank": 2,
+        "title": "Levels of slavery from least to most brutal:",
+        "url": "https://www.reddit.com/r/codex/comments/1vgxfqc/levels_of_slavery_from_least_to_most_brutal/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T07:34:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6aih440vjphh1.png?width=640&crop=smart&auto=webp&s=0b5653ad150a0e24a7a56ba10d639c1dee6a6ddb"
+      },
+      {
+        "rank": 3,
+        "title": "We might be paying for our resets going forward",
+        "url": "https://www.reddit.com/r/codex/comments/1vh3w2i/we_might_be_paying_for_our_resets_going_forward/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T13:12:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9y8qw1u98rhh1.jpeg?width=640&crop=smart&auto=webp&s=3b3338d89e7ac21df9d5914a67d35da870942362"
+      },
+      {
+        "rank": 4,
+        "title": "Are you ready to ASTRAMAXX? INCOMING",
+        "url": "https://www.reddit.com/r/codex/comments/1vh5tpj/are_you_ready_to_astramaxx_incoming/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T14:28:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dn133vuklrhh1.png?width=140&height=60&auto=webp&s=a10754a02c3d09b82c9c2463ff44005a15e2e94c"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo never misses: \"You forgot Sol\" 💀",
+        "url": "https://www.reddit.com/r/codex/comments/1vh2xxc/tibo_never_misses_you_forgot_sol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T12:32:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qeq8vbvkzqhh1.png?width=640&crop=smart&auto=webp&s=a1becd680e35892c79a1a8467bfb5dd8a855835d"
       },
       {
         "rank": 1,
@@ -147,102 +244,6 @@
         "score": 0,
         "publishedAt": "2026-08-06T17:40:11.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "My Opus 5 experience in a nutshell.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgpyni/my_opus_5_experience_in_a_nutshell/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T01:12:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9grufvtqnnhh1.jpeg?width=640&crop=smart&auto=webp&s=56e56a18e7739e582b1a0d267d8b8efd176c1f17"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5 after working for an hour straight",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgq0jm/opus_5_after_working_for_an_hour_straight/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T01:14:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MjRzZHE1MTRvbmhoMZ862l7ikFNFlnPmkEc7Ch7z2uP-6z-PBvY1pFgbPHdr.png?width=320&crop=smart&auto=webp&s=b31bb1b97c51a596095753a5aa41cac63e557102"
-      },
-      {
-        "rank": 3,
-        "title": "I gave Claude Fable a domain and said You can build whatever you want.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgo8vt/i_gave_claude_fable_a_domain_and_said_you_can/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T23:57:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "The Cutting Room Floor served Claude Code a payload telling it to wipe the working directory",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgif8w/the_cutting_room_floor_served_claude_code_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T20:06:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k5q8gjm75mhh1.jpeg?width=640&crop=smart&auto=webp&s=89845bc78b0ff1628956e1d0932893a7ead9bda4"
-      },
-      {
-        "rank": 5,
-        "title": "With Opus 4.8 internal thinking I was \"The boss\" but with 5.0 I'm a \"colleague\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vgdvf9/with_opus_48_internal_thinking_i_was_the_boss_but/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T17:25:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Every OpenAI vs Claude benchmark be like",
-        "url": "https://www.reddit.com/r/codex/comments/1vgk83h/every_openai_vs_claude_benchmark_be_like/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T21:13:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m2smg296hmhh1.jpeg?width=640&crop=smart&auto=webp&s=73bd85c2c182c2b2122dd972822bd71ab73f21f0"
-      },
-      {
-        "rank": 2,
-        "title": "We Need Usage Predictability NOT Reset Generosity",
-        "url": "https://www.reddit.com/r/codex/comments/1vgl0u2/we_need_usage_predictability_not_reset_generosity/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T21:44:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Hold Up Wait A Minute 🖐️",
-        "url": "https://www.reddit.com/r/codex/comments/1vgudti/hold_up_wait_a_minute/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T04:44:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5al90befpohh1.png?width=640&crop=smart&auto=webp&s=ce1bd91cdcd154e209fe63aaabeac3398e3b6e01"
-      },
-      {
-        "rank": 4,
-        "title": "They're Testing Us",
-        "url": "https://www.reddit.com/r/codex/comments/1vgb5jf/theyre_testing_us/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T15:49:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "It's my cake day Tibo! Can you please press the button for my cake day present?",
-        "url": "https://www.reddit.com/r/codex/comments/1vggctp/its_my_cake_day_tibo_can_you_please_press_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-05T18:53:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ngq3vuw4slhh1.png?width=140&height=140&auto=webp&s=b5e1c84cc4260f301dd8a15b007b521c2c2767cb"
       }
     ]
   }

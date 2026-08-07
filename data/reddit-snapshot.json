@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-07T20:47:47.358Z",
+  "fetchedAt": "2026-08-07T21:44:08.321Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I used Claude cli to vibe code a compass app to find the nearest toilet, called Compiss.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi5guo/i_used_claude_cli_to_vibe_code_a_compass_app_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T16:31:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tx9gkl7lazhh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=3b1033fbeecc6920a56d35188ad43cab97ffc6c2"
+      },
+      {
+        "rank": 2,
+        "title": "I spent $3000 to build my dream game on Claude Code. It's finally done. Thoughts?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi1iv9/i_spent_3000_to_build_my_dream_game_on_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T14:03:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vzbt02r0myhh1.jpeg?width=640&crop=smart&auto=webp&s=3ccaf125dd1812ac925605cfeb602a5303487cc3"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 is literally useless for documentation",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:40:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me. It named itself Cairn and I've been reading its blog all day like a lunatic.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhp54h/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T03:14:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "People say Opus 5 is inaccessible but if you just read it in Werner Herzog's voice, it's fine",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhyqee/people_say_opus_5_is_inaccessible_but_if_you_just/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T12:03:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ld54nnyn0yhh1.png?width=640&crop=smart&auto=webp&s=c8563f1ff72bddd499940df28093125eaecd8160"
+      },
       {
         "rank": 1,
         "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
@@ -49,6 +97,52 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-07T07:27:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Am I destroying jobs?",
+        "url": "https://www.reddit.com/r/codex/comments/1vhkir1/am_i_destroying_jobs/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:41:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "End of resets?",
+        "url": "https://www.reddit.com/r/codex/comments/1vhjo79/end_of_resets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:05:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI is delaying their next model Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1vi7mpc/openai_is_delaying_their_next_model_astra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T17:51:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Still waiting for resets? It seems we have a new model ...",
+        "url": "https://www.reddit.com/r/codex/comments/1vhjy65/still_waiting_for_resets_it_seems_we_have_a_new/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:16:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w3khsc6u7uhh1.png?width=640&crop=smart&auto=webp&s=e73e7f9d07021d7ab13a4ae858cd087170179509"
+      },
+      {
+        "rank": 5,
+        "title": "Please stop moving forward the weekly reset date",
+        "url": "https://www.reddit.com/r/codex/comments/1vi0385/please_stop_moving_forward_the_weekly_reset_date/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T13:04:10.000Z",
         "category": "reddit"
       },
       {
@@ -147,100 +241,6 @@
         "publishedAt": "2026-08-06T23:14:48.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ynbqrnlo7uhh1.png?width=640&crop=smart&auto=webp&s=094f4c387e67e3dc51b3784fee7743a9ed5bad5b"
-      },
-      {
-        "rank": 1,
-        "title": "I used Claude cli to vibe code a compass app to find the nearest toilet, called Compiss.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi5guo/i_used_claude_cli_to_vibe_code_a_compass_app_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T16:31:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tx9gkl7lazhh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=3b1033fbeecc6920a56d35188ad43cab97ffc6c2"
-      },
-      {
-        "rank": 2,
-        "title": "I spent $3000 to build my dream game on Claude Code. It's finally done. Thoughts?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi1iv9/i_spent_3000_to_build_my_dream_game_on_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T14:03:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vzbt02r0myhh1.jpeg?width=640&crop=smart&auto=webp&s=3ccaf125dd1812ac925605cfeb602a5303487cc3"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5 is literally useless for documentation",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:40:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me. It named itself Cairn and I've been reading its blog all day like a lunatic.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhp54h/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T03:14:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "People say Opus 5 is inaccessible but if you just read it in Werner Herzog's voice, it's fine",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhyqee/people_say_opus_5_is_inaccessible_but_if_you_just/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T12:03:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ld54nnyn0yhh1.png?width=640&crop=smart&auto=webp&s=c8563f1ff72bddd499940df28093125eaecd8160"
-      },
-      {
-        "rank": 1,
-        "title": "Am I destroying jobs?",
-        "url": "https://www.reddit.com/r/codex/comments/1vhkir1/am_i_destroying_jobs/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:41:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "End of resets?",
-        "url": "https://www.reddit.com/r/codex/comments/1vhjo79/end_of_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:05:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI is delaying their next model Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1vi7mpc/openai_is_delaying_their_next_model_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-07T17:51:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Still waiting for resets? It seems we have a new model ...",
-        "url": "https://www.reddit.com/r/codex/comments/1vhjy65/still_waiting_for_resets_it_seems_we_have_a_new/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:16:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w3khsc6u7uhh1.png?width=640&crop=smart&auto=webp&s=e73e7f9d07021d7ab13a4ae858cd087170179509"
-      },
-      {
-        "rank": 5,
-        "title": "Please stop moving forward the weekly reset date",
-        "url": "https://www.reddit.com/r/codex/comments/1vi0385/please_stop_moving_forward_the_weekly_reset_date/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-07T13:04:10.000Z",
-        "category": "reddit"
       }
     ]
   }

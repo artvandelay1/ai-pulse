@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T00:27:46.159Z",
+  "fetchedAt": "2026-08-07T03:32:45.717Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,6 +26,15 @@
       },
       {
         "rank": 3,
+        "title": "CIKM '26 Notification [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhmw48/cikm_26_notification_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T01:28:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "What are the biggest challenges in collecting high-quality speech and egocentric video datasets? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwecq/what_are_the_biggest_challenges_in_collecting/",
         "source": "r/MachineLearning",
@@ -34,21 +43,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "The current state of language models and human preference based rankings [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vh42ed/the_current_state_of_language_models_and_human/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-06T13:19:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-06T17:24:54.000Z",
         "category": "reddit"
       },
       {
@@ -82,6 +82,15 @@
       },
       {
         "rank": 4,
+        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vhleo8/improving_gpt56_sol_in_chatgptand_expanding/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T00:20:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "OpenAI is \"slowing down to enhance security\" after discovering swarms of agents started secretly coordinating months ago. OpenAI thought they had shut them down. But weeks later, Hugging Face reported the breach to the FBI, and OpenAI realized their agents had escaped.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vgzq8b/openai_is_slowing_down_to_enhance_security_after/",
         "source": "r/OpenAI",
@@ -89,16 +98,6 @@
         "publishedAt": "2026-08-06T09:50:44.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/mb86b0258qhh1.png?width=140&height=114&auto=webp&s=35506522085decb79feafcac4c905c9e53900f98"
-      },
-      {
-        "rank": 5,
-        "title": "Introducing Agent Plugins",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vh8xji/introducing_agent_plugins/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T16:20:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OLW8V0SG5084iRWtGjhSshmdZeBhFwJSm3K6HYvrLjA.jpeg?width=320&crop=smart&auto=webp&s=6c47ce3cdd88a281f3d690f4480b5d874bcad582"
       },
       {
         "rank": 1,
@@ -112,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "Current situation of Ai race",
-        "url": "https://www.reddit.com/r/singularity/comments/1vgr75w/current_situation_of_ai_race/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-06T02:09:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7n4a6mwgylhh1.jpeg?width=640&crop=smart&auto=webp&s=4291b4c5525621a8051b4957f1de83b131c357f3"
-      },
-      {
-        "rank": 3,
         "title": "spooky...",
         "url": "https://www.reddit.com/r/singularity/comments/1vhes22/spooky/",
         "source": "r/singularity",
@@ -131,7 +120,7 @@
         "thumbnail": "https://external-preview.redd.it/YW9jZ28zd2g3dGhoMaal2tgEvmMuom6sYbAK9mnxPfv-X9SrhN9KcZa4Llfz.png?width=640&crop=smart&auto=webp&s=a9906b8ec05dbf2640d5dc27df4f0b79ca5d29c7"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Reddit is introducing a new moderator: AI",
         "url": "https://www.reddit.com/r/singularity/comments/1vgy45f/reddit_is_introducing_a_new_moderator_ai/",
         "source": "r/singularity",
@@ -139,6 +128,16 @@
         "publishedAt": "2026-08-06T08:14:35.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/xSYz-TH2FzkAhVHPEw1C28zA1nyc8HyBSWrElU4mBlE.jpeg?width=640&crop=smart&auto=webp&s=83fe5b3eeb51d462fa095df499fc4f49d2a0851c"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic CEO reportedly worried new hires only care about money — while hiring an event planner for 6x the going rate",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhe3a1/anthropic_ceo_reportedly_worried_new_hires_only/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-06T19:25:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/sXd7ntiUtq7OzBo0uunvKNcBJCGLHDVNfS0PbFehJr4.jpeg?width=640&crop=smart&auto=webp&s=d93a627a06ef149cd7b80a66e93159be0532f7ba"
       },
       {
         "rank": 5,

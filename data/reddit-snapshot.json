@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T08:36:45.573Z",
+  "fetchedAt": "2026-08-07T10:05:48.386Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -81,16 +81,6 @@
       },
       {
         "rank": 4,
-        "title": "Report: U.S. to exclude open-weight AI models from new safety tests",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vh21sa/report_us_to_exclude_openweight_ai_models_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T11:52:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/xC41bo9cWNV3jZV2S76e6Ic80nacigrF37lrv0reRk8.jpeg?width=640&crop=smart&auto=webp&s=e0c098d366c9b76964247ead929ece2d386bbb80"
-      },
-      {
-        "rank": 5,
         "title": "A challenger emerges",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vhsll2/a_challenger_emerges/",
         "source": "r/OpenAI",
@@ -98,6 +88,16 @@
         "publishedAt": "2026-08-07T06:16:56.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dcdlj84yawhh1.png?width=640&crop=smart&auto=webp&s=0c40ec07a0479e29eedcaa86b9594a7ba6566430"
+      },
+      {
+        "rank": 5,
+        "title": "Report: U.S. to exclude open-weight AI models from new safety tests",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vh21sa/report_us_to_exclude_openweight_ai_models_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T11:52:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/xC41bo9cWNV3jZV2S76e6Ic80nacigrF37lrv0reRk8.jpeg?width=640&crop=smart&auto=webp&s=e0c098d366c9b76964247ead929ece2d386bbb80"
       },
       {
         "rank": 1,

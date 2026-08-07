@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T22:42:09.618Z",
+  "fetchedAt": "2026-08-07T23:39:07.786Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,20 +27,20 @@
       },
       {
         "rank": 3,
-        "title": "Opus 5 is literally useless for documentation",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:40:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me. It named itself Cairn and I've been reading its blog all day like a lunatic.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhp54h/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-07T03:14:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5 is literally useless for documentation",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:40:26.000Z",
         "category": "reddit"
       },
       {
@@ -110,15 +110,6 @@
       },
       {
         "rank": 2,
-        "title": "End of resets?",
-        "url": "https://www.reddit.com/r/codex/comments/1vhjo79/end_of_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:05:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "OpenAI is delaying their next model Astra",
         "url": "https://www.reddit.com/r/codex/comments/1vi7mpc/openai_is_delaying_their_next_model_astra/",
         "source": "r/codex",
@@ -127,22 +118,31 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Still waiting for resets? It seems we have a new model ...",
-        "url": "https://www.reddit.com/r/codex/comments/1vhjy65/still_waiting_for_resets_it_seems_we_have_a_new/",
+        "rank": 3,
+        "title": "Well.. we still getting one",
+        "url": "https://www.reddit.com/r/codex/comments/1viduyw/well_we_still_getting_one/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-06T23:16:48.000Z",
+        "publishedAt": "2026-08-07T21:48:46.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w3khsc6u7uhh1.png?width=640&crop=smart&auto=webp&s=e73e7f9d07021d7ab13a4ae858cd087170179509"
+        "thumbnail": "https://preview.redd.it/2y56qiu8x0ih1.jpeg?width=640&crop=smart&auto=webp&s=108b8dcb1e7b651a6506f3116f6cc4a8370d2fdf"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Please stop moving forward the weekly reset date",
         "url": "https://www.reddit.com/r/codex/comments/1vi0385/please_stop_moving_forward_the_weekly_reset_date/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-07T13:04:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "youd be surprised the ammount of things you can do with gpt 5.6 luna LOW... also its practically unlimited",
+        "url": "https://www.reddit.com/r/codex/comments/1vi4dyg/youd_be_surprised_the_ammount_of_things_you_can/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T15:51:52.000Z",
         "category": "reddit"
       },
       {

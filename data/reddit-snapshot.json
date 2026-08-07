@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T14:58:48.124Z",
+  "fetchedAt": "2026-08-07T00:27:46.159Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,15 @@
       },
       {
         "rank": 2,
+        "title": "NeurIPS Meta Reviewer comment gone. What gives? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhbfns/neurips_meta_reviewer_comment_gone_what_gives_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-06T17:50:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "What are the biggest challenges in collecting high-quality speech and egocentric video datasets? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwecq/what_are_the_biggest_challenges_in_collecting/",
         "source": "r/MachineLearning",
@@ -25,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "The current state of language models and human preference based rankings [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vh42ed/the_current_state_of_language_models_and_human/",
         "source": "r/MachineLearning",
@@ -34,65 +43,26 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Running Whisper, Qwen3-ASR, Nemotron & MOSS completely offline on iPhone [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-05T16:04:42.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "[R], Need some best model suggestions for Face Detection,Face Recognition,Body Detection and Body identification. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vgx5dk/r_need_some_best_model_suggestions_for_face/",
+        "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-06T07:17:29.000Z",
+        "publishedAt": "2026-08-06T17:24:54.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Levels of slavery from least to most brutal:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vgak3a/levels_of_slavery_from_least_to_most_brutal/",
+        "title": "OpenAI’s New Device Will Be Hockey Puck-Sized and Cost Over $300",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vhfcnb/openais_new_device_will_be_hockey_pucksized_and/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-05T15:27:55.000Z",
+        "publishedAt": "2026-08-06T20:13:21.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b2p9472frkhh1.png?width=640&crop=smart&auto=webp&s=416f298fb0812f2b54b6eac9d98dd84821b6a632"
+        "thumbnail": "https://external-preview.redd.it/9dj8saiGA6SgZai-_3pckqCFcM1fpVBNO4yV6jR6yEA.jpeg?width=640&crop=smart&auto=webp&s=1187071d1ddf317acc4a371b4d3b0e2c34b9e331"
       },
       {
         "rank": 2,
-        "title": "OpenAI resumed training after agents took over Artifactory and rebuilt their network",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vgjq5e/openai_resumed_training_after_agents_took_over/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T20:54:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/oK4b5zVLKZ4ucxIHGRU8imh_SKv3Qdvp3lM5HK1Qh5Y.jpeg?width=640&crop=smart&auto=webp&s=fe9067aa1b9fef53fec82ba08b3682540ba55850"
-      },
-      {
-        "rank": 3,
-        "title": "A new survey found 1 in 4 people in Japan believe AI could replace friends or family",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vgdxed/a_new_survey_found_1_in_4_people_in_japan_believe/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-05T17:27:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uy83g39qclhh1.jpeg?width=640&crop=smart&auto=webp&s=bcb758012320fd5334b1074a35297636a2ae37b1"
-      },
-      {
-        "rank": 4,
-        "title": "Have limits changed in the last few days? Every time I get a reply on Sol High it uses up 1% of my weekly limit. Versus last week, when several questions (and the same use case) on Sol High barely used up 1%",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vgoty5/have_limits_changed_in_the_last_few_days_every/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T00:22:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/raq3j8soenhh1.png?width=640&crop=smart&auto=webp&s=1a3d546863cf7cbc4deec057ad6516072df19876"
-      },
-      {
-        "rank": 5,
         "title": "Report: U.S. to exclude open-weight AI models from new safety tests",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vh21sa/report_us_to_exclude_openweight_ai_models_from/",
         "source": "r/OpenAI",
@@ -102,27 +72,46 @@
         "thumbnail": "https://external-preview.redd.it/xC41bo9cWNV3jZV2S76e6Ic80nacigrF37lrv0reRk8.jpeg?width=640&crop=smart&auto=webp&s=e0c098d366c9b76964247ead929ece2d386bbb80"
       },
       {
+        "rank": 3,
+        "title": "If APIs already work, why does the world need MCP?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vh9ofp/if_apis_already_work_why_does_the_world_need_mcp/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T16:47:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI is \"slowing down to enhance security\" after discovering swarms of agents started secretly coordinating months ago. OpenAI thought they had shut them down. But weeks later, Hugging Face reported the breach to the FBI, and OpenAI realized their agents had escaped.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vgzq8b/openai_is_slowing_down_to_enhance_security_after/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T09:50:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mb86b0258qhh1.png?width=140&height=114&auto=webp&s=35506522085decb79feafcac4c905c9e53900f98"
+      },
+      {
+        "rank": 5,
+        "title": "Introducing Agent Plugins",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vh8xji/introducing_agent_plugins/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T16:20:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OLW8V0SG5084iRWtGjhSshmdZeBhFwJSm3K6HYvrLjA.jpeg?width=320&crop=smart&auto=webp&s=6c47ce3cdd88a281f3d690f4480b5d874bcad582"
+      },
+      {
         "rank": 1,
-        "title": "Google Deepmind CEO Demis Hassabis steps down to become chair",
-        "url": "https://www.reddit.com/r/singularity/comments/1vghb3m/google_deepmind_ceo_demis_hassabis_steps_down_to/",
+        "title": "OpenAI to release GPT Astra next week",
+        "url": "https://www.reddit.com/r/singularity/comments/1vh56q9/openai_to_release_gpt_astra_next_week/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-05T19:27:26.000Z",
+        "publishedAt": "2026-08-06T14:04:09.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11"
+        "thumbnail": "https://preview.redd.it/dkan6hlahrhh1.png?width=320&crop=smart&auto=webp&s=4d3322ab8177400479c7d90bfd2c86d85bf5cea5"
       },
       {
         "rank": 2,
-        "title": "BREAKING: Google DeepMind CEO Demis Hassabis is stepping down",
-        "url": "https://www.reddit.com/r/singularity/comments/1vgbkq5/breaking_google_deepmind_ceo_demis_hassabis_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-05T16:04:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5dk3rnvwxkhh1.png?width=640&crop=smart&auto=webp&s=6a134f33c4e9b9090911aca2b0099f7aa1277d41"
-      },
-      {
-        "rank": 3,
         "title": "Current situation of Ai race",
         "url": "https://www.reddit.com/r/singularity/comments/1vgr75w/current_situation_of_ai_race/",
         "source": "r/singularity",
@@ -132,17 +121,17 @@
         "thumbnail": "https://preview.redd.it/7n4a6mwgylhh1.jpeg?width=640&crop=smart&auto=webp&s=4291b4c5525621a8051b4957f1de83b131c357f3"
       },
       {
-        "rank": 4,
-        "title": "EXCLUSIVE: OpenAI agents constructed a secret message board before the huggingface hacking incident",
-        "url": "https://www.reddit.com/r/singularity/comments/1vgpjge/exclusive_openai_agents_constructed_a_secret/",
+        "rank": 3,
+        "title": "spooky...",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhes22/spooky/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-06T00:53:44.000Z",
+        "publishedAt": "2026-08-06T19:52:02.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_GMtyDocb_0VkFUCd1_URBRxdcsBVw04a8nicxkM4bE.jpeg?width=640&crop=smart&auto=webp&s=87fcc3ac26570c5c913cf92a4b02cc947199694a"
+        "thumbnail": "https://external-preview.redd.it/YW9jZ28zd2g3dGhoMaal2tgEvmMuom6sYbAK9mnxPfv-X9SrhN9KcZa4Llfz.png?width=640&crop=smart&auto=webp&s=a9906b8ec05dbf2640d5dc27df4f0b79ca5d29c7"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Reddit is introducing a new moderator: AI",
         "url": "https://www.reddit.com/r/singularity/comments/1vgy45f/reddit_is_introducing_a_new_moderator_ai/",
         "source": "r/singularity",
@@ -150,6 +139,15 @@
         "publishedAt": "2026-08-06T08:14:35.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/xSYz-TH2FzkAhVHPEw1C28zA1nyc8HyBSWrElU4mBlE.jpeg?width=640&crop=smart&auto=webp&s=83fe5b3eeb51d462fa095df499fc4f49d2a0851c"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI: Improving GPT‑5.6 in ChatGPT",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhb5f6/openai_improving_gpt56_in_chatgpt/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-06T17:40:11.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

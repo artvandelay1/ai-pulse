@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-08-07T17:26:15.561Z",
+  "fetchedAt": "2026-08-07T18:24:43.852Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "I spent $3000 to build my dream game on Claude Code. It's finally done. Thoughts?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi1iv9/i_spent_3000_to_build_my_dream_game_on_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T14:03:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vzbt02r0myhh1.jpeg?width=640&crop=smart&auto=webp&s=3ccaf125dd1812ac925605cfeb602a5303487cc3"
-      },
-      {
-        "rank": 2,
-        "title": "I used Claude cli to vibe code a compass app to find the nearest toilet, called Compiss.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi5guo/i_used_claude_cli_to_vibe_code_a_compass_app_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T16:31:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tx9gkl7lazhh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=3b1033fbeecc6920a56d35188ad43cab97ffc6c2"
-      },
-      {
-        "rank": 3,
-        "title": "I benchmarked 10 LLMs on building towers in a physics sim. Claude Opus 5 won",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhcv9e/i_benchmarked_10_llms_on_building_towers_in_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T18:41:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Ym02bXg3NW90c2hoMXP9y546x76SnQXQTniZ5yIEO_qgPesRBX3Sf-pfP-8A.png?width=640&crop=smart&auto=webp&s=7332d47b0e2cdae858183b7bd83948d17a1a855c"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 5 is literally useless for documentation",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:40:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me. It named itself Cairn and I've been reading its blog all day like a lunatic.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhp54h/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T03:14:43.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
@@ -64,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS Meta Reviewer comment gone. What gives? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhbfns/neurips_meta_reviewer_comment_gone_what_gives_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-06T17:50:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "CIKM '26 Notification [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vhmw48/cikm_26_notification_d/",
         "source": "r/MachineLearning",
@@ -81,17 +24,16 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Improved compression of Bad Apple into a Neural Network [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
+        "rank": 3,
+        "title": "2026 NeurIPS: Where are you going? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-07T09:06:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/op3rm5z65xhh1.png?width=640&crop=smart&auto=webp&s=eaf28da20b946a5af59dbee34cfbea020bb98608"
+        "publishedAt": "2026-08-07T16:48:43.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "CIKM 2026 decisions [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vhtto1/cikm_2026_decisions_r/",
         "source": "r/MachineLearning",
@@ -100,50 +42,14 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Am I destroying jobs?",
-        "url": "https://www.reddit.com/r/codex/comments/1vhkir1/am_i_destroying_jobs/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:41:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "End of resets?",
-        "url": "https://www.reddit.com/r/codex/comments/1vhjo79/end_of_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:05:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "It looks like a new banked r*** is coming",
-        "url": "https://www.reddit.com/r/codex/comments/1vhe9n7/it_looks_like_a_new_banked_r_is_coming/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T19:32:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Still waiting for resets? It seems we have a new model ...",
-        "url": "https://www.reddit.com/r/codex/comments/1vhjy65/still_waiting_for_resets_it_seems_we_have_a_new/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:16:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w3khsc6u7uhh1.png?width=640&crop=smart&auto=webp&s=e73e7f9d07021d7ab13a4ae858cd087170179509"
-      },
-      {
         "rank": 5,
-        "title": "Please stop moving forward the weekly reset date",
-        "url": "https://www.reddit.com/r/codex/comments/1vi0385/please_stop_moving_forward_the_weekly_reset_date/",
-        "source": "r/codex",
+        "title": "Improved compression of Bad Apple into a Neural Network [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-07T13:04:10.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-07T09:06:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/op3rm5z65xhh1.png?width=640&crop=smart&auto=webp&s=eaf28da20b946a5af59dbee34cfbea020bb98608"
       },
       {
         "rank": 1,
@@ -205,6 +111,15 @@
       },
       {
         "rank": 2,
+        "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T06:54:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "spooky...",
         "url": "https://www.reddit.com/r/singularity/comments/1vhes22/spooky/",
         "source": "r/singularity",
@@ -214,26 +129,7 @@
         "thumbnail": "https://external-preview.redd.it/YW9jZ28zd2g3dGhoMaal2tgEvmMuom6sYbAK9mnxPfv-X9SrhN9KcZa4Llfz.png?width=640&crop=smart&auto=webp&s=a9906b8ec05dbf2640d5dc27df4f0b79ca5d29c7"
       },
       {
-        "rank": 3,
-        "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T06:54:39.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 4,
-        "title": "Anthropic CEO reportedly worried new hires only care about money — while hiring an event planner for 6x the going rate",
-        "url": "https://www.reddit.com/r/singularity/comments/1vhe3a1/anthropic_ceo_reportedly_worried_new_hires_only/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-06T19:25:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/sXd7ntiUtq7OzBo0uunvKNcBJCGLHDVNfS0PbFehJr4.jpeg?width=640&crop=smart&auto=webp&s=d93a627a06ef149cd7b80a66e93159be0532f7ba"
-      },
-      {
-        "rank": 5,
         "title": "ByteDance is at an early stage of training a model with as many as 10 trillion parameters",
         "url": "https://www.reddit.com/r/singularity/comments/1vhta3g/bytedance_is_at_an_early_stage_of_training_a/",
         "source": "r/singularity",
@@ -241,6 +137,110 @@
         "publishedAt": "2026-08-07T06:56:05.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/nZ9B7T2Nd5woQojBR8yP8d6-2_Q5zWhUteV7hAFWXRU.png?width=640&crop=smart&auto=webp&s=d7f17f8115ca4e6ff8da81beeb7022321ee0101a"
+      },
+      {
+        "rank": 5,
+        "title": "Guy in driver seat got knocked out by a flying tire, saved by EV car software which detected the impact, stopped the car, called police and ambulance after driver being non responsive",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhtm16/guy_in_driver_seat_got_knocked_out_by_a_flying/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T07:15:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aDJrMm1leDdsd2hoMaucyENeAqmJMwpkcUFHioozOA7iSUOiDyXKH1HzbGLB.png?width=640&crop=smart&auto=webp&s=91efa43a3cecf894181a786e835477f0619205a7"
+      },
+      {
+        "rank": 1,
+        "title": "I spent $3000 to build my dream game on Claude Code. It's finally done. Thoughts?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi1iv9/i_spent_3000_to_build_my_dream_game_on_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T14:03:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vzbt02r0myhh1.jpeg?width=640&crop=smart&auto=webp&s=3ccaf125dd1812ac925605cfeb602a5303487cc3"
+      },
+      {
+        "rank": 2,
+        "title": "I used Claude cli to vibe code a compass app to find the nearest toilet, called Compiss.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vi5guo/i_used_claude_cli_to_vibe_code_a_compass_app_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T16:31:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tx9gkl7lazhh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=3b1033fbeecc6920a56d35188ad43cab97ffc6c2"
+      },
+      {
+        "rank": 3,
+        "title": "I benchmarked 10 LLMs on building towers in a physics sim. Claude Opus 5 won",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhcv9e/i_benchmarked_10_llms_on_building_towers_in_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T18:41:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Ym02bXg3NW90c2hoMXP9y546x76SnQXQTniZ5yIEO_qgPesRBX3Sf-pfP-8A.png?width=640&crop=smart&auto=webp&s=7332d47b0e2cdae858183b7bd83948d17a1a855c"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5 is literally useless for documentation",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:40:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me. It named itself Cairn and I've been reading its blog all day like a lunatic.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhp54h/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T03:14:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Am I destroying jobs?",
+        "url": "https://www.reddit.com/r/codex/comments/1vhkir1/am_i_destroying_jobs/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:41:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "End of resets?",
+        "url": "https://www.reddit.com/r/codex/comments/1vhjo79/end_of_resets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:05:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "It looks like a new banked r*** is coming",
+        "url": "https://www.reddit.com/r/codex/comments/1vhe9n7/it_looks_like_a_new_banked_r_is_coming/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T19:32:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Still waiting for resets? It seems we have a new model ...",
+        "url": "https://www.reddit.com/r/codex/comments/1vhjy65/still_waiting_for_resets_it_seems_we_have_a_new/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-06T23:16:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w3khsc6u7uhh1.png?width=640&crop=smart&auto=webp&s=e73e7f9d07021d7ab13a4ae858cd087170179509"
+      },
+      {
+        "rank": 5,
+        "title": "Please stop moving forward the weekly reset date",
+        "url": "https://www.reddit.com/r/codex/comments/1vi0385/please_stop_moving_forward_the_weekly_reset_date/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T13:04:10.000Z",
+        "category": "reddit"
       }
     ]
   }

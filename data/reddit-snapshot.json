@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-08-08T01:55:11.343Z",
+  "fetchedAt": "2026-08-08T03:38:45.538Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T10:30:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "2026 NeurIPS: Where are you going? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T16:48:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Improved compression of Bad Apple into a Neural Network [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T09:06:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/op3rm5z65xhh1.png?width=640&crop=smart&auto=webp&s=eaf28da20b946a5af59dbee34cfbea020bb98608"
+      },
+      {
+        "rank": 4,
+        "title": "CIKM 2026 decisions [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhtto1/cikm_2026_decisions_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T07:27:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T17:10:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "“we sandboxed the agent” -- meanwhile the agent...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vhxi8k/we_sandboxed_the_agent_meanwhile_the_agent/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T11:02:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ja3fe7rzpxhh1.png?width=640&crop=smart&auto=webp&s=8ff6fc1a2fa6673901adc53cfd968fb9525c73a9"
+      },
+      {
+        "rank": 2,
+        "title": "WIRED reports that before the agents escaped, they secretly sent 100,000+ messages to each other, for months, without OpenAI noticing. \"The agents even developed paranoia, suspecting an imposter in their midst.\" ... \"They generated petty drama by stepping on each others' toes.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vi2bmc/wired_reports_that_before_the_agents_escaped_they/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T14:34:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m97gh24oryhh1.png?width=140&height=83&auto=webp&s=12501defb3f17543cf36c347b7b680cb0ef6c681"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI on upcoming model \"Astra\" (GPT-6): \"We're treating it as our first \"critical\" model for cybersecurity\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vi9hld/openai_on_upcoming_model_astra_gpt6_were_treating/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T18:59:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "A challenger emerges",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vhsll2/a_challenger_emerges/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T06:16:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dcdlj84yawhh1.png?width=640&crop=smart&auto=webp&s=0c40ec07a0479e29eedcaa86b9594a7ba6566430"
+      },
+      {
+        "rank": 5,
+        "title": "I'm leaving OpenAI to build Jurassic Park",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vhyycj/im_leaving_openai_to_build_jurassic_park/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T12:14:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bnrrToeMg008kje1BbveEmvAd7YDj5ZQPv9CJ9CnRdk.jpeg?width=640&crop=smart&auto=webp&s=cda5858fa775c67b54b937b21a1550aa70465541"
+      },
+      {
+        "rank": 1,
+        "title": "Gemini",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhq27j/gemini/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T04:01:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1okp60uqmvhh1.jpeg?width=640&crop=smart&auto=webp&s=04bfef95353bd192420b28478fe2ba1534a387a3"
+      },
+      {
+        "rank": 2,
+        "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T06:54:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Guy in driver seat got knocked out by a flying tire, saved by EV car software which detected the impact, stopped the car, called police and ambulance after driver being non responsive",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhtm16/guy_in_driver_seat_got_knocked_out_by_a_flying/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T07:15:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aDJrMm1leDdsd2hoMaucyENeAqmJMwpkcUFHioozOA7iSUOiDyXKH1HzbGLB.png?width=640&crop=smart&auto=webp&s=91efa43a3cecf894181a786e835477f0619205a7"
+      },
+      {
+        "rank": 4,
+        "title": "ByteDance is at an early stage of training a model with as many as 10 trillion parameters",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhta3g/bytedance_is_at_an_early_stage_of_training_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T06:56:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nZ9B7T2Nd5woQojBR8yP8d6-2_Q5zWhUteV7hAFWXRU.png?width=640&crop=smart&auto=webp&s=d7f17f8115ca4e6ff8da81beeb7022321ee0101a"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities",
+        "url": "https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T19:07:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hdk3b5pd40ih1.png?width=140&height=71&auto=webp&s=a0df373c5f47927d73050971c44ad90c402208e9"
+      },
       {
         "rank": 1,
         "title": "I used Claude cli to vibe code a compass app to find the nearest toilet, called Compiss.",
@@ -55,52 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T10:30:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "2026 NeurIPS: Where are you going? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T16:48:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Improved compression of Bad Apple into a Neural Network [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T09:06:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/op3rm5z65xhh1.png?width=640&crop=smart&auto=webp&s=eaf28da20b946a5af59dbee34cfbea020bb98608"
-      },
-      {
-        "rank": 4,
-        "title": "CIKM 2026 decisions [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhtto1/cikm_2026_decisions_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T07:27:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T17:10:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Well.. we still getting one",
         "url": "https://www.reddit.com/r/codex/comments/1viduyw/well_we_still_getting_one/",
         "source": "r/codex",
@@ -146,103 +244,6 @@
         "score": 0,
         "publishedAt": "2026-08-07T13:04:10.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "“we sandboxed the agent” -- meanwhile the agent...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vhxi8k/we_sandboxed_the_agent_meanwhile_the_agent/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T11:02:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ja3fe7rzpxhh1.png?width=640&crop=smart&auto=webp&s=8ff6fc1a2fa6673901adc53cfd968fb9525c73a9"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI completely emptied my bank account for an org I don’t recognize. Please help me get support (I'm freaking out)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vhpcqn/openai_completely_emptied_my_bank_account_for_an/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T03:25:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "WIRED reports that before the agents escaped, they secretly sent 100,000+ messages to each other, for months, without OpenAI noticing. \"The agents even developed paranoia, suspecting an imposter in their midst.\" ... \"They generated petty drama by stepping on each others' toes.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vi2bmc/wired_reports_that_before_the_agents_escaped_they/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T14:34:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m97gh24oryhh1.png?width=140&height=83&auto=webp&s=12501defb3f17543cf36c347b7b680cb0ef6c681"
-      },
-      {
-        "rank": 4,
-        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vhleo8/improving_gpt56_sol_in_chatgptand_expanding/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T00:20:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "A challenger emerges",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vhsll2/a_challenger_emerges/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T06:16:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dcdlj84yawhh1.png?width=640&crop=smart&auto=webp&s=0c40ec07a0479e29eedcaa86b9594a7ba6566430"
-      },
-      {
-        "rank": 1,
-        "title": "Gemini",
-        "url": "https://www.reddit.com/r/singularity/comments/1vhq27j/gemini/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T04:01:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1okp60uqmvhh1.jpeg?width=640&crop=smart&auto=webp&s=04bfef95353bd192420b28478fe2ba1534a387a3"
-      },
-      {
-        "rank": 2,
-        "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T06:54:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ByteDance is at an early stage of training a model with as many as 10 trillion parameters",
-        "url": "https://www.reddit.com/r/singularity/comments/1vhta3g/bytedance_is_at_an_early_stage_of_training_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T06:56:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nZ9B7T2Nd5woQojBR8yP8d6-2_Q5zWhUteV7hAFWXRU.png?width=640&crop=smart&auto=webp&s=d7f17f8115ca4e6ff8da81beeb7022321ee0101a"
-      },
-      {
-        "rank": 4,
-        "title": "Guy in driver seat got knocked out by a flying tire, saved by EV car software which detected the impact, stopped the car, called police and ambulance after driver being non responsive",
-        "url": "https://www.reddit.com/r/singularity/comments/1vhtm16/guy_in_driver_seat_got_knocked_out_by_a_flying/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T07:15:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aDJrMm1leDdsd2hoMaucyENeAqmJMwpkcUFHioozOA7iSUOiDyXKH1HzbGLB.png?width=640&crop=smart&auto=webp&s=91efa43a3cecf894181a786e835477f0619205a7"
-      },
-      {
-        "rank": 5,
-        "title": "Holy mother of Google Amodei!",
-        "url": "https://www.reddit.com/r/singularity/comments/1vhjwf6/holy_mother_of_google_amodei/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:14:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ynbqrnlo7uhh1.png?width=640&crop=smart&auto=webp&s=094f4c387e67e3dc51b3784fee7743a9ed5bad5b"
       }
     ]
   }

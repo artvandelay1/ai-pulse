@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T18:44:49.294Z",
+  "fetchedAt": "2026-08-08T19:35:11.155Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "Evaluation metrics - [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
-        "source": "r/MachineLearning",
+        "title": "When your 11-year-old daughter uses AI to build her own browser…",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vivt77/when_your_11yearold_daughter_uses_ai_to_build_her/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-08T17:18:05.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-08T13:17:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p24clsnvi5ih1.png?width=640&crop=smart&auto=webp&s=e19c776e9ed8ec89febbe4c61790fc569b0c0086"
       },
       {
         "rank": 2,
+        "title": "I asked Claude to scare me, i'm not sure I like the response.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vihql9/i_asked_claude_to_scare_me_im_not_sure_i_like_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T00:39:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I used Claude to build a poker app where you deal real cards and everyone uses their phone as their chip stack. It’s now been used to play 19,072 poker hands.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vii2zl/i_used_claude_to_build_a_poker_app_where_you_deal/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T00:56:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/flb9i34ru1ih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ec8524adb6cced41952faa6bb459abbba9e4f250"
+      },
+      {
+        "rank": 4,
+        "title": "PSA: Be careful letting Claude use WebFetch for research 😵‍💫",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vim8b7/psa_be_careful_letting_claude_use_webfetch_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T04:22:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude code : your sessions can now message each other.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vio0w9/claude_code_your_sessions_can_now_message_each/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T06:00:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0qz9yyowc3ih1.jpg?width=140&height=70&auto=webp&s=20f5576ccd4f42b2b88769aff9f8c6210ff0cfd1"
+      },
+      {
+        "rank": 1,
         "title": "AACL-IJCNLP Commitment Submission Number [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
         "source": "r/MachineLearning",
@@ -24,12 +63,21 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "ICDE Results [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-08T17:22:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Evaluation metrics - [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:18:05.000Z",
         "category": "reddit"
       },
       {
@@ -39,6 +87,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-08T09:06:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Astra is confirmed and Leo was right all along (as usual)",
+        "url": "https://www.reddit.com/r/codex/comments/1vigd1d/astra_is_confirmed_and_leo_was_right_all_along_as/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T23:36:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qxru3uoig1ih1.jpeg?width=640&crop=smart&auto=webp&s=884452dfe9e54db65f509b921833d0d80abee0bb"
+      },
+      {
+        "rank": 2,
+        "title": "Resets are a SCAM",
+        "url": "https://www.reddit.com/r/codex/comments/1vierd1/resets_are_a_scam/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T22:26:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/movm9l2k31ih1.png?width=140&height=42&auto=webp&s=ebbf45354d0554a21299b459ee499d5c447fdc12"
+      },
+      {
+        "rank": 3,
+        "title": "Well.. we still getting one",
+        "url": "https://www.reddit.com/r/codex/comments/1viduyw/well_we_still_getting_one/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T21:48:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2y56qiu8x0ih1.jpeg?width=640&crop=smart&auto=webp&s=108b8dcb1e7b651a6506f3116f6cc4a8370d2fdf"
+      },
+      {
+        "rank": 4,
+        "title": "Why did he say this and then not reset lmao 😵",
+        "url": "https://www.reddit.com/r/codex/comments/1vivnew/why_did_he_say_this_and_then_not_reset_lmao/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-08T13:10:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/spcoqbejh5ih1.png?width=640&crop=smart&auto=webp&s=10d24aee4098d0b9500dba1b7dad1feeb21378de"
+      },
+      {
+        "rank": 5,
+        "title": "Why would I choose to buy codex credits instead of buying a new account?",
+        "url": "https://www.reddit.com/r/codex/comments/1vipsfa/why_would_i_choose_to_buy_codex_credits_instead/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-08T07:41:36.000Z",
         "category": "reddit"
       },
       {
@@ -138,103 +235,6 @@
         "publishedAt": "2026-08-07T23:06:43.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/RHDZr-hn2pPvmWq0-Hj7dfOg6U7rHcLkz0nca7xt1cg.jpeg?width=640&crop=smart&auto=webp&s=2d28e590574ac1b4299d3f8853e89be16f5d2b10"
-      },
-      {
-        "rank": 1,
-        "title": "I asked Claude to scare me, i'm not sure I like the response.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vihql9/i_asked_claude_to_scare_me_im_not_sure_i_like_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T00:39:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I used Claude to build a poker app where you deal real cards and everyone uses their phone as their chip stack. It’s now been used to play 19,072 poker hands.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vii2zl/i_used_claude_to_build_a_poker_app_where_you_deal/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T00:56:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/flb9i34ru1ih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=ec8524adb6cced41952faa6bb459abbba9e4f250"
-      },
-      {
-        "rank": 3,
-        "title": "When your 11-year-old daughter uses AI to build her own browser…",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vivt77/when_your_11yearold_daughter_uses_ai_to_build_her/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T13:17:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p24clsnvi5ih1.png?width=640&crop=smart&auto=webp&s=e19c776e9ed8ec89febbe4c61790fc569b0c0086"
-      },
-      {
-        "rank": 4,
-        "title": "PSA: Be careful letting Claude use WebFetch for research 😵‍💫",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vim8b7/psa_be_careful_letting_claude_use_webfetch_for/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T04:22:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude code : your sessions can now message each other.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vio0w9/claude_code_your_sessions_can_now_message_each/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T06:00:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0qz9yyowc3ih1.jpg?width=140&height=70&auto=webp&s=20f5576ccd4f42b2b88769aff9f8c6210ff0cfd1"
-      },
-      {
-        "rank": 1,
-        "title": "Astra is confirmed and Leo was right all along (as usual)",
-        "url": "https://www.reddit.com/r/codex/comments/1vigd1d/astra_is_confirmed_and_leo_was_right_all_along_as/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-07T23:36:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qxru3uoig1ih1.jpeg?width=640&crop=smart&auto=webp&s=884452dfe9e54db65f509b921833d0d80abee0bb"
-      },
-      {
-        "rank": 2,
-        "title": "Well.. we still getting one",
-        "url": "https://www.reddit.com/r/codex/comments/1viduyw/well_we_still_getting_one/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-07T21:48:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2y56qiu8x0ih1.jpeg?width=640&crop=smart&auto=webp&s=108b8dcb1e7b651a6506f3116f6cc4a8370d2fdf"
-      },
-      {
-        "rank": 3,
-        "title": "Resets are a SCAM",
-        "url": "https://www.reddit.com/r/codex/comments/1vierd1/resets_are_a_scam/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-07T22:26:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/movm9l2k31ih1.png?width=140&height=42&auto=webp&s=ebbf45354d0554a21299b459ee499d5c447fdc12"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI is delaying their next model Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1vi7mpc/openai_is_delaying_their_next_model_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-07T17:51:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Why did he say this and then not reset lmao 😵",
-        "url": "https://www.reddit.com/r/codex/comments/1vivnew/why_did_he_say_this_and_then_not_reset_lmao/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-08T13:10:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/spcoqbejh5ih1.png?width=640&crop=smart&auto=webp&s=10d24aee4098d0b9500dba1b7dad1feeb21378de"
       }
     ]
   }

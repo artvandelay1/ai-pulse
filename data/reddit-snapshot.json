@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T22:35:49.371Z",
+  "fetchedAt": "2026-08-08T23:34:48.942Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T22:12:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "NeurIPS OpenReview Modified Timeline [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj6ov3/neurips_openreview_modified_timeline_d/",
         "source": "r/MachineLearning",
@@ -15,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
         "source": "r/MachineLearning",
@@ -24,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Evaluation metrics - [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
         "source": "r/MachineLearning",
@@ -33,21 +42,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "AACL-IJCNLP Commitment Submission Number [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-08T15:17:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "ICDE Results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T17:22:57.000Z",
         "category": "reddit"
       },
       {
@@ -121,13 +121,12 @@
       },
       {
         "rank": 3,
-        "title": "Sam on Astra’s delayed release",
-        "url": "https://www.reddit.com/r/singularity/comments/1vifymf/sam_on_astras_delayed_release/",
+        "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
+        "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-07T23:18:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/786xxw09d1ih1.png?width=640&crop=smart&auto=webp&s=c984e646e34e43afde303abd4d316cc0d657adba"
+        "publishedAt": "2026-08-08T19:52:47.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -141,12 +140,13 @@
       },
       {
         "rank": 5,
-        "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
-        "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
+        "title": "Titles are hard",
+        "url": "https://www.reddit.com/r/singularity/comments/1vipm8h/titles_are_hard/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-08T19:52:47.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-08T07:31:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kl3scssws3ih1.png?width=640&crop=smart&auto=webp&s=2f31cc0d7a26e76dfd395867b8741e967856945c"
       },
       {
         "rank": 1,

@@ -1,10 +1,126 @@
 {
-  "fetchedAt": "2026-08-08T16:40:09.989Z",
+  "fetchedAt": "2026-08-08T17:36:51.018Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "AACL-IJCNLP Commitment Submission Number [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T15:17:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T09:06:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI on upcoming model \"Astra\" (GPT-6): \"We're treating it as our first \"critical\" model for cybersecurity\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vi9hld/openai_on_upcoming_model_astra_gpt6_were_treating/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T18:59:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "37 people have left OpenAI or Anthropic to start companies in 2026. Here’s what they’re building.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1viizyv/37_people_have_left_openai_or_anthropic_to_start/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T01:41:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vivd9d/this_is_why_the_vast_majority_arent_taking_any/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T12:57:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1kn7z94ue5ih1.png?width=640&crop=smart&auto=webp&s=b0e665215ec9a1287b2abf0212a162112e809c9c"
+      },
+      {
+        "rank": 4,
+        "title": "Stack Overflow has gone from a peak of 207k questions in March 2014, down to 1.4k in July 2026",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vj0317/stack_overflow_has_gone_from_a_peak_of_207k/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T16:18:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0piwjqw6f6ih1.jpeg?width=640&crop=smart&auto=webp&s=896b946e703a6a9295f9b2d34edee31ee1d6791e"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities (I honestly don't think this is marketing from them this time)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vik0tm/gpt6_release_delayed_due_to_critical/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T02:31:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9fxor9clb2ih1.png?width=640&crop=smart&auto=webp&s=a0225bf48d1a69b39c5919fe9a7e1da5919a2ebb"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities",
+        "url": "https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T19:07:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hdk3b5pd40ih1.png?width=140&height=71&auto=webp&s=a0df373c5f47927d73050971c44ad90c402208e9"
+      },
+      {
+        "rank": 2,
+        "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
+        "url": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-08T13:01:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/11ht1un0g5ih1.png?width=640&crop=smart&auto=webp&s=2652fc46af65da2e4355b49b4688a07df812545a"
+      },
+      {
+        "rank": 3,
+        "title": "Sam on Astra’s delayed release",
+        "url": "https://www.reddit.com/r/singularity/comments/1vifymf/sam_on_astras_delayed_release/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T23:18:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/786xxw09d1ih1.png?width=640&crop=smart&auto=webp&s=c984e646e34e43afde303abd4d316cc0d657adba"
+      },
+      {
+        "rank": 4,
+        "title": "AI Model Trained In DNA Invents 16 New Viruses Not Found In Nature",
+        "url": "https://www.reddit.com/r/singularity/comments/1vioml5/ai_model_trained_in_dna_invents_16_new_viruses/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-08T06:34:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/RHwP9wfLO4doWMHwzgM2W0z7bQxHaLx0aTCGOIGfxT0.jpeg?width=640&crop=smart&auto=webp&s=42e0233d099dd7edb2798ed1e2d449a7660feb56"
+      },
+      {
+        "rank": 5,
+        "title": "Semianalysis on Gemini 3.5 Pro",
+        "url": "https://www.reddit.com/r/singularity/comments/1vi857m/semianalysis_on_gemini_35_pro/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T18:09:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bwtk7wp4uzhh1.png?width=640&crop=smart&auto=webp&s=2c3bb45380671ed391576b31bf7d3d2ba3b15600"
+      },
       {
         "rank": 1,
         "title": "I asked Claude to scare me, i'm not sure I like the response.",
@@ -55,52 +171,6 @@
       },
       {
         "rank": 1,
-        "title": "2026 NeurIPS: Where are you going? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T16:48:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T17:10:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Good OCR strategy for detecting doctor handwritting [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi7br1/good_ocr_strategy_for_detecting_doctor/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T17:40:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jisxcc2aozhh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=d10bd463a76f7383512d6b8ee30a5944aaa6f305"
-      },
-      {
-        "rank": 4,
-        "title": "AACL-IJCNLP Commitment Submission Number [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T15:17:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T09:06:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Astra is confirmed and Leo was right all along (as usual)",
         "url": "https://www.reddit.com/r/codex/comments/1vigd1d/astra_is_confirmed_and_leo_was_right_all_along_as/",
         "source": "r/codex",
@@ -147,104 +217,6 @@
         "publishedAt": "2026-08-08T13:10:02.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/spcoqbejh5ih1.png?width=640&crop=smart&auto=webp&s=10d24aee4098d0b9500dba1b7dad1feeb21378de"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI on upcoming model \"Astra\" (GPT-6): \"We're treating it as our first \"critical\" model for cybersecurity\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vi9hld/openai_on_upcoming_model_astra_gpt6_were_treating/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T18:59:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "37 people have left OpenAI or Anthropic to start companies in 2026. Here’s what they’re building.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1viizyv/37_people_have_left_openai_or_anthropic_to_start/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T01:41:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vivd9d/this_is_why_the_vast_majority_arent_taking_any/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T12:57:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1kn7z94ue5ih1.png?width=640&crop=smart&auto=webp&s=b0e665215ec9a1287b2abf0212a162112e809c9c"
-      },
-      {
-        "rank": 4,
-        "title": "Yikes",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vi5yr8/yikes/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T16:49:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tr2v3a9ffzhh1.png?width=640&crop=smart&auto=webp&s=a24b68aa618c1049644c05063bba61f49316f79a"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities (I honestly don't think this is marketing from them this time)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vik0tm/gpt6_release_delayed_due_to_critical/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T02:31:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9fxor9clb2ih1.png?width=640&crop=smart&auto=webp&s=a0225bf48d1a69b39c5919fe9a7e1da5919a2ebb"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities",
-        "url": "https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T19:07:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hdk3b5pd40ih1.png?width=140&height=71&auto=webp&s=a0df373c5f47927d73050971c44ad90c402208e9"
-      },
-      {
-        "rank": 2,
-        "title": "Sam on Astra’s delayed release",
-        "url": "https://www.reddit.com/r/singularity/comments/1vifymf/sam_on_astras_delayed_release/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T23:18:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/786xxw09d1ih1.png?width=640&crop=smart&auto=webp&s=c984e646e34e43afde303abd4d316cc0d657adba"
-      },
-      {
-        "rank": 3,
-        "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
-        "url": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-08T13:01:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/11ht1un0g5ih1.png?width=640&crop=smart&auto=webp&s=2652fc46af65da2e4355b49b4688a07df812545a"
-      },
-      {
-        "rank": 4,
-        "title": "AI Model Trained In DNA Invents 16 New Viruses Not Found In Nature",
-        "url": "https://www.reddit.com/r/singularity/comments/1vioml5/ai_model_trained_in_dna_invents_16_new_viruses/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-08T06:34:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/RHwP9wfLO4doWMHwzgM2W0z7bQxHaLx0aTCGOIGfxT0.jpeg?width=640&crop=smart&auto=webp&s=42e0233d099dd7edb2798ed1e2d449a7660feb56"
-      },
-      {
-        "rank": 5,
-        "title": "Re: SSI new model",
-        "url": "https://www.reddit.com/r/singularity/comments/1vi46aq/re_ssi_new_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T15:43:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6p0hdmoz3zhh1.jpeg?width=640&crop=smart&auto=webp&s=65fe8607639f356e5f9a4d84ed74e7ddd8c6a362"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T21:35:43.349Z",
+  "fetchedAt": "2026-08-08T22:35:49.371Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,24 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Evaluation metrics - [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T17:18:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "AACL-IJCNLP Commitment Submission Number [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T15:17:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS OpenReview Modified Timeline [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj6ov3/neurips_openreview_modified_timeline_d/",
         "source": "r/MachineLearning",
@@ -33,12 +15,30 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-08T18:42:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Evaluation metrics - [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:18:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AACL-IJCNLP Commitment Submission Number [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T15:17:06.000Z",
         "category": "reddit"
       },
       {
@@ -72,15 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "37 people have left OpenAI or Anthropic to start companies in 2026. Here’s what they’re building.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1viizyv/37_people_have_left_openai_or_anthropic_to_start/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T01:41:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vivd9d/this_is_why_the_vast_majority_arent_taking_any/",
         "source": "r/OpenAI",
@@ -88,6 +79,15 @@
         "publishedAt": "2026-08-08T12:57:40.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1kn7z94ue5ih1.png?width=640&crop=smart&auto=webp&s=b0e665215ec9a1287b2abf0212a162112e809c9c"
+      },
+      {
+        "rank": 4,
+        "title": "37 people have left OpenAI or Anthropic to start companies in 2026. Here’s what they’re building.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1viizyv/37_people_have_left_openai_or_anthropic_to_start/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T01:41:16.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -141,13 +141,12 @@
       },
       {
         "rank": 5,
-        "title": "Trump calls Texas’ data center opposition a “mistake”",
-        "url": "https://www.reddit.com/r/singularity/comments/1vifowi/trump_calls_texas_data_center_opposition_a_mistake/",
+        "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
+        "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-07T23:06:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/RHDZr-hn2pPvmWq0-Hj7dfOg6U7rHcLkz0nca7xt1cg.jpeg?width=640&crop=smart&auto=webp&s=2d28e590574ac1b4299d3f8853e89be16f5d2b10"
+        "publishedAt": "2026-08-08T19:52:47.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

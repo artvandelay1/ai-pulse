@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T19:35:11.155Z",
+  "fetchedAt": "2026-08-08T20:36:05.897Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -55,24 +55,6 @@
       },
       {
         "rank": 1,
-        "title": "AACL-IJCNLP Commitment Submission Number [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T15:17:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ICDE Results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T17:22:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Evaluation metrics - [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
         "source": "r/MachineLearning",
@@ -81,7 +63,34 @@
         "category": "reddit"
       },
       {
+        "rank": 2,
+        "title": "AACL-IJCNLP Commitment Submission Number [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T15:17:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T18:42:55.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 4,
+        "title": "ICDE Results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:22:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
         "source": "r/MachineLearning",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T23:39:07.786Z",
+  "fetchedAt": "2026-08-08T01:55:11.343Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,15 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "Opus 5 is literally useless for documentation",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhkhjx/opus_5_is_literally_useless_for_documentation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-06T23:40:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "People say Opus 5 is inaccessible but if you just read it in Werner Herzog's voice, it's fine",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vhyqee/people_say_opus_5_is_inaccessible_but_if_you_just/",
         "source": "r/ClaudeAI",
@@ -52,6 +43,15 @@
         "publishedAt": "2026-08-07T12:03:53.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ld54nnyn0yhh1.png?width=640&crop=smart&auto=webp&s=c8563f1ff72bddd499940df28093125eaecd8160"
+      },
+      {
+        "rank": 5,
+        "title": "I asked Claude to scare me, i'm not sure I like the response.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vihql9/i_asked_claude_to_scare_me_im_not_sure_i_like_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T00:39:59.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -64,15 +64,6 @@
       },
       {
         "rank": 2,
-        "title": "CIKM '26 Notification [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhmw48/cikm_26_notification_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T01:28:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "2026 NeurIPS: Where are you going? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vi5xz7/2026_neurips_where_are_you_going_d/",
         "source": "r/MachineLearning",
@@ -81,7 +72,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Improved compression of Bad Apple into a Neural Network [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
         "source": "r/MachineLearning",
@@ -91,7 +82,7 @@
         "thumbnail": "https://preview.redd.it/op3rm5z65xhh1.png?width=640&crop=smart&auto=webp&s=eaf28da20b946a5af59dbee34cfbea020bb98608"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "CIKM 2026 decisions [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vhtto1/cikm_2026_decisions_r/",
         "source": "r/MachineLearning",
@@ -100,13 +91,23 @@
         "category": "reddit"
       },
       {
+        "rank": 5,
+        "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T17:10:03.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "Am I destroying jobs?",
-        "url": "https://www.reddit.com/r/codex/comments/1vhkir1/am_i_destroying_jobs/",
+        "title": "Well.. we still getting one",
+        "url": "https://www.reddit.com/r/codex/comments/1viduyw/well_we_still_getting_one/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-06T23:41:55.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-07T21:48:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2y56qiu8x0ih1.jpeg?width=640&crop=smart&auto=webp&s=108b8dcb1e7b651a6506f3116f6cc4a8370d2fdf"
       },
       {
         "rank": 2,
@@ -119,30 +120,31 @@
       },
       {
         "rank": 3,
-        "title": "Well.. we still getting one",
-        "url": "https://www.reddit.com/r/codex/comments/1viduyw/well_we_still_getting_one/",
+        "title": "Resets are a SCAM",
+        "url": "https://www.reddit.com/r/codex/comments/1vierd1/resets_are_a_scam/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-07T21:48:46.000Z",
+        "publishedAt": "2026-08-07T22:26:11.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2y56qiu8x0ih1.jpeg?width=640&crop=smart&auto=webp&s=108b8dcb1e7b651a6506f3116f6cc4a8370d2fdf"
+        "thumbnail": "https://preview.redd.it/movm9l2k31ih1.png?width=140&height=42&auto=webp&s=ebbf45354d0554a21299b459ee499d5c447fdc12"
       },
       {
         "rank": 4,
+        "title": "Astra is confirmed and Leo was right all along (as usual)",
+        "url": "https://www.reddit.com/r/codex/comments/1vigd1d/astra_is_confirmed_and_leo_was_right_all_along_as/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-07T23:36:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qxru3uoig1ih1.jpeg?width=640&crop=smart&auto=webp&s=884452dfe9e54db65f509b921833d0d80abee0bb"
+      },
+      {
+        "rank": 5,
         "title": "Please stop moving forward the weekly reset date",
         "url": "https://www.reddit.com/r/codex/comments/1vi0385/please_stop_moving_forward_the_weekly_reset_date/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-07T13:04:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "youd be surprised the ammount of things you can do with gpt 5.6 luna LOW... also its practically unlimited",
-        "url": "https://www.reddit.com/r/codex/comments/1vi4dyg/youd_be_surprised_the_ammount_of_things_you_can/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-07T15:51:52.000Z",
         "category": "reddit"
       },
       {

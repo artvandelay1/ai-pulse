@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T14:37:43.299Z",
+  "fetchedAt": "2026-08-08T15:35:50.024Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -62,16 +62,6 @@
       },
       {
         "rank": 3,
-        "title": "Yikes",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vi5yr8/yikes/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T16:49:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tr2v3a9ffzhh1.png?width=640&crop=smart&auto=webp&s=a24b68aa618c1049644c05063bba61f49316f79a"
-      },
-      {
-        "rank": 4,
         "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vivd9d/this_is_why_the_vast_majority_arent_taking_any/",
         "source": "r/OpenAI",
@@ -79,6 +69,16 @@
         "publishedAt": "2026-08-08T12:57:40.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1kn7z94ue5ih1.png?width=640&crop=smart&auto=webp&s=b0e665215ec9a1287b2abf0212a162112e809c9c"
+      },
+      {
+        "rank": 4,
+        "title": "Yikes",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vi5yr8/yikes/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T16:49:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tr2v3a9ffzhh1.png?width=640&crop=smart&auto=webp&s=a24b68aa618c1049644c05063bba61f49316f79a"
       },
       {
         "rank": 5,
@@ -112,16 +112,6 @@
       },
       {
         "rank": 3,
-        "title": "Re: SSI new model",
-        "url": "https://www.reddit.com/r/singularity/comments/1vi46aq/re_ssi_new_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T15:43:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6p0hdmoz3zhh1.jpeg?width=640&crop=smart&auto=webp&s=65fe8607639f356e5f9a4d84ed74e7ddd8c6a362"
-      },
-      {
-        "rank": 4,
         "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
         "url": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
         "source": "r/singularity",
@@ -131,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/11ht1un0g5ih1.png?width=640&crop=smart&auto=webp&s=2652fc46af65da2e4355b49b4688a07df812545a"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "AI Model Trained In DNA Invents 16 New Viruses Not Found In Nature",
         "url": "https://www.reddit.com/r/singularity/comments/1vioml5/ai_model_trained_in_dna_invents_16_new_viruses/",
         "source": "r/singularity",
@@ -139,6 +129,16 @@
         "publishedAt": "2026-08-08T06:34:02.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/RHwP9wfLO4doWMHwzgM2W0z7bQxHaLx0aTCGOIGfxT0.jpeg?width=640&crop=smart&auto=webp&s=42e0233d099dd7edb2798ed1e2d449a7660feb56"
+      },
+      {
+        "rank": 5,
+        "title": "Re: SSI new model",
+        "url": "https://www.reddit.com/r/singularity/comments/1vi46aq/re_ssi_new_model/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T15:43:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6p0hdmoz3zhh1.jpeg?width=640&crop=smart&auto=webp&s=65fe8607639f356e5f9a4d84ed74e7ddd8c6a362"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T03:38:45.538Z",
+  "fetchedAt": "2026-08-08T05:02:42.409Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -102,16 +102,6 @@
       },
       {
         "rank": 1,
-        "title": "Gemini",
-        "url": "https://www.reddit.com/r/singularity/comments/1vhq27j/gemini/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-07T04:01:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1okp60uqmvhh1.jpeg?width=640&crop=smart&auto=webp&s=04bfef95353bd192420b28478fe2ba1534a387a3"
-      },
-      {
-        "rank": 2,
         "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
         "url": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
         "source": "r/singularity",
@@ -120,7 +110,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Guy in driver seat got knocked out by a flying tire, saved by EV car software which detected the impact, stopped the car, called police and ambulance after driver being non responsive",
         "url": "https://www.reddit.com/r/singularity/comments/1vhtm16/guy_in_driver_seat_got_knocked_out_by_a_flying/",
         "source": "r/singularity",
@@ -130,7 +120,7 @@
         "thumbnail": "https://external-preview.redd.it/aDJrMm1leDdsd2hoMaucyENeAqmJMwpkcUFHioozOA7iSUOiDyXKH1HzbGLB.png?width=640&crop=smart&auto=webp&s=91efa43a3cecf894181a786e835477f0619205a7"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ByteDance is at an early stage of training a model with as many as 10 trillion parameters",
         "url": "https://www.reddit.com/r/singularity/comments/1vhta3g/bytedance_is_at_an_early_stage_of_training_a/",
         "source": "r/singularity",
@@ -140,7 +130,7 @@
         "thumbnail": "https://external-preview.redd.it/nZ9B7T2Nd5woQojBR8yP8d6-2_Q5zWhUteV7hAFWXRU.png?width=640&crop=smart&auto=webp&s=d7f17f8115ca4e6ff8da81beeb7022321ee0101a"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities",
         "url": "https://www.reddit.com/r/singularity/comments/1vi9p6t/gpt6_release_delayed_due_to_critical/",
         "source": "r/singularity",
@@ -148,6 +138,16 @@
         "publishedAt": "2026-08-07T19:07:14.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/hdk3b5pd40ih1.png?width=140&height=71&auto=webp&s=a0df373c5f47927d73050971c44ad90c402208e9"
+      },
+      {
+        "rank": 5,
+        "title": "\"OpenAI has overcome their pre-training issues, and a much larger model code named “Doug” is actively in the works\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vhvx2o/openai_has_overcome_their_pretraining_issues_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-07T09:34:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DGGVajhGZ-oq3DncLa0Tpaxq9thGUllKhJSR8MDMBvE.jpeg?width=640&crop=smart&auto=webp&s=665303f53066ac8f5d1f744fdf682ba1b9e9542a"
       },
       {
         "rank": 1,

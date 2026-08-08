@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T08:49:11.002Z",
+  "fetchedAt": "2026-08-08T09:43:07.773Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -74,16 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "Improved compression of Bad Apple into a Neural Network [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-07T09:06:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/op3rm5z65xhh1.png?width=640&crop=smart&auto=webp&s=eaf28da20b946a5af59dbee34cfbea020bb98608"
-      },
-      {
-        "rank": 4,
         "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
         "source": "r/MachineLearning",
@@ -92,7 +82,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Good OCR strategy for detecting doctor handwritting [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vi7br1/good_ocr_strategy_for_detecting_doctor/",
         "source": "r/MachineLearning",
@@ -100,6 +90,15 @@
         "publishedAt": "2026-08-07T17:40:14.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jisxcc2aozhh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=d10bd463a76f7383512d6b8ee30a5944aaa6f305"
+      },
+      {
+        "rank": 5,
+        "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-07T13:14:39.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T10:39:46.767Z",
+  "fetchedAt": "2026-08-08T11:34:42.608Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -53,16 +53,6 @@
       },
       {
         "rank": 1,
-        "title": "“we sandboxed the agent” -- meanwhile the agent...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vhxi8k/we_sandboxed_the_agent_meanwhile_the_agent/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T11:02:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ja3fe7rzpxhh1.png?width=640&crop=smart&auto=webp&s=8ff6fc1a2fa6673901adc53cfd968fb9525c73a9"
-      },
-      {
-        "rank": 2,
         "title": "WIRED reports that before the agents escaped, they secretly sent 100,000+ messages to each other, for months, without OpenAI noticing. \"The agents even developed paranoia, suspecting an imposter in their midst.\" ... \"They generated petty drama by stepping on each others' toes.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vi2bmc/wired_reports_that_before_the_agents_escaped_they/",
         "source": "r/OpenAI",
@@ -72,7 +62,7 @@
         "thumbnail": "https://preview.redd.it/m97gh24oryhh1.png?width=140&height=83&auto=webp&s=12501defb3f17543cf36c347b7b680cb0ef6c681"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "OpenAI on upcoming model \"Astra\" (GPT-6): \"We're treating it as our first \"critical\" model for cybersecurity\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vi9hld/openai_on_upcoming_model_astra_gpt6_were_treating/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "37 people have left OpenAI or Anthropic to start companies in 2026. Here’s what they’re building.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1viizyv/37_people_have_left_openai_or_anthropic_to_start/",
         "source": "r/OpenAI",
@@ -90,7 +80,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "I'm leaving OpenAI to build Jurassic Park",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vhyycj/im_leaving_openai_to_build_jurassic_park/",
         "source": "r/OpenAI",
@@ -98,6 +88,16 @@
         "publishedAt": "2026-08-07T12:14:13.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/bnrrToeMg008kje1BbveEmvAd7YDj5ZQPv9CJ9CnRdk.jpeg?width=640&crop=smart&auto=webp&s=cda5858fa775c67b54b937b21a1550aa70465541"
+      },
+      {
+        "rank": 5,
+        "title": "Yikes",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vi5yr8/yikes/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-07T16:49:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tr2v3a9ffzhh1.png?width=640&crop=smart&auto=webp&s=a24b68aa618c1049644c05063bba61f49316f79a"
       },
       {
         "rank": 1,

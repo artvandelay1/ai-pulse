@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T17:36:51.018Z",
+  "fetchedAt": "2026-08-08T18:44:49.294Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "Evaluation metrics - [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:18:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "AACL-IJCNLP Commitment Submission Number [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
         "source": "r/MachineLearning",
@@ -15,7 +24,16 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "title": "ICDE Results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:22:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
         "source": "r/MachineLearning",
@@ -63,13 +81,13 @@
       },
       {
         "rank": 5,
-        "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities (I honestly don't think this is marketing from them this time)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vik0tm/gpt6_release_delayed_due_to_critical/",
+        "title": "Your scientists were so... uh...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vj1ffo/your_scientists_were_so_uh/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-08T02:31:55.000Z",
+        "publishedAt": "2026-08-08T17:12:30.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9fxor9clb2ih1.png?width=640&crop=smart&auto=webp&s=a0225bf48d1a69b39c5919fe9a7e1da5919a2ebb"
+        "thumbnail": "https://preview.redd.it/l1pa814uo6ih1.png?width=640&crop=smart&auto=webp&s=121a4a1c7464bd67740556e47436a6c893a8af69"
       },
       {
         "rank": 1,
@@ -113,13 +131,13 @@
       },
       {
         "rank": 5,
-        "title": "Semianalysis on Gemini 3.5 Pro",
-        "url": "https://www.reddit.com/r/singularity/comments/1vi857m/semianalysis_on_gemini_35_pro/",
+        "title": "Trump calls Texas’ data center opposition a “mistake”",
+        "url": "https://www.reddit.com/r/singularity/comments/1vifowi/trump_calls_texas_data_center_opposition_a_mistake/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-07T18:09:55.000Z",
+        "publishedAt": "2026-08-07T23:06:43.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bwtk7wp4uzhh1.png?width=640&crop=smart&auto=webp&s=2c3bb45380671ed391576b31bf7d3d2ba3b15600"
+        "thumbnail": "https://external-preview.redd.it/RHDZr-hn2pPvmWq0-Hj7dfOg6U7rHcLkz0nca7xt1cg.jpeg?width=640&crop=smart&auto=webp&s=2d28e590574ac1b4299d3f8853e89be16f5d2b10"
       },
       {
         "rank": 1,

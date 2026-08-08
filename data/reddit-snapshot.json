@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T11:34:42.608Z",
+  "fetchedAt": "2026-08-08T12:57:49.231Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -81,16 +81,6 @@
       },
       {
         "rank": 4,
-        "title": "I'm leaving OpenAI to build Jurassic Park",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vhyycj/im_leaving_openai_to_build_jurassic_park/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-07T12:14:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bnrrToeMg008kje1BbveEmvAd7YDj5ZQPv9CJ9CnRdk.jpeg?width=640&crop=smart&auto=webp&s=cda5858fa775c67b54b937b21a1550aa70465541"
-      },
-      {
-        "rank": 5,
         "title": "Yikes",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vi5yr8/yikes/",
         "source": "r/OpenAI",
@@ -98,6 +88,16 @@
         "publishedAt": "2026-08-07T16:49:30.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tr2v3a9ffzhh1.png?width=640&crop=smart&auto=webp&s=a24b68aa618c1049644c05063bba61f49316f79a"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6 release delayed due to \"critical\" cybersecurity capabilities (I honestly don't think this is marketing from them this time)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vik0tm/gpt6_release_delayed_due_to_critical/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T02:31:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9fxor9clb2ih1.png?width=640&crop=smart&auto=webp&s=a0225bf48d1a69b39c5919fe9a7e1da5919a2ebb"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T16:42:12.001Z",
+  "fetchedAt": "2026-08-09T17:37:08.203Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,20 +17,20 @@
       },
       {
         "rank": 2,
-        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T03:34:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-09T13:48:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T03:34:16.000Z",
         "category": "reddit"
       },
       {
@@ -81,11 +81,11 @@
       },
       {
         "rank": 4,
-        "title": "ICDE Results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
+        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-08T17:22:57.000Z",
+        "publishedAt": "2026-08-09T10:55:50.000Z",
         "category": "reddit"
       },
       {
@@ -109,16 +109,6 @@
       },
       {
         "rank": 2,
-        "title": "3 Day Notice on Reset. Progress?",
-        "url": "https://www.reddit.com/r/codex/comments/1vj6eqa/3_day_notice_on_reset_progress/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-08T20:37:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eo4j9qadp7ih1.jpeg?width=640&crop=smart&auto=webp&s=5d4476ffe03a26fbaa02a3dba58ed7ca1ac48e63"
-      },
-      {
-        "rank": 3,
         "title": "1 full banked re$et since this, which was less than a month ago. Bravo!",
         "url": "https://www.reddit.com/r/codex/comments/1vjhbsq/1_full_banked_reet_since_this_which_was_less_than/",
         "source": "r/codex",
@@ -126,6 +116,16 @@
         "publishedAt": "2026-08-09T05:28:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7kchs6s3caih1.jpeg?width=640&crop=smart&auto=webp&s=077bb5b97587a4fef7b511fb3617f69859aeb7b4"
+      },
+      {
+        "rank": 3,
+        "title": "3 Day Notice on Reset. Progress?",
+        "url": "https://www.reddit.com/r/codex/comments/1vj6eqa/3_day_notice_on_reset_progress/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-08T20:37:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eo4j9qadp7ih1.jpeg?width=640&crop=smart&auto=webp&s=5d4476ffe03a26fbaa02a3dba58ed7ca1ac48e63"
       },
       {
         "rank": 4,

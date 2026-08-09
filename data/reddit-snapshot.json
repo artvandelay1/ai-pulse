@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T23:34:48.942Z",
+  "fetchedAt": "2026-08-09T02:02:49.642Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS OpenReview Modified Timeline [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj6ov3/neurips_openreview_modified_timeline_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T20:49:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Evaluation metrics - [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "AACL-IJCNLP Commitment Submission Number [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-08T15:17:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ICDE Results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:22:57.000Z",
         "category": "reddit"
       },
       {
@@ -82,12 +82,13 @@
       },
       {
         "rank": 4,
-        "title": "37 people have left OpenAI or Anthropic to start companies in 2026. Here’s what they’re building.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1viizyv/37_people_have_left_openai_or_anthropic_to_start/",
+        "title": "We're still so early",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1virirw/were_still_so_early/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-08T01:41:16.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-08T09:28:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l51r71z2e4ih1.png?width=640&crop=smart&auto=webp&s=e3c352d33e268ed2f66e089c12267441cb1e0854"
       },
       {
         "rank": 5,
@@ -140,13 +141,12 @@
       },
       {
         "rank": 5,
-        "title": "Titles are hard",
-        "url": "https://www.reddit.com/r/singularity/comments/1vipm8h/titles_are_hard/",
+        "title": "ChatGPT Sol 5.6 high found a normalization error in two recently published Riemann Hypothesis papers. The author confirmed it.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vj3rck/chatgpt_sol_56_high_found_a_normalization_error/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-08T07:31:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kl3scssws3ih1.png?width=640&crop=smart&auto=webp&s=2f31cc0d7a26e76dfd395867b8741e967856945c"
+        "publishedAt": "2026-08-08T18:45:48.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

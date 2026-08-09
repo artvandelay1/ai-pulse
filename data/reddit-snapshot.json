@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T11:34:45.734Z",
+  "fetchedAt": "2026-08-09T13:00:49.052Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -72,16 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vivd9d/this_is_why_the_vast_majority_arent_taking_any/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T12:57:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1kn7z94ue5ih1.png?width=640&crop=smart&auto=webp&s=b0e665215ec9a1287b2abf0212a162112e809c9c"
-      },
-      {
-        "rank": 4,
         "title": "This image was accidentally created by ChatGPT. How is it so realistic?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vjepp6/this_image_was_accidentally_created_by_chatgpt/",
         "source": "r/OpenAI",
@@ -91,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/nvk2nio5n9ih1.png?width=640&crop=smart&auto=webp&s=ed908c6eed60c634c4b2733637f2e7d4c1861bcb"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "If you watch this and still think it was a “marketing ploy” you’re an idiot.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1viyheu/if_you_watch_this_and_still_think_it_was_a/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-08-08T15:12:08.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ahSiSkRQxQzMR6GJd2t9N3jkP_-Fq470JlnhYjePCIY.jpeg?width=320&crop=smart&auto=webp&s=e02a6a22b54e2ebfc33e17bfce4c13197d894608"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI is consistently topping our Computer-Use Benchmark.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjc40i/openai_is_consistently_topping_our_computeruse/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T00:56:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5uvup4zkz8ih1.png?width=640&crop=smart&auto=webp&s=bd3e6dbeca3225e911b039e00bbcff7b71f143af"
       },
       {
         "rank": 1,

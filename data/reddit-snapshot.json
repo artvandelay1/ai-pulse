@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T17:37:08.203Z",
+  "fetchedAt": "2026-08-09T18:49:15.115Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:48:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Claude Code now lets sessions talk to each other on macOS",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vj4aqt/claude_code_now_lets_sessions_talk_to_each_other/",
         "source": "r/ClaudeAI",
@@ -14,15 +23,6 @@
         "publishedAt": "2026-08-08T19:07:50.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/r1xIfOzJwHBb0IPqJvjjh8fyOvXH_k2BfhD1oA22iQ4.jpeg?width=640&crop=smart&auto=webp&s=a10d6747f72f8e5e267d7a519bf2e84994a4e6d9"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,
@@ -35,21 +35,20 @@
       },
       {
         "rank": 4,
-        "title": "I finally got round to the project everybody does… a usage tracker…",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vj3qze/i_finally_got_round_to_the_project_everybody_does/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T18:45:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7ng4vsc857ih1.jpeg?width=640&crop=smart&auto=webp&s=5df61c3146f27be00cad1aeb06d9f1ce0825c031"
-      },
-      {
-        "rank": 5,
         "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-09T13:08:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Where will we be in 6 months?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:44:04.000Z",
         "category": "reddit"
       },
       {
@@ -63,11 +62,11 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
+        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-08T18:42:55.000Z",
+        "publishedAt": "2026-08-09T10:55:50.000Z",
         "category": "reddit"
       },
       {
@@ -81,11 +80,11 @@
       },
       {
         "rank": 4,
-        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
+        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-09T10:55:50.000Z",
+        "publishedAt": "2026-08-09T17:36:22.000Z",
         "category": "reddit"
       },
       {

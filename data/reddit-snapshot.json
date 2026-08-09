@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T19:38:42.786Z",
+  "fetchedAt": "2026-08-09T20:38:46.170Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,20 +25,20 @@
       },
       {
         "rank": 3,
-        "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjj4pr/r_generative_design_of_novel_bacteriophages_with/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T07:11:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-09T17:36:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjj4pr/r_generative_design_of_novel_bacteriophages_with/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T07:11:17.000Z",
         "category": "reddit"
       },
       {
@@ -72,16 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "OpenAI is consistently topping our Computer-Use Benchmark.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjc40i/openai_is_consistently_topping_our_computeruse/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T00:56:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5uvup4zkz8ih1.png?width=640&crop=smart&auto=webp&s=bd3e6dbeca3225e911b039e00bbcff7b71f143af"
-      },
-      {
-        "rank": 4,
         "title": "Just thought this was too good not to share",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vjmt8u/just_thought_this_was_too_good_not_to_share/",
         "source": "r/OpenAI",
@@ -89,6 +79,16 @@
         "publishedAt": "2026-08-09T10:51:15.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jkewmh2kxbih1.png?width=640&crop=smart&auto=webp&s=17289fc59d77b2cd726e17ef37dfc067f593be8e"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI is consistently topping our Computer-Use Benchmark.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjc40i/openai_is_consistently_topping_our_computeruse/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T00:56:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5uvup4zkz8ih1.png?width=640&crop=smart&auto=webp&s=bd3e6dbeca3225e911b039e00bbcff7b71f143af"
       },
       {
         "rank": 5,
@@ -102,12 +102,13 @@
       },
       {
         "rank": 1,
-        "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
-        "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
+        "title": "Google needs to up their game",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-08T19:52:47.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-09T17:50:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
       },
       {
         "rank": 2,
@@ -130,21 +131,20 @@
       },
       {
         "rank": 4,
-        "title": "Google needs to up their game",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T17:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
-      },
-      {
-        "rank": 5,
         "title": "OpenAI’s Model Codenamed “Doug” Will Reportedly Make Fable Look “Primitive”",
         "url": "https://www.reddit.com/r/singularity/comments/1vj9xmh/openais_model_codenamed_doug_will_reportedly_make/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-08T23:12:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AiBattle (@AiBattle_) on X: \"Potential new GPT-Image model has appeared on the Arena under the name \"Mona-lisa-1\"\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjq7z2/aibattle_aibattle_on_x_potential_new_gptimage/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:42:27.000Z",
         "category": "reddit"
       },
       {

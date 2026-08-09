@@ -1,10 +1,150 @@
 {
-  "fetchedAt": "2026-08-09T14:40:09.739Z",
+  "fetchedAt": "2026-08-09T15:37:47.980Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T22:12:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T18:42:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjj4pr/r_generative_design_of_novel_bacteriophages_with/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T07:11:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ICDE Results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:22:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ECCV workshop, camera ready instructions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:49:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Your scientists were so... uh...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vj1ffo/your_scientists_were_so_uh/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T17:12:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l1pa814uo6ih1.png?width=640&crop=smart&auto=webp&s=121a4a1c7464bd67740556e47436a6c893a8af69"
+      },
+      {
+        "rank": 2,
+        "title": "Stack Overflow has gone from a peak of 207k questions in March 2014, down to 1.4k in July 2026",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vj0317/stack_overflow_has_gone_from_a_peak_of_207k/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T16:18:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0piwjqw6f6ih1.jpeg?width=640&crop=smart&auto=webp&s=896b946e703a6a9295f9b2d34edee31ee1d6791e"
+      },
+      {
+        "rank": 3,
+        "title": "This image was accidentally created by ChatGPT. How is it so realistic?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjepp6/this_image_was_accidentally_created_by_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T03:08:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nvk2nio5n9ih1.png?width=640&crop=smart&auto=webp&s=ed908c6eed60c634c4b2733637f2e7d4c1861bcb"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI is consistently topping our Computer-Use Benchmark.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjc40i/openai_is_consistently_topping_our_computeruse/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T00:56:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5uvup4zkz8ih1.png?width=640&crop=smart&auto=webp&s=bd3e6dbeca3225e911b039e00bbcff7b71f143af"
+      },
+      {
+        "rank": 5,
+        "title": "Uber, Walmart Impose AI Token Caps as Enterprise Costs Surge",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vj0l21/uber_walmart_impose_ai_token_caps_as_enterprise/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T16:38:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
+        "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-08T19:52:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Why is Reddit so delusional about AI capability?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjcoih/why_is_reddit_so_delusional_about_ai_capability/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T01:24:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qd4pw79n49ih1.jpeg?width=640&crop=smart&auto=webp&s=cdf940970ba70e50a4a057dcac0f3fb5ee448ebc"
+      },
+      {
+        "rank": 3,
+        "title": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T04:49:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT Sol 5.6 high found a normalization error in two recently published Riemann Hypothesis papers. The author confirmed it.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vj3rck/chatgpt_sol_56_high_found_a_normalization_error/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-08T18:45:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI’s Model Codenamed “Doug” Will Reportedly Make Fable Look “Primitive”",
+        "url": "https://www.reddit.com/r/singularity/comments/1vj9xmh/openais_model_codenamed_doug_will_reportedly_make/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-08T23:12:49.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Claude Code now lets sessions talk to each other on macOS",
@@ -50,51 +190,6 @@
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T22:12:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T18:42:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "AACL-IJCNLP Commitment Submission Number [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1viyloc/aaclijcnlp_commitment_submission_number_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T15:17:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ICDE Results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vj1oq6/icde_results_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-08T17:22:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T10:55:50.000Z",
         "category": "reddit"
       },
       {
@@ -146,103 +241,6 @@
         "publishedAt": "2026-08-08T15:06:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9s1w25ld26ih1.png?width=640&crop=smart&auto=webp&s=42425183a03fe81284b9fb5280bee45cbef2f3cc"
-      },
-      {
-        "rank": 1,
-        "title": "Your scientists were so... uh...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vj1ffo/your_scientists_were_so_uh/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T17:12:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l1pa814uo6ih1.png?width=640&crop=smart&auto=webp&s=121a4a1c7464bd67740556e47436a6c893a8af69"
-      },
-      {
-        "rank": 2,
-        "title": "Stack Overflow has gone from a peak of 207k questions in March 2014, down to 1.4k in July 2026",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vj0317/stack_overflow_has_gone_from_a_peak_of_207k/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T16:18:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0piwjqw6f6ih1.jpeg?width=640&crop=smart&auto=webp&s=896b946e703a6a9295f9b2d34edee31ee1d6791e"
-      },
-      {
-        "rank": 3,
-        "title": "This image was accidentally created by ChatGPT. How is it so realistic?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjepp6/this_image_was_accidentally_created_by_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T03:08:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nvk2nio5n9ih1.png?width=640&crop=smart&auto=webp&s=ed908c6eed60c634c4b2733637f2e7d4c1861bcb"
-      },
-      {
-        "rank": 4,
-        "title": "If you watch this and still think it was a “marketing ploy” you’re an idiot.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1viyheu/if_you_watch_this_and_still_think_it_was_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T15:12:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ahSiSkRQxQzMR6GJd2t9N3jkP_-Fq470JlnhYjePCIY.jpeg?width=320&crop=smart&auto=webp&s=e02a6a22b54e2ebfc33e17bfce4c13197d894608"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI is consistently topping our Computer-Use Benchmark.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjc40i/openai_is_consistently_topping_our_computeruse/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T00:56:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5uvup4zkz8ih1.png?width=640&crop=smart&auto=webp&s=bd3e6dbeca3225e911b039e00bbcff7b71f143af"
-      },
-      {
-        "rank": 1,
-        "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
-        "url": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-08T13:01:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/11ht1un0g5ih1.png?width=640&crop=smart&auto=webp&s=2652fc46af65da2e4355b49b4688a07df812545a"
-      },
-      {
-        "rank": 2,
-        "title": "GPT 5.6 Sol and Fable 5 settle a 25 year old problem in wireless communication theory",
-        "url": "https://www.reddit.com/r/singularity/comments/1vj5d09/gpt_56_sol_and_fable_5_settle_a_25_year_old/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-08T19:52:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Why is Reddit so delusional about AI capability?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjcoih/why_is_reddit_so_delusional_about_ai_capability/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T01:24:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qd4pw79n49ih1.jpeg?width=640&crop=smart&auto=webp&s=cdf940970ba70e50a4a057dcac0f3fb5ee448ebc"
-      },
-      {
-        "rank": 4,
-        "title": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T04:49:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "ChatGPT Sol 5.6 high found a normalization error in two recently published Riemann Hypothesis papers. The author confirmed it.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vj3rck/chatgpt_sol_56_high_found_a_normalization_error/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-08T18:45:48.000Z",
-        "category": "reddit"
       }
     ]
   }

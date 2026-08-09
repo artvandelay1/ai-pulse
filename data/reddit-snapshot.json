@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-09T15:37:47.980Z",
+  "fetchedAt": "2026-08-09T16:42:12.001Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude Code now lets sessions talk to each other on macOS",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vj4aqt/claude_code_now_lets_sessions_talk_to_each_other/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T19:07:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/r1xIfOzJwHBb0IPqJvjjh8fyOvXH_k2BfhD1oA22iQ4.jpeg?width=640&crop=smart&auto=webp&s=a10d6747f72f8e5e267d7a519bf2e84994a4e6d9"
+      },
+      {
+        "rank": 2,
+        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T03:34:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:48:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I finally got round to the project everybody does… a usage tracker…",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vj3qze/i_finally_got_round_to_the_project_everybody_does/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-08T18:45:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7ng4vsc857ih1.jpeg?width=640&crop=smart&auto=webp&s=5df61c3146f27be00cad1aeb06d9f1ce0825c031"
+      },
+      {
+        "rank": 5,
+        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:08:55.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
@@ -48,6 +95,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-09T14:49:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo just reset",
+        "url": "https://www.reddit.com/r/codex/comments/1vj6a5p/tibo_just_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-08T20:31:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gjcxj6n8o7ih1.png?width=140&height=90&auto=webp&s=ee8cc780c7a3315824431908e0778c20f3afc8c7"
+      },
+      {
+        "rank": 2,
+        "title": "3 Day Notice on Reset. Progress?",
+        "url": "https://www.reddit.com/r/codex/comments/1vj6eqa/3_day_notice_on_reset_progress/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-08T20:37:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eo4j9qadp7ih1.jpeg?width=640&crop=smart&auto=webp&s=5d4476ffe03a26fbaa02a3dba58ed7ca1ac48e63"
+      },
+      {
+        "rank": 3,
+        "title": "1 full banked re$et since this, which was less than a month ago. Bravo!",
+        "url": "https://www.reddit.com/r/codex/comments/1vjhbsq/1_full_banked_reet_since_this_which_was_less_than/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T05:28:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7kchs6s3caih1.jpeg?width=640&crop=smart&auto=webp&s=077bb5b97587a4fef7b511fb3617f69859aeb7b4"
+      },
+      {
+        "rank": 4,
+        "title": "Behold - history's most useless reset!",
+        "url": "https://www.reddit.com/r/codex/comments/1vj6dm1/behold_historys_most_useless_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-08T20:35:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aao9yuowo7ih1.png?width=140&height=90&auto=webp&s=782c7bdd9af756d7e3711aa71d086e78699aed92"
+      },
+      {
+        "rank": 5,
+        "title": "What's the point of Hermes, Openclaw, and other AI Harnesses?",
+        "url": "https://www.reddit.com/r/codex/comments/1vjchuh/whats_the_point_of_hermes_openclaw_and_other_ai/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T01:15:27.000Z",
         "category": "reddit"
       },
       {
@@ -144,103 +240,6 @@
         "score": 0,
         "publishedAt": "2026-08-08T23:12:49.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude Code now lets sessions talk to each other on macOS",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vj4aqt/claude_code_now_lets_sessions_talk_to_each_other/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T19:07:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/r1xIfOzJwHBb0IPqJvjjh8fyOvXH_k2BfhD1oA22iQ4.jpeg?width=640&crop=smart&auto=webp&s=a10d6747f72f8e5e267d7a519bf2e84994a4e6d9"
-      },
-      {
-        "rank": 2,
-        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T03:34:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Claude Design motion is really good now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vizvoh/claude_design_motion_is_really_good_now/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T16:10:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/emRtbHM3NnBkNmloMeuSvahgRkOZqI1CONYXf9CHKHNP0WmUms_F4rCilXQ9.png?width=640&crop=smart&auto=webp&s=51bcaaedf7cf771f1fe838e4c4f552c552a1ebcc"
-      },
-      {
-        "rank": 4,
-        "title": "Who else has stopped using PowerPoint?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1viz387/who_else_has_stopped_using_powerpoint/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-08T15:37:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo just reset",
-        "url": "https://www.reddit.com/r/codex/comments/1vj6a5p/tibo_just_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-08T20:31:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gjcxj6n8o7ih1.png?width=140&height=90&auto=webp&s=ee8cc780c7a3315824431908e0778c20f3afc8c7"
-      },
-      {
-        "rank": 2,
-        "title": "3 Day Notice on Reset. Progress?",
-        "url": "https://www.reddit.com/r/codex/comments/1vj6eqa/3_day_notice_on_reset_progress/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-08T20:37:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eo4j9qadp7ih1.jpeg?width=640&crop=smart&auto=webp&s=5d4476ffe03a26fbaa02a3dba58ed7ca1ac48e63"
-      },
-      {
-        "rank": 3,
-        "title": "1 full banked re$et since this, which was less than a month ago. Bravo!",
-        "url": "https://www.reddit.com/r/codex/comments/1vjhbsq/1_full_banked_reet_since_this_which_was_less_than/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T05:28:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7kchs6s3caih1.jpeg?width=640&crop=smart&auto=webp&s=077bb5b97587a4fef7b511fb3617f69859aeb7b4"
-      },
-      {
-        "rank": 4,
-        "title": "Behold - history's most useless reset!",
-        "url": "https://www.reddit.com/r/codex/comments/1vj6dm1/behold_historys_most_useless_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-08T20:35:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aao9yuowo7ih1.png?width=140&height=90&auto=webp&s=782c7bdd9af756d7e3711aa71d086e78699aed92"
-      },
-      {
-        "rank": 5,
-        "title": "Happy 1 year anniversary to this chart and GPT 5!",
-        "url": "https://www.reddit.com/r/codex/comments/1viyctd/happy_1_year_anniversary_to_this_chart_and_gpt_5/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-08T15:06:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9s1w25ld26ih1.png?width=640&crop=smart&auto=webp&s=42425183a03fe81284b9fb5280bee45cbef2f3cc"
       }
     ]
   }

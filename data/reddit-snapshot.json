@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-08-10T16:04:14.979Z",
+  "fetchedAt": "2026-08-10T17:28:42.494Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "How to file a complaint about a published CVPR paper? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:56:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Comparing embedding models with synthetic query probing [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T10:27:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eauhd4hdyiih1.png?width=140&height=47&auto=webp&s=7594a52bcc580426082f61ebb75cecded686b9a9"
+      },
+      {
+        "rank": 3,
+        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T17:36:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "3 Collapsing models [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkg921/3_collapsing_models_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T09:42:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Semi Edge Inference Idea [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T10:58:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Any day now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkaccp/any_day_now/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T04:00:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Nzc2empqY2MxaGloMRAB0_-Y--zO34jR7RzJ474Oik5vq4n889oLeTMoEdzn.png?width=640&crop=smart&auto=webp&s=d9cf6b1a81f250d929f09cd4fd69f2452035a4a7"
+      },
+      {
+        "rank": 2,
+        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:34:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
+      },
+      {
+        "rank": 3,
+        "title": "$100 weekly limit ends in 2h using sol 5.6 ultra + 1.5x",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vk6dnf/100_weekly_limit_ends_in_2h_using_sol_56_ultra_15x/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T00:48:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT's agentic web search is great and underrated, better than Gemini's",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjyyet/chatgpts_agentic_web_search_is_great_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T19:31:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "FBI Seeks AI for Political Watch List | Documents show the FBI seeking AI tools to flag Americans before they act, as the terror watch list's focus moves toward domestic dissent.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmb16/fbi_seeks_ai_for_political_watch_list_documents/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:23:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Nbwm5s0SxUa56M2WAKcGk9-7D4iIecHGYwbo8rOQn0c.jpeg?width=640&crop=smart&auto=webp&s=31c0c03ebbf3bd9f579b448b2f4c190989fe88cc"
+      },
+      {
+        "rank": 1,
+        "title": "Google needs to up their game",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T17:50:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
+      },
+      {
+        "rank": 2,
+        "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T05:24:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f"
+      },
+      {
+        "rank": 3,
+        "title": "The Last Bastion of Humanity",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkgzx3/the_last_bastion_of_humanity/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T10:24:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/slew0juxxiih1.jpeg?width=640&crop=smart&auto=webp&s=a6aad842dee08538a9e284d01a10faabb14d0911"
+      },
+      {
+        "rank": 4,
+        "title": "Meta will soon release the weights for Muse Spark 1.2, their latest foundation model.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkh1lm/meta_will_soon_release_the_weights_for_muse_spark/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T10:27:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l8gjuqi8yiih1.png?width=640&crop=smart&auto=webp&s=00bc0eda0640680a8d3f79cfd1373259d0bbe177"
+      },
+      {
+        "rank": 5,
+        "title": "More info about upcoming models Astra and Doug",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T18:40:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
+      },
       {
         "rank": 1,
         "title": "TIL you can use an open source model as a subagent",
@@ -54,52 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "How to file a complaint about a published CVPR paper? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:56:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Comparing embedding models with synthetic query probing [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T10:27:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eauhd4hdyiih1.png?width=140&height=47&auto=webp&s=7594a52bcc580426082f61ebb75cecded686b9a9"
-      },
-      {
-        "rank": 3,
-        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T17:36:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "3 Collapsing models [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkg921/3_collapsing_models_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T09:42:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Semi Edge Inference Idea [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T10:58:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "PSA: ChatGPT Pro users",
         "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
         "source": "r/codex",
@@ -144,102 +242,6 @@
         "publishedAt": "2026-08-10T13:05:47.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/fdc0mycoqjih1.jpeg?width=640&crop=smart&auto=webp&s=ff0a118c2255b00c3a6bbc151d3dee933dd2eda7"
-      },
-      {
-        "rank": 1,
-        "title": "How in the world are the TPBN guys the second highest paid podcasters in the world?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjttvz/how_in_the_world_are_the_tpbn_guys_the_second/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T16:10:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2cxfj1tidih1.jpeg?width=640&crop=smart&auto=webp&s=ceb24f53dceb2b7cc1941187fc9d900a263f4683"
-      },
-      {
-        "rank": 2,
-        "title": "Vibe Coding: you add a new feature/patch and the whole project breaks 😅",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjotht/vibe_coding_you_add_a_new_featurepatch_and_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T12:37:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bk3li12qgcih1.jpeg?width=640&crop=smart&auto=webp&s=2fb7f78d01e9c893acb98344bd7fa6b642995590"
-      },
-      {
-        "rank": 3,
-        "title": "Any day now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkaccp/any_day_now/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T04:00:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Nzc2empqY2MxaGloMRAB0_-Y--zO34jR7RzJ474Oik5vq4n889oLeTMoEdzn.png?width=640&crop=smart&auto=webp&s=d9cf6b1a81f250d929f09cd4fd69f2452035a4a7"
-      },
-      {
-        "rank": 4,
-        "title": "$100 weekly limit ends in 2h using sol 5.6 ultra + 1.5x",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vk6dnf/100_weekly_limit_ends_in_2h_using_sol_56_ultra_15x/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T00:48:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "ChatGPT's agentic web search is great and underrated, better than Gemini's",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjyyet/chatgpts_agentic_web_search_is_great_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T19:31:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Google needs to up their game",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T17:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
-      },
-      {
-        "rank": 2,
-        "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T05:24:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f"
-      },
-      {
-        "rank": 3,
-        "title": "More info about upcoming models Astra and Doug",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T18:40:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
-      },
-      {
-        "rank": 4,
-        "title": "AiBattle (@AiBattle_) on X: \"Potential new GPT-Image model has appeared on the Arena under the name \"Mona-lisa-1\"\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjq7z2/aibattle_aibattle_on_x_potential_new_gptimage/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:42:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Does anyone remember lk-99?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjozv4/does_anyone_remember_lk99/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T12:46:04.000Z",
-        "category": "reddit"
       }
     ]
   }

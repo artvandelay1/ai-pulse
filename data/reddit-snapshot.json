@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-10T22:43:47.826Z",
+  "fetchedAt": "2026-08-10T23:40:10.720Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude will watermark generated content, thank you EU",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T21:39:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "TIL you can use an open source model as a subagent",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T02:49:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
+      },
+      {
+        "rank": 3,
+        "title": "Claude hacked a gym booking system",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkn2b5/claude_hacked_a_gym_booking_system/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:52:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/81qe6f0q9kih1.jpeg?width=640&crop=smart&auto=webp&s=fb718316d4e2a1af5dcad78285fb3bfb633cd7a8"
+      },
+      {
+        "rank": 4,
+        "title": "$38 Claude LCD Table Display",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T02:16:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic cancelled the wrong org, kept ~$3,900 of what we paid, and support says the decision is \"final\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkwdbe/anthropic_cancelled_the_wrong_org_kept_3900_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T20:28:34.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
@@ -49,6 +97,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-10T09:42:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Open AI removes banked usage resets from Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1vkfcnz/open_ai_removes_banked_usage_resets_from_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T08:48:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yug92pfqgiih1.jpeg?width=320&crop=smart&auto=webp&s=3719b8e431710bfc0d95bf78f179d0a8d36c7041"
+      },
+      {
+        "rank": 2,
+        "title": "It's almost 3 PM and still nothing, is he trolling?",
+        "url": "https://www.reddit.com/r/codex/comments/1vkt8wp/its_almost_3_pm_and_still_nothing_is_he_trolling/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T18:34:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/po5sbr94dlih1.jpeg?width=640&crop=smart&auto=webp&s=4e87224fffc9ff6b46fb3ac29ee18057630f0b8a"
+      },
+      {
+        "rank": 3,
+        "title": "We’re dancing today",
+        "url": "https://www.reddit.com/r/codex/comments/1vkkbo8/were_dancing_today/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T13:05:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fdc0mycoqjih1.jpeg?width=640&crop=smart&auto=webp&s=ff0a118c2255b00c3a6bbc151d3dee933dd2eda7"
+      },
+      {
+        "rank": 4,
+        "title": "I am tired of codex over engineering everything",
+        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T01:50:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "5.6 Cyber Released",
+        "url": "https://www.reddit.com/r/codex/comments/1vkrapa/56_cyber_released/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:25:06.000Z",
         "category": "reddit"
       },
       {
@@ -150,102 +246,6 @@
         "publishedAt": "2026-08-10T10:27:22.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/l8gjuqi8yiih1.png?width=640&crop=smart&auto=webp&s=00bc0eda0640680a8d3f79cfd1373259d0bbe177"
-      },
-      {
-        "rank": 1,
-        "title": "TIL you can use an open source model as a subagent",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T02:49:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
-      },
-      {
-        "rank": 2,
-        "title": "$38 Claude LCD Table Display",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T02:16:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
-      },
-      {
-        "rank": 3,
-        "title": "Claude hacked a gym booking system",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkn2b5/claude_hacked_a_gym_booking_system/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:52:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/81qe6f0q9kih1.jpeg?width=640&crop=smart&auto=webp&s=fb718316d4e2a1af5dcad78285fb3bfb633cd7a8"
-      },
-      {
-        "rank": 4,
-        "title": "Personal Life Capabilities",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T23:36:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What is the word you wish Claude would never ever used again?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkbolo/what_is_the_word_you_wish_claude_would_never_ever/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T05:11:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "PSA: ChatGPT Pro users",
-        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T21:56:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Open AI removes banked usage resets from Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1vkfcnz/open_ai_removes_banked_usage_resets_from_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T08:48:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yug92pfqgiih1.jpeg?width=320&crop=smart&auto=webp&s=3719b8e431710bfc0d95bf78f179d0a8d36c7041"
-      },
-      {
-        "rank": 3,
-        "title": "We’re dancing today",
-        "url": "https://www.reddit.com/r/codex/comments/1vkkbo8/were_dancing_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T13:05:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fdc0mycoqjih1.jpeg?width=640&crop=smart&auto=webp&s=ff0a118c2255b00c3a6bbc151d3dee933dd2eda7"
-      },
-      {
-        "rank": 4,
-        "title": "I am tired of codex over engineering everything",
-        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T01:50:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "It's almost 3 PM and still nothing, is he trolling?",
-        "url": "https://www.reddit.com/r/codex/comments/1vkt8wp/its_almost_3_pm_and_still_nothing_is_he_trolling/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T18:34:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/po5sbr94dlih1.jpeg?width=640&crop=smart&auto=webp&s=4e87224fffc9ff6b46fb3ac29ee18057630f0b8a"
       }
     ]
   }

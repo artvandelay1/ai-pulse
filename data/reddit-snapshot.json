@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T14:39:15.970Z",
+  "fetchedAt": "2026-08-10T16:04:14.979Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Where will we be in 6 months?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T14:44:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "$38 Claude LCD Table Display",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
         "source": "r/ClaudeAI",
@@ -35,12 +26,21 @@
         "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Personal Life Capabilities",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-09T23:36:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "What is the word you wish Claude would never ever used again?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkbolo/what_is_the_word_you_wish_claude_would_never_ever/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T05:11:47.000Z",
         "category": "reddit"
       },
       {
@@ -54,6 +54,15 @@
       },
       {
         "rank": 1,
+        "title": "How to file a complaint about a published CVPR paper? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:56:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Comparing embedding models with synthetic query probing [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/",
         "source": "r/MachineLearning",
@@ -61,15 +70,6 @@
         "publishedAt": "2026-08-10T10:27:45.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/eauhd4hdyiih1.png?width=140&height=47&auto=webp&s=7594a52bcc580426082f61ebb75cecded686b9a9"
-      },
-      {
-        "rank": 2,
-        "title": "ECCV workshop, camera ready instructions? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T14:49:10.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,
@@ -137,12 +137,13 @@
       },
       {
         "rank": 5,
-        "title": "$100 is 5x $20... wait that's not a discount",
-        "url": "https://www.reddit.com/r/codex/comments/1vk06ad/100_is_5x_20_wait_thats_not_a_discount/",
+        "title": "We’re dancing today",
+        "url": "https://www.reddit.com/r/codex/comments/1vkkbo8/were_dancing_today/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-09T20:19:42.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-10T13:05:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fdc0mycoqjih1.jpeg?width=640&crop=smart&auto=webp&s=ff0a118c2255b00c3a6bbc151d3dee933dd2eda7"
       },
       {
         "rank": 1,

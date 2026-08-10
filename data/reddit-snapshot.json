@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T13:19:13.927Z",
+  "fetchedAt": "2026-08-10T14:39:15.970Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "TIL you can use an open source model as a subagent",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
         "source": "r/ClaudeAI",
@@ -25,13 +16,23 @@
         "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Where will we be in 6 months?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-09T14:44:04.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "$38 Claude LCD Table Display",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T02:16:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
       },
       {
         "rank": 4,
@@ -44,13 +45,12 @@
       },
       {
         "rank": 5,
-        "title": "$38 Claude LCD Table Display",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
+        "title": "Really love the grill-me skill",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk0tps/really_love_the_grillme_skill/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-10T02:16:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
+        "publishedAt": "2026-08-09T20:46:09.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

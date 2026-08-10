@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T09:29:15.102Z",
+  "fetchedAt": "2026-08-10T10:47:14.919Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,12 +16,13 @@
       },
       {
         "rank": 2,
-        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
+        "title": "TIL you can use an open source model as a subagent",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-09T13:08:55.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-10T02:49:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
       },
       {
         "rank": 3,
@@ -34,13 +35,12 @@
       },
       {
         "rank": 4,
-        "title": "TIL you can use an open source model as a subagent",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
+        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-10T02:49:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
+        "publishedAt": "2026-08-09T13:08:55.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -53,15 +53,6 @@
       },
       {
         "rank": 1,
-        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T10:55:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "ECCV workshop, camera ready instructions? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
         "source": "r/MachineLearning",
@@ -70,7 +61,25 @@
         "category": "reddit"
       },
       {
+        "rank": 2,
+        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T10:55:50.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 3,
+        "title": "3 Collapsing models [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkg921/3_collapsing_models_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T09:42:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
         "source": "r/MachineLearning",
@@ -79,7 +88,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Non-Physical Intelligence Has A Ceiling [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vjtaxb/nonphysical_intelligence_has_a_ceiling_d/",
         "source": "r/MachineLearning",
@@ -87,16 +96,6 @@
         "publishedAt": "2026-08-09T15:50:04.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/zhiC1pu-oqoaZK81pkuIVysJtap6wPDigCcOvGs88tI.jpeg?width=640&crop=smart&auto=webp&s=d468341cb02afdf7d4ae07f1de558171442705fe"
-      },
-      {
-        "rank": 5,
-        "title": "I never understood positional encoding until I read this article. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vju3ym/i_never_understood_positional_encoding_until_i/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T16:22:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/8VRAO7Ucarn-CBc4IsyH3p3Lg1nOM6BC8ccLAEFnSlc.jpeg?width=640&crop=smart&auto=webp&s=8584413aed8556960dd7528b26ce8adaaa9f97b0"
       },
       {
         "rank": 1,
@@ -127,22 +126,22 @@
       },
       {
         "rank": 4,
+        "title": "Open AI removes banked usage resets from Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1vkfcnz/open_ai_removes_banked_usage_resets_from_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T08:48:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yug92pfqgiih1.jpeg?width=320&crop=smart&auto=webp&s=3719b8e431710bfc0d95bf78f179d0a8d36c7041"
+      },
+      {
+        "rank": 5,
         "title": "$100 is 5x $20... wait that's not a discount",
         "url": "https://www.reddit.com/r/codex/comments/1vk06ad/100_is_5x_20_wait_thats_not_a_discount/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-09T20:19:42.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "The AI Price Wars are getting insane - GLM 5.2 is cheaper than Deepseek and Luna",
-        "url": "https://www.reddit.com/r/codex/comments/1vjza56/the_ai_price_wars_are_getting_insane_glm_52_is/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T19:44:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ex0qcujkkeih1.png?width=140&height=69&auto=webp&s=c7510bb30d3eb886ccbe24e4d2ec6c891baeadd0"
       },
       {
         "rank": 1,

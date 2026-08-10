@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T07:53:45.133Z",
+  "fetchedAt": "2026-08-10T09:29:15.102Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,66 @@
     "items": [
       {
         "rank": 1,
-        "title": "ECCV workshop, camera ready instructions? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
-        "source": "r/MachineLearning",
+        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-09T14:49:10.000Z",
+        "publishedAt": "2026-08-09T13:48:32.000Z",
         "category": "reddit"
       },
       {
         "rank": 2,
+        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:08:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Where will we be in 6 months?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:44:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "TIL you can use an open source model as a subagent",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T02:49:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
+      },
+      {
+        "rank": 5,
+        "title": "Personal Life Capabilities",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T23:36:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-09T10:55:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ECCV workshop, camera ready instructions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:49:10.000Z",
         "category": "reddit"
       },
       {
@@ -51,6 +97,52 @@
         "publishedAt": "2026-08-09T16:22:07.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/8VRAO7Ucarn-CBc4IsyH3p3Lg1nOM6BC8ccLAEFnSlc.jpeg?width=640&crop=smart&auto=webp&s=8584413aed8556960dd7528b26ce8adaaa9f97b0"
+      },
+      {
+        "rank": 1,
+        "title": "PSA: ChatGPT Pro users",
+        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
+        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T20:35:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I am tired of codex over engineering everything",
+        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T01:50:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "$100 is 5x $20... wait that's not a discount",
+        "url": "https://www.reddit.com/r/codex/comments/1vk06ad/100_is_5x_20_wait_thats_not_a_discount/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T20:19:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "The AI Price Wars are getting insane - GLM 5.2 is cheaper than Deepseek and Luna",
+        "url": "https://www.reddit.com/r/codex/comments/1vjza56/the_ai_price_wars_are_getting_insane_glm_52_is/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T19:44:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ex0qcujkkeih1.png?width=140&height=69&auto=webp&s=c7510bb30d3eb886ccbe24e4d2ec6c891baeadd0"
       },
       {
         "rank": 1,
@@ -148,98 +240,6 @@
         "score": 0,
         "publishedAt": "2026-08-09T12:46:04.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:08:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Where will we be in 6 months?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T14:44:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Personal Life Capabilities",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T23:36:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "$38 Claude LCD Table Display",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T02:16:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
-      },
-      {
-        "rank": 1,
-        "title": "PSA: ChatGPT Pro users",
-        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T21:56:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
-        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T20:35:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I am tired of codex over engineering everything",
-        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T01:50:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "$100 is 5x $20... wait that's not a discount",
-        "url": "https://www.reddit.com/r/codex/comments/1vk06ad/100_is_5x_20_wait_thats_not_a_discount/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T20:19:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "The AI Price Wars are getting insane - GLM 5.2 is cheaper than Deepseek and Luna",
-        "url": "https://www.reddit.com/r/codex/comments/1vjza56/the_ai_price_wars_are_getting_insane_glm_52_is/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T19:44:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ex0qcujkkeih1.png?width=140&height=69&auto=webp&s=c7510bb30d3eb886ccbe24e4d2ec6c891baeadd0"
       }
     ]
   }

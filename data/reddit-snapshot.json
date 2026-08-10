@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T17:28:42.494Z",
+  "fetchedAt": "2026-08-10T18:27:49.064Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,15 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T17:36:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "3 Collapsing models [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vkg921/3_collapsing_models_r/",
         "source": "r/MachineLearning",
@@ -43,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Semi Edge Inference Idea [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
         "source": "r/MachineLearning",
@@ -82,15 +73,6 @@
       },
       {
         "rank": 4,
-        "title": "ChatGPT's agentic web search is great and underrated, better than Gemini's",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjyyet/chatgpts_agentic_web_search_is_great_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T19:31:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "FBI Seeks AI for Political Watch List | Documents show the FBI seeking AI tools to flag Americans before they act, as the terror watch list's focus moves toward domestic dissent.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vkmb16/fbi_seeks_ai_for_political_watch_list_documents/",
         "source": "r/OpenAI",
@@ -100,17 +82,16 @@
         "thumbnail": "https://external-preview.redd.it/Nbwm5s0SxUa56M2WAKcGk9-7D4iIecHGYwbo8rOQn0c.jpeg?width=640&crop=smart&auto=webp&s=31c0c03ebbf3bd9f579b448b2f4c190989fe88cc"
       },
       {
-        "rank": 1,
-        "title": "Google needs to up their game",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "ChatGPT's agentic web search is great and underrated, better than Gemini's",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjyyet/chatgpts_agentic_web_search_is_great_and/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-09T17:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
+        "publishedAt": "2026-08-09T19:31:16.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
         "url": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
         "source": "r/singularity",
@@ -120,7 +101,7 @@
         "thumbnail": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "The Last Bastion of Humanity",
         "url": "https://www.reddit.com/r/singularity/comments/1vkgzx3/the_last_bastion_of_humanity/",
         "source": "r/singularity",
@@ -130,7 +111,7 @@
         "thumbnail": "https://preview.redd.it/slew0juxxiih1.jpeg?width=640&crop=smart&auto=webp&s=a6aad842dee08538a9e284d01a10faabb14d0911"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Meta will soon release the weights for Muse Spark 1.2, their latest foundation model.",
         "url": "https://www.reddit.com/r/singularity/comments/1vkh1lm/meta_will_soon_release_the_weights_for_muse_spark/",
         "source": "r/singularity",
@@ -138,6 +119,16 @@
         "publishedAt": "2026-08-10T10:27:22.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/l8gjuqi8yiih1.png?width=640&crop=smart&auto=webp&s=00bc0eda0640680a8d3f79cfd1373259d0bbe177"
+      },
+      {
+        "rank": 4,
+        "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkq2o8/bernie_sanders_has_written_a_letter_to_sam_altman/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T16:41:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2c5qbuc6tkih1.jpeg?width=640&crop=smart&auto=webp&s=e96196dfc733ddf5bc19ad3064653506ceade0ee"
       },
       {
         "rank": 5,

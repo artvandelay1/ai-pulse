@@ -1,56 +1,10 @@
 {
-  "fetchedAt": "2026-08-10T02:07:07.541Z",
+  "fetchedAt": "2026-08-10T04:15:49.336Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T03:34:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:08:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Where will we be in 6 months?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T14:44:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "AtomSim",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjx2xl/atomsim/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T18:18:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ggh50cii5eih1.png?width=140&height=78&auto=webp&s=a092a0e078fa47c7d25ed71db19df71e8aede5b0"
-      },
       {
         "rank": 1,
         "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
@@ -99,6 +53,147 @@
       },
       {
         "rank": 1,
+        "title": "How in the world are the TPBN guys the second highest paid podcasters in the world?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjttvz/how_in_the_world_are_the_tpbn_guys_the_second/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T16:10:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k2cxfj1tidih1.jpeg?width=640&crop=smart&auto=webp&s=ceb24f53dceb2b7cc1941187fc9d900a263f4683"
+      },
+      {
+        "rank": 2,
+        "title": "Vibe Coding: you add a new feature/patch and the whole project breaks 😅",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjotht/vibe_coding_you_add_a_new_featurepatch_and_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T12:37:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bk3li12qgcih1.jpeg?width=640&crop=smart&auto=webp&s=2fb7f78d01e9c893acb98344bd7fa6b642995590"
+      },
+      {
+        "rank": 3,
+        "title": "Just thought this was too good not to share",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjmt8u/just_thought_this_was_too_good_not_to_share/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T10:51:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jkewmh2kxbih1.png?width=640&crop=smart&auto=webp&s=17289fc59d77b2cd726e17ef37dfc067f593be8e"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT's agentic web search is great and underrated, better than Gemini's",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjyyet/chatgpts_agentic_web_search_is_great_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T19:31:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Terra Max & Luna Max",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjmuzb/terra_max_luna_max/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T10:53:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Google needs to up their game",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T17:50:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
+      },
+      {
+        "rank": 2,
+        "title": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T04:49:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "More info about upcoming models Astra and Doug",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T18:40:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
+      },
+      {
+        "rank": 4,
+        "title": "AiBattle (@AiBattle_) on X: \"Potential new GPT-Image model has appeared on the Arena under the name \"Mona-lisa-1\"\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjq7z2/aibattle_aibattle_on_x_potential_new_gptimage/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:42:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Does anyone remember lk-99?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjozv4/does_anyone_remember_lk99/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T12:46:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:48:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T03:34:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:08:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Where will we be in 6 months?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:44:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AtomSim",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjx2xl/atomsim/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T18:18:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ggh50cii5eih1.png?width=140&height=78&auto=webp&s=a092a0e078fa47c7d25ed71db19df71e8aede5b0"
+      },
+      {
+        "rank": 1,
         "title": "1 full banked re$et since this, which was less than a month ago. Bravo!",
         "url": "https://www.reddit.com/r/codex/comments/1vjhbsq/1_full_banked_reet_since_this_which_was_less_than/",
         "source": "r/codex",
@@ -142,104 +237,6 @@
         "score": 0,
         "publishedAt": "2026-08-09T09:28:23.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "This image was accidentally created by ChatGPT. How is it so realistic?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjepp6/this_image_was_accidentally_created_by_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T03:08:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nvk2nio5n9ih1.png?width=640&crop=smart&auto=webp&s=ed908c6eed60c634c4b2733637f2e7d4c1861bcb"
-      },
-      {
-        "rank": 2,
-        "title": "Vibe Coding: you add a new feature/patch and the whole project breaks 😅",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjotht/vibe_coding_you_add_a_new_featurepatch_and_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T12:37:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bk3li12qgcih1.jpeg?width=640&crop=smart&auto=webp&s=2fb7f78d01e9c893acb98344bd7fa6b642995590"
-      },
-      {
-        "rank": 3,
-        "title": "Just thought this was too good not to share",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjmt8u/just_thought_this_was_too_good_not_to_share/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T10:51:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jkewmh2kxbih1.png?width=640&crop=smart&auto=webp&s=17289fc59d77b2cd726e17ef37dfc067f593be8e"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI is consistently topping our Computer-Use Benchmark.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjc40i/openai_is_consistently_topping_our_computeruse/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T00:56:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5uvup4zkz8ih1.png?width=640&crop=smart&auto=webp&s=bd3e6dbeca3225e911b039e00bbcff7b71f143af"
-      },
-      {
-        "rank": 5,
-        "title": "How in the world are the TPBN guys the second highest paid podcasters in the world?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjttvz/how_in_the_world_are_the_tpbn_guys_the_second/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T16:10:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2cxfj1tidih1.jpeg?width=640&crop=smart&auto=webp&s=ceb24f53dceb2b7cc1941187fc9d900a263f4683"
-      },
-      {
-        "rank": 1,
-        "title": "Google needs to up their game",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T17:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
-      },
-      {
-        "rank": 2,
-        "title": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T04:49:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Why is Reddit so delusional about AI capability?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjcoih/why_is_reddit_so_delusional_about_ai_capability/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T01:24:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qd4pw79n49ih1.jpeg?width=640&crop=smart&auto=webp&s=cdf940970ba70e50a4a057dcac0f3fb5ee448ebc"
-      },
-      {
-        "rank": 4,
-        "title": "AiBattle (@AiBattle_) on X: \"Potential new GPT-Image model has appeared on the Arena under the name \"Mona-lisa-1\"\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjq7z2/aibattle_aibattle_on_x_potential_new_gptimage/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:42:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "More info about upcoming models Astra and Doug",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T18:40:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
       }
     ]
   }

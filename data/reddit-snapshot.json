@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-08-10T05:58:12.889Z",
+  "fetchedAt": "2026-08-10T07:53:45.133Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ECCV workshop, camera ready instructions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:49:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T10:55:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T17:36:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Non-Physical Intelligence Has A Ceiling [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjtaxb/nonphysical_intelligence_has_a_ceiling_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T15:50:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/zhiC1pu-oqoaZK81pkuIVysJtap6wPDigCcOvGs88tI.jpeg?width=640&crop=smart&auto=webp&s=d468341cb02afdf7d4ae07f1de558171442705fe"
+      },
+      {
+        "rank": 5,
+        "title": "I never understood positional encoding until I read this article. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vju3ym/i_never_understood_positional_encoding_until_i/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-09T16:22:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/8VRAO7Ucarn-CBc4IsyH3p3Lg1nOM6BC8ccLAEFnSlc.jpeg?width=640&crop=smart&auto=webp&s=8584413aed8556960dd7528b26ce8adaaa9f97b0"
+      },
+      {
+        "rank": 1,
+        "title": "How in the world are the TPBN guys the second highest paid podcasters in the world?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjttvz/how_in_the_world_are_the_tpbn_guys_the_second/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T16:10:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k2cxfj1tidih1.jpeg?width=640&crop=smart&auto=webp&s=ceb24f53dceb2b7cc1941187fc9d900a263f4683"
+      },
+      {
+        "rank": 2,
+        "title": "Vibe Coding: you add a new feature/patch and the whole project breaks 😅",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjotht/vibe_coding_you_add_a_new_featurepatch_and_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T12:37:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bk3li12qgcih1.jpeg?width=640&crop=smart&auto=webp&s=2fb7f78d01e9c893acb98344bd7fa6b642995590"
+      },
+      {
+        "rank": 3,
+        "title": "Just thought this was too good not to share",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjmt8u/just_thought_this_was_too_good_not_to_share/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T10:51:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jkewmh2kxbih1.png?width=640&crop=smart&auto=webp&s=17289fc59d77b2cd726e17ef37dfc067f593be8e"
+      },
+      {
+        "rank": 4,
+        "title": "Any day now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkaccp/any_day_now/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T04:00:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Nzc2empqY2MxaGloMRAB0_-Y--zO34jR7RzJ474Oik5vq4n889oLeTMoEdzn.png?width=640&crop=smart&auto=webp&s=d9cf6b1a81f250d929f09cd4fd69f2452035a4a7"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT's agentic web search is great and underrated, better than Gemini's",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vjyyet/chatgpts_agentic_web_search_is_great_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T19:31:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Google needs to up their game",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T17:50:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
+      },
+      {
+        "rank": 2,
+        "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T05:24:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f"
+      },
+      {
+        "rank": 3,
+        "title": "More info about upcoming models Astra and Doug",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T18:40:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
+      },
+      {
+        "rank": 4,
+        "title": "AiBattle (@AiBattle_) on X: \"Potential new GPT-Image model has appeared on the Arena under the name \"Mona-lisa-1\"\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjq7z2/aibattle_aibattle_on_x_potential_new_gptimage/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:42:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Does anyone remember lk-99?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vjozv4/does_anyone_remember_lk99/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-09T12:46:04.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
@@ -53,52 +197,6 @@
       },
       {
         "rank": 1,
-        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T10:55:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ECCV workshop, camera ready instructions? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T14:49:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjj4pr/r_generative_design_of_novel_bacteriophages_with/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T07:11:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T17:36:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Non-Physical Intelligence Has A Ceiling [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjtaxb/nonphysical_intelligence_has_a_ceiling_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-09T15:50:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/zhiC1pu-oqoaZK81pkuIVysJtap6wPDigCcOvGs88tI.jpeg?width=640&crop=smart&auto=webp&s=d468341cb02afdf7d4ae07f1de558171442705fe"
-      },
-      {
-        "rank": 1,
         "title": "PSA: ChatGPT Pro users",
         "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
         "source": "r/codex",
@@ -142,101 +240,6 @@
         "publishedAt": "2026-08-09T19:44:27.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ex0qcujkkeih1.png?width=140&height=69&auto=webp&s=c7510bb30d3eb886ccbe24e4d2ec6c891baeadd0"
-      },
-      {
-        "rank": 1,
-        "title": "How in the world are the TPBN guys the second highest paid podcasters in the world?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjttvz/how_in_the_world_are_the_tpbn_guys_the_second/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T16:10:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2cxfj1tidih1.jpeg?width=640&crop=smart&auto=webp&s=ceb24f53dceb2b7cc1941187fc9d900a263f4683"
-      },
-      {
-        "rank": 2,
-        "title": "Vibe Coding: you add a new feature/patch and the whole project breaks 😅",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjotht/vibe_coding_you_add_a_new_featurepatch_and_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T12:37:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bk3li12qgcih1.jpeg?width=640&crop=smart&auto=webp&s=2fb7f78d01e9c893acb98344bd7fa6b642995590"
-      },
-      {
-        "rank": 3,
-        "title": "Just thought this was too good not to share",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjmt8u/just_thought_this_was_too_good_not_to_share/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T10:51:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jkewmh2kxbih1.png?width=640&crop=smart&auto=webp&s=17289fc59d77b2cd726e17ef37dfc067f593be8e"
-      },
-      {
-        "rank": 4,
-        "title": "ChatGPT's agentic web search is great and underrated, better than Gemini's",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjyyet/chatgpts_agentic_web_search_is_great_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T19:31:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Terra Max & Luna Max",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjmuzb/terra_max_luna_max/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T10:53:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Google needs to up their game",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T17:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7"
-      },
-      {
-        "rank": 2,
-        "title": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T04:49:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "More info about upcoming models Astra and Doug",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjxnaq/more_info_about_upcoming_models_astra_and_doug/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T18:40:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
-      },
-      {
-        "rank": 4,
-        "title": "AiBattle (@AiBattle_) on X: \"Potential new GPT-Image model has appeared on the Arena under the name \"Mona-lisa-1\"\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjq7z2/aibattle_aibattle_on_x_potential_new_gptimage/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:42:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Does anyone remember lk-99?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vjozv4/does_anyone_remember_lk99/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-09T12:46:04.000Z",
-        "category": "reddit"
       }
     ]
   }

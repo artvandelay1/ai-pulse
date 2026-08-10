@@ -1,10 +1,56 @@
 {
-  "fetchedAt": "2026-08-09T23:36:50.752Z",
+  "fetchedAt": "2026-08-10T02:07:07.541Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:48:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T03:34:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:08:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Where will we be in 6 months?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:44:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AtomSim",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjx2xl/atomsim/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T18:18:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ggh50cii5eih1.png?width=140&height=78&auto=webp&s=a092a0e078fa47c7d25ed71db19df71e8aede5b0"
+      },
       {
         "rank": 1,
         "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
@@ -50,6 +96,52 @@
         "publishedAt": "2026-08-09T15:50:04.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/zhiC1pu-oqoaZK81pkuIVysJtap6wPDigCcOvGs88tI.jpeg?width=640&crop=smart&auto=webp&s=d468341cb02afdf7d4ae07f1de558171442705fe"
+      },
+      {
+        "rank": 1,
+        "title": "1 full banked re$et since this, which was less than a month ago. Bravo!",
+        "url": "https://www.reddit.com/r/codex/comments/1vjhbsq/1_full_banked_reet_since_this_which_was_less_than/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T05:28:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7kchs6s3caih1.jpeg?width=640&crop=smart&auto=webp&s=077bb5b97587a4fef7b511fb3617f69859aeb7b4"
+      },
+      {
+        "rank": 2,
+        "title": "PSA: ChatGPT Pro users",
+        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
+        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T20:35:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "$100 is 5x $20... wait that's not a discount",
+        "url": "https://www.reddit.com/r/codex/comments/1vk06ad/100_is_5x_20_wait_thats_not_a_discount/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T20:19:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Monday reset",
+        "url": "https://www.reddit.com/r/codex/comments/1vjlerl/monday_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T09:28:23.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -148,99 +240,6 @@
         "publishedAt": "2026-08-09T18:40:27.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Just got Claude Pro and I'm genuinely blown away. What should I know to get the most out of it?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjf7qc/just_got_claude_pro_and_im_genuinely_blown_away/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T03:34:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:08:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Muse Code Sends claude.md to Meta On Start by Default",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vji3f8/muse_code_sends_claudemd_to_meta_on_start_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T06:12:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2ym1CQCVX18Y99KNAckKe4_2k1kfUMvNYEUgOwZPJDc.jpeg?width=640&crop=smart&auto=webp&s=0b7961d0804d51ec69ca0a03e77e0be16e35b62a"
-      },
-      {
-        "rank": 5,
-        "title": "Where will we be in 6 months?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T14:44:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "1 full banked re$et since this, which was less than a month ago. Bravo!",
-        "url": "https://www.reddit.com/r/codex/comments/1vjhbsq/1_full_banked_reet_since_this_which_was_less_than/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T05:28:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7kchs6s3caih1.jpeg?width=640&crop=smart&auto=webp&s=077bb5b97587a4fef7b511fb3617f69859aeb7b4"
-      },
-      {
-        "rank": 2,
-        "title": "What's the point of Hermes, Openclaw, and other AI Harnesses?",
-        "url": "https://www.reddit.com/r/codex/comments/1vjchuh/whats_the_point_of_hermes_openclaw_and_other_ai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T01:15:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Astra might be coming soon",
-        "url": "https://www.reddit.com/r/codex/comments/1vj9akn/astra_might_be_coming_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-08T22:44:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uq7gf8h0c8ih1.jpeg?width=640&crop=smart&auto=webp&s=80167ca01e505f2ac0d66443027b8ed12721537e"
-      },
-      {
-        "rank": 4,
-        "title": "Monday reset",
-        "url": "https://www.reddit.com/r/codex/comments/1vjlerl/monday_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T09:28:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
-        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T20:35:06.000Z",
-        "category": "reddit"
       }
     ]
   }

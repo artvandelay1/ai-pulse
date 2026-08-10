@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-10T18:27:49.064Z",
+  "fetchedAt": "2026-08-10T19:35:08.878Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "TIL you can use an open source model as a subagent",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T02:49:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
+      },
+      {
+        "rank": 2,
+        "title": "$38 Claude LCD Table Display",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T02:16:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
+      },
+      {
+        "rank": 3,
+        "title": "Personal Life Capabilities",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T23:36:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "What is the word you wish Claude would never ever used again?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkbolo/what_is_the_word_you_wish_claude_would_never_ever/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T05:11:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude hacked a gym booking system",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkn2b5/claude_hacked_a_gym_booking_system/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:52:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/81qe6f0q9kih1.jpeg?width=640&crop=smart&auto=webp&s=fb718316d4e2a1af5dcad78285fb3bfb633cd7a8"
+      },
       {
         "rank": 1,
         "title": "How to file a complaint about a published CVPR paper? [R]",
@@ -16,6 +64,15 @@
       },
       {
         "rank": 2,
+        "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:37:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Comparing embedding models with synthetic query probing [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/",
         "source": "r/MachineLearning",
@@ -25,7 +82,16 @@
         "thumbnail": "https://preview.redd.it/eauhd4hdyiih1.png?width=140&height=47&auto=webp&s=7594a52bcc580426082f61ebb75cecded686b9a9"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "title": "fru - Fast Random Forest Implementation [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:45:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "3 Collapsing models [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vkg921/3_collapsing_models_r/",
         "source": "r/MachineLearning",
@@ -34,12 +100,50 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Semi Edge Inference Idea [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "PSA: ChatGPT Pro users",
+        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-10T10:58:11.000Z",
+        "publishedAt": "2026-08-09T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Open AI removes banked usage resets from Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1vkfcnz/open_ai_removes_banked_usage_resets_from_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T08:48:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yug92pfqgiih1.jpeg?width=320&crop=smart&auto=webp&s=3719b8e431710bfc0d95bf78f179d0a8d36c7041"
+      },
+      {
+        "rank": 3,
+        "title": "We’re dancing today",
+        "url": "https://www.reddit.com/r/codex/comments/1vkkbo8/were_dancing_today/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T13:05:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fdc0mycoqjih1.jpeg?width=640&crop=smart&auto=webp&s=ff0a118c2255b00c3a6bbc151d3dee933dd2eda7"
+      },
+      {
+        "rank": 4,
+        "title": "I am tired of codex over engineering everything",
+        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T01:50:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
+        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T20:35:06.000Z",
         "category": "reddit"
       },
       {
@@ -139,100 +243,6 @@
         "publishedAt": "2026-08-09T18:40:27.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/fhan490b9eih1.png?width=140&height=118&auto=webp&s=0f729bbe0450607ff8663e2050513bac91ab3f3f"
-      },
-      {
-        "rank": 1,
-        "title": "TIL you can use an open source model as a subagent",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T02:49:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
-      },
-      {
-        "rank": 2,
-        "title": "$38 Claude LCD Table Display",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk88m5/38_claude_lcd_table_display/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T02:16:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aoq4i9arigih1.jpeg?width=640&crop=smart&auto=webp&s=b1c164a2cf3fd4e4dd52f1d3a9b46136a9039855"
-      },
-      {
-        "rank": 3,
-        "title": "Personal Life Capabilities",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T23:36:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What is the word you wish Claude would never ever used again?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkbolo/what_is_the_word_you_wish_claude_would_never_ever/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T05:11:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Really love the grill-me skill",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk0tps/really_love_the_grillme_skill/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T20:46:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "PSA: ChatGPT Pro users",
-        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T21:56:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Open AI removes banked usage resets from Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1vkfcnz/open_ai_removes_banked_usage_resets_from_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T08:48:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yug92pfqgiih1.jpeg?width=320&crop=smart&auto=webp&s=3719b8e431710bfc0d95bf78f179d0a8d36c7041"
-      },
-      {
-        "rank": 3,
-        "title": "I am tired of codex over engineering everything",
-        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T01:50:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
-        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T20:35:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "We’re dancing today",
-        "url": "https://www.reddit.com/r/codex/comments/1vkkbo8/were_dancing_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T13:05:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fdc0mycoqjih1.jpeg?width=640&crop=smart&auto=webp&s=ff0a118c2255b00c3a6bbc151d3dee933dd2eda7"
       }
     ]
   }

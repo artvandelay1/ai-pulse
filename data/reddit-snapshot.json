@@ -1,56 +1,10 @@
 {
-  "fetchedAt": "2026-08-10T10:47:14.919Z",
+  "fetchedAt": "2026-08-10T11:52:46.705Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "TIL you can use an open source model as a subagent",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T02:49:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
-      },
-      {
-        "rank": 3,
-        "title": "Where will we be in 6 months?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T14:44:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T13:08:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Personal Life Capabilities",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T23:36:16.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "ECCV workshop, camera ready instructions? [D]",
@@ -62,12 +16,13 @@
       },
       {
         "rank": 2,
-        "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
+        "title": "Comparing embedding models with synthetic query probing [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkh1ul/comparing_embedding_models_with_synthetic_query/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-09T10:55:50.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-10T10:27:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eauhd4hdyiih1.png?width=140&height=47&auto=webp&s=7594a52bcc580426082f61ebb75cecded686b9a9"
       },
       {
         "rank": 3,
@@ -89,58 +44,11 @@
       },
       {
         "rank": 5,
-        "title": "Non-Physical Intelligence Has A Ceiling [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vjtaxb/nonphysical_intelligence_has_a_ceiling_d/",
+        "title": "Semi Edge Inference Idea [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkhl99/semi_edge_inference_idea_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-09T15:50:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/zhiC1pu-oqoaZK81pkuIVysJtap6wPDigCcOvGs88tI.jpeg?width=640&crop=smart&auto=webp&s=d468341cb02afdf7d4ae07f1de558171442705fe"
-      },
-      {
-        "rank": 1,
-        "title": "PSA: ChatGPT Pro users",
-        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T21:56:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
-        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T20:35:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I am tired of codex over engineering everything",
-        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T01:50:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Open AI removes banked usage resets from Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1vkfcnz/open_ai_removes_banked_usage_resets_from_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T08:48:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yug92pfqgiih1.jpeg?width=320&crop=smart&auto=webp&s=3719b8e431710bfc0d95bf78f179d0a8d36c7041"
-      },
-      {
-        "rank": 5,
-        "title": "$100 is 5x $20... wait that's not a discount",
-        "url": "https://www.reddit.com/r/codex/comments/1vk06ad/100_is_5x_20_wait_thats_not_a_discount/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-09T20:19:42.000Z",
+        "publishedAt": "2026-08-10T10:58:11.000Z",
         "category": "reddit"
       },
       {
@@ -165,16 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "Just thought this was too good not to share",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vjmt8u/just_thought_this_was_too_good_not_to_share/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-09T10:51:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jkewmh2kxbih1.png?width=640&crop=smart&auto=webp&s=17289fc59d77b2cd726e17ef37dfc067f593be8e"
-      },
-      {
-        "rank": 4,
         "title": "Any day now",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vkaccp/any_day_now/",
         "source": "r/OpenAI",
@@ -182,6 +80,15 @@
         "publishedAt": "2026-08-10T04:00:32.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Nzc2empqY2MxaGloMRAB0_-Y--zO34jR7RzJ474Oik5vq4n889oLeTMoEdzn.png?width=640&crop=smart&auto=webp&s=d9cf6b1a81f250d929f09cd4fd69f2452035a4a7"
+      },
+      {
+        "rank": 4,
+        "title": "$100 weekly limit ends in 2h using sol 5.6 ultra + 1.5x",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vk6dnf/100_weekly_limit_ends_in_2h_using_sol_56_ultra_15x/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T00:48:00.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -238,6 +145,98 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-09T12:46:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Anthropic Flips Claude Code to Auto Mode by Default Aug 14, after finding AI blocks 80%+ dangerous queries while humans only 14%",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjqcvf/anthropic_flips_claude_code_to_auto_mode_by/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:48:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "TIL you can use an open source model as a subagent",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk8ww2/til_you_can_use_an_open_source_model_as_a_subagent/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T02:49:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gvo9z4txngih1.jpeg?width=640&crop=smart&auto=webp&s=653424cda9cd5d153353ffaa582da5caa86e5b4b"
+      },
+      {
+        "rank": 3,
+        "title": "Where will we be in 6 months?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjrnyp/where_will_we_be_in_6_months/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T14:44:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Update: 1f916.ai , the agents-only forum has 480+ posts. The agents are writing a constitution, finding their own bugs, and submitting PRs to fix them.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vjphbl/update_1f916ai_the_agentsonly_forum_has_480_posts/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T13:08:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Personal Life Capabilities",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vk4t88/personal_life_capabilities/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-09T23:36:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "PSA: ChatGPT Pro users",
+        "url": "https://www.reddit.com/r/codex/comments/1vk2i1c/psa_chatgpt_pro_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Anyone else reach the point in a Codex session where you have absolutely no idea what the agents are saying anymore?",
+        "url": "https://www.reddit.com/r/codex/comments/1vk0jq8/anyone_else_reach_the_point_in_a_codex_session/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T20:35:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I am tired of codex over engineering everything",
+        "url": "https://www.reddit.com/r/codex/comments/1vk7p9q/i_am_tired_of_codex_over_engineering_everything/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T01:50:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Open AI removes banked usage resets from Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1vkfcnz/open_ai_removes_banked_usage_resets_from_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-10T08:48:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yug92pfqgiih1.jpeg?width=320&crop=smart&auto=webp&s=3719b8e431710bfc0d95bf78f179d0a8d36c7041"
+      },
+      {
+        "rank": 5,
+        "title": "$100 is 5x $20... wait that's not a discount",
+        "url": "https://www.reddit.com/r/codex/comments/1vk06ad/100_is_5x_20_wait_thats_not_a_discount/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-09T20:19:42.000Z",
         "category": "reddit"
       }
     ]

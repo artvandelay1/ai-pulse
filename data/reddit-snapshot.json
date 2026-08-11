@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T20:52:46.085Z",
+  "fetchedAt": "2026-08-11T21:54:48.704Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,12 +25,13 @@
       },
       {
         "rank": 3,
-        "title": "HyperSAE: Decoupled Poincaré Geometry for Sparse Autoencoders -- 9.8% MSE reduction, 0.2% dead latents on Gemma-2-2B [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlpyh2/hypersae_decoupled_poincaré_geometry_for_sparse/",
+        "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-11T18:37:18.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-11T21:06:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kvlzc5378tih1.png?width=140&height=56&auto=webp&s=a5e05d304bcb94e3d955ccf6181541b0ce477939"
       },
       {
         "rank": 4,
@@ -43,11 +44,11 @@
       },
       {
         "rank": 5,
-        "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
+        "title": "HyperSAE: Decoupled Poincaré Geometry for Sparse Autoencoders -- 9.8% MSE reduction, 0.2% dead latents on Gemma-2-2B [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlpyh2/hypersae_decoupled_poincaré_geometry_for_sparse/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-11T11:53:33.000Z",
+        "publishedAt": "2026-08-11T18:37:18.000Z",
         "category": "reddit"
       },
       {
@@ -82,23 +83,23 @@
       },
       {
         "rank": 4,
-        "title": "Now I feel like, Anthropics every decision is based on OpenAI. Sol release > force to keep Fable in subs, Luna price drop > sonnet too 🤣",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkydyz/now_i_feel_like_anthropics_every_decision_is/",
+        "title": "Ok it's getting weird",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vlm7t4/ok_its_getting_weird/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-10T21:45:15.000Z",
+        "publishedAt": "2026-08-11T16:24:12.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4znrghlcbmih1.jpeg?width=640&crop=smart&auto=webp&s=f0f4e58251c9909324f1a4050a0fd24381a67df4"
+        "thumbnail": "https://preview.redd.it/c89i2lqqurih1.png?width=640&crop=smart&auto=webp&s=7ac5c733fdf178b607ac567269782744e07e0dfa"
       },
       {
         "rank": 5,
-        "title": "Testing a new AI motion capture workflow",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcv8k/testing_a_new_ai_motion_capture_workflow/",
+        "title": "OpenAI is now the #3 largest lab by token consumption on OpenRouter, surpassing Anthropic",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vld96o/openai_is_now_the_3_largest_lab_by_token/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-11T09:42:15.000Z",
+        "publishedAt": "2026-08-11T10:04:58.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGQza21nZDh2cGloMd_4ZHhXvhdSZHVXERgrVpbboegCCPztj637mUZhLIsc.png?width=640&crop=smart&auto=webp&s=2c5b84bcd11f902dc549ec1170db32bab503928b"
+        "thumbnail": "https://preview.redd.it/n2nrfmo6zpih1.png?width=640&crop=smart&auto=webp&s=d8aa9be096e1da7fad2b13e56b4df1e62fb86eae"
       },
       {
         "rank": 1,
@@ -141,11 +142,11 @@
       },
       {
         "rank": 5,
-        "title": "Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
+        "title": "OpenAI's Chief Operating Officer resigns.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-10T21:19:11.000Z",
+        "publishedAt": "2026-08-11T20:09:19.000Z",
         "category": "reddit"
       },
       {

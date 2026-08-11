@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T18:30:43.484Z",
+  "fetchedAt": "2026-08-11T19:41:47.562Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,6 +16,15 @@
       },
       {
         "rank": 2,
+        "title": "HyperSAE: Decoupled Poincaré Geometry for Sparse Autoencoders -- 9.8% MSE reduction, 0.2% dead latents on Gemma-2-2B [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlpyh2/hypersae_decoupled_poincaré_geometry_for_sparse/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T18:37:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
         "source": "r/MachineLearning",
@@ -24,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
         "source": "r/MachineLearning",

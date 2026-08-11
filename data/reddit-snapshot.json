@@ -1,10 +1,135 @@
 {
-  "fetchedAt": "2026-08-11T11:23:08.190Z",
+  "fetchedAt": "2026-08-11T12:12:45.014Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:37:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "How to file a complaint about a published CVPR paper? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:56:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "fru - Fast Random Forest Implementation [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:45:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "📀OPEN LIVING - A Data Center You Can Live in",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T09:24:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YzB6aHFwcTBzcGloMbEOznPQ4ZaLIE9VUzkDVtcs2F08BZxSGCGGsyhQIHw9.png?width=640&crop=smart&auto=webp&s=140128b1b8414bc8c4a87e9473c16e87413293ee"
+      },
+      {
+        "rank": 2,
+        "title": "Now I feel like, Anthropics every decision is based on OpenAI. Sol release > force to keep Fable in subs, Luna price drop > sonnet too 🤣",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkydyz/now_i_feel_like_anthropics_every_decision_is/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T21:45:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4znrghlcbmih1.jpeg?width=640&crop=smart&auto=webp&s=f0f4e58251c9909324f1a4050a0fd24381a67df4"
+      },
+      {
+        "rank": 3,
+        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:34:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
+      },
+      {
+        "rank": 4,
+        "title": "Chinese Tibo 😅",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcowo/chinese_tibo/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T09:32:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/quvsxxdgtpih1.jpeg?width=640&crop=smart&auto=webp&s=6d1298f8585850667208041438e430aad0ae666f"
+      },
+      {
+        "rank": 5,
+        "title": "Bernie Sanders attacks AI CEOs for not keeping their word on pausing AI development if it escapes human control",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vks198/bernie_sanders_attacks_ai_ceos_for_not_keeping/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:51:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Y253OHZ5dnQ0bGloMU77T6PCysGPQbfnS0KWjCCgoawnbK6rf9QWbT7b3Q63.png?width=640&crop=smart&auto=webp&s=14104cbc70292cb51e7ee09de49ef1dd9185ae97"
+      },
+      {
+        "rank": 1,
+        "title": "Claude increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkrt46/claude_increased_the_lower_bound_for_the_fraction/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:43:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/acG42i8su-vSH7_Eu35h_pRKGsyTj_-GB-Jin0-dlew.jpeg?width=640&crop=smart&auto=webp&s=824552a9cde8f41b2083798173ee52db803a87e6"
+      },
+      {
+        "rank": 2,
+        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T22:31:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkq2o8/bernie_sanders_has_written_a_letter_to_sam_altman/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T16:41:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2c5qbuc6tkih1.jpeg?width=640&crop=smart&auto=webp&s=e96196dfc733ddf5bc19ad3064653506ceade0ee"
+      },
+      {
+        "rank": 4,
+        "title": "BREAKING: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkywi9/breaking_nvidia_partners_with_apollo_blackrock/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T22:05:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MVDzbCUsbfDZkssiomyPdtdxzxnkPP31MP7bcswqGj8.jpeg?width=640&crop=smart&auto=webp&s=4088384dacfdee0e0ca225d38454d0bea8b0c997"
+      },
+      {
+        "rank": 5,
+        "title": "Mark Zuckerberg on X: \"I believe everyone should have access to superintelligence\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkqx22/mark_zuckerberg_on_x_i_believe_everyone_should/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T17:11:41.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Claude will watermark generated content, thank you EU",
@@ -55,33 +180,6 @@
       },
       {
         "rank": 1,
-        "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:37:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "How to file a complaint about a published CVPR paper? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:56:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "fru - Fast Random Forest Implementation [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:45:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "It's almost 3 PM and still nothing, is he trolling?",
         "url": "https://www.reddit.com/r/codex/comments/1vkt8wp/its_almost_3_pm_and_still_nothing_is_he_trolling/",
         "source": "r/codex",
@@ -128,105 +226,6 @@
         "publishedAt": "2026-08-10T19:47:07.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/665nu327qlih1.jpeg?width=640&crop=smart&auto=webp&s=9156debf0438ae871e98ce81ffa6e2d5b3e694cf"
-      },
-      {
-        "rank": 1,
-        "title": "Now I feel like, Anthropics every decision is based on OpenAI. Sol release > force to keep Fable in subs, Luna price drop > sonnet too 🤣",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkydyz/now_i_feel_like_anthropics_every_decision_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T21:45:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4znrghlcbmih1.jpeg?width=640&crop=smart&auto=webp&s=f0f4e58251c9909324f1a4050a0fd24381a67df4"
-      },
-      {
-        "rank": 2,
-        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:34:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
-      },
-      {
-        "rank": 3,
-        "title": "Bernie Sanders attacks AI CEOs for not keeping their word on pausing AI development if it escapes human control",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vks198/bernie_sanders_attacks_ai_ceos_for_not_keeping/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:51:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y253OHZ5dnQ0bGloMU77T6PCysGPQbfnS0KWjCCgoawnbK6rf9QWbT7b3Q63.png?width=640&crop=smart&auto=webp&s=14104cbc70292cb51e7ee09de49ef1dd9185ae97"
-      },
-      {
-        "rank": 4,
-        "title": "FBI Seeks AI for Political Watch List | Documents show the FBI seeking AI tools to flag Americans before they act, as the terror watch list's focus moves toward domestic dissent.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmb16/fbi_seeks_ai_for_political_watch_list_documents/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:23:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Nbwm5s0SxUa56M2WAKcGk9-7D4iIecHGYwbo8rOQn0c.jpeg?width=640&crop=smart&auto=webp&s=31c0c03ebbf3bd9f579b448b2f4c190989fe88cc"
-      },
-      {
-        "rank": 5,
-        "title": "📀OPEN LIVING - A Data Center You Can Live in",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T09:24:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YzB6aHFwcTBzcGloMbEOznPQ4ZaLIE9VUzkDVtcs2F08BZxSGCGGsyhQIHw9.png?width=640&crop=smart&auto=webp&s=140128b1b8414bc8c4a87e9473c16e87413293ee"
-      },
-      {
-        "rank": 1,
-        "title": "Claude increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkrt46/claude_increased_the_lower_bound_for_the_fraction/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:43:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/acG42i8su-vSH7_Eu35h_pRKGsyTj_-GB-Jin0-dlew.jpeg?width=640&crop=smart&auto=webp&s=824552a9cde8f41b2083798173ee52db803a87e6"
-      },
-      {
-        "rank": 2,
-        "title": "The Last Bastion of Humanity",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkgzx3/the_last_bastion_of_humanity/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T10:24:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/slew0juxxiih1.jpeg?width=640&crop=smart&auto=webp&s=a6aad842dee08538a9e284d01a10faabb14d0911"
-      },
-      {
-        "rank": 3,
-        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T22:31:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkq2o8/bernie_sanders_has_written_a_letter_to_sam_altman/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T16:41:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2c5qbuc6tkih1.jpeg?width=640&crop=smart&auto=webp&s=e96196dfc733ddf5bc19ad3064653506ceade0ee"
-      },
-      {
-        "rank": 5,
-        "title": "Meta will soon release the weights for Muse Spark 1.2, their latest foundation model.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkh1lm/meta_will_soon_release_the_weights_for_muse_spark/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T10:27:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l8gjuqi8yiih1.png?width=640&crop=smart&auto=webp&s=00bc0eda0640680a8d3f79cfd1373259d0bbe177"
       }
     ]
   }

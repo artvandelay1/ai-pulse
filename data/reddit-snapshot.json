@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T07:15:46.952Z",
+  "fetchedAt": "2026-08-11T08:32:42.819Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -53,16 +53,6 @@
       },
       {
         "rank": 1,
-        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:34:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
-      },
-      {
-        "rank": 2,
         "title": "Now I feel like, Anthropics every decision is based on OpenAI. Sol release > force to keep Fable in subs, Luna price drop > sonnet too 🤣",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vkydyz/now_i_feel_like_anthropics_every_decision_is/",
         "source": "r/OpenAI",
@@ -70,6 +60,16 @@
         "publishedAt": "2026-08-10T21:45:15.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4znrghlcbmih1.jpeg?width=640&crop=smart&auto=webp&s=f0f4e58251c9909324f1a4050a0fd24381a67df4"
+      },
+      {
+        "rank": 2,
+        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:34:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
       },
       {
         "rank": 3,

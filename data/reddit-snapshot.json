@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T04:03:43.277Z",
+  "fetchedAt": "2026-08-11T05:37:50.406Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -103,16 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T05:24:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f"
-      },
-      {
-        "rank": 2,
         "title": "Claude increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%",
         "url": "https://www.reddit.com/r/singularity/comments/1vkrt46/claude_increased_the_lower_bound_for_the_fraction/",
         "source": "r/singularity",
@@ -122,7 +112,7 @@
         "thumbnail": "https://external-preview.redd.it/acG42i8su-vSH7_Eu35h_pRKGsyTj_-GB-Jin0-dlew.jpeg?width=640&crop=smart&auto=webp&s=824552a9cde8f41b2083798173ee52db803a87e6"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "The Last Bastion of Humanity",
         "url": "https://www.reddit.com/r/singularity/comments/1vkgzx3/the_last_bastion_of_humanity/",
         "source": "r/singularity",
@@ -132,7 +122,7 @@
         "thumbnail": "https://preview.redd.it/slew0juxxiih1.jpeg?width=640&crop=smart&auto=webp&s=a6aad842dee08538a9e284d01a10faabb14d0911"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
         "url": "https://www.reddit.com/r/singularity/comments/1vkq2o8/bernie_sanders_has_written_a_letter_to_sam_altman/",
         "source": "r/singularity",
@@ -142,13 +132,23 @@
         "thumbnail": "https://preview.redd.it/2c5qbuc6tkih1.jpeg?width=640&crop=smart&auto=webp&s=e96196dfc733ddf5bc19ad3064653506ceade0ee"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
         "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-10T22:31:58.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Meta will soon release the weights for Muse Spark 1.2, their latest foundation model.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkh1lm/meta_will_soon_release_the_weights_for_muse_spark/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T10:27:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l8gjuqi8yiih1.png?width=640&crop=smart&auto=webp&s=00bc0eda0640680a8d3f79cfd1373259d0bbe177"
       },
       {
         "rank": 1,

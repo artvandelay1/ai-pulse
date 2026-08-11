@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T12:12:45.014Z",
+  "fetchedAt": "2026-08-11T13:57:46.280Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -33,6 +33,24 @@
         "category": "reddit"
       },
       {
+        "rank": 4,
+        "title": "Prospects of Finding a ML Engineering Job [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfjy3/prospects_of_finding_a_ml_engineering_job_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T12:05:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T11:53:33.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
         "title": "📀OPEN LIVING - A Data Center You Can Live in",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
@@ -54,16 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:34:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
-      },
-      {
-        "rank": 4,
         "title": "Chinese Tibo 😅",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vlcowo/chinese_tibo/",
         "source": "r/OpenAI",
@@ -71,6 +79,16 @@
         "publishedAt": "2026-08-11T09:32:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/quvsxxdgtpih1.jpeg?width=640&crop=smart&auto=webp&s=6d1298f8585850667208041438e430aad0ae666f"
+      },
+      {
+        "rank": 4,
+        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T14:34:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
       },
       {
         "rank": 5,
@@ -123,12 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Mark Zuckerberg on X: \"I believe everyone should have access to superintelligence\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkqx22/mark_zuckerberg_on_x_i_believe_everyone_should/",
+        "title": "\"do ur thang\" using a mindless GPT 5.6 Sol claims to improve upon Anthropic's Riemann hypothesis +0.002%",
+        "url": "https://www.reddit.com/r/singularity/comments/1vl3eqx/do_ur_thang_using_a_mindless_gpt_56_sol_claims_to/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-10T17:11:41.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-11T01:18:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/sGEBSL-l5rslRnCU_J6yZTnlkoBXN9HlNDMIHx07rOM.png?width=640&crop=smart&auto=webp&s=927bb8a3f754f3d939b749fde66705a5fdbf86bf"
       },
       {
         "rank": 1,

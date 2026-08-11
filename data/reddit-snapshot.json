@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T05:37:50.406Z",
+  "fetchedAt": "2026-08-11T07:15:46.952Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -123,6 +123,15 @@
       },
       {
         "rank": 3,
+        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T22:31:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
         "url": "https://www.reddit.com/r/singularity/comments/1vkq2o8/bernie_sanders_has_written_a_letter_to_sam_altman/",
         "source": "r/singularity",
@@ -130,15 +139,6 @@
         "publishedAt": "2026-08-10T16:41:51.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/2c5qbuc6tkih1.jpeg?width=640&crop=smart&auto=webp&s=e96196dfc733ddf5bc19ad3064653506ceade0ee"
-      },
-      {
-        "rank": 4,
-        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T22:31:58.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,

@@ -1,57 +1,10 @@
 {
-  "fetchedAt": "2026-08-11T22:50:07.863Z",
+  "fetchedAt": "2026-08-11T23:46:46.317Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Claude Code plugin for translating from Claudish to English",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl0n1t/claude_code_plugin_for_translating_from_claudish/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T23:17:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/05dbec6tqmih1.png?width=640&crop=smart&auto=webp&s=c7380106af708e5c674a31b88f59e8aa2aa88b5b"
-      },
-      {
-        "rank": 2,
-        "title": "Claude will now include invisible marks to show a text was made with AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlidn0/claude_will_now_include_invisible_marks_to_show_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T14:04:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/X9YTNUZrN-YoLXmRMcG4zN6NEZ58jxtQM62ZDYzw9hQ.jpeg?width=640&crop=smart&auto=webp&s=f795e1be7d5ea10318f3dae6a79a5414f0612d56"
-      },
-      {
-        "rank": 3,
-        "title": "People are worried about watermarks when the slop they put out is the biggest watermark that can be",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlghjq/people_are_worried_about_watermarks_when_the_slop/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T12:47:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How would an “invisible watermark” in AI-generated text actually work?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl9gq5/how_would_an_invisible_watermark_in_aigenerated/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T06:23:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Why is Claude so morally judgmental",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl2rzi/why_is_claude_so_morally_judgmental/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T00:50:10.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Prospects of Finding a ML Engineering Job [D]",
@@ -97,53 +50,6 @@
         "score": 0,
         "publishedAt": "2026-08-11T20:35:27.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo, a man of his word",
-        "url": "https://www.reddit.com/r/codex/comments/1vl1ufh/tibo_a_man_of_his_word/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T00:08:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1js4onjw0nih1.png?width=640&crop=smart&auto=webp&s=91a2758b7f0ead300d4461cc951f883600d9e03e"
-      },
-      {
-        "rank": 2,
-        "title": "eclipse reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1vln098/eclipse_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T16:52:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "This is incredible",
-        "url": "https://www.reddit.com/r/codex/comments/1vl3rs7/this_is_incredible/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T01:35:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "PSA: If you have multiple accounts",
-        "url": "https://www.reddit.com/r/codex/comments/1vl6f4w/psa_if_you_have_multiple_accounts/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T03:40:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Terminal Bench 3.0 has been released.",
-        "url": "https://www.reddit.com/r/codex/comments/1vlnkz8/terminal_bench_30_has_been_released/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T17:13:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/15lrfj1p3sih1.jpeg?width=640&crop=smart&auto=webp&s=8caef9813fd1261ad27d260aebb9f6decc08abf3"
       },
       {
         "rank": 1,
@@ -197,15 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T22:31:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
         "url": "https://www.reddit.com/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/",
         "source": "r/singularity",
@@ -215,17 +112,7 @@
         "thumbnail": "https://preview.redd.it/wqeyjq502rih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a584c6e4d9e0be9d8abc9e685fe86897bfad6b7"
       },
       {
-        "rank": 3,
-        "title": "BREAKING: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkywi9/breaking_nvidia_partners_with_apollo_blackrock/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T22:05:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MVDzbCUsbfDZkssiomyPdtdxzxnkPP31MP7bcswqGj8.jpeg?width=640&crop=smart&auto=webp&s=4088384dacfdee0e0ca225d38454d0bea8b0c997"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "\"do ur thang\" using a mindless GPT 5.6 Sol claims to improve upon Anthropic's Riemann hypothesis +0.002%",
         "url": "https://www.reddit.com/r/singularity/comments/1vl3eqx/do_ur_thang_using_a_mindless_gpt_56_sol_claims_to/",
         "source": "r/singularity",
@@ -235,13 +122,127 @@
         "thumbnail": "https://external-preview.redd.it/sGEBSL-l5rslRnCU_J6yZTnlkoBXN9HlNDMIHx07rOM.png?width=640&crop=smart&auto=webp&s=927bb8a3f754f3d939b749fde66705a5fdbf86bf"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "OpenAI's Chief Operating Officer resigns.",
         "url": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-11T20:09:19.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Did Pathway just reveal the architecture breakthrough Andrew Curran predicted? Its 150M model sets a new ARC-AGI-1 cost-efficiency frontier",
+        "url": "https://www.reddit.com/r/singularity/comments/1vljb4r/did_pathway_just_reveal_the_architecture/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-11T14:39:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f5mjxmk8crih1.jpeg?width=640&crop=smart&auto=webp&s=661ad233ac434c36767c862df3ec22aca36e5376"
+      },
+      {
+        "rank": 5,
+        "title": "Cherokee Nation bans hyperscale data centers on tribally owned, trust lands",
+        "url": "https://www.reddit.com/r/singularity/comments/1vlfhei/cherokee_nation_bans_hyperscale_data_centers_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-11T12:01:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Vj1HvCmqWOBzyWwgVPZ2axl682cHVpk8tMstlzQWX3k.jpeg?width=640&crop=smart&auto=webp&s=b6d44ba69249d47362cc674aa912c1a274db3a11"
+      },
+      {
+        "rank": 1,
+        "title": "Claude Code plugin for translating from Claudish to English",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl0n1t/claude_code_plugin_for_translating_from_claudish/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T23:17:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/05dbec6tqmih1.png?width=640&crop=smart&auto=webp&s=c7380106af708e5c674a31b88f59e8aa2aa88b5b"
+      },
+      {
+        "rank": 2,
+        "title": "Claude will now include invisible marks to show a text was made with AI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlidn0/claude_will_now_include_invisible_marks_to_show_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T14:04:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/X9YTNUZrN-YoLXmRMcG4zN6NEZ58jxtQM62ZDYzw9hQ.jpeg?width=640&crop=smart&auto=webp&s=f795e1be7d5ea10318f3dae6a79a5414f0612d56"
+      },
+      {
+        "rank": 3,
+        "title": "People are worried about watermarks when the slop they put out is the biggest watermark that can be",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlghjq/people_are_worried_about_watermarks_when_the_slop/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T12:47:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How would an “invisible watermark” in AI-generated text actually work?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl9gq5/how_would_an_invisible_watermark_in_aigenerated/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T06:23:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Why is Claude so morally judgmental",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl2rzi/why_is_claude_so_morally_judgmental/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T00:50:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo, a man of his word",
+        "url": "https://www.reddit.com/r/codex/comments/1vl1ufh/tibo_a_man_of_his_word/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T00:08:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1js4onjw0nih1.png?width=640&crop=smart&auto=webp&s=91a2758b7f0ead300d4461cc951f883600d9e03e"
+      },
+      {
+        "rank": 2,
+        "title": "eclipse reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1vln098/eclipse_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T16:52:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "This is incredible",
+        "url": "https://www.reddit.com/r/codex/comments/1vl3rs7/this_is_incredible/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T01:35:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "PSA: If you have multiple accounts",
+        "url": "https://www.reddit.com/r/codex/comments/1vl6f4w/psa_if_you_have_multiple_accounts/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T03:40:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Terminal Bench 3.0 has been released.",
+        "url": "https://www.reddit.com/r/codex/comments/1vlnkz8/terminal_bench_30_has_been_released/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T17:13:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/15lrfj1p3sih1.jpeg?width=640&crop=smart&auto=webp&s=8caef9813fd1261ad27d260aebb9f6decc08abf3"
       }
     ]
   }

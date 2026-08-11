@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T13:57:46.280Z",
+  "fetchedAt": "2026-08-11T15:05:48.053Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "How to file a complaint about a published CVPR paper? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:56:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "fru - Fast Random Forest Implementation [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Prospects of Finding a ML Engineering Job [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfjy3/prospects_of_finding_a_ml_engineering_job_d/",
         "source": "r/MachineLearning",
@@ -42,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
         "source": "r/MachineLearning",
@@ -82,16 +73,6 @@
       },
       {
         "rank": 4,
-        "title": "We’re Not Building AI Genies; We’re Building AI Meeseeks",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkmkwu/were_not_building_ai_genies_were_building_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:34:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-UCGjZQ_p_426csvQQxgfUZ4VKOU3AGo1yl7R0Q21yA.png?width=640&crop=smart&auto=webp&s=6f012b5b59455d44100a476affee8b376c75b72f"
-      },
-      {
-        "rank": 5,
         "title": "Bernie Sanders attacks AI CEOs for not keeping their word on pausing AI development if it escapes human control",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vks198/bernie_sanders_attacks_ai_ceos_for_not_keeping/",
         "source": "r/OpenAI",
@@ -101,7 +82,26 @@
         "thumbnail": "https://external-preview.redd.it/Y253OHZ5dnQ0bGloMU77T6PCysGPQbfnS0KWjCCgoawnbK6rf9QWbT7b3Q63.png?width=640&crop=smart&auto=webp&s=14104cbc70292cb51e7ee09de49ef1dd9185ae97"
       },
       {
+        "rank": 5,
+        "title": "Testing a new AI motion capture workflow",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcv8k/testing_a_new_ai_motion_capture_workflow/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T09:42:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGQza21nZDh2cGloMd_4ZHhXvhdSZHVXERgrVpbboegCCPztj637mUZhLIsc.png?width=640&crop=smart&auto=webp&s=2c5b84bcd11f902dc549ec1170db32bab503928b"
+      },
+      {
         "rank": 1,
+        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T22:31:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Claude increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%",
         "url": "https://www.reddit.com/r/singularity/comments/1vkrt46/claude_increased_the_lower_bound_for_the_fraction/",
         "source": "r/singularity",
@@ -109,15 +109,6 @@
         "publishedAt": "2026-08-10T17:43:14.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/acG42i8su-vSH7_Eu35h_pRKGsyTj_-GB-Jin0-dlew.jpeg?width=640&crop=smart&auto=webp&s=824552a9cde8f41b2083798173ee52db803a87e6"
-      },
-      {
-        "rank": 2,
-        "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T22:31:58.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,

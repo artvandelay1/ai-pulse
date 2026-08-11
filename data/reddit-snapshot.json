@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-11T21:54:48.704Z",
+  "fetchedAt": "2026-08-11T22:50:07.863Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude Code plugin for translating from Claudish to English",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl0n1t/claude_code_plugin_for_translating_from_claudish/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T23:17:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/05dbec6tqmih1.png?width=640&crop=smart&auto=webp&s=c7380106af708e5c674a31b88f59e8aa2aa88b5b"
+      },
+      {
+        "rank": 2,
+        "title": "Claude will now include invisible marks to show a text was made with AI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlidn0/claude_will_now_include_invisible_marks_to_show_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T14:04:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/X9YTNUZrN-YoLXmRMcG4zN6NEZ58jxtQM62ZDYzw9hQ.jpeg?width=640&crop=smart&auto=webp&s=f795e1be7d5ea10318f3dae6a79a5414f0612d56"
+      },
+      {
+        "rank": 3,
+        "title": "People are worried about watermarks when the slop they put out is the biggest watermark that can be",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlghjq/people_are_worried_about_watermarks_when_the_slop/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T12:47:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How would an “invisible watermark” in AI-generated text actually work?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl9gq5/how_would_an_invisible_watermark_in_aigenerated/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T06:23:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Why is Claude so morally judgmental",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl2rzi/why_is_claude_so_morally_judgmental/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T00:50:10.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Prospects of Finding a ML Engineering Job [D]",
@@ -16,15 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "AAAI 2027 Review: No code submission? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T18:58:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
         "source": "r/MachineLearning",
@@ -34,22 +72,78 @@
         "thumbnail": "https://preview.redd.it/kvlzc5378tih1.png?width=140&height=56&auto=webp&s=a5e05d304bcb94e3d955ccf6181541b0ce477939"
       },
       {
-        "rank": 4,
-        "title": "Continued development of the model based on the SSN [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlrajq/continued_development_of_the_model_based_on_the/",
+        "rank": 3,
+        "title": "AAAI 2027 Review: No code submission? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-11T19:25:06.000Z",
+        "publishedAt": "2026-08-11T18:58:04.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "HyperSAE: Decoupled Poincaré Geometry for Sparse Autoencoders -- 9.8% MSE reduction, 0.2% dead latents on Gemma-2-2B [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlpyh2/hypersae_decoupled_poincaré_geometry_for_sparse/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-11T18:37:18.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Research direction: Intelligent Model Weight transfer between LLMs [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlt7t7/research_direction_intelligent_model_weight/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T20:35:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo, a man of his word",
+        "url": "https://www.reddit.com/r/codex/comments/1vl1ufh/tibo_a_man_of_his_word/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T00:08:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1js4onjw0nih1.png?width=640&crop=smart&auto=webp&s=91a2758b7f0ead300d4461cc951f883600d9e03e"
+      },
+      {
+        "rank": 2,
+        "title": "eclipse reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1vln098/eclipse_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T16:52:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "This is incredible",
+        "url": "https://www.reddit.com/r/codex/comments/1vl3rs7/this_is_incredible/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T01:35:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "PSA: If you have multiple accounts",
+        "url": "https://www.reddit.com/r/codex/comments/1vl6f4w/psa_if_you_have_multiple_accounts/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T03:40:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Terminal Bench 3.0 has been released.",
+        "url": "https://www.reddit.com/r/codex/comments/1vlnkz8/terminal_bench_30_has_been_released/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T17:13:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/15lrfj1p3sih1.jpeg?width=640&crop=smart&auto=webp&s=8caef9813fd1261ad27d260aebb9f6decc08abf3"
       },
       {
         "rank": 1,
@@ -148,103 +242,6 @@
         "score": 0,
         "publishedAt": "2026-08-11T20:09:19.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude will watermark generated content, thank you EU",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vky8at/claude_will_watermark_generated_content_thank_you/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T21:39:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Claude Code plugin for translating from Claudish to English",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl0n1t/claude_code_plugin_for_translating_from_claudish/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T23:17:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/05dbec6tqmih1.png?width=640&crop=smart&auto=webp&s=c7380106af708e5c674a31b88f59e8aa2aa88b5b"
-      },
-      {
-        "rank": 3,
-        "title": "Just realized why Fable can't stop saying \"load-bearing\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkvovf/just_realized_why_fable_cant_stop_saying/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T20:03:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ew5cpj6tlih1.png?width=640&crop=smart&auto=webp&s=0284de12731224cbab8cae3c8fd7fb95e61ad3c9"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic cancelled the wrong org, kept ~$3,900 of what we paid, and support says the decision is \"final\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkwdbe/anthropic_cancelled_the_wrong_org_kept_3900_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T20:28:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude hacked a gym booking system",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vkn2b5/claude_hacked_a_gym_booking_system/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T14:52:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/81qe6f0q9kih1.jpeg?width=640&crop=smart&auto=webp&s=fb718316d4e2a1af5dcad78285fb3bfb633cd7a8"
-      },
-      {
-        "rank": 1,
-        "title": "It's almost 3 PM and still nothing, is he trolling?",
-        "url": "https://www.reddit.com/r/codex/comments/1vkt8wp/its_almost_3_pm_and_still_nothing_is_he_trolling/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T18:34:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/po5sbr94dlih1.jpeg?width=640&crop=smart&auto=webp&s=4e87224fffc9ff6b46fb3ac29ee18057630f0b8a"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo, a man of his word",
-        "url": "https://www.reddit.com/r/codex/comments/1vl1ufh/tibo_a_man_of_his_word/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T00:08:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1js4onjw0nih1.png?width=640&crop=smart&auto=webp&s=91a2758b7f0ead300d4461cc951f883600d9e03e"
-      },
-      {
-        "rank": 3,
-        "title": "We’re dancing today",
-        "url": "https://www.reddit.com/r/codex/comments/1vkkbo8/were_dancing_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T13:05:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fdc0mycoqjih1.jpeg?width=640&crop=smart&auto=webp&s=ff0a118c2255b00c3a6bbc151d3dee933dd2eda7"
-      },
-      {
-        "rank": 4,
-        "title": "5.6 Cyber Released",
-        "url": "https://www.reddit.com/r/codex/comments/1vkrapa/56_cyber_released/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:25:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "every time i see a post about resets",
-        "url": "https://www.reddit.com/r/codex/comments/1vkv820/every_time_i_see_a_post_about_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-10T19:47:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/665nu327qlih1.jpeg?width=640&crop=smart&auto=webp&s=9156debf0438ae871e98ce81ffa6e2d5b3e694cf"
       }
     ]
   }

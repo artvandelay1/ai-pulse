@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T19:41:47.562Z",
+  "fetchedAt": "2026-08-11T20:52:46.085Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,6 +16,15 @@
       },
       {
         "rank": 2,
+        "title": "AAAI 2027 Review: No code submission? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T18:58:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "HyperSAE: Decoupled Poincaré Geometry for Sparse Autoencoders -- 9.8% MSE reduction, 0.2% dead latents on Gemma-2-2B [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlpyh2/hypersae_decoupled_poincaré_geometry_for_sparse/",
         "source": "r/MachineLearning",
@@ -24,23 +33,22 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "title": "Continued development of the model based on the SSN [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlrajq/continued_development_of_the_model_based_on_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T19:25:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-11T11:53:33.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T16:12:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xhgnqi9mrrih1.png?width=640&crop=smart&auto=webp&s=bfc41b6f4d3488bbd7eec6850d5b8d703791c58c"
       },
       {
         "rank": 1,

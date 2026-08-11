@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-11T17:31:49.783Z",
+  "fetchedAt": "2026-08-11T18:30:43.484Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:37:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Prospects of Finding a ML Engineering Job [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfjy3/prospects_of_finding_a_ml_engineering_job_d/",
         "source": "r/MachineLearning",
@@ -24,16 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "fru - Fast Random Forest Implementation [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrvks/fru_fast_random_forest_implementation_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:45:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
         "source": "r/MachineLearning",
@@ -42,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
         "source": "r/MachineLearning",
@@ -63,26 +45,6 @@
       },
       {
         "rank": 2,
-        "title": "Chinese Tibo 😅",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcowo/chinese_tibo/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T09:32:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/quvsxxdgtpih1.jpeg?width=640&crop=smart&auto=webp&s=6d1298f8585850667208041438e430aad0ae666f"
-      },
-      {
-        "rank": 3,
-        "title": "Now I feel like, Anthropics every decision is based on OpenAI. Sol release > force to keep Fable in subs, Luna price drop > sonnet too 🤣",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vkydyz/now_i_feel_like_anthropics_every_decision_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-10T21:45:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4znrghlcbmih1.jpeg?width=640&crop=smart&auto=webp&s=f0f4e58251c9909324f1a4050a0fd24381a67df4"
-      },
-      {
-        "rank": 4,
         "title": "What's your thoughts on this?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vljlpb/whats_your_thoughts_on_this/",
         "source": "r/OpenAI",
@@ -92,14 +54,34 @@
         "thumbnail": "https://preview.redd.it/c8s1dtl7erih1.jpeg?width=640&crop=smart&auto=webp&s=8e317eec6e9197604a70cda3a05bbfd24c077a98"
       },
       {
-        "rank": 5,
-        "title": "Bernie Sanders attacks AI CEOs for not keeping their word on pausing AI development if it escapes human control",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vks198/bernie_sanders_attacks_ai_ceos_for_not_keeping/",
+        "rank": 3,
+        "title": "Chinese Tibo 😅",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcowo/chinese_tibo/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-10T17:51:18.000Z",
+        "publishedAt": "2026-08-11T09:32:04.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y253OHZ5dnQ0bGloMU77T6PCysGPQbfnS0KWjCCgoawnbK6rf9QWbT7b3Q63.png?width=640&crop=smart&auto=webp&s=14104cbc70292cb51e7ee09de49ef1dd9185ae97"
+        "thumbnail": "https://preview.redd.it/quvsxxdgtpih1.jpeg?width=640&crop=smart&auto=webp&s=6d1298f8585850667208041438e430aad0ae666f"
+      },
+      {
+        "rank": 4,
+        "title": "Now I feel like, Anthropics every decision is based on OpenAI. Sol release > force to keep Fable in subs, Luna price drop > sonnet too 🤣",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vkydyz/now_i_feel_like_anthropics_every_decision_is/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-10T21:45:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4znrghlcbmih1.jpeg?width=640&crop=smart&auto=webp&s=f0f4e58251c9909324f1a4050a0fd24381a67df4"
+      },
+      {
+        "rank": 5,
+        "title": "Testing a new AI motion capture workflow",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcv8k/testing_a_new_ai_motion_capture_workflow/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T09:42:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGQza21nZDh2cGloMd_4ZHhXvhdSZHVXERgrVpbboegCCPztj637mUZhLIsc.png?width=640&crop=smart&auto=webp&s=2c5b84bcd11f902dc549ec1170db32bab503928b"
       },
       {
         "rank": 1,
@@ -112,16 +94,6 @@
       },
       {
         "rank": 2,
-        "title": "Claude increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%",
-        "url": "https://www.reddit.com/r/singularity/comments/1vkrt46/claude_increased_the_lower_bound_for_the_fraction/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-10T17:43:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/acG42i8su-vSH7_Eu35h_pRKGsyTj_-GB-Jin0-dlew.jpeg?width=640&crop=smart&auto=webp&s=824552a9cde8f41b2083798173ee52db803a87e6"
-      },
-      {
-        "rank": 3,
         "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
         "url": "https://www.reddit.com/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/",
         "source": "r/singularity",
@@ -131,7 +103,7 @@
         "thumbnail": "https://preview.redd.it/wqeyjq502rih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a584c6e4d9e0be9d8abc9e685fe86897bfad6b7"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "BREAKING: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
         "url": "https://www.reddit.com/r/singularity/comments/1vkywi9/breaking_nvidia_partners_with_apollo_blackrock/",
         "source": "r/singularity",
@@ -141,7 +113,7 @@
         "thumbnail": "https://external-preview.redd.it/MVDzbCUsbfDZkssiomyPdtdxzxnkPP31MP7bcswqGj8.jpeg?width=640&crop=smart&auto=webp&s=4088384dacfdee0e0ca225d38454d0bea8b0c997"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "\"do ur thang\" using a mindless GPT 5.6 Sol claims to improve upon Anthropic's Riemann hypothesis +0.002%",
         "url": "https://www.reddit.com/r/singularity/comments/1vl3eqx/do_ur_thang_using_a_mindless_gpt_56_sol_claims_to/",
         "source": "r/singularity",
@@ -149,6 +121,15 @@
         "publishedAt": "2026-08-11T01:18:38.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/sGEBSL-l5rslRnCU_J6yZTnlkoBXN9HlNDMIHx07rOM.png?width=640&crop=smart&auto=webp&s=927bb8a3f754f3d939b749fde66705a5fdbf86bf"
+      },
+      {
+        "rank": 5,
+        "title": "Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-10T21:19:11.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-12T14:38:47.694Z",
+  "fetchedAt": "2026-08-12T16:03:13.308Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "What the hell happened?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlme0b/what_the_hell_happened/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T16:30:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hxpmf1yvvrih1.png?width=320&crop=smart&auto=webp&s=34c683c4d5bf1402e5aeb64d7d8b9fadf796a278"
+      },
+      {
+        "rank": 2,
+        "title": "Fable 5 vs Opus 5 for 2D Sprites",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vls7dp/fable_5_vs_opus_5_for_2d_sprites/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T19:58:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NTlhczdnY3F3c2loMbBqXbHeWWI3imPCjSgeYseZt_MeZKm1StG46SnKujbe.png?width=640&crop=smart&auto=webp&s=83a285877930b2db53fe596a97dda5d6c8c26b94"
+      },
+      {
+        "rank": 3,
+        "title": "New to Claude but this is the greatest interaction I’ve ever had with any AI model.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm8zgv/new_to_claude_but_this_is_the_greatest/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T09:13:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r9kanmj4vwih1.jpeg?width=640&crop=smart&auto=webp&s=8ad906b33cba8c974727250da6e5deee801adb2b"
+      },
+      {
+        "rank": 4,
+        "title": "I read Anthropic's actual contracts after the watermark announcement. Three things nobody is reporting: you can't sue as a class, liability is capped at 12 months of fees, and the Terms never mention marking at all.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm0s4b/i_read_anthropics_actual_contracts_after_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T01:50:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Sonnet 5 Pricing Update: No Update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlxrzy/sonnet_5_pricing_update_no_update/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T23:36:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/je0yon640uih1.jpeg?width=640&crop=smart&auto=webp&s=5991155e2815f43f20ce1c401dde9b9eb73eec42"
+      },
       {
         "rank": 1,
         "title": "I built an \"honest\" CS conference ranking: sorted by how good the trip is, not the CORE ranking [P]",
@@ -49,6 +98,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-12T14:10:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "eclipse reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1vln098/eclipse_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T16:52:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Reset or banked reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1vm9kc7/reset_or_banked_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T09:47:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sx8lkb6v0xih1.png?width=640&crop=smart&auto=webp&s=37ed89f1fe4110bf6c9678e65a0626e32cc179b7"
+      },
+      {
+        "rank": 3,
+        "title": "Terminal Bench 3.0 has been released.",
+        "url": "https://www.reddit.com/r/codex/comments/1vlnkz8/terminal_bench_30_has_been_released/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T17:13:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/15lrfj1p3sih1.jpeg?width=640&crop=smart&auto=webp&s=8caef9813fd1261ad27d260aebb9f6decc08abf3"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT App: Finally on Linux",
+        "url": "https://www.reddit.com/r/codex/comments/1vloqcz/chatgpt_app_finally_on_linux/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T17:54:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wk6k9cwrasih1.png?width=640&crop=smart&auto=webp&s=c04679f1d13aa3f15dcf8016b52fcd6627eb2b0c"
+      },
+      {
+        "rank": 5,
+        "title": "Reset Tomorrow!",
+        "url": "https://www.reddit.com/r/codex/comments/1vm6es7/reset_tomorrow/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T06:40:56.000Z",
         "category": "reddit"
       },
       {
@@ -149,103 +246,6 @@
         "publishedAt": "2026-08-12T10:58:32.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/S3AYE2C-SfjRuD2Al6SciWyxG0GYujJnzGu0KP7s7uk.jpeg?width=640&crop=smart&auto=webp&s=77db7db8978fead41bcf66ee4565716e082eebcd"
-      },
-      {
-        "rank": 1,
-        "title": "Claude will now include invisible marks to show a text was made with AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlidn0/claude_will_now_include_invisible_marks_to_show_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T14:04:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/X9YTNUZrN-YoLXmRMcG4zN6NEZ58jxtQM62ZDYzw9hQ.jpeg?width=640&crop=smart&auto=webp&s=f795e1be7d5ea10318f3dae6a79a5414f0612d56"
-      },
-      {
-        "rank": 2,
-        "title": "People are worried about watermarks when the slop they put out is the biggest watermark that can be",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlghjq/people_are_worried_about_watermarks_when_the_slop/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T12:47:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What the hell happened?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlme0b/what_the_hell_happened/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T16:30:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hxpmf1yvvrih1.png?width=320&crop=smart&auto=webp&s=34c683c4d5bf1402e5aeb64d7d8b9fadf796a278"
-      },
-      {
-        "rank": 4,
-        "title": "Fable 5 vs Opus 5 for 2D Sprites",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vls7dp/fable_5_vs_opus_5_for_2d_sprites/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T19:58:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NTlhczdnY3F3c2loMbBqXbHeWWI3imPCjSgeYseZt_MeZKm1StG46SnKujbe.png?width=640&crop=smart&auto=webp&s=83a285877930b2db53fe596a97dda5d6c8c26b94"
-      },
-      {
-        "rank": 5,
-        "title": "I read Anthropic's actual contracts after the watermark announcement. Three things nobody is reporting: you can't sue as a class, liability is capped at 12 months of fees, and the Terms never mention marking at all.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm0s4b/i_read_anthropics_actual_contracts_after_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T01:50:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "eclipse reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1vln098/eclipse_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T16:52:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Terminal Bench 3.0 has been released.",
-        "url": "https://www.reddit.com/r/codex/comments/1vlnkz8/terminal_bench_30_has_been_released/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T17:13:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/15lrfj1p3sih1.jpeg?width=640&crop=smart&auto=webp&s=8caef9813fd1261ad27d260aebb9f6decc08abf3"
-      },
-      {
-        "rank": 3,
-        "title": "ChatGPT App: Finally on Linux",
-        "url": "https://www.reddit.com/r/codex/comments/1vloqcz/chatgpt_app_finally_on_linux/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T17:54:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wk6k9cwrasih1.png?width=640&crop=smart&auto=webp&s=c04679f1d13aa3f15dcf8016b52fcd6627eb2b0c"
-      },
-      {
-        "rank": 4,
-        "title": "A bit ominous I must say",
-        "url": "https://www.reddit.com/r/codex/comments/1vll05e/a_bit_ominous_i_must_say/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T15:40:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/43lodw2lmrih1.png?width=640&crop=smart&auto=webp&s=e0fbeecc3fd540fb2c5d5dfb787af5b1a5bc9033"
-      },
-      {
-        "rank": 5,
-        "title": "I tricked Codex into bypassing its own safety restrictions with fake authorization emails — is there a limit to this?",
-        "url": "https://www.reddit.com/r/codex/comments/1vlnh6h/i_tricked_codex_into_bypassing_its_own_safety/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T17:09:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gdtkv5w32sih1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6378105621a708e49c633ee8dad58c84728c0446"
       }
     ]
   }

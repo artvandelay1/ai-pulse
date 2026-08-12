@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-12T21:22:46.876Z",
+  "fetchedAt": "2026-08-12T22:14:10.969Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "New to Claude but this is the greatest interaction I’ve ever had with any AI model.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm8zgv/new_to_claude_but_this_is_the_greatest/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T09:13:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r9kanmj4vwih1.jpeg?width=640&crop=smart&auto=webp&s=8ad906b33cba8c974727250da6e5deee801adb2b"
+      },
+      {
+        "rank": 2,
+        "title": "I asked Opus 5 to build GTA6 on its own in 24 hours",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmjzh7/i_asked_opus_5_to_build_gta6_on_its_own_in_24/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T17:02:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NW1wYjFra2I2emloMbPP7_y5kfpf9KRoqLL6biYwPBanjVuQPuECRInf0Bb0.png?width=640&crop=smart&auto=webp&s=31050950b7ce5a06606fe0ac2ca558ea982d9b28"
+      },
+      {
+        "rank": 3,
+        "title": "The True Motive Behind Watermarking: To Avoid AI-generated Text During Training",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmgctq/the_true_motive_behind_watermarking_to_avoid/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T14:52:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "What exactly is people's problem with text watermarking?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm78ug/what_exactly_is_peoples_problem_with_text/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T07:28:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Sonnet 5 Pricing Update: No Update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlxrzy/sonnet_5_pricing_update_no_update/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T23:36:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/je0yon640uih1.jpeg?width=640&crop=smart&auto=webp&s=5991155e2815f43f20ce1c401dde9b9eb73eec42"
+      },
       {
         "rank": 1,
         "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
@@ -41,6 +89,55 @@
         "score": 0,
         "publishedAt": "2026-08-12T14:10:08.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Reset or banked reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1vm9kc7/reset_or_banked_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T09:47:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sx8lkb6v0xih1.png?width=640&crop=smart&auto=webp&s=37ed89f1fe4110bf6c9678e65a0626e32cc179b7"
+      },
+      {
+        "rank": 2,
+        "title": "Surprise Surprise!! What do you think this Surprise is going to be?",
+        "url": "https://www.reddit.com/r/codex/comments/1vmdezd/surprise_surprise_what_do_you_think_this_surprise/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T12:57:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oo5k8a81zxih1.png?width=140&height=43&auto=webp&s=e974f6a01132fe2f7e77f3d798bfaeb8cf4fd9dc"
+      },
+      {
+        "rank": 3,
+        "title": "Reset Tomorrow!",
+        "url": "https://www.reddit.com/r/codex/comments/1vm6es7/reset_tomorrow/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T06:40:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "You'll only have to review code, they said",
+        "url": "https://www.reddit.com/r/codex/comments/1vm98r6/youll_only_have_to_review_code_they_said/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T09:28:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/erbjla0cxwih1.png?width=320&crop=smart&auto=webp&s=bfa046fb275e4409aef68e7b9f7bdbbc0b4ccbf9"
+      },
+      {
+        "rank": 5,
+        "title": "Solmaxxing right now. I'm still at 73%.",
+        "url": "https://www.reddit.com/r/codex/comments/1vlwsmp/solmaxxing_right_now_im_still_at_73/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-11T22:55:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xgyi65gfrtih1.jpeg?width=640&crop=smart&auto=webp&s=024a5ddb063692f8c49cf95c842a3da40de408fa"
       },
       {
         "rank": 1,
@@ -141,103 +238,6 @@
         "publishedAt": "2026-08-12T15:56:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/deff1guxuyih1.jpeg?width=640&crop=smart&auto=webp&s=e99f3fa9f33e96a7d05bfb2e22b7849d9d52d7b3"
-      },
-      {
-        "rank": 1,
-        "title": "New to Claude but this is the greatest interaction I’ve ever had with any AI model.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm8zgv/new_to_claude_but_this_is_the_greatest/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T09:13:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r9kanmj4vwih1.jpeg?width=640&crop=smart&auto=webp&s=8ad906b33cba8c974727250da6e5deee801adb2b"
-      },
-      {
-        "rank": 2,
-        "title": "I asked Opus 5 to build GTA6 on its own in 24 hours",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmjzh7/i_asked_opus_5_to_build_gta6_on_its_own_in_24/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T17:02:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NW1wYjFra2I2emloMbPP7_y5kfpf9KRoqLL6biYwPBanjVuQPuECRInf0Bb0.png?width=640&crop=smart&auto=webp&s=31050950b7ce5a06606fe0ac2ca558ea982d9b28"
-      },
-      {
-        "rank": 3,
-        "title": "Sonnet 5 Pricing Update: No Update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlxrzy/sonnet_5_pricing_update_no_update/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T23:36:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/je0yon640uih1.jpeg?width=640&crop=smart&auto=webp&s=5991155e2815f43f20ce1c401dde9b9eb73eec42"
-      },
-      {
-        "rank": 4,
-        "title": "What exactly is people's problem with text watermarking?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vm78ug/what_exactly_is_peoples_problem_with_text/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T07:28:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What if AI watermarks become machine-to-machine triggers?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlw0wz/what_if_ai_watermarks_become_machinetomachine/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T22:23:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Reset or banked reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1vm9kc7/reset_or_banked_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T09:47:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sx8lkb6v0xih1.png?width=640&crop=smart&auto=webp&s=37ed89f1fe4110bf6c9678e65a0626e32cc179b7"
-      },
-      {
-        "rank": 2,
-        "title": "Reset Tomorrow!",
-        "url": "https://www.reddit.com/r/codex/comments/1vm6es7/reset_tomorrow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T06:40:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Surprise Surprise!! What do you think this Surprise is going to be?",
-        "url": "https://www.reddit.com/r/codex/comments/1vmdezd/surprise_surprise_what_do_you_think_this_surprise/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T12:57:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oo5k8a81zxih1.png?width=140&height=43&auto=webp&s=e974f6a01132fe2f7e77f3d798bfaeb8cf4fd9dc"
-      },
-      {
-        "rank": 4,
-        "title": "Solmaxxing right now. I'm still at 73%.",
-        "url": "https://www.reddit.com/r/codex/comments/1vlwsmp/solmaxxing_right_now_im_still_at_73/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-11T22:55:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xgyi65gfrtih1.jpeg?width=640&crop=smart&auto=webp&s=024a5ddb063692f8c49cf95c842a3da40de408fa"
-      },
-      {
-        "rank": 5,
-        "title": "You'll only have to review code, they said",
-        "url": "https://www.reddit.com/r/codex/comments/1vm98r6/youll_only_have_to_review_code_they_said/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T09:28:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/erbjla0cxwih1.png?width=320&crop=smart&auto=webp&s=bfa046fb275e4409aef68e7b9f7bdbbc0b4ccbf9"
       }
     ]
   }

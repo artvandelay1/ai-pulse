@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-08-12T09:17:16.060Z",
+  "fetchedAt": "2026-08-12T10:37:44.741Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T21:06:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kvlzc5378tih1.png?width=140&height=56&auto=webp&s=a5e05d304bcb94e3d955ccf6181541b0ce477939"
+      },
+      {
+        "rank": 2,
+        "title": "Prospects of Finding a ML Engineering Job [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfjy3/prospects_of_finding_a_ml_engineering_job_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T12:05:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "AAAI 2027 Review: No code submission? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T18:58:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Continued development of the model based on the SSN [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlrajq/continued_development_of_the_model_based_on_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T19:25:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-11T11:53:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "What's your thoughts on this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vljlpb/whats_your_thoughts_on_this/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T14:50:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c8s1dtl7erih1.jpeg?width=640&crop=smart&auto=webp&s=8e317eec6e9197604a70cda3a05bbfd24c077a98"
+      },
+      {
+        "rank": 2,
+        "title": "Ok it's getting weird",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vlm7t4/ok_its_getting_weird/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T16:24:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c89i2lqqurih1.png?width=640&crop=smart&auto=webp&s=7ac5c733fdf178b607ac567269782744e07e0dfa"
+      },
+      {
+        "rank": 3,
+        "title": "That is true",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vljnk1/that_is_true/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T14:52:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nikoy1kferih1.png?width=640&crop=smart&auto=webp&s=e55ed914d06644da3c2776e9ab1f2c14cdd52c89"
+      },
+      {
+        "rank": 4,
+        "title": "Premium seats are coming to ChatGPT Business",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vllzbo/premium_seats_are_coming_to_chatgpt_business/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T16:15:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI’s head of ethics leaves start-up less than one year after joining",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vm6dbc/openais_head_of_ethics_leaves_startup_less_than/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T06:38:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/kfqQGF54a8WsEaHNtpsvCK-HlhobqPEkT1H8km_3fyg.jpeg?width=640&crop=smart&auto=webp&s=90258be98a0cdda9869aa6dd5e7f7f2d8a575fa4"
+      },
+      {
+        "rank": 1,
+        "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
+        "url": "https://www.reddit.com/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-11T13:41:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wqeyjq502rih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a584c6e4d9e0be9d8abc9e685fe86897bfad6b7"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI's Chief Operating Officer resigns.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-11T20:09:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Cherokee Nation bans hyperscale data centers on tribally owned, trust lands",
+        "url": "https://www.reddit.com/r/singularity/comments/1vlfhei/cherokee_nation_bans_hyperscale_data_centers_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-11T12:01:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Vj1HvCmqWOBzyWwgVPZ2axl682cHVpk8tMstlzQWX3k.jpeg?width=640&crop=smart&auto=webp&s=b6d44ba69249d47362cc674aa912c1a274db3a11"
+      },
+      {
+        "rank": 4,
+        "title": "Did Pathway just reveal the architecture breakthrough Andrew Curran predicted? Its 150M model sets a new ARC-AGI-1 cost-efficiency frontier",
+        "url": "https://www.reddit.com/r/singularity/comments/1vljb4r/did_pathway_just_reveal_the_architecture/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-11T14:39:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f5mjxmk8crih1.jpeg?width=640&crop=smart&auto=webp&s=661ad233ac434c36767c862df3ec22aca36e5376"
+      },
+      {
+        "rank": 5,
+        "title": "Could AI create a new coding language that was incredibly token efficient to work with?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vln3jy/could_ai_create_a_new_coding_language_that_was/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-11T16:56:04.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Claude will now include invisible marks to show a text was made with AI",
@@ -55,52 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "Prospects of Finding a ML Engineering Job [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfjy3/prospects_of_finding_a_ml_engineering_job_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T12:05:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T21:06:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kvlzc5378tih1.png?width=140&height=56&auto=webp&s=a5e05d304bcb94e3d955ccf6181541b0ce477939"
-      },
-      {
-        "rank": 3,
-        "title": "AAAI 2027 Review: No code submission? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T18:58:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Continued development of the model based on the SSN [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlrajq/continued_development_of_the_model_based_on_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T19:25:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T11:53:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "eclipse reset?",
         "url": "https://www.reddit.com/r/codex/comments/1vln098/eclipse_reset/",
         "source": "r/codex",
@@ -147,104 +244,6 @@
         "publishedAt": "2026-08-11T17:09:18.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gdtkv5w32sih1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6378105621a708e49c633ee8dad58c84728c0446"
-      },
-      {
-        "rank": 1,
-        "title": "What's your thoughts on this?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vljlpb/whats_your_thoughts_on_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T14:50:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c8s1dtl7erih1.jpeg?width=640&crop=smart&auto=webp&s=8e317eec6e9197604a70cda3a05bbfd24c077a98"
-      },
-      {
-        "rank": 2,
-        "title": "📀OPEN LIVING - A Data Center You Can Live in",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T09:24:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YzB6aHFwcTBzcGloMbEOznPQ4ZaLIE9VUzkDVtcs2F08BZxSGCGGsyhQIHw9.png?width=640&crop=smart&auto=webp&s=140128b1b8414bc8c4a87e9473c16e87413293ee"
-      },
-      {
-        "rank": 3,
-        "title": "Chinese Tibo 😅",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vlcowo/chinese_tibo/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T09:32:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/quvsxxdgtpih1.jpeg?width=640&crop=smart&auto=webp&s=6d1298f8585850667208041438e430aad0ae666f"
-      },
-      {
-        "rank": 4,
-        "title": "Ok it's getting weird",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vlm7t4/ok_its_getting_weird/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T16:24:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c89i2lqqurih1.png?width=640&crop=smart&auto=webp&s=7ac5c733fdf178b607ac567269782744e07e0dfa"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI is now the #3 largest lab by token consumption on OpenRouter, surpassing Anthropic",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vld96o/openai_is_now_the_3_largest_lab_by_token/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T10:04:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n2nrfmo6zpih1.png?width=640&crop=smart&auto=webp&s=d8aa9be096e1da7fad2b13e56b4df1e62fb86eae"
-      },
-      {
-        "rank": 1,
-        "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
-        "url": "https://www.reddit.com/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-11T13:41:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wqeyjq502rih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a584c6e4d9e0be9d8abc9e685fe86897bfad6b7"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI's Chief Operating Officer resigns.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-11T20:09:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Cherokee Nation bans hyperscale data centers on tribally owned, trust lands",
-        "url": "https://www.reddit.com/r/singularity/comments/1vlfhei/cherokee_nation_bans_hyperscale_data_centers_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-11T12:01:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Vj1HvCmqWOBzyWwgVPZ2axl682cHVpk8tMstlzQWX3k.jpeg?width=640&crop=smart&auto=webp&s=b6d44ba69249d47362cc674aa912c1a274db3a11"
-      },
-      {
-        "rank": 4,
-        "title": "Did Pathway just reveal the architecture breakthrough Andrew Curran predicted? Its 150M model sets a new ARC-AGI-1 cost-efficiency frontier",
-        "url": "https://www.reddit.com/r/singularity/comments/1vljb4r/did_pathway_just_reveal_the_architecture/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-11T14:39:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f5mjxmk8crih1.jpeg?width=640&crop=smart&auto=webp&s=661ad233ac434c36767c862df3ec22aca36e5376"
-      },
-      {
-        "rank": 5,
-        "title": "Could AI create a new coding language that was incredibly token efficient to work with?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vln3jy/could_ai_create_a_new_coding_language_that_was/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-11T16:56:04.000Z",
-        "category": "reddit"
       }
     ]
   }

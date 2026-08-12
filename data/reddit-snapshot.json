@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T05:59:12.295Z",
+  "fetchedAt": "2026-08-12T07:46:09.946Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,15 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "How would an “invisible watermark” in AI-generated text actually work?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vl9gq5/how_would_an_invisible_watermark_in_aigenerated/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-11T06:23:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Fable 5 vs Opus 5 for 2D Sprites",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vls7dp/fable_5_vs_opus_5_for_2d_sprites/",
         "source": "r/ClaudeAI",
@@ -52,6 +43,16 @@
         "publishedAt": "2026-08-11T19:58:16.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NTlhczdnY3F3c2loMbBqXbHeWWI3imPCjSgeYseZt_MeZKm1StG46SnKujbe.png?width=640&crop=smart&auto=webp&s=83a285877930b2db53fe596a97dda5d6c8c26b94"
+      },
+      {
+        "rank": 5,
+        "title": "I’m sorry, Dave.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vlf34z/im_sorry_dave/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-11T11:42:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8zyzgbesgqih1.jpeg?width=640&crop=smart&auto=webp&s=0445f4237975b06a5a169aec40fecd34a7c85589"
       },
       {
         "rank": 1,
@@ -92,11 +93,11 @@
       },
       {
         "rank": 5,
-        "title": "HyperSAE: Decoupled Poincaré Geometry for Sparse Autoencoders -- 9.8% MSE reduction, 0.2% dead latents on Gemma-2-2B [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlpyh2/hypersae_decoupled_poincaré_geometry_for_sparse/",
+        "title": "Planning/RL for a stochastic single-player merge puzzle: afterstates, previewed chance events, and long-horizon throughput [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-11T18:37:18.000Z",
+        "publishedAt": "2026-08-11T11:53:33.000Z",
         "category": "reddit"
       },
       {

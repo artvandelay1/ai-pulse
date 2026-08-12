@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T13:19:46.118Z",
+  "fetchedAt": "2026-08-12T14:38:47.694Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -44,13 +44,12 @@
       },
       {
         "rank": 5,
-        "title": "We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
+        "title": "Looking for real-world examples of predictive analytics in mortgage lending [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-11T16:12:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xhgnqi9mrrih1.png?width=640&crop=smart&auto=webp&s=bfc41b6f4d3488bbd7eec6850d5b8d703791c58c"
+        "publishedAt": "2026-08-12T14:10:08.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -104,16 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
-        "url": "https://www.reddit.com/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-11T13:41:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wqeyjq502rih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7a584c6e4d9e0be9d8abc9e685fe86897bfad6b7"
-      },
-      {
-        "rank": 2,
         "title": "OpenAI's Chief Operating Officer resigns.",
         "url": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
         "source": "r/singularity",
@@ -122,7 +111,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Did Pathway just reveal the architecture breakthrough Andrew Curran predicted? Its 150M model sets a new ARC-AGI-1 cost-efficiency frontier",
         "url": "https://www.reddit.com/r/singularity/comments/1vljb4r/did_pathway_just_reveal_the_architecture/",
         "source": "r/singularity",
@@ -132,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/f5mjxmk8crih1.jpeg?width=640&crop=smart&auto=webp&s=661ad233ac434c36767c862df3ec22aca36e5376"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Google right now",
         "url": "https://www.reddit.com/r/singularity/comments/1vmctj2/google_right_now/",
         "source": "r/singularity",
@@ -142,7 +131,7 @@
         "thumbnail": "https://preview.redd.it/90z05hcbuxih1.png?width=640&crop=smart&auto=webp&s=9c1a559f5dbdaab9de7e7676862c06ef6522eccd"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Google Says Altman Dead at 41",
         "url": "https://www.reddit.com/r/singularity/comments/1vmd13c/google_says_altman_dead_at_41/",
         "source": "r/singularity",
@@ -150,6 +139,16 @@
         "publishedAt": "2026-08-12T12:41:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/73pwenc1wxih1.png?width=140&height=49&auto=webp&s=250e10a6a2454cefd21a14faf0838c9f0dac0a94"
+      },
+      {
+        "rank": 5,
+        "title": "Samsung Electronics reported efficiency gains due to using Claude models.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vmavo4/samsung_electronics_reported_efficiency_gains_due/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-12T10:58:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/S3AYE2C-SfjRuD2Al6SciWyxG0GYujJnzGu0KP7s7uk.jpeg?width=640&crop=smart&auto=webp&s=77db7db8978fead41bcf66ee4565716e082eebcd"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T17:32:50.547Z",
+  "fetchedAt": "2026-08-12T19:07:47.588Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,15 +35,6 @@
       },
       {
         "rank": 4,
-        "title": "AAAI 2027 Review: No code submission? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-11T18:58:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "The Loss Does Not See the Basis, But Adam Does [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vmjb3p/the_loss_does_not_see_the_basis_but_adam_does_r/",
         "source": "r/MachineLearning",
@@ -51,6 +42,15 @@
         "publishedAt": "2026-08-12T16:39:12.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/cldvfu1oyyih1.png?width=140&height=54&auto=webp&s=61d65e0f3ac17cc14df5849e09b0d2fb4da4f34f"
+      },
+      {
+        "rank": 5,
+        "title": "Looking for real-world examples of predictive analytics in mortgage lending [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-12T14:10:08.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -74,16 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "OpenAI’s head of ethics leaves start-up less than one year after joining",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vm6dbc/openais_head_of_ethics_leaves_startup_less_than/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T06:38:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/kfqQGF54a8WsEaHNtpsvCK-HlhobqPEkT1H8km_3fyg.jpeg?width=640&crop=smart&auto=webp&s=90258be98a0cdda9869aa6dd5e7f7f2d8a575fa4"
-      },
-      {
-        "rank": 4,
         "title": "Sandbox engineers be like:",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vmf29k/sandbox_engineers_be_like/",
         "source": "r/OpenAI",
@@ -91,6 +81,16 @@
         "publishedAt": "2026-08-12T14:04:01.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/arxmhsluayih1.png?width=640&crop=smart&auto=webp&s=09c7708c49c0d1347734417ec66462ac91bd847f"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI’s head of ethics leaves start-up less than one year after joining",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vm6dbc/openais_head_of_ethics_leaves_startup_less_than/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T06:38:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/kfqQGF54a8WsEaHNtpsvCK-HlhobqPEkT1H8km_3fyg.jpeg?width=640&crop=smart&auto=webp&s=90258be98a0cdda9869aa6dd5e7f7f2d8a575fa4"
       },
       {
         "rank": 5,
@@ -103,15 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "OpenAI's Chief Operating Officer resigns.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-11T20:09:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "DeepMind just released SL2T, sign language-to-text model, deaf users can now sign into their phones instead of typing, developed with heavy input from the Deaf community",
         "url": "https://www.reddit.com/r/singularity/comments/1vmflo1/deepmind_just_released_sl2t_sign_languagetotext/",
         "source": "r/singularity",
@@ -121,17 +112,16 @@
         "thumbnail": "https://external-preview.redd.it/a2N5MWx4Y2tkeWloMSO_GFIbVag2t6lu0TJL591S_SXqTTyBlDSB1HT-y_Uj.png?width=640&crop=smart&auto=webp&s=fb0895bb5c3b3f64542088aceddb909025e60eb4"
       },
       {
-        "rank": 3,
-        "title": "Google right now",
-        "url": "https://www.reddit.com/r/singularity/comments/1vmctj2/google_right_now/",
+        "rank": 2,
+        "title": "OpenAI's Chief Operating Officer resigns.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-12T12:31:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/90z05hcbuxih1.png?width=640&crop=smart&auto=webp&s=9c1a559f5dbdaab9de7e7676862c06ef6522eccd"
+        "publishedAt": "2026-08-11T20:09:19.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Grok 4.6 is an equivalent to Sol 5.6 according to artificial analysis arena",
         "url": "https://www.reddit.com/r/singularity/comments/1vmhtfu/grok_46_is_an_equivalent_to_sol_56_according_to/",
         "source": "r/singularity",
@@ -139,6 +129,16 @@
         "publishedAt": "2026-08-12T15:45:53.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gi37g752tyih1.jpeg?width=640&crop=smart&auto=webp&s=aae166434c979cd678260239d7bcb92f08b27b2d"
+      },
+      {
+        "rank": 4,
+        "title": "Google right now",
+        "url": "https://www.reddit.com/r/singularity/comments/1vmctj2/google_right_now/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-12T12:31:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/90z05hcbuxih1.png?width=640&crop=smart&auto=webp&s=9c1a559f5dbdaab9de7e7676862c06ef6522eccd"
       },
       {
         "rank": 5,

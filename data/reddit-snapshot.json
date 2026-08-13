@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T20:06:44.254Z",
+  "fetchedAt": "2026-08-13T21:24:46.034Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -64,13 +64,13 @@
       },
       {
         "rank": 2,
-        "title": "I've built a fully autonomous meditation system for TouchDesigner",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vn9gpg/ive_built_a_fully_autonomous_meditation_system/",
+        "title": "OpenAI launches ChatGPT Computer History to remember work across Mac apps",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vnm3qw/openai_launches_chatgpt_computer_history_to/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-13T12:34:47.000Z",
+        "publishedAt": "2026-08-13T20:19:01.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dG0zNzNkZW56NGpoMZl5svpQrp8w19Wwvdz288hsc-eU3j5SoHIpZ85jdfl9.png?width=640&crop=smart&auto=webp&s=03b42a597d78f0bdbfbbd04fe2a164be540d8462"
+        "thumbnail": "https://external-preview.redd.it/rUGDJNJF_h9LxbR1IeCnGaC0JL9Gfz53t3KzYCxxMUQ.jpeg?width=640&crop=smart&auto=webp&s=0ba818aacbceccb7245db1f84c71cd59d88079ab"
       },
       {
         "rank": 3,
@@ -84,20 +84,21 @@
       },
       {
         "rank": 4,
+        "title": "I've built a fully autonomous meditation system for TouchDesigner",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vn9gpg/ive_built_a_fully_autonomous_meditation_system/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T12:34:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dG0zNzNkZW56NGpoMZl5svpQrp8w19Wwvdz288hsc-eU3j5SoHIpZ85jdfl9.png?width=640&crop=smart&auto=webp&s=03b42a597d78f0bdbfbbd04fe2a164be540d8462"
+      },
+      {
+        "rank": 5,
         "title": "🤯 Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vngwa4/previewing_ultrafast_mode_gpt56_sol_at_up_to_14x/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-13T17:14:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Default accent color gone?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vmrgmw/default_accent_color_gone/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T21:37:42.000Z",
         "category": "reddit"
       },
       {
@@ -122,16 +123,6 @@
       },
       {
         "rank": 3,
-        "title": "Chief Scientist of Redwood Research (AI safety lab) Ryan Greenblatt’s best guess prediction for AI progress over the next few years",
-        "url": "https://www.reddit.com/r/singularity/comments/1vmxl8k/chief_scientist_of_redwood_research_ai_safety_lab/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T01:59:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5zcve3zku1jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=39a0a04ea54f24ae6b03577e431a25659964b0d5"
-      },
-      {
-        "rank": 4,
         "title": "Gemini 3.7 flash benchmark",
         "url": "https://www.reddit.com/r/singularity/comments/1vnguad/gemini_37_flash_benchmark/",
         "source": "r/singularity",
@@ -139,6 +130,16 @@
         "publishedAt": "2026-08-13T17:12:09.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/68bz3n6cd6jh1.jpg?width=140&height=140&auto=webp&s=b9462b808ec79276c7175f0d661678ce6b525c49"
+      },
+      {
+        "rank": 4,
+        "title": "Chief Scientist of Redwood Research (AI safety lab) Ryan Greenblatt’s best guess prediction for AI progress over the next few years",
+        "url": "https://www.reddit.com/r/singularity/comments/1vmxl8k/chief_scientist_of_redwood_research_ai_safety_lab/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T01:59:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5zcve3zku1jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=39a0a04ea54f24ae6b03577e431a25659964b0d5"
       },
       {
         "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T15:08:46.695Z",
+  "fetchedAt": "2026-08-13T16:27:42.532Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vmhks7/would_you_choose_a_phd_advisor_who_gives_you/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-12T15:36:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "The Loss Does Not See the Basis, But Adam Does [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vmjb3p/the_loss_does_not_see_the_basis_but_adam_does_r/",
         "source": "r/MachineLearning",
@@ -35,7 +26,7 @@
         "thumbnail": "https://preview.redd.it/cldvfu1oyyih1.png?width=140&height=54&auto=webp&s=61d65e0f3ac17cc14df5849e09b0d2fb4da4f34f"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Neurips 2026: Modified date on reviews [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
         "source": "r/MachineLearning",
@@ -44,7 +35,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
         "source": "r/MachineLearning",
@@ -65,16 +56,6 @@
       },
       {
         "rank": 2,
-        "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vmixc1/booksellers_suspect_ai_firms_are_buying_and_then/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T16:25:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NQrLcE4jt6ACVZLpdBlaQoQsMIw5Nm21KHi5HOx0BgI.jpeg?width=640&crop=smart&auto=webp&s=b4c1f947ecd7b3173cff178e675a93dbb9e2786f"
-      },
-      {
-        "rank": 3,
         "title": "I've built a fully autonomous meditation system for TouchDesigner",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vn9gpg/ive_built_a_fully_autonomous_meditation_system/",
         "source": "r/OpenAI",
@@ -84,7 +65,7 @@
         "thumbnail": "https://external-preview.redd.it/dG0zNzNkZW56NGpoMZl5svpQrp8w19Wwvdz288hsc-eU3j5SoHIpZ85jdfl9.png?width=640&crop=smart&auto=webp&s=03b42a597d78f0bdbfbbd04fe2a164be540d8462"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Competition’s Heating Up: Grok 4.6 & DS V4 Pro Benchmarks",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vml1gz/competitions_heating_up_grok_46_ds_v4_pro/",
         "source": "r/OpenAI",
@@ -94,7 +75,7 @@
         "thumbnail": "https://preview.redd.it/rtf0nwl1dzih1.png?width=640&crop=smart&auto=webp&s=361d90ed7d7409b9b4367a32c3139dac166e69c2"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "OpenAI begins Ads on Free and Go plans in India",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vn9h13/openai_begins_ads_on_free_and_go_plans_in_india/",
         "source": "r/OpenAI",
@@ -104,17 +85,16 @@
         "thumbnail": "https://preview.redd.it/0uk5qa9yz4jh1.jpeg?width=640&crop=smart&auto=webp&s=ad4e7b73fb80fa18b3404a4133514ea4e25325b0"
       },
       {
-        "rank": 1,
-        "title": "Grok 4.6 is an equivalent to Sol 5.6 according to artificial analysis arena",
-        "url": "https://www.reddit.com/r/singularity/comments/1vmhtfu/grok_46_is_an_equivalent_to_sol_56_according_to/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "Default accent color gone?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vmrgmw/default_accent_color_gone/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-12T15:45:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gi37g752tyih1.jpeg?width=640&crop=smart&auto=webp&s=aae166434c979cd678260239d7bcb92f08b27b2d"
+        "publishedAt": "2026-08-12T21:37:42.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "White House creates framework for private companies to launch government authorized cyberattacks",
         "url": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
         "source": "r/singularity",
@@ -124,17 +104,7 @@
         "thumbnail": "https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&crop=smart&auto=webp&s=eb89e898879eb7adef969749433776a6f6a543ad"
       },
       {
-        "rank": 3,
-        "title": "Grok 4.6 Benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1vmhvc3/grok_46_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-12T15:47:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2cyo43ddtyih1.png?width=640&crop=smart&auto=webp&s=fe157ac450065aac851edde9611df8fa0d864ed0"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "Chief Scientist of Redwood Research (AI safety lab) Ryan Greenblatt’s best guess prediction for AI progress over the next few years",
         "url": "https://www.reddit.com/r/singularity/comments/1vmxl8k/chief_scientist_of_redwood_research_ai_safety_lab/",
         "source": "r/singularity",
@@ -144,14 +114,34 @@
         "thumbnail": "https://preview.redd.it/5zcve3zku1jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=39a0a04ea54f24ae6b03577e431a25659964b0d5"
       },
       {
-        "rank": 5,
-        "title": "Deepseev v4pro 0813 is rolling out to api currently",
-        "url": "https://www.reddit.com/r/singularity/comments/1vmi408/deepseev_v4pro_0813_is_rolling_out_to_api/",
+        "rank": 3,
+        "title": "Google's Brin pushing for RSI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vmtquu/googles_brin_pushing_for_rsi/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-12T15:56:24.000Z",
+        "publishedAt": "2026-08-12T23:10:25.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/deff1guxuyih1.jpeg?width=640&crop=smart&auto=webp&s=e99f3fa9f33e96a7d05bfb2e22b7849d9d52d7b3"
+        "thumbnail": "https://preview.redd.it/9e690dib01jh1.png?width=640&crop=smart&auto=webp&s=da2307a4adb25c79165f1fb702c71a5b3fc4e0ce"
+      },
+      {
+        "rank": 4,
+        "title": "DeepSeek announce price increases of 50-1000%",
+        "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T12:01:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ml5w5wlst4jh1.jpeg?width=640&crop=smart&auto=webp&s=e54afe88a08e37ac832a91ce9e7b74323171cdff"
+      },
+      {
+        "rank": 5,
+        "title": "Grok 4.6",
+        "url": "https://www.reddit.com/r/singularity/comments/1vmkbou/grok_46/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-12T17:14:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8gqa3ghu8zih1.jpeg?width=640&crop=smart&auto=webp&s=cea211365241f7463c04539174b5ade12c21cb2e"
       },
       {
         "rank": 1,

@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-13T11:23:50.114Z",
+  "fetchedAt": "2026-08-13T12:13:07.782Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I asked Opus 5 to build GTA6 on its own in 24 hours",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmjzh7/i_asked_opus_5_to_build_gta6_on_its_own_in_24/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T17:02:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NW1wYjFra2I2emloMbPP7_y5kfpf9KRoqLL6biYwPBanjVuQPuECRInf0Bb0.png?width=640&crop=smart&auto=webp&s=31050950b7ce5a06606fe0ac2ca558ea982d9b28"
+      },
+      {
+        "rank": 2,
+        "title": "PSA: your claude code sessions are on disk as plaintext json, including everything you ever pasted",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmpplr/psa_your_claude_code_sessions_are_on_disk_as/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T20:30:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Sonnet 5's pricing is outrageous",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmyaoc/sonnet_5s_pricing_is_outrageous/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T02:33:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zdk5e8xpz1jh1.png?width=320&crop=smart&auto=webp&s=c79ebd1191a7c3f291a8fbe85772375ccb05ad05"
+      },
+      {
+        "rank": 4,
+        "title": "The True Motive Behind Watermarking: To Avoid AI-generated Text During Training",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmgctq/the_true_motive_behind_watermarking_to_avoid/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T14:52:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "You never know the good days until they’re gone (unless you’re still using 4.6)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T09:53:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rjci2eqv64jh1.png?width=640&crop=smart&auto=webp&s=e5d951863b11115462a9055c3c1c173c95167355"
+      },
       {
         "rank": 1,
         "title": "Would you choose a PhD advisor who gives you complete freedom but almost no guidance? [D]",
@@ -16,15 +64,6 @@
       },
       {
         "rank": 2,
-        "title": "I built an \"honest\" CS conference ranking: sorted by how good the trip is, not the CORE ranking [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vmbdk6/i_built_an_honest_cs_conference_ranking_sorted_by/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-12T11:23:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "The Loss Does Not See the Basis, But Adam Does [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vmjb3p/the_loss_does_not_see_the_basis_but_adam_does_r/",
         "source": "r/MachineLearning",
@@ -34,7 +73,7 @@
         "thumbnail": "https://preview.redd.it/cldvfu1oyyih1.png?width=140&height=54&auto=webp&s=61d65e0f3ac17cc14df5849e09b0d2fb4da4f34f"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
         "source": "r/MachineLearning",
@@ -44,13 +83,63 @@
         "thumbnail": "https://preview.redd.it/ipz7i6ife1jh1.gif?frame=1&width=140&height=78&auto=webp&s=b1f953c335a69e4a708c2b2e5c702d054b8ca000"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Looking for real-world examples of predictive analytics in mortgage lending [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-12T14:10:08.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "The great tibo has spoken",
+        "url": "https://www.reddit.com/r/codex/comments/1vmwcf2/the_great_tibo_has_spoken/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T01:02:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fs576w1gk1jh1.jpeg?width=640&crop=smart&auto=webp&s=e667cb6f2e3caf035f28e4cef8465da4074871dd"
+      },
+      {
+        "rank": 2,
+        "title": "Coding with AI",
+        "url": "https://www.reddit.com/r/codex/comments/1vmtk29/coding_with_ai/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T23:02:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2a4g6mzyy0jh1.png?width=640&crop=smart&auto=webp&s=22e691015fce20f86097ea1c3100124a7dc74113"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI silently nerfed our limits after today's resets",
+        "url": "https://www.reddit.com/r/codex/comments/1vn46tq/openai_silently_nerfed_our_limits_after_todays/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T07:48:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uq5ckhank3jh1.png?width=140&height=65&auto=webp&s=634314ad608ae78a62576577b93a8e4c94210d7a"
+      },
+      {
+        "rank": 4,
+        "title": "Surprise Surprise!! What do you think this Surprise is going to be?",
+        "url": "https://www.reddit.com/r/codex/comments/1vmdezd/surprise_surprise_what_do_you_think_this_surprise/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T12:57:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oo5k8a81zxih1.png?width=140&height=43&auto=webp&s=e974f6a01132fe2f7e77f3d798bfaeb8cf4fd9dc"
+      },
+      {
+        "rank": 5,
+        "title": "How I effectively got 3× more Codex usage by changing the orchestration workflow",
+        "url": "https://www.reddit.com/r/codex/comments/1vmqscy/how_i_effectively_got_3_more_codex_usage_by/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T21:11:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NqO_ePC0kF0cmM2rPqBKgOVaNMVJZARYfTf4hZIiqds.png?width=140&height=70&auto=webp&s=40799aaae20d4769fef44204578b666160104add"
       },
       {
         "rank": 1,
@@ -151,104 +240,6 @@
         "publishedAt": "2026-08-13T04:32:41.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&crop=smart&auto=webp&s=eb89e898879eb7adef969749433776a6f6a543ad"
-      },
-      {
-        "rank": 1,
-        "title": "I asked Opus 5 to build GTA6 on its own in 24 hours",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmjzh7/i_asked_opus_5_to_build_gta6_on_its_own_in_24/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T17:02:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NW1wYjFra2I2emloMbPP7_y5kfpf9KRoqLL6biYwPBanjVuQPuECRInf0Bb0.png?width=640&crop=smart&auto=webp&s=31050950b7ce5a06606fe0ac2ca558ea982d9b28"
-      },
-      {
-        "rank": 2,
-        "title": "PSA: your claude code sessions are on disk as plaintext json, including everything you ever pasted",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmpplr/psa_your_claude_code_sessions_are_on_disk_as/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T20:30:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Sonnet 5's pricing is outrageous",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmyaoc/sonnet_5s_pricing_is_outrageous/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T02:33:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zdk5e8xpz1jh1.png?width=320&crop=smart&auto=webp&s=c79ebd1191a7c3f291a8fbe85772375ccb05ad05"
-      },
-      {
-        "rank": 4,
-        "title": "The True Motive Behind Watermarking: To Avoid AI-generated Text During Training",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmgctq/the_true_motive_behind_watermarking_to_avoid/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T14:52:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude’s Chrome side panel is now a full Cowork session - 9to5Mac",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmzpqo/claudes_chrome_side_panel_is_now_a_full_cowork/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T03:42:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/QxLfPAhCrQZPPOPC3e0-KiZxs6irQx6lrkOz4viOo5I.jpeg?width=640&crop=smart&auto=webp&s=8b222b95eb815147739c8d3d01ca1369725f44f6"
-      },
-      {
-        "rank": 1,
-        "title": "The great tibo has spoken",
-        "url": "https://www.reddit.com/r/codex/comments/1vmwcf2/the_great_tibo_has_spoken/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T01:02:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fs576w1gk1jh1.jpeg?width=640&crop=smart&auto=webp&s=e667cb6f2e3caf035f28e4cef8465da4074871dd"
-      },
-      {
-        "rank": 2,
-        "title": "Coding with AI",
-        "url": "https://www.reddit.com/r/codex/comments/1vmtk29/coding_with_ai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T23:02:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2a4g6mzyy0jh1.png?width=640&crop=smart&auto=webp&s=22e691015fce20f86097ea1c3100124a7dc74113"
-      },
-      {
-        "rank": 3,
-        "title": "Surprise Surprise!! What do you think this Surprise is going to be?",
-        "url": "https://www.reddit.com/r/codex/comments/1vmdezd/surprise_surprise_what_do_you_think_this_surprise/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T12:57:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oo5k8a81zxih1.png?width=140&height=43&auto=webp&s=e974f6a01132fe2f7e77f3d798bfaeb8cf4fd9dc"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI silently nerfed our limits after today's resets",
-        "url": "https://www.reddit.com/r/codex/comments/1vn46tq/openai_silently_nerfed_our_limits_after_todays/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T07:48:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uq5ckhank3jh1.png?width=140&height=65&auto=webp&s=634314ad608ae78a62576577b93a8e4c94210d7a"
-      },
-      {
-        "rank": 5,
-        "title": "How I effectively got 3× more Codex usage by changing the orchestration workflow",
-        "url": "https://www.reddit.com/r/codex/comments/1vmqscy/how_i_effectively_got_3_more_codex_usage_by/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T21:11:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NqO_ePC0kF0cmM2rPqBKgOVaNMVJZARYfTf4hZIiqds.png?width=140&height=70&auto=webp&s=40799aaae20d4769fef44204578b666160104add"
       }
     ]
   }

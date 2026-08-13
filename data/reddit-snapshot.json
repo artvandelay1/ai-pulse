@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-08-13T19:09:13.071Z",
+  "fetchedAt": "2026-08-13T20:06:44.254Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:59:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4vi2d3zjt4jh1.png?width=140&height=75&auto=webp&s=449a7301e08aaa1e20ce77f1b29141f588abf034"
+      },
+      {
+        "rank": 2,
+        "title": "Neurips 2026: Modified date on reviews [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T13:48:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T00:29:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ipz7i6ife1jh1.gif?frame=1&width=140&height=78&auto=webp&s=b1f953c335a69e4a708c2b2e5c702d054b8ca000"
+      },
+      {
+        "rank": 4,
+        "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T19:58:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vngjmv/urgent_help_detecting_performance_regressions/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:01:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "AI researchers are receiving strange emails from AIs claiming they will die soon and need help",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vn6tez/ai_researchers_are_receiving_strange_emails_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T10:21:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yqti06s4c4jh1.png?width=640&crop=smart&auto=webp&s=b597d95eba7f3e77576dbad583a4bc91cfd3bfd6"
+      },
+      {
+        "rank": 2,
+        "title": "I've built a fully autonomous meditation system for TouchDesigner",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vn9gpg/ive_built_a_fully_autonomous_meditation_system/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T12:34:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dG0zNzNkZW56NGpoMZl5svpQrp8w19Wwvdz288hsc-eU3j5SoHIpZ85jdfl9.png?width=640&crop=smart&auto=webp&s=03b42a597d78f0bdbfbbd04fe2a164be540d8462"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI begins Ads on Free and Go plans in India",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vn9h13/openai_begins_ads_on_free_and_go_plans_in_india/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T12:35:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0uk5qa9yz4jh1.jpeg?width=640&crop=smart&auto=webp&s=ad4e7b73fb80fa18b3404a4133514ea4e25325b0"
+      },
+      {
+        "rank": 4,
+        "title": "🤯 Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vngwa4/previewing_ultrafast_mode_gpt56_sol_at_up_to_14x/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:14:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Default accent color gone?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vmrgmw/default_accent_color_gone/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T21:37:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "White House creates framework for private companies to launch government authorized cyberattacks",
+        "url": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T04:32:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&crop=smart&auto=webp&s=eb89e898879eb7adef969749433776a6f6a543ad"
+      },
+      {
+        "rank": 2,
+        "title": "DeepSeek announce price increases of 50-1000%",
+        "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T12:01:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ml5w5wlst4jh1.jpeg?width=640&crop=smart&auto=webp&s=e54afe88a08e37ac832a91ce9e7b74323171cdff"
+      },
+      {
+        "rank": 3,
+        "title": "Chief Scientist of Redwood Research (AI safety lab) Ryan Greenblatt’s best guess prediction for AI progress over the next few years",
+        "url": "https://www.reddit.com/r/singularity/comments/1vmxl8k/chief_scientist_of_redwood_research_ai_safety_lab/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T01:59:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5zcve3zku1jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=39a0a04ea54f24ae6b03577e431a25659964b0d5"
+      },
+      {
+        "rank": 4,
+        "title": "Gemini 3.7 flash benchmark",
+        "url": "https://www.reddit.com/r/singularity/comments/1vnguad/gemini_37_flash_benchmark/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:12:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/68bz3n6cd6jh1.jpg?width=140&height=140&auto=webp&s=b9462b808ec79276c7175f0d661678ce6b525c49"
+      },
+      {
+        "rank": 5,
+        "title": "Google's Brin pushing for RSI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vmtquu/googles_brin_pushing_for_rsi/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-12T23:10:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9e690dib01jh1.png?width=640&crop=smart&auto=webp&s=da2307a4adb25c79165f1fb702c71a5b3fc4e0ce"
+      },
       {
         "rank": 1,
         "title": "I built a watercolor Simulator based on real physics (V2)",
@@ -51,53 +196,6 @@
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-12T20:30:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T11:59:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4vi2d3zjt4jh1.png?width=140&height=75&auto=webp&s=449a7301e08aaa1e20ce77f1b29141f588abf034"
-      },
-      {
-        "rank": 2,
-        "title": "Neurips 2026: Modified date on reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T13:48:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T00:29:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ipz7i6ife1jh1.gif?frame=1&width=140&height=78&auto=webp&s=b1f953c335a69e4a708c2b2e5c702d054b8ca000"
-      },
-      {
-        "rank": 4,
-        "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vngjmv/urgent_help_detecting_performance_regressions/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:01:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Recommended Machine Learning / AI Academic Papers [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vng8jb/recommended_machine_learning_ai_academic_papers_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T16:50:11.000Z",
         "category": "reddit"
       },
       {
@@ -149,104 +247,6 @@
         "publishedAt": "2026-08-12T21:11:57.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NqO_ePC0kF0cmM2rPqBKgOVaNMVJZARYfTf4hZIiqds.png?width=140&height=70&auto=webp&s=40799aaae20d4769fef44204578b666160104add"
-      },
-      {
-        "rank": 1,
-        "title": "AI researchers are receiving strange emails from AIs claiming they will die soon and need help",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vn6tez/ai_researchers_are_receiving_strange_emails_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T10:21:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yqti06s4c4jh1.png?width=640&crop=smart&auto=webp&s=b597d95eba7f3e77576dbad583a4bc91cfd3bfd6"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI begins Ads on Free and Go plans in India",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vn9h13/openai_begins_ads_on_free_and_go_plans_in_india/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T12:35:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0uk5qa9yz4jh1.jpeg?width=640&crop=smart&auto=webp&s=ad4e7b73fb80fa18b3404a4133514ea4e25325b0"
-      },
-      {
-        "rank": 3,
-        "title": "Competition’s Heating Up: Grok 4.6 & DS V4 Pro Benchmarks",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vml1gz/competitions_heating_up_grok_46_ds_v4_pro/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T17:39:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rtf0nwl1dzih1.png?width=640&crop=smart&auto=webp&s=361d90ed7d7409b9b4367a32c3139dac166e69c2"
-      },
-      {
-        "rank": 4,
-        "title": "I've built a fully autonomous meditation system for TouchDesigner",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vn9gpg/ive_built_a_fully_autonomous_meditation_system/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T12:34:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dG0zNzNkZW56NGpoMZl5svpQrp8w19Wwvdz288hsc-eU3j5SoHIpZ85jdfl9.png?width=640&crop=smart&auto=webp&s=03b42a597d78f0bdbfbbd04fe2a164be540d8462"
-      },
-      {
-        "rank": 5,
-        "title": "Default accent color gone?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vmrgmw/default_accent_color_gone/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T21:37:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "White House creates framework for private companies to launch government authorized cyberattacks",
-        "url": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T04:32:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&crop=smart&auto=webp&s=eb89e898879eb7adef969749433776a6f6a543ad"
-      },
-      {
-        "rank": 2,
-        "title": "Chief Scientist of Redwood Research (AI safety lab) Ryan Greenblatt’s best guess prediction for AI progress over the next few years",
-        "url": "https://www.reddit.com/r/singularity/comments/1vmxl8k/chief_scientist_of_redwood_research_ai_safety_lab/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T01:59:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5zcve3zku1jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=39a0a04ea54f24ae6b03577e431a25659964b0d5"
-      },
-      {
-        "rank": 3,
-        "title": "DeepSeek announce price increases of 50-1000%",
-        "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T12:01:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ml5w5wlst4jh1.jpeg?width=640&crop=smart&auto=webp&s=e54afe88a08e37ac832a91ce9e7b74323171cdff"
-      },
-      {
-        "rank": 4,
-        "title": "Google's Brin pushing for RSI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vmtquu/googles_brin_pushing_for_rsi/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-12T23:10:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9e690dib01jh1.png?width=640&crop=smart&auto=webp&s=da2307a4adb25c79165f1fb702c71a5b3fc4e0ce"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-        "url": "https://www.reddit.com/r/singularity/comments/1vncr82/anthropic_introducing_the_conceptual_reasoning/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T14:46:10.000Z",
-        "category": "reddit"
       }
     ]
   }

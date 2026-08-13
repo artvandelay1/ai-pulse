@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-13T17:32:44.522Z",
+  "fetchedAt": "2026-08-13T19:09:13.071Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built a watercolor Simulator based on real physics (V2)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn7yk3/i_built_a_watercolor_simulator_based_on_real/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:23:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c3BzcG5mcjZlM2poMXR-wcDEl6edBMABWTANU3A5mzDHHqUsvrJuYp2QhOGe.png?width=640&crop=smart&auto=webp&s=5e641c103472764c0e6bcca7455c937aa423a7cc"
+      },
+      {
+        "rank": 2,
+        "title": "You never know the good days until they’re gone (unless you’re still using 4.6)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T09:53:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rjci2eqv64jh1.png?width=640&crop=smart&auto=webp&s=e5d951863b11115462a9055c3c1c173c95167355"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5 is actually almost rage-inducing to use.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn8ml6/opus_5_is_actually_almost_rageinducing_to_use/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:56:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Sonnet 5's pricing is outrageous",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmyaoc/sonnet_5s_pricing_is_outrageous/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T02:33:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zdk5e8xpz1jh1.png?width=320&crop=smart&auto=webp&s=c79ebd1191a7c3f291a8fbe85772375ccb05ad05"
+      },
+      {
+        "rank": 5,
+        "title": "PSA: your claude code sessions are on disk as plaintext json, including everything you ever pasted",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmpplr/psa_your_claude_code_sessions_are_on_disk_as/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-12T20:30:28.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
@@ -51,6 +99,56 @@
         "score": 0,
         "publishedAt": "2026-08-13T16:50:11.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI silently nerfed our limits after today's resets",
+        "url": "https://www.reddit.com/r/codex/comments/1vn46tq/openai_silently_nerfed_our_limits_after_todays/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T07:48:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uq5ckhank3jh1.png?width=140&height=65&auto=webp&s=634314ad608ae78a62576577b93a8e4c94210d7a"
+      },
+      {
+        "rank": 2,
+        "title": "The great tibo has spoken",
+        "url": "https://www.reddit.com/r/codex/comments/1vmwcf2/the_great_tibo_has_spoken/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T01:02:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fs576w1gk1jh1.jpeg?width=640&crop=smart&auto=webp&s=e667cb6f2e3caf035f28e4cef8465da4074871dd"
+      },
+      {
+        "rank": 3,
+        "title": "Coding with AI",
+        "url": "https://www.reddit.com/r/codex/comments/1vmtk29/coding_with_ai/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T23:02:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2a4g6mzyy0jh1.png?width=640&crop=smart&auto=webp&s=22e691015fce20f86097ea1c3100124a7dc74113"
+      },
+      {
+        "rank": 4,
+        "title": "Is GPT-5.6-Sol a hash fetishist?",
+        "url": "https://www.reddit.com/r/codex/comments/1vn7r57/is_gpt56sol_a_hash_fetishist/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:13:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5u1g09hek4jh1.png?width=640&crop=smart&auto=webp&s=f06a047a15501c38c3bb9fc59ecbc5006659416d"
+      },
+      {
+        "rank": 5,
+        "title": "How I effectively got 3× more Codex usage by changing the orchestration workflow",
+        "url": "https://www.reddit.com/r/codex/comments/1vmqscy/how_i_effectively_got_3_more_codex_usage_by/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-12T21:11:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NqO_ePC0kF0cmM2rPqBKgOVaNMVJZARYfTf4hZIiqds.png?width=140&height=70&auto=webp&s=40799aaae20d4769fef44204578b666160104add"
       },
       {
         "rank": 1,
@@ -149,104 +247,6 @@
         "score": 0,
         "publishedAt": "2026-08-13T14:46:10.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "I asked Opus 5 to build GTA6 on its own in 24 hours",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmjzh7/i_asked_opus_5_to_build_gta6_on_its_own_in_24/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T17:02:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NW1wYjFra2I2emloMbPP7_y5kfpf9KRoqLL6biYwPBanjVuQPuECRInf0Bb0.png?width=640&crop=smart&auto=webp&s=31050950b7ce5a06606fe0ac2ca558ea982d9b28"
-      },
-      {
-        "rank": 2,
-        "title": "PSA: your claude code sessions are on disk as plaintext json, including everything you ever pasted",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmpplr/psa_your_claude_code_sessions_are_on_disk_as/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T20:30:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Sonnet 5's pricing is outrageous",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmyaoc/sonnet_5s_pricing_is_outrageous/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T02:33:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zdk5e8xpz1jh1.png?width=320&crop=smart&auto=webp&s=c79ebd1191a7c3f291a8fbe85772375ccb05ad05"
-      },
-      {
-        "rank": 4,
-        "title": "The True Motive Behind Watermarking: To Avoid AI-generated Text During Training",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vmgctq/the_true_motive_behind_watermarking_to_avoid/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-12T14:52:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "You never know the good days until they’re gone (unless you’re still using 4.6)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T09:53:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rjci2eqv64jh1.png?width=640&crop=smart&auto=webp&s=e5d951863b11115462a9055c3c1c173c95167355"
-      },
-      {
-        "rank": 1,
-        "title": "The great tibo has spoken",
-        "url": "https://www.reddit.com/r/codex/comments/1vmwcf2/the_great_tibo_has_spoken/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T01:02:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fs576w1gk1jh1.jpeg?width=640&crop=smart&auto=webp&s=e667cb6f2e3caf035f28e4cef8465da4074871dd"
-      },
-      {
-        "rank": 2,
-        "title": "Coding with AI",
-        "url": "https://www.reddit.com/r/codex/comments/1vmtk29/coding_with_ai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T23:02:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2a4g6mzyy0jh1.png?width=640&crop=smart&auto=webp&s=22e691015fce20f86097ea1c3100124a7dc74113"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI silently nerfed our limits after today's resets",
-        "url": "https://www.reddit.com/r/codex/comments/1vn46tq/openai_silently_nerfed_our_limits_after_todays/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T07:48:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uq5ckhank3jh1.png?width=140&height=65&auto=webp&s=634314ad608ae78a62576577b93a8e4c94210d7a"
-      },
-      {
-        "rank": 4,
-        "title": "Surprise Surprise!! What do you think this Surprise is going to be?",
-        "url": "https://www.reddit.com/r/codex/comments/1vmdezd/surprise_surprise_what_do_you_think_this_surprise/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T12:57:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oo5k8a81zxih1.png?width=140&height=43&auto=webp&s=e974f6a01132fe2f7e77f3d798bfaeb8cf4fd9dc"
-      },
-      {
-        "rank": 5,
-        "title": "How I effectively got 3× more Codex usage by changing the orchestration workflow",
-        "url": "https://www.reddit.com/r/codex/comments/1vmqscy/how_i_effectively_got_3_more_codex_usage_by/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-12T21:11:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NqO_ePC0kF0cmM2rPqBKgOVaNMVJZARYfTf4hZIiqds.png?width=140&height=70&auto=webp&s=40799aaae20d4769fef44204578b666160104add"
       }
     ]
   }

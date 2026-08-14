@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T21:34:41.545Z",
+  "fetchedAt": "2026-08-14T22:29:44.573Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,6 +34,15 @@
       },
       {
         "rank": 4,
+        "title": "How much does adding an honest limitations section hurt the paper? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:55:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
         "source": "r/MachineLearning",
@@ -41,15 +50,6 @@
         "publishedAt": "2026-08-13T22:52:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/6y81in1w08jh1.png?width=140&height=93&auto=webp&s=f3f68a4a6a484161f988ac1d47c988e74ed50114"
-      },
-      {
-        "rank": 5,
-        "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-14T18:54:26.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

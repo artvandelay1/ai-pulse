@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T17:59:44.070Z",
+  "fetchedAt": "2026-08-14T19:07:45.984Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "TMLR Relevance and Prestige [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T23:16:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-14T15:50:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "TMLR Relevance and Prestige [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T23:16:16.000Z",
         "category": "reddit"
       },
       {
@@ -44,11 +44,11 @@
       },
       {
         "rank": 5,
-        "title": "A linter for PyTorch 'torch-preflight' [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
+        "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-14T14:30:56.000Z",
+        "publishedAt": "2026-08-14T17:06:09.000Z",
         "category": "reddit"
       },
       {
@@ -141,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "2 Countries are buying up all the compute",
-        "url": "https://www.reddit.com/r/singularity/comments/1vnx8c4/2_countries_are_buying_up_all_the_compute/",
+        "title": "Qwen 3.8 27b is here",
+        "url": "https://www.reddit.com/r/singularity/comments/1voa4mo/qwen_38_27b_is_here/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-14T04:28:04.000Z",
+        "publishedAt": "2026-08-14T15:18:19.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/usu4pdcyp9jh1.jpeg?width=640&crop=smart&auto=webp&s=3539e6e918d043901d6184772cb55f58e267d506"
+        "thumbnail": "https://preview.redd.it/itsb0viyxcjh1.jpg?width=140&height=78&auto=webp&s=5f405c2682be09258726946c3e90c486c8bfa63a"
       },
       {
         "rank": 1,

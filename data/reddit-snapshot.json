@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-08-14T05:17:08.777Z",
+  "fetchedAt": "2026-08-14T06:56:41.752Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:59:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4vi2d3zjt4jh1.png?width=140&height=75&auto=webp&s=449a7301e08aaa1e20ce77f1b29141f588abf034"
+      },
+      {
+        "rank": 2,
+        "title": "TMLR Relevance and Prestige [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T23:16:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Neurips 2026: Modified date on reviews [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T13:48:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T22:52:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6y81in1w08jh1.png?width=140&height=93&auto=webp&s=f3f68a4a6a484161f988ac1d47c988e74ed50114"
+      },
+      {
+        "rank": 5,
+        "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-13T19:58:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "AI researchers are receiving strange emails from AIs claiming they will die soon and need help",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vn6tez/ai_researchers_are_receiving_strange_emails_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T10:21:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yqti06s4c4jh1.png?width=640&crop=smart&auto=webp&s=b597d95eba7f3e77576dbad583a4bc91cfd3bfd6"
+      },
+      {
+        "rank": 2,
+        "title": "👁️👄👁️",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vntd45/_/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T01:20:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qhp8v7rks8jh1.jpeg?width=640&crop=smart&auto=webp&s=91b1afea97984ea81161ab15413a70f6e5590a13"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI launches ChatGPT Computer History to remember work across Mac apps",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vnm3qw/openai_launches_chatgpt_computer_history_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T20:19:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/rUGDJNJF_h9LxbR1IeCnGaC0JL9Gfz53t3KzYCxxMUQ.jpeg?width=640&crop=smart&auto=webp&s=0ba818aacbceccb7245db1f84c71cd59d88079ab"
+      },
+      {
+        "rank": 4,
+        "title": "An Actionable Response to AI’s Impact on the Environment",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vnv96b/an_actionable_response_to_ais_impact_on_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T02:50:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b0uvk2wh89jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=67f0ee6a931ec5f770a4cbd00663d1b37c41a285"
+      },
+      {
+        "rank": 5,
+        "title": "🤯 Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vngwa4/previewing_ultrafast_mode_gpt56_sol_at_up_to_14x/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:14:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Gemini 3.7 flash benchmark",
+        "url": "https://www.reddit.com/r/singularity/comments/1vnguad/gemini_37_flash_benchmark/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:12:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/68bz3n6cd6jh1.jpg?width=140&height=140&auto=webp&s=b9462b808ec79276c7175f0d661678ce6b525c49"
+      },
+      {
+        "rank": 2,
+        "title": "DeepSeek announce price increases of 50-1000%",
+        "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T12:01:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ml5w5wlst4jh1.jpeg?width=640&crop=smart&auto=webp&s=e54afe88a08e37ac832a91ce9e7b74323171cdff"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-5.6 Sol can run now at an incredible rate of ~750 tokens per second",
+        "url": "https://www.reddit.com/r/singularity/comments/1vngnhy/gpt56_sol_can_run_now_at_an_incredible_rate_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:05:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e8h7gxvwb6jh1.jpeg?width=640&crop=smart&auto=webp&s=7a433f505c72990e62a12c632bb636433f855019"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic: Introducing The Conceptual Reasoning Index",
+        "url": "https://www.reddit.com/r/singularity/comments/1vncr82/anthropic_introducing_the_conceptual_reasoning/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T14:46:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "3.7 flash looks fine I guess",
+        "url": "https://www.reddit.com/r/singularity/comments/1vnhlu6/37_flash_looks_fine_i_guess/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:38:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1hubg0x4i6jh1.jpeg?width=640&crop=smart&auto=webp&s=9ad83a779a4497f0969a99d37a655227983f5f43"
+      },
       {
         "rank": 1,
         "title": "I built a watercolor Simulator based on real physics (V2)",
@@ -56,53 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T11:59:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4vi2d3zjt4jh1.png?width=140&height=75&auto=webp&s=449a7301e08aaa1e20ce77f1b29141f588abf034"
-      },
-      {
-        "rank": 2,
-        "title": "TMLR Relevance and Prestige [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T23:16:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Neurips 2026: Modified date on reviews [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T13:48:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T22:52:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6y81in1w08jh1.png?width=140&height=93&auto=webp&s=f3f68a4a6a484161f988ac1d47c988e74ed50114"
-      },
-      {
-        "rank": 5,
-        "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-13T19:58:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "No, please don’t 💀",
         "url": "https://www.reddit.com/r/codex/comments/1vni1wz/no_please_dont/",
         "source": "r/codex",
@@ -149,104 +247,6 @@
         "publishedAt": "2026-08-13T08:05:09.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/6avba6g2n3jh1.png?width=140&height=33&auto=webp&s=b8dbac99b8eea4e13121c80b14f0126925c16f08"
-      },
-      {
-        "rank": 1,
-        "title": "AI researchers are receiving strange emails from AIs claiming they will die soon and need help",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vn6tez/ai_researchers_are_receiving_strange_emails_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T10:21:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yqti06s4c4jh1.png?width=640&crop=smart&auto=webp&s=b597d95eba7f3e77576dbad583a4bc91cfd3bfd6"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI launches ChatGPT Computer History to remember work across Mac apps",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vnm3qw/openai_launches_chatgpt_computer_history_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T20:19:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/rUGDJNJF_h9LxbR1IeCnGaC0JL9Gfz53t3KzYCxxMUQ.jpeg?width=640&crop=smart&auto=webp&s=0ba818aacbceccb7245db1f84c71cd59d88079ab"
-      },
-      {
-        "rank": 3,
-        "title": "👁️👄👁️",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vntd45/_/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T01:20:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qhp8v7rks8jh1.jpeg?width=640&crop=smart&auto=webp&s=91b1afea97984ea81161ab15413a70f6e5590a13"
-      },
-      {
-        "rank": 4,
-        "title": "🤯 Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vngwa4/previewing_ultrafast_mode_gpt56_sol_at_up_to_14x/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:14:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI begins Ads on Free and Go plans in India",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vn9h13/openai_begins_ads_on_free_and_go_plans_in_india/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T12:35:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0uk5qa9yz4jh1.jpeg?width=640&crop=smart&auto=webp&s=ad4e7b73fb80fa18b3404a4133514ea4e25325b0"
-      },
-      {
-        "rank": 1,
-        "title": "White House creates framework for private companies to launch government authorized cyberattacks",
-        "url": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T04:32:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&crop=smart&auto=webp&s=eb89e898879eb7adef969749433776a6f6a543ad"
-      },
-      {
-        "rank": 2,
-        "title": "Gemini 3.7 flash benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1vnguad/gemini_37_flash_benchmark/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:12:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/68bz3n6cd6jh1.jpg?width=140&height=140&auto=webp&s=b9462b808ec79276c7175f0d661678ce6b525c49"
-      },
-      {
-        "rank": 3,
-        "title": "DeepSeek announce price increases of 50-1000%",
-        "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T12:01:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ml5w5wlst4jh1.jpeg?width=640&crop=smart&auto=webp&s=e54afe88a08e37ac832a91ce9e7b74323171cdff"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-5.6 Sol can run now at an incredible rate of ~750 tokens per second",
-        "url": "https://www.reddit.com/r/singularity/comments/1vngnhy/gpt56_sol_can_run_now_at_an_incredible_rate_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:05:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e8h7gxvwb6jh1.jpeg?width=640&crop=smart&auto=webp&s=7a433f505c72990e62a12c632bb636433f855019"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-        "url": "https://www.reddit.com/r/singularity/comments/1vncr82/anthropic_introducing_the_conceptual_reasoning/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T14:46:10.000Z",
-        "category": "reddit"
       }
     ]
   }

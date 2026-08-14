@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T23:14:15.649Z",
+  "fetchedAt": "2026-08-14T00:10:10.993Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -85,21 +85,22 @@
       },
       {
         "rank": 4,
-        "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
+        "title": "TMLR Relevance and Prestige [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-13T19:58:03.000Z",
+        "publishedAt": "2026-08-13T23:16:16.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vngjmv/urgent_help_detecting_performance_regressions/",
+        "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-13T17:01:27.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-13T22:52:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6y81in1w08jh1.png?width=140&height=93&auto=webp&s=f3f68a4a6a484161f988ac1d47c988e74ed50114"
       },
       {
         "rank": 1,

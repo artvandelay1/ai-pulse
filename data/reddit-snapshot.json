@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T09:38:12.410Z",
+  "fetchedAt": "2026-08-14T11:02:12.461Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,16 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "You never know the good days until they’re gone (unless you’re still using 4.6)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T09:53:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rjci2eqv64jh1.png?width=640&crop=smart&auto=webp&s=e5d951863b11115462a9055c3c1c173c95167355"
-      },
-      {
-        "rank": 4,
         "title": "Example of a real working loop orchestrator",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vnnpur/example_of_a_real_working_loop_orchestrator/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "thumbnail": "https://preview.redd.it/bj5iz1gvk7jh1.png?width=640&crop=smart&auto=webp&s=0e3b542c778dcabb96d4df69dfb8b903bfc4e6ad"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Finally, Claude Code has “Auto-continue when limits reset”",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vndhg6/finally_claude_code_has_autocontinue_when_limits/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-08-13T15:12:08.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/5mkkabysr5jh1.png?width=640&crop=smart&auto=webp&s=7239e7122b12ab71dab822b8f48b2b452ebab1b4"
+      },
+      {
+        "rank": 5,
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vndlg3/some_claude_users_are_mad_that_anthropics_new/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T15:16:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/IU4qQplDM-ffKPPl9vB5-2Dqgt0FNg5rC5mQ9cPu1lE.jpeg?width=640&crop=smart&auto=webp&s=039f5fe6f5dccd649cdf6740604db0e708c6bc58"
       },
       {
         "rank": 1,
@@ -142,12 +142,13 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI is gaming the resets too much. I am starting to be worried.",
-        "url": "https://www.reddit.com/r/codex/comments/1vn6ta2/openai_is_gaming_the_resets_too_much_i_am/",
+        "title": "Grok is now doing banked resets",
+        "url": "https://www.reddit.com/r/codex/comments/1vnqthl/grok_is_now_doing_banked_resets/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-13T10:21:42.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-13T23:27:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rxnkosw288jh1.png?width=140&height=70&auto=webp&s=e531d041edd82dd8c82d131664a36ab9a74d6056"
       },
       {
         "rank": 1,

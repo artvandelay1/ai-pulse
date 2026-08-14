@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T06:56:41.752Z",
+  "fetchedAt": "2026-08-14T08:20:49.788Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -84,6 +84,16 @@
       },
       {
         "rank": 4,
+        "title": "Bro had enough",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vnz8nu/bro_had_enough/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T06:17:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yaaaevo89ajh1.png?width=640&crop=smart&auto=webp&s=3d0f7ebbaaa8f0fb946375813090629a3629cff4"
+      },
+      {
+        "rank": 5,
         "title": "An Actionable Response to AI’s Impact on the Environment",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vnv96b/an_actionable_response_to_ais_impact_on_the/",
         "source": "r/OpenAI",
@@ -91,15 +101,6 @@
         "publishedAt": "2026-08-14T02:50:13.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/b0uvk2wh89jh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=67f0ee6a931ec5f770a4cbd00663d1b37c41a285"
-      },
-      {
-        "rank": 5,
-        "title": "🤯 Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vngwa4/previewing_ultrafast_mode_gpt56_sol_at_up_to_14x/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:14:08.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

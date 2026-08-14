@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T14:33:07.126Z",
+  "fetchedAt": "2026-08-14T15:57:15.571Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Finally, Claude Code has “Auto-continue when limits reset”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vndhg6/finally_claude_code_has_autocontinue_when_limits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T15:12:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5mkkabysr5jh1.png?width=640&crop=smart&auto=webp&s=7239e7122b12ab71dab822b8f48b2b452ebab1b4"
-      },
-      {
-        "rank": 3,
         "title": "The three AI giants be like",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vnpb13/the_three_ai_giants_be_like/",
         "source": "r/ClaudeAI",
@@ -36,17 +26,7 @@
         "thumbnail": "https://preview.redd.it/sag7n6axw7jh1.jpeg?width=640&crop=smart&auto=webp&s=1f0f29ef430690b9b48bc74331e768c160381cf1"
       },
       {
-        "rank": 4,
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vndlg3/some_claude_users_are_mad_that_anthropics_new/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T15:16:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/IU4qQplDM-ffKPPl9vB5-2Dqgt0FNg5rC5mQ9cPu1lE.jpeg?width=640&crop=smart&auto=webp&s=039f5fe6f5dccd649cdf6740604db0e708c6bc58"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Why aren't businesses using Fable 5?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vnj1xq/why_arent_businesses_using_fable_5/",
         "source": "r/ClaudeAI",
@@ -54,6 +34,25 @@
         "publishedAt": "2026-08-13T18:29:21.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yzaaauh3r6jh1.png?width=640&crop=smart&auto=webp&s=d8c660f2556ba15e578a05ca5a54a23caf046e20"
+      },
+      {
+        "rank": 4,
+        "title": "Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T13:39:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p7y0hk6agcjh1.jpeg?width=640&crop=smart&auto=webp&s=6af51fad8f3a06f6f8f6cca565e6b368756affc9"
+      },
+      {
+        "rank": 5,
+        "title": "I Vibe Coded Half My Job",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vnsu99/i_vibe_coded_half_my_job/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T00:57:04.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -85,20 +84,20 @@
       },
       {
         "rank": 4,
+        "title": "A linter for PyTorch 'torch-preflight' [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-14T14:30:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-13T19:58:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Building text to ASCII diffusion model , need advice and guidance [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vo3m71/building_text_to_ascii_diffusion_model_need/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-14T10:33:37.000Z",
         "category": "reddit"
       },
       {

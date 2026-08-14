@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T20:58:48.946Z",
+  "fetchedAt": "2026-08-14T21:34:41.545Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -103,16 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "No way 💀 what an AI week",
-        "url": "https://www.reddit.com/r/singularity/comments/1vnypqt/no_way_what_an_ai_week/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T05:48:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c3y5c4084ajh1.jpeg?width=640&crop=smart&auto=webp&s=99b8e6ee7eb6075c54d49ccc645735bcaaa87157"
-      },
-      {
-        "rank": 2,
         "title": "Neurosurgery resident at a Peking College Hospital uses GPT 5.6 Sol to prove a 2 decades old mathematical conjecture underlying a major problem in numerical linear algebra — All for the purposes of his research on transcranial ultrasound.",
         "url": "https://www.reddit.com/r/singularity/comments/1vnz6og/neurosurgery_resident_at_a_peking_college/",
         "source": "r/singularity",
@@ -120,6 +110,16 @@
         "publishedAt": "2026-08-14T06:14:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8oxmndk78ajh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=73028d17a4b885df6f7bb7eab5a217bb3e03a030"
+      },
+      {
+        "rank": 2,
+        "title": "No way 💀 what an AI week",
+        "url": "https://www.reddit.com/r/singularity/comments/1vnypqt/no_way_what_an_ai_week/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T05:48:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c3y5c4084ajh1.jpeg?width=640&crop=smart&auto=webp&s=99b8e6ee7eb6075c54d49ccc645735bcaaa87157"
       },
       {
         "rank": 3,

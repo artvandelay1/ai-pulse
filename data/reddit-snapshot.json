@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-14T08:20:49.788Z",
+  "fetchedAt": "2026-08-14T09:38:12.410Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built a watercolor Simulator based on real physics (V2)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn7yk3/i_built_a_watercolor_simulator_based_on_real/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:23:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c3BzcG5mcjZlM2poMXR-wcDEl6edBMABWTANU3A5mzDHHqUsvrJuYp2QhOGe.png?width=640&crop=smart&auto=webp&s=5e641c103472764c0e6bcca7455c937aa423a7cc"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5 is actually almost rage-inducing to use.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn8ml6/opus_5_is_actually_almost_rageinducing_to_use/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:56:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "You never know the good days until they’re gone (unless you’re still using 4.6)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T09:53:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rjci2eqv64jh1.png?width=640&crop=smart&auto=webp&s=e5d951863b11115462a9055c3c1c173c95167355"
+      },
+      {
+        "rank": 4,
+        "title": "Example of a real working loop orchestrator",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vnnpur/example_of_a_real_working_loop_orchestrator/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T21:20:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bj5iz1gvk7jh1.png?width=640&crop=smart&auto=webp&s=0e3b542c778dcabb96d4df69dfb8b903bfc4e6ad"
+      },
+      {
+        "rank": 5,
+        "title": "Finally, Claude Code has “Auto-continue when limits reset”",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vndhg6/finally_claude_code_has_autocontinue_when_limits/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-13T15:12:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5mkkabysr5jh1.png?width=640&crop=smart&auto=webp&s=7239e7122b12ab71dab822b8f48b2b452ebab1b4"
+      },
       {
         "rank": 1,
         "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
@@ -50,6 +99,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-13T19:58:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "No, please don’t 💀",
+        "url": "https://www.reddit.com/r/codex/comments/1vni1wz/no_please_dont/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:54:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/145ryh2xk6jh1.jpeg?width=640&crop=smart&auto=webp&s=bcee97f338924d9a81c43f8da2463c36c442592f"
+      },
+      {
+        "rank": 2,
+        "title": "Is GPT-5.6-Sol a hash fetishist?",
+        "url": "https://www.reddit.com/r/codex/comments/1vn7r57/is_gpt56sol_a_hash_fetishist/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T11:13:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5u1g09hek4jh1.png?width=640&crop=smart&auto=webp&s=f06a047a15501c38c3bb9fc59ecbc5006659416d"
+      },
+      {
+        "rank": 3,
+        "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+        "url": "https://www.reddit.com/r/codex/comments/1vngugw/previewing_ultrafast_mode_gpt56_sol_at_up_to_14x/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T17:12:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "PAID resets are here",
+        "url": "https://www.reddit.com/r/codex/comments/1vnxbpd/paid_resets_are_here/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T04:33:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fxc8q723r9jh1.png?width=140&height=31&auto=webp&s=58da806cdfc6fa46b677782ee21f238c43e7ba9d"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI is gaming the resets too much. I am starting to be worried.",
+        "url": "https://www.reddit.com/r/codex/comments/1vn6ta2/openai_is_gaming_the_resets_too_much_i_am/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-13T10:21:42.000Z",
         "category": "reddit"
       },
       {
@@ -150,104 +247,6 @@
         "publishedAt": "2026-08-13T17:38:54.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1hubg0x4i6jh1.jpeg?width=640&crop=smart&auto=webp&s=9ad83a779a4497f0969a99d37a655227983f5f43"
-      },
-      {
-        "rank": 1,
-        "title": "I built a watercolor Simulator based on real physics (V2)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn7yk3/i_built_a_watercolor_simulator_based_on_real/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T11:23:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c3BzcG5mcjZlM2poMXR-wcDEl6edBMABWTANU3A5mzDHHqUsvrJuYp2QhOGe.png?width=640&crop=smart&auto=webp&s=5e641c103472764c0e6bcca7455c937aa423a7cc"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5 is actually almost rage-inducing to use.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn8ml6/opus_5_is_actually_almost_rageinducing_to_use/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T11:56:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "You never know the good days until they’re gone (unless you’re still using 4.6)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vn6b31/you_never_know_the_good_days_until_theyre_gone/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T09:53:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rjci2eqv64jh1.png?width=640&crop=smart&auto=webp&s=e5d951863b11115462a9055c3c1c173c95167355"
-      },
-      {
-        "rank": 4,
-        "title": "Finally, Claude Code has “Auto-continue when limits reset”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vndhg6/finally_claude_code_has_autocontinue_when_limits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T15:12:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5mkkabysr5jh1.png?width=640&crop=smart&auto=webp&s=7239e7122b12ab71dab822b8f48b2b452ebab1b4"
-      },
-      {
-        "rank": 5,
-        "title": "Example of a real working loop orchestrator",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vnnpur/example_of_a_real_working_loop_orchestrator/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-13T21:20:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bj5iz1gvk7jh1.png?width=640&crop=smart&auto=webp&s=0e3b542c778dcabb96d4df69dfb8b903bfc4e6ad"
-      },
-      {
-        "rank": 1,
-        "title": "No, please don’t 💀",
-        "url": "https://www.reddit.com/r/codex/comments/1vni1wz/no_please_dont/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:54:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/145ryh2xk6jh1.jpeg?width=640&crop=smart&auto=webp&s=bcee97f338924d9a81c43f8da2463c36c442592f"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI silently nerfed our limits after today's resets",
-        "url": "https://www.reddit.com/r/codex/comments/1vn46tq/openai_silently_nerfed_our_limits_after_todays/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T07:48:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uq5ckhank3jh1.png?width=140&height=65&auto=webp&s=634314ad608ae78a62576577b93a8e4c94210d7a"
-      },
-      {
-        "rank": 3,
-        "title": "Is GPT-5.6-Sol a hash fetishist?",
-        "url": "https://www.reddit.com/r/codex/comments/1vn7r57/is_gpt56sol_a_hash_fetishist/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T11:13:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5u1g09hek4jh1.png?width=640&crop=smart&auto=webp&s=f06a047a15501c38c3bb9fc59ecbc5006659416d"
-      },
-      {
-        "rank": 4,
-        "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-        "url": "https://www.reddit.com/r/codex/comments/1vngugw/previewing_ultrafast_mode_gpt56_sol_at_up_to_14x/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:12:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I have missed codex rests because of Cursor giving unlimited usage right now",
-        "url": "https://www.reddit.com/r/codex/comments/1vn4hi3/i_have_missed_codex_rests_because_of_cursor/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-13T08:05:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6avba6g2n3jh1.png?width=140&height=33&auto=webp&s=b8dbac99b8eea4e13121c80b14f0126925c16f08"
       }
     ]
   }

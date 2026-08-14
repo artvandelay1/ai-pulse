@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T16:59:45.074Z",
+  "fetchedAt": "2026-08-14T17:59:44.070Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -123,32 +123,31 @@
       },
       {
         "rank": 3,
-        "title": "Gemini 3.7 flash benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1vnguad/gemini_37_flash_benchmark/",
+        "title": "GLM 5.3 finds 2436 unpatched open source vulnerabilities likely missed by Mythos (Project Glasswing)",
+        "url": "https://www.reddit.com/r/singularity/comments/1vo56qy/glm_53_finds_2436_unpatched_open_source/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-13T17:12:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/68bz3n6cd6jh1.jpg?width=140&height=140&auto=webp&s=b9462b808ec79276c7175f0d661678ce6b525c49"
+        "publishedAt": "2026-08-14T11:55:51.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "GPT-5.6 Sol can run now at an incredible rate of ~750 tokens per second",
-        "url": "https://www.reddit.com/r/singularity/comments/1vngnhy/gpt56_sol_can_run_now_at_an_incredible_rate_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-13T17:05:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e8h7gxvwb6jh1.jpeg?width=640&crop=smart&auto=webp&s=7a433f505c72990e62a12c632bb636433f855019"
-      },
-      {
-        "rank": 5,
         "title": "GLM 5.3 released: Frontier Coding with Emergent Cyber Capabilities",
         "url": "https://www.reddit.com/r/singularity/comments/1vnz30c/glm_53_released_frontier_coding_with_emergent/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-14T06:08:21.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "2 Countries are buying up all the compute",
+        "url": "https://www.reddit.com/r/singularity/comments/1vnx8c4/2_countries_are_buying_up_all_the_compute/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T04:28:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/usu4pdcyp9jh1.jpeg?width=640&crop=smart&auto=webp&s=3539e6e918d043901d6184772cb55f58e267d506"
       },
       {
         "rank": 1,

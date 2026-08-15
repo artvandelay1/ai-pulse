@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-15T10:28:44.229Z",
+  "fetchedAt": "2026-08-15T10:52:10.685Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I let Claude Code trade stocks with my real money. Results:",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T20:09:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yk2mh4yxdejh1.jpg?width=140&height=127&auto=webp&s=38844153d180d7e872414ee1710018d65ee31e6b"
+      },
+      {
+        "rank": 2,
+        "title": "Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T13:39:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p7y0hk6agcjh1.jpeg?width=640&crop=smart&auto=webp&s=6af51fad8f3a06f6f8f6cca565e6b368756affc9"
+      },
+      {
+        "rank": 3,
+        "title": "AI might be making you dumb but it made me smart",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo8je1/ai_might_be_making_you_dumb_but_it_made_me_smart/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T14:17:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Whhat?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:53:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hpb3aasezgjh1.jpeg?width=640&crop=smart&auto=webp&s=da4da18b791718aea9efe03c90e577f375f046c3"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic writes an FAQ about watermarking",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:54:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1"
+      },
       {
         "rank": 1,
         "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
@@ -34,6 +83,15 @@
       },
       {
         "rank": 4,
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:26:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "AC comment and our reply disappeared on OpenReview [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
         "source": "r/MachineLearning",
@@ -42,12 +100,50 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Shots were fired",
+        "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-15T07:26:32.000Z",
+        "publishedAt": "2026-08-14T19:03:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8vhu0jo42ejh1.png?width=320&crop=smart&auto=webp&s=a1e58393a27d6ccced1092bda985e1f122f55fec"
+      },
+      {
+        "rank": 2,
+        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
+        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:29:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Paid Resets are HERE",
+        "url": "https://www.reddit.com/r/codex/comments/1vok2ox/paid_resets_are_here/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:26:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/es6l4ygqrejh1.jpg?width=140&height=90&auto=webp&s=eb94809a83d0e321581dfa58eb134784b18e5f73"
+      },
+      {
+        "rank": 4,
+        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
+        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:41:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Paid resets are a huge miss. Woulda paid for % refills, though",
+        "url": "https://www.reddit.com/r/codex/comments/1vo57lv/paid_resets_are_a_huge_miss_woulda_paid_for/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T11:57:00.000Z",
         "category": "reddit"
       },
       {
@@ -145,102 +241,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-15T04:40:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "I let Claude Code trade stocks with my real money. Results:",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T20:09:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yk2mh4yxdejh1.jpg?width=140&height=127&auto=webp&s=38844153d180d7e872414ee1710018d65ee31e6b"
-      },
-      {
-        "rank": 2,
-        "title": "Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T13:39:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p7y0hk6agcjh1.jpeg?width=640&crop=smart&auto=webp&s=6af51fad8f3a06f6f8f6cca565e6b368756affc9"
-      },
-      {
-        "rank": 3,
-        "title": "AI might be making you dumb but it made me smart",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo8je1/ai_might_be_making_you_dumb_but_it_made_me_smart/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T14:17:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic writes an FAQ about watermarking",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T21:54:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voaqvq/anthropic_gave_3_claude_agents_the_same_task_but/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T15:41:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9tihjw002djh1.png?width=640&crop=smart&auto=webp&s=b999a91f042ed2003990b0666c14d1d111288f12"
-      },
-      {
-        "rank": 1,
-        "title": "Shots were fired",
-        "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:03:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vhu0jo42ejh1.png?width=320&crop=smart&auto=webp&s=a1e58393a27d6ccced1092bda985e1f122f55fec"
-      },
-      {
-        "rank": 2,
-        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
-        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:29:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Paid Resets are HERE",
-        "url": "https://www.reddit.com/r/codex/comments/1vok2ox/paid_resets_are_here/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T21:26:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/es6l4ygqrejh1.jpg?width=140&height=90&auto=webp&s=eb94809a83d0e321581dfa58eb134784b18e5f73"
-      },
-      {
-        "rank": 4,
-        "title": "Paid resets are a huge miss. Woulda paid for % refills, though",
-        "url": "https://www.reddit.com/r/codex/comments/1vo57lv/paid_resets_are_a_huge_miss_woulda_paid_for/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T11:57:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
-        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:41:47.000Z",
         "category": "reddit"
       }
     ]

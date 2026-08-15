@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-08-15T09:31:11.870Z",
+  "fetchedAt": "2026-08-15T09:54:45.233Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-14T15:50:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "How much does adding an honest limitations section hurt the paper? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:55:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-14T12:26:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AC comment and our reply disappeared on OpenReview [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T00:32:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:26:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "???",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vo439e/_/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T10:59:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fie7scftnbjh1.png?width=640&crop=smart&auto=webp&s=2a5cf8a35d971886427227060bed7c88acca207c"
+      },
+      {
+        "rank": 2,
+        "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vomjgf/chinese_doctor_stuns_maths_world_by_cracking/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T23:10:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bxKvgWtqCBAxbnvy55MLaGo7HXq2P4DE4dOqXdaYbZ0.jpeg?width=640&crop=smart&auto=webp&s=285cfb59b057b0bd4770c7bd0115c6087abc4590"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vobzyj/openai_and_anthropic_in_price_war_as_chinese_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T16:27:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/111_ghQwcbP1NSWr7NFJ2aP733y9TFdI3AMf8XhjJwM.jpeg?width=640&crop=smart&auto=webp&s=05297bddf6199da8e18a3f088e35b7bd934d6411"
+      },
+      {
+        "rank": 4,
+        "title": "Many AI company executives are now explicitly pushing for recursive self-improvement",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vo35rs/many_ai_company_executives_are_now_explicitly/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T10:08:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pdox5s0mebjh1.png?width=320&crop=smart&auto=webp&s=6295c04060265febfb3e9667a6e83e3c5897c738"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1voam3u/anthropic_gave_3_claude_agents_the_same_task_but/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T15:36:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7p0ilzu51djh1.png?width=640&crop=smart&auto=webp&s=67facfdefcd539c9028b2953aff08e50e3819e09"
+      },
+      {
+        "rank": 1,
+        "title": "GLM 5.3 finds 2436 unpatched open source vulnerabilities likely missed by Mythos (Project Glasswing)",
+        "url": "https://www.reddit.com/r/singularity/comments/1vo56qy/glm_53_finds_2436_unpatched_open_source/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T11:55:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
+        "url": "https://www.reddit.com/r/singularity/comments/1vohdrz/a_150m_param_recurrent_model_scores_295_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T19:43:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
+        "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T22:36:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Qwen 3.8 27b is here",
+        "url": "https://www.reddit.com/r/singularity/comments/1voa4mo/qwen_38_27b_is_here/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T15:18:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/itsb0viyxcjh1.jpg?width=140&height=78&auto=webp&s=5f405c2682be09258726946c3e90c486c8bfa63a"
+      },
+      {
+        "rank": 5,
+        "title": "Panicking Software Engineer",
+        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:40:31.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I let Claude Code trade stocks with my real money. Results:",
@@ -56,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-14T15:50:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "How much does adding an honest limitations section hurt the paper? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-14T21:55:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-14T12:26:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "AC comment and our reply disappeared on OpenReview [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T00:32:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:26:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Shots were fired",
         "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
         "source": "r/codex",
@@ -145,105 +242,6 @@
         "score": 0,
         "publishedAt": "2026-08-15T05:41:47.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "???",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vo439e/_/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T10:59:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fie7scftnbjh1.png?width=640&crop=smart&auto=webp&s=2a5cf8a35d971886427227060bed7c88acca207c"
-      },
-      {
-        "rank": 2,
-        "title": "Bro had enough",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vnz8nu/bro_had_enough/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T06:17:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yaaaevo89ajh1.png?width=640&crop=smart&auto=webp&s=3d0f7ebbaaa8f0fb946375813090629a3629cff4"
-      },
-      {
-        "rank": 3,
-        "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vomjgf/chinese_doctor_stuns_maths_world_by_cracking/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T23:10:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bxKvgWtqCBAxbnvy55MLaGo7HXq2P4DE4dOqXdaYbZ0.jpeg?width=640&crop=smart&auto=webp&s=285cfb59b057b0bd4770c7bd0115c6087abc4590"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vobzyj/openai_and_anthropic_in_price_war_as_chinese_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T16:27:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/111_ghQwcbP1NSWr7NFJ2aP733y9TFdI3AMf8XhjJwM.jpeg?width=640&crop=smart&auto=webp&s=05297bddf6199da8e18a3f088e35b7bd934d6411"
-      },
-      {
-        "rank": 5,
-        "title": "Many AI company executives are now explicitly pushing for recursive self-improvement",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vo35rs/many_ai_company_executives_are_now_explicitly/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T10:08:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pdox5s0mebjh1.png?width=320&crop=smart&auto=webp&s=6295c04060265febfb3e9667a6e83e3c5897c738"
-      },
-      {
-        "rank": 1,
-        "title": "Neurosurgery resident at a Peking College Hospital uses GPT 5.6 Sol to prove a 2 decades old mathematical conjecture underlying a major problem in numerical linear algebra — All for the purposes of his research on transcranial ultrasound.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vnz6og/neurosurgery_resident_at_a_peking_college/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T06:14:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8oxmndk78ajh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=73028d17a4b885df6f7bb7eab5a217bb3e03a030"
-      },
-      {
-        "rank": 2,
-        "title": "No way 💀 what an AI week",
-        "url": "https://www.reddit.com/r/singularity/comments/1vnypqt/no_way_what_an_ai_week/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T05:48:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c3y5c4084ajh1.jpeg?width=640&crop=smart&auto=webp&s=99b8e6ee7eb6075c54d49ccc645735bcaaa87157"
-      },
-      {
-        "rank": 3,
-        "title": "GLM 5.3 finds 2436 unpatched open source vulnerabilities likely missed by Mythos (Project Glasswing)",
-        "url": "https://www.reddit.com/r/singularity/comments/1vo56qy/glm_53_finds_2436_unpatched_open_source/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T11:55:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
-        "url": "https://www.reddit.com/r/singularity/comments/1vohdrz/a_150m_param_recurrent_model_scores_295_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:43:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 5,
-        "title": "Qwen 3.8 27b is here",
-        "url": "https://www.reddit.com/r/singularity/comments/1voa4mo/qwen_38_27b_is_here/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T15:18:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/itsb0viyxcjh1.jpg?width=140&height=78&auto=webp&s=5f405c2682be09258726946c3e90c486c8bfa63a"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T07:36:12.926Z",
+  "fetchedAt": "2026-08-15T08:35:12.748Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,16 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voaqvq/anthropic_gave_3_claude_agents_the_same_task_but/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T15:41:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9tihjw002djh1.png?width=640&crop=smart&auto=webp&s=b999a91f042ed2003990b0666c14d1d111288f12"
-      },
-      {
-        "rank": 5,
         "title": "Anthropic writes an FAQ about watermarking",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-08-14T21:54:19.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voaqvq/anthropic_gave_3_claude_agents_the_same_task_but/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T15:41:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9tihjw002djh1.png?width=640&crop=smart&auto=webp&s=b999a91f042ed2003990b0666c14d1d111288f12"
       },
       {
         "rank": 1,
@@ -92,13 +92,12 @@
       },
       {
         "rank": 5,
-        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-15T06:18:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+        "publishedAt": "2026-08-15T07:26:32.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

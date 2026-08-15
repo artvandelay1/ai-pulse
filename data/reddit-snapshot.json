@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T18:37:14.727Z",
+  "fetchedAt": "2026-08-15T19:26:16.131Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,21 +37,22 @@
       },
       {
         "rank": 4,
-        "title": "Thank you, Claude, for making sure my 3D object does NOT read unmistakably as phallic.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vog95p/thank_you_claude_for_making_sure_my_3d_object/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:01:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-15T10:18:55.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I built Popwatch - your personal popcorn popping pal",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:19:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
       },
       {
         "rank": 1,
@@ -92,25 +93,16 @@
       },
       {
         "rank": 5,
-        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
+        "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-15T14:50:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-15T18:06:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xg0grozpwkjh1.png?width=640&crop=smart&auto=webp&s=4ca48cc3702227f04371e5debdd07f8acd4ca785"
       },
       {
         "rank": 1,
-        "title": "Shots were fired",
-        "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:03:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vhu0jo42ejh1.png?width=320&crop=smart&auto=webp&s=a1e58393a27d6ccced1092bda985e1f122f55fec"
-      },
-      {
-        "rank": 2,
         "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
         "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
         "source": "r/codex",
@@ -119,7 +111,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
         "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
         "source": "r/codex",
@@ -128,7 +120,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Juuuust vote with your wallets.",
         "url": "https://www.reddit.com/r/codex/comments/1voukw2/juuuust_vote_with_your_wallets/",
         "source": "r/codex",
@@ -137,7 +129,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "The end is near - for subscription",
         "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
         "source": "r/codex",
@@ -145,6 +137,16 @@
         "publishedAt": "2026-08-15T09:21:29.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
+      },
+      {
+        "rank": 5,
+        "title": "Outsider Art Skill",
+        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:56:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
       },
       {
         "rank": 1,

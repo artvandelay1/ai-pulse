@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T05:56:07.978Z",
+  "fetchedAt": "2026-08-15T06:46:11.079Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T13:39:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p7y0hk6agcjh1.jpeg?width=640&crop=smart&auto=webp&s=6af51fad8f3a06f6f8f6cca565e6b368756affc9"
-      },
-      {
-        "rank": 2,
         "title": "I let Claude Code trade stocks with my real money. Results:",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/",
         "source": "r/ClaudeAI",
@@ -24,6 +14,16 @@
         "publishedAt": "2026-08-14T20:09:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yk2mh4yxdejh1.jpg?width=140&height=127&auto=webp&s=38844153d180d7e872414ee1710018d65ee31e6b"
+      },
+      {
+        "rank": 2,
+        "title": "Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T13:39:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p7y0hk6agcjh1.jpeg?width=640&crop=smart&auto=webp&s=6af51fad8f3a06f6f8f6cca565e6b368756affc9"
       },
       {
         "rank": 3,
@@ -121,20 +121,20 @@
       },
       {
         "rank": 3,
-        "title": "Paid resets are a huge miss. Woulda paid for % refills, though",
-        "url": "https://www.reddit.com/r/codex/comments/1vo57lv/paid_resets_are_a_huge_miss_woulda_paid_for/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T11:57:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
         "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-15T04:29:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Paid resets are a huge miss. Woulda paid for % refills, though",
+        "url": "https://www.reddit.com/r/codex/comments/1vo57lv/paid_resets_are_a_huge_miss_woulda_paid_for/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T11:57:00.000Z",
         "category": "reddit"
       },
       {

@@ -1,59 +1,10 @@
 {
-  "fetchedAt": "2026-08-15T02:37:12.940Z",
+  "fetchedAt": "2026-08-15T03:44:46.395Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T13:39:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p7y0hk6agcjh1.jpeg?width=640&crop=smart&auto=webp&s=6af51fad8f3a06f6f8f6cca565e6b368756affc9"
-      },
-      {
-        "rank": 2,
-        "title": "I let Claude Code trade stocks with my real money. Results:",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T20:09:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yk2mh4yxdejh1.jpg?width=140&height=127&auto=webp&s=38844153d180d7e872414ee1710018d65ee31e6b"
-      },
-      {
-        "rank": 3,
-        "title": "AI might be making you dumb but it made me smart",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo8je1/ai_might_be_making_you_dumb_but_it_made_me_smart/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T14:17:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voaqvq/anthropic_gave_3_claude_agents_the_same_task_but/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T15:41:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9tihjw002djh1.png?width=640&crop=smart&auto=webp&s=b999a91f042ed2003990b0666c14d1d111288f12"
-      },
-      {
-        "rank": 5,
-        "title": "You can now build yourself a clone to control your computer, if you have a claude subscription",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo3sj9/you_can_now_build_yourself_a_clone_to_control/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T10:43:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c3ZjZmZyenZrYmpoMV4QnqXR3CvFeNjUNkqNk7pt1wOtkjrrONsBYbMTHdZg.jpeg?width=640&crop=smart&auto=webp&s=c64880253339c344d34b5d72b341261877401900"
-      },
       {
         "rank": 1,
         "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
@@ -101,55 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "PAID resets are here",
-        "url": "https://www.reddit.com/r/codex/comments/1vnxbpd/paid_resets_are_here/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T04:33:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fxc8q723r9jh1.png?width=140&height=31&auto=webp&s=58da806cdfc6fa46b677782ee21f238c43e7ba9d"
-      },
-      {
-        "rank": 2,
-        "title": "Shots were fired",
-        "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:03:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vhu0jo42ejh1.png?width=320&crop=smart&auto=webp&s=a1e58393a27d6ccced1092bda985e1f122f55fec"
-      },
-      {
-        "rank": 3,
-        "title": "Paid Resets are HERE",
-        "url": "https://www.reddit.com/r/codex/comments/1vok2ox/paid_resets_are_here/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T21:26:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/es6l4ygqrejh1.jpg?width=140&height=90&auto=webp&s=eb94809a83d0e321581dfa58eb134784b18e5f73"
-      },
-      {
-        "rank": 4,
-        "title": "Paid resets are a huge miss. Woulda paid for % refills, though",
-        "url": "https://www.reddit.com/r/codex/comments/1vo57lv/paid_resets_are_a_huge_miss_woulda_paid_for/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T11:57:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is this even true?",
-        "url": "https://www.reddit.com/r/codex/comments/1vo6n9x/is_this_even_true/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T13:00:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6da1f9179cjh1.png?width=140&height=107&auto=webp&s=2905402d91200778d387667c3c0ecb15ebebda4d"
-      },
-      {
-        "rank": 1,
         "title": "???",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vo439e/_/",
         "source": "r/OpenAI",
@@ -160,16 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "👁️👄👁️",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vntd45/_/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T01:20:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qhp8v7rks8jh1.jpeg?width=640&crop=smart&auto=webp&s=91b1afea97984ea81161ab15413a70f6e5590a13"
-      },
-      {
-        "rank": 3,
         "title": "Bro had enough",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vnz8nu/bro_had_enough/",
         "source": "r/OpenAI",
@@ -177,6 +69,16 @@
         "publishedAt": "2026-08-14T06:17:09.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yaaaevo89ajh1.png?width=640&crop=smart&auto=webp&s=3d0f7ebbaaa8f0fb946375813090629a3629cff4"
+      },
+      {
+        "rank": 3,
+        "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vomjgf/chinese_doctor_stuns_maths_world_by_cracking/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T23:10:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bxKvgWtqCBAxbnvy55MLaGo7HXq2P4DE4dOqXdaYbZ0.jpeg?width=640&crop=smart&auto=webp&s=285cfb59b057b0bd4770c7bd0115c6087abc4590"
       },
       {
         "rank": 4,
@@ -229,6 +131,16 @@
       },
       {
         "rank": 4,
+        "title": "Qwen 3.8 27b is here",
+        "url": "https://www.reddit.com/r/singularity/comments/1voa4mo/qwen_38_27b_is_here/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T15:18:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/itsb0viyxcjh1.jpg?width=140&height=78&auto=webp&s=5f405c2682be09258726946c3e90c486c8bfa63a"
+      },
+      {
+        "rank": 5,
         "title": "GLM 5.3 released: Frontier Coding with Emergent Cyber Capabilities",
         "url": "https://www.reddit.com/r/singularity/comments/1vnz30c/glm_53_released_frontier_coding_with_emergent/",
         "source": "r/singularity",
@@ -237,14 +149,102 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Qwen 3.8 27b is here",
-        "url": "https://www.reddit.com/r/singularity/comments/1voa4mo/qwen_38_27b_is_here/",
-        "source": "r/singularity",
+        "rank": 1,
+        "title": "Claude changed the way I eat: 9+ kg down this summer, and it never felt like a diet",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo7klb/claude_changed_the_way_i_eat_9_kg_down_this/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-14T15:18:19.000Z",
+        "publishedAt": "2026-08-14T13:39:12.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/itsb0viyxcjh1.jpg?width=140&height=78&auto=webp&s=5f405c2682be09258726946c3e90c486c8bfa63a"
+        "thumbnail": "https://preview.redd.it/p7y0hk6agcjh1.jpeg?width=640&crop=smart&auto=webp&s=6af51fad8f3a06f6f8f6cca565e6b368756affc9"
+      },
+      {
+        "rank": 2,
+        "title": "I let Claude Code trade stocks with my real money. Results:",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T20:09:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yk2mh4yxdejh1.jpg?width=140&height=127&auto=webp&s=38844153d180d7e872414ee1710018d65ee31e6b"
+      },
+      {
+        "rank": 3,
+        "title": "AI might be making you dumb but it made me smart",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo8je1/ai_might_be_making_you_dumb_but_it_made_me_smart/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T14:17:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voaqvq/anthropic_gave_3_claude_agents_the_same_task_but/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T15:41:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9tihjw002djh1.png?width=640&crop=smart&auto=webp&s=b999a91f042ed2003990b0666c14d1d111288f12"
+      },
+      {
+        "rank": 5,
+        "title": "You can now build yourself a clone to control your computer, if you have a claude subscription",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vo3sj9/you_can_now_build_yourself_a_clone_to_control/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T10:43:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c3ZjZmZyenZrYmpoMV4QnqXR3CvFeNjUNkqNk7pt1wOtkjrrONsBYbMTHdZg.jpeg?width=640&crop=smart&auto=webp&s=c64880253339c344d34b5d72b341261877401900"
+      },
+      {
+        "rank": 1,
+        "title": "PAID resets are here",
+        "url": "https://www.reddit.com/r/codex/comments/1vnxbpd/paid_resets_are_here/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T04:33:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fxc8q723r9jh1.png?width=140&height=31&auto=webp&s=58da806cdfc6fa46b677782ee21f238c43e7ba9d"
+      },
+      {
+        "rank": 2,
+        "title": "Shots were fired",
+        "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T19:03:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8vhu0jo42ejh1.png?width=320&crop=smart&auto=webp&s=a1e58393a27d6ccced1092bda985e1f122f55fec"
+      },
+      {
+        "rank": 3,
+        "title": "Paid Resets are HERE",
+        "url": "https://www.reddit.com/r/codex/comments/1vok2ox/paid_resets_are_here/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:26:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/es6l4ygqrejh1.jpg?width=140&height=90&auto=webp&s=eb94809a83d0e321581dfa58eb134784b18e5f73"
+      },
+      {
+        "rank": 4,
+        "title": "Paid resets are a huge miss. Woulda paid for % refills, though",
+        "url": "https://www.reddit.com/r/codex/comments/1vo57lv/paid_resets_are_a_huge_miss_woulda_paid_for/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T11:57:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is this even true?",
+        "url": "https://www.reddit.com/r/codex/comments/1vo6n9x/is_this_even_true/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T13:00:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6da1f9179cjh1.png?width=140&height=107&auto=webp&s=2905402d91200778d387667c3c0ecb15ebebda4d"
       }
     ]
   }

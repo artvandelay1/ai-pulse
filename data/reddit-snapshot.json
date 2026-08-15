@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T20:52:12.590Z",
+  "fetchedAt": "2026-08-15T21:26:42.502Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,55 +7,15 @@
     "items": [
       {
         "rank": 1,
-        "title": "Whhat?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/",
-        "source": "r/ClaudeAI",
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-15T04:53:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hpb3aasezgjh1.jpeg?width=640&crop=smart&auto=webp&s=da4da18b791718aea9efe03c90e577f375f046c3"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic writes an FAQ about watermarking",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T21:54:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1"
-      },
-      {
-        "rank": 3,
-        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T10:18:55.000Z",
+        "publishedAt": "2026-08-15T07:26:32.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "I built Popwatch - your personal popcorn popping pal",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:19:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
-      },
-      {
-        "rank": 5,
-        "title": "World of Claudecraft after 2 months of vibe coding",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T08:49:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bnA1ODE2eG8waWpoMUs86S7JQhbG56eHOQrVyGOLNoNMjmaIIrBhhNQzB3nU.png?width=640&crop=smart&auto=webp&s=660a83a6c3eec54a51bd30234a175fd1f4ddab03"
-      },
-      {
-        "rank": 1,
+        "rank": 2,
         "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
         "source": "r/MachineLearning",
@@ -65,21 +25,12 @@
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "How much does adding an honest limitations section hurt the paper? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-14T21:55:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:26:32.000Z",
         "category": "reddit"
       },
       {
@@ -100,53 +51,6 @@
         "score": 0,
         "publishedAt": "2026-08-15T00:32:25.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
-        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:29:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
-        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:41:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "The end is near - for subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T09:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
-      },
-      {
-        "rank": 4,
-        "title": "Juuuust vote with your wallets.",
-        "url": "https://www.reddit.com/r/codex/comments/1voukw2/juuuust_vote_with_your_wallets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:45:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Outsider Art Skill",
-        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:56:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
       },
       {
         "rank": 1,
@@ -199,15 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "Panicking Software Engineer",
-        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:40:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
         "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
         "source": "r/singularity",
@@ -216,7 +111,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
         "url": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
         "source": "r/singularity",
@@ -226,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/oymsdnxumjjh1.png?width=320&crop=smart&auto=webp&s=f315a6dfe5249f4a26172831a994bb6820d7816a"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "git clone",
         "url": "https://www.reddit.com/r/singularity/comments/1voue9r/git_clone/",
         "source": "r/singularity",
@@ -236,7 +131,7 @@
         "thumbnail": "https://preview.redd.it/7f201hyr6hjh1.png?width=640&crop=smart&auto=webp&s=8d900fd5028750c0c87a7a8d4c850b381f893315"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
         "url": "https://www.reddit.com/r/singularity/comments/1voo5mz/openai_talent_exodus_raises_huge_red_flag_ahead/",
         "source": "r/singularity",
@@ -244,6 +139,112 @@
         "publishedAt": "2026-08-15T00:22:58.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/mcn-UV8mTnMzpeldbSWBfHnve0jlmgo6wxGA5WdWKrk.jpeg?width=640&crop=smart&auto=webp&s=66d78eae3eeb26f695ded56460ef559acbd0f47d"
+      },
+      {
+        "rank": 5,
+        "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+        "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T16:28:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/0sqp3tYIAMgVJ8XN8F0puELMMWKJkyxL3CszDGTKHIQ.jpeg?width=640&crop=smart&auto=webp&s=d585a07a9daed12411ac74e6eb40a5bc777953b7"
+      },
+      {
+        "rank": 1,
+        "title": "Whhat?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:53:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hpb3aasezgjh1.jpeg?width=640&crop=smart&auto=webp&s=da4da18b791718aea9efe03c90e577f375f046c3"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic writes an FAQ about watermarking",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:54:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1"
+      },
+      {
+        "rank": 3,
+        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T10:18:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built Popwatch - your personal popcorn popping pal",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:19:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
+      },
+      {
+        "rank": 5,
+        "title": "World of Claudecraft after 2 months of vibe coding",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T08:49:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bnA1ODE2eG8waWpoMUs86S7JQhbG56eHOQrVyGOLNoNMjmaIIrBhhNQzB3nU.png?width=640&crop=smart&auto=webp&s=660a83a6c3eec54a51bd30234a175fd1f4ddab03"
+      },
+      {
+        "rank": 1,
+        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
+        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:29:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
+        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:41:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "The end is near - for subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T09:21:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
+      },
+      {
+        "rank": 4,
+        "title": "Juuuust vote with your wallets.",
+        "url": "https://www.reddit.com/r/codex/comments/1voukw2/juuuust_vote_with_your_wallets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:45:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Outsider Art Skill",
+        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:56:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
       }
     ]
   }

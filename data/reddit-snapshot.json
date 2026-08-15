@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T12:45:43.790Z",
+  "fetchedAt": "2026-08-15T13:34:44.593Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -63,6 +63,16 @@
       },
       {
         "rank": 2,
+        "title": "Can't agree more",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T12:12:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56"
+      },
+      {
+        "rank": 3,
         "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vobzyj/openai_and_anthropic_in_price_war_as_chinese_ai/",
         "source": "r/OpenAI",
@@ -72,7 +82,7 @@
         "thumbnail": "https://external-preview.redd.it/111_ghQwcbP1NSWr7NFJ2aP733y9TFdI3AMf8XhjJwM.jpeg?width=640&crop=smart&auto=webp&s=05297bddf6199da8e18a3f088e35b7bd934d6411"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1voam3u/anthropic_gave_3_claude_agents_the_same_task_but/",
         "source": "r/OpenAI",
@@ -82,7 +92,7 @@
         "thumbnail": "https://preview.redd.it/7p0ilzu51djh1.png?width=640&crop=smart&auto=webp&s=67facfdefcd539c9028b2953aff08e50e3819e09"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "ChatGPT Free and Go users in Europe face ads from later this month",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vowpbh/chatgpt_free_and_go_users_in_europe_face_ads_from/",
         "source": "r/OpenAI",
@@ -90,15 +100,6 @@
         "publishedAt": "2026-08-15T07:47:41.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cHCMFpU_9YnPJfBaRyF1Ns4EF8INP3V6eR8XC1a5_-g.jpeg?width=640&crop=smart&auto=webp&s=7f522aabe8ac9fbff378ce032c227b92ddaa6b3d"
-      },
-      {
-        "rank": 5,
-        "title": "Estonia wants to give AI agents their own digital IDs",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vo73p8/estonia_wants_to_give_ai_agents_their_own_digital/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T13:19:37.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -112,20 +113,20 @@
       },
       {
         "rank": 2,
-        "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
-        "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T22:36:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Panicking Software Engineer",
         "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-15T04:40:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
+        "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T22:36:30.000Z",
         "category": "reddit"
       },
       {

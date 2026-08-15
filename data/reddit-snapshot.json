@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-15T17:49:47.179Z",
+  "fetchedAt": "2026-08-15T18:37:14.727Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I let Claude Code trade stocks with my real money. Results:",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T20:09:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yk2mh4yxdejh1.jpg?width=140&height=127&auto=webp&s=38844153d180d7e872414ee1710018d65ee31e6b"
+      },
+      {
+        "rank": 2,
+        "title": "Whhat?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:53:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hpb3aasezgjh1.jpeg?width=640&crop=smart&auto=webp&s=da4da18b791718aea9efe03c90e577f375f046c3"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic writes an FAQ about watermarking",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:54:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1"
+      },
+      {
+        "rank": 4,
+        "title": "Thank you, Claude, for making sure my 3D object does NOT read unmistakably as phallic.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vog95p/thank_you_claude_for_making_sure_my_3d_object/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T19:01:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T10:18:55.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "How much does adding an honest limitations section hurt the paper? [D]",
@@ -16,15 +64,6 @@
       },
       {
         "rank": 2,
-        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:26:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
         "source": "r/MachineLearning",
@@ -32,6 +71,15 @@
         "publishedAt": "2026-08-15T06:18:15.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 3,
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:26:32.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -50,6 +98,53 @@
         "score": 0,
         "publishedAt": "2026-08-15T14:50:57.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Shots were fired",
+        "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-14T19:03:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8vhu0jo42ejh1.png?width=320&crop=smart&auto=webp&s=a1e58393a27d6ccced1092bda985e1f122f55fec"
+      },
+      {
+        "rank": 2,
+        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
+        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:29:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
+        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:41:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Juuuust vote with your wallets.",
+        "url": "https://www.reddit.com/r/codex/comments/1voukw2/juuuust_vote_with_your_wallets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:45:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "The end is near - for subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T09:21:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
       },
       {
         "rank": 1,
@@ -148,101 +243,6 @@
         "publishedAt": "2026-08-15T05:35:21.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7f201hyr6hjh1.png?width=640&crop=smart&auto=webp&s=8d900fd5028750c0c87a7a8d4c850b381f893315"
-      },
-      {
-        "rank": 1,
-        "title": "I let Claude Code trade stocks with my real money. Results:",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voi341/i_let_claude_code_trade_stocks_with_my_real_money/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T20:09:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yk2mh4yxdejh1.jpg?width=140&height=127&auto=webp&s=38844153d180d7e872414ee1710018d65ee31e6b"
-      },
-      {
-        "rank": 2,
-        "title": "Whhat?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:53:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hpb3aasezgjh1.jpeg?width=640&crop=smart&auto=webp&s=da4da18b791718aea9efe03c90e577f375f046c3"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic writes an FAQ about watermarking",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vokr48/anthropic_writes_an_faq_about_watermarking/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T21:54:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d4NCyiFic0ClVCGSihAlRWM1UIwJVxOq5tS_KZsTrTE.png?width=640&crop=smart&auto=webp&s=a984a008b4e15fc9707045cb5aa551d762d979f1"
-      },
-      {
-        "rank": 4,
-        "title": "Thank you, Claude, for making sure my 3D object does NOT read unmistakably as phallic.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vog95p/thank_you_claude_for_making_sure_my_3d_object/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:01:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T10:18:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Shots were fired",
-        "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:03:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vhu0jo42ejh1.png?width=320&crop=smart&auto=webp&s=a1e58393a27d6ccced1092bda985e1f122f55fec"
-      },
-      {
-        "rank": 2,
-        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
-        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:29:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
-        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:41:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Juuuust vote with your wallets.",
-        "url": "https://www.reddit.com/r/codex/comments/1voukw2/juuuust_vote_with_your_wallets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:45:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "The end is near - for subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T09:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
       }
     ]
   }

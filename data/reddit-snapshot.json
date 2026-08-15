@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-08-15T16:31:07.540Z",
+  "fetchedAt": "2026-08-15T16:56:50.665Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "How much does adding an honest limitations section hurt the paper? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-14T21:55:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:26:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T06:18:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 4,
+        "title": "AC comment and our reply disappeared on OpenReview [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T00:32:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T14:50:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vomjgf/chinese_doctor_stuns_maths_world_by_cracking/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-14T23:10:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bxKvgWtqCBAxbnvy55MLaGo7HXq2P4DE4dOqXdaYbZ0.jpeg?width=640&crop=smart&auto=webp&s=285cfb59b057b0bd4770c7bd0115c6087abc4590"
+      },
+      {
+        "rank": 2,
+        "title": "Can't agree more",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T12:12:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56"
+      },
+      {
+        "rank": 3,
+        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T15:04:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT Free and Go users in Europe face ads from later this month",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vowpbh/chatgpt_free_and_go_users_in_europe_face_ads_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:47:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHCMFpU_9YnPJfBaRyF1Ns4EF8INP3V6eR8XC1a5_-g.jpeg?width=640&crop=smart&auto=webp&s=7f522aabe8ac9fbff378ce032c227b92ddaa6b3d"
+      },
+      {
+        "rank": 5,
+        "title": "Looks like accent colour is back in the ChatGPT app after being absent for about a month",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp312w/looks_like_accent_colour_is_back_in_the_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T13:33:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jijjri99kjjh1.jpeg?width=640&crop=smart&auto=webp&s=c1701592dc8fd1c129e492447e1da09fdf7324db"
+      },
+      {
+        "rank": 1,
+        "title": "Panicking Software Engineer",
+        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:40:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
+        "url": "https://www.reddit.com/r/singularity/comments/1vohdrz/a_150m_param_recurrent_model_scores_295_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T19:43:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
+        "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-14T22:36:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
+        "url": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T13:50:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oymsdnxumjjh1.png?width=320&crop=smart&auto=webp&s=f315a6dfe5249f4a26172831a994bb6820d7816a"
+      },
+      {
+        "rank": 5,
+        "title": "git clone",
+        "url": "https://www.reddit.com/r/singularity/comments/1voue9r/git_clone/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:35:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7f201hyr6hjh1.png?width=640&crop=smart&auto=webp&s=8d900fd5028750c0c87a7a8d4c850b381f893315"
+      },
       {
         "rank": 1,
         "title": "I let Claude Code trade stocks with my real money. Results:",
@@ -55,52 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "How much does adding an honest limitations section hurt the paper? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-14T21:55:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:26:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T06:18:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 4,
-        "title": "AC comment and our reply disappeared on OpenReview [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T00:32:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T14:50:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Shots were fired",
         "url": "https://www.reddit.com/r/codex/comments/1vogbne/shots_were_fired/",
         "source": "r/codex",
@@ -145,104 +243,6 @@
         "publishedAt": "2026-08-15T09:21:29.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
-      },
-      {
-        "rank": 1,
-        "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vomjgf/chinese_doctor_stuns_maths_world_by_cracking/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T23:10:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bxKvgWtqCBAxbnvy55MLaGo7HXq2P4DE4dOqXdaYbZ0.jpeg?width=640&crop=smart&auto=webp&s=285cfb59b057b0bd4770c7bd0115c6087abc4590"
-      },
-      {
-        "rank": 2,
-        "title": "Can't agree more",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T12:12:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vobzyj/openai_and_anthropic_in_price_war_as_chinese_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T16:27:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/111_ghQwcbP1NSWr7NFJ2aP733y9TFdI3AMf8XhjJwM.jpeg?width=640&crop=smart&auto=webp&s=05297bddf6199da8e18a3f088e35b7bd934d6411"
-      },
-      {
-        "rank": 4,
-        "title": "ChatGPT Free and Go users in Europe face ads from later this month",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vowpbh/chatgpt_free_and_go_users_in_europe_face_ads_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:47:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHCMFpU_9YnPJfBaRyF1Ns4EF8INP3V6eR8XC1a5_-g.jpeg?width=640&crop=smart&auto=webp&s=7f522aabe8ac9fbff378ce032c227b92ddaa6b3d"
-      },
-      {
-        "rank": 5,
-        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T15:04:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
-      },
-      {
-        "rank": 1,
-        "title": "Panicking Software Engineer",
-        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:40:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
-        "url": "https://www.reddit.com/r/singularity/comments/1vohdrz/a_150m_param_recurrent_model_scores_295_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T19:43:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
-        "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T22:36:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-        "url": "https://www.reddit.com/r/singularity/comments/1voo5mz/openai_talent_exodus_raises_huge_red_flag_ahead/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T00:22:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/mcn-UV8mTnMzpeldbSWBfHnve0jlmgo6wxGA5WdWKrk.jpeg?width=640&crop=smart&auto=webp&s=66d78eae3eeb26f695ded56460ef559acbd0f47d"
-      },
-      {
-        "rank": 5,
-        "title": "TAU Robotics home cleaning service, despite being teleoperated, offers a glimpse into the future",
-        "url": "https://www.reddit.com/r/singularity/comments/1vof90w/tau_robotics_home_cleaning_service_despite_being/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T18:25:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dndmcHF1YmN2ZGpoMTtANEYqO3IjYdq7cS1L132e5aLxM6yJGVkmuxfLPJOd.png?width=640&crop=smart&auto=webp&s=d4cac10b8571c7020dcb23d30dc1ea1611f6d9bc"
       }
     ]
   }

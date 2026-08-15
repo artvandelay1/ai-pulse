@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T13:34:44.593Z",
+  "fetchedAt": "2026-08-15T14:28:45.564Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -103,6 +103,15 @@
       },
       {
         "rank": 1,
+        "title": "Panicking Software Engineer",
+        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:40:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
         "url": "https://www.reddit.com/r/singularity/comments/1vohdrz/a_150m_param_recurrent_model_scores_295_on/",
         "source": "r/singularity",
@@ -110,15 +119,6 @@
         "publishedAt": "2026-08-14T19:43:27.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 2,
-        "title": "Panicking Software Engineer",
-        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:40:31.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T06:46:11.079Z",
+  "fetchedAt": "2026-08-15T07:36:12.926Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -92,12 +92,13 @@
       },
       {
         "rank": 5,
-        "title": "How to build an adaptive learning/recommendation system for a question bank? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
+        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-14T18:54:26.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-15T06:18:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
       },
       {
         "rank": 1,
@@ -111,6 +112,15 @@
       },
       {
         "rank": 2,
+        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
+        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:29:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Paid Resets are HERE",
         "url": "https://www.reddit.com/r/codex/comments/1vok2ox/paid_resets_are_here/",
         "source": "r/codex",
@@ -118,15 +128,6 @@
         "publishedAt": "2026-08-14T21:26:57.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/es6l4ygqrejh1.jpg?width=140&height=90&auto=webp&s=eb94809a83d0e321581dfa58eb134784b18e5f73"
-      },
-      {
-        "rank": 3,
-        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
-        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:29:07.000Z",
-        "category": "reddit"
       },
       {
         "rank": 4,
@@ -139,13 +140,12 @@
       },
       {
         "rank": 5,
-        "title": "Is this even true?",
-        "url": "https://www.reddit.com/r/codex/comments/1vo6n9x/is_this_even_true/",
+        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
+        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-14T13:00:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6da1f9179cjh1.png?width=140&height=107&auto=webp&s=2905402d91200778d387667c3c0ecb15ebebda4d"
+        "publishedAt": "2026-08-15T05:41:47.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

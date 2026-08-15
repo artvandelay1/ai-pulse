@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T09:54:45.233Z",
+  "fetchedAt": "2026-08-15T10:28:44.229Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -82,16 +82,6 @@
       },
       {
         "rank": 4,
-        "title": "Many AI company executives are now explicitly pushing for recursive self-improvement",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vo35rs/many_ai_company_executives_are_now_explicitly/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T10:08:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pdox5s0mebjh1.png?width=320&crop=smart&auto=webp&s=6295c04060265febfb3e9667a6e83e3c5897c738"
-      },
-      {
-        "rank": 5,
         "title": "Anthropic gave 3 Claude agents the same task, but secretly gave them conflicting goals. They escalated into turf wars where agents used \"increasingly aggressive self-replicating malware\" as weapons, used disguises, and attempted to kill each other's accounts.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1voam3u/anthropic_gave_3_claude_agents_the_same_task_but/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-08-14T15:36:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7p0ilzu51djh1.png?width=640&crop=smart&auto=webp&s=67facfdefcd539c9028b2953aff08e50e3819e09"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT Free and Go users in Europe face ads from later this month",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vowpbh/chatgpt_free_and_go_users_in_europe_face_ads_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:47:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHCMFpU_9YnPJfBaRyF1Ns4EF8INP3V6eR8XC1a5_-g.jpeg?width=640&crop=smart&auto=webp&s=7f522aabe8ac9fbff378ce032c227b92ddaa6b3d"
       },
       {
         "rank": 1,

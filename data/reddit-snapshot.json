@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T11:48:49.465Z",
+  "fetchedAt": "2026-08-15T12:45:43.790Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-14T12:26:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
         "source": "r/MachineLearning",
@@ -42,13 +33,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "AC comment and our reply disappeared on OpenReview [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-15T00:32:25.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T06:18:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
       },
       {
         "rank": 1,
@@ -101,15 +102,6 @@
       },
       {
         "rank": 1,
-        "title": "GLM 5.3 finds 2436 unpatched open source vulnerabilities likely missed by Mythos (Project Glasswing)",
-        "url": "https://www.reddit.com/r/singularity/comments/1vo56qy/glm_53_finds_2436_unpatched_open_source/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-14T11:55:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
         "url": "https://www.reddit.com/r/singularity/comments/1vohdrz/a_150m_param_recurrent_model_scores_295_on/",
         "source": "r/singularity",
@@ -119,12 +111,21 @@
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
         "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-14T22:36:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Panicking Software Engineer",
+        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:40:31.000Z",
         "category": "reddit"
       },
       {
@@ -139,12 +140,13 @@
       },
       {
         "rank": 5,
-        "title": "Panicking Software Engineer",
-        "url": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
+        "title": "TAU Robotics home cleaning service, despite being teleoperated, offers a glimpse into the future",
+        "url": "https://www.reddit.com/r/singularity/comments/1vof90w/tau_robotics_home_cleaning_service_despite_being/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-15T04:40:31.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-14T18:25:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dndmcHF1YmN2ZGpoMTtANEYqO3IjYdq7cS1L132e5aLxM6yJGVkmuxfLPJOd.png?width=640&crop=smart&auto=webp&s=d4cac10b8571c7020dcb23d30dc1ea1611f6d9bc"
       },
       {
         "rank": 1,

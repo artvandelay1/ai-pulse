@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T03:05:42.683Z",
+  "fetchedAt": "2026-08-16T04:10:48.548Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -75,6 +75,16 @@
       },
       {
         "rank": 3,
+        "title": "What's going on here?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T01:19:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb"
+      },
+      {
+        "rank": 4,
         "title": "Major vibe shift in the last few weeks: \"I've never seen so much concern before.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vpb6ld/major_vibe_shift_in_the_last_few_weeks_ive_never/",
         "source": "r/OpenAI",
@@ -84,23 +94,13 @@
         "thumbnail": "https://preview.redd.it/wvpt9ti87ljh1.png?width=640&crop=smart&auto=webp&s=971b7538259ef1099a5fbac5cd2559cf867d7134"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Crazyyy Jesus ai hallucination",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vpacwe/crazyyy_jesus_ai_hallucination/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-15T18:32:20.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "ChatGPT Free and Go users in Europe face ads from later this month",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vowpbh/chatgpt_free_and_go_users_in_europe_face_ads_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:47:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHCMFpU_9YnPJfBaRyF1Ns4EF8INP3V6eR8XC1a5_-g.jpeg?width=640&crop=smart&auto=webp&s=7f522aabe8ac9fbff378ce032c227b92ddaa6b3d"
       },
       {
         "rank": 1,
@@ -124,6 +124,15 @@
       },
       {
         "rank": 3,
+        "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
+        "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T23:30:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
         "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
         "source": "r/singularity",
@@ -131,15 +140,6 @@
         "publishedAt": "2026-08-15T16:28:10.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/0sqp3tYIAMgVJ8XN8F0puELMMWKJkyxL3CszDGTKHIQ.jpeg?width=640&crop=smart&auto=webp&s=d585a07a9daed12411ac74e6eb40a5bc777953b7"
-      },
-      {
-        "rank": 4,
-        "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
-        "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T23:30:42.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,

@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-08-16T21:26:09.427Z",
+  "fetchedAt": "2026-08-16T21:48:51.020Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T10:06:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pepwlp93opjh1.gif?width=320&crop=smart&s=2c59acf93fb52e53083ca4ef7d9885451e6c387b"
+      },
+      {
+        "rank": 2,
+        "title": "How can we solve long-range recall in linear attention? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T07:47:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T17:53:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn't quite right [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T10:13:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ICDM 2026 Results Waiting Place [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T12:02:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "What's going on here?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T01:19:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb"
+      },
+      {
+        "rank": 2,
+        "title": "Looks like a Sora generation brought to life",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vph04a/looks_like_a_sora_generation_brought_to_life/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T23:13:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/a3lzcXdxYWRmbWpoMcvF-1DPtJreH4TaIDl9UYuI9--4Giqrl_xtcBx4Uisj.png?width=640&crop=smart&auto=webp&s=3a056d2669dfc683e8f99be635a49fbbe49aacee"
+      },
+      {
+        "rank": 3,
+        "title": "Data Center Fornicator",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vq2l99/data_center_fornicator/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T17:10:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YzlxdWdlaHRycmpoMVGSTIyKDuwITu-aPFa16OOV0usf_Mk1aoh3jIZmk99Y.png?width=640&crop=smart&auto=webp&s=45ef6c063585d1b4bd1ac8e8dd9a0e84da9476a3"
+      },
+      {
+        "rank": 4,
+        "title": "AI Chatbots Are Better at Scamming People Than Human Scammers, Study Finds",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpy0oq/ai_chatbots_are_better_at_scamming_people_than/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T14:09:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/sZI0fwRbZk2U9-2y0If5IyewuDaB90F_h0BDqDho_dQ.jpeg?width=640&crop=smart&auto=webp&s=a843277fd61d524aaaa1b23778d788ff36c4b9d3"
+      },
+      {
+        "rank": 5,
+        "title": "\"in the next 6 months, a descendant of ChatGPT can watch your screen, record every meeting and call, and have perfect context of your whole life\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vq08dz/in_the_next_6_months_a_descendant_of_chatgpt_can/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T15:38:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NXJ0NWp0N2RicmpoMUa3CXqQPYhNNoIIL9iqU94TdnVYRHK10hWAmzA7JDrG.png?width=320&crop=smart&auto=webp&s=ce0350d1ac5d2d7f025eac45416a6f7ee4cafccd"
+      },
+      {
+        "rank": 1,
+        "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T02:32:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8"
+      },
+      {
+        "rank": 2,
+        "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
+        "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T23:30:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Dario Amodei: It Is Actually Possible To Cure Most Diseases Within 5-10 Years",
+        "url": "https://www.reddit.com/r/singularity/comments/1vppaig/dario_amodei_it_is_actually_possible_to_cure_most/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T06:14:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+        "url": "https://www.reddit.com/r/singularity/comments/1vq6vla/young_people_hate_ai_ceos_so_passionately_that/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T19:55:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YkylK7QNBviQl1A3Yi8xsvQCfhpu2IQHbNXxT7dNyWs.jpeg?width=640&crop=smart&auto=webp&s=afaa1fafb1194f51552f3bcec7cdc1ef17566abb"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic Researcher Sholto Douglas: Models Will Be Capable Of Automating 95% Of Computer Facing Jobs By 2028, But People Will Continue To Work Well Into The 2030's",
+        "url": "https://www.reddit.com/r/singularity/comments/1vppvwz/anthropic_researcher_sholto_douglas_models_will/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T06:48:20.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Thanks, Claude",
@@ -55,52 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T10:06:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pepwlp93opjh1.gif?width=320&crop=smart&s=2c59acf93fb52e53083ca4ef7d9885451e6c387b"
-      },
-      {
-        "rank": 2,
-        "title": "How can we solve long-range recall in linear attention? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T07:47:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T17:53:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn't quite right [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T10:13:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "ICDM 2026 Results Waiting Place [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T12:02:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Y'all need to make more noise on social media. Limits have been halved in the last 3 days and nobody seems to spam Tibo.",
         "url": "https://www.reddit.com/r/codex/comments/1vpz69p/yall_need_to_make_more_noise_on_social_media/",
         "source": "r/codex",
@@ -145,101 +242,6 @@
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-16T03:09:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "What's going on here?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T01:19:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb"
-      },
-      {
-        "rank": 2,
-        "title": "Looks like a Sora generation brought to life",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vph04a/looks_like_a_sora_generation_brought_to_life/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T23:13:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/a3lzcXdxYWRmbWpoMcvF-1DPtJreH4TaIDl9UYuI9--4Giqrl_xtcBx4Uisj.png?width=640&crop=smart&auto=webp&s=3a056d2669dfc683e8f99be635a49fbbe49aacee"
-      },
-      {
-        "rank": 3,
-        "title": "AI Chatbots Are Better at Scamming People Than Human Scammers, Study Finds",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpy0oq/ai_chatbots_are_better_at_scamming_people_than/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T14:09:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/sZI0fwRbZk2U9-2y0If5IyewuDaB90F_h0BDqDho_dQ.jpeg?width=640&crop=smart&auto=webp&s=a843277fd61d524aaaa1b23778d788ff36c4b9d3"
-      },
-      {
-        "rank": 4,
-        "title": "\"in the next 6 months, a descendant of ChatGPT can watch your screen, record every meeting and call, and have perfect context of your whole life\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vq08dz/in_the_next_6_months_a_descendant_of_chatgpt_can/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T15:38:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NXJ0NWp0N2RicmpoMUa3CXqQPYhNNoIIL9iqU94TdnVYRHK10hWAmzA7JDrG.png?width=320&crop=smart&auto=webp&s=ce0350d1ac5d2d7f025eac45416a6f7ee4cafccd"
-      },
-      {
-        "rank": 5,
-        "title": "The feeling of being heard is real, even when it’s software",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpe4k7/the_feeling_of_being_heard_is_real_even_when_its/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T21:06:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T02:32:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8"
-      },
-      {
-        "rank": 2,
-        "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
-        "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T23:30:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Dario Amodei: It Is Actually Possible To Cure Most Diseases Within 5-10 Years",
-        "url": "https://www.reddit.com/r/singularity/comments/1vppaig/dario_amodei_it_is_actually_possible_to_cure_most/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T06:14:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic Researcher Sholto Douglas: Models Will Be Capable Of Automating 95% Of Computer Facing Jobs By 2028, But People Will Continue To Work Well Into The 2030's",
-        "url": "https://www.reddit.com/r/singularity/comments/1vppvwz/anthropic_researcher_sholto_douglas_models_will/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T06:48:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Even Fable 5 is losing money in Andon Market (fully AI-operated retail store in San Francisco)",
-        "url": "https://www.reddit.com/r/singularity/comments/1vpqiui/even_fable_5_is_losing_money_in_andon_market/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T07:24:41.000Z",
         "category": "reddit"
       }
     ]

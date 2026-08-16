@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T19:25:49.052Z",
+  "fetchedAt": "2026-08-16T19:47:49.302Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -83,15 +83,6 @@
       },
       {
         "rank": 4,
-        "title": "The feeling of being heard is real, even when it’s software",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpe4k7/the_feeling_of_being_heard_is_real_even_when_its/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T21:06:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "\"in the next 6 months, a descendant of ChatGPT can watch your screen, record every meeting and call, and have perfect context of your whole life\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vq08dz/in_the_next_6_months_a_descendant_of_chatgpt_can/",
         "source": "r/OpenAI",
@@ -99,6 +90,15 @@
         "publishedAt": "2026-08-16T15:38:31.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NXJ0NWp0N2RicmpoMUa3CXqQPYhNNoIIL9iqU94TdnVYRHK10hWAmzA7JDrG.png?width=320&crop=smart&auto=webp&s=ce0350d1ac5d2d7f025eac45416a6f7ee4cafccd"
+      },
+      {
+        "rank": 5,
+        "title": "The feeling of being heard is real, even when it’s software",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpe4k7/the_feeling_of_being_heard_is_real_even_when_its/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T21:06:01.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-08-16T10:53:10.287Z",
+  "fetchedAt": "2026-08-16T11:25:44.374Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "I built Popwatch - your personal popcorn popping pal",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:19:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
-      },
-      {
-        "rank": 2,
-        "title": "Claude just made me this launch video",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T19:29:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YWViczh6bWFibGpoMbJUIqQPTfOkVbgOnecy1au2qsXRk_hHNvBIrRlv3sba.png?width=640&crop=smart&auto=webp&s=0878198f0c6e4ce972a477993c190b37f1b44310"
-      },
-      {
-        "rank": 3,
-        "title": "Fable, shmable... The real flagship feature is not having to set a 4:20 AM alarm just to hit \"try again\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp2ty0/fable_shmable_the_real_flagship_feature_is_not/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T13:25:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pv7wyiimijjh1.jpeg?width=640&crop=smart&auto=webp&s=df1f1b2def05476249b5350416a0a95a70d630c7"
-      },
-      {
-        "rank": 4,
-        "title": "How do you make Opus cut the fluff and reply like a human?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpfhej/how_do_you_make_opus_cut_the_fluff_and_reply_like/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T22:03:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude conversation too long to continue: best way to preserve 7 months of project context?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp9nh8/claude_conversation_too_long_to_continue_best_way/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:03:59.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
@@ -100,54 +52,6 @@
         "publishedAt": "2026-08-15T18:24:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
-      },
-      {
-        "rank": 1,
-        "title": "10 Paid Resets or 10 Paid Accounts?",
-        "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T20:01:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/erqjye28gljh1.png?width=640&crop=smart&auto=webp&s=48b4c0467b464a8aa6482b4e11c51b4d4f066348"
-      },
-      {
-        "rank": 2,
-        "title": "Outsider Art Skill",
-        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:56:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
-      },
-      {
-        "rank": 3,
-        "title": "Luna can now be used when spawning sub-agents",
-        "url": "https://www.reddit.com/r/codex/comments/1vp6v7g/luna_can_now_be_used_when_spawning_subagents/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T16:14:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "theres something wrong with limits",
-        "url": "https://www.reddit.com/r/codex/comments/1vpl0g5/theres_something_wrong_with_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T02:26:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ab2ctg5wdnjh1.png?width=140&height=49&auto=webp&s=b9a81115e28eb74f02a3d5849247da99db2806f6"
-      },
-      {
-        "rank": 5,
-        "title": "Paid resets be like",
-        "url": "https://www.reddit.com/r/codex/comments/1vp8iil/paid_resets_be_like/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T17:19:52.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -229,6 +133,16 @@
       },
       {
         "rank": 4,
+        "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T02:32:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8"
+      },
+      {
+        "rank": 5,
         "title": "33 years ago, Vernor Vinge (1944-2024) coined the term \"Singularity\" in reference to the point at which technological progress, driven by superhumanly intelligent machines, would be so great as to render our current models would be good as discarded. He predicted this event to occur ~30 years on.",
         "url": "https://www.reddit.com/r/singularity/comments/1vp5j8u/33_years_ago_vernor_vinge_19442024_coined_the/",
         "source": "r/singularity",
@@ -237,14 +151,100 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
-        "source": "r/singularity",
+        "rank": 1,
+        "title": "I built Popwatch - your personal popcorn popping pal",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-16T02:32:48.000Z",
+        "publishedAt": "2026-08-15T11:19:49.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8"
+        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
+      },
+      {
+        "rank": 2,
+        "title": "Claude just made me this launch video",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T19:29:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YWViczh6bWFibGpoMbJUIqQPTfOkVbgOnecy1au2qsXRk_hHNvBIrRlv3sba.png?width=640&crop=smart&auto=webp&s=0878198f0c6e4ce972a477993c190b37f1b44310"
+      },
+      {
+        "rank": 3,
+        "title": "Fable, shmable... The real flagship feature is not having to set a 4:20 AM alarm just to hit \"try again\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp2ty0/fable_shmable_the_real_flagship_feature_is_not/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T13:25:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pv7wyiimijjh1.jpeg?width=640&crop=smart&auto=webp&s=df1f1b2def05476249b5350416a0a95a70d630c7"
+      },
+      {
+        "rank": 4,
+        "title": "How do you make Opus cut the fluff and reply like a human?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpfhej/how_do_you_make_opus_cut_the_fluff_and_reply_like/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T22:03:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude conversation too long to continue: best way to preserve 7 months of project context?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp9nh8/claude_conversation_too_long_to_continue_best_way/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:03:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "10 Paid Resets or 10 Paid Accounts?",
+        "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T20:01:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/erqjye28gljh1.png?width=640&crop=smart&auto=webp&s=48b4c0467b464a8aa6482b4e11c51b4d4f066348"
+      },
+      {
+        "rank": 2,
+        "title": "Outsider Art Skill",
+        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:56:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
+      },
+      {
+        "rank": 3,
+        "title": "Luna can now be used when spawning sub-agents",
+        "url": "https://www.reddit.com/r/codex/comments/1vp6v7g/luna_can_now_be_used_when_spawning_subagents/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T16:14:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "theres something wrong with limits",
+        "url": "https://www.reddit.com/r/codex/comments/1vpl0g5/theres_something_wrong_with_limits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T02:26:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ab2ctg5wdnjh1.png?width=140&height=49&auto=webp&s=b9a81115e28eb74f02a3d5849247da99db2806f6"
+      },
+      {
+        "rank": 5,
+        "title": "Paid resets be like",
+        "url": "https://www.reddit.com/r/codex/comments/1vp8iil/paid_resets_be_like/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T17:19:52.000Z",
+        "category": "reddit"
       }
     ]
   }

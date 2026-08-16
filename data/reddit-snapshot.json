@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T20:29:09.891Z",
+  "fetchedAt": "2026-08-16T20:52:13.945Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,6 +26,15 @@
       },
       {
         "rank": 3,
+        "title": "Hi, my name is Ian and it has been 13 days since my last em dash",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpww78/hi_my_name_is_ian_and_it_has_been_13_days_since/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T13:20:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "The Absurd Math of $20 AI Coding Subs: Codex vs. Claude Code",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vptwlz/the_absurd_math_of_20_ai_coding_subs_codex_vs/",
         "source": "r/ClaudeAI",
@@ -35,22 +44,14 @@
         "thumbnail": "https://preview.redd.it/ydlcy1r69qjh1.png?width=140&height=100&auto=webp&s=78b9610796efd2d6a7d8b26708e0c59e816b6002"
       },
       {
-        "rank": 4,
-        "title": "Hi, my name is Ian and it has been 13 days since my last em dash",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpww78/hi_my_name_is_ian_and_it_has_been_13_days_since/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T13:20:09.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "i created a site that gives you prompts to replace your paid app subscriptions",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpgsc4/i_created_a_site_that_gives_you_prompts_to/",
+        "title": "I built my first Unity game with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq3rtp/i_built_my_first_unity_game_with_claude/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-15T23:03:05.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-16T17:56:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YThyMXNoaHR6cmpoMd7zVDtnb318zVckPxz6oSRqzyM5SFVCJIh8ZUV13QKE.png?width=640&crop=smart&auto=webp&s=de43f2baaf1a4066afdf434278f8c95bf57692d9"
       },
       {
         "rank": 1,

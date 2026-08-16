@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T14:53:45.960Z",
+  "fetchedAt": "2026-08-16T15:27:48.536Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -65,16 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T15:04:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
-      },
-      {
-        "rank": 3,
         "title": "Major vibe shift in the last few weeks: \"I've never seen so much concern before.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vpb6ld/major_vibe_shift_in_the_last_few_weeks_ive_never/",
         "source": "r/OpenAI",
@@ -84,7 +74,7 @@
         "thumbnail": "https://preview.redd.it/wvpt9ti87ljh1.png?width=640&crop=smart&auto=webp&s=971b7538259ef1099a5fbac5cd2559cf867d7134"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Looks like a Sora generation brought to life",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vph04a/looks_like_a_sora_generation_brought_to_life/",
         "source": "r/OpenAI",
@@ -94,12 +84,21 @@
         "thumbnail": "https://external-preview.redd.it/a3lzcXdxYWRmbWpoMcvF-1DPtJreH4TaIDl9UYuI9--4Giqrl_xtcBx4Uisj.png?width=640&crop=smart&auto=webp&s=3a056d2669dfc683e8f99be635a49fbbe49aacee"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Crazyyy Jesus ai hallucination",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vpacwe/crazyyy_jesus_ai_hallucination/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-15T18:32:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI Previews GPT-5.6 Sol Ultrafast at 14x Speed on Cerebras",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp99w9/openai_previews_gpt56_sol_ultrafast_at_14x_speed/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T17:49:20.000Z",
         "category": "reddit"
       },
       {
@@ -142,11 +141,11 @@
       },
       {
         "rank": 5,
-        "title": "33 years ago, Vernor Vinge (1944-2024) coined the term \"Singularity\" in reference to the point at which technological progress, driven by superhumanly intelligent machines, would be so great as to render our current models would be good as discarded. He predicted this event to occur ~30 years on.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vp5j8u/33_years_ago_vernor_vinge_19442024_coined_the/",
+        "title": "Anthropic Researcher Sholto Douglas: Models Will Be Capable Of Automating 95% Of Computer Facing Jobs By 2028, But People Will Continue To Work Well Into The 2030's",
+        "url": "https://www.reddit.com/r/singularity/comments/1vppvwz/anthropic_researcher_sholto_douglas_models_will/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-15T15:20:31.000Z",
+        "publishedAt": "2026-08-16T06:48:20.000Z",
         "category": "reddit"
       },
       {

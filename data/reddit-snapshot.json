@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T06:47:11.551Z",
+  "fetchedAt": "2026-08-16T07:35:45.609Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,64 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T10:18:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I built Popwatch - your personal popcorn popping pal",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:19:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
-      },
-      {
-        "rank": 3,
-        "title": "World of Claudecraft after 2 months of vibe coding",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T08:49:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bnA1ODE2eG8waWpoMUs86S7JQhbG56eHOQrVyGOLNoNMjmaIIrBhhNQzB3nU.png?width=640&crop=smart&auto=webp&s=660a83a6c3eec54a51bd30234a175fd1f4ddab03"
-      },
-      {
-        "rank": 4,
-        "title": "Claude just made me this launch video",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T19:29:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YWViczh6bWFibGpoMbJUIqQPTfOkVbgOnecy1au2qsXRk_hHNvBIrRlv3sba.png?width=640&crop=smart&auto=webp&s=0878198f0c6e4ce972a477993c190b37f1b44310"
-      },
-      {
-        "rank": 5,
-        "title": "Fable, shmable... The real flagship feature is not having to set a 4:20 AM alarm just to hit \"try again\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp2ty0/fable_shmable_the_real_flagship_feature_is_not/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T13:25:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pv7wyiimijjh1.jpeg?width=640&crop=smart&auto=webp&s=df1f1b2def05476249b5350416a0a95a70d630c7"
-      },
-      {
-        "rank": 1,
-        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:26:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
         "source": "r/MachineLearning",
@@ -74,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/xg0grozpwkjh1.png?width=640&crop=smart&auto=webp&s=4ca48cc3702227f04371e5debdd07f8acd4ca785"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
         "source": "r/MachineLearning",
@@ -83,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
         "source": "r/MachineLearning",
@@ -91,54 +33,6 @@
         "publishedAt": "2026-08-15T18:24:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
-      },
-      {
-        "rank": 1,
-        "title": "The end is near - for subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T09:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
-      },
-      {
-        "rank": 2,
-        "title": "10 Paid Resets or 10 Paid Accounts?",
-        "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T20:01:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/erqjye28gljh1.png?width=640&crop=smart&auto=webp&s=48b4c0467b464a8aa6482b4e11c51b4d4f066348"
-      },
-      {
-        "rank": 3,
-        "title": "Outsider Art Skill",
-        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:56:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
-      },
-      {
-        "rank": 4,
-        "title": "Luna can now be used when spawning sub-agents",
-        "url": "https://www.reddit.com/r/codex/comments/1vp6v7g/luna_can_now_be_used_when_spawning_subagents/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T16:14:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Paid resets be like",
-        "url": "https://www.reddit.com/r/codex/comments/1vp8iil/paid_resets_be_like/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T17:19:52.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -152,16 +46,6 @@
       },
       {
         "rank": 2,
-        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T15:04:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
-      },
-      {
-        "rank": 3,
         "title": "What's going on here?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
         "source": "r/OpenAI",
@@ -169,6 +53,16 @@
         "publishedAt": "2026-08-16T01:19:37.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb"
+      },
+      {
+        "rank": 3,
+        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T15:04:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
       },
       {
         "rank": 4,
@@ -236,6 +130,103 @@
         "publishedAt": "2026-08-16T02:32:48.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8"
+      },
+      {
+        "rank": 1,
+        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T10:18:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I built Popwatch - your personal popcorn popping pal",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:19:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
+      },
+      {
+        "rank": 3,
+        "title": "World of Claudecraft after 2 months of vibe coding",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T08:49:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bnA1ODE2eG8waWpoMUs86S7JQhbG56eHOQrVyGOLNoNMjmaIIrBhhNQzB3nU.png?width=640&crop=smart&auto=webp&s=660a83a6c3eec54a51bd30234a175fd1f4ddab03"
+      },
+      {
+        "rank": 4,
+        "title": "Claude just made me this launch video",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T19:29:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YWViczh6bWFibGpoMbJUIqQPTfOkVbgOnecy1au2qsXRk_hHNvBIrRlv3sba.png?width=640&crop=smart&auto=webp&s=0878198f0c6e4ce972a477993c190b37f1b44310"
+      },
+      {
+        "rank": 5,
+        "title": "Fable, shmable... The real flagship feature is not having to set a 4:20 AM alarm just to hit \"try again\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp2ty0/fable_shmable_the_real_flagship_feature_is_not/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T13:25:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pv7wyiimijjh1.jpeg?width=640&crop=smart&auto=webp&s=df1f1b2def05476249b5350416a0a95a70d630c7"
+      },
+      {
+        "rank": 1,
+        "title": "The end is near - for subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T09:21:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
+      },
+      {
+        "rank": 2,
+        "title": "10 Paid Resets or 10 Paid Accounts?",
+        "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T20:01:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/erqjye28gljh1.png?width=640&crop=smart&auto=webp&s=48b4c0467b464a8aa6482b4e11c51b4d4f066348"
+      },
+      {
+        "rank": 3,
+        "title": "Outsider Art Skill",
+        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:56:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
+      },
+      {
+        "rank": 4,
+        "title": "Luna can now be used when spawning sub-agents",
+        "url": "https://www.reddit.com/r/codex/comments/1vp6v7g/luna_can_now_be_used_when_spawning_subagents/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T16:14:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Paid resets be like",
+        "url": "https://www.reddit.com/r/codex/comments/1vp8iil/paid_resets_be_like/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T17:19:52.000Z",
+        "category": "reddit"
       }
     ]
   }

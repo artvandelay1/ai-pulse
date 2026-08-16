@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T14:28:50.598Z",
+  "fetchedAt": "2026-08-16T14:53:45.960Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,15 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T14:50:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
         "source": "r/MachineLearning",
@@ -52,6 +43,15 @@
         "publishedAt": "2026-08-15T18:24:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
+      },
+      {
+        "rank": 5,
+        "title": "Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn't quite right [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T10:13:44.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

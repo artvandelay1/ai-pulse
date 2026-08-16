@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-16T15:27:48.536Z",
+  "fetchedAt": "2026-08-16T15:50:09.133Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude just made me this launch video",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T19:29:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YWViczh6bWFibGpoMbJUIqQPTfOkVbgOnecy1au2qsXRk_hHNvBIrRlv3sba.png?width=640&crop=smart&auto=webp&s=0878198f0c6e4ce972a477993c190b37f1b44310"
+      },
+      {
+        "rank": 2,
+        "title": "How do you make Opus cut the fluff and reply like a human?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpfhej/how_do_you_make_opus_cut_the_fluff_and_reply_like/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T22:03:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Claude conversation too long to continue: best way to preserve 7 months of project context?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp9nh8/claude_conversation_too_long_to_continue_best_way/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:03:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I vibecoded my own MMO inspired by my favorite childhood MMO",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp840g/i_vibecoded_my_own_mmo_inspired_by_my_favorite/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T17:04:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x6b9qrzzjkjh1.png?width=140&height=78&auto=webp&s=d76df0ca259070219ea907d31a576b51fc70ca7c"
+      },
+      {
+        "rank": 5,
+        "title": "i created a site that gives you prompts to replace your paid app subscriptions",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpgsc4/i_created_a_site_that_gives_you_prompts_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T23:03:05.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
@@ -52,6 +99,55 @@
         "score": 0,
         "publishedAt": "2026-08-16T10:13:44.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "10 Paid Resets or 10 Paid Accounts?",
+        "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T20:01:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/erqjye28gljh1.png?width=640&crop=smart&auto=webp&s=48b4c0467b464a8aa6482b4e11c51b4d4f066348"
+      },
+      {
+        "rank": 2,
+        "title": "theres something wrong with limits",
+        "url": "https://www.reddit.com/r/codex/comments/1vpl0g5/theres_something_wrong_with_limits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T02:26:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ab2ctg5wdnjh1.png?width=140&height=49&auto=webp&s=b9a81115e28eb74f02a3d5849247da99db2806f6"
+      },
+      {
+        "rank": 3,
+        "title": "Y'all need to make more noise on social media. Limits have been halved in the last 3 days and nobody seems to spam Tibo.",
+        "url": "https://www.reddit.com/r/codex/comments/1vpz69p/yall_need_to_make_more_noise_on_social_media/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T14:56:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/60ket4012rjh1.png?width=640&crop=smart&auto=webp&s=975b4b6123ebcd1add577b25196ee97fc7758c2c"
+      },
+      {
+        "rank": 4,
+        "title": "Luna can now be used when spawning sub-agents",
+        "url": "https://www.reddit.com/r/codex/comments/1vp6v7g/luna_can_now_be_used_when_spawning_subagents/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T16:14:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "300M tokens, only 50% weekly limit burned — here’s how I did it.",
+        "url": "https://www.reddit.com/r/codex/comments/1vptjhb/300m_tokens_only_50_weekly_limit_burned_heres_how/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T10:27:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/mKu7h1dQd1iJdaNELjjVbJdwB_knj-Y4UwByC45jWCA.png?width=140&height=73&auto=webp&s=eeac9060c296a6ed527ba6cd08ba57c5a2ee376f"
       },
       {
         "rank": 1,
@@ -146,100 +242,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-16T06:48:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude just made me this launch video",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T19:29:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YWViczh6bWFibGpoMbJUIqQPTfOkVbgOnecy1au2qsXRk_hHNvBIrRlv3sba.png?width=640&crop=smart&auto=webp&s=0878198f0c6e4ce972a477993c190b37f1b44310"
-      },
-      {
-        "rank": 2,
-        "title": "How do you make Opus cut the fluff and reply like a human?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpfhej/how_do_you_make_opus_cut_the_fluff_and_reply_like/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T22:03:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Claude conversation too long to continue: best way to preserve 7 months of project context?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp9nh8/claude_conversation_too_long_to_continue_best_way/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:03:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I vibecoded my own MMO inspired by my favorite childhood MMO",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp840g/i_vibecoded_my_own_mmo_inspired_by_my_favorite/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T17:04:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x6b9qrzzjkjh1.png?width=140&height=78&auto=webp&s=d76df0ca259070219ea907d31a576b51fc70ca7c"
-      },
-      {
-        "rank": 5,
-        "title": "Have a cronjob every morning 3 hours before you usually start work pinging claude code to have a quicker session reset.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp9q4f/have_a_cronjob_every_morning_3_hours_before_you/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:06:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "10 Paid Resets or 10 Paid Accounts?",
-        "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T20:01:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/erqjye28gljh1.png?width=640&crop=smart&auto=webp&s=48b4c0467b464a8aa6482b4e11c51b4d4f066348"
-      },
-      {
-        "rank": 2,
-        "title": "theres something wrong with limits",
-        "url": "https://www.reddit.com/r/codex/comments/1vpl0g5/theres_something_wrong_with_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T02:26:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ab2ctg5wdnjh1.png?width=140&height=49&auto=webp&s=b9a81115e28eb74f02a3d5849247da99db2806f6"
-      },
-      {
-        "rank": 3,
-        "title": "Luna can now be used when spawning sub-agents",
-        "url": "https://www.reddit.com/r/codex/comments/1vp6v7g/luna_can_now_be_used_when_spawning_subagents/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T16:14:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Paid resets be like",
-        "url": "https://www.reddit.com/r/codex/comments/1vp8iil/paid_resets_be_like/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T17:19:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "PSA: do not buy credits",
-        "url": "https://www.reddit.com/r/codex/comments/1vpluep/psa_do_not_buy_credits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T03:09:35.000Z",
         "category": "reddit"
       }
     ]

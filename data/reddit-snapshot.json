@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-15T23:48:47.067Z",
+  "fetchedAt": "2026-08-16T01:39:12.853Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Whhat?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:53:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hpb3aasezgjh1.jpeg?width=640&crop=smart&auto=webp&s=da4da18b791718aea9efe03c90e577f375f046c3"
+      },
+      {
+        "rank": 2,
+        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T10:18:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I built Popwatch - your personal popcorn popping pal",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:19:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
+      },
+      {
+        "rank": 4,
+        "title": "World of Claudecraft after 2 months of vibe coding",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T08:49:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bnA1ODE2eG8waWpoMUs86S7JQhbG56eHOQrVyGOLNoNMjmaIIrBhhNQzB3nU.png?width=640&crop=smart&auto=webp&s=660a83a6c3eec54a51bd30234a175fd1f4ddab03"
+      },
+      {
+        "rank": 5,
+        "title": "Fable, shmable... The real flagship feature is not having to set a 4:20 AM alarm just to hit \"try again\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp2ty0/fable_shmable_the_real_flagship_feature_is_not/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T13:25:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pv7wyiimijjh1.jpeg?width=640&crop=smart&auto=webp&s=df1f1b2def05476249b5350416a0a95a70d630c7"
+      },
       {
         "rank": 1,
         "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
@@ -36,21 +85,69 @@
       },
       {
         "rank": 4,
-        "title": "AC comment and our reply disappeared on OpenReview [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T00:32:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-15T14:50:57.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:24:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
+      },
+      {
+        "rank": 1,
+        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
+        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T04:29:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
+        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:41:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "The end is near - for subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T09:21:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
+      },
+      {
+        "rank": 4,
+        "title": "Juuuust vote with your wallets.",
+        "url": "https://www.reddit.com/r/codex/comments/1voukw2/juuuust_vote_with_your_wallets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:45:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Outsider Art Skill",
+        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T11:56:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
       },
       {
         "rank": 1,
@@ -149,101 +246,6 @@
         "score": 0,
         "publishedAt": "2026-08-15T15:20:31.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Whhat?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1votms0/whhat/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:53:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hpb3aasezgjh1.jpeg?width=640&crop=smart&auto=webp&s=da4da18b791718aea9efe03c90e577f375f046c3"
-      },
-      {
-        "rank": 2,
-        "title": "Downgraded from Opus 5 to Opus 4.6 and it feels night and day",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voz6sm/downgraded_from_opus_5_to_opus_46_and_it_feels/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T10:18:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built Popwatch - your personal popcorn popping pal",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp09ja/i_built_popwatch_your_personal_popcorn_popping_pal/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:19:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bDR5bmtjOTF3aWpoMVXNim4rEF7iXKcPiT857deSsrh1Pbfpazxbq5J7TJTh.png?width=640&crop=smart&auto=webp&s=683ebdc7e692c0ae1d0638846f699bdf1c49ea48"
-      },
-      {
-        "rank": 4,
-        "title": "World of Claudecraft after 2 months of vibe coding",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T08:49:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bnA1ODE2eG8waWpoMUs86S7JQhbG56eHOQrVyGOLNoNMjmaIIrBhhNQzB3nU.png?width=640&crop=smart&auto=webp&s=660a83a6c3eec54a51bd30234a175fd1f4ddab03"
-      },
-      {
-        "rank": 5,
-        "title": "What are some common giveaways of Claude AI writing?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vonba5/what_are_some_common_giveaways_of_claude_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-14T23:45:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
-        "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T04:29:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Paid resets resetting your subscription clock is anti consumer and we shouldn’t stand for it",
-        "url": "https://www.reddit.com/r/codex/comments/1vouic3/paid_resets_resetting_your_subscription_clock_is/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:41:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "The end is near - for subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T09:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
-      },
-      {
-        "rank": 4,
-        "title": "Juuuust vote with your wallets.",
-        "url": "https://www.reddit.com/r/codex/comments/1voukw2/juuuust_vote_with_your_wallets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:45:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Outsider Art Skill",
-        "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-15T11:56:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
       }
     ]
   }

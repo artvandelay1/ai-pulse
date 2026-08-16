@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-08-16T01:39:12.853Z",
+  "fetchedAt": "2026-08-16T03:05:42.683Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T06:18:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 2,
+        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:26:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:06:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xg0grozpwkjh1.png?width=640&crop=smart&auto=webp&s=4ca48cc3702227f04371e5debdd07f8acd4ca785"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T14:50:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:24:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
+      },
+      {
+        "rank": 1,
+        "title": "Can't agree more",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T12:12:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56"
+      },
+      {
+        "rank": 2,
+        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T15:04:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
+      },
+      {
+        "rank": 3,
+        "title": "Major vibe shift in the last few weeks: \"I've never seen so much concern before.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpb6ld/major_vibe_shift_in_the_last_few_weeks_ive_never/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T19:04:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wvpt9ti87ljh1.png?width=640&crop=smart&auto=webp&s=971b7538259ef1099a5fbac5cd2559cf867d7134"
+      },
+      {
+        "rank": 4,
+        "title": "Crazyyy Jesus ai hallucination",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpacwe/crazyyy_jesus_ai_hallucination/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:32:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT Free and Go users in Europe face ads from later this month",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vowpbh/chatgpt_free_and_go_users_in_europe_face_ads_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T07:47:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHCMFpU_9YnPJfBaRyF1Ns4EF8INP3V6eR8XC1a5_-g.jpeg?width=640&crop=smart&auto=webp&s=7f522aabe8ac9fbff378ce032c227b92ddaa6b3d"
+      },
+      {
+        "rank": 1,
+        "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
+        "url": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T13:50:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oymsdnxumjjh1.png?width=320&crop=smart&auto=webp&s=f315a6dfe5249f4a26172831a994bb6820d7816a"
+      },
+      {
+        "rank": 2,
+        "title": "git clone",
+        "url": "https://www.reddit.com/r/singularity/comments/1voue9r/git_clone/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T05:35:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7f201hyr6hjh1.png?width=640&crop=smart&auto=webp&s=8d900fd5028750c0c87a7a8d4c850b381f893315"
+      },
+      {
+        "rank": 3,
+        "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+        "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T16:28:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/0sqp3tYIAMgVJ8XN8F0puELMMWKJkyxL3CszDGTKHIQ.jpeg?width=640&crop=smart&auto=webp&s=d585a07a9daed12411ac74e6eb40a5bc777953b7"
+      },
+      {
+        "rank": 4,
+        "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
+        "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T23:30:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "33 years ago, Vernor Vinge (1944-2024) coined the term \"Singularity\" in reference to the point at which technological progress, driven by superhumanly intelligent machines, would be so great as to render our current models would be good as discarded. He predicted this event to occur ~30 years on.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vp5j8u/33_years_ago_vernor_vinge_19442024_coined_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T15:20:31.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Whhat?",
@@ -56,54 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:26:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T06:18:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 3,
-        "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:06:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xg0grozpwkjh1.png?width=640&crop=smart&auto=webp&s=4ca48cc3702227f04371e5debdd07f8acd4ca785"
-      },
-      {
-        "rank": 4,
-        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T14:50:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:24:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
-      },
-      {
-        "rank": 1,
         "title": "Paid Codex res*ts are here $80 on Pro 20x is absurd",
         "url": "https://www.reddit.com/r/codex/comments/1vot69i/paid_codex_rests_are_here_80_on_pro_20x_is_absurd/",
         "source": "r/codex",
@@ -148,104 +245,6 @@
         "publishedAt": "2026-08-15T11:56:07.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
-      },
-      {
-        "rank": 1,
-        "title": "Can't agree more",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T12:12:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56"
-      },
-      {
-        "rank": 2,
-        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T15:04:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
-      },
-      {
-        "rank": 3,
-        "title": "Crazyyy Jesus ai hallucination",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpacwe/crazyyy_jesus_ai_hallucination/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:32:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ChatGPT Free and Go users in Europe face ads from later this month",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vowpbh/chatgpt_free_and_go_users_in_europe_face_ads_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T07:47:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHCMFpU_9YnPJfBaRyF1Ns4EF8INP3V6eR8XC1a5_-g.jpeg?width=640&crop=smart&auto=webp&s=7f522aabe8ac9fbff378ce032c227b92ddaa6b3d"
-      },
-      {
-        "rank": 5,
-        "title": "Major vibe shift in the last few weeks: \"I've never seen so much concern before.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpb6ld/major_vibe_shift_in_the_last_few_weeks_ive_never/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T19:04:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wvpt9ti87ljh1.png?width=640&crop=smart&auto=webp&s=971b7538259ef1099a5fbac5cd2559cf867d7134"
-      },
-      {
-        "rank": 1,
-        "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
-        "url": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T13:50:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oymsdnxumjjh1.png?width=320&crop=smart&auto=webp&s=f315a6dfe5249f4a26172831a994bb6820d7816a"
-      },
-      {
-        "rank": 2,
-        "title": "git clone",
-        "url": "https://www.reddit.com/r/singularity/comments/1voue9r/git_clone/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T05:35:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7f201hyr6hjh1.png?width=640&crop=smart&auto=webp&s=8d900fd5028750c0c87a7a8d4c850b381f893315"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-        "url": "https://www.reddit.com/r/singularity/comments/1voo5mz/openai_talent_exodus_raises_huge_red_flag_ahead/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T00:22:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/mcn-UV8mTnMzpeldbSWBfHnve0jlmgo6wxGA5WdWKrk.jpeg?width=640&crop=smart&auto=webp&s=66d78eae3eeb26f695ded56460ef559acbd0f47d"
-      },
-      {
-        "rank": 4,
-        "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
-        "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T16:28:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/0sqp3tYIAMgVJ8XN8F0puELMMWKJkyxL3CszDGTKHIQ.jpeg?width=640&crop=smart&auto=webp&s=d585a07a9daed12411ac74e6eb40a5bc777953b7"
-      },
-      {
-        "rank": 5,
-        "title": "33 years ago, Vernor Vinge (1944-2024) coined the term \"Singularity\" in reference to the point at which technological progress, driven by superhumanly intelligent machines, would be so great as to render our current models would be good as discarded. He predicted this event to occur ~30 years on.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vp5j8u/33_years_ago_vernor_vinge_19442024_coined_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T15:20:31.000Z",
-        "category": "reddit"
       }
     ]
   }

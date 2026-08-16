@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T08:36:07.786Z",
+  "fetchedAt": "2026-08-16T09:32:15.244Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,16 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "World of Claudecraft after 2 months of vibe coding",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1voxq2f/world_of_claudecraft_after_2_months_of_vibe_coding/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T08:49:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bnA1ODE2eG8waWpoMUs86S7JQhbG56eHOQrVyGOLNoNMjmaIIrBhhNQzB3nU.png?width=640&crop=smart&auto=webp&s=660a83a6c3eec54a51bd30234a175fd1f4ddab03"
-      },
-      {
-        "rank": 4,
         "title": "Claude just made me this launch video",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpbsem/claude_just_made_me_this_launch_video/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "thumbnail": "https://external-preview.redd.it/YWViczh6bWFibGpoMbJUIqQPTfOkVbgOnecy1au2qsXRk_hHNvBIrRlv3sba.png?width=640&crop=smart&auto=webp&s=0878198f0c6e4ce972a477993c190b37f1b44310"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Fable, shmable... The real flagship feature is not having to set a 4:20 AM alarm just to hit \"try again\"",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vp2ty0/fable_shmable_the_real_flagship_feature_is_not/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,15 @@
         "publishedAt": "2026-08-15T13:25:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/pv7wyiimijjh1.jpeg?width=640&crop=smart&auto=webp&s=df1f1b2def05476249b5350416a0a95a70d630c7"
+      },
+      {
+        "rank": 5,
+        "title": "How do you make Opus cut the fluff and reply like a human?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpfhej/how_do_you_make_opus_cut_the_fluff_and_reply_like/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T22:03:52.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -84,17 +83,16 @@
         "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
       },
       {
-        "rank": 1,
-        "title": "The end is near - for subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1voy8x5/the_end_is_near_for_subscription/",
-        "source": "r/codex",
+        "rank": 4,
+        "title": "How can we solve long-range recall in linear attention? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-15T09:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4_z2DIj9Zwdr_Tbu-OPtDNIRwdwf4OfQw1Pf5xNM2X4.png?width=640&crop=smart&auto=webp&s=16e45b9563afce4b59a334677986c90a8ee1d629"
+        "publishedAt": "2026-08-16T07:47:09.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "10 Paid Resets or 10 Paid Accounts?",
         "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
         "source": "r/codex",
@@ -104,7 +102,7 @@
         "thumbnail": "https://preview.redd.it/erqjye28gljh1.png?width=640&crop=smart&auto=webp&s=48b4c0467b464a8aa6482b4e11c51b4d4f066348"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Outsider Art Skill",
         "url": "https://www.reddit.com/r/codex/comments/1vp0xza/outsider_art_skill/",
         "source": "r/codex",
@@ -114,7 +112,7 @@
         "thumbnail": "https://preview.redd.it/i4mlasg72jjh1.png?width=140&height=93&auto=webp&s=31295635f5af528e7ef8d144b2b46b9656ddc746"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Luna can now be used when spawning sub-agents",
         "url": "https://www.reddit.com/r/codex/comments/1vp6v7g/luna_can_now_be_used_when_spawning_subagents/",
         "source": "r/codex",
@@ -123,7 +121,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "theres something wrong with limits",
         "url": "https://www.reddit.com/r/codex/comments/1vpl0g5/theres_something_wrong_with_limits/",
         "source": "r/codex",
@@ -131,6 +129,15 @@
         "publishedAt": "2026-08-16T02:26:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ab2ctg5wdnjh1.png?width=140&height=49&auto=webp&s=b9a81115e28eb74f02a3d5849247da99db2806f6"
+      },
+      {
+        "rank": 5,
+        "title": "Paid resets be like",
+        "url": "https://www.reddit.com/r/codex/comments/1vp8iil/paid_resets_be_like/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-15T17:19:52.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

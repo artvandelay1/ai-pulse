@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-08-16T11:49:09.544Z",
+  "fetchedAt": "2026-08-16T12:48:48.841Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T10:06:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pepwlp93opjh1.gif?width=320&crop=smart&s=2c59acf93fb52e53083ca4ef7d9885451e6c387b"
+      },
+      {
+        "rank": 2,
+        "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:06:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xg0grozpwkjh1.png?width=640&crop=smart&auto=webp&s=4ca48cc3702227f04371e5debdd07f8acd4ca785"
+      },
+      {
+        "rank": 3,
+        "title": "How can we solve long-range recall in linear attention? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T07:47:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T14:50:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:24:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
+      },
+      {
+        "rank": 1,
+        "title": "What's going on here?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T01:19:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb"
+      },
+      {
+        "rank": 2,
+        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T15:04:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
+      },
+      {
+        "rank": 3,
+        "title": "Major vibe shift in the last few weeks: \"I've never seen so much concern before.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpb6ld/major_vibe_shift_in_the_last_few_weeks_ive_never/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T19:04:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wvpt9ti87ljh1.png?width=640&crop=smart&auto=webp&s=971b7538259ef1099a5fbac5cd2559cf867d7134"
+      },
+      {
+        "rank": 4,
+        "title": "Crazyyy Jesus ai hallucination",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vpacwe/crazyyy_jesus_ai_hallucination/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T18:32:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Looks like a Sora generation brought to life",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vph04a/looks_like_a_sora_generation_brought_to_life/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-15T23:13:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/a3lzcXdxYWRmbWpoMcvF-1DPtJreH4TaIDl9UYuI9--4Giqrl_xtcBx4Uisj.png?width=640&crop=smart&auto=webp&s=3a056d2669dfc683e8f99be635a49fbbe49aacee"
+      },
+      {
+        "rank": 1,
+        "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
+        "url": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T13:50:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oymsdnxumjjh1.png?width=320&crop=smart&auto=webp&s=f315a6dfe5249f4a26172831a994bb6820d7816a"
+      },
+      {
+        "rank": 2,
+        "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
+        "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T23:30:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T02:32:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8"
+      },
+      {
+        "rank": 4,
+        "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
+        "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-15T16:28:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/0sqp3tYIAMgVJ8XN8F0puELMMWKJkyxL3CszDGTKHIQ.jpeg?width=640&crop=smart&auto=webp&s=d585a07a9daed12411ac74e6eb40a5bc777953b7"
+      },
+      {
+        "rank": 5,
+        "title": "Dario Amodei: It Is Actually Possible To Cure Most Diseases Within 5-10 Years",
+        "url": "https://www.reddit.com/r/singularity/comments/1vppaig/dario_amodei_it_is_actually_possible_to_cure_most/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T06:14:19.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Claude just made me this launch video",
@@ -55,54 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:06:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xg0grozpwkjh1.png?width=640&crop=smart&auto=webp&s=4ca48cc3702227f04371e5debdd07f8acd4ca785"
-      },
-      {
-        "rank": 2,
-        "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T10:06:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pepwlp93opjh1.gif?width=320&crop=smart&s=2c59acf93fb52e53083ca4ef7d9885451e6c387b"
-      },
-      {
-        "rank": 3,
-        "title": "How can we solve long-range recall in linear attention? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T07:47:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T14:50:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:24:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/49qcp6szzkjh1.jpeg?width=640&crop=smart&auto=webp&s=3a9f5c5e0c028e8d98994f2b827853953eb7d529"
-      },
-      {
-        "rank": 1,
         "title": "10 Paid Resets or 10 Paid Accounts?",
         "url": "https://www.reddit.com/r/codex/comments/1vpcle9/10_paid_resets_or_10_paid_accounts/",
         "source": "r/codex",
@@ -147,103 +244,6 @@
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-15T17:19:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Can't agree more",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T12:12:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56"
-      },
-      {
-        "rank": 2,
-        "title": "What's going on here?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T01:19:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb"
-      },
-      {
-        "rank": 3,
-        "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vp55ck/florida_man_told_chatgpt_hed_murder_his_ex_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T15:04:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i8bYjTEBFv34Cwyo8DOM2O3wxr4vUiLlUgDwYz158Uk.jpeg?width=640&crop=smart&auto=webp&s=d2b399e7a9db6cb24f0403d47571ea5a9ade3887"
-      },
-      {
-        "rank": 4,
-        "title": "Major vibe shift in the last few weeks: \"I've never seen so much concern before.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpb6ld/major_vibe_shift_in_the_last_few_weeks_ive_never/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T19:04:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wvpt9ti87ljh1.png?width=640&crop=smart&auto=webp&s=971b7538259ef1099a5fbac5cd2559cf867d7134"
-      },
-      {
-        "rank": 5,
-        "title": "Crazyyy Jesus ai hallucination",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpacwe/crazyyy_jesus_ai_hallucination/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-15T18:32:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "ChatGPT upcoming speed improvements summarized by OpenAI employee",
-        "url": "https://www.reddit.com/r/singularity/comments/1vp3eh6/chatgpt_upcoming_speed_improvements_summarized_by/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T13:50:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oymsdnxumjjh1.png?width=320&crop=smart&auto=webp&s=f315a6dfe5249f4a26172831a994bb6820d7816a"
-      },
-      {
-        "rank": 2,
-        "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
-        "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T23:30:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
-        "url": "https://www.reddit.com/r/singularity/comments/1vp77op/alibaba_ai_models_hit_3_billion_downloads_passing/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T16:28:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/0sqp3tYIAMgVJ8XN8F0puELMMWKJkyxL3CszDGTKHIQ.jpeg?width=640&crop=smart&auto=webp&s=d585a07a9daed12411ac74e6eb40a5bc777953b7"
-      },
-      {
-        "rank": 4,
-        "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T02:32:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8"
-      },
-      {
-        "rank": 5,
-        "title": "33 years ago, Vernor Vinge (1944-2024) coined the term \"Singularity\" in reference to the point at which technological progress, driven by superhumanly intelligent machines, would be so great as to render our current models would be good as discarded. He predicted this event to occur ~30 years on.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vp5j8u/33_years_ago_vernor_vinge_19442024_coined_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-15T15:20:31.000Z",
         "category": "reddit"
       }
     ]

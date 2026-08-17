@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T05:39:47.213Z",
+  "fetchedAt": "2026-08-17T07:04:50.503Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -63,13 +63,13 @@
       },
       {
         "rank": 2,
-        "title": "Man injected prompts into court filings to try to win his case, suspecting AI use",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vq3iec/man_injected_prompts_into_court_filings_to_try_to/",
+        "title": "I figured out a loophole to remove Claude watermark WITHOUT rephrasing",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vqixwf/i_figured_out_a_loophole_to_remove_claude/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-16T17:46:26.000Z",
+        "publishedAt": "2026-08-17T05:06:12.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/SXqhDMwelMVgSjUG53c67VQZMFx6ka58kBy_qVQhuZg.jpeg?width=640&crop=smart&auto=webp&s=ce7f6432209e0a48a1daa62da22811d5a600d1de"
+        "thumbnail": "https://preview.redd.it/q7lqe9bhbvjh1.png?width=640&crop=smart&auto=webp&s=7bae0116ce2fb0b119860533fe5cdca8846bdab5"
       },
       {
         "rank": 3,
@@ -83,6 +83,16 @@
       },
       {
         "rank": 4,
+        "title": "Man injected prompts into court filings to try to win his case, suspecting AI use",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vq3iec/man_injected_prompts_into_court_filings_to_try_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T17:46:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/SXqhDMwelMVgSjUG53c67VQZMFx6ka58kBy_qVQhuZg.jpeg?width=640&crop=smart&auto=webp&s=ce7f6432209e0a48a1daa62da22811d5a600d1de"
+      },
+      {
+        "rank": 5,
         "title": "AI Chatbots Are Better at Scamming People Than Human Scammers, Study Finds",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vpy0oq/ai_chatbots_are_better_at_scamming_people_than/",
         "source": "r/OpenAI",
@@ -90,15 +100,6 @@
         "publishedAt": "2026-08-16T14:09:03.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/sZI0fwRbZk2U9-2y0If5IyewuDaB90F_h0BDqDho_dQ.jpeg?width=640&crop=smart&auto=webp&s=a843277fd61d524aaaa1b23778d788ff36c4b9d3"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI is testing an $80 button to un-throttle the plan you already paid for",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vpqfxj/openai_is_testing_an_80_button_to_unthrottle_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T07:20:03.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -112,24 +113,6 @@
       },
       {
         "rank": 2,
-        "title": "Dario Amodei: It Is Actually Possible To Cure Most Diseases Within 5-10 Years",
-        "url": "https://www.reddit.com/r/singularity/comments/1vppaig/dario_amodei_it_is_actually_possible_to_cure_most/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T06:14:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic Researcher Sholto Douglas: Models Will Be Capable Of Automating 95% Of Computer Facing Jobs By 2028, But People Will Continue To Work Well Into The 2030's",
-        "url": "https://www.reddit.com/r/singularity/comments/1vppvwz/anthropic_researcher_sholto_douglas_models_will/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T06:48:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Even Fable 5 is losing money in Andon Market (fully AI-operated retail store in San Francisco)",
         "url": "https://www.reddit.com/r/singularity/comments/1vpqiui/even_fable_5_is_losing_money_in_andon_market/",
         "source": "r/singularity",
@@ -138,7 +121,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "Anti-AI activists storm OpenAI’s office dressed as “rogue AI agents.”",
         "url": "https://www.reddit.com/r/singularity/comments/1vpum1k/antiai_activists_storm_openais_office_dressed_as/",
         "source": "r/singularity",
@@ -146,6 +129,25 @@
         "publishedAt": "2026-08-16T11:28:37.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/_xFcrFkd-HXHzgGqXq9ueCbzdEXKp78spfG6WszmDrk.jpeg?width=640&crop=smart&auto=webp&s=f42300ed5c2fd7adbaa2e8e3f9d9f054131489b0"
+      },
+      {
+        "rank": 4,
+        "title": "Solved a math problem with AI? Post it to TheoremDB.org",
+        "url": "https://www.reddit.com/r/singularity/comments/1vq87o5/solved_a_math_problem_with_ai_post_it_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T20:48:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/U5D_ASXu-GN_RbLO0k476FltExV5E6sKunNOfkuHV2s.png?width=640&crop=smart&auto=webp&s=de7eaa2478fdb885a02692dadde21b6a941baf27"
+      },
+      {
+        "rank": 5,
+        "title": "What's the end game?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vpzg2u/whats_the_end_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T15:07:17.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

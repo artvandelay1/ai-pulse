@@ -1,10 +1,106 @@
 {
-  "fetchedAt": "2026-08-17T12:53:09.488Z",
+  "fetchedAt": "2026-08-17T13:43:54.094Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T17:53:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T00:46:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 3,
+        "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T12:18:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Input 4-5x Reduction with sentence and keyword based trie on chat. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vq9ji0/input_45x_reduction_with_sentence_and_keyword/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T21:43:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OiyTJAKyhU2FPnEmwxi9SJMTKK0YoxPCX2BVnENdz-o.png?width=640&crop=smart&auto=webp&s=65b99fe74c68074c9dd52233f8f4a76fa85b53e8"
+      },
+      {
+        "rank": 5,
+        "title": "It only took 200 update steps to flip Qwen2.5-7B-Instruct from denying sentience to developing a robust identity of being a \"sentient machine\" [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T22:33:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+        "url": "https://www.reddit.com/r/singularity/comments/1vq6vla/young_people_hate_ai_ceos_so_passionately_that/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T19:55:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YkylK7QNBviQl1A3Yi8xsvQCfhpu2IQHbNXxT7dNyWs.jpeg?width=640&crop=smart&auto=webp&s=afaa1fafb1194f51552f3bcec7cdc1ef17566abb"
+      },
+      {
+        "rank": 2,
+        "title": "Solved a math problem with AI? Post it to TheoremDB.org",
+        "url": "https://www.reddit.com/r/singularity/comments/1vq87o5/solved_a_math_problem_with_ai_post_it_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T20:48:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/U5D_ASXu-GN_RbLO0k476FltExV5E6sKunNOfkuHV2s.png?width=640&crop=smart&auto=webp&s=de7eaa2478fdb885a02692dadde21b6a941baf27"
+      },
+      {
+        "rank": 3,
+        "title": "What's the end game?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vpzg2u/whats_the_end_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-16T15:07:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Chinese brain-reading AI model may help predict depression risk 4 years in advance",
+        "url": "https://www.reddit.com/r/singularity/comments/1vqmoe2/chinese_brainreading_ai_model_may_help_predict/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T08:41:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nt9jy3ObH3rNLCwgHiW7e6PsZetp0GhwUoy1IR6mXfM.jpeg?width=640&crop=smart&auto=webp&s=f5fbccd751021ae3ff0c5ea59107c63aca370795"
+      },
+      {
+        "rank": 5,
+        "title": "The Worldwide Humanoid Robots Games are back this Saturday, with over 2000 robots and 666 teams from 16 countries",
+        "url": "https://www.reddit.com/r/singularity/comments/1vqgrft/the_worldwide_humanoid_robots_games_are_back_this/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T03:13:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/O_0Jbz1p2E6RtFHgOCsBK41EL8kvHwS7z9m4zXbSVQI.jpeg?width=640&crop=smart&auto=webp&s=299f513703eababb1579eda230baffe47a411da5"
+      },
       {
         "rank": 1,
         "title": "I built my first Unity game with Claude",
@@ -53,53 +149,6 @@
         "publishedAt": "2026-08-17T01:24:42.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/mcccdo388ujh1.png?width=140&height=90&auto=webp&s=46a369f624e2c13833c856c3a9da5a70fe6b3975"
-      },
-      {
-        "rank": 1,
-        "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T17:53:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T00:46:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 3,
-        "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:18:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Input 4-5x Reduction with sentence and keyword based trie on chat. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vq9ji0/input_45x_reduction_with_sentence_and_keyword/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T21:43:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OiyTJAKyhU2FPnEmwxi9SJMTKK0YoxPCX2BVnENdz-o.png?width=640&crop=smart&auto=webp&s=65b99fe74c68074c9dd52233f8f4a76fa85b53e8"
-      },
-      {
-        "rank": 5,
-        "title": "Are inference chips replacing GPUs? Investors seem to think so... [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqp94/are_inference_chips_replacing_gpus_investors_seem/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:16:51.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -197,55 +246,6 @@
         "publishedAt": "2026-08-16T14:07:56.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/7FBFmxwsCZwRqgGpI9AOgFTg1oav9qbonnUv8W9mTvQ.jpeg?width=640&crop=smart&auto=webp&s=b53037e49db2e9903c8ae2f6a3408ed5b2b40a37"
-      },
-      {
-        "rank": 1,
-        "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
-        "url": "https://www.reddit.com/r/singularity/comments/1vq6vla/young_people_hate_ai_ceos_so_passionately_that/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T19:55:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YkylK7QNBviQl1A3Yi8xsvQCfhpu2IQHbNXxT7dNyWs.jpeg?width=640&crop=smart&auto=webp&s=afaa1fafb1194f51552f3bcec7cdc1ef17566abb"
-      },
-      {
-        "rank": 2,
-        "title": "Solved a math problem with AI? Post it to TheoremDB.org",
-        "url": "https://www.reddit.com/r/singularity/comments/1vq87o5/solved_a_math_problem_with_ai_post_it_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T20:48:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/U5D_ASXu-GN_RbLO0k476FltExV5E6sKunNOfkuHV2s.png?width=640&crop=smart&auto=webp&s=de7eaa2478fdb885a02692dadde21b6a941baf27"
-      },
-      {
-        "rank": 3,
-        "title": "What's the end game?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vpzg2u/whats_the_end_game/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T15:07:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "The Worldwide Humanoid Robots Games are back this Saturday, with over 2000 robots and 666 teams from 16 countries",
-        "url": "https://www.reddit.com/r/singularity/comments/1vqgrft/the_worldwide_humanoid_robots_games_are_back_this/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T03:13:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O_0Jbz1p2E6RtFHgOCsBK41EL8kvHwS7z9m4zXbSVQI.jpeg?width=640&crop=smart&auto=webp&s=299f513703eababb1579eda230baffe47a411da5"
-      },
-      {
-        "rank": 5,
-        "title": "Chinese brain-reading AI model may help predict depression risk 4 years in advance",
-        "url": "https://www.reddit.com/r/singularity/comments/1vqmoe2/chinese_brainreading_ai_model_may_help_predict/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T08:41:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nt9jy3ObH3rNLCwgHiW7e6PsZetp0GhwUoy1IR6mXfM.jpeg?width=640&crop=smart&auto=webp&s=f5fbccd751021ae3ff0c5ea59107c63aca370795"
       }
     ]
   }

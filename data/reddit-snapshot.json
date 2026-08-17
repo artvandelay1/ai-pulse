@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-17T22:55:47.166Z",
+  "fetchedAt": "2026-08-17T23:28:11.512Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude is Losing Me After Being Heavy User Since Release",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqsas9/claude_is_losing_me_after_being_heavy_user_since/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T13:25:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "What is this behavior where it leaks info about the process of making the feature....INTO THE FEATURE?!!!!!!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqehi3/what_is_this_behavior_where_it_leaks_info_about/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T01:24:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mcccdo388ujh1.png?width=140&height=90&auto=webp&s=46a369f624e2c13833c856c3a9da5a70fe6b3975"
+      },
+      {
+        "rank": 3,
+        "title": "If Claude writes all my code, what exactly is my skill? Genuinely losing sleep over this.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqrauh/if_claude_writes_all_my_code_what_exactly_is_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T12:43:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T16:30:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NTZ0c3o4MDNweWpoMZn9twEpiemCDRqaNXtUO14JoW_FiPo-gJhuN-3hocOT.png?width=640&crop=smart&auto=webp&s=a259fa7135f1a9826aea5861a84c825774e09038"
+      },
+      {
+        "rank": 5,
+        "title": "Hot take: Most \"prompt engineering\" advice for claude code is just common sense dressed up as a skill.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqvua9/hot_take_most_prompt_engineering_advice_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T15:39:48.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
@@ -26,11 +73,75 @@
       },
       {
         "rank": 3,
+        "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T22:02:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "trying to build a solid math library for stats/ML/DL, need a sanity check on my picks[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vr76lf/trying_to_build_a_solid_math_library_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T22:36:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "ICLR numbered citations possible? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-17T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "THE USAGE HAS BEEN HEAVILY SUBVERTED AFTER THE LAST RESET",
+        "url": "https://www.reddit.com/r/codex/comments/1vqc1v4/the_usage_has_been_heavily_subverted_after_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T23:31:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Pro 20x is a joke",
+        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T19:45:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
+      },
+      {
+        "rank": 3,
+        "title": "Tibo - What's something that would convince you to switch?",
+        "url": "https://www.reddit.com/r/codex/comments/1vqly41/tibo_whats_something_that_would_convince_you_to/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T07:58:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "It's absolutely insane that your usage doesn't reset when you are billed",
+        "url": "https://www.reddit.com/r/codex/comments/1vqw0q1/its_absolutely_insane_that_your_usage_doesnt/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T15:46:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "i must say gpt5.6 sol is a stupidly intelligent model. let me explain.",
+        "url": "https://www.reddit.com/r/codex/comments/1vqlutp/i_must_say_gpt56_sol_is_a_stupidly_intelligent/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T07:53:00.000Z",
         "category": "reddit"
       },
       {
@@ -129,100 +240,6 @@
         "score": 0,
         "publishedAt": "2026-08-17T20:21:38.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude is Losing Me After Being Heavy User Since Release",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqsas9/claude_is_losing_me_after_being_heavy_user_since/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T13:25:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "What is this behavior where it leaks info about the process of making the feature....INTO THE FEATURE?!!!!!!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqehi3/what_is_this_behavior_where_it_leaks_info_about/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T01:24:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mcccdo388ujh1.png?width=140&height=90&auto=webp&s=46a369f624e2c13833c856c3a9da5a70fe6b3975"
-      },
-      {
-        "rank": 3,
-        "title": "I'm getting this error constantly while trying to use Claude Cowork on Desktop - anyone else?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq9o87/im_getting_this_error_constantly_while_trying_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T21:48:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zae8xj4c5tjh1.png?width=320&crop=smart&auto=webp&s=445cf3bca7e34b6e955456ff5d7fde1122a6403e"
-      },
-      {
-        "rank": 4,
-        "title": "If Claude writes all my code, what exactly is my skill? Genuinely losing sleep over this.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqrauh/if_claude_writes_all_my_code_what_exactly_is_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:43:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T16:30:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NTZ0c3o4MDNweWpoMZn9twEpiemCDRqaNXtUO14JoW_FiPo-gJhuN-3hocOT.png?width=640&crop=smart&auto=webp&s=a259fa7135f1a9826aea5861a84c825774e09038"
-      },
-      {
-        "rank": 1,
-        "title": "THE USAGE HAS BEEN HEAVILY SUBVERTED AFTER THE LAST RESET",
-        "url": "https://www.reddit.com/r/codex/comments/1vqc1v4/the_usage_has_been_heavily_subverted_after_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T23:31:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo - What's something that would convince you to switch?",
-        "url": "https://www.reddit.com/r/codex/comments/1vqly41/tibo_whats_something_that_would_convince_you_to/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T07:58:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "It's absolutely insane that your usage doesn't reset when you are billed",
-        "url": "https://www.reddit.com/r/codex/comments/1vqw0q1/its_absolutely_insane_that_your_usage_doesnt/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T15:46:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "i must say gpt5.6 sol is a stupidly intelligent model. let me explain.",
-        "url": "https://www.reddit.com/r/codex/comments/1vqlutp/i_must_say_gpt56_sol_is_a_stupidly_intelligent/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T07:53:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Pro 20x is a joke",
-        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T19:45:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
       }
     ]
   }

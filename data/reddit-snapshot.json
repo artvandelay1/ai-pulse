@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-17T15:30:49.160Z",
+  "fetchedAt": "2026-08-17T15:55:18.662Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built my first Unity game with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq3rtp/i_built_my_first_unity_game_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T17:56:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YThyMXNoaHR6cmpoMd7zVDtnb318zVckPxz6oSRqzyM5SFVCJIh8ZUV13QKE.png?width=640&crop=smart&auto=webp&s=de43f2baaf1a4066afdf434278f8c95bf57692d9"
+      },
+      {
+        "rank": 2,
+        "title": "What is this behavior where it leaks info about the process of making the feature....INTO THE FEATURE?!!!!!!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqehi3/what_is_this_behavior_where_it_leaks_info_about/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T01:24:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mcccdo388ujh1.png?width=140&height=90&auto=webp&s=46a369f624e2c13833c856c3a9da5a70fe6b3975"
+      },
+      {
+        "rank": 3,
+        "title": "Curious, what does vibe-coded code read like to original coders?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq8ahg/curious_what_does_vibecoded_code_read_like_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T20:51:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I'm getting this error constantly while trying to use Claude Cowork on Desktop - anyone else?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq9o87/im_getting_this_error_constantly_while_trying_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T21:48:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zae8xj4c5tjh1.png?width=320&crop=smart&auto=webp&s=445cf3bca7e34b6e955456ff5d7fde1122a6403e"
+      },
+      {
+        "rank": 5,
+        "title": "No more weekly limits? I don’t have one.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq9gye/no_more_weekly_limits_i_dont_have_one/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T21:40:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ee5bsx3x3tjh1.jpeg?width=640&crop=smart&auto=webp&s=6aff4c5cc3306e493bac3ac38d645e99a617719a"
+      },
       {
         "rank": 1,
         "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
@@ -151,55 +200,6 @@
         "publishedAt": "2026-08-17T03:13:51.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/O_0Jbz1p2E6RtFHgOCsBK41EL8kvHwS7z9m4zXbSVQI.jpeg?width=640&crop=smart&auto=webp&s=299f513703eababb1579eda230baffe47a411da5"
-      },
-      {
-        "rank": 1,
-        "title": "I built my first Unity game with Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq3rtp/i_built_my_first_unity_game_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T17:56:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YThyMXNoaHR6cmpoMd7zVDtnb318zVckPxz6oSRqzyM5SFVCJIh8ZUV13QKE.png?width=640&crop=smart&auto=webp&s=de43f2baaf1a4066afdf434278f8c95bf57692d9"
-      },
-      {
-        "rank": 2,
-        "title": "Thanks, Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpziv3/thanks_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T15:10:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6bzmp7nd6rjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b7c66d8968db370c6d2b2c0048f70e52e9d38422"
-      },
-      {
-        "rank": 3,
-        "title": "I'm getting this error constantly while trying to use Claude Cowork on Desktop - anyone else?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq9o87/im_getting_this_error_constantly_while_trying_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T21:48:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zae8xj4c5tjh1.png?width=320&crop=smart&auto=webp&s=445cf3bca7e34b6e955456ff5d7fde1122a6403e"
-      },
-      {
-        "rank": 4,
-        "title": "Curious, what does vibe-coded code read like to original coders?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq8ahg/curious_what_does_vibecoded_code_read_like_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T20:51:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What is this behavior where it leaks info about the process of making the feature....INTO THE FEATURE?!!!!!!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqehi3/what_is_this_behavior_where_it_leaks_info_about/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T01:24:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mcccdo388ujh1.png?width=140&height=90&auto=webp&s=46a369f624e2c13833c856c3a9da5a70fe6b3975"
       },
       {
         "rank": 1,

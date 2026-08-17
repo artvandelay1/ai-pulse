@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-08-17T11:00:16.120Z",
+  "fetchedAt": "2026-08-17T11:35:51.111Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "I built my first Unity game with Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq3rtp/i_built_my_first_unity_game_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T17:56:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YThyMXNoaHR6cmpoMd7zVDtnb318zVckPxz6oSRqzyM5SFVCJIh8ZUV13QKE.png?width=640&crop=smart&auto=webp&s=de43f2baaf1a4066afdf434278f8c95bf57692d9"
-      },
-      {
-        "rank": 2,
-        "title": "Thanks, Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpziv3/thanks_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T15:10:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6bzmp7nd6rjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b7c66d8968db370c6d2b2c0048f70e52e9d38422"
-      },
-      {
-        "rank": 3,
-        "title": "I'm getting this error constantly while trying to use Claude Cowork on Desktop - anyone else?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq9o87/im_getting_this_error_constantly_while_trying_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T21:48:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zae8xj4c5tjh1.png?width=320&crop=smart&auto=webp&s=445cf3bca7e34b6e955456ff5d7fde1122a6403e"
-      },
-      {
-        "rank": 4,
-        "title": "Curious, what does vibe-coded code read like to original coders?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq8ahg/curious_what_does_vibecoded_code_read_like_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T20:51:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Hi, my name is Ian and it has been 13 days since my last em dash",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpww78/hi_my_name_is_ian_and_it_has_been_13_days_since/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-16T13:20:09.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
@@ -99,54 +51,6 @@
         "score": 0,
         "publishedAt": "2026-08-16T22:33:19.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Y'all need to make more noise on social media. Limits have been halved in the last 3 days and nobody seems to spam Tibo.",
-        "url": "https://www.reddit.com/r/codex/comments/1vpz69p/yall_need_to_make_more_noise_on_social_media/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T14:56:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/60ket4012rjh1.png?width=640&crop=smart&auto=webp&s=975b4b6123ebcd1add577b25196ee97fc7758c2c"
-      },
-      {
-        "rank": 2,
-        "title": "THE USAGE HAS BEEN HEAVILY SUBVERTED AFTER THE LAST RESET",
-        "url": "https://www.reddit.com/r/codex/comments/1vqc1v4/the_usage_has_been_heavily_subverted_after_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T23:31:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "1M context has been enabled for sub-based codex",
-        "url": "https://www.reddit.com/r/codex/comments/1vq7f8u/1m_context_has_been_enabled_for_subbased_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T20:16:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wnn7odl2psjh1.jpeg?width=640&crop=smart&auto=webp&s=0512e0efc7e093c46302d2c98ec5d60b5043f82c"
-      },
-      {
-        "rank": 4,
-        "title": "Broken Usage Since Reset",
-        "url": "https://www.reddit.com/r/codex/comments/1vq31oj/broken_usage_since_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T17:28:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is Tibo even aware of his own product?",
-        "url": "https://www.reddit.com/r/codex/comments/1vpx6ii/is_tibo_even_aware_of_his_own_product/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-16T13:32:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/072utjcjoqjh1.png?width=140&height=73&auto=webp&s=5b22f997f3a752e52544f2b11110365d65b23e01"
       },
       {
         "rank": 1,
@@ -210,16 +114,6 @@
       },
       {
         "rank": 2,
-        "title": "Anti-AI activists storm OpenAI’s office dressed as “rogue AI agents.”",
-        "url": "https://www.reddit.com/r/singularity/comments/1vpum1k/antiai_activists_storm_openais_office_dressed_as/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-16T11:28:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_xFcrFkd-HXHzgGqXq9ueCbzdEXKp78spfG6WszmDrk.jpeg?width=640&crop=smart&auto=webp&s=f42300ed5c2fd7adbaa2e8e3f9d9f054131489b0"
-      },
-      {
-        "rank": 3,
         "title": "Solved a math problem with AI? Post it to TheoremDB.org",
         "url": "https://www.reddit.com/r/singularity/comments/1vq87o5/solved_a_math_problem_with_ai_post_it_to/",
         "source": "r/singularity",
@@ -229,7 +123,7 @@
         "thumbnail": "https://external-preview.redd.it/U5D_ASXu-GN_RbLO0k476FltExV5E6sKunNOfkuHV2s.png?width=640&crop=smart&auto=webp&s=de7eaa2478fdb885a02692dadde21b6a941baf27"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "What's the end game?",
         "url": "https://www.reddit.com/r/singularity/comments/1vpzg2u/whats_the_end_game/",
         "source": "r/singularity",
@@ -238,7 +132,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "The Worldwide Humanoid Robots Games are back this Saturday, with over 2000 robots and 666 teams from 16 countries",
         "url": "https://www.reddit.com/r/singularity/comments/1vqgrft/the_worldwide_humanoid_robots_games_are_back_this/",
         "source": "r/singularity",
@@ -246,6 +140,112 @@
         "publishedAt": "2026-08-17T03:13:51.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/O_0Jbz1p2E6RtFHgOCsBK41EL8kvHwS7z9m4zXbSVQI.jpeg?width=640&crop=smart&auto=webp&s=299f513703eababb1579eda230baffe47a411da5"
+      },
+      {
+        "rank": 5,
+        "title": "Chinese brain-reading AI model may help predict depression risk 4 years in advance",
+        "url": "https://www.reddit.com/r/singularity/comments/1vqmoe2/chinese_brainreading_ai_model_may_help_predict/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T08:41:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nt9jy3ObH3rNLCwgHiW7e6PsZetp0GhwUoy1IR6mXfM.jpeg?width=640&crop=smart&auto=webp&s=f5fbccd751021ae3ff0c5ea59107c63aca370795"
+      },
+      {
+        "rank": 1,
+        "title": "I built my first Unity game with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq3rtp/i_built_my_first_unity_game_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T17:56:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YThyMXNoaHR6cmpoMd7zVDtnb318zVckPxz6oSRqzyM5SFVCJIh8ZUV13QKE.png?width=640&crop=smart&auto=webp&s=de43f2baaf1a4066afdf434278f8c95bf57692d9"
+      },
+      {
+        "rank": 2,
+        "title": "Thanks, Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpziv3/thanks_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T15:10:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6bzmp7nd6rjh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=b7c66d8968db370c6d2b2c0048f70e52e9d38422"
+      },
+      {
+        "rank": 3,
+        "title": "I'm getting this error constantly while trying to use Claude Cowork on Desktop - anyone else?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq9o87/im_getting_this_error_constantly_while_trying_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T21:48:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zae8xj4c5tjh1.png?width=320&crop=smart&auto=webp&s=445cf3bca7e34b6e955456ff5d7fde1122a6403e"
+      },
+      {
+        "rank": 4,
+        "title": "Curious, what does vibe-coded code read like to original coders?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vq8ahg/curious_what_does_vibecoded_code_read_like_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T20:51:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Hi, my name is Ian and it has been 13 days since my last em dash",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vpww78/hi_my_name_is_ian_and_it_has_been_13_days_since/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-16T13:20:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Y'all need to make more noise on social media. Limits have been halved in the last 3 days and nobody seems to spam Tibo.",
+        "url": "https://www.reddit.com/r/codex/comments/1vpz69p/yall_need_to_make_more_noise_on_social_media/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T14:56:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/60ket4012rjh1.png?width=640&crop=smart&auto=webp&s=975b4b6123ebcd1add577b25196ee97fc7758c2c"
+      },
+      {
+        "rank": 2,
+        "title": "THE USAGE HAS BEEN HEAVILY SUBVERTED AFTER THE LAST RESET",
+        "url": "https://www.reddit.com/r/codex/comments/1vqc1v4/the_usage_has_been_heavily_subverted_after_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T23:31:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "1M context has been enabled for sub-based codex",
+        "url": "https://www.reddit.com/r/codex/comments/1vq7f8u/1m_context_has_been_enabled_for_subbased_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T20:16:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wnn7odl2psjh1.jpeg?width=640&crop=smart&auto=webp&s=0512e0efc7e093c46302d2c98ec5d60b5043f82c"
+      },
+      {
+        "rank": 4,
+        "title": "Broken Usage Since Reset",
+        "url": "https://www.reddit.com/r/codex/comments/1vq31oj/broken_usage_since_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T17:28:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is Tibo even aware of his own product?",
+        "url": "https://www.reddit.com/r/codex/comments/1vpx6ii/is_tibo_even_aware_of_his_own_product/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-16T13:32:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/072utjcjoqjh1.png?width=140&height=73&auto=webp&s=5b22f997f3a752e52544f2b11110365d65b23e01"
       }
     ]
   }

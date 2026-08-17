@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T09:11:46.612Z",
+  "fetchedAt": "2026-08-17T10:07:46.046Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,15 +35,6 @@
       },
       {
         "rank": 4,
-        "title": "ICDM 2026 Results Waiting Place [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-16T12:02:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
         "source": "r/MachineLearning",
@@ -51,6 +42,15 @@
         "publishedAt": "2026-08-17T00:46:26.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 5,
+        "title": "ICDM 2026 Results Waiting Place [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-16T12:02:18.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

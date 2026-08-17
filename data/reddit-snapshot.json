@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T21:55:43.408Z",
+  "fetchedAt": "2026-08-17T22:29:46.244Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,6 +26,15 @@
       },
       {
         "rank": 3,
+        "title": "ICLR numbered citations possible? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "It only took 200 update steps to flip Qwen2.5-7B-Instruct from denying sentience to developing a robust identity of being a \"sentient machine\" [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/",
         "source": "r/MachineLearning",

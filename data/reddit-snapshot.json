@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-18T06:51:45.593Z",
+  "fetchedAt": "2026-08-18T07:43:14.234Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "The extreme number of updates comes off as janky and unprofessional.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T00:30:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
+      },
+      {
+        "rank": 2,
+        "title": "Claude is Losing Me After Being Heavy User Since Release",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqsas9/claude_is_losing_me_after_being_heavy_user_since/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T13:25:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T16:30:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NTZ0c3o4MDNweWpoMZn9twEpiemCDRqaNXtUO14JoW_FiPo-gJhuN-3hocOT.png?width=640&crop=smart&auto=webp&s=a259fa7135f1a9826aea5861a84c825774e09038"
+      },
+      {
+        "rank": 4,
+        "title": "If Claude writes all my code, what exactly is my skill? Genuinely losing sleep over this.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqrauh/if_claude_writes_all_my_code_what_exactly_is_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T12:43:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "why do i get like this",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqqe2g/why_do_i_get_like_this/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T12:02:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dz8iz1msdxjh1.png?width=320&crop=smart&auto=webp&s=813366cc4917220462fc25fb6fd6900ff2e57203"
+      },
       {
         "rank": 1,
         "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
@@ -30,6 +78,53 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-17T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Pro 20x is a joke",
+        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T19:45:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
+      },
+      {
+        "rank": 2,
+        "title": "I found the culprit eating your usage limit!",
+        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T23:40:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
+      },
+      {
+        "rank": 3,
+        "title": "It's absolutely insane that your usage doesn't reset when you are billed",
+        "url": "https://www.reddit.com/r/codex/comments/1vqw0q1/its_absolutely_insane_that_your_usage_doesnt/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T15:46:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Tibo - What's something that would convince you to switch?",
+        "url": "https://www.reddit.com/r/codex/comments/1vqly41/tibo_whats_something_that_would_convince_you_to/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T07:58:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "i must say gpt5.6 sol is a stupidly intelligent model. let me explain.",
+        "url": "https://www.reddit.com/r/codex/comments/1vqlutp/i_must_say_gpt56_sol_is_a_stupidly_intelligent/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T07:53:00.000Z",
         "category": "reddit"
       },
       {
@@ -128,101 +223,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-17T17:49:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude is Losing Me After Being Heavy User Since Release",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqsas9/claude_is_losing_me_after_being_heavy_user_since/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T13:25:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "The extreme number of updates comes off as janky and unprofessional.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T00:30:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
-      },
-      {
-        "rank": 3,
-        "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T16:30:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NTZ0c3o4MDNweWpoMZn9twEpiemCDRqaNXtUO14JoW_FiPo-gJhuN-3hocOT.png?width=640&crop=smart&auto=webp&s=a259fa7135f1a9826aea5861a84c825774e09038"
-      },
-      {
-        "rank": 4,
-        "title": "If Claude writes all my code, what exactly is my skill? Genuinely losing sleep over this.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqrauh/if_claude_writes_all_my_code_what_exactly_is_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:43:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "why do i get like this",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqqe2g/why_do_i_get_like_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:02:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dz8iz1msdxjh1.png?width=320&crop=smart&auto=webp&s=813366cc4917220462fc25fb6fd6900ff2e57203"
-      },
-      {
-        "rank": 1,
-        "title": "Pro 20x is a joke",
-        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T19:45:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
-      },
-      {
-        "rank": 2,
-        "title": "I found the culprit eating your usage limit!",
-        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T23:40:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
-      },
-      {
-        "rank": 3,
-        "title": "Tibo - What's something that would convince you to switch?",
-        "url": "https://www.reddit.com/r/codex/comments/1vqly41/tibo_whats_something_that_would_convince_you_to/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T07:58:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "It's absolutely insane that your usage doesn't reset when you are billed",
-        "url": "https://www.reddit.com/r/codex/comments/1vqw0q1/its_absolutely_insane_that_your_usage_doesnt/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T15:46:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "i must say gpt5.6 sol is a stupidly intelligent model. let me explain.",
-        "url": "https://www.reddit.com/r/codex/comments/1vqlutp/i_must_say_gpt56_sol_is_a_stupidly_intelligent/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T07:53:00.000Z",
         "category": "reddit"
       }
     ]

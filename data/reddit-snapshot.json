@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-08-18T22:29:10.477Z",
+  "fetchedAt": "2026-08-18T22:55:43.388Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "The extreme number of updates comes off as janky and unprofessional.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T00:30:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
-      },
-      {
-        "rank": 2,
-        "title": "Week 3 of making my fishing game entirely with AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T09:00:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dnUwdGE5cGpsM2toMR7UQjt7l7VFBJdUy4nvYCCCX8b2OFGK4UGJbFzjX04K.png?width=640&crop=smart&auto=webp&s=70863b02fa34da4ba10a5dc7b891a8dbae7e1f0b"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic extends 50% limit increase to Aug 31",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:38:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4aqwnxp3s6kh1.jpeg?width=640&crop=smart&auto=webp&s=c2bd4fa2817153594f02c889ae1b231eedfb260f"
-      },
-      {
-        "rank": 4,
-        "title": "Gaslighting Claude with its own Verbal Tics",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T10:52:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Reminder: Claude Code's additional 50% weekly usage ends tomorrow",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrvham/reminder_claude_codes_additional_50_weekly_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T17:12:53.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
@@ -62,54 +14,6 @@
         "publishedAt": "2026-08-18T09:26:21.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8vzcg2x7q3kh1.png?width=140&height=140&auto=webp&s=7a1fb828642c6ddfa5211c2a6f942764e68a21cb"
-      },
-      {
-        "rank": 1,
-        "title": "I found the culprit eating your usage limit!",
-        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T23:40:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
-      },
-      {
-        "rank": 2,
-        "title": "Didn’t realize just changing reasoning effort alone invalidates the cache",
-        "url": "https://www.reddit.com/r/codex/comments/1vribxz/didnt_realize_just_changing_reasoning_effort/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:33:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nta0yusy53kh1.png?width=640&crop=smart&auto=webp&s=ae13a0177c04bc97dc897a29ccefa7c1c0aff04e"
-      },
-      {
-        "rank": 3,
-        "title": "I concur.",
-        "url": "https://www.reddit.com/r/codex/comments/1vrtpt9/i_concur/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T16:13:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Is it really legal to sell a subscription service and then reduce it's usage",
-        "url": "https://www.reddit.com/r/codex/comments/1vri68u/is_it_really_legal_to_sell_a_subscription_service/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:23:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Ho Hum I Wonder If Twitter Is Any Different Than /r/Codex Let's See ... Sips Tea",
-        "url": "https://www.reddit.com/r/codex/comments/1vrre40/ho_hum_i_wonder_if_twitter_is_any_different_than/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T14:51:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a4ephsppc5kh1.png?width=640&crop=smart&auto=webp&s=8d7ec66c8b851b175f2e3cd1d742e48f3341c72c"
       },
       {
         "rank": 1,
@@ -171,16 +75,6 @@
       },
       {
         "rank": 2,
-        "title": "Tests for the Worldwide Humanoid Robot Games have already started",
-        "url": "https://www.reddit.com/r/singularity/comments/1vr69ot/tests_for_the_worldwide_humanoid_robot_games_have/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T22:00:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dGpyM2puamRjMGtoMftu24Gu0i2_0l5VLJAn71ufXxHhmFUm6EUAviZaHXDK.png?width=320&crop=smart&auto=webp&s=569a4f6d02e4b67e00dad4c6ed69fcb6ac3db388"
-      },
-      {
-        "rank": 3,
         "title": "And Samsung has started using Anthropic’s Claude Code for chip design, reportedly compressing a month of work into two days, but...",
         "url": "https://www.reddit.com/r/singularity/comments/1vruawz/and_samsung_has_started_using_anthropics_claude/",
         "source": "r/singularity",
@@ -189,13 +83,23 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\"",
         "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-18T19:18:06.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vrzb9b/flock_cameras_can_track_every_car_in_america/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:27:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DNXzMYXVPR70Xv7koADq_0Dyh0Sxh4lHv7QpYegxyTE.jpeg?width=640&crop=smart&auto=webp&s=ad3ee1c1d92428b44c5c661689b03c7c9dc97bb9"
       },
       {
         "rank": 5,
@@ -206,6 +110,102 @@
         "publishedAt": "2026-08-18T07:45:30.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/PetzaD5l0zn2w-NK7MLjNzWZtq3PPHBS4p3jFjCUBqc.jpeg?width=640&crop=smart&auto=webp&s=49d2fc5d71ac477adb878b335b041f6711a2b548"
+      },
+      {
+        "rank": 1,
+        "title": "The extreme number of updates comes off as janky and unprofessional.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T00:30:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
+      },
+      {
+        "rank": 2,
+        "title": "Week 3 of making my fishing game entirely with AI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T09:00:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dnUwdGE5cGpsM2toMR7UQjt7l7VFBJdUy4nvYCCCX8b2OFGK4UGJbFzjX04K.png?width=640&crop=smart&auto=webp&s=70863b02fa34da4ba10a5dc7b891a8dbae7e1f0b"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic extends 50% limit increase to Aug 31",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:38:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4aqwnxp3s6kh1.jpeg?width=640&crop=smart&auto=webp&s=c2bd4fa2817153594f02c889ae1b231eedfb260f"
+      },
+      {
+        "rank": 4,
+        "title": "Gaslighting Claude with its own Verbal Tics",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T10:52:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Reminder: Claude Code's additional 50% weekly usage ends tomorrow",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrvham/reminder_claude_codes_additional_50_weekly_usage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T17:12:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I found the culprit eating your usage limit!",
+        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T23:40:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
+      },
+      {
+        "rank": 2,
+        "title": "Didn’t realize just changing reasoning effort alone invalidates the cache",
+        "url": "https://www.reddit.com/r/codex/comments/1vribxz/didnt_realize_just_changing_reasoning_effort/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T07:33:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nta0yusy53kh1.png?width=640&crop=smart&auto=webp&s=ae13a0177c04bc97dc897a29ccefa7c1c0aff04e"
+      },
+      {
+        "rank": 3,
+        "title": "I concur.",
+        "url": "https://www.reddit.com/r/codex/comments/1vrtpt9/i_concur/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T16:13:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Is it really legal to sell a subscription service and then reduce it's usage",
+        "url": "https://www.reddit.com/r/codex/comments/1vri68u/is_it_really_legal_to_sell_a_subscription_service/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T07:23:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Ho Hum I Wonder If Twitter Is Any Different Than /r/Codex Let's See ... Sips Tea",
+        "url": "https://www.reddit.com/r/codex/comments/1vrre40/ho_hum_i_wonder_if_twitter_is_any_different_than/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T14:51:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a4ephsppc5kh1.png?width=640&crop=smart&auto=webp&s=8d7ec66c8b851b175f2e3cd1d742e48f3341c72c"
       }
     ]
   }

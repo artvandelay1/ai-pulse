@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-18T17:32:42.825Z",
+  "fetchedAt": "2026-08-18T18:44:09.047Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "The extreme number of updates comes off as janky and unprofessional.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T00:30:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
+      },
+      {
+        "rank": 2,
+        "title": "Week 3 of making my fishing game entirely with AI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T09:00:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dnUwdGE5cGpsM2toMR7UQjt7l7VFBJdUy4nvYCCCX8b2OFGK4UGJbFzjX04K.png?width=640&crop=smart&auto=webp&s=70863b02fa34da4ba10a5dc7b891a8dbae7e1f0b"
+      },
+      {
+        "rank": 3,
+        "title": "Gaslighting Claude with its own Verbal Tics",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T10:52:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Anybody have a good method to tone down the Claude-isms?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr7bqj/anybody_have_a_good_method_to_tone_down_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T22:42:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Reminder: Claude Code's additional 50% weekly usage ends tomorrow",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrvham/reminder_claude_codes_additional_50_weekly_usage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T17:12:53.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
@@ -31,6 +78,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-17T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Pro 20x is a joke",
+        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T19:45:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
+      },
+      {
+        "rank": 2,
+        "title": "I found the culprit eating your usage limit!",
+        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T23:40:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
+      },
+      {
+        "rank": 3,
+        "title": "Didn’t realize just changing reasoning effort alone invalidates the cache",
+        "url": "https://www.reddit.com/r/codex/comments/1vribxz/didnt_realize_just_changing_reasoning_effort/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T07:33:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nta0yusy53kh1.png?width=640&crop=smart&auto=webp&s=ae13a0177c04bc97dc897a29ccefa7c1c0aff04e"
+      },
+      {
+        "rank": 4,
+        "title": "I have bad news..",
+        "url": "https://www.reddit.com/r/codex/comments/1vr3yfe/i_have_bad_news/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T20:31:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is it really legal to sell a subscription service and then reduce it's usage",
+        "url": "https://www.reddit.com/r/codex/comments/1vri68u/is_it_really_legal_to_sell_a_subscription_service/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T07:23:40.000Z",
         "category": "reddit"
       },
       {
@@ -128,102 +223,6 @@
         "publishedAt": "2026-08-17T20:25:02.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/qjgp366avzjh1.png?width=640&crop=smart&auto=webp&s=2c13d37acb56fca260ff5173e4029be20d17a27f"
-      },
-      {
-        "rank": 1,
-        "title": "The extreme number of updates comes off as janky and unprofessional.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T00:30:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
-      },
-      {
-        "rank": 2,
-        "title": "Week 3 of making my fishing game entirely with AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T09:00:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dnUwdGE5cGpsM2toMR7UQjt7l7VFBJdUy4nvYCCCX8b2OFGK4UGJbFzjX04K.png?width=640&crop=smart&auto=webp&s=70863b02fa34da4ba10a5dc7b891a8dbae7e1f0b"
-      },
-      {
-        "rank": 3,
-        "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T16:30:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NTZ0c3o4MDNweWpoMZn9twEpiemCDRqaNXtUO14JoW_FiPo-gJhuN-3hocOT.png?width=640&crop=smart&auto=webp&s=a259fa7135f1a9826aea5861a84c825774e09038"
-      },
-      {
-        "rank": 4,
-        "title": "Gaslighting Claude with its own Verbal Tics",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T10:52:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Hot take: Most \"prompt engineering\" advice for claude code is just common sense dressed up as a skill.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqvua9/hot_take_most_prompt_engineering_advice_for/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T15:39:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Pro 20x is a joke",
-        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T19:45:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
-      },
-      {
-        "rank": 2,
-        "title": "I found the culprit eating your usage limit!",
-        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T23:40:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
-      },
-      {
-        "rank": 3,
-        "title": "It's absolutely insane that your usage doesn't reset when you are billed",
-        "url": "https://www.reddit.com/r/codex/comments/1vqw0q1/its_absolutely_insane_that_your_usage_doesnt/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T15:46:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Didn’t realize just changing reasoning effort alone invalidates the cache",
-        "url": "https://www.reddit.com/r/codex/comments/1vribxz/didnt_realize_just_changing_reasoning_effort/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:33:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nta0yusy53kh1.png?width=640&crop=smart&auto=webp&s=ae13a0177c04bc97dc897a29ccefa7c1c0aff04e"
-      },
-      {
-        "rank": 5,
-        "title": "the included limits are fantastic",
-        "url": "https://www.reddit.com/r/codex/comments/1vqwjjd/the_included_limits_are_fantastic/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T16:13:31.000Z",
-        "category": "reddit"
       }
     ]
   }

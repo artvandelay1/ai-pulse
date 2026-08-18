@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-08-18T11:56:12.581Z",
+  "fetchedAt": "2026-08-18T12:55:48.931Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "The extreme number of updates comes off as janky and unprofessional.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T00:30:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
-      },
-      {
-        "rank": 2,
-        "title": "Claude is Losing Me After Being Heavy User Since Release",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqsas9/claude_is_losing_me_after_being_heavy_user_since/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T13:25:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T16:30:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NTZ0c3o4MDNweWpoMZn9twEpiemCDRqaNXtUO14JoW_FiPo-gJhuN-3hocOT.png?width=640&crop=smart&auto=webp&s=a259fa7135f1a9826aea5861a84c825774e09038"
-      },
-      {
-        "rank": 4,
-        "title": "Week 3 of making my fishing game entirely with AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T09:00:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dnUwdGE5cGpsM2toMR7UQjt7l7VFBJdUy4nvYCCCX8b2OFGK4UGJbFzjX04K.png?width=640&crop=smart&auto=webp&s=70863b02fa34da4ba10a5dc7b891a8dbae7e1f0b"
-      },
-      {
-        "rank": 5,
-        "title": "If Claude writes all my code, what exactly is my skill? Genuinely losing sleep over this.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqrauh/if_claude_writes_all_my_code_what_exactly_is_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:43:56.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
@@ -65,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:18:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
         "source": "r/MachineLearning",
@@ -82,59 +25,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ICLR numbered citations possible? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-17T21:56:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Pro 20x is a joke",
-        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T19:45:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
-      },
-      {
-        "rank": 2,
-        "title": "I found the culprit eating your usage limit!",
-        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T23:40:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
-      },
-      {
-        "rank": 3,
-        "title": "It's absolutely insane that your usage doesn't reset when you are billed",
-        "url": "https://www.reddit.com/r/codex/comments/1vqw0q1/its_absolutely_insane_that_your_usage_doesnt/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T15:46:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "the included limits are fantastic",
-        "url": "https://www.reddit.com/r/codex/comments/1vqwjjd/the_included_limits_are_fantastic/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T16:13:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I have bad news..",
-        "url": "https://www.reddit.com/r/codex/comments/1vr3yfe/i_have_bad_news/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-17T20:31:42.000Z",
         "category": "reddit"
       },
       {
@@ -233,6 +129,101 @@
         "publishedAt": "2026-08-17T17:01:27.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NWM4ZTIycGx1eWpoMb5p0YNBh6mV7X-v25eZIb3qTcNw6S2g-XFfPJHAuKV_.png?width=640&crop=smart&auto=webp&s=b85f3e31da77ca54eb8d5f8079edefc1558afe52"
+      },
+      {
+        "rank": 1,
+        "title": "The extreme number of updates comes off as janky and unprofessional.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vr9vri/the_extreme_number_of_updates_comes_off_as_janky/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T00:30:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wyxzmyv631kh1.jpeg?width=640&crop=smart&auto=webp&s=7b70f530c626be4bd2c6bf4c3fd5c144c88f64cc"
+      },
+      {
+        "rank": 2,
+        "title": "Claude is Losing Me After Being Heavy User Since Release",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqsas9/claude_is_losing_me_after_being_heavy_user_since/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T13:25:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I coded terminal manager for ADHD brains. 100% Opensource.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqx297/i_coded_terminal_manager_for_adhd_brains_100/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T16:30:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NTZ0c3o4MDNweWpoMZn9twEpiemCDRqaNXtUO14JoW_FiPo-gJhuN-3hocOT.png?width=640&crop=smart&auto=webp&s=a259fa7135f1a9826aea5861a84c825774e09038"
+      },
+      {
+        "rank": 4,
+        "title": "Week 3 of making my fishing game entirely with AI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T09:00:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dnUwdGE5cGpsM2toMR7UQjt7l7VFBJdUy4nvYCCCX8b2OFGK4UGJbFzjX04K.png?width=640&crop=smart&auto=webp&s=70863b02fa34da4ba10a5dc7b891a8dbae7e1f0b"
+      },
+      {
+        "rank": 5,
+        "title": "If Claude writes all my code, what exactly is my skill? Genuinely losing sleep over this.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vqrauh/if_claude_writes_all_my_code_what_exactly_is_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T12:43:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Pro 20x is a joke",
+        "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T19:45:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/16w9ucgeozjh1.jpeg?width=640&crop=smart&auto=webp&s=8f63e122f4b9ccd454dcd48ec83220aee7b6c7af"
+      },
+      {
+        "rank": 2,
+        "title": "I found the culprit eating your usage limit!",
+        "url": "https://www.reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T23:40:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5y1e8hryt0kh1.png?width=140&height=51&auto=webp&s=f9698b7f3aec52d464ec8a067a63c5280393a0a0"
+      },
+      {
+        "rank": 3,
+        "title": "It's absolutely insane that your usage doesn't reset when you are billed",
+        "url": "https://www.reddit.com/r/codex/comments/1vqw0q1/its_absolutely_insane_that_your_usage_doesnt/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T15:46:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "the included limits are fantastic",
+        "url": "https://www.reddit.com/r/codex/comments/1vqwjjd/the_included_limits_are_fantastic/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T16:13:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I have bad news..",
+        "url": "https://www.reddit.com/r/codex/comments/1vr3yfe/i_have_bad_news/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-17T20:31:42.000Z",
+        "category": "reddit"
       }
     ]
   }

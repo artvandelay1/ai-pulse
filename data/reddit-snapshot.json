@@ -1,10 +1,135 @@
 {
-  "fetchedAt": "2026-08-18T08:43:08.371Z",
+  "fetchedAt": "2026-08-18T09:39:45.076Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T12:18:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T22:02:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ICLR numbered citations possible? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-17T21:56:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI acquires a 17 year old's Ethereum project",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vqw3xm/openai_acquires_a_17_year_olds_ethereum_project/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T15:50:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/sDaYK_eUte8mE_hNlF8XcwYOruPKH3RC8RXryBrOqCU.jpeg?width=640&crop=smart&auto=webp&s=56088a86d7334f2bf8ed0a46b9e30773386d6ada"
+      },
+      {
+        "rank": 2,
+        "title": "Warning: Sponsored Google result for OpenAI Codex led me to a malicious stealer",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vqorxl/warning_sponsored_google_result_for_openai_codex/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T10:42:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kifuy9wfzwjh1.png?width=140&height=85&auto=webp&s=b7ddf955b6704de8f031592d9406e0e7a132efec"
+      },
+      {
+        "rank": 3,
+        "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vrien2/cherokee_nation_bans_hyperscale_data_centers_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T07:37:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/gNI0BEsKVbve_QxSEkLgiyWLU-4jZmXyiMwQrM_OC4I.jpeg?width=640&crop=smart&auto=webp&s=dc56bceba452a760fd1f6faa6d63492139fb17e4"
+      },
+      {
+        "rank": 4,
+        "title": "Seriously",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vr9vgs/seriously/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T00:30:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rtk95l5u21kh1.png?width=140&height=31&auto=webp&s=b41d87c71c3e9b3aec4cb8297a46fbc9c64d3c92"
+      },
+      {
+        "rank": 5,
+        "title": "Greg Brockman on the OpenAI Hugging Face incident and what AI defenders should do now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vr0qk8/greg_brockman_on_the_openai_hugging_face_incident/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T18:36:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "[OC] Chinese models",
+        "url": "https://www.reddit.com/r/singularity/comments/1vqy1p1/oc_chinese_models/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T17:03:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/46er10v3vyjh1.jpeg?width=640&crop=smart&auto=webp&s=991fd8793d00745d9002d7e992d91681b5afbe38"
+      },
+      {
+        "rank": 2,
+        "title": "Read more: https://x.com/gavincrooks/status/2088643200038883830",
+        "url": "https://www.reddit.com/r/singularity/comments/1vqsrnv/read_more/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T13:44:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/elyceygvvxjh1.jpeg?width=640&crop=smart&auto=webp&s=7a2c351dd71dc0f3880d5d7c4b92f6fd53caa003"
+      },
+      {
+        "rank": 3,
+        "title": "Tests for the Worldwide Humanoid Robot Games have already started",
+        "url": "https://www.reddit.com/r/singularity/comments/1vr69ot/tests_for_the_worldwide_humanoid_robot_games_have/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T22:00:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dGpyM2puamRjMGtoMftu24Gu0i2_0l5VLJAn71ufXxHhmFUm6EUAviZaHXDK.png?width=320&crop=smart&auto=webp&s=569a4f6d02e4b67e00dad4c6ed69fcb6ac3db388"
+      },
+      {
+        "rank": 4,
+        "title": "Big Tech Is Raising Billions To Stop UBI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vrasl0/big_tech_is_raising_billions_to_stop_ubi/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T01:10:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Unitree previews a humanoid that jumps higher than any human and has a faster top speed than Usain Bolt (It's called Superman).",
+        "url": "https://www.reddit.com/r/singularity/comments/1vqxz3o/unitree_previews_a_humanoid_that_jumps_higher/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T17:01:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NWM4ZTIycGx1eWpoMb5p0YNBh6mV7X-v25eZIb3qTcNw6S2g-XFfPJHAuKV_.png?width=640&crop=smart&auto=webp&s=b85f3e31da77ca54eb8d5f8079edefc1558afe52"
+      },
       {
         "rank": 1,
         "title": "The extreme number of updates comes off as janky and unprofessional.",
@@ -55,33 +180,6 @@
       },
       {
         "rank": 1,
-        "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T12:18:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T22:02:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ICLR numbered citations possible? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T21:56:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Pro 20x is a joke",
         "url": "https://www.reddit.com/r/codex/comments/1vr2osw/pro_20x_is_a_joke/",
         "source": "r/codex",
@@ -125,104 +223,6 @@
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-17T16:13:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI acquires a 17 year old's Ethereum project",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vqw3xm/openai_acquires_a_17_year_olds_ethereum_project/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T15:50:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/sDaYK_eUte8mE_hNlF8XcwYOruPKH3RC8RXryBrOqCU.jpeg?width=640&crop=smart&auto=webp&s=56088a86d7334f2bf8ed0a46b9e30773386d6ada"
-      },
-      {
-        "rank": 2,
-        "title": "New York City nurses say AI is replacing them | Nurses laid off in July by Montefiore Hospitals in the Bronx sounded the alarm about AI in healthcare, a concern shared by nurses across the country",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vqm4i2/new_york_city_nurses_say_ai_is_replacing_them/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T08:08:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/fQmjTjT2xwbVMgAr836Rs0t27CZJDqqEbAydil3k3Iw.jpeg?width=640&crop=smart&auto=webp&s=777bb401d608389d8c5e928607c838cfdbdd7dbb"
-      },
-      {
-        "rank": 3,
-        "title": "Warning: Sponsored Google result for OpenAI Codex led me to a malicious stealer",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vqorxl/warning_sponsored_google_result_for_openai_codex/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T10:42:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kifuy9wfzwjh1.png?width=140&height=85&auto=webp&s=b7ddf955b6704de8f031592d9406e0e7a132efec"
-      },
-      {
-        "rank": 4,
-        "title": "Creator of test at the heart of rogue AI hacks warns ‘there have likely been more’ | Dawn Song, who helped create the cybersecurity evaluation entangled in the recent OpenAI and Anthropic rogue-agent incidents, says the disclosed cases probably aren’t the only ones.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vql8wo/creator_of_test_at_the_heart_of_rogue_ai_hacks/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T07:16:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/x7lj0AdAVLjkQDdl7TP2fGZ3FK1ul6TATN0lZlQjZeA.jpeg?width=640&crop=smart&auto=webp&s=041de71296808f77dba940b1b216e9b541ba16e7"
-      },
-      {
-        "rank": 5,
-        "title": "Greg Brockman on the OpenAI Hugging Face incident and what AI defenders should do now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vr0qk8/greg_brockman_on_the_openai_hugging_face_incident/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T18:36:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "[OC] Chinese models",
-        "url": "https://www.reddit.com/r/singularity/comments/1vqy1p1/oc_chinese_models/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T17:03:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/46er10v3vyjh1.jpeg?width=640&crop=smart&auto=webp&s=991fd8793d00745d9002d7e992d91681b5afbe38"
-      },
-      {
-        "rank": 2,
-        "title": "Read more: https://x.com/gavincrooks/status/2088643200038883830",
-        "url": "https://www.reddit.com/r/singularity/comments/1vqsrnv/read_more/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T13:44:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/elyceygvvxjh1.jpeg?width=640&crop=smart&auto=webp&s=7a2c351dd71dc0f3880d5d7c4b92f6fd53caa003"
-      },
-      {
-        "rank": 3,
-        "title": "Tests for the Worldwide Humanoid Robot Games have already started",
-        "url": "https://www.reddit.com/r/singularity/comments/1vr69ot/tests_for_the_worldwide_humanoid_robot_games_have/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T22:00:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dGpyM2puamRjMGtoMftu24Gu0i2_0l5VLJAn71ufXxHhmFUm6EUAviZaHXDK.png?width=320&crop=smart&auto=webp&s=569a4f6d02e4b67e00dad4c6ed69fcb6ac3db388"
-      },
-      {
-        "rank": 4,
-        "title": "Unitree previews a humanoid that jumps higher than any human and has a faster top speed than Usain Bolt (It's called Superman).",
-        "url": "https://www.reddit.com/r/singularity/comments/1vqxz3o/unitree_previews_a_humanoid_that_jumps_higher/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T17:01:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NWM4ZTIycGx1eWpoMb5p0YNBh6mV7X-v25eZIb3qTcNw6S2g-XFfPJHAuKV_.png?width=640&crop=smart&auto=webp&s=b85f3e31da77ca54eb8d5f8079edefc1558afe52"
-      },
-      {
-        "rank": 5,
-        "title": "Qwen3.8-27B lands next to DeepSeek V4 and GPT-5.6 Luna Max on the Artificial Analysis Benchmark. You can now run a near frontier model with just a RTX 3090.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vqzdz2/qwen3827b_lands_next_to_deepseek_v4_and_gpt56/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T17:49:29.000Z",
         "category": "reddit"
       }
     ]

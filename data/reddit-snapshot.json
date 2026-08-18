@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-17T23:50:43.482Z",
+  "fetchedAt": "2026-08-18T01:26:46.019Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-17T00:46:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 2,
         "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/",
         "source": "r/MachineLearning",
@@ -25,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "trying to build a solid math library for stats/ML/DL, need a sanity check on my picks[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vr76lf/trying_to_build_a_solid_math_library_for/",
         "source": "r/MachineLearning",
@@ -34,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
         "source": "r/MachineLearning",
@@ -43,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "ICLR numbered citations possible? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
         "source": "r/MachineLearning",
@@ -63,16 +53,6 @@
       },
       {
         "rank": 2,
-        "title": "Warning: Sponsored Google result for OpenAI Codex led me to a malicious stealer",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vqorxl/warning_sponsored_google_result_for_openai_codex/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-17T10:42:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kifuy9wfzwjh1.png?width=140&height=85&auto=webp&s=b7ddf955b6704de8f031592d9406e0e7a132efec"
-      },
-      {
-        "rank": 3,
         "title": "New York City nurses say AI is replacing them | Nurses laid off in July by Montefiore Hospitals in the Bronx sounded the alarm about AI in healthcare, a concern shared by nurses across the country",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vqm4i2/new_york_city_nurses_say_ai_is_replacing_them/",
         "source": "r/OpenAI",
@@ -80,6 +60,16 @@
         "publishedAt": "2026-08-17T08:08:48.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/fQmjTjT2xwbVMgAr836Rs0t27CZJDqqEbAydil3k3Iw.jpeg?width=640&crop=smart&auto=webp&s=777bb401d608389d8c5e928607c838cfdbdd7dbb"
+      },
+      {
+        "rank": 3,
+        "title": "Warning: Sponsored Google result for OpenAI Codex led me to a malicious stealer",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vqorxl/warning_sponsored_google_result_for_openai_codex/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-17T10:42:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kifuy9wfzwjh1.png?width=140&height=85&auto=webp&s=b7ddf955b6704de8f031592d9406e0e7a132efec"
       },
       {
         "rank": 4,
@@ -122,15 +112,6 @@
       },
       {
         "rank": 3,
-        "title": "Qwen3.8-27B lands next to DeepSeek V4 and GPT-5.6 Luna Max on the Artificial Analysis Benchmark. You can now run a near frontier model with just a RTX 3090.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vqzdz2/qwen3827b_lands_next_to_deepseek_v4_and_gpt56/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-17T17:49:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Unitree previews a humanoid that jumps higher than any human and has a faster top speed than Usain Bolt (It's called Superman).",
         "url": "https://www.reddit.com/r/singularity/comments/1vqxz3o/unitree_previews_a_humanoid_that_jumps_higher/",
         "source": "r/singularity",
@@ -138,6 +119,15 @@
         "publishedAt": "2026-08-17T17:01:27.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NWM4ZTIycGx1eWpoMb5p0YNBh6mV7X-v25eZIb3qTcNw6S2g-XFfPJHAuKV_.png?width=640&crop=smart&auto=webp&s=b85f3e31da77ca54eb8d5f8079edefc1558afe52"
+      },
+      {
+        "rank": 4,
+        "title": "Qwen3.8-27B lands next to DeepSeek V4 and GPT-5.6 Luna Max on the Artificial Analysis Benchmark. You can now run a near frontier model with just a RTX 3090.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vqzdz2/qwen3827b_lands_next_to_deepseek_v4_and_gpt56/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-17T17:49:29.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

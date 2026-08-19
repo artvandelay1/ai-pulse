@@ -1,10 +1,117 @@
 {
-  "fetchedAt": "2026-08-19T01:28:08.472Z",
+  "fetchedAt": "2026-08-19T02:43:42.618Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-18T09:26:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8vzcg2x7q3kh1.png?width=140&height=140&auto=webp&s=7a1fb828642c6ddfa5211c2a6f942764e68a21cb"
+      },
+      {
+        "rank": 1,
+        "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vro1o1/americas_largest_grid_wants_to_cut_power_to_new/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T12:40:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/k5c1S5YcgpiMyqWDoEd3mEJdwEBw1CZYMYnVVK7KANA.jpeg?width=640&crop=smart&auto=webp&s=49f151dba547fa8641995e73b3210432dde53ee6"
+      },
+      {
+        "rank": 2,
+        "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vrien2/cherokee_nation_bans_hyperscale_data_centers_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T07:37:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/gNI0BEsKVbve_QxSEkLgiyWLU-4jZmXyiMwQrM_OC4I.jpeg?width=640&crop=smart&auto=webp&s=dc56bceba452a760fd1f6faa6d63492139fb17e4"
+      },
+      {
+        "rank": 3,
+        "title": "3M expert used ChatGPT to draft '0% at fault' defense report",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vrkcel/3m_expert_used_chatgpt_to_draft_0_at_fault/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T09:33:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT is getting a dedicated mode for teens",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vrn6rt/chatgpt_is_getting_a_dedicated_mode_for_teens/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T12:02:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gj0lcw5ii4kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5adbfe43d2cebe5810472f6d896abf80042b2afb"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI paused deployment-bound model training to harden its own research systems",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vrxewz/openai_paused_deploymentbound_model_training_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T18:20:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NxYh1zev5mhL3WMX7KBDTCrt4PlS2Y8U67jqHm3M_o0.jpeg?width=640&crop=smart&auto=webp&s=07a86009623bf72268d6dc5926fc262a2a4efdba"
+      },
+      {
+        "rank": 1,
+        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vrzb9b/flock_cameras_can_track_every_car_in_america/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:27:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DNXzMYXVPR70Xv7koADq_0Dyh0Sxh4lHv7QpYegxyTE.jpeg?width=640&crop=smart&auto=webp&s=ad3ee1c1d92428b44c5c661689b03c7c9dc97bb9"
+      },
+      {
+        "rank": 2,
+        "title": "And Samsung has started using Anthropic’s Claude Code for chip design, reportedly compressing a month of work into two days, but...",
+        "url": "https://www.reddit.com/r/singularity/comments/1vruawz/and_samsung_has_started_using_anthropics_claude/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T16:32:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:18:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Putting money where their mouth is: Anthropic’s Claude autonomously designs disease-targeting proteins with real wet-lab proof, hitting a 35% success rate vs 10–15% human average",
+        "url": "https://www.reddit.com/r/singularity/comments/1vs524y/putting_money_where_their_mouth_is_anthropics/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T23:06:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MPahe8_2NYX9BQAGQTJbI8VMKgUOK2N5k9ZTf16NCMQ.png?width=140&height=78&auto=webp&s=11245f2de941148120a52dea2546528457e1a533"
+      },
+      {
+        "rank": 5,
+        "title": "Breakthrough as scientists use AI to predict how breast cancer could progress",
+        "url": "https://www.reddit.com/r/singularity/comments/1vrijfc/breakthrough_as_scientists_use_ai_to_predict_how/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T07:45:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/PetzaD5l0zn2w-NK7MLjNzWZtq3PPHBS4p3jFjCUBqc.jpeg?width=640&crop=smart&auto=webp&s=49d2fc5d71ac477adb878b335b041f6711a2b548"
+      },
       {
         "rank": 1,
         "title": "Week 3 of making my fishing game entirely with AI",
@@ -54,16 +161,6 @@
       },
       {
         "rank": 1,
-        "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-18T09:26:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vzcg2x7q3kh1.png?width=140&height=140&auto=webp&s=7a1fb828642c6ddfa5211c2a6f942764e68a21cb"
-      },
-      {
-        "rank": 1,
         "title": "Didn’t realize just changing reasoning effort alone invalidates the cache",
         "url": "https://www.reddit.com/r/codex/comments/1vribxz/didnt_realize_just_changing_reasoning_effort/",
         "source": "r/codex",
@@ -108,102 +205,6 @@
         "score": 0,
         "publishedAt": "2026-08-18T08:30:53.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vro1o1/americas_largest_grid_wants_to_cut_power_to_new/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T12:40:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/k5c1S5YcgpiMyqWDoEd3mEJdwEBw1CZYMYnVVK7KANA.jpeg?width=640&crop=smart&auto=webp&s=49f151dba547fa8641995e73b3210432dde53ee6"
-      },
-      {
-        "rank": 2,
-        "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vrien2/cherokee_nation_bans_hyperscale_data_centers_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:37:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/gNI0BEsKVbve_QxSEkLgiyWLU-4jZmXyiMwQrM_OC4I.jpeg?width=640&crop=smart&auto=webp&s=dc56bceba452a760fd1f6faa6d63492139fb17e4"
-      },
-      {
-        "rank": 3,
-        "title": "3M expert used ChatGPT to draft '0% at fault' defense report",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vrkcel/3m_expert_used_chatgpt_to_draft_0_at_fault/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T09:33:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ChatGPT is getting a dedicated mode for teens",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vrn6rt/chatgpt_is_getting_a_dedicated_mode_for_teens/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T12:02:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gj0lcw5ii4kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5adbfe43d2cebe5810472f6d896abf80042b2afb"
-      },
-      {
-        "rank": 5,
-        "title": "Seriously",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vr9vgs/seriously/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T00:30:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rtk95l5u21kh1.png?width=140&height=31&auto=webp&s=b41d87c71c3e9b3aec4cb8297a46fbc9c64d3c92"
-      },
-      {
-        "rank": 1,
-        "title": "Big Tech Is Raising Billions To Stop UBI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vrasl0/big_tech_is_raising_billions_to_stop_ubi/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T01:10:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "And Samsung has started using Anthropic’s Claude Code for chip design, reportedly compressing a month of work into two days, but...",
-        "url": "https://www.reddit.com/r/singularity/comments/1vruawz/and_samsung_has_started_using_anthropics_claude/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T16:32:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:18:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vrzb9b/flock_cameras_can_track_every_car_in_america/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:27:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/DNXzMYXVPR70Xv7koADq_0Dyh0Sxh4lHv7QpYegxyTE.jpeg?width=640&crop=smart&auto=webp&s=ad3ee1c1d92428b44c5c661689b03c7c9dc97bb9"
-      },
-      {
-        "rank": 5,
-        "title": "Breakthrough as scientists use AI to predict how breast cancer could progress",
-        "url": "https://www.reddit.com/r/singularity/comments/1vrijfc/breakthrough_as_scientists_use_ai_to_predict_how/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:45:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/PetzaD5l0zn2w-NK7MLjNzWZtq3PPHBS4p3jFjCUBqc.jpeg?width=640&crop=smart&auto=webp&s=49d2fc5d71ac477adb878b335b041f6711a2b548"
       }
     ]
   }

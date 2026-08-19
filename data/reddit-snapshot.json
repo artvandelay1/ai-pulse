@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T16:37:45.461Z",
+  "fetchedAt": "2026-08-19T17:31:41.174Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -54,16 +54,6 @@
       },
       {
         "rank": 3,
-        "title": "OpenAI paused deployment-bound model training to harden its own research systems",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vrxewz/openai_paused_deploymentbound_model_training_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T18:20:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NxYh1zev5mhL3WMX7KBDTCrt4PlS2Y8U67jqHm3M_o0.jpeg?width=640&crop=smart&auto=webp&s=07a86009623bf72268d6dc5926fc262a2a4efdba"
-      },
-      {
-        "rank": 4,
         "title": "Anyone else having major memory consumption issues?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vshd3w/anyone_else_having_major_memory_consumption_issues/",
         "source": "r/OpenAI",
@@ -71,6 +61,16 @@
         "publishedAt": "2026-08-19T09:21:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/88sqr8wruakh1.jpeg?width=640&crop=smart&auto=webp&s=0f393fd85852b628bfcf21dd79a858334b6aae39"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI paused deployment-bound model training to harden its own research systems",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vrxewz/openai_paused_deploymentbound_model_training_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T18:20:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NxYh1zev5mhL3WMX7KBDTCrt4PlS2Y8U67jqHm3M_o0.jpeg?width=640&crop=smart&auto=webp&s=07a86009623bf72268d6dc5926fc262a2a4efdba"
       },
       {
         "rank": 5,
@@ -103,15 +103,6 @@
       },
       {
         "rank": 3,
-        "title": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:18:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Moderna stock, $MRNA , surges over +110% after announcing the first ever positive Phase 3 results for a personalized cancer vaccine.",
         "url": "https://www.reddit.com/r/singularity/comments/1vso1mh/moderna_stock_mrna_surges_over_110_after/",
         "source": "r/singularity",
@@ -119,6 +110,15 @@
         "publishedAt": "2026-08-19T14:28:52.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3oo9ws3pdckh1.png?width=140&height=140&auto=webp&s=ea16682e0ac7be1e06c4d5abfdc4e13bd5d690aa"
+      },
+      {
+        "rank": 4,
+        "title": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:18:06.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T19:55:15.711Z",
+  "fetchedAt": "2026-08-19T20:34:10.840Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -74,15 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsnwcv/same_effective_batch_does_not_mean_same_training/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T14:23:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
         "source": "r/MachineLearning",
@@ -92,16 +83,6 @@
       },
       {
         "rank": 1,
-        "title": "I'm pretty certain, even with Sol-5.6, Fable andOpus-5 we are still here.",
-        "url": "https://www.reddit.com/r/codex/comments/1vs0jar/im_pretty_certain_even_with_sol56_fable_andopus5/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T20:10:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/enBuM2d4aXN4NmtoMd_Aic-QZoDiBQ0OMm3UnE1CozKZK5HHQI_tVKobNUF2.png?width=320&crop=smart&auto=webp&s=a4767fa6458826d5e5a42993c007d9f0828221f2"
-      },
-      {
-        "rank": 2,
         "title": "No number of resets will fix the revolving door",
         "url": "https://www.reddit.com/r/codex/comments/1vsgfkd/no_number_of_resets_will_fix_the_revolving_door/",
         "source": "r/codex",
@@ -111,7 +92,7 @@
         "thumbnail": "https://preview.redd.it/1nirgd37lakh1.jpeg?width=640&crop=smart&auto=webp&s=5d2eeff4c12169fe322596fdbe705c2ba372ad52"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Yeah the Resets were a disguise for the nerfing the limits.",
         "url": "https://www.reddit.com/r/codex/comments/1vsjn6b/yeah_the_resets_were_a_disguise_for_the_nerfing/",
         "source": "r/codex",
@@ -121,7 +102,7 @@
         "thumbnail": "https://preview.redd.it/58wxt53sgbkh1.png?width=320&crop=smart&auto=webp&s=67302cd02ca413a040e84ef9881bc095f328211d"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Evidence of severe nerf on my 5x pro account",
         "url": "https://www.reddit.com/r/codex/comments/1vs86k7/evidence_of_severe_nerf_on_my_5x_pro_account/",
         "source": "r/codex",
@@ -131,7 +112,7 @@
         "thumbnail": "https://preview.redd.it/8curjfdnf8kh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9912b3757c31bec7ca3c7f2d1f4f1f1bfd4d0cd4"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "twitter is torn",
         "url": "https://www.reddit.com/r/codex/comments/1vsqx5e/twitter_is_torn/",
         "source": "r/codex",
@@ -139,6 +120,16 @@
         "publishedAt": "2026-08-19T16:12:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tp1nic68wckh1.png?width=640&crop=smart&auto=webp&s=8100241d7e325f7fd540a2ff8f9f36da2132505b"
+      },
+      {
+        "rank": 5,
+        "title": "If I had a dollar for every time that Codex messes up powershell, this would be a very cheap subscription.",
+        "url": "https://www.reddit.com/r/codex/comments/1vsm3dy/if_i_had_a_dollar_for_every_time_that_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T13:14:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x7ib59410ckh1.png?width=320&crop=smart&auto=webp&s=d32eac2916b9f8c0e5bbca64cb12eadeb789aa71"
       },
       {
         "rank": 1,

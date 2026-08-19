@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T22:56:13.424Z",
+  "fetchedAt": "2026-08-19T23:28:09.827Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,16 +27,6 @@
       },
       {
         "rank": 3,
-        "title": "This is new ... Claude seems to be not in the mood to do some work",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T23:21:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wvo8h9y5v7kh1.png?width=640&crop=smart&auto=webp&s=2fa84ceb94a63066095f4eba159032feea46bfe8"
-      },
-      {
-        "rank": 4,
         "title": "Claude Sonnet 5 shifts behavior when it recognizes the user as an AI safety researcher",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vst16y/claude_sonnet_5_shifts_behavior_when_it/",
         "source": "r/ClaudeAI",
@@ -46,7 +36,7 @@
         "thumbnail": "https://external-preview.redd.it/YMZuYuPm5r0ynqkRwK1dnCNwvbadYrxYnvNvntj2mIM.png?width=640&crop=smart&auto=webp&s=e149d0e0a3eaf7acfe210babf9732a954502abbe"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Anthropic’s Project Parka sits through meetings and assigns Claude agents the homework",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsgxgn/anthropics_project_parka_sits_through_meetings/",
         "source": "r/ClaudeAI",
@@ -54,6 +44,16 @@
         "publishedAt": "2026-08-19T08:56:54.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/wJcGzLus6On3tj0JmlTOhbVuG9HC36UpdghuzC9o5BA.jpeg?width=640&crop=smart&auto=webp&s=dcf3452d15ccfea80d03477b9d9447484a6c70ce"
+      },
+      {
+        "rank": 5,
+        "title": "The absolute insanity of comments in Opus 5.0 is killing me",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs7cdt/the_absolute_insanity_of_comments_in_opus_50_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T00:44:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/teneqp3aa8kh1.png?width=640&crop=smart&auto=webp&s=6b68033fdc1dcac8d1add247658dadf504716057"
       },
       {
         "rank": 1,

@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-19T18:41:43.063Z",
+  "fetchedAt": "2026-08-19T19:31:11.393Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Anthropic extends 50% limit increase to Aug 31",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:38:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4aqwnxp3s6kh1.jpeg?width=640&crop=smart&auto=webp&s=c2bd4fa2817153594f02c889ae1b231eedfb260f"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic has twice the revenue of OpenAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsdx5z/anthropic_has_twice_the_revenue_of_openai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T06:02:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b8rut9nxq9kh1.png?width=640&crop=smart&auto=webp&s=c168af8cf94a8464fa3c47d656e3d8d66dc2a97d"
+      },
+      {
+        "rank": 3,
+        "title": "What is happening...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs4ntq/what_is_happening/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T22:50:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Antrophic Employee said there is \"make a lot of money\" button",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsl6c7/antrophic_employee_said_there_is_make_a_lot_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T12:34:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gug48dvfsbkh1.png?width=640&crop=smart&auto=webp&s=885135f62ed10deec783a3e3f1c04f9dba5bff05"
+      },
+      {
+        "rank": 5,
+        "title": "This is new ... Claude seems to be not in the mood to do some work",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T23:21:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wvo8h9y5v7kh1.png?width=640&crop=smart&auto=webp&s=2fa84ceb94a63066095f4eba159032feea46bfe8"
+      },
       {
         "rank": 1,
         "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
@@ -16,11 +65,11 @@
       },
       {
         "rank": 2,
-        "title": "Pandas API for DuckDB, PostgreSQL & ClickHouse — keeping computation inside the database[P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsteo6/pandas_api_for_duckdb_postgresql_clickhouse/",
+        "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsnwcv/same_effective_batch_does_not_mean_same_training/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-19T17:39:47.000Z",
+        "publishedAt": "2026-08-19T14:23:22.000Z",
         "category": "reddit"
       },
       {
@@ -33,22 +82,53 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsnwcv/same_effective_batch_does_not_mean_same_training/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "I'm pretty certain, even with Sol-5.6, Fable andOpus-5 we are still here.",
+        "url": "https://www.reddit.com/r/codex/comments/1vs0jar/im_pretty_certain_even_with_sol56_fable_andopus5/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-19T14:23:22.000Z",
+        "publishedAt": "2026-08-18T20:10:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/enBuM2d4aXN4NmtoMd_Aic-QZoDiBQ0OMm3UnE1CozKZK5HHQI_tVKobNUF2.png?width=320&crop=smart&auto=webp&s=a4767fa6458826d5e5a42993c007d9f0828221f2"
+      },
+      {
+        "rank": 2,
+        "title": "No number of resets will fix the revolving door",
+        "url": "https://www.reddit.com/r/codex/comments/1vsgfkd/no_number_of_resets_will_fix_the_revolving_door/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T08:27:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1nirgd37lakh1.jpeg?width=640&crop=smart&auto=webp&s=5d2eeff4c12169fe322596fdbe705c2ba372ad52"
+      },
+      {
+        "rank": 3,
+        "title": "Yeah the Resets were a disguise for the nerfing the limits.",
+        "url": "https://www.reddit.com/r/codex/comments/1vsjn6b/yeah_the_resets_were_a_disguise_for_the_nerfing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T11:24:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/58wxt53sgbkh1.png?width=320&crop=smart&auto=webp&s=67302cd02ca413a040e84ef9881bc095f328211d"
+      },
+      {
+        "rank": 4,
+        "title": "People who believe Tibo has control over anything are the human equivalent of Luna low agents",
+        "url": "https://www.reddit.com/r/codex/comments/1vrzpug/people_who_believe_tibo_has_control_over_anything/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:41:54.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "We got tired of trying 10 ML models every time we had a new dataset [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vst7ad/we_got_tired_of_trying_10_ml_models_every_time_we/",
-        "source": "r/MachineLearning",
+        "title": "Evidence of severe nerf on my 5x pro account",
+        "url": "https://www.reddit.com/r/codex/comments/1vs86k7/evidence_of_severe_nerf_on_my_5x_pro_account/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-19T17:32:34.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-19T01:21:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8curjfdnf8kh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9912b3757c31bec7ca3c7f2d1f4f1f1bfd4d0cd4"
       },
       {
         "rank": 1,
@@ -144,104 +224,6 @@
         "score": 0,
         "publishedAt": "2026-08-18T20:44:05.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic extends 50% limit increase to Aug 31",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:38:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4aqwnxp3s6kh1.jpeg?width=640&crop=smart&auto=webp&s=c2bd4fa2817153594f02c889ae1b231eedfb260f"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic has twice the revenue of OpenAI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsdx5z/anthropic_has_twice_the_revenue_of_openai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T06:02:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b8rut9nxq9kh1.png?width=640&crop=smart&auto=webp&s=c168af8cf94a8464fa3c47d656e3d8d66dc2a97d"
-      },
-      {
-        "rank": 3,
-        "title": "What is happening...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs4ntq/what_is_happening/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T22:50:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "This is new ... Claude seems to be not in the mood to do some work",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T23:21:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wvo8h9y5v7kh1.png?width=640&crop=smart&auto=webp&s=2fa84ceb94a63066095f4eba159032feea46bfe8"
-      },
-      {
-        "rank": 5,
-        "title": "Antrophic Employee said there is \"make a lot of money\" button",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsl6c7/antrophic_employee_said_there_is_make_a_lot_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T12:34:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gug48dvfsbkh1.png?width=640&crop=smart&auto=webp&s=885135f62ed10deec783a3e3f1c04f9dba5bff05"
-      },
-      {
-        "rank": 1,
-        "title": "I'm pretty certain, even with Sol-5.6, Fable andOpus-5 we are still here.",
-        "url": "https://www.reddit.com/r/codex/comments/1vs0jar/im_pretty_certain_even_with_sol56_fable_andopus5/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T20:10:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/enBuM2d4aXN4NmtoMd_Aic-QZoDiBQ0OMm3UnE1CozKZK5HHQI_tVKobNUF2.png?width=320&crop=smart&auto=webp&s=a4767fa6458826d5e5a42993c007d9f0828221f2"
-      },
-      {
-        "rank": 2,
-        "title": "No number of resets will fix the revolving door",
-        "url": "https://www.reddit.com/r/codex/comments/1vsgfkd/no_number_of_resets_will_fix_the_revolving_door/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T08:27:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1nirgd37lakh1.jpeg?width=640&crop=smart&auto=webp&s=5d2eeff4c12169fe322596fdbe705c2ba372ad52"
-      },
-      {
-        "rank": 3,
-        "title": "Yeah the Resets were a disguise for the nerfing the limits.",
-        "url": "https://www.reddit.com/r/codex/comments/1vsjn6b/yeah_the_resets_were_a_disguise_for_the_nerfing/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:24:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/58wxt53sgbkh1.png?width=320&crop=smart&auto=webp&s=67302cd02ca413a040e84ef9881bc095f328211d"
-      },
-      {
-        "rank": 4,
-        "title": "People who believe Tibo has control over anything are the human equivalent of Luna low agents",
-        "url": "https://www.reddit.com/r/codex/comments/1vrzpug/people_who_believe_tibo_has_control_over_anything/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:41:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Evidence of severe nerf on my 5x pro account",
-        "url": "https://www.reddit.com/r/codex/comments/1vs86k7/evidence_of_severe_nerf_on_my_5x_pro_account/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T01:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8curjfdnf8kh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9912b3757c31bec7ca3c7f2d1f4f1f1bfd4d0cd4"
       }
     ]
   }

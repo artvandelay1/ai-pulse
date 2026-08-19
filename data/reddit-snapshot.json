@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T06:52:46.665Z",
+  "fetchedAt": "2026-08-19T07:43:42.319Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,15 @@
       },
       {
         "rank": 2,
+        "title": "how can I learn Machine Learning for Astronomical use? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsfif8/how_can_i_learn_machine_learning_for_astronomical/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T07:32:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
         "source": "r/MachineLearning",
@@ -25,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Embedded spaces inspired on gravity [P][D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vsb2xl/embedded_spaces_inspired_on_gravity_pd/",
         "source": "r/MachineLearning",
@@ -46,16 +55,6 @@
       },
       {
         "rank": 2,
-        "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vrien2/cherokee_nation_bans_hyperscale_data_centers_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:37:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/gNI0BEsKVbve_QxSEkLgiyWLU-4jZmXyiMwQrM_OC4I.jpeg?width=640&crop=smart&auto=webp&s=dc56bceba452a760fd1f6faa6d63492139fb17e4"
-      },
-      {
-        "rank": 3,
         "title": "3M expert used ChatGPT to draft '0% at fault' defense report",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vrkcel/3m_expert_used_chatgpt_to_draft_0_at_fault/",
         "source": "r/OpenAI",
@@ -64,7 +63,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ChatGPT is getting a dedicated mode for teens",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vrn6rt/chatgpt_is_getting_a_dedicated_mode_for_teens/",
         "source": "r/OpenAI",
@@ -74,7 +73,7 @@
         "thumbnail": "https://preview.redd.it/gj0lcw5ii4kh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5adbfe43d2cebe5810472f6d896abf80042b2afb"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "OpenAI paused deployment-bound model training to harden its own research systems",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vrxewz/openai_paused_deploymentbound_model_training_to/",
         "source": "r/OpenAI",
@@ -84,17 +83,16 @@
         "thumbnail": "https://external-preview.redd.it/NxYh1zev5mhL3WMX7KBDTCrt4PlS2Y8U67jqHm3M_o0.jpeg?width=640&crop=smart&auto=webp&s=07a86009623bf72268d6dc5926fc262a2a4efdba"
       },
       {
-        "rank": 1,
-        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vrzb9b/flock_cameras_can_track_every_car_in_america/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vs4twr/openais_secondquarter_sales_show_tepid_growth/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-18T19:27:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/DNXzMYXVPR70Xv7koADq_0Dyh0Sxh4lHv7QpYegxyTE.jpeg?width=640&crop=smart&auto=webp&s=ad3ee1c1d92428b44c5c661689b03c7c9dc97bb9"
+        "publishedAt": "2026-08-18T22:57:13.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Putting money where their mouth is: Anthropic’s Claude autonomously designs disease-targeting proteins with real wet-lab proof, hitting a 35% success rate vs 10–15% human average",
         "url": "https://www.reddit.com/r/singularity/comments/1vs524y/putting_money_where_their_mouth_is_anthropics/",
         "source": "r/singularity",
@@ -102,6 +100,16 @@
         "publishedAt": "2026-08-18T23:06:38.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/MPahe8_2NYX9BQAGQTJbI8VMKgUOK2N5k9ZTf16NCMQ.png?width=140&height=78&auto=webp&s=11245f2de941148120a52dea2546528457e1a533"
+      },
+      {
+        "rank": 2,
+        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vrzb9b/flock_cameras_can_track_every_car_in_america/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:27:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DNXzMYXVPR70Xv7koADq_0Dyh0Sxh4lHv7QpYegxyTE.jpeg?width=640&crop=smart&auto=webp&s=ad3ee1c1d92428b44c5c661689b03c7c9dc97bb9"
       },
       {
         "rank": 3,

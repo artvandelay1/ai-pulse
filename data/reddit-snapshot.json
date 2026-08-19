@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T19:31:11.393Z",
+  "fetchedAt": "2026-08-19T19:55:15.711Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Anthropic extends 50% limit increase to Aug 31",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:38:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4aqwnxp3s6kh1.jpeg?width=640&crop=smart&auto=webp&s=c2bd4fa2817153594f02c889ae1b231eedfb260f"
-      },
-      {
-        "rank": 2,
         "title": "Anthropic has twice the revenue of OpenAI",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsdx5z/anthropic_has_twice_the_revenue_of_openai/",
         "source": "r/ClaudeAI",
@@ -26,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/b8rut9nxq9kh1.png?width=640&crop=smart&auto=webp&s=c168af8cf94a8464fa3c47d656e3d8d66dc2a97d"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "What is happening...",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs4ntq/what_is_happening/",
         "source": "r/ClaudeAI",
@@ -35,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Antrophic Employee said there is \"make a lot of money\" button",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsl6c7/antrophic_employee_said_there_is_make_a_lot_of/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "thumbnail": "https://preview.redd.it/gug48dvfsbkh1.png?width=640&crop=smart&auto=webp&s=885135f62ed10deec783a3e3f1c04f9dba5bff05"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "This is new ... Claude seems to be not in the mood to do some work",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-08-18T23:21:56.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wvo8h9y5v7kh1.png?width=640&crop=smart&auto=webp&s=2fa84ceb94a63066095f4eba159032feea46bfe8"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic gave me a credit I didn’t know I was owed. Thanks Dario.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs1dtq/anthropic_gave_me_a_credit_i_didnt_know_i_was/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T20:41:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ttbq6koc37kh1.jpeg?width=640&crop=smart&auto=webp&s=c8c32ad60800f19a84733fad965f07f1d30a148e"
       },
       {
         "rank": 1,
@@ -65,6 +65,15 @@
       },
       {
         "rank": 2,
+        "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T19:24:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vsnwcv/same_effective_batch_does_not_mean_same_training/",
         "source": "r/MachineLearning",
@@ -73,7 +82,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
         "source": "r/MachineLearning",
@@ -113,15 +122,6 @@
       },
       {
         "rank": 4,
-        "title": "People who believe Tibo has control over anything are the human equivalent of Luna low agents",
-        "url": "https://www.reddit.com/r/codex/comments/1vrzpug/people_who_believe_tibo_has_control_over_anything/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:41:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Evidence of severe nerf on my 5x pro account",
         "url": "https://www.reddit.com/r/codex/comments/1vs86k7/evidence_of_severe_nerf_on_my_5x_pro_account/",
         "source": "r/codex",
@@ -129,6 +129,16 @@
         "publishedAt": "2026-08-19T01:21:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8curjfdnf8kh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9912b3757c31bec7ca3c7f2d1f4f1f1bfd4d0cd4"
+      },
+      {
+        "rank": 5,
+        "title": "twitter is torn",
+        "url": "https://www.reddit.com/r/codex/comments/1vsqx5e/twitter_is_torn/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T16:12:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tp1nic68wckh1.png?width=640&crop=smart&auto=webp&s=8100241d7e325f7fd540a2ff8f9f36da2132505b"
       },
       {
         "rank": 1,

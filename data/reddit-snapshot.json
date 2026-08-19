@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T23:28:09.827Z",
+  "fetchedAt": "2026-08-19T23:51:09.765Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -123,6 +123,15 @@
       },
       {
         "rank": 4,
+        "title": "In 7 Hours and 59 minutes",
+        "url": "https://www.reddit.com/r/codex/comments/1vsxfcg/in_7_hours_and_59_minutes/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T20:02:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "twitter is torn",
         "url": "https://www.reddit.com/r/codex/comments/1vsqx5e/twitter_is_torn/",
         "source": "r/codex",
@@ -130,15 +139,6 @@
         "publishedAt": "2026-08-19T16:12:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tp1nic68wckh1.png?width=640&crop=smart&auto=webp&s=8100241d7e325f7fd540a2ff8f9f36da2132505b"
-      },
-      {
-        "rank": 5,
-        "title": "In 7 Hours and 59 minutes",
-        "url": "https://www.reddit.com/r/codex/comments/1vsxfcg/in_7_hours_and_59_minutes/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T20:02:33.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

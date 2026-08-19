@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T09:39:46.272Z",
+  "fetchedAt": "2026-08-19T10:34:43.365Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "how can I learn Machine Learning for Astronomical use? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsfif8/how_can_i_learn_machine_learning_for_astronomical/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T07:32:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-19T02:07:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "how can I learn Machine Learning for Astronomical use? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsfif8/how_can_i_learn_machine_learning_for_astronomical/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T07:32:45.000Z",
         "category": "reddit"
       },
       {

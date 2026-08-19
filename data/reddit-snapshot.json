@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T11:55:46.112Z",
+  "fetchedAt": "2026-08-19T12:56:08.254Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,68 @@
     "items": [
       {
         "rank": 1,
+        "title": "Anthropic extends 50% limit increase to Aug 31",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:38:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4aqwnxp3s6kh1.jpeg?width=640&crop=smart&auto=webp&s=c2bd4fa2817153594f02c889ae1b231eedfb260f"
+      },
+      {
+        "rank": 2,
+        "title": "What is happening...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs4ntq/what_is_happening/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T22:50:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic has twice the revenue of OpenAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsdx5z/anthropic_has_twice_the_revenue_of_openai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T06:02:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b8rut9nxq9kh1.png?width=640&crop=smart&auto=webp&s=c168af8cf94a8464fa3c47d656e3d8d66dc2a97d"
+      },
+      {
+        "rank": 4,
+        "title": "Reminder: Claude Code's additional 50% weekly usage ends tomorrow",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrvham/reminder_claude_codes_additional_50_weekly_usage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T17:12:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "This is new ... Claude seems to be not in the mood to do some work",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T23:21:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wvo8h9y5v7kh1.png?width=640&crop=smart&auto=webp&s=2fa84ceb94a63066095f4eba159032feea46bfe8"
+      },
+      {
+        "rank": 1,
+        "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T11:22:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-19T02:07:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "High validation accuracy can conceal production risk: Using SHAP to expose and block proxy bias at runtime [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjczl/high_validation_accuracy_can_conceal_production/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:10:08.000Z",
         "category": "reddit"
       },
       {
@@ -30,6 +78,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-19T07:32:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I'm pretty certain, even with Sol-5.6, Fable andOpus-5 we are still here.",
+        "url": "https://www.reddit.com/r/codex/comments/1vs0jar/im_pretty_certain_even_with_sol56_fable_andopus5/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T20:10:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/enBuM2d4aXN4NmtoMd_Aic-QZoDiBQ0OMm3UnE1CozKZK5HHQI_tVKobNUF2.png?width=320&crop=smart&auto=webp&s=a4767fa6458826d5e5a42993c007d9f0828221f2"
+      },
+      {
+        "rank": 2,
+        "title": "I concur.",
+        "url": "https://www.reddit.com/r/codex/comments/1vrtpt9/i_concur/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T16:13:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "No number of resets will fix the revolving door",
+        "url": "https://www.reddit.com/r/codex/comments/1vsgfkd/no_number_of_resets_will_fix_the_revolving_door/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T08:27:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1nirgd37lakh1.jpeg?width=640&crop=smart&auto=webp&s=5d2eeff4c12169fe322596fdbe705c2ba372ad52"
+      },
+      {
+        "rank": 4,
+        "title": "Ho Hum I Wonder If Twitter Is Any Different Than /r/Codex Let's See ... Sips Tea",
+        "url": "https://www.reddit.com/r/codex/comments/1vrre40/ho_hum_i_wonder_if_twitter_is_any_different_than/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T14:51:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a4ephsppc5kh1.png?width=640&crop=smart&auto=webp&s=8d7ec66c8b851b175f2e3cd1d742e48f3341c72c"
+      },
+      {
+        "rank": 5,
+        "title": "People who believe Tibo has control over anything are the human equivalent of Luna low agents",
+        "url": "https://www.reddit.com/r/codex/comments/1vrzpug/people_who_believe_tibo_has_control_over_anything/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-18T19:41:54.000Z",
         "category": "reddit"
       },
       {
@@ -127,101 +223,6 @@
         "score": 0,
         "publishedAt": "2026-08-19T00:04:03.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Week 3 of making my fishing game entirely with AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrjryf/week_3_of_making_my_fishing_game_entirely_with_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T09:00:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dnUwdGE5cGpsM2toMR7UQjt7l7VFBJdUy4nvYCCCX8b2OFGK4UGJbFzjX04K.png?width=640&crop=smart&auto=webp&s=70863b02fa34da4ba10a5dc7b891a8dbae7e1f0b"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic extends 50% limit increase to Aug 31",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrzmx9/anthropic_extends_50_limit_increase_to_aug_31/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:38:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4aqwnxp3s6kh1.jpeg?width=640&crop=smart&auto=webp&s=c2bd4fa2817153594f02c889ae1b231eedfb260f"
-      },
-      {
-        "rank": 3,
-        "title": "Gaslighting Claude with its own Verbal Tics",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrlrud/gaslighting_claude_with_its_own_verbal_tics/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T10:52:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What is happening...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs4ntq/what_is_happening/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T22:50:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Reminder: Claude Code's additional 50% weekly usage ends tomorrow",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vrvham/reminder_claude_codes_additional_50_weekly_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T17:12:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Didn’t realize just changing reasoning effort alone invalidates the cache",
-        "url": "https://www.reddit.com/r/codex/comments/1vribxz/didnt_realize_just_changing_reasoning_effort/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:33:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nta0yusy53kh1.png?width=640&crop=smart&auto=webp&s=ae13a0177c04bc97dc897a29ccefa7c1c0aff04e"
-      },
-      {
-        "rank": 2,
-        "title": "I concur.",
-        "url": "https://www.reddit.com/r/codex/comments/1vrtpt9/i_concur/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T16:13:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I'm pretty certain, even with Sol-5.6, Fable andOpus-5 we are still here.",
-        "url": "https://www.reddit.com/r/codex/comments/1vs0jar/im_pretty_certain_even_with_sol56_fable_andopus5/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T20:10:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/enBuM2d4aXN4NmtoMd_Aic-QZoDiBQ0OMm3UnE1CozKZK5HHQI_tVKobNUF2.png?width=320&crop=smart&auto=webp&s=a4767fa6458826d5e5a42993c007d9f0828221f2"
-      },
-      {
-        "rank": 4,
-        "title": "Is it really legal to sell a subscription service and then reduce it's usage",
-        "url": "https://www.reddit.com/r/codex/comments/1vri68u/is_it_really_legal_to_sell_a_subscription_service/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T07:23:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Ho Hum I Wonder If Twitter Is Any Different Than /r/Codex Let's See ... Sips Tea",
-        "url": "https://www.reddit.com/r/codex/comments/1vrre40/ho_hum_i_wonder_if_twitter_is_any_different_than/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-18T14:51:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a4ephsppc5kh1.png?width=640&crop=smart&auto=webp&s=8d7ec66c8b851b175f2e3cd1d742e48f3341c72c"
       }
     ]
   }

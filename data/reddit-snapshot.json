@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T21:56:09.754Z",
+  "fetchedAt": "2026-08-19T22:30:08.811Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,16 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "This is new ... Claude seems to be not in the mood to do some work",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T23:21:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wvo8h9y5v7kh1.png?width=640&crop=smart&auto=webp&s=2fa84ceb94a63066095f4eba159032feea46bfe8"
-      },
-      {
-        "rank": 5,
         "title": "It's interesting how Claude for Government is so efficient and stable. Meanwhile, the other systems keep having incidents all the time :p",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsw9cy/its_interesting_how_claude_for_government_is_so/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-08-19T19:19:58.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dce7qnnysdkh1.png?width=640&crop=smart&auto=webp&s=5803deafa545a5c5f8e019e03e61b04aa70bdf89"
+      },
+      {
+        "rank": 5,
+        "title": "This is new ... Claude seems to be not in the mood to do some work",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs5f9r/this_is_new_claude_seems_to_be_not_in_the_mood_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T23:21:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wvo8h9y5v7kh1.png?width=640&crop=smart&auto=webp&s=2fa84ceb94a63066095f4eba159032feea46bfe8"
       },
       {
         "rank": 1,

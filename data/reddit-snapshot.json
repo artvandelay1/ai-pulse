@@ -1,10 +1,135 @@
 {
-  "fetchedAt": "2026-08-19T20:34:10.840Z",
+  "fetchedAt": "2026-08-19T21:30:42.984Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T11:22:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T02:07:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T19:24:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "POV: you're born as an AI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vsjxmk/pov_youre_born_as_an_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T11:38:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9f4fxxi9jbkh1.png?width=640&crop=smart&auto=webp&s=072df30138c90c14141900f0db7789519021f654"
+      },
+      {
+        "rank": 2,
+        "title": "Researchers created \"mind viruses\" that spread between AI agents by convincing one agent to adopt an idea then transmit it onwards to other agents.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vsm79t/researchers_created_mind_viruses_that_spread/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T13:18:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/krlgshd41ckh1.png?width=640&crop=smart&auto=webp&s=068ad1bb1f83dbf40ce3e3f2fb37edefef89ab16"
+      },
+      {
+        "rank": 3,
+        "title": "Anyone else having major memory consumption issues?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vshd3w/anyone_else_having_major_memory_consumption_issues/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T09:21:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/88sqr8wruakh1.jpeg?width=640&crop=smart&auto=webp&s=0f393fd85852b628bfcf21dd79a858334b6aae39"
+      },
+      {
+        "rank": 4,
+        "title": "I made a notetaker that runs on your ChatGPT subscription",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vsv6az/i_made_a_notetaker_that_runs_on_your_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T18:41:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/67cq83j5kdkh1.png?width=140&height=94&auto=webp&s=1b3af5875c04941dd9f38800ec0dc17e1b28572b"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vs4twr/openais_secondquarter_sales_show_tepid_growth/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-18T22:57:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Putting money where their mouth is: Anthropic’s Claude autonomously designs disease-targeting proteins with real wet-lab proof, hitting a 35% success rate vs 10–15% human average",
+        "url": "https://www.reddit.com/r/singularity/comments/1vs524y/putting_money_where_their_mouth_is_anthropics/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T23:06:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MPahe8_2NYX9BQAGQTJbI8VMKgUOK2N5k9ZTf16NCMQ.png?width=140&height=78&auto=webp&s=11245f2de941148120a52dea2546528457e1a533"
+      },
+      {
+        "rank": 2,
+        "title": "Moderna stock, $MRNA , surges over +110% after announcing the first ever positive Phase 3 results for a personalized cancer vaccine.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vso1mh/moderna_stock_mrna_surges_over_110_after/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-19T14:28:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3oo9ws3pdckh1.png?width=140&height=140&auto=webp&s=ea16682e0ac7be1e06c4d5abfdc4e13bd5d690aa"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic working on Claude autonomously designing drugs.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vs6f13/anthropic_working_on_claude_autonomously/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-19T00:04:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "GLM-5.3 achieves 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 and up 7 points from GLM-5.2. Once the weights are released it will be tied as the leading open weights model",
+        "url": "https://www.reddit.com/r/singularity/comments/1vs5q84/glm53_achieves_60_on_the_artificial_analysis/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-18T23:34:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/izhzd1w4y7kh1.jpeg?width=640&crop=smart&auto=webp&s=ce526bc36527d7faa9a27f3f910ee57bc08f9269"
+      },
+      {
+        "rank": 5,
+        "title": "Humanoids robots are getting ready for the WHRG'26 opening this Saturday",
+        "url": "https://www.reddit.com/r/singularity/comments/1vskah7/humanoids_robots_are_getting_ready_for_the_whrg26/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-19T11:55:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Zmlqc2M4cWFtYmtoMVqFNzIarUSuRJZp1EN-jVud6fgyEJ__egty0lBpKwk8.png?width=640&crop=smart&auto=webp&s=d766b1a82f3f8db395789bb8da177f95d9abe29d"
+      },
       {
         "rank": 1,
         "title": "Anthropic has twice the revenue of OpenAI",
@@ -56,33 +181,6 @@
       },
       {
         "rank": 1,
-        "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:22:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T19:24:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ICONIP 2026 — what happens if the sole author cannot attend in person? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vs96rm/iconip_2026_what_happens_if_the_sole_author/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T02:07:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "No number of resets will fix the revolving door",
         "url": "https://www.reddit.com/r/codex/comments/1vsgfkd/no_number_of_resets_will_fix_the_revolving_door/",
         "source": "r/codex",
@@ -130,101 +228,6 @@
         "publishedAt": "2026-08-19T13:14:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/x7ib59410ckh1.png?width=320&crop=smart&auto=webp&s=d32eac2916b9f8c0e5bbca64cb12eadeb789aa71"
-      },
-      {
-        "rank": 1,
-        "title": "POV: you're born as an AI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vsjxmk/pov_youre_born_as_an_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:38:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9f4fxxi9jbkh1.png?width=640&crop=smart&auto=webp&s=072df30138c90c14141900f0db7789519021f654"
-      },
-      {
-        "rank": 2,
-        "title": "Researchers created \"mind viruses\" that spread between AI agents by convincing one agent to adopt an idea then transmit it onwards to other agents.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vsm79t/researchers_created_mind_viruses_that_spread/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T13:18:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/krlgshd41ckh1.png?width=640&crop=smart&auto=webp&s=068ad1bb1f83dbf40ce3e3f2fb37edefef89ab16"
-      },
-      {
-        "rank": 3,
-        "title": "Anyone else having major memory consumption issues?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vshd3w/anyone_else_having_major_memory_consumption_issues/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T09:21:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/88sqr8wruakh1.jpeg?width=640&crop=smart&auto=webp&s=0f393fd85852b628bfcf21dd79a858334b6aae39"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI’s Second-Quarter Sales Show Tepid Growth Compared With Anthropic",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vs4twr/openais_secondquarter_sales_show_tepid_growth/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-18T22:57:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Chatgpt or Gemini?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vsls8k/chatgpt_or_gemini/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T13:01:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Putting money where their mouth is: Anthropic’s Claude autonomously designs disease-targeting proteins with real wet-lab proof, hitting a 35% success rate vs 10–15% human average",
-        "url": "https://www.reddit.com/r/singularity/comments/1vs524y/putting_money_where_their_mouth_is_anthropics/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T23:06:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MPahe8_2NYX9BQAGQTJbI8VMKgUOK2N5k9ZTf16NCMQ.png?width=140&height=78&auto=webp&s=11245f2de941148120a52dea2546528457e1a533"
-      },
-      {
-        "rank": 2,
-        "title": "Moderna stock, $MRNA , surges over +110% after announcing the first ever positive Phase 3 results for a personalized cancer vaccine.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vso1mh/moderna_stock_mrna_surges_over_110_after/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-19T14:28:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3oo9ws3pdckh1.png?width=140&height=140&auto=webp&s=ea16682e0ac7be1e06c4d5abfdc4e13bd5d690aa"
-      },
-      {
-        "rank": 3,
-        "title": "Explanation from @sama on RL training pause: \"Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vrz27g/explanation_from_sama_on_rl_training_pause_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T19:18:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic working on Claude autonomously designing drugs.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vs6f13/anthropic_working_on_claude_autonomously/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-19T00:04:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI is slowing down its AI training efforts because its unreleased models are showing “various degrees of misalignment\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vs1fu9/openai_is_slowing_down_its_ai_training_efforts/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-18T20:44:05.000Z",
-        "category": "reddit"
       }
     ]
   }

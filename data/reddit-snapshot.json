@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T15:08:07.561Z",
+  "fetchedAt": "2026-08-20T16:02:14.467Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "This is letting Claude handle a good amount of money for a month...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:35:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGdjM3owc3VqamtoMQN1Qxve1CarMWQVmvq1_XE9jgNv2pAeV5ng0EMU671w.png?width=640&crop=smart&auto=webp&s=4dd9d303ff9bc1a4e59ae30fddc256151853218f"
+      },
+      {
+        "rank": 3,
         "title": "Claude says I used 54.9 BILLION tokens.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtctj3/claude_says_i_used_549_billion_tokens/",
         "source": "r/ClaudeAI",
@@ -26,7 +36,7 @@
         "thumbnail": "https://preview.redd.it/9yus2zrrhhkh1.png?width=640&crop=smart&auto=webp&s=9c18e81ce3a8eb0f3f35cc3f8962f92c6a30b27d"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Give Back Claude’s ‘Thought Process’",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsztvg/give_back_claudes_thought_process/",
         "source": "r/ClaudeAI",
@@ -36,23 +46,13 @@
         "thumbnail": "https://preview.redd.it/g34qmbz5hekh1.jpeg?width=640&crop=smart&auto=webp&s=1deae65ef6e7f7ed99d82690251cf23ab21ab9de"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Show us what you've created with Claude!",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vt249k/show_us_what_youve_created_with_claude/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-19T23:02:02.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "One Claude Code skill pushed DeepSeek V4 Flash from 67.42% to 82.02%",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vst0hm/one_claude_code_skill_pushed_deepseek_v4_flash/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T17:26:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i7i6qsmn8dkh1.png?width=640&crop=smart&auto=webp&s=57bd56130d33b56bbac36875655a050ca4f55639"
       },
       {
         "rank": 1,
@@ -139,11 +139,11 @@
       },
       {
         "rank": 5,
-        "title": "if the usage situation isn't fixed i think i might drop codex after 1 year of $200 / month",
-        "url": "https://www.reddit.com/r/codex/comments/1vtbdja/if_the_usage_situation_isnt_fixed_i_think_i_might/",
+        "title": "Is the Usage limit nerfed?",
+        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-20T06:19:19.000Z",
+        "publishedAt": "2026-08-20T13:04:50.000Z",
         "category": "reddit"
       },
       {

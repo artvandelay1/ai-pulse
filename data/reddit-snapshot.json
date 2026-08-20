@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T10:36:42.366Z",
+  "fetchedAt": "2026-08-20T11:31:43.289Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T21:30:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/",
         "source": "r/MachineLearning",
@@ -24,21 +15,30 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
+        "rank": 2,
+        "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-19T11:22:50.000Z",
+        "publishedAt": "2026-08-19T21:30:26.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "About the impact of grouping classes in multiclass classification [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtctaz/about_the_impact_of_grouping_classes_in/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-20T07:42:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-20T10:20:47.000Z",
         "category": "reddit"
       },
       {

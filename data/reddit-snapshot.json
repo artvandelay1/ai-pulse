@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T11:31:43.289Z",
+  "fetchedAt": "2026-08-20T11:58:46.191Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -43,25 +43,15 @@
       },
       {
         "rank": 5,
-        "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
+        "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-19T19:24:12.000Z",
+        "publishedAt": "2026-08-20T11:31:12.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "POV: you're born as an AI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vsjxmk/pov_youre_born_as_an_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:38:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9f4fxxi9jbkh1.png?width=640&crop=smart&auto=webp&s=072df30138c90c14141900f0db7789519021f654"
-      },
-      {
-        "rank": 2,
         "title": "New age insults",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vt8210/new_age_insults/",
         "source": "r/OpenAI",
@@ -71,7 +61,7 @@
         "thumbnail": "https://preview.redd.it/vzmg9pe58gkh1.jpeg?width=640&crop=smart&auto=webp&s=d8f1f4ae110c3957e0c2d2b8ea6ad4e3945df0d7"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Researchers created \"mind viruses\" that spread between AI agents by convincing one agent to adopt an idea then transmit it onwards to other agents.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vsm79t/researchers_created_mind_viruses_that_spread/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/krlgshd41ckh1.png?width=640&crop=smart&auto=webp&s=068ad1bb1f83dbf40ce3e3f2fb37edefef89ab16"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I made a notetaker that runs on your ChatGPT subscription",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vsv6az/i_made_a_notetaker_that_runs_on_your_chatgpt/",
         "source": "r/OpenAI",
@@ -91,12 +81,21 @@
         "thumbnail": "https://preview.redd.it/67cq83j5kdkh1.png?width=140&height=94&auto=webp&s=1b3af5875c04941dd9f38800ec0dc17e1b28572b"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Voice mode got weird",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vsvhfv/voice_mode_got_weird/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-19T18:52:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Chatgpt or Gemini?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vsls8k/chatgpt_or_gemini/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T13:01:10.000Z",
         "category": "reddit"
       },
       {
@@ -121,16 +120,6 @@
       },
       {
         "rank": 3,
-        "title": "Humanoids robots are getting ready for the WHRG'26 opening this Saturday",
-        "url": "https://www.reddit.com/r/singularity/comments/1vskah7/humanoids_robots_are_getting_ready_for_the_whrg26/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:55:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Zmlqc2M4cWFtYmtoMVqFNzIarUSuRJZp1EN-jVud6fgyEJ__egty0lBpKwk8.png?width=640&crop=smart&auto=webp&s=d766b1a82f3f8db395789bb8da177f95d9abe29d"
-      },
-      {
-        "rank": 4,
         "title": "Stripe says \"the singularity\" has begun",
         "url": "https://www.reddit.com/r/singularity/comments/1vsvdai/stripe_says_the_singularity_has_begun/",
         "source": "r/singularity",
@@ -140,7 +129,7 @@
         "thumbnail": "https://external-preview.redd.it/a8WfEcw2UnP44MOYY8WBUi21RR4CuD2tGlbx0rTyIgI.jpeg?width=640&crop=smart&auto=webp&s=05b7955d0a053bcf2fe88761786da0e86b6abe6c"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Exclusive: GOP issues stark warning to AI companies",
         "url": "https://www.reddit.com/r/singularity/comments/1vspc13/exclusive_gop_issues_stark_warning_to_ai_companies/",
         "source": "r/singularity",
@@ -148,6 +137,15 @@
         "publishedAt": "2026-08-19T15:15:50.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Tw6xM5OaK6WfFez3WgFyQ_vhMeEH3WXZ95pcgkPqFXY.jpeg?width=640&crop=smart&auto=webp&s=3a8631e1ad04f90624aab595548df9afd445c0bc"
+      },
+      {
+        "rank": 5,
+        "title": "AI models are becoming unbearable to Talk to",
+        "url": "https://www.reddit.com/r/singularity/comments/1vspuf2/ai_models_are_becoming_unbearable_to_talk_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-19T15:34:36.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T13:03:45.517Z",
+  "fetchedAt": "2026-08-20T14:10:42.938Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -62,16 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "Researchers created \"mind viruses\" that spread between AI agents by convincing one agent to adopt an idea then transmit it onwards to other agents.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vsm79t/researchers_created_mind_viruses_that_spread/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T13:18:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/krlgshd41ckh1.png?width=640&crop=smart&auto=webp&s=068ad1bb1f83dbf40ce3e3f2fb37edefef89ab16"
-      },
-      {
-        "rank": 3,
         "title": "I made a notetaker that runs on your ChatGPT subscription",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vsv6az/i_made_a_notetaker_that_runs_on_your_chatgpt/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/67cq83j5kdkh1.png?width=140&height=94&auto=webp&s=1b3af5875c04941dd9f38800ec0dc17e1b28572b"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Voice mode got weird",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vsvhfv/voice_mode_got_weird/",
         "source": "r/OpenAI",
@@ -90,7 +80,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "ChatGPT is down",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vt3zig/chatgpt_is_down/",
         "source": "r/OpenAI",
@@ -98,6 +88,16 @@
         "publishedAt": "2026-08-20T00:20:26.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jieni507bfkh1.png?width=640&crop=smart&auto=webp&s=bf02feb3bbdcae55c5ecaaa6e5c8e082b4ca0e43"
+      },
+      {
+        "rank": 5,
+        "title": "If AI Makes Us More Creative, Why Does Everything Look the Same? (A Painter’s Perspective)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vtej9j/if_ai_makes_us_more_creative_why_does_everything/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T09:25:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nenoxqzf0ikh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b18da78ed263f669b5b586339e42591c7263fa29"
       },
       {
         "rank": 1,
@@ -131,6 +131,16 @@
       },
       {
         "rank": 4,
+        "title": "DaxAI's all terrain robot-horse debuts at WRC'26: 100Km/10h autonomy, 300Kg max load, 40Km/h max speed",
+        "url": "https://www.reddit.com/r/singularity/comments/1vthwpm/daxais_all_terrain_robothorse_debuts_at_wrc26/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-20T12:18:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cXM3dDloeGJ2aWtoMdnVuKkgsQ2zAedDwLAqLkpOn3nnegyQNauaWKXGumgv.png?width=320&crop=smart&auto=webp&s=f8f7da83025b91e5afdea449af448170c2784cb7"
+      },
+      {
+        "rank": 5,
         "title": "Exclusive: GOP issues stark warning to AI companies",
         "url": "https://www.reddit.com/r/singularity/comments/1vspc13/exclusive_gop_issues_stark_warning_to_ai_companies/",
         "source": "r/singularity",
@@ -138,15 +148,6 @@
         "publishedAt": "2026-08-19T15:15:50.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Tw6xM5OaK6WfFez3WgFyQ_vhMeEH3WXZ95pcgkPqFXY.jpeg?width=640&crop=smart&auto=webp&s=3a8631e1ad04f90624aab595548df9afd445c0bc"
-      },
-      {
-        "rank": 5,
-        "title": "AI models are becoming unbearable to Talk to",
-        "url": "https://www.reddit.com/r/singularity/comments/1vspuf2/ai_models_are_becoming_unbearable_to_talk_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-19T15:34:36.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

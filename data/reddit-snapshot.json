@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T22:32:47.570Z",
+  "fetchedAt": "2026-08-20T23:30:48.422Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -71,16 +71,6 @@
       },
       {
         "rank": 3,
-        "title": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps | The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vtmjf7/a_deluge_of_ai_computing_power_is_about_to_come/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T15:24:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/kWqSHSFA6HtUHQH4Qgo2uXOdcWxlXwl7EkfzdxFAI00.jpeg?width=640&crop=smart&auto=webp&s=256f4e34f0ef6ee5e72e5f50d654f558a83980ea"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI growing faster than Anthropic this quarter - Ramp data shows",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vtwi5u/openai_growing_faster_than_anthropic_this_quarter/",
         "source": "r/OpenAI",
@@ -90,14 +80,24 @@
         "thumbnail": "https://preview.redd.it/qfgm6pddklkh1.jpeg?width=640&crop=smart&auto=webp&s=aeed594d83207b80595d843a4e618a1a6d7f7888"
       },
       {
-        "rank": 5,
-        "title": "ChatGPT is down",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vt3zig/chatgpt_is_down/",
+        "rank": 4,
+        "title": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps | The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vtmjf7/a_deluge_of_ai_computing_power_is_about_to_come/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-20T00:20:26.000Z",
+        "publishedAt": "2026-08-20T15:24:02.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jieni507bfkh1.png?width=640&crop=smart&auto=webp&s=bf02feb3bbdcae55c5ecaaa6e5c8e082b4ca0e43"
+        "thumbnail": "https://external-preview.redd.it/kWqSHSFA6HtUHQH4Qgo2uXOdcWxlXwl7EkfzdxFAI00.jpeg?width=640&crop=smart&auto=webp&s=256f4e34f0ef6ee5e72e5f50d654f558a83980ea"
+      },
+      {
+        "rank": 5,
+        "title": "If AI Makes Us More Creative, Why Does Everything Look the Same? (A Painter’s Perspective)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vtej9j/if_ai_makes_us_more_creative_why_does_everything/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T09:25:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nenoxqzf0ikh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b18da78ed263f669b5b586339e42591c7263fa29"
       },
       {
         "rank": 1,
@@ -111,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "DaxAI's all terrain robot-horse debuts at WRC'26: 100Km/10h autonomy, 300Kg max load, 40Km/h max speed",
-        "url": "https://www.reddit.com/r/singularity/comments/1vthwpm/daxais_all_terrain_robothorse_debuts_at_wrc26/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-20T12:18:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cXM3dDloeGJ2aWtoMdnVuKkgsQ2zAedDwLAqLkpOn3nnegyQNauaWKXGumgv.png?width=320&crop=smart&auto=webp&s=f8f7da83025b91e5afdea449af448170c2784cb7"
-      },
-      {
-        "rank": 3,
         "title": "Another crash during practices ahead of the Worldwide Humanoid Robot Games",
         "url": "https://www.reddit.com/r/singularity/comments/1vtqssh/another_crash_during_practices_ahead_of_the/",
         "source": "r/singularity",
@@ -128,6 +118,16 @@
         "publishedAt": "2026-08-20T17:58:11.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/amduMW14Ynlqa2toMY4UplV-nIbKaqj64i4dk9CP8PS8XaBLk3QZUWNxMIqM.png?width=320&crop=smart&auto=webp&s=72d106d6dfa85b6882fbc63f6e1492963b507d9b"
+      },
+      {
+        "rank": 3,
+        "title": "DaxAI's all terrain robot-horse debuts at WRC'26: 100Km/10h autonomy, 300Kg max load, 40Km/h max speed",
+        "url": "https://www.reddit.com/r/singularity/comments/1vthwpm/daxais_all_terrain_robothorse_debuts_at_wrc26/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-20T12:18:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cXM3dDloeGJ2aWtoMdnVuKkgsQ2zAedDwLAqLkpOn3nnegyQNauaWKXGumgv.png?width=320&crop=smart&auto=webp&s=f8f7da83025b91e5afdea449af448170c2784cb7"
       },
       {
         "rank": 4,

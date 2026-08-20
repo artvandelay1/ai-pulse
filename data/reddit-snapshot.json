@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T23:51:09.765Z",
+  "fetchedAt": "2026-08-20T01:27:07.897Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -47,30 +47,30 @@
       },
       {
         "rank": 5,
-        "title": "The absolute insanity of comments in Opus 5.0 is killing me",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vs7cdt/the_absolute_insanity_of_comments_in_opus_50_is/",
+        "title": "I brought an ancient Zen book to life with Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vscycu/i_brought_an_ancient_zen_book_to_life_with_claude/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-19T00:44:08.000Z",
+        "publishedAt": "2026-08-19T05:10:32.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/teneqp3aa8kh1.png?width=640&crop=smart&auto=webp&s=6b68033fdc1dcac8d1add247658dadf504716057"
+        "thumbnail": "https://external-preview.redd.it/NXV1emg5czRnOWtoMYujf0CxGB7qRM52mDNDWilMg1ECokJZMx1KvWNBpW-N.png?width=640&crop=smart&auto=webp&s=04161b61e7e460d5d7ed54d9720c4caac21786f8"
       },
       {
         "rank": 1,
-        "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:22:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-19T21:30:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-19T11:22:50.000Z",
         "category": "reddit"
       },
       {
@@ -113,16 +113,6 @@
       },
       {
         "rank": 3,
-        "title": "Evidence of severe nerf on my 5x pro account",
-        "url": "https://www.reddit.com/r/codex/comments/1vs86k7/evidence_of_severe_nerf_on_my_5x_pro_account/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T01:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8curjfdnf8kh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9912b3757c31bec7ca3c7f2d1f4f1f1bfd4d0cd4"
-      },
-      {
-        "rank": 4,
         "title": "In 7 Hours and 59 minutes",
         "url": "https://www.reddit.com/r/codex/comments/1vsxfcg/in_7_hours_and_59_minutes/",
         "source": "r/codex",
@@ -131,7 +121,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "twitter is torn",
         "url": "https://www.reddit.com/r/codex/comments/1vsqx5e/twitter_is_torn/",
         "source": "r/codex",
@@ -139,6 +129,15 @@
         "publishedAt": "2026-08-19T16:12:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tp1nic68wckh1.png?width=640&crop=smart&auto=webp&s=8100241d7e325f7fd540a2ff8f9f36da2132505b"
+      },
+      {
+        "rank": 5,
+        "title": "The Codex/ClaudeCode gap is growing",
+        "url": "https://www.reddit.com/r/codex/comments/1vt0885/the_codexclaudecode_gap_is_growing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T21:47:09.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

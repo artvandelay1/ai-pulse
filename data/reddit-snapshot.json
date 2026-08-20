@@ -1,60 +1,10 @@
 {
-  "fetchedAt": "2026-08-20T06:55:10.733Z",
+  "fetchedAt": "2026-08-20T07:45:45.965Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Antrophic Employee said there is \"make a lot of money\" button",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsl6c7/antrophic_employee_said_there_is_make_a_lot_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T12:34:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gug48dvfsbkh1.png?width=640&crop=smart&auto=webp&s=885135f62ed10deec783a3e3f1c04f9dba5bff05"
-      },
-      {
-        "rank": 2,
-        "title": "Claude Sonnet 5 shifts behavior when it recognizes the user as an AI safety researcher",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vst16y/claude_sonnet_5_shifts_behavior_when_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T17:26:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YMZuYuPm5r0ynqkRwK1dnCNwvbadYrxYnvNvntj2mIM.png?width=640&crop=smart&auto=webp&s=e149d0e0a3eaf7acfe210babf9732a954502abbe"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic’s Project Parka sits through meetings and assigns Claude agents the homework",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsgxgn/anthropics_project_parka_sits_through_meetings/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T08:56:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/wJcGzLus6On3tj0JmlTOhbVuG9HC36UpdghuzC9o5BA.jpeg?width=640&crop=smart&auto=webp&s=dcf3452d15ccfea80d03477b9d9447484a6c70ce"
-      },
-      {
-        "rank": 4,
-        "title": "I hooked Claude Cowork up to an iPhone Home Screen widget",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsg9p0/i_hooked_claude_cowork_up_to_an_iphone_home/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T08:17:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7ibl6sdhjakh1.jpeg?width=640&crop=smart&auto=webp&s=f97c011d5ad961dcf89cad0632033c2c2d37d544"
-      },
-      {
-        "rank": 5,
-        "title": "Give Back Claude’s ‘Thought Process’",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsztvg/give_back_claudes_thought_process/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T21:31:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g34qmbz5hekh1.jpeg?width=640&crop=smart&auto=webp&s=1deae65ef6e7f7ed99d82690251cf23ab21ab9de"
-      },
       {
         "rank": 1,
         "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
@@ -81,54 +31,6 @@
         "score": 0,
         "publishedAt": "2026-08-19T19:24:12.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "No number of resets will fix the revolving door",
-        "url": "https://www.reddit.com/r/codex/comments/1vsgfkd/no_number_of_resets_will_fix_the_revolving_door/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T08:27:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1nirgd37lakh1.jpeg?width=640&crop=smart&auto=webp&s=5d2eeff4c12169fe322596fdbe705c2ba372ad52"
-      },
-      {
-        "rank": 2,
-        "title": "Yeah the Resets were a disguise for the nerfing the limits.",
-        "url": "https://www.reddit.com/r/codex/comments/1vsjn6b/yeah_the_resets_were_a_disguise_for_the_nerfing/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T11:24:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/58wxt53sgbkh1.png?width=320&crop=smart&auto=webp&s=67302cd02ca413a040e84ef9881bc095f328211d"
-      },
-      {
-        "rank": 3,
-        "title": "The Codex/ClaudeCode gap is growing",
-        "url": "https://www.reddit.com/r/codex/comments/1vt0885/the_codexclaudecode_gap_is_growing/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T21:47:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "In 7 Hours and 59 minutes",
-        "url": "https://www.reddit.com/r/codex/comments/1vsxfcg/in_7_hours_and_59_minutes/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T20:02:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "twitter is torn",
-        "url": "https://www.reddit.com/r/codex/comments/1vsqx5e/twitter_is_torn/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-19T16:12:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tp1nic68wckh1.png?width=640&crop=smart&auto=webp&s=8100241d7e325f7fd540a2ff8f9f36da2132505b"
       },
       {
         "rank": 1,
@@ -229,6 +131,104 @@
         "publishedAt": "2026-08-19T15:15:50.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Tw6xM5OaK6WfFez3WgFyQ_vhMeEH3WXZ95pcgkPqFXY.jpeg?width=640&crop=smart&auto=webp&s=3a8631e1ad04f90624aab595548df9afd445c0bc"
+      },
+      {
+        "rank": 1,
+        "title": "Antrophic Employee said there is \"make a lot of money\" button",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsl6c7/antrophic_employee_said_there_is_make_a_lot_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T12:34:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gug48dvfsbkh1.png?width=640&crop=smart&auto=webp&s=885135f62ed10deec783a3e3f1c04f9dba5bff05"
+      },
+      {
+        "rank": 2,
+        "title": "Claude Sonnet 5 shifts behavior when it recognizes the user as an AI safety researcher",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vst16y/claude_sonnet_5_shifts_behavior_when_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T17:26:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YMZuYuPm5r0ynqkRwK1dnCNwvbadYrxYnvNvntj2mIM.png?width=640&crop=smart&auto=webp&s=e149d0e0a3eaf7acfe210babf9732a954502abbe"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic’s Project Parka sits through meetings and assigns Claude agents the homework",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsgxgn/anthropics_project_parka_sits_through_meetings/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T08:56:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/wJcGzLus6On3tj0JmlTOhbVuG9HC36UpdghuzC9o5BA.jpeg?width=640&crop=smart&auto=webp&s=dcf3452d15ccfea80d03477b9d9447484a6c70ce"
+      },
+      {
+        "rank": 4,
+        "title": "I hooked Claude Cowork up to an iPhone Home Screen widget",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsg9p0/i_hooked_claude_cowork_up_to_an_iphone_home/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T08:17:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7ibl6sdhjakh1.jpeg?width=640&crop=smart&auto=webp&s=f97c011d5ad961dcf89cad0632033c2c2d37d544"
+      },
+      {
+        "rank": 5,
+        "title": "Give Back Claude’s ‘Thought Process’",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vsztvg/give_back_claudes_thought_process/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-19T21:31:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/g34qmbz5hekh1.jpeg?width=640&crop=smart&auto=webp&s=1deae65ef6e7f7ed99d82690251cf23ab21ab9de"
+      },
+      {
+        "rank": 1,
+        "title": "No number of resets will fix the revolving door",
+        "url": "https://www.reddit.com/r/codex/comments/1vsgfkd/no_number_of_resets_will_fix_the_revolving_door/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T08:27:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1nirgd37lakh1.jpeg?width=640&crop=smart&auto=webp&s=5d2eeff4c12169fe322596fdbe705c2ba372ad52"
+      },
+      {
+        "rank": 2,
+        "title": "Yeah the Resets were a disguise for the nerfing the limits.",
+        "url": "https://www.reddit.com/r/codex/comments/1vsjn6b/yeah_the_resets_were_a_disguise_for_the_nerfing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T11:24:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/58wxt53sgbkh1.png?width=320&crop=smart&auto=webp&s=67302cd02ca413a040e84ef9881bc095f328211d"
+      },
+      {
+        "rank": 3,
+        "title": "The Codex/ClaudeCode gap is growing",
+        "url": "https://www.reddit.com/r/codex/comments/1vt0885/the_codexclaudecode_gap_is_growing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T21:47:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "In 7 Hours and 59 minutes",
+        "url": "https://www.reddit.com/r/codex/comments/1vsxfcg/in_7_hours_and_59_minutes/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T20:02:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "twitter is torn",
+        "url": "https://www.reddit.com/r/codex/comments/1vsqx5e/twitter_is_torn/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-19T16:12:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tp1nic68wckh1.png?width=640&crop=smart&auto=webp&s=8100241d7e325f7fd540a2ff8f9f36da2132505b"
       }
     ]
   }

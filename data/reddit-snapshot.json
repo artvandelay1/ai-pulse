@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T11:58:46.191Z",
+  "fetchedAt": "2026-08-20T13:03:45.517Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -91,12 +91,13 @@
       },
       {
         "rank": 5,
-        "title": "Chatgpt or Gemini?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vsls8k/chatgpt_or_gemini/",
+        "title": "ChatGPT is down",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vt3zig/chatgpt_is_down/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-19T13:01:10.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-20T00:20:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jieni507bfkh1.png?width=640&crop=smart&auto=webp&s=bf02feb3bbdcae55c5ecaaa6e5c8e082b4ca0e43"
       },
       {
         "rank": 1,

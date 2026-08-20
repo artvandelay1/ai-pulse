@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T18:46:47.013Z",
+  "fetchedAt": "2026-08-20T19:36:47.529Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -71,15 +71,6 @@
       },
       {
         "rank": 3,
-        "title": "Voice mode got weird",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vsvhfv/voice_mode_got_weird/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-19T18:52:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps | The number of A.I. chips that provide the computing power to advance the fast-evolving technology is doubling every nine months.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vtmjf7/a_deluge_of_ai_computing_power_is_about_to_come/",
         "source": "r/OpenAI",
@@ -89,7 +80,7 @@
         "thumbnail": "https://external-preview.redd.it/kWqSHSFA6HtUHQH4Qgo2uXOdcWxlXwl7EkfzdxFAI00.jpeg?width=640&crop=smart&auto=webp&s=256f4e34f0ef6ee5e72e5f50d654f558a83980ea"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "If AI Makes Us More Creative, Why Does Everything Look the Same? (A Painter’s Perspective)",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vtej9j/if_ai_makes_us_more_creative_why_does_everything/",
         "source": "r/OpenAI",
@@ -97,6 +88,16 @@
         "publishedAt": "2026-08-20T09:25:56.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/nenoxqzf0ikh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b18da78ed263f669b5b586339e42591c7263fa29"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT is down",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vt3zig/chatgpt_is_down/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T00:20:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jieni507bfkh1.png?width=640&crop=smart&auto=webp&s=bf02feb3bbdcae55c5ecaaa6e5c8e082b4ca0e43"
       },
       {
         "rank": 1,
@@ -120,16 +121,6 @@
       },
       {
         "rank": 3,
-        "title": "Stripe says \"the singularity\" has begun",
-        "url": "https://www.reddit.com/r/singularity/comments/1vsvdai/stripe_says_the_singularity_has_begun/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-19T18:48:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/a8WfEcw2UnP44MOYY8WBUi21RR4CuD2tGlbx0rTyIgI.jpeg?width=640&crop=smart&auto=webp&s=05b7955d0a053bcf2fe88761786da0e86b6abe6c"
-      },
-      {
-        "rank": 4,
         "title": "AI is finally curing cancer",
         "url": "https://www.reddit.com/r/singularity/comments/1vtqalk/ai_is_finally_curing_cancer/",
         "source": "r/singularity",
@@ -139,7 +130,7 @@
         "thumbnail": "https://preview.redd.it/c0oma57ogkkh1.jpeg?width=640&crop=smart&auto=webp&s=cf7d49ea365a52efcececbed0c499d0183663619"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Another crash during practices ahead of the Worldwide Humanoid Robot Games",
         "url": "https://www.reddit.com/r/singularity/comments/1vtqssh/another_crash_during_practices_ahead_of_the/",
         "source": "r/singularity",
@@ -147,6 +138,15 @@
         "publishedAt": "2026-08-20T17:58:11.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/amduMW14Ynlqa2toMY4UplV-nIbKaqj64i4dk9CP8PS8XaBLk3QZUWNxMIqM.png?width=320&crop=smart&auto=webp&s=72d106d6dfa85b6882fbc63f6e1492963b507d9b"
+      },
+      {
+        "rank": 5,
+        "title": "Moderna’s new cancer vaccine (mRNA-4157) is basically an AWS cloud pipeline that \"compiles\" a custom drug for your specific tumor.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vtozgt/modernas_new_cancer_vaccine_mrna4157_is_basically/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-20T16:52:28.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

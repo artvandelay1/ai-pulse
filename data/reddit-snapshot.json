@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T07:45:45.965Z",
+  "fetchedAt": "2026-08-20T08:44:42.529Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,15 @@
       },
       {
         "rank": 3,
+        "title": "About the impact of grouping classes in multiclass classification [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtctaz/about_the_impact_of_grouping_classes_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-20T07:42:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
         "source": "r/MachineLearning",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T12:57:09.135Z",
+  "fetchedAt": "2026-08-21T13:51:09.559Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,16 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "How big of a difference do you think it’s going to make on token consumption?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtjif5/how_big_of_a_difference_do_you_think_its_going_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:27:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ve5bfevm7jkh1.jpeg?width=640&crop=smart&auto=webp&s=86285043e7009181208c1ebd58935ad9955c3500"
-      },
-      {
-        "rank": 5,
         "title": "Well played, Claude",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu8ru9/well_played_claude/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,15 @@
         "publishedAt": "2026-08-21T06:53:10.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/14b2nly0eokh1.png?width=140&height=112&auto=webp&s=215a74c9808a066cd5aa23419f6f663032ad699c"
+      },
+      {
+        "rank": 5,
+        "title": "PSA: a malicious published Claude artifact is ranking on Google for Claude Code install queries — it installed a macOS infostealer on my Mac",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtmkft/psa_a_malicious_published_claude_artifact_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T15:25:07.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -83,15 +82,6 @@
       },
       {
         "rank": 4,
-        "title": "Mapping intrinsic rank and informational gravity in complex tabular data: I developed a non-parametric, model-agnostic, information-theoretic diagnostic to bypass the limits of linear, rank, and Euclidean baselines. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtjotb/mapping_intrinsic_rank_and_informational_gravity/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:34:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Is KV Cache in a high dimensional vector space? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d/",
         "source": "r/MachineLearning",
@@ -111,21 +101,22 @@
       },
       {
         "rank": 2,
-        "title": "Is the Usage limit nerfed?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:04:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "my 20x is draining like it's 5x wtf happened this week",
         "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-20T19:50:17.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Tibo!!! Banked one for all ... soon...",
+        "url": "https://www.reddit.com/r/codex/comments/1vue1og/tibo_banked_one_for_all_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T11:44:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/av1grut9upkh1.jpeg?width=640&crop=smart&auto=webp&s=0394f6750c17fce98795ee2e3900390334fab7fd"
       },
       {
         "rank": 4,

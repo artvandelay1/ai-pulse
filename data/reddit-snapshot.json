@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T08:08:42.644Z",
+  "fetchedAt": "2026-08-21T09:10:43.795Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-20T08:37:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
         "source": "r/MachineLearning",
@@ -33,12 +24,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "EMNLP 2026 Findings : worth attending in person?[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-21T07:04:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Notes on Hamiltonian Monte Carlo from a purely probabilistic perspective [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtvaue/notes_on_hamiltonian_monte_carlo_from_a_purely/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-20T20:37:08.000Z",
         "category": "reddit"
       },
       {

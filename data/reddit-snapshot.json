@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T17:34:11.621Z",
+  "fetchedAt": "2026-08-21T18:43:08.958Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,20 +37,20 @@
       },
       {
         "rank": 4,
-        "title": "Claude is a thinking partner. Opus 5 is not Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtqyg9/claude_is_a_thinking_partner_opus_5_is_not_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T18:03:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Opus 5 feels, in a word, hostile",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vua3cq/opus_5_feels_in_a_word_hostile/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-21T08:10:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I asked Claude to replace meat with tofu in my recipe",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu64yh/i_asked_claude_to_replace_meat_with_tofu_in_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T04:28:37.000Z",
         "category": "reddit"
       },
       {
@@ -64,15 +64,6 @@
       },
       {
         "rank": 2,
-        "title": "Notes on Hamiltonian Monte Carlo from a purely probabilistic perspective [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtvaue/notes_on_hamiltonian_monte_carlo_from_a_purely/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-20T20:37:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
         "source": "r/MachineLearning",
@@ -81,21 +72,30 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Epistemic Intelligence in Machine Learning Neurips Workshop page limit? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vujk2p/epistemic_intelligence_in_machine_learning/",
+        "rank": 3,
+        "title": "Notes on Hamiltonian Monte Carlo from a purely probabilistic perspective [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtvaue/notes_on_hamiltonian_monte_carlo_from_a_purely/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-21T15:29:10.000Z",
+        "publishedAt": "2026-08-20T20:37:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Research internship at MSR [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T16:47:52.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+        "title": "What coding practices are you adopting for development today? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-21T16:38:15.000Z",
+        "publishedAt": "2026-08-21T17:10:38.000Z",
         "category": "reddit"
       },
       {

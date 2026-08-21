@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T14:41:08.568Z",
+  "fetchedAt": "2026-08-21T15:39:14.479Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,20 +36,20 @@
       },
       {
         "rank": 4,
-        "title": "PSA: a malicious published Claude artifact is ranking on Google for Claude Code install queries — it installed a macOS infostealer on my Mac",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtmkft/psa_a_malicious_published_claude_artifact_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T15:25:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Opus 5 feels, in a word, hostile",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vua3cq/opus_5_feels_in_a_word_hostile/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-21T08:10:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I asked Claude to replace meat with tofu in my recipe",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu64yh/i_asked_claude_to_replace_meat_with_tofu_in_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T04:28:37.000Z",
         "category": "reddit"
       },
       {
@@ -119,21 +119,22 @@
       },
       {
         "rank": 4,
-        "title": "You’re such evil geniuses – do you really think we’re daft?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtlko7/youre_such_evil_geniuses_do_you_really_think_were/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:48:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Wtf is going on with the usage limits??",
         "url": "https://www.reddit.com/r/codex/comments/1vtth3d/wtf_is_going_on_with_the_usage_limits/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-20T19:30:30.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Whatever happened to this?",
+        "url": "https://www.reddit.com/r/codex/comments/1vty9c7/whatever_happened_to_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T22:32:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s7j1vdsowlkh1.png?width=640&crop=smart&auto=webp&s=b08fa63b1811562fcfdc39025bb922444654c16a"
       },
       {
         "rank": 1,

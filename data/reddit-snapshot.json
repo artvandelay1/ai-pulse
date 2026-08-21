@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-21T11:35:44.545Z",
+  "fetchedAt": "2026-08-21T12:57:09.135Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "This is letting Claude handle a good amount of money for a month...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:35:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGdjM3owc3VqamtoMQN1Qxve1CarMWQVmvq1_XE9jgNv2pAeV5ng0EMU671w.png?width=640&crop=smart&auto=webp&s=4dd9d303ff9bc1a4e59ae30fddc256151853218f"
+      },
+      {
+        "rank": 2,
+        "title": "Claude subagent got bored and prompt injected my main session into deleting my database",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu2umz/claude_subagent_got_bored_and_prompt_injected_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T01:51:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3owa0815vmkh1.png?width=140&height=45&auto=webp&s=50a17a04fc16d80de7aef8cb8d34de493912d183"
+      },
+      {
+        "rank": 3,
+        "title": "Claude is a thinking partner. Opus 5 is not Claude.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtqyg9/claude_is_a_thinking_partner_opus_5_is_not_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T18:03:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How big of a difference do you think it’s going to make on token consumption?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtjif5/how_big_of_a_difference_do_you_think_its_going_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T13:27:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ve5bfevm7jkh1.jpeg?width=640&crop=smart&auto=webp&s=86285043e7009181208c1ebd58935ad9955c3500"
+      },
+      {
+        "rank": 5,
+        "title": "Well played, Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu8ru9/well_played_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T06:53:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/14b2nly0eokh1.png?width=140&height=112&auto=webp&s=215a74c9808a066cd5aa23419f6f663032ad699c"
+      },
       {
         "rank": 1,
         "title": "EMNLP 2026 Findings : worth attending in person?[D]",
@@ -16,20 +65,20 @@
       },
       {
         "rank": 2,
-        "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T08:54:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Notes on Hamiltonian Monte Carlo from a purely probabilistic perspective [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtvaue/notes_on_hamiltonian_monte_carlo_from_a_purely/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-20T20:37:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T08:54:41.000Z",
         "category": "reddit"
       },
       {
@@ -43,11 +92,57 @@
       },
       {
         "rank": 5,
-        "title": "Resizing images from Flutter Camera Stream for TFLite modle [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vth6d9/resizing_images_from_flutter_camera_stream_for/",
+        "title": "Is KV Cache in a high dimensional vector space? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-20T11:45:15.000Z",
+        "publishedAt": "2026-08-20T18:18:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "“It’s not me, it’s you”",
+        "url": "https://www.reddit.com/r/codex/comments/1vu7hmw/its_not_me_its_you/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T05:40:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n058y3ya1okh1.jpeg?width=640&crop=smart&auto=webp&s=012af8b45e4cd158cf5c74e0e52104626ddeba13"
+      },
+      {
+        "rank": 2,
+        "title": "Is the Usage limit nerfed?",
+        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T13:04:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "my 20x is draining like it's 5x wtf happened this week",
+        "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T19:50:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "You’re such evil geniuses – do you really think we’re daft?",
+        "url": "https://www.reddit.com/r/codex/comments/1vtlko7/youre_such_evil_geniuses_do_you_really_think_were/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:48:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Wtf is going on with the usage limits??",
+        "url": "https://www.reddit.com/r/codex/comments/1vtth3d/wtf_is_going_on_with_the_usage_limits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T19:30:30.000Z",
         "category": "reddit"
       },
       {
@@ -146,100 +241,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-21T06:20:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "This is letting Claude handle a good amount of money for a month...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:35:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGdjM3owc3VqamtoMQN1Qxve1CarMWQVmvq1_XE9jgNv2pAeV5ng0EMU671w.png?width=640&crop=smart&auto=webp&s=4dd9d303ff9bc1a4e59ae30fddc256151853218f"
-      },
-      {
-        "rank": 2,
-        "title": "Claude subagent got bored and prompt injected my main session into deleting my database",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu2umz/claude_subagent_got_bored_and_prompt_injected_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T01:51:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3owa0815vmkh1.png?width=140&height=45&auto=webp&s=50a17a04fc16d80de7aef8cb8d34de493912d183"
-      },
-      {
-        "rank": 3,
-        "title": "Claude is a thinking partner. Opus 5 is not Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtqyg9/claude_is_a_thinking_partner_opus_5_is_not_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T18:03:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How big of a difference do you think it’s going to make on token consumption?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtjif5/how_big_of_a_difference_do_you_think_its_going_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:27:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ve5bfevm7jkh1.jpeg?width=640&crop=smart&auto=webp&s=86285043e7009181208c1ebd58935ad9955c3500"
-      },
-      {
-        "rank": 5,
-        "title": "PSA: a malicious published Claude artifact is ranking on Google for Claude Code install queries — it installed a macOS infostealer on my Mac",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtmkft/psa_a_malicious_published_claude_artifact_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T15:25:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "“It’s not me, it’s you”",
-        "url": "https://www.reddit.com/r/codex/comments/1vu7hmw/its_not_me_its_you/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T05:40:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n058y3ya1okh1.jpeg?width=640&crop=smart&auto=webp&s=012af8b45e4cd158cf5c74e0e52104626ddeba13"
-      },
-      {
-        "rank": 2,
-        "title": "Is the Usage limit nerfed?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:04:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "my 20x is draining like it's 5x wtf happened this week",
-        "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T19:50:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "You’re such evil geniuses – do you really think we’re daft?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtlko7/youre_such_evil_geniuses_do_you_really_think_were/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:48:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Wtf is going on with the usage limits??",
-        "url": "https://www.reddit.com/r/codex/comments/1vtth3d/wtf_is_going_on_with_the_usage_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T19:30:30.000Z",
         "category": "reddit"
       }
     ]

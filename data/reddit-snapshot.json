@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T20:31:42.726Z",
+  "fetchedAt": "2026-08-21T20:55:44.289Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "Notes on Hamiltonian Monte Carlo from a purely probabilistic perspective [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtvaue/notes_on_hamiltonian_monte_carlo_from_a_purely/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-20T20:37:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Research internship at MSR [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-21T16:38:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What coding practices are you adopting for development today? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T17:10:38.000Z",
         "category": "reddit"
       },
       {
@@ -112,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "Robotic arms at WRC'26 reorient packages as fast as humans [live]",
-        "url": "https://www.reddit.com/r/singularity/comments/1vtvh53/robotic_arms_at_wrc26_reorient_packages_as_fast/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-20T20:43:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b2o2cjRuMWZkbGtoMXMT503E0sjXAUbX5uaPucFYmdHPn1HyYNAsHzHfLVrz.png?width=640&crop=smart&auto=webp&s=9fdb330097a23af9e694f27ac63a9e3dcd4e4e1d"
-      },
-      {
-        "rank": 3,
         "title": "A stealth model called Ox-Alpha has been released, outperforming Fable on SWE.",
         "url": "https://www.reddit.com/r/singularity/comments/1vu87p5/a_stealth_model_called_oxalpha_has_been_released/",
         "source": "r/singularity",
@@ -130,7 +120,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "The Singularity as Seen by 1960s Sci-Fi Writers Is Eerily Familiar",
         "url": "https://www.reddit.com/r/singularity/comments/1vty34j/the_singularity_as_seen_by_1960s_scifi_writers_is/",
         "source": "r/singularity",
@@ -140,7 +130,7 @@
         "thumbnail": "https://external-preview.redd.it/c3hqZnUyeG51bGtoMfq0AIPwFkeZ3xfSBKR0IazegXCliisZWnIoKR0i6USA.png?width=640&crop=smart&auto=webp&s=99f273acdd2c43041e929978b3e459512b04f30b"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "At WRC'26 Galbot showcased its new agile humanoid robot",
         "url": "https://www.reddit.com/r/singularity/comments/1vuhk5b/at_wrc26_galbot_showcased_its_new_agile_humanoid/",
         "source": "r/singularity",
@@ -148,6 +138,16 @@
         "publishedAt": "2026-08-21T14:14:29.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/bmZ6Nmc2eXhrcWtoMf3nZLJbiigzwW6bdCoj-g-i5DBvRx66t29mnRKNg1mm.png?width=320&crop=smart&auto=webp&s=325577820fd463f9225d702ccd52e05a72e981d1"
+      },
+      {
+        "rank": 5,
+        "title": "Claude, with Levent Alpöge and Ava Howell found an elliptic curve of Rank 30 (28->29 took 10 years)",
+        "url": "https://www.reddit.com/r/singularity/comments/1vtwm9q/claude_with_levent_alpöge_and_ava_howell_found_an/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-20T21:27:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/zWAaQWtEKVspWePjpx0xEXMN9hrEJB3xsIbvDtc3A0Y.png?width=640&crop=smart&auto=webp&s=0aec3f261773a6a2d5a7e06149cb8b85cddc570e"
       },
       {
         "rank": 1,

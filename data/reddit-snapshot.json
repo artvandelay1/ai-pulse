@@ -1,59 +1,10 @@
 {
-  "fetchedAt": "2026-08-21T01:38:11.250Z",
+  "fetchedAt": "2026-08-21T03:08:47.477Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "This is letting Claude handle a good amount of money for a month...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:35:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGdjM3owc3VqamtoMQN1Qxve1CarMWQVmvq1_XE9jgNv2pAeV5ng0EMU671w.png?width=640&crop=smart&auto=webp&s=4dd9d303ff9bc1a4e59ae30fddc256151853218f"
-      },
-      {
-        "rank": 2,
-        "title": "Claude says I used 54.9 BILLION tokens.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtctj3/claude_says_i_used_549_billion_tokens/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T07:42:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9yus2zrrhhkh1.png?width=640&crop=smart&auto=webp&s=9c18e81ce3a8eb0f3f35cc3f8962f92c6a30b27d"
-      },
-      {
-        "rank": 3,
-        "title": "The Claude language calibration issue on GitHub got an official response from Anthropic. Guess who wrote it.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtfq1k/the_claude_language_calibration_issue_on_github/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T10:31:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d2JrazFnajdjaWtoMYCXfJ6nrbfOG9tJKw9_CbAaXOiVfkxMoJF8tmk6kHj_.png?width=640&crop=smart&auto=webp&s=4492b352974deee4c78b8c293b6707c19267c905"
-      },
-      {
-        "rank": 4,
-        "title": "How big of a difference do you think it’s going to make on token consumption?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtjif5/how_big_of_a_difference_do_you_think_its_going_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:27:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ve5bfevm7jkh1.jpeg?width=640&crop=smart&auto=webp&s=86285043e7009181208c1ebd58935ad9955c3500"
-      },
-      {
-        "rank": 5,
-        "title": "PSA: a malicious published Claude artifact is ranking on Google for Claude Code install queries — it installed a macOS infostealer on my Mac",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtmkft/psa_a_malicious_published_claude_artifact_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T15:25:07.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
@@ -101,52 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "Is the Usage limit nerfed?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:04:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "This is crazy...... Pro x5: Using 1% per hour ONLY on Luna xhigh on a single project, on a single computer...",
-        "url": "https://www.reddit.com/r/codex/comments/1vtcilq/this_is_crazy_pro_x5_using_1_per_hour_only_on/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T07:24:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q6qllcardhkh1.png?width=140&height=65&auto=webp&s=daf6e38540d7ed4abae7140622de5d6b9980b48b"
-      },
-      {
-        "rank": 3,
-        "title": "You’re such evil geniuses – do you really think we’re daft?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtlko7/youre_such_evil_geniuses_do_you_really_think_were/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:48:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "my 20x is draining like it's 5x wtf happened this week",
-        "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T19:50:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "what happened to the Usage limits",
-        "url": "https://www.reddit.com/r/codex/comments/1vtlpom/what_happened_to_the_usage_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:53:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "New age insults",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vt8210/new_age_insults/",
         "source": "r/OpenAI",
@@ -157,15 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "Did GPT 5.6 Sol get secretly upgraded?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vth5v3/did_gpt_56_sol_get_secretly_upgraded/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T11:44:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "OpenAI growing faster than Anthropic this quarter - Ramp data shows",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vtwi5u/openai_growing_faster_than_anthropic_this_quarter/",
         "source": "r/OpenAI",
@@ -173,6 +69,15 @@
         "publishedAt": "2026-08-20T21:22:56.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/qfgm6pddklkh1.jpeg?width=640&crop=smart&auto=webp&s=aeed594d83207b80595d843a4e618a1a6d7f7888"
+      },
+      {
+        "rank": 3,
+        "title": "Did GPT 5.6 Sol get secretly upgraded?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vth5v3/did_gpt_56_sol_get_secretly_upgraded/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T11:44:33.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -236,11 +141,107 @@
       },
       {
         "rank": 5,
-        "title": "Moderna’s new cancer vaccine (mRNA-4157) is basically an AWS cloud pipeline that \"compiles\" a custom drug for your specific tumor.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vtozgt/modernas_new_cancer_vaccine_mrna4157_is_basically/",
+        "title": "Pres. Trump: I would 'absolutely' want a data center if I were the mayor of a town",
+        "url": "https://www.reddit.com/r/singularity/comments/1vtop3w/pres_trump_i_would_absolutely_want_a_data_center/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-20T16:52:28.000Z",
+        "publishedAt": "2026-08-20T16:42:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OSRVsueW3I99SI7n58_BqZMxGiG1sbfCGAwJkl2_e7g.jpeg?width=640&crop=smart&auto=webp&s=ae5a2675b95f12ca2653ed7971649a22d86181bf"
+      },
+      {
+        "rank": 1,
+        "title": "This is letting Claude handle a good amount of money for a month...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:35:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGdjM3owc3VqamtoMQN1Qxve1CarMWQVmvq1_XE9jgNv2pAeV5ng0EMU671w.png?width=640&crop=smart&auto=webp&s=4dd9d303ff9bc1a4e59ae30fddc256151853218f"
+      },
+      {
+        "rank": 2,
+        "title": "Claude says I used 54.9 BILLION tokens.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtctj3/claude_says_i_used_549_billion_tokens/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T07:42:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9yus2zrrhhkh1.png?width=640&crop=smart&auto=webp&s=9c18e81ce3a8eb0f3f35cc3f8962f92c6a30b27d"
+      },
+      {
+        "rank": 3,
+        "title": "The Claude language calibration issue on GitHub got an official response from Anthropic. Guess who wrote it.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtfq1k/the_claude_language_calibration_issue_on_github/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T10:31:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d2JrazFnajdjaWtoMYCXfJ6nrbfOG9tJKw9_CbAaXOiVfkxMoJF8tmk6kHj_.png?width=640&crop=smart&auto=webp&s=4492b352974deee4c78b8c293b6707c19267c905"
+      },
+      {
+        "rank": 4,
+        "title": "How big of a difference do you think it’s going to make on token consumption?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtjif5/how_big_of_a_difference_do_you_think_its_going_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T13:27:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ve5bfevm7jkh1.jpeg?width=640&crop=smart&auto=webp&s=86285043e7009181208c1ebd58935ad9955c3500"
+      },
+      {
+        "rank": 5,
+        "title": "PSA: a malicious published Claude artifact is ranking on Google for Claude Code install queries — it installed a macOS infostealer on my Mac",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtmkft/psa_a_malicious_published_claude_artifact_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T15:25:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Is the Usage limit nerfed?",
+        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T13:04:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "This is crazy...... Pro x5: Using 1% per hour ONLY on Luna xhigh on a single project, on a single computer...",
+        "url": "https://www.reddit.com/r/codex/comments/1vtcilq/this_is_crazy_pro_x5_using_1_per_hour_only_on/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T07:24:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q6qllcardhkh1.png?width=140&height=65&auto=webp&s=daf6e38540d7ed4abae7140622de5d6b9980b48b"
+      },
+      {
+        "rank": 3,
+        "title": "You’re such evil geniuses – do you really think we’re daft?",
+        "url": "https://www.reddit.com/r/codex/comments/1vtlko7/youre_such_evil_geniuses_do_you_really_think_were/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:48:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "my 20x is draining like it's 5x wtf happened this week",
+        "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T19:50:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "what happened to the Usage limits",
+        "url": "https://www.reddit.com/r/codex/comments/1vtlpom/what_happened_to_the_usage_limits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:53:18.000Z",
         "category": "reddit"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T19:30:06.779Z",
+  "fetchedAt": "2026-08-21T19:52:11.992Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -120,24 +120,6 @@
       },
       {
         "rank": 3,
-        "title": "my 20x is draining like it's 5x wtf happened this week",
-        "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T19:50:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Wtf is going on with the usage limits??",
-        "url": "https://www.reddit.com/r/codex/comments/1vtth3d/wtf_is_going_on_with_the_usage_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T19:30:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Whatever happened to this?",
         "url": "https://www.reddit.com/r/codex/comments/1vty9c7/whatever_happened_to_this/",
         "source": "r/codex",
@@ -145,6 +127,25 @@
         "publishedAt": "2026-08-20T22:32:09.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/s7j1vdsowlkh1.png?width=640&crop=smart&auto=webp&s=b08fa63b1811562fcfdc39025bb922444654c16a"
+      },
+      {
+        "rank": 4,
+        "title": "wtf is sub2api",
+        "url": "https://www.reddit.com/r/codex/comments/1vu91g4/wtf_is_sub2api/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T07:08:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Codex limits right now:",
+        "url": "https://www.reddit.com/r/codex/comments/1vtvr05/codex_limits_right_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T20:53:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gtprcx6bflkh1.png?width=640&crop=smart&auto=webp&s=a5318b23158c74faca578121a83960019fa50a8e"
       },
       {
         "rank": 1,

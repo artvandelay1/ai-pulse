@@ -1,59 +1,10 @@
 {
-  "fetchedAt": "2026-08-21T07:03:12.270Z",
+  "fetchedAt": "2026-08-21T08:08:42.644Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "This is letting Claude handle a good amount of money for a month...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:35:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGdjM3owc3VqamtoMQN1Qxve1CarMWQVmvq1_XE9jgNv2pAeV5ng0EMU671w.png?width=640&crop=smart&auto=webp&s=4dd9d303ff9bc1a4e59ae30fddc256151853218f"
-      },
-      {
-        "rank": 2,
-        "title": "Claude says I used 54.9 BILLION tokens.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtctj3/claude_says_i_used_549_billion_tokens/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T07:42:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9yus2zrrhhkh1.png?width=640&crop=smart&auto=webp&s=9c18e81ce3a8eb0f3f35cc3f8962f92c6a30b27d"
-      },
-      {
-        "rank": 3,
-        "title": "Claude subagent got bored and prompt injected my main session into deleting my database",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu2umz/claude_subagent_got_bored_and_prompt_injected_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T01:51:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3owa0815vmkh1.png?width=140&height=45&auto=webp&s=50a17a04fc16d80de7aef8cb8d34de493912d183"
-      },
-      {
-        "rank": 4,
-        "title": "The Claude language calibration issue on GitHub got an official response from Anthropic. Guess who wrote it.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtfq1k/the_claude_language_calibration_issue_on_github/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T10:31:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d2JrazFnajdjaWtoMYCXfJ6nrbfOG9tJKw9_CbAaXOiVfkxMoJF8tmk6kHj_.png?width=640&crop=smart&auto=webp&s=4492b352974deee4c78b8c293b6707c19267c905"
-      },
-      {
-        "rank": 5,
-        "title": "Claude is a thinking partner. Opus 5 is not Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtqyg9/claude_is_a_thinking_partner_opus_5_is_not_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-20T18:03:29.000Z",
-        "category": "reddit"
-      },
       {
         "rank": 1,
         "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
@@ -65,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "About the impact of grouping classes in multiclass classification [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vtctaz/about_the_impact_of_grouping_classes_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-20T07:42:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "The spectral neuron - an ML primitive for scalable and interpretable models [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable/",
         "source": "r/MachineLearning",
@@ -82,12 +24,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-20T11:31:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "EMNLP 2026 Findings : worth attending in person?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T07:04:51.000Z",
         "category": "reddit"
       },
       {
@@ -98,53 +49,6 @@
         "score": 0,
         "publishedAt": "2026-08-20T13:34:28.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Is the Usage limit nerfed?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T13:04:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "my 20x is draining like it's 5x wtf happened this week",
-        "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T19:50:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "You’re such evil geniuses – do you really think we’re daft?",
-        "url": "https://www.reddit.com/r/codex/comments/1vtlko7/youre_such_evil_geniuses_do_you_really_think_were/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T14:48:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "This is crazy...... Pro x5: Using 1% per hour ONLY on Luna xhigh on a single project, on a single computer...",
-        "url": "https://www.reddit.com/r/codex/comments/1vtcilq/this_is_crazy_pro_x5_using_1_per_hour_only_on/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T07:24:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q6qllcardhkh1.png?width=140&height=65&auto=webp&s=daf6e38540d7ed4abae7140622de5d6b9980b48b"
-      },
-      {
-        "rank": 5,
-        "title": "“It’s not me, it’s you”",
-        "url": "https://www.reddit.com/r/codex/comments/1vu7hmw/its_not_me_its_you/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T05:40:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n058y3ya1okh1.jpeg?width=640&crop=smart&auto=webp&s=012af8b45e4cd158cf5c74e0e52104626ddeba13"
       },
       {
         "rank": 1,
@@ -177,13 +81,13 @@
       },
       {
         "rank": 4,
-        "title": "ChatGPT takes a photo...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vtwlu9/chatgpt_takes_a_photo/",
+        "title": "Where does AI get these ideas? 😭",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vu2ia9/where_does_ai_get_these_ideas/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-20T21:27:05.000Z",
+        "publishedAt": "2026-08-21T01:35:25.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y2mh7448llkh1.jpg?width=140&height=129&auto=webp&s=ac7ce694f5dd49d96c516ed2e6fdb3b4c871faaf"
+        "thumbnail": "https://preview.redd.it/g24d6n4jtmkh1.png?width=640&crop=smart&auto=webp&s=1e8a41ee339f3855a399d212280487847ab533e8"
       },
       {
         "rank": 5,
@@ -237,13 +141,109 @@
       },
       {
         "rank": 5,
-        "title": "Pres. Trump: I would 'absolutely' want a data center if I were the mayor of a town",
-        "url": "https://www.reddit.com/r/singularity/comments/1vtop3w/pres_trump_i_would_absolutely_want_a_data_center/",
+        "title": "The Singularity as Seen by 1960s Sci-Fi Writers Is Eerily Familiar",
+        "url": "https://www.reddit.com/r/singularity/comments/1vty34j/the_singularity_as_seen_by_1960s_scifi_writers_is/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-20T16:42:15.000Z",
+        "publishedAt": "2026-08-20T22:25:11.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OSRVsueW3I99SI7n58_BqZMxGiG1sbfCGAwJkl2_e7g.jpeg?width=640&crop=smart&auto=webp&s=ae5a2675b95f12ca2653ed7971649a22d86181bf"
+        "thumbnail": "https://external-preview.redd.it/c3hqZnUyeG51bGtoMfq0AIPwFkeZ3xfSBKR0IazegXCliisZWnIoKR0i6USA.png?width=640&crop=smart&auto=webp&s=99f273acdd2c43041e929978b3e459512b04f30b"
+      },
+      {
+        "rank": 1,
+        "title": "This is letting Claude handle a good amount of money for a month...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtl9of/this_is_letting_claude_handle_a_good_amount_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:35:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGdjM3owc3VqamtoMQN1Qxve1CarMWQVmvq1_XE9jgNv2pAeV5ng0EMU671w.png?width=640&crop=smart&auto=webp&s=4dd9d303ff9bc1a4e59ae30fddc256151853218f"
+      },
+      {
+        "rank": 2,
+        "title": "Claude says I used 54.9 BILLION tokens.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtctj3/claude_says_i_used_549_billion_tokens/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T07:42:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9yus2zrrhhkh1.png?width=640&crop=smart&auto=webp&s=9c18e81ce3a8eb0f3f35cc3f8962f92c6a30b27d"
+      },
+      {
+        "rank": 3,
+        "title": "Claude subagent got bored and prompt injected my main session into deleting my database",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu2umz/claude_subagent_got_bored_and_prompt_injected_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T01:51:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3owa0815vmkh1.png?width=140&height=45&auto=webp&s=50a17a04fc16d80de7aef8cb8d34de493912d183"
+      },
+      {
+        "rank": 4,
+        "title": "The Claude language calibration issue on GitHub got an official response from Anthropic. Guess who wrote it.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtfq1k/the_claude_language_calibration_issue_on_github/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T10:31:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d2JrazFnajdjaWtoMYCXfJ6nrbfOG9tJKw9_CbAaXOiVfkxMoJF8tmk6kHj_.png?width=640&crop=smart&auto=webp&s=4492b352974deee4c78b8c293b6707c19267c905"
+      },
+      {
+        "rank": 5,
+        "title": "Claude is a thinking partner. Opus 5 is not Claude.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vtqyg9/claude_is_a_thinking_partner_opus_5_is_not_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-20T18:03:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Is the Usage limit nerfed?",
+        "url": "https://www.reddit.com/r/codex/comments/1vtiymv/is_the_usage_limit_nerfed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T13:04:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "my 20x is draining like it's 5x wtf happened this week",
+        "url": "https://www.reddit.com/r/codex/comments/1vtu0iq/my_20x_is_draining_like_its_5x_wtf_happened_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T19:50:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "You’re such evil geniuses – do you really think we’re daft?",
+        "url": "https://www.reddit.com/r/codex/comments/1vtlko7/youre_such_evil_geniuses_do_you_really_think_were/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T14:48:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "This is crazy...... Pro x5: Using 1% per hour ONLY on Luna xhigh on a single project, on a single computer...",
+        "url": "https://www.reddit.com/r/codex/comments/1vtcilq/this_is_crazy_pro_x5_using_1_per_hour_only_on/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T07:24:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q6qllcardhkh1.png?width=140&height=65&auto=webp&s=daf6e38540d7ed4abae7140622de5d6b9980b48b"
+      },
+      {
+        "rank": 5,
+        "title": "“It’s not me, it’s you”",
+        "url": "https://www.reddit.com/r/codex/comments/1vu7hmw/its_not_me_its_you/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T05:40:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n058y3ya1okh1.jpeg?width=640&crop=smart&auto=webp&s=012af8b45e4cd158cf5c74e0e52104626ddeba13"
       }
     ]
   }

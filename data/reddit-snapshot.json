@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-21T20:55:44.289Z",
+  "fetchedAt": "2026-08-21T21:30:10.700Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude subagent got bored and prompt injected my main session into deleting my database",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu2umz/claude_subagent_got_bored_and_prompt_injected_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T01:51:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3owa0815vmkh1.png?width=140&height=45&auto=webp&s=50a17a04fc16d80de7aef8cb8d34de493912d183"
+      },
+      {
+        "rank": 2,
+        "title": "decayfmt - A file format which corrupts a little every time you open it. (Please don't ask why)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuh7rl/decayfmt_a_file_format_which_corrupts_a_little/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T14:01:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/70n6srgfiqkh1.gif?width=640&crop=smart&s=0756d9cf347cb845342c71a17cdadcde23a3940a"
+      },
+      {
+        "rank": 3,
+        "title": "Well played, Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu8ru9/well_played_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T06:53:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/14b2nly0eokh1.png?width=140&height=112&auto=webp&s=215a74c9808a066cd5aa23419f6f663032ad699c"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5 feels, in a word, hostile",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vua3cq/opus_5_feels_in_a_word_hostile/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T08:10:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Oh Mythos 5 is no longer a dangerous model and can be used by enterprise now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuovcy/oh_mythos_5_is_no_longer_a_dangerous_model_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T18:42:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0x7bnzptwrkh1.jpeg?width=640&crop=smart&auto=webp&s=3eb008751394934dfb06245c6bebee2d5d619810"
+      },
       {
         "rank": 1,
         "title": "EMNLP 2026 Findings : worth attending in person?[D]",
@@ -43,12 +92,61 @@
       },
       {
         "rank": 5,
-        "title": "What coding practices are you adopting for development today? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
+        "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-21T17:10:38.000Z",
+        "publishedAt": "2026-08-21T16:37:16.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "“It’s not me, it’s you”",
+        "url": "https://www.reddit.com/r/codex/comments/1vu7hmw/its_not_me_its_you/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T05:40:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n058y3ya1okh1.jpeg?width=640&crop=smart&auto=webp&s=012af8b45e4cd158cf5c74e0e52104626ddeba13"
+      },
+      {
+        "rank": 2,
+        "title": "Tibo!!! Banked one for all ... soon...",
+        "url": "https://www.reddit.com/r/codex/comments/1vue1og/tibo_banked_one_for_all_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T11:44:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/av1grut9upkh1.jpeg?width=640&crop=smart&auto=webp&s=0394f6750c17fce98795ee2e3900390334fab7fd"
+      },
+      {
+        "rank": 3,
+        "title": "Whatever happened to this?",
+        "url": "https://www.reddit.com/r/codex/comments/1vty9c7/whatever_happened_to_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-20T22:32:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s7j1vdsowlkh1.png?width=640&crop=smart&auto=webp&s=b08fa63b1811562fcfdc39025bb922444654c16a"
+      },
+      {
+        "rank": 4,
+        "title": "wtf is sub2api",
+        "url": "https://www.reddit.com/r/codex/comments/1vu91g4/wtf_is_sub2api/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T07:08:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "tl;dr sub2api can't easily be detected by tibo or codex 🫣",
+        "url": "https://www.reddit.com/r/codex/comments/1vu7wjo/tldr_sub2api_cant_easily_be_detected_by_tibo_or/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T06:03:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1w1bmhd75okh1.png?width=640&crop=smart&auto=webp&s=53de0d2a73c446a45964d21b32fad40d450206fa"
       },
       {
         "rank": 1,
@@ -148,103 +246,6 @@
         "publishedAt": "2026-08-20T21:27:37.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/zWAaQWtEKVspWePjpx0xEXMN9hrEJB3xsIbvDtc3A0Y.png?width=640&crop=smart&auto=webp&s=0aec3f261773a6a2d5a7e06149cb8b85cddc570e"
-      },
-      {
-        "rank": 1,
-        "title": "Claude subagent got bored and prompt injected my main session into deleting my database",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu2umz/claude_subagent_got_bored_and_prompt_injected_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T01:51:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3owa0815vmkh1.png?width=140&height=45&auto=webp&s=50a17a04fc16d80de7aef8cb8d34de493912d183"
-      },
-      {
-        "rank": 2,
-        "title": "decayfmt - A file format which corrupts a little every time you open it. (Please don't ask why)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuh7rl/decayfmt_a_file_format_which_corrupts_a_little/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T14:01:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/70n6srgfiqkh1.gif?width=640&crop=smart&s=0756d9cf347cb845342c71a17cdadcde23a3940a"
-      },
-      {
-        "rank": 3,
-        "title": "Well played, Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu8ru9/well_played_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T06:53:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/14b2nly0eokh1.png?width=140&height=112&auto=webp&s=215a74c9808a066cd5aa23419f6f663032ad699c"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 5 feels, in a word, hostile",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vua3cq/opus_5_feels_in_a_word_hostile/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T08:10:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I asked Claude to replace meat with tofu in my recipe",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vu64yh/i_asked_claude_to_replace_meat_with_tofu_in_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T04:28:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "“It’s not me, it’s you”",
-        "url": "https://www.reddit.com/r/codex/comments/1vu7hmw/its_not_me_its_you/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T05:40:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n058y3ya1okh1.jpeg?width=640&crop=smart&auto=webp&s=012af8b45e4cd158cf5c74e0e52104626ddeba13"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo!!! Banked one for all ... soon...",
-        "url": "https://www.reddit.com/r/codex/comments/1vue1og/tibo_banked_one_for_all_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T11:44:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/av1grut9upkh1.jpeg?width=640&crop=smart&auto=webp&s=0394f6750c17fce98795ee2e3900390334fab7fd"
-      },
-      {
-        "rank": 3,
-        "title": "Whatever happened to this?",
-        "url": "https://www.reddit.com/r/codex/comments/1vty9c7/whatever_happened_to_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T22:32:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s7j1vdsowlkh1.png?width=640&crop=smart&auto=webp&s=b08fa63b1811562fcfdc39025bb922444654c16a"
-      },
-      {
-        "rank": 4,
-        "title": "wtf is sub2api",
-        "url": "https://www.reddit.com/r/codex/comments/1vu91g4/wtf_is_sub2api/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T07:08:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Codex limits right now:",
-        "url": "https://www.reddit.com/r/codex/comments/1vtvr05/codex_limits_right_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-20T20:53:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gtprcx6bflkh1.png?width=640&crop=smart&auto=webp&s=a5318b23158c74faca578121a83960019fa50a8e"
       }
     ]
   }

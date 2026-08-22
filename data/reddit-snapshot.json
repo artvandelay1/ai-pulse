@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T02:38:44.674Z",
+  "fetchedAt": "2026-08-22T03:46:42.944Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -52,6 +52,16 @@
       },
       {
         "rank": 1,
+        "title": "gpt-reserve what is this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vuzuuh/gptreserve_what_is_this/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T02:18:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/azsjxz756ukh1.png?width=640&crop=smart&auto=webp&s=780cfc21d0f0b3408462bb61cd22f7c7bd3b3eee"
+      },
+      {
+        "rank": 2,
         "title": "PLEASE HELP!!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vudkxr/please_help/",
         "source": "r/OpenAI",
@@ -61,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/no8xr3j7qpkh1.png?width=640&crop=smart&auto=webp&s=da6497bd969398777ef28a67498098e337e88432"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Zero Data Retention is getting cross-interaction safety signals. What should customers be able to audit?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vufo02/zero_data_retention_is_getting_crossinteraction/",
         "source": "r/OpenAI",
@@ -70,30 +80,21 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "How do you share a ChatGPT canvas output with someone who does not use ChatGPT?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vu51if/how_do_you_share_a_chatgpt_canvas_output_with/",
+        "rank": 4,
+        "title": "Changes in Sol High across Chat/Codex",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vv0fkz/changes_in_sol_high_across_chatcodex/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-21T03:34:39.000Z",
+        "publishedAt": "2026-08-22T02:47:10.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Chat GPT lost chat/wont syncronize ?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vunt28/chat_gpt_lost_chatwont_syncronize/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-21T18:04:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Sol not thinking on Mac App",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vudicb/sol_not_thinking_on_mac_app/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T11:18:36.000Z",
         "category": "reddit"
       },
       {

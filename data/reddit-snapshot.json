@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-08-22T23:26:50.112Z",
+  "fetchedAt": "2026-08-22T23:49:10.705Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built an English ↔ Claudish translator",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvi3x1/i_built_an_english_claudish_translator/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T17:17:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qi4ksw37mykh1.png?width=640&crop=smart&auto=webp&s=99c33719c01f6037faaac3caa1d8e600787f4857"
+      },
+      {
+        "rank": 2,
+        "title": "Is anyone else finding Claude really hard to follow lately? (Massive context dumps, cryptic phrasing)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv14nh/is_anyone_else_finding_claude_really_hard_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T03:21:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic Stealth Nerfing Effort Levels",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjr5n/anthropic_stealth_nerfing_effort_levels/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T18:20:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "What do people mean by \"my harness\" re: agentic coding?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T18:13:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Just in case you needed to know, Domino's India is a certified connector for Claude.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvlv0p/just_in_case_you_needed_to_know_dominos_india_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T19:42:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qgekxbt5czkh1.png?width=320&crop=smart&auto=webp&s=648407f7e969854ba5220dcb42c20cc94ec881c9"
+      },
       {
         "rank": 1,
         "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
@@ -49,6 +96,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-22T14:30:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "This is why we can't have nice things.",
+        "url": "https://www.reddit.com/r/codex/comments/1vuy7jq/this_is_why_we_cant_have_nice_things/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T01:00:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iujuy3pastkh1.png?width=640&crop=smart&auto=webp&s=8ae6bb1a9d676cca0d8c764859834186d84962fa"
+      },
+      {
+        "rank": 2,
+        "title": "Tibo acknowledges usage issues",
+        "url": "https://www.reddit.com/r/codex/comments/1vv49ty/tibo_acknowledges_usage_issues/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T06:04:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w63u75ogavkh1.jpeg?width=640&crop=smart&auto=webp&s=4cab26ab3b2ca223ce13134c574f1ec7ae3d8926"
+      },
+      {
+        "rank": 3,
+        "title": "New model \"Reserve\" appeared on Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1vvbbza/new_model_reserve_appeared_on_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T12:36:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/67jlb5wf8xkh1.png?width=640&crop=smart&auto=webp&s=b2af623a0cb76307cb1261bf2fd9a6b2e9d142ee"
+      },
+      {
+        "rank": 4,
+        "title": "By optimizing your Codex prompt caching, your total budget can go ~12× — potentially 1,000+ extra messages",
+        "url": "https://www.reddit.com/r/codex/comments/1vv555a/by_optimizing_your_codex_prompt_caching_your/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T06:53:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I want to say thanks to everybody in here.",
+        "url": "https://www.reddit.com/r/codex/comments/1vuxk10/i_want_to_say_thanks_to_everybody_in_here/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T00:31:07.000Z",
         "category": "reddit"
       },
       {
@@ -149,101 +244,6 @@
         "publishedAt": "2026-08-22T17:36:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0xnkec4upykh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c50a5e84a49185990091ff5a33e5ebc679b8c634"
-      },
-      {
-        "rank": 1,
-        "title": "I built an English ↔ Claudish translator",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvi3x1/i_built_an_english_claudish_translator/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T17:17:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qi4ksw37mykh1.png?width=640&crop=smart&auto=webp&s=99c33719c01f6037faaac3caa1d8e600787f4857"
-      },
-      {
-        "rank": 2,
-        "title": "Is anyone else finding Claude really hard to follow lately? (Massive context dumps, cryptic phrasing)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv14nh/is_anyone_else_finding_claude_really_hard_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T03:21:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic Stealth Nerfing Effort Levels",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjr5n/anthropic_stealth_nerfing_effort_levels/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T18:20:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What do people mean by \"my harness\" re: agentic coding?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T18:13:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Just in case you needed to know, Domino's India is a certified connector for Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvlv0p/just_in_case_you_needed_to_know_dominos_india_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T19:42:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qgekxbt5czkh1.png?width=320&crop=smart&auto=webp&s=648407f7e969854ba5220dcb42c20cc94ec881c9"
-      },
-      {
-        "rank": 1,
-        "title": "This is why we can't have nice things.",
-        "url": "https://www.reddit.com/r/codex/comments/1vuy7jq/this_is_why_we_cant_have_nice_things/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T01:00:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iujuy3pastkh1.png?width=640&crop=smart&auto=webp&s=8ae6bb1a9d676cca0d8c764859834186d84962fa"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo acknowledges usage issues",
-        "url": "https://www.reddit.com/r/codex/comments/1vv49ty/tibo_acknowledges_usage_issues/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T06:04:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w63u75ogavkh1.jpeg?width=640&crop=smart&auto=webp&s=4cab26ab3b2ca223ce13134c574f1ec7ae3d8926"
-      },
-      {
-        "rank": 3,
-        "title": "New model \"Reserve\" appeared on Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1vvbbza/new_model_reserve_appeared_on_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T12:36:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/67jlb5wf8xkh1.png?width=640&crop=smart&auto=webp&s=b2af623a0cb76307cb1261bf2fd9a6b2e9d142ee"
-      },
-      {
-        "rank": 4,
-        "title": "By optimizing your Codex prompt caching, your total budget can go ~12× — potentially 1,000+ extra messages",
-        "url": "https://www.reddit.com/r/codex/comments/1vv555a/by_optimizing_your_codex_prompt_caching_your/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T06:53:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I want to say thanks to everybody in here.",
-        "url": "https://www.reddit.com/r/codex/comments/1vuxk10/i_want_to_say_thanks_to_everybody_in_here/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T00:31:07.000Z",
-        "category": "reddit"
       }
     ]
   }

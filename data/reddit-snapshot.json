@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T23:53:47.654Z",
+  "fetchedAt": "2026-08-22T01:26:43.508Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "EMNLP 2026 Findings : worth attending in person?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T07:04:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-21T08:54:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "EMNLP 2026 Findings : worth attending in person?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T07:04:51.000Z",
         "category": "reddit"
       },
       {
@@ -43,12 +43,13 @@
       },
       {
         "rank": 5,
-        "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
+        "title": "EMNLP26 Cost [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-21T16:37:16.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-21T16:24:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/to16g93h7rkh1.png?width=140&height=48&auto=webp&s=96b72fe62af68603b123386ce4bc159d90457585"
       },
       {
         "rank": 1,
@@ -62,16 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "US Lead in the AI Race With China Is Rapidly Narrowing",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vu18pp/us_lead_in_the_ai_race_with_china_is_rapidly/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T00:37:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/jnGV8s4_745dO0ase6bHXtN4P1WX0Jf2WmGGcl0OJ_8.png?width=640&crop=smart&auto=webp&s=04ebb00c61a7893b9048d7567f0352ef1f7c506c"
-      },
-      {
-        "rank": 3,
         "title": "PLEASE HELP!!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vudkxr/please_help/",
         "source": "r/OpenAI",
@@ -81,7 +72,7 @@
         "thumbnail": "https://preview.redd.it/no8xr3j7qpkh1.png?width=640&crop=smart&auto=webp&s=da6497bd969398777ef28a67498098e337e88432"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Zero Data Retention is getting cross-interaction safety signals. What should customers be able to audit?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vufo02/zero_data_retention_is_getting_crossinteraction/",
         "source": "r/OpenAI",
@@ -90,12 +81,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "How do you share a ChatGPT canvas output with someone who does not use ChatGPT?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vu51if/how_do_you_share_a_chatgpt_canvas_output_with/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-21T03:34:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Chat GPT lost chat/wont syncronize ?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vunt28/chat_gpt_lost_chatwont_syncronize/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T18:04:51.000Z",
         "category": "reddit"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T01:26:43.508Z",
+  "fetchedAt": "2026-08-22T02:38:44.674Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -43,26 +43,15 @@
       },
       {
         "rank": 5,
-        "title": "EMNLP26 Cost [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
+        "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-21T16:24:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/to16g93h7rkh1.png?width=140&height=48&auto=webp&s=96b72fe62af68603b123386ce4bc159d90457585"
+        "publishedAt": "2026-08-21T16:37:16.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Where does AI get these ideas? 😭",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vu2ia9/where_does_ai_get_these_ideas/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T01:35:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g24d6n4jtmkh1.png?width=640&crop=smart&auto=webp&s=1e8a41ee339f3855a399d212280487847ab533e8"
-      },
-      {
-        "rank": 2,
         "title": "PLEASE HELP!!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vudkxr/please_help/",
         "source": "r/OpenAI",
@@ -72,7 +61,7 @@
         "thumbnail": "https://preview.redd.it/no8xr3j7qpkh1.png?width=640&crop=smart&auto=webp&s=da6497bd969398777ef28a67498098e337e88432"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Zero Data Retention is getting cross-interaction safety signals. What should customers be able to audit?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vufo02/zero_data_retention_is_getting_crossinteraction/",
         "source": "r/OpenAI",
@@ -81,7 +70,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "How do you share a ChatGPT canvas output with someone who does not use ChatGPT?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vu51if/how_do_you_share_a_chatgpt_canvas_output_with/",
         "source": "r/OpenAI",
@@ -90,12 +79,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Chat GPT lost chat/wont syncronize ?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vunt28/chat_gpt_lost_chatwont_syncronize/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-21T18:04:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Sol not thinking on Mac App",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vudicb/sol_not_thinking_on_mac_app/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T11:18:36.000Z",
         "category": "reddit"
       },
       {
@@ -129,22 +127,22 @@
       },
       {
         "rank": 4,
-        "title": "Ai reaches out...",
-        "url": "https://www.reddit.com/r/singularity/comments/1vuqvum/ai_reaches_out/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-21T19:57:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bfdb2qo4askh1.png?width=640&crop=smart&auto=webp&s=8ca8aa7e37ab94d82917e89613fa8f51745362df"
-      },
-      {
-        "rank": 5,
         "title": "I fingerprinted Ox Alpha: same tokenizer as GLM-5.3 (+75 token offset), z.ai's exact error strings, near-identical temp-0 outputs",
         "url": "https://www.reddit.com/r/singularity/comments/1vufbx1/i_fingerprinted_ox_alpha_same_tokenizer_as_glm53/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-21T12:43:54.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Hello Qwen... I mean Claude... I mean Qwen...",
+        "url": "https://www.reddit.com/r/singularity/comments/1vutyjz/hello_qwen_i_mean_claude_i_mean_qwen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-21T21:57:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zkt3u9vjvskh1.png?width=640&crop=smart&auto=webp&s=b42448e652875073203dbc3ce2f73622be49070a"
       },
       {
         "rank": 1,

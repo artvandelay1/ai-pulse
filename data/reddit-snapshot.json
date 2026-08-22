@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-08-22T19:49:11.635Z",
+  "fetchedAt": "2026-08-22T20:28:43.058Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T04:39:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T09:37:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "acl arr august 2026 (desk rejected ) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T14:02:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T17:32:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&crop=smart&auto=webp&s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85"
+      },
+      {
+        "rank": 5,
+        "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vus26i/hybrid_collaborative_filtering_recommendation/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T20:42:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zcz8hf1u6skh1.png?width=140&height=113&auto=webp&s=eb3136507a3bc923edeaf86880a1d987971f6ef7"
+      },
+      {
+        "rank": 1,
+        "title": "AI prompt was:",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vvgs2o/ai_prompt_was/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T16:24:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cfpdyz04dykh1.jpeg?width=640&crop=smart&auto=webp&s=7bb443610260617fe124755fadaa68de67f272a4"
+      },
+      {
+        "rank": 2,
+        "title": "I just wanted a workout guide for my wall",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vvi428/i_just_wanted_a_workout_guide_for_my_wall/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T17:17:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/il1bzuedmykh1.png?width=640&crop=smart&auto=webp&s=1f7177c61cca40e1c0481a62efa22600a03e3bef"
+      },
+      {
+        "rank": 3,
+        "title": "gpt-reserve what is this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vuzuuh/gptreserve_what_is_this/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T02:18:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/azsjxz756ukh1.png?width=640&crop=smart&auto=webp&s=780cfc21d0f0b3408462bb61cd22f7c7bd3b3eee"
+      },
+      {
+        "rank": 4,
+        "title": "I recently changed to Chatgpt pro, and I am super happy about it.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vvajqz/i_recently_changed_to_chatgpt_pro_and_i_am_super/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T11:59:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Changes in Sol High across Chat/Codex",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vv0fkz/changes_in_sol_high_across_chatcodex/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T02:47:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "9.3 seconds…Humanoid robots now run faster than humans",
+        "url": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-22T16:57:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d2JqZ3pwOHdpeWtoMTboMkhRG4B8lP9wtWLsiZgo1zKIiuyIEKqnNowMAm9l.png?width=640&crop=smart&auto=webp&s=a3d9bfeb1bbd5692ed058472b2cb2212817b8f47"
+      },
+      {
+        "rank": 2,
+        "title": "New anti-ai sloptube clickbait format just dropped",
+        "url": "https://www.reddit.com/r/singularity/comments/1vv4dlc/new_antiai_sloptube_clickbait_format_just_dropped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-22T06:10:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/d8ducngvavkh1.png?width=640&crop=smart&auto=webp&s=a0b94c89521fbb9d0fba004f4b6eeb67c89b6691"
+      },
+      {
+        "rank": 3,
+        "title": "The amount of activity on GitHub right now is crazy. Thoughts?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-22T08:59:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3hd4ovoo5wkh1.png?width=640&crop=smart&auto=webp&s=b99168e1dfadea0f2cb5b49fd12ebc121b84c65c"
+      },
+      {
+        "rank": 4,
+        "title": "Moderna's Vaccine Breakthrough Supported by AI: Musk Praises mRNA Despite 'Obvious Misuse During COVID'",
+        "url": "https://www.reddit.com/r/singularity/comments/1vvcmy2/modernas_vaccine_breakthrough_supported_by_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-22T13:35:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Alfww4WILzxUcbmO_TVJSCbV-B5s2njUgev9ddCSkfY.png?width=640&crop=smart&auto=webp&s=f0c037bdc43d1674b9980a8178289ca10addc1bb"
+      },
+      {
+        "rank": 5,
+        "title": "Hello Qwen... I mean Claude... I mean Qwen...",
+        "url": "https://www.reddit.com/r/singularity/comments/1vutyjz/hello_qwen_i_mean_claude_i_mean_qwen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-21T21:57:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zkt3u9vjvskh1.png?width=640&crop=smart&auto=webp&s=b42448e652875073203dbc3ce2f73622be49070a"
+      },
       {
         "rank": 1,
         "title": "Having unlimited tokens is wild",
@@ -56,53 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T04:39:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T09:37:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T17:32:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&crop=smart&auto=webp&s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85"
-      },
-      {
-        "rank": 4,
-        "title": "acl arr august 2026 (desk rejected ) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T14:02:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vus26i/hybrid_collaborative_filtering_recommendation/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T20:42:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zcz8hf1u6skh1.png?width=140&height=113&auto=webp&s=eb3136507a3bc923edeaf86880a1d987971f6ef7"
-      },
-      {
-        "rank": 1,
         "title": "This is why we can't have nice things.",
         "url": "https://www.reddit.com/r/codex/comments/1vuy7jq/this_is_why_we_cant_have_nice_things/",
         "source": "r/codex",
@@ -148,104 +246,6 @@
         "score": 0,
         "publishedAt": "2026-08-22T00:31:07.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "AI prompt was:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvgs2o/ai_prompt_was/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T16:24:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cfpdyz04dykh1.jpeg?width=640&crop=smart&auto=webp&s=7bb443610260617fe124755fadaa68de67f272a4"
-      },
-      {
-        "rank": 2,
-        "title": "gpt-reserve what is this?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vuzuuh/gptreserve_what_is_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T02:18:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/azsjxz756ukh1.png?width=640&crop=smart&auto=webp&s=780cfc21d0f0b3408462bb61cd22f7c7bd3b3eee"
-      },
-      {
-        "rank": 3,
-        "title": "I just wanted a workout guide for my wall",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvi428/i_just_wanted_a_workout_guide_for_my_wall/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T17:17:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/il1bzuedmykh1.png?width=640&crop=smart&auto=webp&s=1f7177c61cca40e1c0481a62efa22600a03e3bef"
-      },
-      {
-        "rank": 4,
-        "title": "I recently changed to Chatgpt pro, and I am super happy about it.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvajqz/i_recently_changed_to_chatgpt_pro_and_i_am_super/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T11:59:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Changes in Sol High across Chat/Codex",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vv0fkz/changes_in_sol_high_across_chatcodex/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T02:47:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "New anti-ai sloptube clickbait format just dropped",
-        "url": "https://www.reddit.com/r/singularity/comments/1vv4dlc/new_antiai_sloptube_clickbait_format_just_dropped/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-22T06:10:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/d8ducngvavkh1.png?width=640&crop=smart&auto=webp&s=a0b94c89521fbb9d0fba004f4b6eeb67c89b6691"
-      },
-      {
-        "rank": 2,
-        "title": "9.3 seconds…Humanoid robots now run faster than humans",
-        "url": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-22T16:57:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d2JqZ3pwOHdpeWtoMTboMkhRG4B8lP9wtWLsiZgo1zKIiuyIEKqnNowMAm9l.png?width=640&crop=smart&auto=webp&s=a3d9bfeb1bbd5692ed058472b2cb2212817b8f47"
-      },
-      {
-        "rank": 3,
-        "title": "The amount of activity on GitHub right now is crazy. Thoughts?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-22T08:59:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3hd4ovoo5wkh1.png?width=640&crop=smart&auto=webp&s=b99168e1dfadea0f2cb5b49fd12ebc121b84c65c"
-      },
-      {
-        "rank": 4,
-        "title": "Hello Qwen... I mean Claude... I mean Qwen...",
-        "url": "https://www.reddit.com/r/singularity/comments/1vutyjz/hello_qwen_i_mean_claude_i_mean_qwen/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-21T21:57:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zkt3u9vjvskh1.png?width=640&crop=smart&auto=webp&s=b42448e652875073203dbc3ce2f73622be49070a"
-      },
-      {
-        "rank": 5,
-        "title": "Moderna's Vaccine Breakthrough Supported by AI: Musk Praises mRNA Despite 'Obvious Misuse During COVID'",
-        "url": "https://www.reddit.com/r/singularity/comments/1vvcmy2/modernas_vaccine_breakthrough_supported_by_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-22T13:35:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Alfww4WILzxUcbmO_TVJSCbV-B5s2njUgev9ddCSkfY.png?width=640&crop=smart&auto=webp&s=f0c037bdc43d1674b9980a8178289ca10addc1bb"
       }
     ]
   }

@@ -1,10 +1,151 @@
 {
-  "fetchedAt": "2026-08-22T06:48:08.448Z",
+  "fetchedAt": "2026-08-22T07:36:51.312Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T04:39:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T16:38:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Research internship at MSR [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T16:47:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T08:54:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T16:37:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "gpt-reserve what is this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vuzuuh/gptreserve_what_is_this/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T02:18:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/azsjxz756ukh1.png?width=640&crop=smart&auto=webp&s=780cfc21d0f0b3408462bb61cd22f7c7bd3b3eee"
+      },
+      {
+        "rank": 2,
+        "title": "Is a “sealed sandbox” the same thing as a frozen evaluation protocol?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vub95d/is_a_sealed_sandbox_the_same_thing_as_a_frozen/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T09:19:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Changes in Sol High across Chat/Codex",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vv0fkz/changes_in_sol_high_across_chatcodex/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T02:47:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "PLEASE HELP!!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vudkxr/please_help/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T11:22:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/no8xr3j7qpkh1.png?width=640&crop=smart&auto=webp&s=da6497bd969398777ef28a67498098e337e88432"
+      },
+      {
+        "rank": 5,
+        "title": "Zero Data Retention is getting cross-interaction safety signals. What should customers be able to audit?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vufo02/zero_data_retention_is_getting_crossinteraction/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T12:58:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "NVIDIA’s coding agent scored 100% on ARC-AGI-3 interactive reasoning benchmark",
+        "url": "https://www.reddit.com/r/singularity/comments/1vuhlhn/nvidias_coding_agent_scored_100_on_arcagi3/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-21T14:15:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j0zurgq7lqkh1.jpeg?width=640&crop=smart&auto=webp&s=b9fb769dc79262a403153ed8aafb88c63d231391"
+      },
+      {
+        "rank": 2,
+        "title": "At WRC'26 Galbot showcased its new agile humanoid robot",
+        "url": "https://www.reddit.com/r/singularity/comments/1vuhk5b/at_wrc26_galbot_showcased_its_new_agile_humanoid/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-21T14:14:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bmZ6Nmc2eXhrcWtoMf3nZLJbiigzwW6bdCoj-g-i5DBvRx66t29mnRKNg1mm.png?width=320&crop=smart&auto=webp&s=325577820fd463f9225d702ccd52e05a72e981d1"
+      },
+      {
+        "rank": 3,
+        "title": "Hello Qwen... I mean Claude... I mean Qwen...",
+        "url": "https://www.reddit.com/r/singularity/comments/1vutyjz/hello_qwen_i_mean_claude_i_mean_qwen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-21T21:57:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zkt3u9vjvskh1.png?width=640&crop=smart&auto=webp&s=b42448e652875073203dbc3ce2f73622be49070a"
+      },
+      {
+        "rank": 4,
+        "title": "I fingerprinted Ox Alpha: same tokenizer as GLM-5.3 (+75 token offset), z.ai's exact error strings, near-identical temp-0 outputs",
+        "url": "https://www.reddit.com/r/singularity/comments/1vufbx1/i_fingerprinted_ox_alpha_same_tokenizer_as_glm53/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-21T12:43:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "New anti-ai sloptube clickbait format just dropped",
+        "url": "https://www.reddit.com/r/singularity/comments/1vv4dlc/new_antiai_sloptube_clickbait_format_just_dropped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-22T06:10:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/d8ducngvavkh1.png?width=640&crop=smart&auto=webp&s=a0b94c89521fbb9d0fba004f4b6eeb67c89b6691"
+      },
       {
         "rank": 1,
         "title": "decayfmt - A file format which corrupts a little every time you open it. (Please don't ask why)",
@@ -57,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T04:39:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T16:38:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Research internship at MSR [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T16:47:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T08:54:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "EMNLP 2026 Findings : worth attending in person?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T07:04:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Tibo!!! Banked one for all ... soon...",
         "url": "https://www.reddit.com/r/codex/comments/1vue1og/tibo_banked_one_for_all_soon/",
         "source": "r/codex",
@@ -148,101 +244,6 @@
         "publishedAt": "2026-08-21T17:02:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/njipx84perkh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=80974675077e0dd258b8ff8e2172791c197611a3"
-      },
-      {
-        "rank": 1,
-        "title": "gpt-reserve what is this?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vuzuuh/gptreserve_what_is_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T02:18:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/azsjxz756ukh1.png?width=640&crop=smart&auto=webp&s=780cfc21d0f0b3408462bb61cd22f7c7bd3b3eee"
-      },
-      {
-        "rank": 2,
-        "title": "PLEASE HELP!!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vudkxr/please_help/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T11:22:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/no8xr3j7qpkh1.png?width=640&crop=smart&auto=webp&s=da6497bd969398777ef28a67498098e337e88432"
-      },
-      {
-        "rank": 3,
-        "title": "Zero Data Retention is getting cross-interaction safety signals. What should customers be able to audit?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vufo02/zero_data_retention_is_getting_crossinteraction/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T12:58:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Changes in Sol High across Chat/Codex",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vv0fkz/changes_in_sol_high_across_chatcodex/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T02:47:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Chat GPT lost chat/wont syncronize ?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vunt28/chat_gpt_lost_chatwont_syncronize/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T18:04:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "NVIDIA’s coding agent scored 100% on ARC-AGI-3 interactive reasoning benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1vuhlhn/nvidias_coding_agent_scored_100_on_arcagi3/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-21T14:15:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j0zurgq7lqkh1.jpeg?width=640&crop=smart&auto=webp&s=b9fb769dc79262a403153ed8aafb88c63d231391"
-      },
-      {
-        "rank": 2,
-        "title": "A stealth model called Ox-Alpha has been released, outperforming Fable on SWE.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vu87p5/a_stealth_model_called_oxalpha_has_been_released/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-21T06:20:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "At WRC'26 Galbot showcased its new agile humanoid robot",
-        "url": "https://www.reddit.com/r/singularity/comments/1vuhk5b/at_wrc26_galbot_showcased_its_new_agile_humanoid/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-21T14:14:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bmZ6Nmc2eXhrcWtoMf3nZLJbiigzwW6bdCoj-g-i5DBvRx66t29mnRKNg1mm.png?width=320&crop=smart&auto=webp&s=325577820fd463f9225d702ccd52e05a72e981d1"
-      },
-      {
-        "rank": 4,
-        "title": "I fingerprinted Ox Alpha: same tokenizer as GLM-5.3 (+75 token offset), z.ai's exact error strings, near-identical temp-0 outputs",
-        "url": "https://www.reddit.com/r/singularity/comments/1vufbx1/i_fingerprinted_ox_alpha_same_tokenizer_as_glm53/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-21T12:43:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Hello Qwen... I mean Claude... I mean Qwen...",
-        "url": "https://www.reddit.com/r/singularity/comments/1vutyjz/hello_qwen_i_mean_claude_i_mean_qwen/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-21T21:57:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zkt3u9vjvskh1.png?width=640&crop=smart&auto=webp&s=b42448e652875073203dbc3ce2f73622be49070a"
       }
     ]
   }

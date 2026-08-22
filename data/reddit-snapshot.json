@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T14:27:11.444Z",
+  "fetchedAt": "2026-08-22T14:52:15.046Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Two weeks ago I gave Claude a domain and told it to build whatever it wanted. I finally checked the Cloudflare bill.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuhvta/two_weeks_ago_i_gave_claude_a_domain_and_told_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T14:26:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cxvpz6azmqkh1.png?width=140&height=109&auto=webp&s=f9d02bacf917b64602bb9d0e73f84b0029c38dd5"
-      },
-      {
-        "rank": 3,
         "title": "Oh Mythos 5 is no longer a dangerous model and can be used by enterprise now",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuovcy/oh_mythos_5_is_no_longer_a_dangerous_model_and/",
         "source": "r/ClaudeAI",
@@ -36,7 +26,7 @@
         "thumbnail": "https://preview.redd.it/0x7bnzptwrkh1.jpeg?width=640&crop=smart&auto=webp&s=3eb008751394934dfb06245c6bebee2d5d619810"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Is anyone else finding Claude really hard to follow lately? (Massive context dumps, cryptic phrasing)",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv14nh/is_anyone_else_finding_claude_really_hard_to/",
         "source": "r/ClaudeAI",
@@ -45,7 +35,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Haiku is the most maliciously compliant model I've been exposed to",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vutwll/haiku_is_the_most_maliciously_compliant_model_ive/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-08-21T21:55:36.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/52qqfgigtskh1.png?width=640&crop=smart&auto=webp&s=1a3b4910e5673e7cebeba4f9eba467f34defc0b4"
+      },
+      {
+        "rank": 5,
+        "title": "Claude refuses to recite public-domain poems, and much poetry discussion with it is impossible.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuttov/claude_refuses_to_recite_publicdomain_poems_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T21:52:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gf79imjgsskh1.png?width=640&crop=smart&auto=webp&s=513d85fdc329352f81271343aaabf4ae030ecad1"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T15:50:46.282Z",
+  "fetchedAt": "2026-08-22T16:30:43.786Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -43,26 +43,15 @@
       },
       {
         "rank": 5,
-        "title": "EMNLP26 Cost [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
+        "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-21T16:24:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/to16g93h7rkh1.png?width=140&height=48&auto=webp&s=96b72fe62af68603b123386ce4bc159d90457585"
+        "publishedAt": "2026-08-22T09:37:05.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Open AI CEO Sam Altman's sister Annie Altman posted this.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvedib/open_ai_ceo_sam_altmans_sister_annie_altman/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T14:48:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ihvcgy9ovxkh1.png?width=640&crop=smart&auto=webp&s=b15012c9b43192db62fe383618ea216df8422bf1"
-      },
-      {
-        "rank": 2,
         "title": "gpt-reserve what is this?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vuzuuh/gptreserve_what_is_this/",
         "source": "r/OpenAI",
@@ -72,7 +61,7 @@
         "thumbnail": "https://preview.redd.it/azsjxz756ukh1.png?width=640&crop=smart&auto=webp&s=780cfc21d0f0b3408462bb61cd22f7c7bd3b3eee"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Changes in Sol High across Chat/Codex",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vv0fkz/changes_in_sol_high_across_chatcodex/",
         "source": "r/OpenAI",
@@ -81,13 +70,23 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I recently changed to Chatgpt pro, and I am super happy about it.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvajqz/i_recently_changed_to_chatgpt_pro_and_i_am_super/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-22T11:59:38.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "\"One robot could infect other vulnerable robots nearby ... Attackers could take control of entire fleets of robots.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vvbe8s/one_robot_could_infect_other_vulnerable_robots/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T12:40:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uiov1m4f8xkh1.png?width=640&crop=smart&auto=webp&s=d1d9cae6855680e8af423f5323281493eef2d58c"
       },
       {
         "rank": 5,

@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-22T13:36:48.218Z",
+  "fetchedAt": "2026-08-22T14:27:11.444Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Having unlimited tokens is wild",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuuiot/having_unlimited_tokens_is_wild/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T22:20:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qgt7emeeuskh1.png?width=640&crop=smart&auto=webp&s=dc8e0a7d0aa0fd240782c74087678a39d4fed012"
+      },
+      {
+        "rank": 2,
+        "title": "Two weeks ago I gave Claude a domain and told it to build whatever it wanted. I finally checked the Cloudflare bill.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuhvta/two_weeks_ago_i_gave_claude_a_domain_and_told_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T14:26:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cxvpz6azmqkh1.png?width=140&height=109&auto=webp&s=f9d02bacf917b64602bb9d0e73f84b0029c38dd5"
+      },
+      {
+        "rank": 3,
+        "title": "Oh Mythos 5 is no longer a dangerous model and can be used by enterprise now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuovcy/oh_mythos_5_is_no_longer_a_dangerous_model_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T18:42:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0x7bnzptwrkh1.jpeg?width=640&crop=smart&auto=webp&s=3eb008751394934dfb06245c6bebee2d5d619810"
+      },
+      {
+        "rank": 4,
+        "title": "Is anyone else finding Claude really hard to follow lately? (Massive context dumps, cryptic phrasing)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv14nh/is_anyone_else_finding_claude_really_hard_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T03:21:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Haiku is the most maliciously compliant model I've been exposed to",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vutwll/haiku_is_the_most_maliciously_compliant_model_ive/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-21T21:55:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/52qqfgigtskh1.png?width=640&crop=smart&auto=webp&s=1a3b4910e5673e7cebeba4f9eba467f34defc0b4"
+      },
       {
         "rank": 1,
         "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
@@ -50,6 +99,56 @@
         "publishedAt": "2026-08-21T16:24:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/to16g93h7rkh1.png?width=140&height=48&auto=webp&s=96b72fe62af68603b123386ce4bc159d90457585"
+      },
+      {
+        "rank": 1,
+        "title": "This is why we can't have nice things.",
+        "url": "https://www.reddit.com/r/codex/comments/1vuy7jq/this_is_why_we_cant_have_nice_things/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T01:00:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iujuy3pastkh1.png?width=640&crop=smart&auto=webp&s=8ae6bb1a9d676cca0d8c764859834186d84962fa"
+      },
+      {
+        "rank": 2,
+        "title": "Tibo acknowledges usage issues",
+        "url": "https://www.reddit.com/r/codex/comments/1vv49ty/tibo_acknowledges_usage_issues/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T06:04:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w63u75ogavkh1.jpeg?width=640&crop=smart&auto=webp&s=4cab26ab3b2ca223ce13134c574f1ec7ae3d8926"
+      },
+      {
+        "rank": 3,
+        "title": "our overlords actually want to encourage the use of sub2api, it seems",
+        "url": "https://www.reddit.com/r/codex/comments/1vukol1/our_overlords_actually_want_to_encourage_the_use/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T16:10:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1gf5jvql5rkh1.png?width=640&crop=smart&auto=webp&s=18ce57f92106c75fa6c067e90781d7e7da1dafcf"
+      },
+      {
+        "rank": 4,
+        "title": "Wow, over 500 of you are now tracking Codex limit degradation using TiboTattle! Some findings so far...",
+        "url": "https://www.reddit.com/r/codex/comments/1vum3wy/wow_over_500_of_you_are_now_tracking_codex_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T17:02:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/njipx84perkh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=80974675077e0dd258b8ff8e2172791c197611a3"
+      },
+      {
+        "rank": 5,
+        "title": "Something new coming today!",
+        "url": "https://www.reddit.com/r/codex/comments/1vujb3z/something_new_coming_today/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-21T15:20:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fo14obccwqkh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9be2d4301ad7a88ca2f7bf9b5df5111913649777"
       },
       {
         "rank": 1,
@@ -147,105 +246,6 @@
         "publishedAt": "2026-08-21T21:57:51.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zkt3u9vjvskh1.png?width=640&crop=smart&auto=webp&s=b42448e652875073203dbc3ce2f73622be49070a"
-      },
-      {
-        "rank": 1,
-        "title": "decayfmt - A file format which corrupts a little every time you open it. (Please don't ask why)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuh7rl/decayfmt_a_file_format_which_corrupts_a_little/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T14:01:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/70n6srgfiqkh1.gif?width=640&crop=smart&s=0756d9cf347cb845342c71a17cdadcde23a3940a"
-      },
-      {
-        "rank": 2,
-        "title": "Having unlimited tokens is wild",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuuiot/having_unlimited_tokens_is_wild/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T22:20:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qgt7emeeuskh1.png?width=640&crop=smart&auto=webp&s=dc8e0a7d0aa0fd240782c74087678a39d4fed012"
-      },
-      {
-        "rank": 3,
-        "title": "Two weeks ago I gave Claude a domain and told it to build whatever it wanted. I finally checked the Cloudflare bill.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuhvta/two_weeks_ago_i_gave_claude_a_domain_and_told_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T14:26:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cxvpz6azmqkh1.png?width=140&height=109&auto=webp&s=f9d02bacf917b64602bb9d0e73f84b0029c38dd5"
-      },
-      {
-        "rank": 4,
-        "title": "Oh Mythos 5 is no longer a dangerous model and can be used by enterprise now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuovcy/oh_mythos_5_is_no_longer_a_dangerous_model_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T18:42:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0x7bnzptwrkh1.jpeg?width=640&crop=smart&auto=webp&s=3eb008751394934dfb06245c6bebee2d5d619810"
-      },
-      {
-        "rank": 5,
-        "title": "Is anyone else finding Claude really hard to follow lately? (Massive context dumps, cryptic phrasing)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv14nh/is_anyone_else_finding_claude_really_hard_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T03:21:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "This is why we can't have nice things.",
-        "url": "https://www.reddit.com/r/codex/comments/1vuy7jq/this_is_why_we_cant_have_nice_things/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T01:00:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iujuy3pastkh1.png?width=640&crop=smart&auto=webp&s=8ae6bb1a9d676cca0d8c764859834186d84962fa"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo acknowledges usage issues",
-        "url": "https://www.reddit.com/r/codex/comments/1vv49ty/tibo_acknowledges_usage_issues/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T06:04:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w63u75ogavkh1.jpeg?width=640&crop=smart&auto=webp&s=4cab26ab3b2ca223ce13134c574f1ec7ae3d8926"
-      },
-      {
-        "rank": 3,
-        "title": "our overlords actually want to encourage the use of sub2api, it seems",
-        "url": "https://www.reddit.com/r/codex/comments/1vukol1/our_overlords_actually_want_to_encourage_the_use/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T16:10:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1gf5jvql5rkh1.png?width=640&crop=smart&auto=webp&s=18ce57f92106c75fa6c067e90781d7e7da1dafcf"
-      },
-      {
-        "rank": 4,
-        "title": "Wow, over 500 of you are now tracking Codex limit degradation using TiboTattle! Some findings so far...",
-        "url": "https://www.reddit.com/r/codex/comments/1vum3wy/wow_over_500_of_you_are_now_tracking_codex_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T17:02:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/njipx84perkh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=80974675077e0dd258b8ff8e2172791c197611a3"
-      },
-      {
-        "rank": 5,
-        "title": "Something new coming today!",
-        "url": "https://www.reddit.com/r/codex/comments/1vujb3z/something_new_coming_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T15:20:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fo14obccwqkh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9be2d4301ad7a88ca2f7bf9b5df5111913649777"
       }
     ]
   }

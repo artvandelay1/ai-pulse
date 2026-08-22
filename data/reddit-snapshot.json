@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T16:56:08.595Z",
+  "fetchedAt": "2026-08-22T17:26:09.471Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -83,15 +83,6 @@
       },
       {
         "rank": 4,
-        "title": "What coding practices are you adopting for development today? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T17:10:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vus26i/hybrid_collaborative_filtering_recommendation/",
         "source": "r/MachineLearning",
@@ -99,6 +90,15 @@
         "publishedAt": "2026-08-21T20:42:41.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zcz8hf1u6skh1.png?width=140&height=113&auto=webp&s=eb3136507a3bc923edeaf86880a1d987971f6ef7"
+      },
+      {
+        "rank": 5,
+        "title": "repo2nb 0.2.0, convert a GitHub repo into a Kaggle/Colab notebook (dependency resolution, reverse mode, incremental sync) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-21T17:53:36.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -122,16 +122,6 @@
       },
       {
         "rank": 3,
-        "title": "Wow, over 500 of you are now tracking Codex limit degradation using TiboTattle! Some findings so far...",
-        "url": "https://www.reddit.com/r/codex/comments/1vum3wy/wow_over_500_of_you_are_now_tracking_codex_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-21T17:02:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/njipx84perkh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=80974675077e0dd258b8ff8e2172791c197611a3"
-      },
-      {
-        "rank": 4,
         "title": "By optimizing your Codex prompt caching, your total budget can go ~12× — potentially 1,000+ extra messages",
         "url": "https://www.reddit.com/r/codex/comments/1vv555a/by_optimizing_your_codex_prompt_caching_your/",
         "source": "r/codex",
@@ -140,7 +130,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Individual subscribers go eff yourself",
         "url": "https://www.reddit.com/r/codex/comments/1vuqhuk/individual_subscribers_go_eff_yourself/",
         "source": "r/codex",
@@ -148,6 +138,15 @@
         "publishedAt": "2026-08-21T19:42:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/l5tv5w9j7skh1.jpeg?width=640&crop=smart&auto=webp&s=7cb950b45ab954f796bac3621448b35b47fc5ca9"
+      },
+      {
+        "rank": 5,
+        "title": "I want to say thanks to everybody in here.",
+        "url": "https://www.reddit.com/r/codex/comments/1vuxk10/i_want_to_say_thanks_to_everybody_in_here/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T00:31:07.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

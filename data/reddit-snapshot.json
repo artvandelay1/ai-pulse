@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T21:50:14.970Z",
+  "fetchedAt": "2026-08-22T22:28:09.577Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Having unlimited tokens is wild",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vuuiot/having_unlimited_tokens_is_wild/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-21T22:20:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qgt7emeeuskh1.png?width=640&crop=smart&auto=webp&s=dc8e0a7d0aa0fd240782c74087678a39d4fed012"
-      },
-      {
-        "rank": 2,
         "title": "I built an English ↔ Claudish translator",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvi3x1/i_built_an_english_claudish_translator/",
         "source": "r/ClaudeAI",
@@ -26,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/qi4ksw37mykh1.png?width=640&crop=smart&auto=webp&s=99c33719c01f6037faaac3caa1d8e600787f4857"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Is anyone else finding Claude really hard to follow lately? (Massive context dumps, cryptic phrasing)",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vv14nh/is_anyone_else_finding_claude_really_hard_to/",
         "source": "r/ClaudeAI",
@@ -35,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Anthropic Stealth Nerfing Effort Levels",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjr5n/anthropic_stealth_nerfing_effort_levels/",
         "source": "r/ClaudeAI",
@@ -44,14 +34,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Haiku is the most maliciously compliant model I've been exposed to",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vutwll/haiku_is_the_most_maliciously_compliant_model_ive/",
+        "rank": 4,
+        "title": "What do people mean by \"my harness\" re: agentic coding?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-21T21:55:36.000Z",
+        "publishedAt": "2026-08-22T18:13:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Just in case you needed to know, Domino's India is a certified connector for Claude.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvlv0p/just_in_case_you_needed_to_know_dominos_india_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T19:42:08.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/52qqfgigtskh1.png?width=640&crop=smart&auto=webp&s=1a3b4910e5673e7cebeba4f9eba467f34defc0b4"
+        "thumbnail": "https://preview.redd.it/qgekxbt5czkh1.png?width=320&crop=smart&auto=webp&s=648407f7e969854ba5220dcb42c20cc94ec881c9"
       },
       {
         "rank": 1,

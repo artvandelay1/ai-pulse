@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T17:50:48.267Z",
+  "fetchedAt": "2026-08-22T18:37:50.831Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,16 @@
       },
       {
         "rank": 3,
+        "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T17:32:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&crop=smart&auto=webp&s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85"
+      },
+      {
+        "rank": 4,
         "title": "acl arr august 2026 (desk rejected ) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
         "source": "r/MachineLearning",
@@ -33,7 +43,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vus26i/hybrid_collaborative_filtering_recommendation/",
         "source": "r/MachineLearning",
@@ -41,15 +51,6 @@
         "publishedAt": "2026-08-21T20:42:41.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zcz8hf1u6skh1.png?width=140&height=113&auto=webp&s=eb3136507a3bc923edeaf86880a1d987971f6ef7"
-      },
-      {
-        "rank": 5,
-        "title": "repo2nb 0.2.0, convert a GitHub repo into a Kaggle/Colab notebook (dependency resolution, reverse mode, incremental sync) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-21T17:53:36.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -73,6 +74,16 @@
       },
       {
         "rank": 3,
+        "title": "I just wanted a workout guide for my wall",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vvi428/i_just_wanted_a_workout_guide_for_my_wall/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T17:17:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/il1bzuedmykh1.png?width=640&crop=smart&auto=webp&s=1f7177c61cca40e1c0481a62efa22600a03e3bef"
+      },
+      {
+        "rank": 4,
         "title": "I recently changed to Chatgpt pro, and I am super happy about it.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvajqz/i_recently_changed_to_chatgpt_pro_and_i_am_super/",
         "source": "r/OpenAI",
@@ -81,23 +92,13 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Changes in Sol High across Chat/Codex",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vv0fkz/changes_in_sol_high_across_chatcodex/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-22T02:47:10.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "\"One robot could infect other vulnerable robots nearby ... Attackers could take control of entire fleets of robots.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvbe8s/one_robot_could_infect_other_vulnerable_robots/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T12:40:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uiov1m4f8xkh1.png?width=640&crop=smart&auto=webp&s=d1d9cae6855680e8af423f5323281493eef2d58c"
       },
       {
         "rank": 1,
@@ -111,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "The amount of activity on GitHub right now is crazy. Thoughts?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-22T08:59:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3hd4ovoo5wkh1.png?width=640&crop=smart&auto=webp&s=b99168e1dfadea0f2cb5b49fd12ebc121b84c65c"
-      },
-      {
-        "rank": 3,
         "title": "9.3 seconds…Humanoid robots now run faster than humans",
         "url": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
         "source": "r/singularity",
@@ -128,6 +119,16 @@
         "publishedAt": "2026-08-22T16:57:11.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/d2JqZ3pwOHdpeWtoMTboMkhRG4B8lP9wtWLsiZgo1zKIiuyIEKqnNowMAm9l.png?width=640&crop=smart&auto=webp&s=a3d9bfeb1bbd5692ed058472b2cb2212817b8f47"
+      },
+      {
+        "rank": 3,
+        "title": "The amount of activity on GitHub right now is crazy. Thoughts?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-22T08:59:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3hd4ovoo5wkh1.png?width=640&crop=smart&auto=webp&s=b99168e1dfadea0f2cb5b49fd12ebc121b84c65c"
       },
       {
         "rank": 4,

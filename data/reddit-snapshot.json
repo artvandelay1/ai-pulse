@@ -1,10 +1,56 @@
 {
-  "fetchedAt": "2026-08-23T08:36:50.331Z",
+  "fetchedAt": "2026-08-23T09:33:43.451Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "acl arr august 2026 (desk rejected ) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T14:02:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T09:37:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Implementing Watermarking for Language Models [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T08:09:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T17:32:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&crop=smart&auto=webp&s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85"
+      },
+      {
+        "rank": 5,
+        "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T14:30:28.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I just wanted a workout guide for my wall",
@@ -65,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "The amount of activity on GitHub right now is crazy. Thoughts?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-22T08:59:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3hd4ovoo5wkh1.png?width=640&crop=smart&auto=webp&s=b99168e1dfadea0f2cb5b49fd12ebc121b84c65c"
-      },
-      {
-        "rank": 3,
         "title": "Let's hide data centers in cities with Greco-Deco data center designs, They will never see it comming",
         "url": "https://www.reddit.com/r/singularity/comments/1vvilkf/lets_hide_data_centers_in_cities_with_grecodeco/",
         "source": "r/singularity",
@@ -84,7 +120,7 @@
         "thumbnail": "https://preview.redd.it/0xnkec4upykh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c50a5e84a49185990091ff5a33e5ebc679b8c634"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Moderna's Vaccine Breakthrough Supported by AI: Musk Praises mRNA Despite 'Obvious Misuse During COVID'",
         "url": "https://www.reddit.com/r/singularity/comments/1vvcmy2/modernas_vaccine_breakthrough_supported_by_ai/",
         "source": "r/singularity",
@@ -94,7 +130,7 @@
         "thumbnail": "https://external-preview.redd.it/Alfww4WILzxUcbmO_TVJSCbV-B5s2njUgev9ddCSkfY.png?width=640&crop=smart&auto=webp&s=f0c037bdc43d1674b9980a8178289ca10addc1bb"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "WHRG’26 featured the first-ever live-streamed human-robot doubles tennis match, featuring Galbot humanoid robots",
         "url": "https://www.reddit.com/r/singularity/comments/1vvmt8a/whrg26_featured_the_firstever_livestreamed/",
         "source": "r/singularity",
@@ -102,6 +138,16 @@
         "publishedAt": "2026-08-22T20:19:19.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/YXpsbnBjeXBpemtoMTRltXtLa0nTHV5Vp_qYnswtbXGCVox3csXkcVa-_mJF.png?width=640&crop=smart&auto=webp&s=871c529a9346dbe36712d162e7dddd33202b314c"
+      },
+      {
+        "rank": 5,
+        "title": "Ox Alpha can't be the Chinese.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vv8njv/ox_alpha_cant_be_the_chinese/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-22T10:19:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hj8haw6wjwkh1.jpeg?width=640&crop=smart&auto=webp&s=4927a4685e416103b51aa9015917ed6adbabead6"
       },
       {
         "rank": 1,
@@ -150,52 +196,6 @@
         "publishedAt": "2026-08-23T01:37:07.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/43r4kuf531lh1.png?width=640&crop=smart&auto=webp&s=a104aeb9801337f922a8c97962f8fd75f7ab4eb0"
-      },
-      {
-        "rank": 1,
-        "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T09:37:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "acl arr august 2026 (desk rejected ) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T14:02:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T17:32:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&crop=smart&auto=webp&s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85"
-      },
-      {
-        "rank": 4,
-        "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T14:30:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "How to grow a project? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T00:31:31.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

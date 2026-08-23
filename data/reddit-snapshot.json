@@ -1,10 +1,56 @@
 {
-  "fetchedAt": "2026-08-23T20:53:42.141Z",
+  "fetchedAt": "2026-08-23T21:27:09.038Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Yeah, feels like something's wrong.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvtz9b/yeah_feels_like_somethings_wrong/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T01:37:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/43r4kuf531lh1.png?width=640&crop=smart&auto=webp&s=a104aeb9801337f922a8c97962f8fd75f7ab4eb0"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic uploaded 8+ hours of talks from \"Code w/ Claude\" SF — all 19 videos (free on YouTube)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw0osz/anthropic_uploaded_8_hours_of_talks_from_code_w/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T07:35:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Why do most tech subs seem to hate Claude so much?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw1gfy/why_do_most_tech_subs_seem_to_hate_claude_so_much/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T08:21:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built one app to replace Adobe Illustrator, Lightroom and most of After Effects. The Figma part is next.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvspv7/i_built_one_app_to_replace_adobe_illustrator/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T00:36:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "About 12 F***ing Ounces - Claude Selve Serve Beer Wall and POS",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvqzwh/about_12_fing_ounces_claude_selve_serve_beer_wall/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T23:18:13.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Implementing Watermarking for Language Models [P]",
@@ -48,6 +94,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-23T00:31:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Update from Tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1vvz89n/update_from_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T06:13:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ce35d31ug2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=58fd80fc5b6e7b7630386334ee70c0b0340aa2e6"
+      },
+      {
+        "rank": 2,
+        "title": "Finally a proper way to inform the users",
+        "url": "https://www.reddit.com/r/codex/comments/1vw07gt/finally_a_proper_way_to_inform_the_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T07:08:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xl7e263gq2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b061632cefd063cbe2335168a1b420681e331c40"
+      },
+      {
+        "rank": 3,
+        "title": "So it turns out that we were not imagining the change in the Codex usage recently",
+        "url": "https://www.reddit.com/r/codex/comments/1vw7bq2/so_it_turns_out_that_we_were_not_imagining_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T13:32:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/17jgtjr4n4lh1.png?width=140&height=120&auto=webp&s=6c8f43d93fcadfe0196c5d4dfc39e400e7b19de2"
+      },
+      {
+        "rank": 4,
+        "title": "Credits came yesterday. Today its over. Soo fast",
+        "url": "https://www.reddit.com/r/codex/comments/1vw3uxw/credits_came_yesterday_today_its_over_soo_fast/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T10:41:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9t9zlx6qs3lh1.jpeg?width=640&crop=smart&auto=webp&s=9aba21a07053dec47bdffab65b915e886eacc18e"
+      },
+      {
+        "rank": 5,
+        "title": "Reset in 6 hours?",
+        "url": "https://www.reddit.com/r/codex/comments/1vw92p7/reset_in_6_hours/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T14:45:55.000Z",
         "category": "reddit"
       },
       {
@@ -147,101 +242,6 @@
         "publishedAt": "2026-08-23T13:39:03.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/o955B13fzC6irE0taSV2E7-2g1dc_0ZFMYOCQteLdjM.jpeg?width=640&crop=smart&auto=webp&s=f937ff7a253e7263ece34399247ac09f129b866a"
-      },
-      {
-        "rank": 1,
-        "title": "Yeah, feels like something's wrong.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvtz9b/yeah_feels_like_somethings_wrong/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T01:37:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/43r4kuf531lh1.png?width=640&crop=smart&auto=webp&s=a104aeb9801337f922a8c97962f8fd75f7ab4eb0"
-      },
-      {
-        "rank": 2,
-        "title": "Devs who actually use Claude Code properly (not vibe coding) — what's your take?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvo1a5/devs_who_actually_use_claude_code_properly_not/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T21:09:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic uploaded 8+ hours of talks from \"Code w/ Claude\" SF — all 19 videos (free on YouTube)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw0osz/anthropic_uploaded_8_hours_of_talks_from_code_w/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T07:35:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Why do most tech subs seem to hate Claude so much?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vw1gfy/why_do_most_tech_subs_seem_to_hate_claude_so_much/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T08:21:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I built one app to replace Adobe Illustrator, Lightroom and most of After Effects. The Figma part is next.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvspv7/i_built_one_app_to_replace_adobe_illustrator/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T00:36:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Update from Tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1vvz89n/update_from_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T06:13:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ce35d31ug2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=58fd80fc5b6e7b7630386334ee70c0b0340aa2e6"
-      },
-      {
-        "rank": 2,
-        "title": "Finally a proper way to inform the users",
-        "url": "https://www.reddit.com/r/codex/comments/1vw07gt/finally_a_proper_way_to_inform_the_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T07:08:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xl7e263gq2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b061632cefd063cbe2335168a1b420681e331c40"
-      },
-      {
-        "rank": 3,
-        "title": "So it turns out that we were not imagining the change in the Codex usage recently",
-        "url": "https://www.reddit.com/r/codex/comments/1vw7bq2/so_it_turns_out_that_we_were_not_imagining_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T13:32:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/17jgtjr4n4lh1.png?width=140&height=120&auto=webp&s=6c8f43d93fcadfe0196c5d4dfc39e400e7b19de2"
-      },
-      {
-        "rank": 4,
-        "title": "Credits came yesterday. Today its over. Soo fast",
-        "url": "https://www.reddit.com/r/codex/comments/1vw3uxw/credits_came_yesterday_today_its_over_soo_fast/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T10:41:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9t9zlx6qs3lh1.jpeg?width=640&crop=smart&auto=webp&s=9aba21a07053dec47bdffab65b915e886eacc18e"
-      },
-      {
-        "rank": 5,
-        "title": "Reset in 6 hours?",
-        "url": "https://www.reddit.com/r/codex/comments/1vw92p7/reset_in_6_hours/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T14:45:55.000Z",
-        "category": "reddit"
       }
     ]
   }

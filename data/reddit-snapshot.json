@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-23T11:49:48.194Z",
+  "fetchedAt": "2026-08-23T12:49:06.846Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built an English ↔ Claudish translator",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvi3x1/i_built_an_english_claudish_translator/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T17:17:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qi4ksw37mykh1.png?width=640&crop=smart&auto=webp&s=99c33719c01f6037faaac3caa1d8e600787f4857"
+      },
+      {
+        "rank": 2,
+        "title": "Devs who actually use Claude Code properly (not vibe coding) — what's your take?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvo1a5/devs_who_actually_use_claude_code_properly_not/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T21:09:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Yeah, feels like something's wrong.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvtz9b/yeah_feels_like_somethings_wrong/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T01:37:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/43r4kuf531lh1.png?width=640&crop=smart&auto=webp&s=a104aeb9801337f922a8c97962f8fd75f7ab4eb0"
+      },
+      {
+        "rank": 4,
+        "title": "Just in case you needed to know, Domino's India is a certified connector for Claude.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvlv0p/just_in_case_you_needed_to_know_dominos_india_is/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T19:42:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qgekxbt5czkh1.png?width=320&crop=smart&auto=webp&s=648407f7e969854ba5220dcb42c20cc94ec881c9"
+      },
+      {
+        "rank": 5,
+        "title": "What do people mean by \"my harness\" re: agentic coding?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-22T18:13:56.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Implementing Watermarking for Language Models [P]",
@@ -49,6 +97,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-22T14:30:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Update from Tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1vvz89n/update_from_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T06:13:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ce35d31ug2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=58fd80fc5b6e7b7630386334ee70c0b0340aa2e6"
+      },
+      {
+        "rank": 2,
+        "title": "Finally a proper way to inform the users",
+        "url": "https://www.reddit.com/r/codex/comments/1vw07gt/finally_a_proper_way_to_inform_the_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T07:08:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xl7e263gq2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b061632cefd063cbe2335168a1b420681e331c40"
+      },
+      {
+        "rank": 3,
+        "title": "Anyone else's limits really fucked this week?",
+        "url": "https://www.reddit.com/r/codex/comments/1vvdpur/anyone_elses_limits_really_fucked_this_week/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T14:21:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Credits came yesterday. Today its over. Soo fast",
+        "url": "https://www.reddit.com/r/codex/comments/1vw3uxw/credits_came_yesterday_today_its_over_soo_fast/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T10:41:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9t9zlx6qs3lh1.jpeg?width=640&crop=smart&auto=webp&s=9aba21a07053dec47bdffab65b915e886eacc18e"
+      },
+      {
+        "rank": 5,
+        "title": "/goal doesn’t even “produce” what I wanted",
+        "url": "https://www.reddit.com/r/codex/comments/1vvyj4w/goal_doesnt_even_produce_what_i_wanted/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-23T05:33:36.000Z",
         "category": "reddit"
       },
       {
@@ -148,103 +244,6 @@
         "publishedAt": "2026-08-23T00:24:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9mfvxg6dq0lh1.png?width=640&crop=smart&auto=webp&s=e7acd09f37fb4d5d63469173894db6b66b0c9300"
-      },
-      {
-        "rank": 1,
-        "title": "I built an English ↔ Claudish translator",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvi3x1/i_built_an_english_claudish_translator/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T17:17:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qi4ksw37mykh1.png?width=640&crop=smart&auto=webp&s=99c33719c01f6037faaac3caa1d8e600787f4857"
-      },
-      {
-        "rank": 2,
-        "title": "Devs who actually use Claude Code properly (not vibe coding) — what's your take?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvo1a5/devs_who_actually_use_claude_code_properly_not/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T21:09:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Just in case you needed to know, Domino's India is a certified connector for Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvlv0p/just_in_case_you_needed_to_know_dominos_india_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T19:42:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qgekxbt5czkh1.png?width=320&crop=smart&auto=webp&s=648407f7e969854ba5220dcb42c20cc94ec881c9"
-      },
-      {
-        "rank": 4,
-        "title": "Yeah, feels like something's wrong.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvtz9b/yeah_feels_like_somethings_wrong/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T01:37:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/43r4kuf531lh1.png?width=640&crop=smart&auto=webp&s=a104aeb9801337f922a8c97962f8fd75f7ab4eb0"
-      },
-      {
-        "rank": 5,
-        "title": "What do people mean by \"my harness\" re: agentic coding?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T18:13:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "New model \"Reserve\" appeared on Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1vvbbza/new_model_reserve_appeared_on_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T12:36:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/67jlb5wf8xkh1.png?width=640&crop=smart&auto=webp&s=b2af623a0cb76307cb1261bf2fd9a6b2e9d142ee"
-      },
-      {
-        "rank": 2,
-        "title": "Update from Tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1vvz89n/update_from_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T06:13:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ce35d31ug2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=58fd80fc5b6e7b7630386334ee70c0b0340aa2e6"
-      },
-      {
-        "rank": 3,
-        "title": "Anyone else's limits really fucked this week?",
-        "url": "https://www.reddit.com/r/codex/comments/1vvdpur/anyone_elses_limits_really_fucked_this_week/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T14:21:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Finally a proper way to inform the users",
-        "url": "https://www.reddit.com/r/codex/comments/1vw07gt/finally_a_proper_way_to_inform_the_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T07:08:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xl7e263gq2lh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b061632cefd063cbe2335168a1b420681e331c40"
-      },
-      {
-        "rank": 5,
-        "title": "Credits came yesterday. Today its over. Soo fast",
-        "url": "https://www.reddit.com/r/codex/comments/1vw3uxw/credits_came_yesterday_today_its_over_soo_fast/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T10:41:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9t9zlx6qs3lh1.jpeg?width=640&crop=smart&auto=webp&s=9aba21a07053dec47bdffab65b915e886eacc18e"
       }
     ]
   }

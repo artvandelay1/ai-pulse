@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T05:05:09.301Z",
+  "fetchedAt": "2026-08-23T06:52:10.284Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,15 +27,6 @@
       },
       {
         "rank": 3,
-        "title": "What do people mean by \"my harness\" re: agentic coding?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T18:13:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Devs who actually use Claude Code properly (not vibe coding) — what's your take?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvo1a5/devs_who_actually_use_claude_code_properly_not/",
         "source": "r/ClaudeAI",
@@ -44,13 +35,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Anthropic: Please Have Daisy the CC Engineer Do a Video!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvn0dy/anthropic_please_have_daisy_the_cc_engineer_do_a/",
+        "rank": 4,
+        "title": "What do people mean by \"my harness\" re: agentic coding?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvjl5y/what_do_people_mean_by_my_harness_re_agentic/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-22T20:27:22.000Z",
+        "publishedAt": "2026-08-22T18:13:56.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Yeah, feels like something's wrong.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vvtz9b/yeah_feels_like_somethings_wrong/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T01:37:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/43r4kuf531lh1.png?width=640&crop=smart&auto=webp&s=a104aeb9801337f922a8c97962f8fd75f7ab4eb0"
       },
       {
         "rank": 1,
@@ -100,16 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "Tibo acknowledges usage issues",
-        "url": "https://www.reddit.com/r/codex/comments/1vv49ty/tibo_acknowledges_usage_issues/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-22T06:04:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w63u75ogavkh1.jpeg?width=640&crop=smart&auto=webp&s=4cab26ab3b2ca223ce13134c574f1ec7ae3d8926"
-      },
-      {
-        "rank": 2,
         "title": "New model \"Reserve\" appeared on Codex",
         "url": "https://www.reddit.com/r/codex/comments/1vvbbza/new_model_reserve_appeared_on_codex/",
         "source": "r/codex",
@@ -119,7 +110,7 @@
         "thumbnail": "https://preview.redd.it/67jlb5wf8xkh1.png?width=640&crop=smart&auto=webp&s=b2af623a0cb76307cb1261bf2fd9a6b2e9d142ee"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "By optimizing your Codex prompt caching, your total budget can go ~12× — potentially 1,000+ extra messages",
         "url": "https://www.reddit.com/r/codex/comments/1vv555a/by_optimizing_your_codex_prompt_caching_your/",
         "source": "r/codex",
@@ -128,7 +119,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "0x Alpha",
         "url": "https://www.reddit.com/r/codex/comments/1vv8dlp/0x_alpha/",
         "source": "r/codex",
@@ -137,12 +128,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Anyone else's limits really fucked this week?",
         "url": "https://www.reddit.com/r/codex/comments/1vvdpur/anyone_elses_limits_really_fucked_this_week/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-22T14:21:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "My biggest usage gripe",
+        "url": "https://www.reddit.com/r/codex/comments/1vv9m6c/my_biggest_usage_gripe/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-22T11:11:28.000Z",
         "category": "reddit"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T09:33:43.451Z",
+  "fetchedAt": "2026-08-23T10:29:44.070Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,24 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "acl arr august 2026 (desk rejected ) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T14:02:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Why does lightgbm not fit my toy example but catboost does? (2 order interactions) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T09:37:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Implementing Watermarking for Language Models [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
         "source": "r/MachineLearning",
@@ -33,7 +15,16 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "title": "acl arr august 2026 (desk rejected ) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T14:02:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "thumbnail": "https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&crop=smart&auto=webp&s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-22T14:30:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How to grow a project? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T00:31:31.000Z",
         "category": "reddit"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T13:36:48.682Z",
+  "fetchedAt": "2026-08-23T14:29:45.912Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "acl arr august 2026 (desk rejected ) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-22T14:02:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
         "source": "r/MachineLearning",
@@ -34,7 +25,7 @@
         "thumbnail": "https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&crop=smart&auto=webp&s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-23T12:30:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-22T14:30:28.000Z",
         "category": "reddit"
       },
       {
@@ -132,16 +132,6 @@
       },
       {
         "rank": 4,
-        "title": "Moderna's Vaccine Breakthrough Supported by AI: Musk Praises mRNA Despite 'Obvious Misuse During COVID'",
-        "url": "https://www.reddit.com/r/singularity/comments/1vvcmy2/modernas_vaccine_breakthrough_supported_by_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-22T13:35:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Alfww4WILzxUcbmO_TVJSCbV-B5s2njUgev9ddCSkfY.png?width=640&crop=smart&auto=webp&s=f0c037bdc43d1674b9980a8178289ca10addc1bb"
-      },
-      {
-        "rank": 5,
         "title": "Coding Is solved, Bugs are Not Yet Solved",
         "url": "https://www.reddit.com/r/singularity/comments/1vvsh6l/coding_is_solved_bugs_are_not_yet_solved/",
         "source": "r/singularity",
@@ -149,6 +139,15 @@
         "publishedAt": "2026-08-23T00:24:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9mfvxg6dq0lh1.png?width=640&crop=smart&auto=webp&s=e7acd09f37fb4d5d63469173894db6b66b0c9300"
+      },
+      {
+        "rank": 5,
+        "title": "What do you think is the long term solution and/or endgame of this RAM crisis? Asking here, because I am pro-AI.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vvwfbq/what_do_you_think_is_the_long_term_solution_andor/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T03:40:29.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

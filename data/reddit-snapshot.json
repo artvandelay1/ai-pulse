@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T16:32:50.626Z",
+  "fetchedAt": "2026-08-23T17:25:49.556Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,6 +35,15 @@
       },
       {
         "rank": 4,
+        "title": "Archival vs non archival workshop [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T16:02:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
         "source": "r/MachineLearning",
@@ -43,26 +52,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "When an AI agent says “done” how do you know it actually happened? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwa9ap/when_an_ai_agent_says_done_how_do_you_know_it/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T15:32:09.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "I just wanted a workout guide for my wall",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvi428/i_just_wanted_a_workout_guide_for_my_wall/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-22T17:17:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/il1bzuedmykh1.png?width=640&crop=smart&auto=webp&s=1f7177c61cca40e1c0481a62efa22600a03e3bef"
-      },
-      {
-        "rank": 2,
         "title": "You know what? I think I'll pass on this one...",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvt410/you_know_what_i_think_ill_pass_on_this_one/",
         "source": "r/OpenAI",
@@ -72,7 +62,7 @@
         "thumbnail": "https://preview.redd.it/brlg70k5w0lh1.jpeg?width=640&crop=smart&auto=webp&s=368c5f45473552b6cc90f1c6c7db862f979e9c7c"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "GPT 5.6 Got Massively Upgraded Without an Announcement",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvie4v/gpt_56_got_massively_upgraded_without_an/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "It did it again! GPT Images is taking over",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvugka/it_did_it_again_gpt_images_is_taking_over/",
         "source": "r/OpenAI",
@@ -91,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/fm08d8fs71lh1.png?width=640&crop=smart&auto=webp&s=2e0b5a4b7df3d5fa9c9c37614a3a8c9ccdd5c771"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Does openai have ongoing usage limit problems",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvwzac/does_openai_have_ongoing_usage_limit_problems/",
         "source": "r/OpenAI",
@@ -101,17 +91,17 @@
         "thumbnail": "https://preview.redd.it/k552ck8lu1lh1.png?width=320&crop=smart&auto=webp&s=b92e1bbd88340175cba11b6fff9260dd7a6074f5"
       },
       {
-        "rank": 1,
-        "title": "9.3 seconds…Humanoid robots now run faster than humans",
-        "url": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vw7x0k/a_third_of_the_postchatgpt_web_is_aiwritten_pew/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-22T16:57:11.000Z",
+        "publishedAt": "2026-08-23T13:58:14.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d2JqZ3pwOHdpeWtoMTboMkhRG4B8lP9wtWLsiZgo1zKIiuyIEKqnNowMAm9l.png?width=640&crop=smart&auto=webp&s=a3d9bfeb1bbd5692ed058472b2cb2212817b8f47"
+        "thumbnail": "https://external-preview.redd.it/REbpQK18y-3dmcIg464XMk7Rywzq-g8wQ7bl1HbFPDE.png?width=640&crop=smart&auto=webp&s=9ea58b3c51271c4d5f1a27031267e7753566a11d"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Let's hide data centers in cities with Greco-Deco data center designs, They will never see it comming",
         "url": "https://www.reddit.com/r/singularity/comments/1vvilkf/lets_hide_data_centers_in_cities_with_grecodeco/",
         "source": "r/singularity",
@@ -121,7 +111,7 @@
         "thumbnail": "https://preview.redd.it/0xnkec4upykh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c50a5e84a49185990091ff5a33e5ebc679b8c634"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "WHRG’26 featured the first-ever live-streamed human-robot doubles tennis match, featuring Galbot humanoid robots",
         "url": "https://www.reddit.com/r/singularity/comments/1vvmt8a/whrg26_featured_the_firstever_livestreamed/",
         "source": "r/singularity",
@@ -131,7 +121,7 @@
         "thumbnail": "https://external-preview.redd.it/YXpsbnBjeXBpemtoMTRltXtLa0nTHV5Vp_qYnswtbXGCVox3csXkcVa-_mJF.png?width=640&crop=smart&auto=webp&s=871c529a9346dbe36712d162e7dddd33202b314c"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Coding Is solved, Bugs are Not Yet Solved",
         "url": "https://www.reddit.com/r/singularity/comments/1vvsh6l/coding_is_solved_bugs_are_not_yet_solved/",
         "source": "r/singularity",
@@ -141,7 +131,7 @@
         "thumbnail": "https://preview.redd.it/9mfvxg6dq0lh1.png?width=640&crop=smart&auto=webp&s=e7acd09f37fb4d5d63469173894db6b66b0c9300"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Robot plays ping pong with Ding Ning (2016 Olympic champion)",
         "url": "https://www.reddit.com/r/singularity/comments/1vw8hdg/robot_plays_ping_pong_with_ding_ning_2016_olympic/",
         "source": "r/singularity",
@@ -149,6 +139,16 @@
         "publishedAt": "2026-08-23T14:21:33.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/M2FieGRrYTB1NGxoMagpXzckB7kx917Ji2pAklN5hcam23HWYjkxdqsuOLLl.png?width=640&crop=smart&auto=webp&s=55a156677b7bb9359f44848cf2211a164d04fd92"
+      },
+      {
+        "rank": 5,
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwaetf/i_gave_qwen_38_27b_a_reverseengineering_job_i/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T15:38:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/wePG2EnVEzg2fM156N7VN-BSdo8oarTmtLiBmdqWhFc.jpeg?width=640&crop=smart&auto=webp&s=00c1e2d1b4bb0d77f09c7b0dd8d7e13d0b87ee3b"
       },
       {
         "rank": 1,

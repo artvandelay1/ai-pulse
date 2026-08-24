@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T23:49:50.775Z",
+  "fetchedAt": "2026-08-24T01:38:45.077Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,20 +25,20 @@
       },
       {
         "rank": 3,
-        "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T11:34:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-23T19:15:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T11:34:24.000Z",
         "category": "reddit"
       },
       {
@@ -52,16 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "You know what? I think I'll pass on this one...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvt410/you_know_what_i_think_ill_pass_on_this_one/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T00:55:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/brlg70k5w0lh1.jpeg?width=640&crop=smart&auto=webp&s=368c5f45473552b6cc90f1c6c7db862f979e9c7c"
-      },
-      {
-        "rank": 2,
         "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vw7x0k/a_third_of_the_postchatgpt_web_is_aiwritten_pew/",
         "source": "r/OpenAI",
@@ -71,7 +61,7 @@
         "thumbnail": "https://external-preview.redd.it/REbpQK18y-3dmcIg464XMk7Rywzq-g8wQ7bl1HbFPDE.png?width=640&crop=smart&auto=webp&s=9ea58b3c51271c4d5f1a27031267e7753566a11d"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "It did it again! GPT Images is taking over",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvugka/it_did_it_again_gpt_images_is_taking_over/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/fm08d8fs71lh1.png?width=640&crop=smart&auto=webp&s=2e0b5a4b7df3d5fa9c9c37614a3a8c9ccdd5c771"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Does openai have ongoing usage limit problems",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvwzac/does_openai_have_ongoing_usage_limit_problems/",
         "source": "r/OpenAI",
@@ -89,6 +79,16 @@
         "publishedAt": "2026-08-23T04:09:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/k552ck8lu1lh1.png?width=320&crop=smart&auto=webp&s=b92e1bbd88340175cba11b6fff9260dd7a6074f5"
+      },
+      {
+        "rank": 4,
+        "title": "The boys and I trying to summon a usage reset.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vw7y47/the_boys_and_i_trying_to_summon_a_usage_reset/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T13:59:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j76xdp04s4lh1.jpeg?width=640&crop=smart&auto=webp&s=0ff4e08d9513e8919d6f3ea8673b262f6aaf2800"
       },
       {
         "rank": 5,
@@ -101,16 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "Coding Is solved, Bugs are Not Yet Solved",
-        "url": "https://www.reddit.com/r/singularity/comments/1vvsh6l/coding_is_solved_bugs_are_not_yet_solved/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T00:24:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9mfvxg6dq0lh1.png?width=640&crop=smart&auto=webp&s=e7acd09f37fb4d5d63469173894db6b66b0c9300"
-      },
-      {
-        "rank": 2,
         "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
         "url": "https://www.reddit.com/r/singularity/comments/1vwaetf/i_gave_qwen_38_27b_a_reverseengineering_job_i/",
         "source": "r/singularity",
@@ -118,6 +108,15 @@
         "publishedAt": "2026-08-23T15:38:09.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/wePG2EnVEzg2fM156N7VN-BSdo8oarTmtLiBmdqWhFc.jpeg?width=640&crop=smart&auto=webp&s=00c1e2d1b4bb0d77f09c7b0dd8d7e13d0b87ee3b"
+      },
+      {
+        "rank": 2,
+        "title": "Sam Altman with some sad statements about AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T21:39:38.000Z",
+        "category": "reddit"
       },
       {
         "rank": 3,
@@ -140,12 +139,13 @@
       },
       {
         "rank": 5,
-        "title": "Sam Altman with some sad statements about AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+        "title": "He Can't Be Stopped.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-23T21:39:38.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-23T22:04:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1edzqmqe67lh1.png?width=640&crop=smart&auto=webp&s=cd1043394d3aabcc924a17bc0b58561f1540f92c"
       },
       {
         "rank": 1,

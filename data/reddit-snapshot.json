@@ -1,10 +1,150 @@
 {
-  "fetchedAt": "2026-08-24T10:42:13.600Z",
+  "fetchedAt": "2026-08-24T11:34:50.699Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T06:11:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T19:15:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Archival vs non archival workshop [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T16:02:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "COLM 2026 registration sold out as an author [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T18:44:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T11:34:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vw7x0k/a_third_of_the_postchatgpt_web_is_aiwritten_pew/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T13:58:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/REbpQK18y-3dmcIg464XMk7Rywzq-g8wQ7bl1HbFPDE.png?width=640&crop=smart&auto=webp&s=9ea58b3c51271c4d5f1a27031267e7753566a11d"
+      },
+      {
+        "rank": 2,
+        "title": "The boys and I trying to summon a usage reset.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vw7y47/the_boys_and_i_trying_to_summon_a_usage_reset/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T13:59:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j76xdp04s4lh1.jpeg?width=640&crop=smart&auto=webp&s=0ff4e08d9513e8919d6f3ea8673b262f6aaf2800"
+      },
+      {
+        "rank": 3,
+        "title": "Which custom instruction in ChatGPT could you not live without?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vwocqy/which_custom_instruction_in_chatgpt_could_you_not/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T00:56:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AI chat logs, privacy, and who gets to decide what counts as danger",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vwn258/ai_chat_logs_privacy_and_who_gets_to_decide_what/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T23:58:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Block inappropriate content",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vwvm6k/block_inappropriate_content/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T07:13:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Sam Altman with some sad statements about AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T21:39:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwaetf/i_gave_qwen_38_27b_a_reverseengineering_job_i/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T15:38:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/wePG2EnVEzg2fM156N7VN-BSdo8oarTmtLiBmdqWhFc.jpeg?width=640&crop=smart&auto=webp&s=00c1e2d1b4bb0d77f09c7b0dd8d7e13d0b87ee3b"
+      },
+      {
+        "rank": 3,
+        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwakph/amazon_kept_shutting_down_my_tablet_so_i_spent/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T15:44:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Robot plays ping pong with Ding Ning (2016 Olympic champion)",
+        "url": "https://www.reddit.com/r/singularity/comments/1vw8hdg/robot_plays_ping_pong_with_ding_ning_2016_olympic/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T14:21:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/M2FieGRrYTB1NGxoMagpXzckB7kx917Ji2pAklN5hcam23HWYjkxdqsuOLLl.png?width=640&crop=smart&auto=webp&s=55a156677b7bb9359f44848cf2211a164d04fd92"
+      },
+      {
+        "rank": 5,
+        "title": "He Can't Be Stopped.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T22:04:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1edzqmqe67lh1.png?width=640&crop=smart&auto=webp&s=cd1043394d3aabcc924a17bc0b58561f1540f92c"
+      },
       {
         "rank": 1,
         "title": "Opus 5 real usecase decoded. Using it for coding sessions was anyway a lost cause.",
@@ -55,51 +195,6 @@
       },
       {
         "rank": 1,
-        "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-24T06:11:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T19:15:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Archival vs non archival workshop [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T16:02:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "COLM 2026 registration sold out as an author [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T18:44:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T11:34:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "If you didn't have a reason to hate Theo",
         "url": "https://www.reddit.com/r/codex/comments/1vwgqor/if_you_didnt_have_a_reason_to_hate_theo/",
         "source": "r/codex",
@@ -145,101 +240,6 @@
         "score": 0,
         "publishedAt": "2026-08-24T00:48:45.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vw7x0k/a_third_of_the_postchatgpt_web_is_aiwritten_pew/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T13:58:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/REbpQK18y-3dmcIg464XMk7Rywzq-g8wQ7bl1HbFPDE.png?width=640&crop=smart&auto=webp&s=9ea58b3c51271c4d5f1a27031267e7753566a11d"
-      },
-      {
-        "rank": 2,
-        "title": "The boys and I trying to summon a usage reset.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vw7y47/the_boys_and_i_trying_to_summon_a_usage_reset/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T13:59:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j76xdp04s4lh1.jpeg?width=640&crop=smart&auto=webp&s=0ff4e08d9513e8919d6f3ea8673b262f6aaf2800"
-      },
-      {
-        "rank": 3,
-        "title": "Which custom instruction in ChatGPT could you not live without?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vwocqy/which_custom_instruction_in_chatgpt_could_you_not/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T00:56:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Block inappropriate content",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vwvm6k/block_inappropriate_content/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T07:13:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "AI chat logs, privacy, and who gets to decide what counts as danger",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vwn258/ai_chat_logs_privacy_and_who_gets_to_decide_what/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T23:58:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Sam Altman with some sad statements about AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T21:39:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwaetf/i_gave_qwen_38_27b_a_reverseengineering_job_i/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T15:38:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/wePG2EnVEzg2fM156N7VN-BSdo8oarTmtLiBmdqWhFc.jpeg?width=640&crop=smart&auto=webp&s=00c1e2d1b4bb0d77f09c7b0dd8d7e13d0b87ee3b"
-      },
-      {
-        "rank": 3,
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwakph/amazon_kept_shutting_down_my_tablet_so_i_spent/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T15:44:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Robot plays ping pong with Ding Ning (2016 Olympic champion)",
-        "url": "https://www.reddit.com/r/singularity/comments/1vw8hdg/robot_plays_ping_pong_with_ding_ning_2016_olympic/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T14:21:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M2FieGRrYTB1NGxoMagpXzckB7kx917Ji2pAklN5hcam23HWYjkxdqsuOLLl.png?width=640&crop=smart&auto=webp&s=55a156677b7bb9359f44848cf2211a164d04fd92"
-      },
-      {
-        "rank": 5,
-        "title": "He Can't Be Stopped.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T22:04:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1edzqmqe67lh1.png?width=640&crop=smart&auto=webp&s=cd1043394d3aabcc924a17bc0b58561f1540f92c"
       }
     ]
   }

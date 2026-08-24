@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-24T19:34:45.485Z",
+  "fetchedAt": "2026-08-24T20:36:12.705Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "What I Built with Claude - sweet potatoes",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx6fyn/what_i_built_with_claude_sweet_potatoes/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:44:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b0nbduxpfclh1.jpeg?width=640&crop=smart&auto=webp&s=810bcf1f8f4c9ea71f937b36217cd64a830f628b"
+      },
+      {
+        "rank": 2,
+        "title": "Indeed laid off my pregnant wife, so I built a job search competitor with Claude. It just got its first three people hired.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx4kn7/indeed_laid_off_my_pregnant_wife_so_i_built_a_job/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T14:35:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cXR3dWRxODQzY2xoMQltShpruDheWrCL1soWh1I1LHj-RHMvhRmIpjn0QAL7.png?width=640&crop=smart&auto=webp&s=8f905a1169ff34d58a87c05e802498fc7c84d6fb"
+      },
+      {
+        "rank": 3,
+        "title": "Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T11:49:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5 medium is such an unique experience, LOL.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vws2g7/opus_5_medium_is_such_an_unique_experience_lol/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T03:56:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kegffhxww8lh1.png?width=140&height=128&auto=webp&s=f7101195f0d202c09fed93bcb9023bd4486ff94b"
+      },
+      {
+        "rank": 5,
+        "title": "“It’s an issue but not a bug”-Cherny. Community notes cooked him on X",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx3phv/its_an_issue_but_not_a_bugcherny_community_notes/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T14:01:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xbnzu7kfxblh1.jpeg?width=640&crop=smart&auto=webp&s=7eb08a3cd4c8dac5af8a1939bb2553faee2b8991"
+      },
       {
         "rank": 1,
         "title": "Bart- A vintage llm [R]",
@@ -35,20 +84,69 @@
       },
       {
         "rank": 4,
-        "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
+        "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-24T12:11:34.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-24T19:10:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
       },
       {
         "rank": 5,
-        "title": "Does registering an abstract, not the full submission yet, count as a double submission? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vx3why/does_registering_an_abstract_not_the_full/",
+        "title": "Is EMNLP not going to Provide a MetaReview [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxc1nw/is_emnlp_not_going_to_provide_a_metareview_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-24T14:09:21.000Z",
+        "publishedAt": "2026-08-24T19:01:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "5.6 Sol pricing has been reduced",
+        "url": "https://www.reddit.com/r/codex/comments/1vx601h/56_sol_pricing_has_been_reduced/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:28:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/b9KZ0CFTaSAl7kmFrdQrtub5t5J7hlT-r6jhwuq_SNI.png?width=640&crop=smart&auto=webp&s=069b2bb3bc4be06d934d1bfcf2cd52b225191d7d"
+      },
+      {
+        "rank": 2,
+        "title": "We have all been reset!",
+        "url": "https://www.reddit.com/r/codex/comments/1vwo6j1/we_have_all_been_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-24T00:48:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "This shit is not fixed",
+        "url": "https://www.reddit.com/r/codex/comments/1vx1kl6/this_shit_is_not_fixed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-24T12:35:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/easalj5thblh1.png?width=140&height=23&auto=webp&s=bd424b9ff6221f2e64480001ec1742419ebc6044"
+      },
+      {
+        "rank": 4,
+        "title": "I Have Proof That OpenAI Changed Something on Their End Before Usage Limit Was Reset",
+        "url": "https://www.reddit.com/r/codex/comments/1vwxtgn/i_have_proof_that_openai_changed_something_on/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-24T09:25:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4gmgnnw4jalh1.png?width=640&crop=smart&auto=webp&s=0d990a45dc295db4e3c137984d79999aad4fe54a"
+      },
+      {
+        "rank": 5,
+        "title": "The more Tibo presses that button...",
+        "url": "https://www.reddit.com/r/codex/comments/1vwuj8y/the_more_tibo_presses_that_button/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-24T06:10:52.000Z",
         "category": "reddit"
       },
       {
@@ -145,104 +243,6 @@
         "score": 0,
         "publishedAt": "2026-08-24T15:06:17.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5 real usecase decoded. Using it for coding sessions was anyway a lost cause.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vwinim/opus_5_real_usecase_decoded_using_it_for_coding/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T20:52:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hhvd0p7qt6lh1.jpeg?width=640&crop=smart&auto=webp&s=4b63b5717faacb1da627fc0c5b27b302ec41f3f2"
-      },
-      {
-        "rank": 2,
-        "title": "What I Built with Claude - sweet potatoes",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx6fyn/what_i_built_with_claude_sweet_potatoes/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:44:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b0nbduxpfclh1.jpeg?width=640&crop=smart&auto=webp&s=810bcf1f8f4c9ea71f937b36217cd64a830f628b"
-      },
-      {
-        "rank": 3,
-        "title": "Indeed laid off my pregnant wife, so I built a job search competitor with Claude. It just got its first three people hired.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx4kn7/indeed_laid_off_my_pregnant_wife_so_i_built_a_job/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T14:35:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cXR3dWRxODQzY2xoMQltShpruDheWrCL1soWh1I1LHj-RHMvhRmIpjn0QAL7.png?width=640&crop=smart&auto=webp&s=8f905a1169ff34d58a87c05e802498fc7c84d6fb"
-      },
-      {
-        "rank": 4,
-        "title": "Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T11:49:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5 medium is such an unique experience, LOL.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vws2g7/opus_5_medium_is_such_an_unique_experience_lol/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T03:56:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kegffhxww8lh1.png?width=140&height=128&auto=webp&s=f7101195f0d202c09fed93bcb9023bd4486ff94b"
-      },
-      {
-        "rank": 1,
-        "title": "If you didn't have a reason to hate Theo",
-        "url": "https://www.reddit.com/r/codex/comments/1vwgqor/if_you_didnt_have_a_reason_to_hate_theo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T19:38:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sw55u7zig6lh1.png?width=640&crop=smart&auto=webp&s=809d0b81a806bbccbf5bffd875e8fa12de96873c"
-      },
-      {
-        "rank": 2,
-        "title": "Codex might offer you 1 month free if you try to cancel",
-        "url": "https://www.reddit.com/r/codex/comments/1vwfub4/codex_might_offer_you_1_month_free_if_you_try_to/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-23T19:03:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lpql025ca6lh1.jpeg?width=320&crop=smart&auto=webp&s=21bd685740c0d4c1a8fb5b8a003fcab96c63fa07"
-      },
-      {
-        "rank": 3,
-        "title": "We have all been reset!",
-        "url": "https://www.reddit.com/r/codex/comments/1vwo6j1/we_have_all_been_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-24T00:48:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "5.6 Sol pricing has been reduced",
-        "url": "https://www.reddit.com/r/codex/comments/1vx601h/56_sol_pricing_has_been_reduced/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:28:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b9KZ0CFTaSAl7kmFrdQrtub5t5J7hlT-r6jhwuq_SNI.png?width=640&crop=smart&auto=webp&s=069b2bb3bc4be06d934d1bfcf2cd52b225191d7d"
-      },
-      {
-        "rank": 5,
-        "title": "I Have Proof That OpenAI Changed Something on Their End Before Usage Limit Was Reset",
-        "url": "https://www.reddit.com/r/codex/comments/1vwxtgn/i_have_proof_that_openai_changed_something_on/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-24T09:25:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4gmgnnw4jalh1.png?width=640&crop=smart&auto=webp&s=0d990a45dc295db4e3c137984d79999aad4fe54a"
       }
     ]
   }

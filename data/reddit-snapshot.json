@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T14:50:45.657Z",
+  "fetchedAt": "2026-08-24T15:44:42.620Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -89,11 +89,11 @@
       },
       {
         "rank": 5,
-        "title": "The Singularity",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx0q4b/the_singularity/",
+        "title": "Do you separate OpenAI usage by project internally?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5511/do_you_separate_openai_usage_by_project_internally/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-24T11:57:12.000Z",
+        "publishedAt": "2026-08-24T14:56:24.000Z",
         "category": "reddit"
       },
       {
@@ -107,16 +107,6 @@
       },
       {
         "rank": 2,
-        "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwaetf/i_gave_qwen_38_27b_a_reverseengineering_job_i/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T15:38:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/wePG2EnVEzg2fM156N7VN-BSdo8oarTmtLiBmdqWhFc.jpeg?width=640&crop=smart&auto=webp&s=00c1e2d1b4bb0d77f09c7b0dd8d7e13d0b87ee3b"
-      },
-      {
-        "rank": 3,
         "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
         "url": "https://www.reddit.com/r/singularity/comments/1vwakph/amazon_kept_shutting_down_my_tablet_so_i_spent/",
         "source": "r/singularity",
@@ -125,7 +115,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "He Can't Be Stopped.",
         "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
         "source": "r/singularity",
@@ -135,7 +125,7 @@
         "thumbnail": "https://preview.redd.it/1edzqmqe67lh1.png?width=640&crop=smart&auto=webp&s=cd1043394d3aabcc924a17bc0b58561f1540f92c"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "WHRG'26: Tiangong humanoid robot crushed the 400m in 38.15 and the 1500m in 2:21.6, smashing the human world records of 43.03 and 3:26 set by Niekerk (2016) and Guerrouj (1998) respectively",
         "url": "https://www.reddit.com/r/singularity/comments/1vwak0v/whrg26_tiangong_humanoid_robot_crushed_the_400m/",
         "source": "r/singularity",
@@ -143,6 +133,15 @@
         "publishedAt": "2026-08-23T15:43:47.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/eDh0eDBpYWthNWxoMfYojlDHkEiU4JiicSPJUb-NQfWmw1Gai7Pgzw5fKEkv.png?width=640&crop=smart&auto=webp&s=401cb3edff417d48bc0293b116a08029a33a6f95"
+      },
+      {
+        "rank": 5,
+        "title": "An unusual parade was held in Kyiv. It featured ground-based robotic systems, maritime drones, and aerial drones",
+        "url": "https://www.reddit.com/r/singularity/comments/1vx443u/an_unusual_parade_was_held_in_kyiv_it_featured/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-24T14:17:35.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T01:38:45.077Z",
+  "fetchedAt": "2026-08-24T03:08:50.008Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,20 +34,20 @@
       },
       {
         "rank": 4,
-        "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T11:34:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "COLM 2026 registration sold out as an author [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-23T18:44:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[N] EACL 2027 Industry Track - Deadline 11 September [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T11:34:24.000Z",
         "category": "reddit"
       },
       {
@@ -62,16 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "It did it again! GPT Images is taking over",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvugka/it_did_it_again_gpt_images_is_taking_over/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T02:00:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fm08d8fs71lh1.png?width=640&crop=smart&auto=webp&s=2e0b5a4b7df3d5fa9c9c37614a3a8c9ccdd5c771"
-      },
-      {
-        "rank": 3,
         "title": "Does openai have ongoing usage limit problems",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvwzac/does_openai_have_ongoing_usage_limit_problems/",
         "source": "r/OpenAI",
@@ -81,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/k552ck8lu1lh1.png?width=320&crop=smart&auto=webp&s=b92e1bbd88340175cba11b6fff9260dd7a6074f5"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "The boys and I trying to summon a usage reset.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vw7y47/the_boys_and_i_trying_to_summon_a_usage_reset/",
         "source": "r/OpenAI",
@@ -91,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/j76xdp04s4lh1.jpeg?width=640&crop=smart&auto=webp&s=0ff4e08d9513e8919d6f3ea8673b262f6aaf2800"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Why doesn’t weekly usage reset on subscription renewal?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vvvvnj/why_doesnt_weekly_usage_reset_on_subscription/",
         "source": "r/OpenAI",
@@ -100,7 +90,25 @@
         "category": "reddit"
       },
       {
+        "rank": 5,
+        "title": "Which custom instruction in ChatGPT could you not live without?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vwocqy/which_custom_instruction_in_chatgpt_could_you_not/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T00:56:52.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
+        "title": "Sam Altman with some sad statements about AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T21:39:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "I gave Qwen 3.8 27B a reverse-engineering job I assumed needed a frontier model, and it finished in 30 minutes",
         "url": "https://www.reddit.com/r/singularity/comments/1vwaetf/i_gave_qwen_38_27b_a_reverseengineering_job_i/",
         "source": "r/singularity",
@@ -108,15 +116,6 @@
         "publishedAt": "2026-08-23T15:38:09.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/wePG2EnVEzg2fM156N7VN-BSdo8oarTmtLiBmdqWhFc.jpeg?width=640&crop=smart&auto=webp&s=00c1e2d1b4bb0d77f09c7b0dd8d7e13d0b87ee3b"
-      },
-      {
-        "rank": 2,
-        "title": "Sam Altman with some sad statements about AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T21:39:38.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,

@@ -1,10 +1,151 @@
 {
-  "fetchedAt": "2026-08-24T17:36:11.206Z",
+  "fetchedAt": "2026-08-24T18:47:43.286Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Bart- A vintage llm [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T17:20:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/27z2aamswclh1.png?width=640&crop=smart&auto=webp&s=ba36a31376435bcec7f675b732595ad9dd2641a7"
+      },
+      {
+        "rank": 2,
+        "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T06:11:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-23T19:15:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "BMVC 2026 IJCV recommendation? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwtzix/bmvc_2026_ijcv_recommendation_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T05:39:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T12:11:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "New Sol API pricing - $4 per million input tokens and $20 per million output tokens",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5mrz/new_sol_api_pricing_4_per_million_input_tokens/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:14:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j9uzwtgeaclh1.jpeg?width=640&crop=smart&auto=webp&s=145a7d016e53688006344948a2984c492a43c39e"
+      },
+      {
+        "rank": 2,
+        "title": "Do you separate OpenAI usage by project internally?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5511/do_you_separate_openai_usage_by_project_internally/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T14:56:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Which custom instruction in ChatGPT could you not live without?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vwocqy/which_custom_instruction_in_chatgpt_could_you_not/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T00:56:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Open-weight transparency can mean more than one downloadable endpoint",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vwz17m/openweight_transparency_can_mean_more_than_one/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T10:33:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r25d8mb7walh1.jpeg?width=640&crop=smart&auto=webp&s=1898a7358d73daef187007cfeb5342c994082bd5"
+      },
+      {
+        "rank": 5,
+        "title": "Why's the limit triggering without using image analysis?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx1g6b/whys_the_limit_triggering_without_using_image/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T12:30:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dchrfc52hblh1.jpeg?width=640&crop=smart&auto=webp&s=46fbbb59ad434660e5da38fbb654aac4f445167b"
+      },
+      {
+        "rank": 1,
+        "title": "Sam Altman with some sad statements about AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T21:39:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "100m Hurdles Final",
+        "url": "https://www.reddit.com/r/singularity/comments/1vx7hk4/100m_hurdles_final/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-24T16:21:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZXhmdGxyOGNtY2xoMUxZ0pxyRW99BNuA4p2ijJU3HRJJbtu3AGUpERX8NOKh.png?width=640&crop=smart&auto=webp&s=0eda82f693422738f9d5ef2f2784ef64b7e33d9f"
+      },
+      {
+        "rank": 3,
+        "title": "An unusual parade was held in Kyiv. It featured ground-based robotic systems, maritime drones, and aerial drones",
+        "url": "https://www.reddit.com/r/singularity/comments/1vx443u/an_unusual_parade_was_held_in_kyiv_it_featured/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-24T14:17:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "He Can't Be Stopped.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T22:04:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1edzqmqe67lh1.png?width=640&crop=smart&auto=webp&s=cd1043394d3aabcc924a17bc0b58561f1540f92c"
+      },
+      {
+        "rank": 5,
+        "title": "Why do we assume anyone will give us access to superintelligence?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:06:17.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Opus 5 real usecase decoded. Using it for coding sessions was anyway a lost cause.",
@@ -56,51 +197,6 @@
       },
       {
         "rank": 1,
-        "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-24T06:11:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T19:15:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "COLM 2026 registration sold out as an author [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T18:44:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "BMVC 2026 IJCV recommendation? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwtzix/bmvc_2026_ijcv_recommendation_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-24T05:39:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-24T12:11:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "If you didn't have a reason to hate Theo",
         "url": "https://www.reddit.com/r/codex/comments/1vwgqor/if_you_didnt_have_a_reason_to_hate_theo/",
         "source": "r/codex",
@@ -147,101 +243,6 @@
         "publishedAt": "2026-08-24T09:25:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4gmgnnw4jalh1.png?width=640&crop=smart&auto=webp&s=0d990a45dc295db4e3c137984d79999aad4fe54a"
-      },
-      {
-        "rank": 1,
-        "title": "New Sol API pricing - $4 per million input tokens and $20 per million output tokens",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5mrz/new_sol_api_pricing_4_per_million_input_tokens/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:14:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j9uzwtgeaclh1.jpeg?width=640&crop=smart&auto=webp&s=145a7d016e53688006344948a2984c492a43c39e"
-      },
-      {
-        "rank": 2,
-        "title": "Which custom instruction in ChatGPT could you not live without?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vwocqy/which_custom_instruction_in_chatgpt_could_you_not/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T00:56:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Do you separate OpenAI usage by project internally?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5511/do_you_separate_openai_usage_by_project_internally/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T14:56:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ChatGPT picks differently when asked in a different language. \"Choose a random fruit from this list\" asked a LOT of times",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx67dq/chatgpt_picks_differently_when_asked_in_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:35:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9emldv1zdclh1.png?width=640&crop=smart&auto=webp&s=46a1ad68e6026c0fbe0e4fb0b918c530061eb26d"
-      },
-      {
-        "rank": 5,
-        "title": "Why's the limit triggering without using image analysis?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx1g6b/whys_the_limit_triggering_without_using_image/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T12:30:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dchrfc52hblh1.jpeg?width=640&crop=smart&auto=webp&s=46fbbb59ad434660e5da38fbb654aac4f445167b"
-      },
-      {
-        "rank": 1,
-        "title": "Sam Altman with some sad statements about AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T21:39:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "He Can't Be Stopped.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T22:04:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1edzqmqe67lh1.png?width=640&crop=smart&auto=webp&s=cd1043394d3aabcc924a17bc0b58561f1540f92c"
-      },
-      {
-        "rank": 3,
-        "title": "An unusual parade was held in Kyiv. It featured ground-based robotic systems, maritime drones, and aerial drones",
-        "url": "https://www.reddit.com/r/singularity/comments/1vx443u/an_unusual_parade_was_held_in_kyiv_it_featured/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-24T14:17:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "WHRG'26: Galbot’s humanoid robot just completed +100 consecutive tennis rallies autonomously",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwclb9/whrg26_galbots_humanoid_robot_just_completed_100/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T17:01:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OTYwOTdqaWxvNWxoMYbNaU0wMHmDuPz9UFNlxqis1qOPkWoaWtCUbtvALczm.png?width=640&crop=smart&auto=webp&s=1e458c826a2af1b41b7ec1b7698db32f711d27ff"
-      },
-      {
-        "rank": 5,
-        "title": "Why do we assume anyone will give us access to superintelligence?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:06:17.000Z",
-        "category": "reddit"
       }
     ]
   }

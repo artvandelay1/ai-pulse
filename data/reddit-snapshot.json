@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T07:40:44.941Z",
+  "fetchedAt": "2026-08-24T08:54:48.059Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "Implementing Watermarking for Language Models [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T08:09:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "How to cite/talk about preprint-subsequent works for a camera-ready version? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-23T19:15:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T06:11:03.000Z",
         "category": "reddit"
       },
       {
@@ -81,11 +81,11 @@
       },
       {
         "rank": 4,
-        "title": "OpenAI Student collective",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vw5vp9/openai_student_collective/",
+        "title": "Block inappropriate content",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vwvm6k/block_inappropriate_content/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-23T12:26:42.000Z",
+        "publishedAt": "2026-08-24T07:13:59.000Z",
         "category": "reddit"
       },
       {
@@ -118,6 +118,15 @@
       },
       {
         "rank": 3,
+        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwakph/amazon_kept_shutting_down_my_tablet_so_i_spent/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T15:44:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Robot plays ping pong with Ding Ning (2016 Olympic champion)",
         "url": "https://www.reddit.com/r/singularity/comments/1vw8hdg/robot_plays_ping_pong_with_ding_ning_2016_olympic/",
         "source": "r/singularity",
@@ -125,15 +134,6 @@
         "publishedAt": "2026-08-23T14:21:33.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/M2FieGRrYTB1NGxoMagpXzckB7kx917Ji2pAklN5hcam23HWYjkxdqsuOLLl.png?width=640&crop=smart&auto=webp&s=55a156677b7bb9359f44848cf2211a164d04fd92"
-      },
-      {
-        "rank": 4,
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwakph/amazon_kept_shutting_down_my_tablet_so_i_spent/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T15:44:31.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,

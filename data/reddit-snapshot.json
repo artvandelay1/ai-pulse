@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T03:08:50.008Z",
+  "fetchedAt": "2026-08-24T04:23:44.723Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -62,16 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "Does openai have ongoing usage limit problems",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvwzac/does_openai_have_ongoing_usage_limit_problems/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T04:09:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k552ck8lu1lh1.png?width=320&crop=smart&auto=webp&s=b92e1bbd88340175cba11b6fff9260dd7a6074f5"
-      },
-      {
-        "rank": 3,
         "title": "The boys and I trying to summon a usage reset.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vw7y47/the_boys_and_i_trying_to_summon_a_usage_reset/",
         "source": "r/OpenAI",
@@ -81,21 +71,31 @@
         "thumbnail": "https://preview.redd.it/j76xdp04s4lh1.jpeg?width=640&crop=smart&auto=webp&s=0ff4e08d9513e8919d6f3ea8673b262f6aaf2800"
       },
       {
-        "rank": 4,
-        "title": "Why doesn’t weekly usage reset on subscription renewal?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vvvvnj/why_doesnt_weekly_usage_reset_on_subscription/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T03:12:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Which custom instruction in ChatGPT could you not live without?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vwocqy/which_custom_instruction_in_chatgpt_could_you_not/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-24T00:56:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Openai support sucks",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vvzw3f/openai_support_sucks/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T06:50:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zkbyaorln2lh1.jpg?width=140&height=61&auto=webp&s=3d3552f735493403b481645a21c500fe143ffdf8"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI Student collective",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vw5vp9/openai_student_collective/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-23T12:26:42.000Z",
         "category": "reddit"
       },
       {

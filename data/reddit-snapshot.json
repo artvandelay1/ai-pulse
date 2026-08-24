@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T15:44:42.620Z",
+  "fetchedAt": "2026-08-24T16:43:42.161Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "Archival vs non archival workshop [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-23T16:02:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "COLM 2026 registration sold out as an author [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d/",
         "source": "r/MachineLearning",
@@ -42,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "BMVC 2026 IJCV recommendation? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vwtzix/bmvc_2026_ijcv_recommendation_d/",
         "source": "r/MachineLearning",
@@ -51,7 +42,26 @@
         "category": "reddit"
       },
       {
+        "rank": 5,
+        "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T12:11:34.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
+        "title": "New Sol API pricing - $4 per million input tokens and $20 per million output tokens",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5mrz/new_sol_api_pricing_4_per_million_input_tokens/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:14:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j9uzwtgeaclh1.jpeg?width=640&crop=smart&auto=webp&s=145a7d016e53688006344948a2984c492a43c39e"
+      },
+      {
+        "rank": 2,
         "title": "Which custom instruction in ChatGPT could you not live without?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vwocqy/which_custom_instruction_in_chatgpt_could_you_not/",
         "source": "r/OpenAI",
@@ -60,7 +70,26 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "title": "Do you separate OpenAI usage by project internally?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5511/do_you_separate_openai_usage_by_project_internally/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T14:56:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT picks differently when asked in a different language. \"Choose a random fruit from this list\" asked a LOT of times",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx67dq/chatgpt_picks_differently_when_asked_in_a/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:35:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9emldv1zdclh1.png?width=640&crop=smart&auto=webp&s=46a1ad68e6026c0fbe0e4fb0b918c530061eb26d"
+      },
+      {
+        "rank": 5,
         "title": "Why's the limit triggering without using image analysis?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vx1g6b/whys_the_limit_triggering_without_using_image/",
         "source": "r/OpenAI",
@@ -68,33 +97,6 @@
         "publishedAt": "2026-08-24T12:30:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dchrfc52hblh1.jpeg?width=640&crop=smart&auto=webp&s=46fbbb59ad434660e5da38fbb654aac4f445167b"
-      },
-      {
-        "rank": 3,
-        "title": "Block inappropriate content",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vwvm6k/block_inappropriate_content/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T07:13:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "AI chat logs, privacy, and who gets to decide what counts as danger",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vwn258/ai_chat_logs_privacy_and_who_gets_to_decide_what/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-23T23:58:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Do you separate OpenAI usage by project internally?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5511/do_you_separate_openai_usage_by_project_internally/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T14:56:24.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -107,15 +109,6 @@
       },
       {
         "rank": 2,
-        "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwakph/amazon_kept_shutting_down_my_tablet_so_i_spent/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T15:44:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "He Can't Be Stopped.",
         "url": "https://www.reddit.com/r/singularity/comments/1vwkffs/he_cant_be_stopped/",
         "source": "r/singularity",
@@ -125,22 +118,31 @@
         "thumbnail": "https://preview.redd.it/1edzqmqe67lh1.png?width=640&crop=smart&auto=webp&s=cd1043394d3aabcc924a17bc0b58561f1540f92c"
       },
       {
-        "rank": 4,
-        "title": "WHRG'26: Tiangong humanoid robot crushed the 400m in 38.15 and the 1500m in 2:21.6, smashing the human world records of 43.03 and 3:26 set by Niekerk (2016) and Guerrouj (1998) respectively",
-        "url": "https://www.reddit.com/r/singularity/comments/1vwak0v/whrg26_tiangong_humanoid_robot_crushed_the_400m/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-23T15:43:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eDh0eDBpYWthNWxoMfYojlDHkEiU4JiicSPJUb-NQfWmw1Gai7Pgzw5fKEkv.png?width=640&crop=smart&auto=webp&s=401cb3edff417d48bc0293b116a08029a33a6f95"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "An unusual parade was held in Kyiv. It featured ground-based robotic systems, maritime drones, and aerial drones",
         "url": "https://www.reddit.com/r/singularity/comments/1vx443u/an_unusual_parade_was_held_in_kyiv_it_featured/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-24T14:17:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "WHRG'26: Galbot’s humanoid robot just completed +100 consecutive tennis rallies autonomously",
+        "url": "https://www.reddit.com/r/singularity/comments/1vwclb9/whrg26_galbots_humanoid_robot_just_completed_100/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-23T17:01:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OTYwOTdqaWxvNWxoMYbNaU0wMHmDuPz9UFNlxqis1qOPkWoaWtCUbtvALczm.png?width=640&crop=smart&auto=webp&s=1e458c826a2af1b41b7ec1b7698db32f711d27ff"
+      },
+      {
+        "rank": 5,
+        "title": "Why do we assume anyone will give us access to superintelligence?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:06:17.000Z",
         "category": "reddit"
       },
       {

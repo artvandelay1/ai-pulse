@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T21:34:16.137Z",
+  "fetchedAt": "2026-08-25T22:33:10.395Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -75,15 +75,6 @@
       },
       {
         "rank": 3,
-        "title": "Travel and stay accommodation for EMNLP [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T09:05:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "How we built a SOTA search engine using PostgreSQL, pgvector, and Qwen3 embeddings [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/",
         "source": "r/MachineLearning",
@@ -91,6 +82,15 @@
         "publishedAt": "2026-08-25T12:42:36.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/2x6kbtv3oilh1.png?width=640&crop=smart&auto=webp&s=607ca224a2a9ddd930fd91eaaa2685c41eeb9159"
+      },
+      {
+        "rank": 4,
+        "title": "Travel and stay accommodation for EMNLP [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T09:05:13.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

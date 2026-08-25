@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-08-25T22:33:10.395Z",
+  "fetchedAt": "2026-08-25T23:29:45.086Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T06:34:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T10:30:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3fzb6dga0ilh1.png?width=640&crop=smart&auto=webp&s=28aa5b3250dc5aab05341f6874be2181cbd67ce4"
+      },
+      {
+        "rank": 3,
+        "title": "Travel and stay accommodation for EMNLP [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T09:05:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T18:34:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How we built a SOTA search engine using PostgreSQL, pgvector, and Qwen3 embeddings [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T12:42:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2x6kbtv3oilh1.png?width=640&crop=smart&auto=webp&s=607ca224a2a9ddd930fd91eaaa2685c41eeb9159"
+      },
+      {
+        "rank": 1,
+        "title": "5hr Limit is back for Plus users. $100 and $200 get a few more months.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxnqaq/5hr_limit_is_back_for_plus_users_100_and_200_get/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T02:50:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7n0k63vmqflh1.jpeg?width=640&crop=smart&auto=webp&s=bc92d90c9fc94a0d1d329e337a71842ee9607c1a"
+      },
+      {
+        "rank": 2,
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxw9vt/disrupting_a_new_covert_influence_campaign_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T10:45:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Meanwhile in SF",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxu7tb/meanwhile_in_sf/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T08:48:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qd7ogxw9ihlh1.png?width=640&crop=smart&auto=webp&s=d841d49a6d9b039b81baf67b4a06b700918e36bf"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vy4be4/openai_jalapeño_better_than_nvidia_blackwell/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T16:14:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/RBDCNt67eCldMrsutdXSqRtBoVkf8I83tBqKPdEEiBQ.jpeg?width=640&crop=smart&auto=webp&s=bef0ddd7704bd873934e4ca4524181f64b31a044"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI Just Dropped Benchmarks for Their Own Chip, Jalapeño, and It's Beating Nvidia's GB300",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vyd7lv/openai_just_dropped_benchmarks_for_their_own_chip/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T21:30:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NGswZ3JodTlhbGxoMZ19fPdGvmzywjBBNDbu0q5xM4e_I_2fikgFuYrOt3Ng.png?width=640&crop=smart&auto=webp&s=b99910dfe4123604f195d86175dacc0a257bdefa"
+      },
+      {
+        "rank": 1,
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.reddit.com/r/singularity/comments/1vxzsxc/anthropics_best_ai_model_struggles_to_attract/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-25T13:25:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/AVjN51NT_1YXtHRKlSTiATuuO1_4BGp6Hxzg0tjiNiQ.jpeg?width=640&crop=smart&auto=webp&s=a0930872787a5464710d49c9a1459def3cb71751"
+      },
+      {
+        "rank": 2,
+        "title": "According to Leo, OpenAI just finished its next >10T pretrain \"Bel\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vy99vk/according_to_leo_openai_just_finished_its_next/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-25T19:09:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jm0cwwsukklh1.png?width=640&crop=smart&auto=webp&s=7bf4cd9a0ff7e7ad11dae1ba338ce4ac12de0500"
+      },
+      {
+        "rank": 3,
+        "title": "AI Insider States \"The Next Generation Of Models Will Be An Ontological Shock\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1vxn0ma/ai_insider_states_the_next_generation_of_models/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-25T02:18:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Anjney Midha is a genuinely well-connected and unusually well-placed person in frontier AI.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vy5iqs/anjney_midha_is_a_genuinely_wellconnected_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-25T16:57:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a3hj31gjxjlh1.jpeg?width=640&crop=smart&auto=webp&s=379aaa9146f09e529ff62fdeed06405e13f0adac"
+      },
+      {
+        "rank": 5,
+        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "url": "https://www.reddit.com/r/singularity/comments/1vxm8gq/ai_is_hitting_entrylevel_jobs_hardest_stanford/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-25T01:42:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/rYzG4pZWmYeRnxLt1x7XapTzqW6XahaFZroSgD2RYfs.jpeg?width=640&crop=smart&auto=webp&s=bb28ccf05f1634d6673ab51c787b961608147f47"
+      },
       {
         "rank": 1,
         "title": "I built a handwriting notebook app where Claude writes back and it's the most fun I've had learning in years",
@@ -56,53 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T06:34:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T10:30:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3fzb6dga0ilh1.png?width=640&crop=smart&auto=webp&s=28aa5b3250dc5aab05341f6874be2181cbd67ce4"
-      },
-      {
-        "rank": 3,
-        "title": "How we built a SOTA search engine using PostgreSQL, pgvector, and Qwen3 embeddings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T12:42:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2x6kbtv3oilh1.png?width=640&crop=smart&auto=webp&s=607ca224a2a9ddd930fd91eaaa2685c41eeb9159"
-      },
-      {
-        "rank": 4,
-        "title": "Travel and stay accommodation for EMNLP [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T09:05:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:34:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "5H limit back from tomorrow for Plus subs...",
         "url": "https://www.reddit.com/r/codex/comments/1vxlvtd/5h_limit_back_from_tomorrow_for_plus_subs/",
         "source": "r/codex",
@@ -148,103 +246,6 @@
         "score": 0,
         "publishedAt": "2026-08-25T18:22:19.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "5hr Limit is back for Plus users. $100 and $200 get a few more months.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vxnqaq/5hr_limit_is_back_for_plus_users_100_and_200_get/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T02:50:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7n0k63vmqflh1.jpeg?width=640&crop=smart&auto=webp&s=bc92d90c9fc94a0d1d329e337a71842ee9607c1a"
-      },
-      {
-        "rank": 2,
-        "title": "Meanwhile in SF",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vxu7tb/meanwhile_in_sf/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T08:48:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qd7ogxw9ihlh1.png?width=640&crop=smart&auto=webp&s=d841d49a6d9b039b81baf67b4a06b700918e36bf"
-      },
-      {
-        "rank": 3,
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vxw9vt/disrupting_a_new_covert_influence_campaign_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T10:45:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vy4be4/openai_jalapeño_better_than_nvidia_blackwell/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T16:14:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/RBDCNt67eCldMrsutdXSqRtBoVkf8I83tBqKPdEEiBQ.jpeg?width=640&crop=smart&auto=webp&s=bef0ddd7704bd873934e4ca4524181f64b31a044"
-      },
-      {
-        "rank": 5,
-        "title": "Do you trust OpenAI to delete your deleted chats from their servers after 30 days?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vxkadt/do_you_trust_openai_to_delete_your_deleted_chats/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T00:17:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://www.reddit.com/r/singularity/comments/1vxzsxc/anthropics_best_ai_model_struggles_to_attract/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-25T13:25:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/AVjN51NT_1YXtHRKlSTiATuuO1_4BGp6Hxzg0tjiNiQ.jpeg?width=640&crop=smart&auto=webp&s=a0930872787a5464710d49c9a1459def3cb71751"
-      },
-      {
-        "rank": 2,
-        "title": "WHRG'26 wrong turns",
-        "url": "https://www.reddit.com/r/singularity/comments/1vxfgi4/whrg26_wrong_turns/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-24T21:03:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bDJ6YXpzZG8wZWxoMUVYAjb1C2SDKe7wId3SWHhIswyL3lDZFgZwQOFyVVbB.png?width=640&crop=smart&auto=webp&s=f97bcbd945091cadd4b0773bac70506364faa817"
-      },
-      {
-        "rank": 3,
-        "title": "Elon Musk on the AI race",
-        "url": "https://www.reddit.com/r/singularity/comments/1vxi7or/elon_musk_on_the_ai_race/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-24T22:51:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/586c62mtjelh1.png?width=640&crop=smart&auto=webp&s=a8134686f55e607e04b754e373a4480188367482"
-      },
-      {
-        "rank": 4,
-        "title": "AI Insider States \"The Next Generation Of Models Will Be An Ontological Shock\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vxn0ma/ai_insider_states_the_next_generation_of_models/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-25T02:18:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "According to Leo, OpenAI just finished its next >10T pretrain \"Bel\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1vy99vk/according_to_leo_openai_just_finished_its_next/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-25T19:09:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jm0cwwsukklh1.png?width=640&crop=smart&auto=webp&s=7bf4cd9a0ff7e7ad11dae1ba338ce4ac12de0500"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T10:38:48.108Z",
+  "fetchedAt": "2026-08-25T11:33:46.039Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -74,16 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "ChatGPT picks differently when asked in a different language. \"Choose a random fruit from this list\" asked a LOT of times",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx67dq/chatgpt_picks_differently_when_asked_in_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:35:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9emldv1zdclh1.png?width=640&crop=smart&auto=webp&s=46a1ad68e6026c0fbe0e4fb0b918c530061eb26d"
-      },
-      {
-        "rank": 4,
         "title": "Meanwhile in SF",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vxu7tb/meanwhile_in_sf/",
         "source": "r/OpenAI",
@@ -91,6 +81,16 @@
         "publishedAt": "2026-08-25T08:48:25.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/qd7ogxw9ihlh1.png?width=640&crop=smart&auto=webp&s=d841d49a6d9b039b81baf67b4a06b700918e36bf"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT picks differently when asked in a different language. \"Choose a random fruit from this list\" asked a LOT of times",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vx67dq/chatgpt_picks_differently_when_asked_in_a/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:35:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9emldv1zdclh1.png?width=640&crop=smart&auto=webp&s=46a1ad68e6026c0fbe0e4fb0b918c530061eb26d"
       },
       {
         "rank": 5,
@@ -122,15 +122,6 @@
       },
       {
         "rank": 3,
-        "title": "Why do we assume anyone will give us access to superintelligence?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:06:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "WHRG'26 wrong turns",
         "url": "https://www.reddit.com/r/singularity/comments/1vxfgi4/whrg26_wrong_turns/",
         "source": "r/singularity",
@@ -140,7 +131,7 @@
         "thumbnail": "https://external-preview.redd.it/bDJ6YXpzZG8wZWxoMUVYAjb1C2SDKe7wId3SWHhIswyL3lDZFgZwQOFyVVbB.png?width=640&crop=smart&auto=webp&s=f97bcbd945091cadd4b0773bac70506364faa817"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Elon Musk on the AI race",
         "url": "https://www.reddit.com/r/singularity/comments/1vxi7or/elon_musk_on_the_ai_race/",
         "source": "r/singularity",
@@ -148,6 +139,15 @@
         "publishedAt": "2026-08-24T22:51:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/586c62mtjelh1.png?width=640&crop=smart&auto=webp&s=a8134686f55e607e04b754e373a4480188367482"
+      },
+      {
+        "rank": 5,
+        "title": "Why do we assume anyone will give us access to superintelligence?",
+        "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:06:17.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

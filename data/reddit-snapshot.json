@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T12:55:09.540Z",
+  "fetchedAt": "2026-08-25T13:55:15.761Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -85,15 +85,6 @@
       },
       {
         "rank": 4,
-        "title": "Travel and stay accommodation for EMNLP [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T09:05:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
         "source": "r/MachineLearning",
@@ -101,6 +92,15 @@
         "publishedAt": "2026-08-25T10:30:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3fzb6dga0ilh1.png?width=640&crop=smart&auto=webp&s=28aa5b3250dc5aab05341f6874be2181cbd67ce4"
+      },
+      {
+        "rank": 5,
+        "title": "Travel and stay accommodation for EMNLP [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T09:05:13.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -133,15 +133,6 @@
       },
       {
         "rank": 4,
-        "title": "“Sol for planning, Luna for execution”, Is this really the best strategy?",
-        "url": "https://www.reddit.com/r/codex/comments/1vxbuf2/sol_for_planning_luna_for_execution_is_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-24T18:54:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "title",
         "url": "https://www.reddit.com/r/codex/comments/1vxvnv4/title/",
         "source": "r/codex",
@@ -149,6 +140,15 @@
         "publishedAt": "2026-08-25T10:12:28.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/be4pe2rcxhlh1.jpeg?width=640&crop=smart&auto=webp&s=1fa1b67d3ccb747716c9cfefbcccee93418d1a23"
+      },
+      {
+        "rank": 5,
+        "title": "“Sol for planning, Luna for execution”, Is this really the best strategy?",
+        "url": "https://www.reddit.com/r/codex/comments/1vxbuf2/sol_for_planning_luna_for_execution_is_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-24T18:54:25.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

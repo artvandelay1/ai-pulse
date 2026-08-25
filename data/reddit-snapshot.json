@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T02:44:41.694Z",
+  "fetchedAt": "2026-08-25T03:53:49.995Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -64,6 +64,16 @@
       },
       {
         "rank": 2,
+        "title": "5hr Limit is back for Plus users. $100 and $200 get a few more months.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxnqaq/5hr_limit_is_back_for_plus_users_100_and_200_get/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T02:50:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7n0k63vmqflh1.jpeg?width=640&crop=smart&auto=webp&s=bc92d90c9fc94a0d1d329e337a71842ee9607c1a"
+      },
+      {
+        "rank": 3,
         "title": "ChatGPT picks differently when asked in a different language. \"Choose a random fruit from this list\" asked a LOT of times",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vx67dq/chatgpt_picks_differently_when_asked_in_a/",
         "source": "r/OpenAI",
@@ -73,7 +83,7 @@
         "thumbnail": "https://preview.redd.it/9emldv1zdclh1.png?width=640&crop=smart&auto=webp&s=46a1ad68e6026c0fbe0e4fb0b918c530061eb26d"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Do you separate OpenAI usage by project internally?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vx5511/do_you_separate_openai_usage_by_project_internally/",
         "source": "r/OpenAI",
@@ -82,23 +92,13 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Do you trust OpenAI to delete your deleted chats from their servers after 30 days?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vxkadt/do_you_trust_openai_to_delete_your_deleted_chats/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-25T00:17:22.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Why's the limit triggering without using image analysis?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx1g6b/whys_the_limit_triggering_without_using_image/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T12:30:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dchrfc52hblh1.jpeg?width=640&crop=smart&auto=webp&s=46fbbb59ad434660e5da38fbb654aac4f445167b"
       },
       {
         "rank": 1,

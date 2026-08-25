@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T05:37:07.309Z",
+  "fetchedAt": "2026-08-25T06:56:15.200Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,20 +37,20 @@
       },
       {
         "rank": 4,
-        "title": "Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T11:49:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Claude Enterprise admins, have you ever found anything shocking in an employee's chat history?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxehxv/claude_enterprise_admins_have_you_ever_found/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-24T20:28:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-24T11:49:04.000Z",
         "category": "reddit"
       },
       {
@@ -65,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-24T06:11:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
         "source": "r/MachineLearning",
@@ -83,7 +74,7 @@
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Hyperparameters fine tuning for MARL comparative study [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/",
         "source": "r/MachineLearning",
@@ -92,26 +83,25 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "BMVC 2026 IJCV recommendation? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vwtzix/bmvc_2026_ijcv_recommendation_d/",
+        "rank": 4,
+        "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-24T05:39:57.000Z",
+        "publishedAt": "2026-08-25T06:34:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T12:11:34.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "5.6 Sol pricing has been reduced",
-        "url": "https://www.reddit.com/r/codex/comments/1vx601h/56_sol_pricing_has_been_reduced/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:28:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b9KZ0CFTaSAl7kmFrdQrtub5t5J7hlT-r6jhwuq_SNI.png?width=640&crop=smart&auto=webp&s=069b2bb3bc4be06d934d1bfcf2cd52b225191d7d"
-      },
-      {
-        "rank": 2,
         "title": "5H limit back from tomorrow for Plus subs...",
         "url": "https://www.reddit.com/r/codex/comments/1vxlvtd/5h_limit_back_from_tomorrow_for_plus_subs/",
         "source": "r/codex",
@@ -119,6 +109,16 @@
         "publishedAt": "2026-08-25T01:26:58.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/i9ih5a2obflh1.jpeg?width=640&crop=smart&auto=webp&s=b7a117e3aff90274669e31935ea475e063d2c1df"
+      },
+      {
+        "rank": 2,
+        "title": "5.6 Sol pricing has been reduced",
+        "url": "https://www.reddit.com/r/codex/comments/1vx601h/56_sol_pricing_has_been_reduced/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-24T15:28:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/b9KZ0CFTaSAl7kmFrdQrtub5t5J7hlT-r6jhwuq_SNI.png?width=640&crop=smart&auto=webp&s=069b2bb3bc4be06d934d1bfcf2cd52b225191d7d"
       },
       {
         "rank": 3,
@@ -142,11 +142,11 @@
       },
       {
         "rank": 5,
-        "title": "The more Tibo presses that button...",
-        "url": "https://www.reddit.com/r/codex/comments/1vwuj8y/the_more_tibo_presses_that_button/",
+        "title": "I’m waiting for GPT-6 to clean up the mess GPT-5.6 Sol has left behind in my project.",
+        "url": "https://www.reddit.com/r/codex/comments/1vx16ul/im_waiting_for_gpt6_to_clean_up_the_mess_gpt56/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-24T06:10:52.000Z",
+        "publishedAt": "2026-08-24T12:18:28.000Z",
         "category": "reddit"
       },
       {

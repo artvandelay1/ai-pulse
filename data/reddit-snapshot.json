@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T06:56:15.200Z",
+  "fetchedAt": "2026-08-25T07:50:07.541Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,20 +37,21 @@
       },
       {
         "rank": 4,
+        "title": "I built a handwriting notebook app where Claude writes back and it's the most fun I've had learning in years",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxqbzs/i_built_a_handwriting_notebook_app_where_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T05:02:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N2h6eGlmY29kZ2xoMc5ZCf4XOqEQ5skXm85FDv9eBqzlSo3B4UVONtDapy5f.png?width=640&crop=smart&auto=webp&s=f2fd0805d9565ca1aa7f3edca94a9078be1078df"
+      },
+      {
+        "rank": 5,
         "title": "Claude Enterprise admins, have you ever found anything shocking in an employee's chat history?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxehxv/claude_enterprise_admins_have_you_ever_found/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-24T20:28:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Lifting the Curtain: The Max x5 and Max x20 Usage Limits that Anthropic Refuses to Share",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vx0k69/lifting_the_curtain_the_max_x5_and_max_x20_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T11:49:04.000Z",
         "category": "reddit"
       },
       {
@@ -75,20 +76,20 @@
       },
       {
         "rank": 3,
-        "title": "Hyperparameters fine tuning for MARL comparative study [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-24T21:10:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-25T06:34:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Hyperparameters fine tuning for MARL comparative study [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-24T21:10:10.000Z",
         "category": "reddit"
       },
       {

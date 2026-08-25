@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T14:52:50.533Z",
+  "fetchedAt": "2026-08-25T15:48:45.923Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,15 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "Travel and stay accommodation for EMNLP [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T09:05:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
         "source": "r/MachineLearning",
@@ -52,6 +43,15 @@
         "publishedAt": "2026-08-25T10:30:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3fzb6dga0ilh1.png?width=640&crop=smart&auto=webp&s=28aa5b3250dc5aab05341f6874be2181cbd67ce4"
+      },
+      {
+        "rank": 5,
+        "title": "Travel and stay accommodation for EMNLP [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T09:05:13.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -65,16 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "New Sol API pricing - $4 per million input tokens and $20 per million output tokens",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx5mrz/new_sol_api_pricing_4_per_million_input_tokens/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:14:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j9uzwtgeaclh1.jpeg?width=640&crop=smart&auto=webp&s=145a7d016e53688006344948a2984c492a43c39e"
-      },
-      {
-        "rank": 3,
         "title": "Meanwhile in SF",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vxu7tb/meanwhile_in_sf/",
         "source": "r/OpenAI",
@@ -84,7 +74,7 @@
         "thumbnail": "https://preview.redd.it/qd7ogxw9ihlh1.png?width=640&crop=smart&auto=webp&s=d841d49a6d9b039b81baf67b4a06b700918e36bf"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Disrupting a new covert influence campaign from Russia",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vxw9vt/disrupting_a_new_covert_influence_campaign_from/",
         "source": "r/OpenAI",
@@ -93,14 +83,22 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "ChatGPT picks differently when asked in a different language. \"Choose a random fruit from this list\" asked a LOT of times",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vx67dq/chatgpt_picks_differently_when_asked_in_a/",
+        "rank": 4,
+        "title": "Do you trust OpenAI to delete your deleted chats from their servers after 30 days?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxkadt/do_you_trust_openai_to_delete_your_deleted_chats/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-24T15:35:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9emldv1zdclh1.png?width=640&crop=smart&auto=webp&s=46a1ad68e6026c0fbe0e4fb0b918c530061eb26d"
+        "publishedAt": "2026-08-25T00:17:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Why does GPT-5.6 Sol always over-engineer everything?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxqqsi/why_does_gpt56_sol_always_overengineer_everything/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T05:25:32.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -134,21 +132,22 @@
       },
       {
         "rank": 4,
-        "title": "Why do we assume anyone will give us access to superintelligence?",
-        "url": "https://www.reddit.com/r/singularity/comments/1vx5ezk/why_do_we_assume_anyone_will_give_us_access_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-24T15:06:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "AI Insider States \"The Next Generation Of Models Will Be An Ontological Shock\"",
         "url": "https://www.reddit.com/r/singularity/comments/1vxn0ma/ai_insider_states_the_next_generation_of_models/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-25T02:18:00.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.reddit.com/r/singularity/comments/1vxzsxc/anthropics_best_ai_model_struggles_to_attract/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-25T13:25:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/AVjN51NT_1YXtHRKlSTiATuuO1_4BGp6Hxzg0tjiNiQ.jpeg?width=640&crop=smart&auto=webp&s=a0930872787a5464710d49c9a1459def3cb71751"
       },
       {
         "rank": 1,

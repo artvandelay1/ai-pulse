@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T18:45:53.021Z",
+  "fetchedAt": "2026-08-25T19:36:44.976Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,16 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-24T19:10:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 3,
         "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
         "source": "r/MachineLearning",
@@ -33,6 +23,16 @@
         "publishedAt": "2026-08-25T10:30:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3fzb6dga0ilh1.png?width=640&crop=smart&auto=webp&s=28aa5b3250dc5aab05341f6874be2181cbd67ce4"
+      },
+      {
+        "rank": 3,
+        "title": "How we built a SOTA search engine using PostgreSQL, pgvector, and Qwen3 embeddings [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T12:42:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2x6kbtv3oilh1.png?width=640&crop=smart&auto=webp&s=607ca224a2a9ddd930fd91eaaa2685c41eeb9159"
       },
       {
         "rank": 4,
@@ -45,13 +45,12 @@
       },
       {
         "rank": 5,
-        "title": "How we built a SOTA search engine using PostgreSQL, pgvector, and Qwen3 embeddings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/",
+        "title": "Hyperparameters fine tuning for MARL comparative study [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-25T12:42:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2x6kbtv3oilh1.png?width=640&crop=smart&auto=webp&s=607ca224a2a9ddd930fd91eaaa2685c41eeb9159"
+        "publishedAt": "2026-08-24T21:10:10.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -84,15 +83,6 @@
       },
       {
         "rank": 4,
-        "title": "Do you trust OpenAI to delete your deleted chats from their servers after 30 days?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vxkadt/do_you_trust_openai_to_delete_your_deleted_chats/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T00:17:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vy4be4/openai_jalapeño_better_than_nvidia_blackwell/",
         "source": "r/OpenAI",
@@ -100,6 +90,15 @@
         "publishedAt": "2026-08-25T16:14:38.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/RBDCNt67eCldMrsutdXSqRtBoVkf8I83tBqKPdEEiBQ.jpeg?width=640&crop=smart&auto=webp&s=bef0ddd7704bd873934e4ca4524181f64b31a044"
+      },
+      {
+        "rank": 5,
+        "title": "Do you trust OpenAI to delete your deleted chats from their servers after 30 days?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxkadt/do_you_trust_openai_to_delete_your_deleted_chats/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T00:17:22.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -113,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "Elon Musk on the AI race",
-        "url": "https://www.reddit.com/r/singularity/comments/1vxi7or/elon_musk_on_the_ai_race/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-24T22:51:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/586c62mtjelh1.png?width=640&crop=smart&auto=webp&s=a8134686f55e607e04b754e373a4480188367482"
-      },
-      {
-        "rank": 3,
         "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
         "url": "https://www.reddit.com/r/singularity/comments/1vxzsxc/anthropics_best_ai_model_struggles_to_attract/",
         "source": "r/singularity",
@@ -130,6 +119,16 @@
         "publishedAt": "2026-08-25T13:25:20.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/AVjN51NT_1YXtHRKlSTiATuuO1_4BGp6Hxzg0tjiNiQ.jpeg?width=640&crop=smart&auto=webp&s=a0930872787a5464710d49c9a1459def3cb71751"
+      },
+      {
+        "rank": 3,
+        "title": "Elon Musk on the AI race",
+        "url": "https://www.reddit.com/r/singularity/comments/1vxi7or/elon_musk_on_the_ai_race/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-24T22:51:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/586c62mtjelh1.png?width=640&crop=smart&auto=webp&s=a8134686f55e607e04b754e373a4480188367482"
       },
       {
         "rank": 4,
@@ -142,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Ox-alpha: pelican on bicycle benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1vxfqhd/oxalpha_pelican_on_bicycle_benchmark/",
+        "title": "Anjney Midha is a genuinely well-connected and unusually well-placed person in frontier AI.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vy5iqs/anjney_midha_is_a_genuinely_wellconnected_and/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-24T21:14:12.000Z",
+        "publishedAt": "2026-08-25T16:57:50.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cnZqejE0MGQyZWxoMRGvduByeycaaUAWrRec4fpmormJiG6GBokvpnkbwaGF.png?width=640&crop=smart&auto=webp&s=1836ce44e18d14c658b359368fc8215a1ae0c0c5"
+        "thumbnail": "https://preview.redd.it/a3hj31gjxjlh1.jpeg?width=640&crop=smart&auto=webp&s=379aaa9146f09e529ff62fdeed06405e13f0adac"
       },
       {
         "rank": 1,

@@ -1,59 +1,10 @@
 {
-  "fetchedAt": "2026-08-26T05:08:09.143Z",
+  "fetchedAt": "2026-08-26T06:02:48.329Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Claude in a box",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy40r2/claude_in_a_box/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T16:04:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gw8x4km5ojlh1.jpeg?width=640&crop=smart&auto=webp&s=c5b467724b2a88282bb54cd4c03dcbd284703658"
-      },
-      {
-        "rank": 2,
-        "title": "Claude thinking in Russian",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxsgpx/claude_thinking_in_russian/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T07:03:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j4d0qafizglh1.jpeg?width=640&crop=smart&auto=webp&s=6d37fdc29ef1a41622c8b470735fdd01617fda33"
-      },
-      {
-        "rank": 3,
-        "title": "I built \"Omegle for political debates\": you get matched with a person who disagrees, and Claude Haiku judges the debate live.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy7ue3/i_built_omegle_for_political_debates_you_get/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:19:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/59cptlombklh1.png?width=140&height=71&auto=webp&s=ca9df58d11bfffce12384aa1ed1e68350ea4148d"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 5 feels like I am talking to Jordan Peterson",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy3f0s/opus_5_feels_like_i_am_talking_to_jordan_peterson/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T15:42:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I got so fed up, I tried to take the p**s. It backfired.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxy12f/i_got_so_fed_up_i_tried_to_take_the_ps_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T12:10:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/joh2w334iilh1.png?width=140&height=13&auto=webp&s=f56560fc11b865b73e6b28024f34a2525529dba0"
-      },
       {
         "rank": 1,
         "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
@@ -102,53 +53,6 @@
       },
       {
         "rank": 1,
-        "title": "State of the $20 subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1vy7xo3/state_of_the_20_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:22:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "As a 20 USD tier user...",
-        "url": "https://www.reddit.com/r/codex/comments/1vxrd5x/as_a_20_usd_tier_user/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T06:00:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "We got unannounced reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1vy14nu/we_got_unannounced_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T14:16:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/06tixdq15jlh1.png?width=640&crop=smart&auto=webp&s=8c1ba2e22c564f703bf2da2db7e3b4a81c4ea747"
-      },
-      {
-        "rank": 4,
-        "title": "title",
-        "url": "https://www.reddit.com/r/codex/comments/1vxvnv4/title/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T10:12:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/be4pe2rcxhlh1.jpeg?width=640&crop=smart&auto=webp&s=1fa1b67d3ccb747716c9cfefbcccee93418d1a23"
-      },
-      {
-        "rank": 5,
-        "title": "You should be more mad about the 5h limit returning (and be vocal about it)",
-        "url": "https://www.reddit.com/r/codex/comments/1vy5ec0/you_should_be_more_mad_about_the_5h_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T16:53:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "OpenAI Just Dropped Benchmarks for Their Own Chip, Jalapeño, and It's Beating Nvidia's GB300",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vyd7lv/openai_just_dropped_benchmarks_for_their_own_chip/",
         "source": "r/OpenAI",
@@ -159,15 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vxw9vt/disrupting_a_new_covert_influence_campaign_from/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T10:45:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vy4be4/openai_jalapeño_better_than_nvidia_blackwell/",
         "source": "r/OpenAI",
@@ -175,6 +70,15 @@
         "publishedAt": "2026-08-25T16:14:38.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/RBDCNt67eCldMrsutdXSqRtBoVkf8I83tBqKPdEEiBQ.jpeg?width=640&crop=smart&auto=webp&s=bef0ddd7704bd873934e4ca4524181f64b31a044"
+      },
+      {
+        "rank": 3,
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vxw9vt/disrupting_a_new_covert_influence_campaign_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T10:45:35.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -245,6 +149,102 @@
         "publishedAt": "2026-08-25T15:00:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wlxh84hqcjlh1.jpeg?width=640&crop=smart&auto=webp&s=3eac7cbe33c55cc2c1d521198547dc4b3f632a86"
+      },
+      {
+        "rank": 1,
+        "title": "Claude in a box",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy40r2/claude_in_a_box/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T16:04:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gw8x4km5ojlh1.jpeg?width=640&crop=smart&auto=webp&s=c5b467724b2a88282bb54cd4c03dcbd284703658"
+      },
+      {
+        "rank": 2,
+        "title": "Claude thinking in Russian",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxsgpx/claude_thinking_in_russian/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T07:03:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j4d0qafizglh1.jpeg?width=640&crop=smart&auto=webp&s=6d37fdc29ef1a41622c8b470735fdd01617fda33"
+      },
+      {
+        "rank": 3,
+        "title": "I built \"Omegle for political debates\": you get matched with a person who disagrees, and Claude Haiku judges the debate live.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy7ue3/i_built_omegle_for_political_debates_you_get/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T18:19:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/59cptlombklh1.png?width=140&height=71&auto=webp&s=ca9df58d11bfffce12384aa1ed1e68350ea4148d"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5 feels like I am talking to Jordan Peterson",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy3f0s/opus_5_feels_like_i_am_talking_to_jordan_peterson/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T15:42:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I got so fed up, I tried to take the p**s. It backfired.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxy12f/i_got_so_fed_up_i_tried_to_take_the_ps_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T12:10:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/joh2w334iilh1.png?width=140&height=13&auto=webp&s=f56560fc11b865b73e6b28024f34a2525529dba0"
+      },
+      {
+        "rank": 1,
+        "title": "State of the $20 subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1vy7xo3/state_of_the_20_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T18:22:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "As a 20 USD tier user...",
+        "url": "https://www.reddit.com/r/codex/comments/1vxrd5x/as_a_20_usd_tier_user/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T06:00:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "We got unannounced reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1vy14nu/we_got_unannounced_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T14:16:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/06tixdq15jlh1.png?width=640&crop=smart&auto=webp&s=8c1ba2e22c564f703bf2da2db7e3b4a81c4ea747"
+      },
+      {
+        "rank": 4,
+        "title": "title",
+        "url": "https://www.reddit.com/r/codex/comments/1vxvnv4/title/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T10:12:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/be4pe2rcxhlh1.jpeg?width=640&crop=smart&auto=webp&s=1fa1b67d3ccb747716c9cfefbcccee93418d1a23"
+      },
+      {
+        "rank": 5,
+        "title": "You should be more mad about the 5h limit returning (and be vocal about it)",
+        "url": "https://www.reddit.com/r/codex/comments/1vy5ec0/you_should_be_more_mad_about_the_5h_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T16:53:35.000Z",
+        "category": "reddit"
       }
     ]
   }

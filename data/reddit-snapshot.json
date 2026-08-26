@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T18:20:11.102Z",
+  "fetchedAt": "2026-08-26T20:41:07.754Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "I built \"Omegle for political debates\": you get matched with a person who disagrees, and Claude Haiku judges the debate live.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy7ue3/i_built_omegle_for_political_debates_you_get/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:19:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/59cptlombklh1.png?width=140&height=71&auto=webp&s=ca9df58d11bfffce12384aa1ed1e68350ea4148d"
-      },
-      {
-        "rank": 3,
         "title": "What a… backwards way to confirm a typo",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vycha6/what_a_backwards_way_to_confirm_a_typo/",
         "source": "r/ClaudeAI",
@@ -36,22 +26,30 @@
         "thumbnail": "https://preview.redd.it/dru35lhg5llh1.jpeg?width=640&crop=smart&auto=webp&s=00eb07e53fe131f4ee9b45cdbb0151b92a6d87d2"
       },
       {
-        "rank": 4,
-        "title": "How many billions of tokens do I need to burn to unlock this tier of merch?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy8rvs/how_many_billions_of_tokens_do_i_need_to_burn_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:51:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7slpfl0ohklh1.png?width=640&crop=smart&auto=webp&s=4375cc3cca6bfc780f0c5aee0e9321c511f7fbe7"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Went through a list of 27 advanced Claude tips. These were the first 5 I thought were actually useful",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyjm2h/went_through_a_list_of_27_advanced_claude_tips/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-08-26T02:00:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude REFUSES/EVADES all instructions, hooks, mds, skills. Also: Extreme cycling between nonsensical compressed fake English and baby talk",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vymqan/claude_refusesevades_all_instructions_hooks_mds/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-26T04:24:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Two 5x account vs. one 20x account in Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyrh6k/two_5x_account_vs_one_20x_account_in_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-26T08:50:26.000Z",
         "category": "reddit"
       },
       {
@@ -74,11 +72,11 @@
       },
       {
         "rank": 3,
-        "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
+        "title": "HNSW from scratch, benchmarked against FAISS: brute force still wins at 5,183 documents. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vz54ft/hnsw_from_scratch_benchmarked_against_faiss_brute/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-25T18:34:35.000Z",
+        "publishedAt": "2026-08-26T18:19:20.000Z",
         "category": "reddit"
       },
       {
@@ -92,15 +90,6 @@
       },
       {
         "rank": 1,
-        "title": "State of the $20 subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1vy7xo3/state_of_the_20_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:22:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "The average codex 20$ plan user",
         "url": "https://www.reddit.com/r/codex/comments/1vywi9x/the_average_codex_20_plan_user/",
         "source": "r/codex",
@@ -110,7 +99,7 @@
         "thumbnail": "https://external-preview.redd.it/Mmg2dnVvZXN3cGxoMYHUEVQIEqKcnKJx7HMEwvEIcM__cp9DLIgCOjulboTW.jpeg?width=640&crop=smart&auto=webp&s=9d91e8c79d4e9185e4ffd05c961739488f30a1d9"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Thanks for the lies, Tibo....",
         "url": "https://www.reddit.com/r/codex/comments/1vyqy8t/thanks_for_the_lies_tibo/",
         "source": "r/codex",
@@ -120,22 +109,33 @@
         "thumbnail": "https://preview.redd.it/8a8nv2m1iolh1.jpeg?width=640&crop=smart&auto=webp&s=97ed74b2f76d938cde6b68b680a465a0ca32d194"
       },
       {
-        "rank": 4,
-        "title": "Nice Work OpenAI",
-        "url": "https://www.reddit.com/r/codex/comments/1vyb559/nice_work_openai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T20:15:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "0% now stops all running tasks",
         "url": "https://www.reddit.com/r/codex/comments/1vypxmi/0_now_stops_all_running_tasks/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-08-26T07:18:09.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Banked resets no longer reset the scheduled weekly reset date.",
+        "url": "https://www.reddit.com/r/codex/comments/1vyzqgx/banked_resets_no_longer_reset_the_scheduled/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-26T15:08:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xwa7daiuiqlh1.jpeg?width=640&crop=smart&auto=webp&s=64c89bf48aa7bd8b70af172f2246f0be5eb59a75"
+      },
+      {
+        "rank": 5,
+        "title": "posted by openai 🤣",
+        "url": "https://www.reddit.com/r/codex/comments/1vykw7d/posted_by_openai/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-26T02:57:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/faokyw2rwmlh1.jpeg?width=640&crop=smart&auto=webp&s=30945a8786eb44f790dbef6f059d525fa4a0fe0d"
       },
       {
         "rank": 1,

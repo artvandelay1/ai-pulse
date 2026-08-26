@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-08-26T04:12:50.669Z",
+  "fetchedAt": "2026-08-26T05:08:09.143Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude in a box",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy40r2/claude_in_a_box/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T16:04:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gw8x4km5ojlh1.jpeg?width=640&crop=smart&auto=webp&s=c5b467724b2a88282bb54cd4c03dcbd284703658"
+      },
+      {
+        "rank": 2,
+        "title": "Claude thinking in Russian",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxsgpx/claude_thinking_in_russian/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T07:03:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j4d0qafizglh1.jpeg?width=640&crop=smart&auto=webp&s=6d37fdc29ef1a41622c8b470735fdd01617fda33"
+      },
+      {
+        "rank": 3,
+        "title": "I built \"Omegle for political debates\": you get matched with a person who disagrees, and Claude Haiku judges the debate live.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy7ue3/i_built_omegle_for_political_debates_you_get/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T18:19:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/59cptlombklh1.png?width=140&height=71&auto=webp&s=ca9df58d11bfffce12384aa1ed1e68350ea4148d"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5 feels like I am talking to Jordan Peterson",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy3f0s/opus_5_feels_like_i_am_talking_to_jordan_peterson/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T15:42:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I got so fed up, I tried to take the p**s. It backfired.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxy12f/i_got_so_fed_up_i_tried_to_take_the_ps_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T12:10:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/joh2w334iilh1.png?width=140&height=13&auto=webp&s=f56560fc11b865b73e6b28024f34a2525529dba0"
+      },
       {
         "rank": 1,
         "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
@@ -35,6 +84,15 @@
       },
       {
         "rank": 4,
+        "title": "Catching bugs in scikit-learn [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vym6cn/catching_bugs_in_scikitlearn_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-26T03:57:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
         "source": "r/MachineLearning",
@@ -43,12 +101,50 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Catching bugs in scikit-learn [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vym6cn/catching_bugs_in_scikitlearn_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "State of the $20 subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1vy7xo3/state_of_the_20_subscription/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-26T03:57:42.000Z",
+        "publishedAt": "2026-08-25T18:22:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "As a 20 USD tier user...",
+        "url": "https://www.reddit.com/r/codex/comments/1vxrd5x/as_a_20_usd_tier_user/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T06:00:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "We got unannounced reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1vy14nu/we_got_unannounced_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T14:16:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/06tixdq15jlh1.png?width=640&crop=smart&auto=webp&s=8c1ba2e22c564f703bf2da2db7e3b4a81c4ea747"
+      },
+      {
+        "rank": 4,
+        "title": "title",
+        "url": "https://www.reddit.com/r/codex/comments/1vxvnv4/title/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T10:12:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/be4pe2rcxhlh1.jpeg?width=640&crop=smart&auto=webp&s=1fa1b67d3ccb747716c9cfefbcccee93418d1a23"
+      },
+      {
+        "rank": 5,
+        "title": "You should be more mad about the 5h limit returning (and be vocal about it)",
+        "url": "https://www.reddit.com/r/codex/comments/1vy5ec0/you_should_be_more_mad_about_the_5h_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-25T16:53:35.000Z",
         "category": "reddit"
       },
       {
@@ -149,102 +245,6 @@
         "publishedAt": "2026-08-25T15:00:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wlxh84hqcjlh1.jpeg?width=640&crop=smart&auto=webp&s=3eac7cbe33c55cc2c1d521198547dc4b3f632a86"
-      },
-      {
-        "rank": 1,
-        "title": "I built a handwriting notebook app where Claude writes back and it's the most fun I've had learning in years",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxqbzs/i_built_a_handwriting_notebook_app_where_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T05:02:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N2h6eGlmY29kZ2xoMc5ZCf4XOqEQ5skXm85FDv9eBqzlSo3B4UVONtDapy5f.png?width=640&crop=smart&auto=webp&s=f2fd0805d9565ca1aa7f3edca94a9078be1078df"
-      },
-      {
-        "rank": 2,
-        "title": "Claude in a box",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy40r2/claude_in_a_box/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T16:04:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gw8x4km5ojlh1.jpeg?width=640&crop=smart&auto=webp&s=c5b467724b2a88282bb54cd4c03dcbd284703658"
-      },
-      {
-        "rank": 3,
-        "title": "Claude thinking in Russian",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vxsgpx/claude_thinking_in_russian/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T07:03:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j4d0qafizglh1.jpeg?width=640&crop=smart&auto=webp&s=6d37fdc29ef1a41622c8b470735fdd01617fda33"
-      },
-      {
-        "rank": 4,
-        "title": "I built \"Omegle for political debates\": you get matched with a person who disagrees, and Claude Haiku judges the debate live.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy7ue3/i_built_omegle_for_political_debates_you_get/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:19:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/59cptlombklh1.png?width=140&height=71&auto=webp&s=ca9df58d11bfffce12384aa1ed1e68350ea4148d"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5 feels like I am talking to Jordan Peterson",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vy3f0s/opus_5_feels_like_i_am_talking_to_jordan_peterson/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T15:42:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "As a 20 USD tier user...",
-        "url": "https://www.reddit.com/r/codex/comments/1vxrd5x/as_a_20_usd_tier_user/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T06:00:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "State of the $20 subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1vy7xo3/state_of_the_20_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T18:22:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "We got unannounced reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1vy14nu/we_got_unannounced_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T14:16:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/06tixdq15jlh1.png?width=640&crop=smart&auto=webp&s=8c1ba2e22c564f703bf2da2db7e3b4a81c4ea747"
-      },
-      {
-        "rank": 4,
-        "title": "title",
-        "url": "https://www.reddit.com/r/codex/comments/1vxvnv4/title/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T10:12:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/be4pe2rcxhlh1.jpeg?width=640&crop=smart&auto=webp&s=1fa1b67d3ccb747716c9cfefbcccee93418d1a23"
-      },
-      {
-        "rank": 5,
-        "title": "You should be more mad about the 5h limit returning (and be vocal about it)",
-        "url": "https://www.reddit.com/r/codex/comments/1vy5ec0/you_should_be_more_mad_about_the_5h_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-25T16:53:35.000Z",
-        "category": "reddit"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T11:59:48.328Z",
+  "fetchedAt": "2026-08-26T13:09:41.785Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-26T07:34:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "What would a fair benchmark for agent architecture look like? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
         "source": "r/MachineLearning",
@@ -42,14 +33,13 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "How we built a SOTA search engine using PostgreSQL, pgvector, and Qwen3 embeddings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/",
+        "rank": 4,
+        "title": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-25T12:42:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2x6kbtv3oilh1.png?width=640&crop=smart&auto=webp&s=607ca224a2a9ddd930fd91eaaa2685c41eeb9159"
+        "publishedAt": "2026-08-26T07:34:45.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -143,13 +133,13 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI's new chip is better than Vera rubin on benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1vy29d7/openais_new_chip_is_better_than_vera_rubin_on/",
+        "title": "Ox Alpha is GLM 5.3 Flash by zAI",
+        "url": "https://www.reddit.com/r/singularity/comments/1vyu46c/ox_alpha_is_glm_53_flash_by_zai/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-25T15:00:04.000Z",
+        "publishedAt": "2026-08-26T11:14:18.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wlxh84hqcjlh1.jpeg?width=640&crop=smart&auto=webp&s=3eac7cbe33c55cc2c1d521198547dc4b3f632a86"
+        "thumbnail": "https://external-preview.redd.it/Fb05ebYcP20z1eUT3RWVtgA-8sjdDWw6-MsG5QEhFaY.jpeg?width=640&crop=smart&auto=webp&s=905bb22036b0e04adcd08195dfb26e4eb08ae6e6"
       },
       {
         "rank": 1,

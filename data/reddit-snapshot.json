@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T08:11:50.848Z",
+  "fetchedAt": "2026-08-26T09:14:49.166Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,15 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "Travel and stay accommodation for EMNLP [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-25T09:05:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-26T07:34:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What would a fair benchmark for agent architecture look like? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-25T13:55:48.000Z",
         "category": "reddit"
       },
       {
@@ -82,16 +82,6 @@
       },
       {
         "rank": 4,
-        "title": "Meanwhile in SF",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vxu7tb/meanwhile_in_sf/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T08:48:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qd7ogxw9ihlh1.png?width=640&crop=smart&auto=webp&s=d841d49a6d9b039b81baf67b4a06b700918e36bf"
-      },
-      {
-        "rank": 5,
         "title": "Do they actually follow this?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vy0vh3/do_they_actually_follow_this/",
         "source": "r/OpenAI",
@@ -99,6 +89,16 @@
         "publishedAt": "2026-08-25T14:07:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9ohmzqc73jlh1.png?width=320&crop=smart&auto=webp&s=a6114183bbef86b16b996137149cf676835cc6dd"
+      },
+      {
+        "rank": 5,
+        "title": "New $100 Business Plan (2 seat minimum). They finally did it. My team just switched over. This is why 5h limits are back.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vygebh/new_100_business_plan_2_seat_minimum_they_finally/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-25T23:38:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/axt8793axllh1.jpeg?width=640&crop=smart&auto=webp&s=aa7852efd4b2136970571d2e221d6828fa9cc8fc"
       },
       {
         "rank": 1,

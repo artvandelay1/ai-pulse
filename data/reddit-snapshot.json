@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-27T11:03:43.004Z",
+  "fetchedAt": "2026-08-27T21:07:41.696Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,11 +7,11 @@
     "items": [
       {
         "rank": 1,
-        "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
+        "title": "NeurIPS 2026 Acceptance Calculator [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vzzw38/neurips_2026_acceptance_calculator_p/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-26T16:53:40.000Z",
+        "publishedAt": "2026-08-27T17:07:59.000Z",
         "category": "reddit"
       },
       {
@@ -24,46 +24,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Cutting edge AI safety tests be like",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vz27pi/cutting_edge_ai_safety_tests_be_like/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T16:36:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2rm6jwuyqlh1.png?width=640&crop=smart&auto=webp&s=595ca36625db63bed36176792f58027ee70d38c4"
-      },
-      {
-        "rank": 2,
-        "title": "Trust me bro taken to a new level",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vyzrvb/trust_me_bro_taken_to_a_new_level/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T15:09:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9s7v3pa7jqlh1.png?width=640&crop=smart&auto=webp&s=15c82f820041fc958603f6fff15329c25d854e52"
-      },
-      {
         "rank": 3,
-        "title": "The 5 hour limit is ridiculous, and they definitely lowered the usage limits for Plus.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vz1934/the_5_hour_limit_is_ridiculous_and_they/",
-        "source": "r/OpenAI",
+        "title": "ECCV 2026- MALMO LUND TRAVEL PASS NOT AVAILABLE? [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vzu8uy/eccv_2026_malmo_lund_travel_pass_not_available_n/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-26T16:02:59.000Z",
+        "publishedAt": "2026-08-27T13:38:37.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Currently GLM 5.3 Flash matches with Sol 5.6 (Max) in Agentic Index (Artificial Analysis)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vz7lhz/currently_glm_53_flash_matches_with_sol_56_max_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T19:45:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pf0orgblwrlh1.png?width=640&crop=smart&auto=webp&s=950020966894617d961cdf56dc3e72c3be12510f"
-      },
-      {
-        "rank": 5,
+        "rank": 1,
         "title": "Independent investigators (not OpenAI) confirm a swarm of 700 agents secretly plotted the attack on Hugging Face, right under OpenAI's nose.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1vzpfac/independent_investigators_not_openai_confirm_a/",
         "source": "r/OpenAI",
@@ -71,6 +41,46 @@
         "publishedAt": "2026-08-27T09:47:12.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/e1dtu26p2wlh1.png?width=640&crop=smart&auto=webp&s=6ba8f7534c3b2c41b514405bfb0fb22052c44511"
+      },
+      {
+        "rank": 2,
+        "title": "How many articles and videos will we see predicting \"OpenAI Is FALLING Apart And Sam Altman Is Panicking\". Tired of these clickbait titles",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vzynhc/how_many_articles_and_videos_will_we_see/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T16:22:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f7vpd4vh0ylh1.png?width=640&crop=smart&auto=webp&s=3d91f1d82fd190ef4a042d12b98db7a3e9a9e1c4"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vzziti/openai_is_developing_a_persistent_ai_agent/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T16:54:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ooHf8y9td9q7DHgHLX3fYm7RiOs44s1di4ZNnQGzW8Y.jpeg?width=640&crop=smart&auto=webp&s=616262c905840691b2876ff95b611a96b0da35e2"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI is building an interface platform inside ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vzifrb/openai_is_building_an_interface_platform_inside/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T03:14:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/SeClvsFUQpkAYr2MkgPkT9iw_qs-b7m8qwwNDpmHERs.jpeg?width=640&crop=smart&auto=webp&s=aed7849198ebbd1fb1fa29fedc8bf24bfe0075ab"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI hid Asteroids, Snake and Brick Breaker inside the Codex Micro",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vzlyp8/openai_hid_asteroids_snake_and_brick_breaker/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T06:21:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/--Fg6_kuNauz5hAuLGt0egI7WkTZ3pyn528VwO0gJcY.jpeg?width=640&crop=smart&auto=webp&s=ae568b2998285f0fcf7e08c80b3c6ebe91810d22"
       },
       {
         "rank": 1,
@@ -84,34 +94,6 @@
       },
       {
         "rank": 2,
-        "title": "Sam Altman tells TIME that OpenAI will achieve AGI by the end of this year.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vyyli5/sam_altman_tells_time_that_openai_will_achieve/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-26T14:25:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "‘This is crazy. This is insane’: Bill Gates has changed his mind about AI and jobs",
-        "url": "https://www.reddit.com/r/singularity/comments/1vz1ejm/this_is_crazy_this_is_insane_bill_gates_has/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-26T16:08:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Ox Alpha is GLM 5.3 Flash by zAI",
-        "url": "https://www.reddit.com/r/singularity/comments/1vyu46c/ox_alpha_is_glm_53_flash_by_zai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-26T11:14:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Fb05ebYcP20z1eUT3RWVtgA-8sjdDWw6-MsG5QEhFaY.jpeg?width=640&crop=smart&auto=webp&s=905bb22036b0e04adcd08195dfb26e4eb08ae6e6"
-      },
-      {
-        "rank": 5,
         "title": "Nvidia has been in talks to buy Hugging Face for more than $13 billion",
         "url": "https://www.reddit.com/r/singularity/comments/1vzgkfa/nvidia_has_been_in_talks_to_buy_hugging_face_for/",
         "source": "r/singularity",
@@ -119,6 +101,34 @@
         "publishedAt": "2026-08-27T01:49:13.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/1seehrbvfdlypg24G9sw5H3u-9CuHUcxqYXfXc3Tmx8.jpeg?width=640&crop=smart&auto=webp&s=c260d44b2b0d420f7f05c66b432f76c114965c90"
+      },
+      {
+        "rank": 3,
+        "title": "The raw chain of thought message snippets OpenAI released regarding the huggingface incident are fascinating",
+        "url": "https://www.reddit.com/r/singularity/comments/1vzfupt/the_raw_chain_of_thought_message_snippets_openai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T01:16:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "TBH AI is 100x smarter than y'all.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vzlutn/tbh_ai_is_100x_smarter_than_yall/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T06:15:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Excerpt from the OpenAI TIME article about the Hugging Face incident",
+        "url": "https://www.reddit.com/r/singularity/comments/1vzf5pu/excerpt_from_the_openai_time_article_about_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T00:45:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p8l37ej5etlh1.jpeg?width=640&crop=smart&auto=webp&s=58b465bfcb84ee8a29b0d59a89787b572a66320b"
       },
       {
         "rank": 1,

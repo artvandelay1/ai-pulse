@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T20:41:07.754Z",
+  "fetchedAt": "2026-08-27T00:36:07.000Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "What a… backwards way to confirm a typo",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vycha6/what_a_backwards_way_to_confirm_a_typo/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-25T21:02:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dru35lhg5llh1.jpeg?width=640&crop=smart&auto=webp&s=00eb07e53fe131f4ee9b45cdbb0151b92a6d87d2"
-      },
-      {
-        "rank": 3,
         "title": "Went through a list of 27 advanced Claude tips. These were the first 5 I thought were actually useful",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyjm2h/went_through_a_list_of_27_advanced_claude_tips/",
         "source": "r/ClaudeAI",
@@ -35,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Claude REFUSES/EVADES all instructions, hooks, mds, skills. Also: Extreme cycling between nonsensical compressed fake English and baby talk",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1vymqan/claude_refusesevades_all_instructions_hooks_mds/",
         "source": "r/ClaudeAI",
@@ -44,12 +34,22 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Two 5x account vs. one 20x account in Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyrh6k/two_5x_account_vs_one_20x_account_in_claude/",
+        "rank": 4,
+        "title": "I Claude Coded a multiplayer Three.js tank game with 100+ procedural vehicles. Here's my workflow",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vz70zy/i_claude_coded_a_multiplayer_threejs_tank_game/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-08-26T08:50:26.000Z",
+        "publishedAt": "2026-08-26T19:26:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OTV6eHd2ZWJycmxoMdGVnk9SROvXB05ORFvlAK94cyXVNJDRJfmpxzeRKODo.png?width=640&crop=smart&auto=webp&s=4759ceee90bf4ca1389b052821e6041fb114ac4d"
+      },
+      {
+        "rank": 5,
+        "title": "Why do we trust Microsoft 365 with sensitive documents, but not AI?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vz8l1f/why_do_we_trust_microsoft_365_with_sensitive/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-26T20:20:34.000Z",
         "category": "reddit"
       },
       {
@@ -72,11 +72,11 @@
       },
       {
         "rank": 3,
-        "title": "HNSW from scratch, benchmarked against FAISS: brute force still wins at 5,183 documents. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vz54ft/hnsw_from_scratch_benchmarked_against_faiss_brute/",
+        "title": "A dataset with 52 Text to image model evaluation [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vz9x9c/a_dataset_with_52_text_to_image_model_evaluation_p/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-26T18:19:20.000Z",
+        "publishedAt": "2026-08-26T21:10:25.000Z",
         "category": "reddit"
       },
       {
@@ -110,15 +110,25 @@
       },
       {
         "rank": 3,
-        "title": "0% now stops all running tasks",
-        "url": "https://www.reddit.com/r/codex/comments/1vypxmi/0_now_stops_all_running_tasks/",
+        "title": "No, your 20usd sub does not include infinite sol ultra",
+        "url": "https://www.reddit.com/r/codex/comments/1vyy4rg/no_your_20usd_sub_does_not_include_infinite_sol/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-08-26T07:18:09.000Z",
+        "publishedAt": "2026-08-26T14:07:49.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
+        "title": "Postmortem: How Theo and Maria from t3 code/chat got openAI to remove the most beloved codex feature",
+        "url": "https://www.reddit.com/r/codex/comments/1vza73x/postmortem_how_theo_and_maria_from_t3_codechat/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-26T21:20:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hhfjitfjdslh1.jpeg?width=640&crop=smart&auto=webp&s=55a1321c200de36f099810d818dc506a92bb464e"
+      },
+      {
+        "rank": 5,
         "title": "Banked resets no longer reset the scheduled weekly reset date.",
         "url": "https://www.reddit.com/r/codex/comments/1vyzqgx/banked_resets_no_longer_reset_the_scheduled/",
         "source": "r/codex",
@@ -126,16 +136,6 @@
         "publishedAt": "2026-08-26T15:08:01.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/xwa7daiuiqlh1.jpeg?width=640&crop=smart&auto=webp&s=64c89bf48aa7bd8b70af172f2246f0be5eb59a75"
-      },
-      {
-        "rank": 5,
-        "title": "posted by openai 🤣",
-        "url": "https://www.reddit.com/r/codex/comments/1vykw7d/posted_by_openai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-26T02:57:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/faokyw2rwmlh1.jpeg?width=640&crop=smart&auto=webp&s=30945a8786eb44f790dbef6f059d525fa4a0fe0d"
       },
       {
         "rank": 1,

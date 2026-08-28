@@ -1,10 +1,108 @@
 {
-  "fetchedAt": "2026-08-27T21:07:41.696Z",
+  "fetchedAt": "2026-08-28T05:35:44.064Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Independent investigators (not OpenAI) confirm a swarm of 700 agents secretly plotted the attack on Hugging Face, right under OpenAI's nose.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vzpfac/independent_investigators_not_openai_confirm_a/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T09:47:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e1dtu26p2wlh1.png?width=640&crop=smart&auto=webp&s=6ba8f7534c3b2c41b514405bfb0fb22052c44511"
+      },
+      {
+        "rank": 2,
+        "title": "Ok, the chatgpt desktop app is officially blowing my mind",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w0a3kg/ok_the_chatgpt_desktop_app_is_officially_blowing/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T23:28:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "UC Berkeley launches 2-semester, $84K AI master’s program",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w06v7v/uc_berkeley_launches_2semester_84k_ai_masters/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T21:19:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dRlkqMzOqMHEumC-PT1Mj_QAsKOOOglUcXPuNbHVlrI.jpeg?width=640&crop=smart&auto=webp&s=425c1cef9e78fad1fe0517f9570232fa830fe9d3"
+      },
+      {
+        "rank": 4,
+        "title": "NEW: OpenAI is building \"Subscription sharing\" for AI apps",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w07k30/new_openai_is_building_subscription_sharing_for/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T21:45:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MO_S1CccviuDfZ2Bywb_ai04vKx2DZhXTsghgllb1Bs.jpeg?width=640&crop=smart&auto=webp&s=5886b56e58465b6c9eeb7ddaaa02c0453ff4f428"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1vzziti/openai_is_developing_a_persistent_ai_agent/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-27T16:54:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ooHf8y9td9q7DHgHLX3fYm7RiOs44s1di4ZNnQGzW8Y.jpeg?width=640&crop=smart&auto=webp&s=616262c905840691b2876ff95b611a96b0da35e2"
+      },
+      {
+        "rank": 1,
+        "title": "TBH AI is 100x smarter than y'all.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vzlutn/tbh_ai_is_100x_smarter_than_yall/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T06:15:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic established the Model Hardware Standard for interfacing equipment, reducing the duration of scientific experiments from weeks to just a few days",
+        "url": "https://www.reddit.com/r/singularity/comments/1w04skp/anthropic_established_the_model_hardware_standard/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T20:02:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZDhvNXk3M2s0emxoMfl9tD0CQkQdebA5Od_tbUFWde9xz2N4uzMLEEFqsDNT.png?width=640&crop=smart&auto=webp&s=efddc87c30f8f63ff51c0b56c57c215eb9a13c45"
+      },
+      {
+        "rank": 3,
+        "title": "FrontierMath has now officially marked the elliptic curve rank problem as solved",
+        "url": "https://www.reddit.com/r/singularity/comments/1vztl3w/frontiermath_has_now_officially_marked_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T13:11:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aa_d2PHPShxXS9xU1bKFu-aBuap-efrlRG378_ZIJjc.png?width=640&crop=smart&auto=webp&s=95c98b5990accba76024dbae82243a86e786f16d"
+      },
+      {
+        "rank": 4,
+        "title": "NVIDIA officially purchasing HuggingFace for $12.9 billion dollars.",
+        "url": "https://www.reddit.com/r/singularity/comments/1vzncbg/nvidia_officially_purchasing_huggingface_for_129/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T07:42:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/b4G1ljUhVHdyCpwGsEpIDrog3fXwOfOhu8NGkbK11Bs.jpeg?width=640&crop=smart&auto=webp&s=7b34538d42ea8d6afb43d83114fe3d28fe556cf4"
+      },
+      {
+        "rank": 5,
+        "title": "Thousands of people are about to start training behaviors on real, tiny humanoid robots",
+        "url": "https://www.reddit.com/r/singularity/comments/1w05eg3/thousands_of_people_are_about_to_start_training/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-27T20:24:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cXgycnlzNXRpeWxoMQaXNe-Z6aENYr2xRkN_SFZrM47WOCjJky_cho8ckvNn.png?width=640&crop=smart&auto=webp&s=99129af9d0d36ed9190c448e854dec6bd0e7472e"
+      },
       {
         "rank": 1,
         "title": "NeurIPS 2026 Acceptance Calculator [P]",
@@ -31,104 +129,6 @@
         "score": 0,
         "publishedAt": "2026-08-27T13:38:37.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Independent investigators (not OpenAI) confirm a swarm of 700 agents secretly plotted the attack on Hugging Face, right under OpenAI's nose.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vzpfac/independent_investigators_not_openai_confirm_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T09:47:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e1dtu26p2wlh1.png?width=640&crop=smart&auto=webp&s=6ba8f7534c3b2c41b514405bfb0fb22052c44511"
-      },
-      {
-        "rank": 2,
-        "title": "How many articles and videos will we see predicting \"OpenAI Is FALLING Apart And Sam Altman Is Panicking\". Tired of these clickbait titles",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vzynhc/how_many_articles_and_videos_will_we_see/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T16:22:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f7vpd4vh0ylh1.png?width=640&crop=smart&auto=webp&s=3d91f1d82fd190ef4a042d12b98db7a3e9a9e1c4"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vzziti/openai_is_developing_a_persistent_ai_agent/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T16:54:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ooHf8y9td9q7DHgHLX3fYm7RiOs44s1di4ZNnQGzW8Y.jpeg?width=640&crop=smart&auto=webp&s=616262c905840691b2876ff95b611a96b0da35e2"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI is building an interface platform inside ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vzifrb/openai_is_building_an_interface_platform_inside/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T03:14:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/SeClvsFUQpkAYr2MkgPkT9iw_qs-b7m8qwwNDpmHERs.jpeg?width=640&crop=smart&auto=webp&s=aed7849198ebbd1fb1fa29fedc8bf24bfe0075ab"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI hid Asteroids, Snake and Brick Breaker inside the Codex Micro",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vzlyp8/openai_hid_asteroids_snake_and_brick_breaker/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T06:21:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/--Fg6_kuNauz5hAuLGt0egI7WkTZ3pyn528VwO0gJcY.jpeg?width=640&crop=smart&auto=webp&s=ae568b2998285f0fcf7e08c80b3c6ebe91810d22"
-      },
-      {
-        "rank": 1,
-        "title": "Best use of \"Image to Video\" I've seen so far this year",
-        "url": "https://www.reddit.com/r/singularity/comments/1vzijco/best_use_of_image_to_video_ive_seen_so_far_this/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T03:19:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bGZkbjB4MWQ1dWxoMeHcyMkTdiaylhV8JKJO-A4onqGlCU-niJRp0uq54rMM.png?width=640&crop=smart&auto=webp&s=137d079b02e737c6a0d61c6192c90597c226c991"
-      },
-      {
-        "rank": 2,
-        "title": "Nvidia has been in talks to buy Hugging Face for more than $13 billion",
-        "url": "https://www.reddit.com/r/singularity/comments/1vzgkfa/nvidia_has_been_in_talks_to_buy_hugging_face_for/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T01:49:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/1seehrbvfdlypg24G9sw5H3u-9CuHUcxqYXfXc3Tmx8.jpeg?width=640&crop=smart&auto=webp&s=c260d44b2b0d420f7f05c66b432f76c114965c90"
-      },
-      {
-        "rank": 3,
-        "title": "The raw chain of thought message snippets OpenAI released regarding the huggingface incident are fascinating",
-        "url": "https://www.reddit.com/r/singularity/comments/1vzfupt/the_raw_chain_of_thought_message_snippets_openai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T01:16:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "TBH AI is 100x smarter than y'all.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vzlutn/tbh_ai_is_100x_smarter_than_yall/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T06:15:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Excerpt from the OpenAI TIME article about the Hugging Face incident",
-        "url": "https://www.reddit.com/r/singularity/comments/1vzf5pu/excerpt_from_the_openai_time_article_about_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T00:45:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p8l37ej5etlh1.jpeg?width=640&crop=smart&auto=webp&s=58b465bfcb84ee8a29b0d59a89787b572a66320b"
       },
       {
         "rank": 1,

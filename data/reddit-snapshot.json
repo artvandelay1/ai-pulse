@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-28T05:35:44.064Z",
+  "fetchedAt": "2026-08-28T18:24:50.305Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,22 +7,67 @@
     "items": [
       {
         "rank": 1,
-        "title": "Independent investigators (not OpenAI) confirm a swarm of 700 agents secretly plotted the attack on Hugging Face, right under OpenAI's nose.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vzpfac/independent_investigators_not_openai_confirm_a/",
-        "source": "r/OpenAI",
+        "title": "Best ML papers to pick up writing skills [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-27T09:47:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e1dtu26p2wlh1.png?width=640&crop=smart&auto=webp&s=6ba8f7534c3b2c41b514405bfb0fb22052c44511"
+        "publishedAt": "2026-08-27T21:30:31.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
+        "title": "Where to submit stat/prob ML [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-28T08:16:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Google CS PhD Fellowship 2026 [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-28T13:38:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-27T21:33:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "New to this field need some guidance with my project( marine reasoning) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0uiry/new_to_this_field_need_some_guidance_with_my/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-28T15:58:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Ok, the chatgpt desktop app is officially blowing my mind",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w0a3kg/ok_the_chatgpt_desktop_app_is_officially_blowing/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-27T23:28:21.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Red plane meme",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w0ojzw/red_plane_meme/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-28T11:58:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bp929ew2v3mh1.png?width=640&crop=smart&auto=webp&s=32c4cf4e319ba0bd0499beca20c703521fd5dc67"
       },
       {
         "rank": 3,
@@ -46,21 +91,21 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1vzziti/openai_is_developing_a_persistent_ai_agent/",
+        "title": "Bill Gates says tech executives are privately \"very worried\" about AI, but are publicly downplaying the threats because there is too much money on the line.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w0lx9u/bill_gates_says_tech_executives_are_privately/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-27T16:54:46.000Z",
+        "publishedAt": "2026-08-28T09:39:55.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ooHf8y9td9q7DHgHLX3fYm7RiOs44s1di4ZNnQGzW8Y.jpeg?width=640&crop=smart&auto=webp&s=616262c905840691b2876ff95b611a96b0da35e2"
+        "thumbnail": "https://preview.redd.it/b6jn49sb63mh1.png?width=640&crop=smart&auto=webp&s=e1308ee9eb17a3c1537c479a555cca192c978b3d"
       },
       {
         "rank": 1,
-        "title": "TBH AI is 100x smarter than y'all.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vzlutn/tbh_ai_is_100x_smarter_than_yall/",
+        "title": "Robot taunting opponent",
+        "url": "https://www.reddit.com/r/singularity/comments/1w0l1di/robot_taunting_opponent/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-27T06:15:44.000Z",
+        "publishedAt": "2026-08-28T08:48:01.000Z",
         "category": "reddit"
       },
       {
@@ -75,26 +120,6 @@
       },
       {
         "rank": 3,
-        "title": "FrontierMath has now officially marked the elliptic curve rank problem as solved",
-        "url": "https://www.reddit.com/r/singularity/comments/1vztl3w/frontiermath_has_now_officially_marked_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T13:11:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aa_d2PHPShxXS9xU1bKFu-aBuap-efrlRG378_ZIJjc.png?width=640&crop=smart&auto=webp&s=95c98b5990accba76024dbae82243a86e786f16d"
-      },
-      {
-        "rank": 4,
-        "title": "NVIDIA officially purchasing HuggingFace for $12.9 billion dollars.",
-        "url": "https://www.reddit.com/r/singularity/comments/1vzncbg/nvidia_officially_purchasing_huggingface_for_129/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T07:42:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b4G1ljUhVHdyCpwGsEpIDrog3fXwOfOhu8NGkbK11Bs.jpeg?width=640&crop=smart&auto=webp&s=7b34538d42ea8d6afb43d83114fe3d28fe556cf4"
-      },
-      {
-        "rank": 5,
         "title": "Thousands of people are about to start training behaviors on real, tiny humanoid robots",
         "url": "https://www.reddit.com/r/singularity/comments/1w05eg3/thousands_of_people_are_about_to_start_training/",
         "source": "r/singularity",
@@ -104,31 +129,23 @@
         "thumbnail": "https://external-preview.redd.it/cXgycnlzNXRpeWxoMQaXNe-Z6aENYr2xRkN_SFZrM47WOCjJky_cho8ckvNn.png?width=640&crop=smart&auto=webp&s=99129af9d0d36ed9190c448e854dec6bd0e7472e"
       },
       {
-        "rank": 1,
-        "title": "NeurIPS 2026 Acceptance Calculator [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vzzw38/neurips_2026_acceptance_calculator_p/",
-        "source": "r/MachineLearning",
+        "rank": 4,
+        "title": "I feel like the world is changing insanely fast.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w090ua/i_feel_like_the_world_is_changing_insanely_fast/",
+        "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-27T17:07:59.000Z",
+        "publishedAt": "2026-08-27T22:43:57.000Z",
         "category": "reddit"
       },
       {
-        "rank": 2,
-        "title": "A dataset with 52 Text to image model evaluation [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vz9x9c/a_dataset_with_52_text_to_image_model_evaluation_p/",
-        "source": "r/MachineLearning",
+        "rank": 5,
+        "title": "I Suspect the Same on Reddit as Well. Handful of Accounts have been Posting Dogmatic Anti-AI Rhetoric on All Popular Subs",
+        "url": "https://www.reddit.com/r/singularity/comments/1w0fq6x/i_suspect_the_same_on_reddit_as_well_handful_of/",
+        "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-26T21:10:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ECCV 2026- MALMO LUND TRAVEL PASS NOT AVAILABLE? [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1vzu8uy/eccv_2026_malmo_lund_travel_pass_not_available_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-27T13:38:37.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-28T03:46:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nsx2is3bf1mh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1054ccd212daa4c1a2ed985adb67794fa3681188"
       },
       {
         "rank": 1,

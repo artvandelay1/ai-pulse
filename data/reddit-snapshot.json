@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-28T18:24:50.305Z",
+  "fetchedAt": "2026-08-29T01:52:41.336Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,12 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "Best ML papers to pick up writing skills [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
+        "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-27T21:30:31.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-28T19:48:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r2vhg90066mh1.png?width=140&height=54&auto=webp&s=23f98a10b9cb9be363b1b1784dff017a6c1a18db"
       },
       {
         "rank": 2,
@@ -25,6 +26,15 @@
       },
       {
         "rank": 3,
+        "title": "WTF is a World Model? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-28T23:37:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Google CS PhD Fellowship 2026 [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
         "source": "r/MachineLearning",
@@ -33,34 +43,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-27T21:33:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "New to this field need some guidance with my project( marine reasoning) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0uiry/new_to_this_field_need_some_guidance_with_my/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-28T15:58:11.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "Ok, the chatgpt desktop app is officially blowing my mind",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w0a3kg/ok_the_chatgpt_desktop_app_is_officially_blowing/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T23:28:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Red plane meme",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w0ojzw/red_plane_meme/",
         "source": "r/OpenAI",
@@ -70,27 +53,7 @@
         "thumbnail": "https://preview.redd.it/bp929ew2v3mh1.png?width=640&crop=smart&auto=webp&s=32c4cf4e319ba0bd0499beca20c703521fd5dc67"
       },
       {
-        "rank": 3,
-        "title": "UC Berkeley launches 2-semester, $84K AI master’s program",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w06v7v/uc_berkeley_launches_2semester_84k_ai_masters/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T21:19:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dRlkqMzOqMHEumC-PT1Mj_QAsKOOOglUcXPuNbHVlrI.jpeg?width=640&crop=smart&auto=webp&s=425c1cef9e78fad1fe0517f9570232fa830fe9d3"
-      },
-      {
-        "rank": 4,
-        "title": "NEW: OpenAI is building \"Subscription sharing\" for AI apps",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w07k30/new_openai_is_building_subscription_sharing_for/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-27T21:45:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MO_S1CccviuDfZ2Bywb_ai04vKx2DZhXTsghgllb1Bs.jpeg?width=640&crop=smart&auto=webp&s=5886b56e58465b6c9eeb7ddaaa02c0453ff4f428"
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "title": "Bill Gates says tech executives are privately \"very worried\" about AI, but are publicly downplaying the threats because there is too much money on the line.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w0lx9u/bill_gates_says_tech_executives_are_privately/",
         "source": "r/OpenAI",
@@ -98,6 +61,36 @@
         "publishedAt": "2026-08-28T09:39:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/b6jn49sb63mh1.png?width=640&crop=smart&auto=webp&s=e1308ee9eb17a3c1537c479a555cca192c978b3d"
+      },
+      {
+        "rank": 3,
+        "title": "The goal is to get hacked by OpenAI. Let’s get to work people of the Singularity",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w13ci7/the_goal_is_to_get_hacked_by_openai_lets_get_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-28T21:25:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xlg2c1w7o6mh1.jpeg?width=640&crop=smart&auto=webp&s=eac0e2e12934c27ea4116798be6040d1ecba8bde"
+      },
+      {
+        "rank": 4,
+        "title": "New: OpenAI built a hidden task system for ChatGPT inside Excel and PowerPoint files",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w108mr/new_openai_built_a_hidden_task_system_for_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-28T19:26:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/XAl0enyg6NTHy7bfQdem51QzM1iKvRVc0YP_p9OWxp8.jpeg?width=640&crop=smart&auto=webp&s=c3cc2a58505e1240615353d2694c45352c34c032"
+      },
+      {
+        "rank": 5,
+        "title": "Intelligence VS Cost-per-Task LLM Comparison",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w0onw5/intelligence_vs_costpertask_llm_comparison/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-28T12:02:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fdfkb12vv3mh1.jpg?width=140&height=84&auto=webp&s=7509351fec2f58bfe0b78603464237d1c9558673"
       },
       {
         "rank": 1,
@@ -110,35 +103,26 @@
       },
       {
         "rank": 2,
-        "title": "Anthropic established the Model Hardware Standard for interfacing equipment, reducing the duration of scientific experiments from weeks to just a few days",
-        "url": "https://www.reddit.com/r/singularity/comments/1w04skp/anthropic_established_the_model_hardware_standard/",
+        "title": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’",
+        "url": "https://www.reddit.com/r/singularity/comments/1w0mn1a/judge_says_pentagons_measures_against_anthropic/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-27T20:02:54.000Z",
+        "publishedAt": "2026-08-28T10:20:24.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZDhvNXk3M2s0emxoMfl9tD0CQkQdebA5Od_tbUFWde9xz2N4uzMLEEFqsDNT.png?width=640&crop=smart&auto=webp&s=efddc87c30f8f63ff51c0b56c57c215eb9a13c45"
+        "thumbnail": "https://external-preview.redd.it/TPN2N9DT8hjuUtTjLuXK1ou_DJg9TvLr87_c_ZQ6s68.jpeg?width=640&crop=smart&auto=webp&s=e3a3058298ad1f7fc01b8da9725908b8c5cc6f6f"
       },
       {
         "rank": 3,
-        "title": "Thousands of people are about to start training behaviors on real, tiny humanoid robots",
-        "url": "https://www.reddit.com/r/singularity/comments/1w05eg3/thousands_of_people_are_about_to_start_training/",
+        "title": "Trump says NASA is building a nuclear-powered starship set for a 2028 Mars mission",
+        "url": "https://www.reddit.com/r/singularity/comments/1w11kz8/trump_says_nasa_is_building_a_nuclearpowered/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-27T20:24:42.000Z",
+        "publishedAt": "2026-08-28T20:16:57.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cXgycnlzNXRpeWxoMQaXNe-Z6aENYr2xRkN_SFZrM47WOCjJky_cho8ckvNn.png?width=640&crop=smart&auto=webp&s=99129af9d0d36ed9190c448e854dec6bd0e7472e"
+        "thumbnail": "https://external-preview.redd.it/cTFsNnkzNzBjNm1oMR4o3loRuR5y8smcBO-jp_eXQxuHgZqhgjHQayoayLak.png?width=640&crop=smart&auto=webp&s=adf2e4ddf34c32d9bfee1b1a6aebd201bb41f49c"
       },
       {
         "rank": 4,
-        "title": "I feel like the world is changing insanely fast.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w090ua/i_feel_like_the_world_is_changing_insanely_fast/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-27T22:43:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "I Suspect the Same on Reddit as Well. Handful of Accounts have been Posting Dogmatic Anti-AI Rhetoric on All Popular Subs",
         "url": "https://www.reddit.com/r/singularity/comments/1w0fq6x/i_suspect_the_same_on_reddit_as_well_handful_of/",
         "source": "r/singularity",
@@ -146,6 +130,16 @@
         "publishedAt": "2026-08-28T03:46:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/nsx2is3bf1mh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1054ccd212daa4c1a2ed985adb67794fa3681188"
+      },
+      {
+        "rank": 5,
+        "title": "Runway shares a video highlighting what you can do with current SOTA image gen models and tooling",
+        "url": "https://www.reddit.com/r/singularity/comments/1w0rmif/runway_shares_a_video_highlighting_what_you_can/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-28T14:08:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ODR1cXM0NmJpNG1oMfIUfc_jH2sLxk2W15fNH2IQY_746cnFaNK7vnsz9CxR.png?width=640&crop=smart&auto=webp&s=746be7d105c16881ff3b5ae8bd0777cfe3ab100b"
       },
       {
         "rank": 1,

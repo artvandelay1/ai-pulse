@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T17:50:45.619Z",
+  "fetchedAt": "2026-08-29T20:43:48.700Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-28T19:48:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r2vhg90066mh1.png?width=140&height=54&auto=webp&s=23f98a10b9cb9be363b1b1784dff017a6c1a18db"
-      },
-      {
-        "rank": 2,
         "title": "WTF is a World Model? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
         "source": "r/MachineLearning",
@@ -25,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
         "source": "r/MachineLearning",
@@ -34,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
         "source": "r/MachineLearning",
@@ -44,12 +34,21 @@
         "thumbnail": "https://preview.redd.it/42s57e5oqamh1.png?width=140&height=66&auto=webp&s=e1e8829f73c0172877e0e9970f8dd143911bad57"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "PhD Internship in smaller lab [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-29T10:20:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Finished ML + DL — what should I do next? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1tr86/finished_ml_dl_what_should_i_do_next_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-29T18:17:07.000Z",
         "category": "reddit"
       },
       {
@@ -94,13 +93,12 @@
       },
       {
         "rank": 5,
-        "title": "AI Economy Right Now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w1q75b/ai_economy_right_now/",
+        "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w1hk4c/openai_to_cut_off_ai_models_for_spacexowned/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-29T15:56:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nqb0n2ng6cmh1.jpeg?width=640&crop=smart&auto=webp&s=37ee207202bdfffe8fe74e2ea19f43fa067dcb1b"
+        "publishedAt": "2026-08-29T09:05:33.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -114,13 +112,13 @@
       },
       {
         "rank": 2,
-        "title": "Trump says NASA is building a nuclear-powered starship set for a 2028 Mars mission",
-        "url": "https://www.reddit.com/r/singularity/comments/1w11kz8/trump_says_nasa_is_building_a_nuclearpowered/",
+        "title": "Apparently you can get Minimax H3 Max to run faster than real time, someone made a Rick and Morty interdimensional cable stream (but it keeps getting taken down)",
+        "url": "https://www.reddit.com/r/singularity/comments/1w1lddy/apparently_you_can_get_minimax_h3_max_to_run/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-28T20:16:57.000Z",
+        "publishedAt": "2026-08-29T12:33:17.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cTFsNnkzNzBjNm1oMR4o3loRuR5y8smcBO-jp_eXQxuHgZqhgjHQayoayLak.png?width=640&crop=smart&auto=webp&s=adf2e4ddf34c32d9bfee1b1a6aebd201bb41f49c"
+        "thumbnail": "https://external-preview.redd.it/YzQzZmxscHc1Ym1oMV9LAG-ijxRe0hXJLN4TuwvQvnm_sTDjg20EpPWd472U.png?width=640&crop=smart&auto=webp&s=a5e23914ac94a70ee14aa08010b340474f8fe9e2"
       },
       {
         "rank": 3,
@@ -143,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Apparently you can get Minimax H3 Max to run faster than real time, someone made a Rick and Morty interdimensional cable stream (but it keeps getting taken down)",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1lddy/apparently_you_can_get_minimax_h3_max_to_run/",
+        "title": "True if big",
+        "url": "https://www.reddit.com/r/singularity/comments/1w1d01y/true_if_big/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-29T12:33:17.000Z",
+        "publishedAt": "2026-08-29T04:48:51.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YzQzZmxscHc1Ym1oMV9LAG-ijxRe0hXJLN4TuwvQvnm_sTDjg20EpPWd472U.png?width=640&crop=smart&auto=webp&s=a5e23914ac94a70ee14aa08010b340474f8fe9e2"
+        "thumbnail": "https://preview.redd.it/jsdm007cv8mh1.jpeg?width=640&crop=smart&auto=webp&s=a5d7baefd462ce2d9999c321148fd4129689cd91"
       },
       {
         "rank": 1,

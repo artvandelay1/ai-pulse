@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T01:52:41.336Z",
+  "fetchedAt": "2026-08-29T08:48:49.075Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Where to submit stat/prob ML [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-28T08:16:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "WTF is a World Model? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
         "source": "r/MachineLearning",
@@ -34,12 +25,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Google CS PhD Fellowship 2026 [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w0qv95/google_cs_phd_fellowship_2026_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-28T13:38:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-29T02:09:05.000Z",
         "category": "reddit"
       },
       {
@@ -54,16 +54,6 @@
       },
       {
         "rank": 2,
-        "title": "Bill Gates says tech executives are privately \"very worried\" about AI, but are publicly downplaying the threats because there is too much money on the line.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w0lx9u/bill_gates_says_tech_executives_are_privately/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-28T09:39:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b6jn49sb63mh1.png?width=640&crop=smart&auto=webp&s=e1308ee9eb17a3c1537c479a555cca192c978b3d"
-      },
-      {
-        "rank": 3,
         "title": "The goal is to get hacked by OpenAI. Let’s get to work people of the Singularity",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w13ci7/the_goal_is_to_get_hacked_by_openai_lets_get_to/",
         "source": "r/OpenAI",
@@ -73,24 +63,34 @@
         "thumbnail": "https://preview.redd.it/xlg2c1w7o6mh1.jpeg?width=640&crop=smart&auto=webp&s=eac0e2e12934c27ea4116798be6040d1ecba8bde"
       },
       {
-        "rank": 4,
-        "title": "New: OpenAI built a hidden task system for ChatGPT inside Excel and PowerPoint files",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w108mr/new_openai_built_a_hidden_task_system_for_chatgpt/",
+        "rank": 3,
+        "title": "End of the deal with Cursor",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w1dbxv/end_of_the_deal_with_cursor/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-28T19:26:58.000Z",
+        "publishedAt": "2026-08-29T05:05:57.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/XAl0enyg6NTHy7bfQdem51QzM1iKvRVc0YP_p9OWxp8.jpeg?width=640&crop=smart&auto=webp&s=c3cc2a58505e1240615353d2694c45352c34c032"
+        "thumbnail": "https://preview.redd.it/n8iw6obdy8mh1.png?width=640&crop=smart&auto=webp&s=57062fd0fab55da3eaf4e91233a14bcf833f16e9"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic has joined the chat. These guys are really tearing each other down",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w1c6fl/anthropic_has_joined_the_chat_these_guys_are/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-29T04:05:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ivennyion8mh1.jpeg?width=640&crop=smart&auto=webp&s=14ac3fa8a0f8fb2fea3c0b6b0f94a67c51be26b3"
       },
       {
         "rank": 5,
-        "title": "Intelligence VS Cost-per-Task LLM Comparison",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w0onw5/intelligence_vs_costpertask_llm_comparison/",
+        "title": "Bill Gates says tech executives are privately \"very worried\" about AI, but are publicly downplaying the threats because there is too much money on the line.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w0lx9u/bill_gates_says_tech_executives_are_privately/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-28T12:02:55.000Z",
+        "publishedAt": "2026-08-28T09:39:55.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fdfkb12vv3mh1.jpg?width=140&height=84&auto=webp&s=7509351fec2f58bfe0b78603464237d1c9558673"
+        "thumbnail": "https://preview.redd.it/b6jn49sb63mh1.png?width=640&crop=smart&auto=webp&s=e1308ee9eb17a3c1537c479a555cca192c978b3d"
       },
       {
         "rank": 1,
@@ -103,16 +103,6 @@
       },
       {
         "rank": 2,
-        "title": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’",
-        "url": "https://www.reddit.com/r/singularity/comments/1w0mn1a/judge_says_pentagons_measures_against_anthropic/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-28T10:20:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/TPN2N9DT8hjuUtTjLuXK1ou_DJg9TvLr87_c_ZQ6s68.jpeg?width=640&crop=smart&auto=webp&s=e3a3058298ad1f7fc01b8da9725908b8c5cc6f6f"
-      },
-      {
-        "rank": 3,
         "title": "Trump says NASA is building a nuclear-powered starship set for a 2028 Mars mission",
         "url": "https://www.reddit.com/r/singularity/comments/1w11kz8/trump_says_nasa_is_building_a_nuclearpowered/",
         "source": "r/singularity",
@@ -122,17 +112,17 @@
         "thumbnail": "https://external-preview.redd.it/cTFsNnkzNzBjNm1oMR4o3loRuR5y8smcBO-jp_eXQxuHgZqhgjHQayoayLak.png?width=640&crop=smart&auto=webp&s=adf2e4ddf34c32d9bfee1b1a6aebd201bb41f49c"
       },
       {
-        "rank": 4,
-        "title": "I Suspect the Same on Reddit as Well. Handful of Accounts have been Posting Dogmatic Anti-AI Rhetoric on All Popular Subs",
-        "url": "https://www.reddit.com/r/singularity/comments/1w0fq6x/i_suspect_the_same_on_reddit_as_well_handful_of/",
+        "rank": 3,
+        "title": "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’",
+        "url": "https://www.reddit.com/r/singularity/comments/1w0mn1a/judge_says_pentagons_measures_against_anthropic/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-28T03:46:39.000Z",
+        "publishedAt": "2026-08-28T10:20:24.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nsx2is3bf1mh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1054ccd212daa4c1a2ed985adb67794fa3681188"
+        "thumbnail": "https://external-preview.redd.it/TPN2N9DT8hjuUtTjLuXK1ou_DJg9TvLr87_c_ZQ6s68.jpeg?width=640&crop=smart&auto=webp&s=e3a3058298ad1f7fc01b8da9725908b8c5cc6f6f"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Runway shares a video highlighting what you can do with current SOTA image gen models and tooling",
         "url": "https://www.reddit.com/r/singularity/comments/1w0rmif/runway_shares_a_video_highlighting_what_you_can/",
         "source": "r/singularity",
@@ -140,6 +130,15 @@
         "publishedAt": "2026-08-28T14:08:47.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ODR1cXM0NmJpNG1oMfIUfc_jH2sLxk2W15fNH2IQY_746cnFaNK7vnsz9CxR.png?width=640&crop=smart&auto=webp&s=746be7d105c16881ff3b5ae8bd0777cfe3ab100b"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic CEO, Dario Amodei: in the next 3 to 6 months, AI is writing 90% of the code, and in 12 months, nearly all code may be generated by AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1w0ur6v/anthropic_ceo_dario_amodei_in_the_next_3_to_6/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-28T16:06:28.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

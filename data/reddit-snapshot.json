@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T20:43:48.700Z",
+  "fetchedAt": "2026-08-29T23:09:08.207Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,65 @@
     "items": [
       {
         "rank": 1,
+        "title": "Prepare for a decrease of about 20% of current rate",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1s49z/prepare_for_a_decrease_of_about_20_of_current_rate/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-29T17:12:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k6d8zgvzjcmh1.jpeg?width=640&crop=smart&auto=webp&s=e7ed5f9acc7072876ee7c8baad8b82b5ce9e3396"
+      },
+      {
+        "rank": 2,
+        "title": "Thank you, Anthropic (really)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1jqsh/thank_you_anthropic_really/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-29T11:10:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/utujko64ramh1.png?width=140&height=124&auto=webp&s=20d2268d6cb9f03093c803673e0c74224fbd1358"
+      },
+      {
+        "rank": 3,
+        "title": "Claude Opus in VSCode",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1jemb/claude_opus_in_vscode/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-29T10:52:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/txszatt8oamh1.gif?width=320&crop=smart&s=1332a270b69826dc513655aa84c34d8e0aeadfd5"
+      },
+      {
+        "rank": 4,
+        "title": "“We are raising it by lowering it first”, lower by 50%, raise by 25%. Such clever wordplay",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1x1d3/we_are_raising_it_by_lowering_it_first_lower_by/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-29T20:25:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dkf8cqdeidmh1.jpeg?width=640&crop=smart&auto=webp&s=59a42cec30c2464bbc125d83f75e72f4f2b51c8c"
+      },
+      {
+        "rank": 5,
+        "title": "I used Claude to write a hard email to my brother and it made me kinder, which is not what I asked for",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1e73n/i_used_claude_to_write_a_hard_email_to_my_brother/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-29T05:52:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-29T20:16:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y2ez5kvccdmh1.jpg?width=140&height=77&auto=webp&s=f1eca7fbdb7fe15a973e7a88ffa00d31c695209b"
+      },
+      {
+        "rank": 2,
         "title": "WTF is a World Model? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
         "source": "r/MachineLearning",
@@ -15,7 +74,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
         "source": "r/MachineLearning",
@@ -24,32 +83,71 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-29T11:08:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/42s57e5oqamh1.png?width=140&height=66&auto=webp&s=e1e8829f73c0172877e0e9970f8dd143911bad57"
-      },
-      {
         "rank": 4,
-        "title": "PhD Internship in smaller lab [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1itzf/phd_internship_in_smaller_lab_d/",
+        "title": "Do you use a whiteboard when thinking? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-29T10:20:12.000Z",
+        "publishedAt": "2026-08-29T21:39:44.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Finished ML + DL — what should I do next? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1tr86/finished_ml_dl_what_should_i_do_next_d/",
+        "title": "Open-source access-control checker for retrieval-based AI applications [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-29T18:17:07.000Z",
+        "publishedAt": "2026-08-29T22:11:26.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI terminating Cursor partnership effective Nov. 12",
+        "url": "https://www.reddit.com/r/codex/comments/1w19ln6/openai_terminating_cursor_partnership_effective/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-29T01:59:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lprdxox118mh1.jpeg?width=640&crop=smart&auto=webp&s=1a321a2e27f15afbdb00f3b10b0311a7db42ac4e"
+      },
+      {
+        "rank": 2,
+        "title": "Did OpenAI just quietly cut actual Codex usage nearly in half? 💀",
+        "url": "https://www.reddit.com/r/codex/comments/1w1613f/did_openai_just_quietly_cut_actual_codex_usage/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-28T23:14:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mz9nlben77mh1.png?width=640&crop=smart&auto=webp&s=aec68459f00ab48f8476a89ad6ffd417945a839e"
+      },
+      {
+        "rank": 3,
+        "title": "I made a mistake. The weekly quota wasn't cut in half—it actually dropped by 82% (a 5.6-fold decrease)",
+        "url": "https://www.reddit.com/r/codex/comments/1w1iu3k/i_made_a_mistake_the_weekly_quota_wasnt_cut_in/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-29T10:20:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
+        "url": "https://www.reddit.com/r/codex/comments/1w1us2v/first_outputs_from_gpt6_astra_model_from_openai/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-29T18:56:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/pFW3n2mNuFFej_4_cS2_npZghDiS9zFls8IWBhC8VM8.jpeg?width=640&crop=smart&auto=webp&s=d56053a6a900f1cf8d6cefb967a6aa8ee91348a3"
+      },
+      {
+        "rank": 5,
+        "title": "Another Reset Tom.",
+        "url": "https://www.reddit.com/r/codex/comments/1w1empq/another_reset_tom/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-29T06:15:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jnlsh3isa9mh1.png?width=320&crop=smart&auto=webp&s=44cd12d09088a254cb6a3f64505263834ffc1a12"
       },
       {
         "rank": 1,
@@ -148,102 +246,6 @@
         "publishedAt": "2026-08-29T04:48:51.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jsdm007cv8mh1.jpeg?width=640&crop=smart&auto=webp&s=a5d7baefd462ce2d9999c321148fd4129689cd91"
-      },
-      {
-        "rank": 1,
-        "title": "What my wife’s Claude knows about me.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyo76q/what_my_wifes_claude_knows_about_me/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T05:41:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7oezwwq1qnlh1.jpeg?width=640&crop=smart&auto=webp&s=d104522f75aedc1be7aec97cffdfaf28412a0f93"
-      },
-      {
-        "rank": 2,
-        "title": "Went through a list of 27 advanced Claude tips. These were the first 5 I thought were actually useful",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vyjm2h/went_through_a_list_of_27_advanced_claude_tips/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T02:00:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Claude REFUSES/EVADES all instructions, hooks, mds, skills. Also: Extreme cycling between nonsensical compressed fake English and baby talk",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vymqan/claude_refusesevades_all_instructions_hooks_mds/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T04:24:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I Claude Coded a multiplayer Three.js tank game with 100+ procedural vehicles. Here's my workflow",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vz70zy/i_claude_coded_a_multiplayer_threejs_tank_game/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T19:26:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OTV6eHd2ZWJycmxoMdGVnk9SROvXB05ORFvlAK94cyXVNJDRJfmpxzeRKODo.png?width=640&crop=smart&auto=webp&s=4759ceee90bf4ca1389b052821e6041fb114ac4d"
-      },
-      {
-        "rank": 5,
-        "title": "Why do we trust Microsoft 365 with sensitive documents, but not AI?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1vz8l1f/why_do_we_trust_microsoft_365_with_sensitive/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-26T20:20:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "The average codex 20$ plan user",
-        "url": "https://www.reddit.com/r/codex/comments/1vywi9x/the_average_codex_20_plan_user/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-26T13:03:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mmg2dnVvZXN3cGxoMYHUEVQIEqKcnKJx7HMEwvEIcM__cp9DLIgCOjulboTW.jpeg?width=640&crop=smart&auto=webp&s=9d91e8c79d4e9185e4ffd05c961739488f30a1d9"
-      },
-      {
-        "rank": 2,
-        "title": "Thanks for the lies, Tibo....",
-        "url": "https://www.reddit.com/r/codex/comments/1vyqy8t/thanks_for_the_lies_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-26T08:18:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8a8nv2m1iolh1.jpeg?width=640&crop=smart&auto=webp&s=97ed74b2f76d938cde6b68b680a465a0ca32d194"
-      },
-      {
-        "rank": 3,
-        "title": "No, your 20usd sub does not include infinite sol ultra",
-        "url": "https://www.reddit.com/r/codex/comments/1vyy4rg/no_your_20usd_sub_does_not_include_infinite_sol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-26T14:07:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Postmortem: How Theo and Maria from t3 code/chat got openAI to remove the most beloved codex feature",
-        "url": "https://www.reddit.com/r/codex/comments/1vza73x/postmortem_how_theo_and_maria_from_t3_codechat/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-26T21:20:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hhfjitfjdslh1.jpeg?width=640&crop=smart&auto=webp&s=55a1321c200de36f099810d818dc506a92bb464e"
-      },
-      {
-        "rank": 5,
-        "title": "Banked resets no longer reset the scheduled weekly reset date.",
-        "url": "https://www.reddit.com/r/codex/comments/1vyzqgx/banked_resets_no_longer_reset_the_scheduled/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-26T15:08:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xwa7daiuiqlh1.jpeg?width=640&crop=smart&auto=webp&s=64c89bf48aa7bd8b70af172f2246f0be5eb59a75"
       }
     ]
   }

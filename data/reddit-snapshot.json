@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-08-30T21:00:12.968Z",
+  "fetchedAt": "2026-08-30T23:25:42.767Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "NeurIPS accepted papers leaked? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T19:34:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T07:28:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Jmw0M0eP1FGRkpvQaT0MNy6Ih9RSt6RvR8lxxembFCY.jpeg?width=320&crop=smart&auto=webp&s=fca1365ff844bce9d5a2211f0ab037b974d4cc3f"
+      },
+      {
+        "rank": 3,
+        "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T11:55:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 4,
+        "title": "*ACL Findings or TMLR? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T01:23:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Reconstructing 3D bone geometry from 2 X-ray silhouettes using a statistical shape model + differentiable rendering [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2go6l/reconstructing_3d_bone_geometry_from_2_xray/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T12:47:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/1Y6QxNttIYxR_OJkMng_9RVeO12IPmXsjQ_zKbJpirM.jpeg?width=320&crop=smart&auto=webp&s=14ea44f6d3bd6f70fdda485355d9cc45a6e1db60"
+      },
+      {
+        "rank": 1,
+        "title": "Happy Skynet Day (Aug 29) to those who celebrate",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w24bsy/happy_skynet_day_aug_29_to_those_who_celebrate/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T01:44:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/crbbvquc3fmh1.png?width=640&crop=smart&auto=webp&s=48c3b6cc90ae71d54538c7814f1c4b1e0aca2361"
+      },
+      {
+        "rank": 2,
+        "title": "True Story!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w2dzv1/true_story/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T10:29:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/af0o3oynohmh1.gif?width=640&crop=smart&s=0413ef1e9dc90b0dd1b8a048f0f193a628fbda02"
+      },
+      {
+        "rank": 3,
+        "title": "A Few Developers Abused Codex — 20 Million Users Lost a Great Feature",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w2f27b/a_few_developers_abused_codex_20_million_users/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T11:28:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/AuqkhXf5uvIt6DWF_6gVB0iy-DaVrrQnrhl6e9YYrsM.png?width=640&crop=smart&auto=webp&s=8eb5655e75b528e5efb5703aed24c244cdfd16ed"
+      },
+      {
+        "rank": 4,
+        "title": "As someone with ADHD AI has has changed my life for the better (update on my post from 2024)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w22k2c/as_someone_with_adhd_ai_has_has_changed_my_life/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T00:20:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI says Brazil now sends ~215M ChatGPT messages per day; 35% of classified messages are work-related",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w29cl2/openai_says_brazil_now_sends_215m_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T06:03:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "POV : When you try using a Vibe Coded Website.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w2dz61/pov_when_you_try_using_a_vibe_coded_website/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-30T10:28:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OXl0aHNpM2xvaG1oMexkOcBAEaoC28ZpCRkGatXh_gWqmU58EvRMDJX9dH3J.jpeg?width=640&crop=smart&auto=webp&s=3ab0ea7cee4b6cc40af06224518ea662863cad88"
+      },
+      {
+        "rank": 2,
+        "title": "GLM 5.3 weights are now public",
+        "url": "https://www.reddit.com/r/singularity/comments/1w243so/glm_53_weights_are_now_public/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-30T01:33:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/BhH_AjL0mdp-2nZPRCiygI2acL0nwkgIh3KfgwJsMEU.png?width=640&crop=smart&auto=webp&s=dea490193213b00bb41f33cf60be19d474c255bb"
+      },
+      {
+        "rank": 3,
+        "title": "AI can now credibly complete most undergraduate assignments, MIT warns",
+        "url": "https://www.reddit.com/r/singularity/comments/1w2jwql/ai_can_now_credibly_complete_most_undergraduate/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-30T15:02:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z09LuyNVT_r4qrAidNmA4Fs0JoNx3lul9Zy7vIvkUJM.jpeg?width=640&crop=smart&auto=webp&s=8ec1de198746cf753e001636e887b099dec44e56"
+      },
+      {
+        "rank": 4,
+        "title": "Introducing S1: A robot model that learns from one example",
+        "url": "https://www.reddit.com/r/singularity/comments/1w29ou2/introducing_s1_a_robot_model_that_learns_from_one/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-30T06:22:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/a-m0i4MXYQGUK-cIp-F1Meh3NRKDAd0aY5JJu9PGgNE.jpeg?width=320&crop=smart&auto=webp&s=3d6d9277c265637b0e35880a0f26c635d049e942"
+      },
+      {
+        "rank": 5,
+        "title": "BrainCo's brain-computer interface turns EEG signals into a humanoid robot's movement and manipulation",
+        "url": "https://www.reddit.com/r/singularity/comments/1w2k0gz/braincos_braincomputer_interface_turns_eeg/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-30T15:06:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dWhzZDMyN2Qyam1oMe5Bm_2Ka4muVLaf1Xon19PQS1j-K0t5fe3VMeqMqweS.png?width=640&crop=smart&auto=webp&s=1cb1d44bb07e8f5db045283e6c8e227785b38e30"
+      },
       {
         "rank": 1,
         "title": "What’s a good useful MCP you connected to that brings you real value?",
@@ -55,53 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "NeurIPS accepted papers leaked? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T19:34:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T07:28:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Jmw0M0eP1FGRkpvQaT0MNy6Ih9RSt6RvR8lxxembFCY.jpeg?width=320&crop=smart&auto=webp&s=fca1365ff844bce9d5a2211f0ab037b974d4cc3f"
-      },
-      {
-        "rank": 3,
-        "title": "Do you use a whiteboard when thinking? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-29T21:39:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T11:55:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 5,
-        "title": "*ACL Findings or TMLR? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T01:23:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "NEw leaked video from GPT 6 Astra",
         "url": "https://www.reddit.com/r/codex/comments/1w2axr3/new_leaked_video_from_gpt_6_astra/",
         "source": "r/codex",
@@ -148,104 +247,6 @@
         "publishedAt": "2026-08-29T23:15:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/lqh6478pcemh1.jpeg?width=640&crop=smart&auto=webp&s=55b081aa38301ef25039146513f4b996e14bdfa4"
-      },
-      {
-        "rank": 1,
-        "title": "Happy Skynet Day (Aug 29) to those who celebrate",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w24bsy/happy_skynet_day_aug_29_to_those_who_celebrate/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T01:44:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/crbbvquc3fmh1.png?width=640&crop=smart&auto=webp&s=48c3b6cc90ae71d54538c7814f1c4b1e0aca2361"
-      },
-      {
-        "rank": 2,
-        "title": "True Story!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w2dzv1/true_story/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T10:29:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/af0o3oynohmh1.gif?width=640&crop=smart&s=0413ef1e9dc90b0dd1b8a048f0f193a628fbda02"
-      },
-      {
-        "rank": 3,
-        "title": "A Few Developers Abused Codex — 20 Million Users Lost a Great Feature",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w2f27b/a_few_developers_abused_codex_20_million_users/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T11:28:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/AuqkhXf5uvIt6DWF_6gVB0iy-DaVrrQnrhl6e9YYrsM.png?width=640&crop=smart&auto=webp&s=8eb5655e75b528e5efb5703aed24c244cdfd16ed"
-      },
-      {
-        "rank": 4,
-        "title": "As someone with ADHD AI has has changed my life for the better (update on my post from 2024)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w22k2c/as_someone_with_adhd_ai_has_has_changed_my_life/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T00:20:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Independent investigators (not OpenAI) found the 700-agent swarm that attacked Hugging Face \"built a self-respawning fleet\" to avoid being shut down. It got so bad, Hugging Face had to wipe one of its core clusters.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w2clq7/independent_investigators_not_openai_found_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T09:10:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/guuc9l6sahmh1.png?width=640&crop=smart&auto=webp&s=64971280eeb3210777f0fa68fbcc049aa0b055c7"
-      },
-      {
-        "rank": 1,
-        "title": "POV : When you try using a Vibe Coded Website.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w2dz61/pov_when_you_try_using_a_vibe_coded_website/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-30T10:28:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OXl0aHNpM2xvaG1oMexkOcBAEaoC28ZpCRkGatXh_gWqmU58EvRMDJX9dH3J.jpeg?width=640&crop=smart&auto=webp&s=3ab0ea7cee4b6cc40af06224518ea662863cad88"
-      },
-      {
-        "rank": 2,
-        "title": "They getting smarter...",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1ts9d/they_getting_smarter/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-29T18:18:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/emthYm14cHB2Y21oMXR6qwg_QFTqthqTPISejUOb3XM8rMhLgDbgdUYGYdRT.png?width=640&crop=smart&auto=webp&s=b2a357481e5e6c95de60c993bc912c8680dd9224"
-      },
-      {
-        "rank": 3,
-        "title": "GLM 5.3 weights are now public",
-        "url": "https://www.reddit.com/r/singularity/comments/1w243so/glm_53_weights_are_now_public/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-30T01:33:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/BhH_AjL0mdp-2nZPRCiygI2acL0nwkgIh3KfgwJsMEU.png?width=640&crop=smart&auto=webp&s=dea490193213b00bb41f33cf60be19d474c255bb"
-      },
-      {
-        "rank": 4,
-        "title": "What's going on at OpenAI? A lot of senior leaders have left recently",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1ttwr/whats_going_on_at_openai_a_lot_of_senior_leaders/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-29T18:19:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "This excerpt is where current systems are heading",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1vhtc/this_excerpt_is_where_current_systems_are_heading/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-29T19:24:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/suf6ynh37dmh1.png?width=640&crop=smart&auto=webp&s=b07a5725afaf678bdbb4e06328e1d0cc36ec225d"
       }
     ]
   }

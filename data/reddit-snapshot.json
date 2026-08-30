@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T18:01:46.233Z",
+  "fetchedAt": "2026-08-30T21:00:12.968Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,60 @@
     "items": [
       {
         "rank": 1,
-        "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
+        "title": "What’s a good useful MCP you connected to that brings you real value?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2grux/whats_a_good_useful_mcp_you_connected_to_that/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T12:52:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Claude just throwing unrelated words in a ban appeal discussion",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w25bat/claude_just_throwing_unrelated_words_in_a_ban/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T02:33:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/grfu75pvbfmh1.png?width=640&crop=smart&auto=webp&s=4bdfbf08d06ac39d17ca6b4b60bb46a33dfc6e7d"
+      },
+      {
+        "rank": 3,
+        "title": "What's the dumbest thing you use AI for?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2jtq8/whats_the_dumbest_thing_you_use_ai_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T14:59:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Code is silently adding session URLs (claude.ai/code/session_...) to the bottom of every single commit and PR description you make.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2omfu/claude_code_is_silently_adding_session_urls/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T18:03:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bPuuoDIXQFB_WGfaaf7RLVZ0_Vw2WiySJObxQ8V0ERw.png?width=640&crop=smart&auto=webp&s=5e357b2a4868ba4de1e1bad928f9717c44ca36f6"
+      },
+      {
+        "rank": 5,
+        "title": "Those were the days",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2nl6j/those_were_the_days/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T17:24:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wpxtqx44rjmh1.jpeg?width=640&crop=smart&auto=webp&s=130c7055db8fd2d6ecb9b20c03cedabb963e3869"
+      },
+      {
+        "rank": 1,
+        "title": "NeurIPS accepted papers leaked? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-29T20:16:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y2ez5kvccdmh1.jpg?width=140&height=77&auto=webp&s=f1eca7fbdb7fe15a973e7a88ffa00d31c695209b"
+        "publishedAt": "2026-08-30T19:34:25.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
@@ -52,6 +99,55 @@
         "score": 0,
         "publishedAt": "2026-08-30T01:23:36.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "NEw leaked video from GPT 6 Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1w2axr3/new_leaked_video_from_gpt_6_astra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T07:33:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I made a mac app to show codex usage on touchbar",
+        "url": "https://www.reddit.com/r/codex/comments/1w2c529/i_made_a_mac_app_to_show_codex_usage_on_touchbar/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T08:43:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ggpozadp5hmh1.jpg?width=140&height=105&auto=webp&s=f0fe1d0f22db9a3933e6e24c582ba9e6a9ac93c9"
+      },
+      {
+        "rank": 3,
+        "title": "kids won't understand this one day",
+        "url": "https://www.reddit.com/r/codex/comments/1w2b5nl/kids_wont_understand_this_one_day/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T07:46:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xd8ct2cpvgmh1.jpeg?width=320&crop=smart&auto=webp&s=4b22eccd7148de5789dc6d6caf0724a9e6a9be7d"
+      },
+      {
+        "rank": 4,
+        "title": "Astra incoming",
+        "url": "https://www.reddit.com/r/codex/comments/1w234xm/astra_incoming/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T00:47:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8swum7c7temh1.jpeg?width=640&crop=smart&auto=webp&s=8b5cd46fd606271835e8bbbdf4383058f49aa2ed"
+      },
+      {
+        "rank": 5,
+        "title": "The Force of Darkness has responded",
+        "url": "https://www.reddit.com/r/codex/comments/1w2134q/the_force_of_darkness_has_responded/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-29T23:15:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lqh6478pcemh1.jpeg?width=640&crop=smart&auto=webp&s=55b081aa38301ef25039146513f4b996e14bdfa4"
       },
       {
         "rank": 1,
@@ -150,104 +246,6 @@
         "publishedAt": "2026-08-29T19:24:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/suf6ynh37dmh1.png?width=640&crop=smart&auto=webp&s=b07a5725afaf678bdbb4e06328e1d0cc36ec225d"
-      },
-      {
-        "rank": 1,
-        "title": "Prepare for a decrease of about 20% of current rate",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1s49z/prepare_for_a_decrease_of_about_20_of_current_rate/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-29T17:12:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k6d8zgvzjcmh1.jpeg?width=640&crop=smart&auto=webp&s=e7ed5f9acc7072876ee7c8baad8b82b5ce9e3396"
-      },
-      {
-        "rank": 2,
-        "title": "Thank you, Anthropic (really)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1jqsh/thank_you_anthropic_really/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-29T11:10:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/utujko64ramh1.png?width=140&height=124&auto=webp&s=20d2268d6cb9f03093c803673e0c74224fbd1358"
-      },
-      {
-        "rank": 3,
-        "title": "Claude Opus in VSCode",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1jemb/claude_opus_in_vscode/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-29T10:52:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/txszatt8oamh1.gif?width=320&crop=smart&s=1332a270b69826dc513655aa84c34d8e0aeadfd5"
-      },
-      {
-        "rank": 4,
-        "title": "“We are raising it by lowering it first”, lower by 50%, raise by 25%. Such clever wordplay",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1x1d3/we_are_raising_it_by_lowering_it_first_lower_by/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-29T20:25:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dkf8cqdeidmh1.jpeg?width=640&crop=smart&auto=webp&s=59a42cec30c2464bbc125d83f75e72f4f2b51c8c"
-      },
-      {
-        "rank": 5,
-        "title": "I used Claude to write a hard email to my brother and it made me kinder, which is not what I asked for",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w1e73n/i_used_claude_to_write_a_hard_email_to_my_brother/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-29T05:52:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI terminating Cursor partnership effective Nov. 12",
-        "url": "https://www.reddit.com/r/codex/comments/1w19ln6/openai_terminating_cursor_partnership_effective/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-29T01:59:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lprdxox118mh1.jpeg?width=640&crop=smart&auto=webp&s=1a321a2e27f15afbdb00f3b10b0311a7db42ac4e"
-      },
-      {
-        "rank": 2,
-        "title": "Did OpenAI just quietly cut actual Codex usage nearly in half? 💀",
-        "url": "https://www.reddit.com/r/codex/comments/1w1613f/did_openai_just_quietly_cut_actual_codex_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-28T23:14:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mz9nlben77mh1.png?width=640&crop=smart&auto=webp&s=aec68459f00ab48f8476a89ad6ffd417945a839e"
-      },
-      {
-        "rank": 3,
-        "title": "I made a mistake. The weekly quota wasn't cut in half—it actually dropped by 82% (a 5.6-fold decrease)",
-        "url": "https://www.reddit.com/r/codex/comments/1w1iu3k/i_made_a_mistake_the_weekly_quota_wasnt_cut_in/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-29T10:20:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
-        "url": "https://www.reddit.com/r/codex/comments/1w1us2v/first_outputs_from_gpt6_astra_model_from_openai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-29T18:56:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/pFW3n2mNuFFej_4_cS2_npZghDiS9zFls8IWBhC8VM8.jpeg?width=640&crop=smart&auto=webp&s=d56053a6a900f1cf8d6cefb967a6aa8ee91348a3"
-      },
-      {
-        "rank": 5,
-        "title": "Another Reset Tom.",
-        "url": "https://www.reddit.com/r/codex/comments/1w1empq/another_reset_tom/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-29T06:15:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jnlsh3isa9mh1.png?width=320&crop=smart&auto=webp&s=44cd12d09088a254cb6a3f64505263834ffc1a12"
       }
     ]
   }

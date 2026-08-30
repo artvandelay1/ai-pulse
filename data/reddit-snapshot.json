@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T08:06:42.801Z",
+  "fetchedAt": "2026-08-30T13:57:48.654Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T07:28:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Jmw0M0eP1FGRkpvQaT0MNy6Ih9RSt6RvR8lxxembFCY.jpeg?width=320&crop=smart&auto=webp&s=fca1365ff844bce9d5a2211f0ab037b974d4cc3f"
+      },
+      {
+        "rank": 3,
         "title": "Do you use a whiteboard when thinking? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
         "source": "r/MachineLearning",
@@ -25,7 +35,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "*ACL Findings or TMLR? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
         "source": "r/MachineLearning",
@@ -34,23 +44,14 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Open-source access-control checker for retrieval-based AI applications [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-29T22:11:26.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+        "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-29T11:08:03.000Z",
+        "publishedAt": "2026-08-30T11:55:38.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/42s57e5oqamh1.png?width=140&height=66&auto=webp&s=e1e8829f73c0172877e0e9970f8dd143911bad57"
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
       },
       {
         "rank": 1,
@@ -64,20 +65,21 @@
       },
       {
         "rank": 2,
+        "title": "True Story!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w2dzv1/true_story/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T10:29:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/af0o3oynohmh1.gif?width=640&crop=smart&s=0413ef1e9dc90b0dd1b8a048f0f193a628fbda02"
+      },
+      {
+        "rank": 3,
         "title": "As someone with ADHD AI has has changed my life for the better (update on my post from 2024)",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w22k2c/as_someone_with_adhd_ai_has_has_changed_my_life/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-30T00:20:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w1hk4c/openai_to_cut_off_ai_models_for_spacexowned/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-29T09:05:33.000Z",
         "category": "reddit"
       },
       {
@@ -91,22 +93,23 @@
       },
       {
         "rank": 5,
-        "title": "I genuinely didn’t realize AI apps could check scams for you now and I feel extremely late",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w1htb8/i_genuinely_didnt_realize_ai_apps_could_check/",
+        "title": "A Few Developers Abused Codex — 20 Million Users Lost a Great Feature",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w2f27b/a_few_developers_abused_codex_20_million_users/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-29T09:20:45.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-30T11:28:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/AuqkhXf5uvIt6DWF_6gVB0iy-DaVrrQnrhl6e9YYrsM.png?width=640&crop=smart&auto=webp&s=8eb5655e75b528e5efb5703aed24c244cdfd16ed"
       },
       {
         "rank": 1,
-        "title": "Apparently you can get Minimax H3 Max to run faster than real time, someone made a Rick and Morty interdimensional cable stream (but it keeps getting taken down)",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1lddy/apparently_you_can_get_minimax_h3_max_to_run/",
+        "title": "POV : When you try using a Vibe Coded Website.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w2dz61/pov_when_you_try_using_a_vibe_coded_website/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-29T12:33:17.000Z",
+        "publishedAt": "2026-08-30T10:28:28.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YzQzZmxscHc1Ym1oMV9LAG-ijxRe0hXJLN4TuwvQvnm_sTDjg20EpPWd472U.png?width=640&crop=smart&auto=webp&s=a5e23914ac94a70ee14aa08010b340474f8fe9e2"
+        "thumbnail": "https://external-preview.redd.it/OXl0aHNpM2xvaG1oMexkOcBAEaoC28ZpCRkGatXh_gWqmU58EvRMDJX9dH3J.jpeg?width=640&crop=smart&auto=webp&s=3ab0ea7cee4b6cc40af06224518ea662863cad88"
       },
       {
         "rank": 2,
@@ -120,16 +123,6 @@
       },
       {
         "rank": 3,
-        "title": "A reliable leaker has shared some Astra’s one-shot outputs at Max effort",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1hws9/a_reliable_leaker_has_shared_some_astras_oneshot/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-29T09:26:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MG1sMXY4NG84YW1oMeD1eYV17a9BBTQBbaHObZKxE8IpKzVTLdmKWE8a2Tk5.png?width=640&crop=smart&auto=webp&s=8a86eab4437daab9717300171557c35024b36805"
-      },
-      {
-        "rank": 4,
         "title": "GLM 5.3 weights are now public",
         "url": "https://www.reddit.com/r/singularity/comments/1w243so/glm_53_weights_are_now_public/",
         "source": "r/singularity",
@@ -139,7 +132,7 @@
         "thumbnail": "https://external-preview.redd.it/BhH_AjL0mdp-2nZPRCiygI2acL0nwkgIh3KfgwJsMEU.png?width=640&crop=smart&auto=webp&s=dea490193213b00bb41f33cf60be19d474c255bb"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Videos of Astra made apps are appearing on Twitter, alongside a rumoured release for next week (heavy on the rumoured part)",
         "url": "https://www.reddit.com/r/singularity/comments/1w1sw6y/videos_of_astra_made_apps_are_appearing_on/",
         "source": "r/singularity",
@@ -147,6 +140,15 @@
         "publishedAt": "2026-08-29T17:42:58.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cDVxZ21wNDFwY21oMelTIdRdypZucyOiLQITY05753IIGyey7eYMIpNpYXpe.png?width=640&crop=smart&auto=webp&s=4e374f998edbfa7e7337546b0a951368ca509f6f"
+      },
+      {
+        "rank": 5,
+        "title": "What's going on at OpenAI? A lot of senior leaders have left recently",
+        "url": "https://www.reddit.com/r/singularity/comments/1w1ttwr/whats_going_on_at_openai_a_lot_of_senior_leaders/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-29T18:19:56.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T01:33:42.337Z",
+  "fetchedAt": "2026-08-30T08:06:42.801Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,20 +17,20 @@
       },
       {
         "rank": 2,
-        "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-29T02:09:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Do you use a whiteboard when thinking? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-29T21:39:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "*ACL Findings or TMLR? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T01:23:36.000Z",
         "category": "reddit"
       },
       {
@@ -54,23 +54,22 @@
       },
       {
         "rank": 1,
-        "title": "End of the deal with Cursor",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w1dbxv/end_of_the_deal_with_cursor/",
+        "title": "Happy Skynet Day (Aug 29) to those who celebrate",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w24bsy/happy_skynet_day_aug_29_to_those_who_celebrate/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-29T05:05:57.000Z",
+        "publishedAt": "2026-08-30T01:44:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n8iw6obdy8mh1.png?width=640&crop=smart&auto=webp&s=57062fd0fab55da3eaf4e91233a14bcf833f16e9"
+        "thumbnail": "https://preview.redd.it/crbbvquc3fmh1.png?width=640&crop=smart&auto=webp&s=48c3b6cc90ae71d54538c7814f1c4b1e0aca2361"
       },
       {
         "rank": 2,
-        "title": "Anthropic has joined the chat. These guys are really tearing each other down",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w1c6fl/anthropic_has_joined_the_chat_these_guys_are/",
+        "title": "As someone with ADHD AI has has changed my life for the better (update on my post from 2024)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w22k2c/as_someone_with_adhd_ai_has_has_changed_my_life/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-29T04:05:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ivennyion8mh1.jpeg?width=640&crop=smart&auto=webp&s=14ac3fa8a0f8fb2fea3c0b6b0f94a67c51be26b3"
+        "publishedAt": "2026-08-30T00:20:17.000Z",
+        "category": "reddit"
       },
       {
         "rank": 3,
@@ -83,15 +82,6 @@
       },
       {
         "rank": 4,
-        "title": "As someone with ADHD AI has has changed my life for the better (update on my post from 2024)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w22k2c/as_someone_with_adhd_ai_has_has_changed_my_life/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T00:20:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "OpenAI is handing out Codex limit resets 2.5x faster than it did last year. I logged all 32",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w1yqku/openai_is_handing_out_codex_limit_resets_25x/",
         "source": "r/OpenAI",
@@ -100,17 +90,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Delivery robots using humans to cross the street",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1fbvc/delivery_robots_using_humans_to_cross_the_street/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "I genuinely didn’t realize AI apps could check scams for you now and I feel extremely late",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w1htb8/i_genuinely_didnt_realize_ai_apps_could_check/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-29T06:55:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o3ajk80kh9mh1.png?width=640&crop=smart&auto=webp&s=dba324b6ffbe7b95c417079f2f3b47d4ef054113"
+        "publishedAt": "2026-08-29T09:20:45.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Apparently you can get Minimax H3 Max to run faster than real time, someone made a Rick and Morty interdimensional cable stream (but it keeps getting taken down)",
         "url": "https://www.reddit.com/r/singularity/comments/1w1lddy/apparently_you_can_get_minimax_h3_max_to_run/",
         "source": "r/singularity",
@@ -120,33 +109,44 @@
         "thumbnail": "https://external-preview.redd.it/YzQzZmxscHc1Ym1oMV9LAG-ijxRe0hXJLN4TuwvQvnm_sTDjg20EpPWd472U.png?width=640&crop=smart&auto=webp&s=a5e23914ac94a70ee14aa08010b340474f8fe9e2"
       },
       {
-        "rank": 3,
-        "title": "A startup found a drug to make your blood young. People close to the company are already taking the drug weekly. Benefits include improved vision in a 64-year-old female, longer landscaping sessions for a 59-year-old man, longer badminton games, improved hand grip, better erections than with Viagra",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1e3h5/a_startup_found_a_drug_to_make_your_blood_young/",
+        "rank": 2,
+        "title": "They getting smarter...",
+        "url": "https://www.reddit.com/r/singularity/comments/1w1ts9d/they_getting_smarter/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-29T05:46:26.000Z",
+        "publishedAt": "2026-08-29T18:18:10.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YTsv4fM-iBqXj_p_71qa0RCkfdS6MCr5F5gj7ii5IFE.jpeg?width=640&crop=smart&auto=webp&s=e321ce69dc9a32b5e13c3c9e299f8d70865df44e"
+        "thumbnail": "https://external-preview.redd.it/emthYm14cHB2Y21oMXR6qwg_QFTqthqTPISejUOb3XM8rMhLgDbgdUYGYdRT.png?width=640&crop=smart&auto=webp&s=b2a357481e5e6c95de60c993bc912c8680dd9224"
+      },
+      {
+        "rank": 3,
+        "title": "A reliable leaker has shared some Astra’s one-shot outputs at Max effort",
+        "url": "https://www.reddit.com/r/singularity/comments/1w1hws9/a_reliable_leaker_has_shared_some_astras_oneshot/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-29T09:26:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MG1sMXY4NG84YW1oMeD1eYV17a9BBTQBbaHObZKxE8IpKzVTLdmKWE8a2Tk5.png?width=640&crop=smart&auto=webp&s=8a86eab4437daab9717300171557c35024b36805"
       },
       {
         "rank": 4,
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1a5li/our_decision_on_cursor_following_its_acquisition/",
+        "title": "GLM 5.3 weights are now public",
+        "url": "https://www.reddit.com/r/singularity/comments/1w243so/glm_53_weights_are_now_public/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-29T02:25:29.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-30T01:33:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/BhH_AjL0mdp-2nZPRCiygI2acL0nwkgIh3KfgwJsMEU.png?width=640&crop=smart&auto=webp&s=dea490193213b00bb41f33cf60be19d474c255bb"
       },
       {
         "rank": 5,
-        "title": "True if big",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1d01y/true_if_big/",
+        "title": "Videos of Astra made apps are appearing on Twitter, alongside a rumoured release for next week (heavy on the rumoured part)",
+        "url": "https://www.reddit.com/r/singularity/comments/1w1sw6y/videos_of_astra_made_apps_are_appearing_on/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-29T04:48:51.000Z",
+        "publishedAt": "2026-08-29T17:42:58.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jsdm007cv8mh1.jpeg?width=640&crop=smart&auto=webp&s=a5d7baefd462ce2d9999c321148fd4129689cd91"
+        "thumbnail": "https://external-preview.redd.it/cDVxZ21wNDFwY21oMelTIdRdypZucyOiLQITY05753IIGyey7eYMIpNpYXpe.png?width=640&crop=smart&auto=webp&s=4e374f998edbfa7e7337546b0a951368ca509f6f"
       },
       {
         "rank": 1,

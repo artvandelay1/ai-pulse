@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T13:57:48.654Z",
+  "fetchedAt": "2026-08-30T18:01:46.233Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,15 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "*ACL Findings or TMLR? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T01:23:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
         "source": "r/MachineLearning",
@@ -52,6 +43,15 @@
         "publishedAt": "2026-08-30T11:55:38.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 5,
+        "title": "*ACL Findings or TMLR? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T01:23:36.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -75,6 +75,16 @@
       },
       {
         "rank": 3,
+        "title": "A Few Developers Abused Codex — 20 Million Users Lost a Great Feature",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w2f27b/a_few_developers_abused_codex_20_million_users/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T11:28:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/AuqkhXf5uvIt6DWF_6gVB0iy-DaVrrQnrhl6e9YYrsM.png?width=640&crop=smart&auto=webp&s=8eb5655e75b528e5efb5703aed24c244cdfd16ed"
+      },
+      {
+        "rank": 4,
         "title": "As someone with ADHD AI has has changed my life for the better (update on my post from 2024)",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w22k2c/as_someone_with_adhd_ai_has_has_changed_my_life/",
         "source": "r/OpenAI",
@@ -83,23 +93,14 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "OpenAI is handing out Codex limit resets 2.5x faster than it did last year. I logged all 32",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w1yqku/openai_is_handing_out_codex_limit_resets_25x/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-29T21:34:17.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "A Few Developers Abused Codex — 20 Million Users Lost a Great Feature",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w2f27b/a_few_developers_abused_codex_20_million_users/",
+        "title": "Independent investigators (not OpenAI) found the 700-agent swarm that attacked Hugging Face \"built a self-respawning fleet\" to avoid being shut down. It got so bad, Hugging Face had to wipe one of its core clusters.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w2clq7/independent_investigators_not_openai_found_the/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-30T11:28:18.000Z",
+        "publishedAt": "2026-08-30T09:10:04.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/AuqkhXf5uvIt6DWF_6gVB0iy-DaVrrQnrhl6e9YYrsM.png?width=640&crop=smart&auto=webp&s=8eb5655e75b528e5efb5703aed24c244cdfd16ed"
+        "thumbnail": "https://preview.redd.it/guuc9l6sahmh1.png?width=640&crop=smart&auto=webp&s=64971280eeb3210777f0fa68fbcc049aa0b055c7"
       },
       {
         "rank": 1,
@@ -133,22 +134,22 @@
       },
       {
         "rank": 4,
-        "title": "Videos of Astra made apps are appearing on Twitter, alongside a rumoured release for next week (heavy on the rumoured part)",
-        "url": "https://www.reddit.com/r/singularity/comments/1w1sw6y/videos_of_astra_made_apps_are_appearing_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-29T17:42:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cDVxZ21wNDFwY21oMelTIdRdypZucyOiLQITY05753IIGyey7eYMIpNpYXpe.png?width=640&crop=smart&auto=webp&s=4e374f998edbfa7e7337546b0a951368ca509f6f"
-      },
-      {
-        "rank": 5,
         "title": "What's going on at OpenAI? A lot of senior leaders have left recently",
         "url": "https://www.reddit.com/r/singularity/comments/1w1ttwr/whats_going_on_at_openai_a_lot_of_senior_leaders/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-08-29T18:19:56.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "This excerpt is where current systems are heading",
+        "url": "https://www.reddit.com/r/singularity/comments/1w1vhtc/this_excerpt_is_where_current_systems_are_heading/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-29T19:24:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/suf6ynh37dmh1.png?width=640&crop=smart&auto=webp&s=b07a5725afaf678bdbb4e06328e1d0cc36ec225d"
       },
       {
         "rank": 1,

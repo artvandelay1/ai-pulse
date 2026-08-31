@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-08-30T23:25:42.767Z",
+  "fetchedAt": "2026-08-31T01:33:11.319Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "What’s a good useful MCP you connected to that brings you real value?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2grux/whats_a_good_useful_mcp_you_connected_to_that/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T12:52:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Those were the days",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2nl6j/those_were_the_days/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T17:24:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wpxtqx44rjmh1.jpeg?width=640&crop=smart&auto=webp&s=130c7055db8fd2d6ecb9b20c03cedabb963e3869"
+      },
+      {
+        "rank": 3,
+        "title": "All leaks and news about Fable, Opus and sometimes Sonnet, what about Haiku? Do you use it? what is your use case?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2t9x1/all_leaks_and_news_about_fable_opus_and_sometimes/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T20:59:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/az5ycybvskmh1.png?width=640&crop=smart&auto=webp&s=500b1ae5ee26a3c39c3a657b8eecce4580a471f9"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Code is silently adding session URLs (claude.ai/code/session_...) to the bottom of every single commit and PR description you make.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2omfu/claude_code_is_silently_adding_session_urls/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T18:03:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bPuuoDIXQFB_WGfaaf7RLVZ0_Vw2WiySJObxQ8V0ERw.png?width=640&crop=smart&auto=webp&s=5e357b2a4868ba4de1e1bad928f9717c44ca36f6"
+      },
+      {
+        "rank": 5,
+        "title": "What's the dumbest thing you use AI for?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2jtq8/whats_the_dumbest_thing_you_use_ai_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-08-30T14:59:45.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "NeurIPS accepted papers leaked? [D]",
@@ -16,6 +64,15 @@
       },
       {
         "rank": 2,
+        "title": "Claude Code for Research Papers [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-30T23:24:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Implementing Kimi K3 from scratch in PyTorch [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/",
         "source": "r/MachineLearning",
@@ -25,7 +82,7 @@
         "thumbnail": "https://external-preview.redd.it/Jmw0M0eP1FGRkpvQaT0MNy6Ih9RSt6RvR8lxxembFCY.jpeg?width=320&crop=smart&auto=webp&s=fca1365ff844bce9d5a2211f0ab037b974d4cc3f"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
         "source": "r/MachineLearning",
@@ -33,15 +90,6 @@
         "publishedAt": "2026-08-30T11:55:38.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 4,
-        "title": "*ACL Findings or TMLR? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w23w2l/acl_findings_or_tmlr_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T01:23:36.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,
@@ -52,6 +100,54 @@
         "publishedAt": "2026-08-30T12:47:10.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/1Y6QxNttIYxR_OJkMng_9RVeO12IPmXsjQ_zKbJpirM.jpeg?width=320&crop=smart&auto=webp&s=14ea44f6d3bd6f70fdda485355d9cc45a6e1db60"
+      },
+      {
+        "rank": 1,
+        "title": "I made a mac app to show codex usage on touchbar",
+        "url": "https://www.reddit.com/r/codex/comments/1w2c529/i_made_a_mac_app_to_show_codex_usage_on_touchbar/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T08:43:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ggpozadp5hmh1.jpg?width=140&height=105&auto=webp&s=f0fe1d0f22db9a3933e6e24c582ba9e6a9ac93c9"
+      },
+      {
+        "rank": 2,
+        "title": "NEw leaked video from GPT 6 Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1w2axr3/new_leaked_video_from_gpt_6_astra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T07:33:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "kids won't understand this one day",
+        "url": "https://www.reddit.com/r/codex/comments/1w2b5nl/kids_wont_understand_this_one_day/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T07:46:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xd8ct2cpvgmh1.jpeg?width=320&crop=smart&auto=webp&s=4b22eccd7148de5789dc6d6caf0724a9e6a9be7d"
+      },
+      {
+        "rank": 4,
+        "title": "If you whined to get the 5hour back, we're not friends 🫡",
+        "url": "https://www.reddit.com/r/codex/comments/1w2bq7f/if_you_whined_to_get_the_5hour_back_were_not/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T08:18:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Reset 6pm PST",
+        "url": "https://www.reddit.com/r/codex/comments/1w2rjm1/reset_6pm_pst/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-08-30T19:53:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dn3qstwphkmh1.png?width=640&crop=smart&auto=webp&s=a62399ac03a269c950b04ab64118ad3874443f80"
       },
       {
         "rank": 1,
@@ -150,103 +246,6 @@
         "publishedAt": "2026-08-30T15:06:49.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/dWhzZDMyN2Qyam1oMe5Bm_2Ka4muVLaf1Xon19PQS1j-K0t5fe3VMeqMqweS.png?width=640&crop=smart&auto=webp&s=1cb1d44bb07e8f5db045283e6c8e227785b38e30"
-      },
-      {
-        "rank": 1,
-        "title": "What’s a good useful MCP you connected to that brings you real value?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2grux/whats_a_good_useful_mcp_you_connected_to_that/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T12:52:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Claude just throwing unrelated words in a ban appeal discussion",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w25bat/claude_just_throwing_unrelated_words_in_a_ban/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T02:33:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/grfu75pvbfmh1.png?width=640&crop=smart&auto=webp&s=4bdfbf08d06ac39d17ca6b4b60bb46a33dfc6e7d"
-      },
-      {
-        "rank": 3,
-        "title": "What's the dumbest thing you use AI for?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2jtq8/whats_the_dumbest_thing_you_use_ai_for/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T14:59:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Code is silently adding session URLs (claude.ai/code/session_...) to the bottom of every single commit and PR description you make.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2omfu/claude_code_is_silently_adding_session_urls/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T18:03:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bPuuoDIXQFB_WGfaaf7RLVZ0_Vw2WiySJObxQ8V0ERw.png?width=640&crop=smart&auto=webp&s=5e357b2a4868ba4de1e1bad928f9717c44ca36f6"
-      },
-      {
-        "rank": 5,
-        "title": "Those were the days",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w2nl6j/those_were_the_days/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-08-30T17:24:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wpxtqx44rjmh1.jpeg?width=640&crop=smart&auto=webp&s=130c7055db8fd2d6ecb9b20c03cedabb963e3869"
-      },
-      {
-        "rank": 1,
-        "title": "NEw leaked video from GPT 6 Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1w2axr3/new_leaked_video_from_gpt_6_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-30T07:33:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I made a mac app to show codex usage on touchbar",
-        "url": "https://www.reddit.com/r/codex/comments/1w2c529/i_made_a_mac_app_to_show_codex_usage_on_touchbar/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-30T08:43:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ggpozadp5hmh1.jpg?width=140&height=105&auto=webp&s=f0fe1d0f22db9a3933e6e24c582ba9e6a9ac93c9"
-      },
-      {
-        "rank": 3,
-        "title": "kids won't understand this one day",
-        "url": "https://www.reddit.com/r/codex/comments/1w2b5nl/kids_wont_understand_this_one_day/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-30T07:46:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xd8ct2cpvgmh1.jpeg?width=320&crop=smart&auto=webp&s=4b22eccd7148de5789dc6d6caf0724a9e6a9be7d"
-      },
-      {
-        "rank": 4,
-        "title": "Astra incoming",
-        "url": "https://www.reddit.com/r/codex/comments/1w234xm/astra_incoming/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-30T00:47:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8swum7c7temh1.jpeg?width=640&crop=smart&auto=webp&s=8b5cd46fd606271835e8bbbdf4383058f49aa2ed"
-      },
-      {
-        "rank": 5,
-        "title": "The Force of Darkness has responded",
-        "url": "https://www.reddit.com/r/codex/comments/1w2134q/the_force_of_darkness_has_responded/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-08-29T23:15:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lqh6478pcemh1.jpeg?width=640&crop=smart&auto=webp&s=55b081aa38301ef25039146513f4b996e14bdfa4"
       }
     ]
   }

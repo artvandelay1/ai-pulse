@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T16:20:49.561Z",
+  "fetchedAt": "2026-08-31T21:36:42.043Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,6 @@
       },
       {
         "rank": 3,
-        "title": "NeurIPS accepted papers leaked? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T19:34:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Good Machine Learning Posters [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "How to assess if there is a strong signal in your dirty data [Project]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
+        "rank": 4,
+        "title": "Sliding-window attention beats linear on long-context reasoning [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-31T12:02:54.000Z",
+        "publishedAt": "2026-08-31T16:35:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Your GNN is probably just an overcomplicated MLP (Tabular Leakage). We built SynthFin-AML to enforce strict causal boundaries. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3imxy/your_gnn_is_probably_just_an_overcomplicated_mlp/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-31T16:21:10.000Z",
         "category": "reddit"
       },
       {
@@ -62,15 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "The 5hr usage is killing me!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w31674/the_5hr_usage_is_killing_me/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T02:46:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "EU designates ChatGPT a Very Large Search Engine under DSA",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w3e3ya/eu_designates_chatgpt_a_very_large_search_engine/",
         "source": "r/OpenAI",
@@ -79,7 +70,25 @@
         "category": "reddit"
       },
       {
+        "rank": 3,
+        "title": "The 5hr usage is killing me!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w31674/the_5hr_usage_is_killing_me/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-31T02:46:47.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 4,
+        "title": "OpenAI says ChatGPT Ads hit a $1 billion annualized run rate and is going global",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w3iie3/openai_says_chatgpt_ads_hit_a_1_billion/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-31T16:16:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "OpenAI is upgrading its Bio Bug Bounty program to an ongoing private initiative, with rewards doubled to $50,000 for universal jailbreaks that bypass biosafety safeguards in GPT‑5.6. The program aims to prevent AI from being used to create biological weapons.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w32gnc/openai_is_upgrading_its_bio_bug_bounty_program_to/",
         "source": "r/OpenAI",
@@ -88,25 +97,27 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "AI Addiction",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w30jn7/ai_addiction/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T02:17:31.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "GPT 5.6 has broken the record on large gaps between primes.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w2xdqz/gpt_56_has_broken_the_record_on_large_gaps/",
+        "title": "😂 seems like 10 hours is a bear market in AI models world",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3m36t/seems_like_10_hours_is_a_bear_market_in_ai_models/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-30T23:52:55.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-08-31T18:17:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yjix8g8i5rmh1.jpeg?width=640&crop=smart&auto=webp&s=8d7052a6563c8b51ad40018237ca2cc242631900"
       },
       {
         "rank": 2,
+        "title": "Introducing Solaris our first Interface World Model | Runway",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3jq0t/introducing_solaris_our_first_interface_world/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T16:59:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/tOaWgoNBVgCZLVvflNZ1qBc5vBATZXQx5M4WahrwhH0.jpeg?width=320&crop=smart&auto=webp&s=4bfaa847e154c3a004c576f71c99f792a84bad49"
+      },
+      {
+        "rank": 3,
         "title": "INB4 GPT 7 One Shots a game better looking and more polished then Star Citizen",
         "url": "https://www.reddit.com/r/singularity/comments/1w38mkh/inb4_gpt_7_one_shots_a_game_better_looking_and/",
         "source": "r/singularity",
@@ -115,34 +126,23 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "Chinese Companies Are Unleashing AI-Powered Robo-Chefs",
-        "url": "https://www.reddit.com/r/singularity/comments/1w2p3g7/chinese_companies_are_unleashing_aipowered/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-30T18:21:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZM6pD5FGUEJK26g5Poeg7F3_FBm7rdeAGI3iJ-uLzGI.jpeg?width=640&crop=smart&auto=webp&s=cfc14875699803738c05061973b0b10cef84a425"
-      },
-      {
         "rank": 4,
-        "title": "AI-generated videos are slowly displacing actors and live-streamers in China's entertainment industry",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3eq4n/aigenerated_videos_are_slowly_displacing_actors/",
+        "title": "GPT 5.6 has broken the record on large gaps between primes.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w2xdqz/gpt_56_has_broken_the_record_on_large_gaps/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-31T14:02:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2zzUeGJ9lmCEIQaSJikDtOLa6kDpVtgmAuygpnWxGJs.jpeg?width=320&crop=smart&auto=webp&s=b554dcd39e172a23ffd57a31e1e073f935d6600c"
+        "publishedAt": "2026-08-30T23:52:55.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Inside Meta’s push to put robots to work in data centers | The company is testing robots on tasks that can performed by technicians.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3e21z/inside_metas_push_to_put_robots_to_work_in_data/",
+        "title": "Police in Turkey have started using drones to enforce the law",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-31T13:36:43.000Z",
+        "publishedAt": "2026-08-31T20:04:48.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/qNUHmjl6NzgaBWwz3Gd0TDKCpvOvWxyIzVlLHW5MSCI.jpeg?width=640&crop=smart&auto=webp&s=be514ebb7be46fe8b4af1fb6a4f05e9432bbce1c"
+        "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
       },
       {
         "rank": 1,

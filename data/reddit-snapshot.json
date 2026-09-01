@@ -1,10 +1,134 @@
 {
-  "fetchedAt": "2026-09-01T06:41:14.357Z",
+  "fetchedAt": "2026-09-01T12:29:48.452Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Sliding-window attention beats linear on long-context reasoning [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-31T16:35:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ACML 2026 Journal Track Any update ?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3n4ig/acml_2026_journal_track_any_update_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-31T18:53:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Are HMMs still used for unsupervised tasks? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T08:15:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w40n1m/gpt6/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T03:45:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "EU designates ChatGPT a Very Large Search Engine under DSA",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w3e3ya/eu_designates_chatgpt_a_very_large_search_engine/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-31T13:38:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI says ChatGPT Ads hit a $1 billion annualized run rate and is going global",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w3iie3/openai_says_chatgpt_ads_hit_a_1_billion/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-31T16:16:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4294d/apple_says_openai_is_destroying_evidence_in_trade/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T05:07:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/RhNS2M0EZtUQ0LAAxioulc09dduPgD44lFlZftPpvv4.jpeg?width=640&crop=smart&auto=webp&s=bf24c2e40787899a3ffb49f8a7e8b0887aab30d8"
+      },
+      {
+        "rank": 5,
+        "title": "Gentle reminder of why we can't have nice things with these kind of thieves around.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w44eyi/gentle_reminder_of_why_we_cant_have_nice_things/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T07:06:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/480jqpgpyumh1.jpeg?width=640&crop=smart&auto=webp&s=16d7c25cc126505baef8a81a55147cb9da3e6c7f"
+      },
+      {
+        "rank": 1,
+        "title": "According to Axios, China is linked to anti-data-center propaganda in the U.S.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3r29c/according_to_axios_china_is_linked_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T21:08:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t517pjkuzrmh1.jpeg?width=640&crop=smart&auto=webp&s=3f5db9f08f5d2547c24301d5a18cb477ce75da91"
+      },
+      {
+        "rank": 2,
+        "title": "😂 seems like 10 hours is a bear market in AI models world",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3m36t/seems_like_10_hours_is_a_bear_market_in_ai_models/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T18:17:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yjix8g8i5rmh1.jpeg?width=640&crop=smart&auto=webp&s=8d7052a6563c8b51ad40018237ca2cc242631900"
+      },
+      {
+        "rank": 3,
+        "title": "Police in Turkey have started using drones to enforce the law",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T20:04:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
+      },
+      {
+        "rank": 4,
+        "title": "According to their own internal documents a lawsuit filed against Anthropic reveals, that the 20x usage plan actually only allows for 6x more usage.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w43cci/according_to_their_own_internal_documents_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T06:06:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xhgz28nrnumh1.jpeg?width=640&crop=smart&auto=webp&s=54f7597dea13d8192b3f878bc3bec37f4fbecb24"
+      },
+      {
+        "rank": 5,
+        "title": "Introducing Solaris our first Interface World Model | Runway",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3jq0t/introducing_solaris_our_first_interface_world/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T16:59:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/tOaWgoNBVgCZLVvflNZ1qBc5vBATZXQx5M4WahrwhH0.jpeg?width=320&crop=smart&auto=webp&s=4bfaa847e154c3a004c576f71c99f792a84bad49"
+      },
       {
         "rank": 1,
         "title": "This Claude's response made me think about our relationship with smartphones.",
@@ -56,51 +180,6 @@
       },
       {
         "rank": 1,
-        "title": "Cold emailing profs about PhD positions? Read this [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-31T12:09:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Sliding-window attention beats linear on long-context reasoning [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-31T16:35:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Good Machine Learning Posters [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-31T10:04:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ACML 2026 Journal Track Any update ?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3n4ig/acml_2026_journal_track_any_update_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-31T18:53:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "How to assess if there is a strong signal in your dirty data [Project]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-31T12:02:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "ChatGPT is down. Let's see what our friend Tibo offers as compensation ;)",
         "url": "https://www.reddit.com/r/codex/comments/1w3ksvf/chatgpt_is_down_lets_see_what_our_friend_tibo/",
         "source": "r/codex",
@@ -145,101 +224,6 @@
         "publishedAt": "2026-08-31T12:41:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tt8gnazahpmh1.png?width=320&crop=smart&auto=webp&s=50f797fba7f9919dd46cdd61e79fb098ee841ee0"
-      },
-      {
-        "rank": 1,
-        "title": "I’m 27. OpenAI misread my Taiwan ID issue date as my DOB, deleted my account as “under 13,” then rejected my appeal in ~5 minutes",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w3bk4e/im_27_openai_misread_my_taiwan_id_issue_date_as/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T11:54:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j11q17a49pmh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=98dc01cdfa85115cb592aba891787e533c8886b1"
-      },
-      {
-        "rank": 2,
-        "title": "EU designates ChatGPT a Very Large Search Engine under DSA",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w3e3ya/eu_designates_chatgpt_a_very_large_search_engine/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T13:38:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI says ChatGPT Ads hit a $1 billion annualized run rate and is going global",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w3iie3/openai_says_chatgpt_ads_hit_a_1_billion/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T16:16:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "The 5hr usage is killing me!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w31674/the_5hr_usage_is_killing_me/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T02:46:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI is upgrading its Bio Bug Bounty program to an ongoing private initiative, with rewards doubled to $50,000 for universal jailbreaks that bypass biosafety safeguards in GPT‑5.6. The program aims to prevent AI from being used to create biological weapons.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w32gnc/openai_is_upgrading_its_bio_bug_bounty_program_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T03:48:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "😂 seems like 10 hours is a bear market in AI models world",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3m36t/seems_like_10_hours_is_a_bear_market_in_ai_models/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T18:17:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yjix8g8i5rmh1.jpeg?width=640&crop=smart&auto=webp&s=8d7052a6563c8b51ad40018237ca2cc242631900"
-      },
-      {
-        "rank": 2,
-        "title": "According to Axios, China is linked to anti-data-center propaganda in the U.S.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3r29c/according_to_axios_china_is_linked_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T21:08:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t517pjkuzrmh1.jpeg?width=640&crop=smart&auto=webp&s=3f5db9f08f5d2547c24301d5a18cb477ce75da91"
-      },
-      {
-        "rank": 3,
-        "title": "Introducing Solaris our first Interface World Model | Runway",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3jq0t/introducing_solaris_our_first_interface_world/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T16:59:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/tOaWgoNBVgCZLVvflNZ1qBc5vBATZXQx5M4WahrwhH0.jpeg?width=320&crop=smart&auto=webp&s=4bfaa847e154c3a004c576f71c99f792a84bad49"
-      },
-      {
-        "rank": 4,
-        "title": "Police in Turkey have started using drones to enforce the law",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T20:04:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
-      },
-      {
-        "rank": 5,
-        "title": "INB4 GPT 7 One Shots a game better looking and more polished then Star Citizen",
-        "url": "https://www.reddit.com/r/singularity/comments/1w38mkh/inb4_gpt_7_one_shots_a_game_better_looking_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T09:25:24.000Z",
-        "category": "reddit"
       }
     ]
   }

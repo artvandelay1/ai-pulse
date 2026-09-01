@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T16:53:41.215Z",
+  "fetchedAt": "2026-09-01T19:49:50.870Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "ACML 2026 Journal Track Any update ?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3n4ig/acml_2026_journal_track_any_update_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-31T18:53:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
         "source": "r/MachineLearning",
@@ -34,7 +25,7 @@
         "thumbnail": "https://preview.redd.it/iywwsh48kxmh1.png?width=140&height=50&auto=webp&s=d0bd35ce7bd7834bb1b97467da6c05a4b8c904ad"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
         "source": "r/MachineLearning",
@@ -43,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "We released TontaubeV1, a character-level TTS model for long-form generation [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/",
         "source": "r/MachineLearning",
@@ -51,6 +42,15 @@
         "publishedAt": "2026-09-01T12:23:32.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dq70r0hwiwmh1.png?width=140&height=83&auto=webp&s=b5c68e7aa20f1aba3177bdc9769e7025694baf89"
+      },
+      {
+        "rank": 5,
+        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T19:02:45.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -83,13 +83,13 @@
       },
       {
         "rank": 4,
-        "title": "I asked ChatGPT what it would do if roles were reversed after the huggingface incident.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w3zu75/i_asked_chatgpt_what_it_would_do_if_roles_were/",
+        "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-01T03:06:34.000Z",
+        "publishedAt": "2026-09-01T18:26:48.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hrceq2mtrtmh1.jpg?width=140&height=136&auto=webp&s=eb112282ca104d3413ed86d6c0cc774099a1dcbd"
+        "thumbnail": "https://preview.redd.it/dxg7ny5vbymh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ecd43b39784fb6a7029b3fd7cd9acea15a269eb7"
       },
       {
         "rank": 5,
@@ -112,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "😂 seems like 10 hours is a bear market in AI models world",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3m36t/seems_like_10_hours_is_a_bear_market_in_ai_models/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T18:17:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yjix8g8i5rmh1.jpeg?width=640&crop=smart&auto=webp&s=8d7052a6563c8b51ad40018237ca2cc242631900"
-      },
-      {
-        "rank": 3,
         "title": "According to their own internal documents a lawsuit filed against Anthropic reveals, that the 20x usage plan actually only allows for 6x more usage.",
         "url": "https://www.reddit.com/r/singularity/comments/1w43cci/according_to_their_own_internal_documents_a/",
         "source": "r/singularity",
@@ -131,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/xhgz28nrnumh1.jpeg?width=640&crop=smart&auto=webp&s=54f7597dea13d8192b3f878bc3bec37f4fbecb24"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Police in Turkey have started using drones to enforce the law",
         "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
         "source": "r/singularity",
@@ -141,14 +131,24 @@
         "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
       },
       {
-        "rank": 5,
-        "title": "Introducing Solaris our first Interface World Model | Runway",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3jq0t/introducing_solaris_our_first_interface_world/",
+        "rank": 4,
+        "title": "Self-driving Cybercabs spotted flooding some Austin streets, other cities, ahead of this September 3rd launch",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4fv84/selfdriving_cybercabs_spotted_flooding_some/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-31T16:59:07.000Z",
+        "publishedAt": "2026-09-01T15:49:49.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/tOaWgoNBVgCZLVvflNZ1qBc5vBATZXQx5M4WahrwhH0.jpeg?width=320&crop=smart&auto=webp&s=4bfaa847e154c3a004c576f71c99f792a84bad49"
+        "thumbnail": "https://external-preview.redd.it/ZmRqZ2E3eXloeG1oMdvrB2ms4afZ4WrP_CDFkfE5In5SeF1PB4scNEJjosSe.png?width=640&crop=smart&auto=webp&s=89a8a885555c25a365faa980f07756647ed15d05"
+      },
+      {
+        "rank": 5,
+        "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4jumu/introducing_claude_fable_51_and_claude_mythos_51/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T18:06:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&crop=smart&auto=webp&s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74"
       },
       {
         "rank": 1,

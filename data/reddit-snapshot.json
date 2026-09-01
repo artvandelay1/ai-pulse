@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T21:36:42.043Z",
+  "fetchedAt": "2026-09-01T01:08:46.800Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Claude Code for Research Papers [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-08-30T23:24:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Cold emailing profs about PhD positions? Read this [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Good Machine Learning Posters [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w39buv/good_machine_learning_posters_d/",
         "source": "r/MachineLearning",
@@ -33,12 +24,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Sliding-window attention beats linear on long-context reasoning [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-08-31T16:35:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How to assess if there is a strong signal in your dirty data [Project]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-08-31T12:02:54.000Z",
         "category": "reddit"
       },
       {
@@ -71,20 +71,20 @@
       },
       {
         "rank": 3,
-        "title": "The 5hr usage is killing me!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w31674/the_5hr_usage_is_killing_me/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T02:46:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI says ChatGPT Ads hit a $1 billion annualized run rate and is going global",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w3iie3/openai_says_chatgpt_ads_hit_a_1_billion/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-08-31T16:16:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The 5hr usage is killing me!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w31674/the_5hr_usage_is_killing_me/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-08-31T02:46:47.000Z",
         "category": "reddit"
       },
       {
@@ -108,6 +108,16 @@
       },
       {
         "rank": 2,
+        "title": "According to Axios, China is linked to anti-data-center propaganda in the U.S.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3r29c/according_to_axios_china_is_linked_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T21:08:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t517pjkuzrmh1.jpeg?width=640&crop=smart&auto=webp&s=3f5db9f08f5d2547c24301d5a18cb477ce75da91"
+      },
+      {
+        "rank": 3,
         "title": "Introducing Solaris our first Interface World Model | Runway",
         "url": "https://www.reddit.com/r/singularity/comments/1w3jq0t/introducing_solaris_our_first_interface_world/",
         "source": "r/singularity",
@@ -117,25 +127,7 @@
         "thumbnail": "https://external-preview.redd.it/tOaWgoNBVgCZLVvflNZ1qBc5vBATZXQx5M4WahrwhH0.jpeg?width=320&crop=smart&auto=webp&s=4bfaa847e154c3a004c576f71c99f792a84bad49"
       },
       {
-        "rank": 3,
-        "title": "INB4 GPT 7 One Shots a game better looking and more polished then Star Citizen",
-        "url": "https://www.reddit.com/r/singularity/comments/1w38mkh/inb4_gpt_7_one_shots_a_game_better_looking_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T09:25:24.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 4,
-        "title": "GPT 5.6 has broken the record on large gaps between primes.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w2xdqz/gpt_56_has_broken_the_record_on_large_gaps/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-30T23:52:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Police in Turkey have started using drones to enforce the law",
         "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
         "source": "r/singularity",
@@ -143,6 +135,15 @@
         "publishedAt": "2026-08-31T20:04:48.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
+      },
+      {
+        "rank": 5,
+        "title": "INB4 GPT 7 One Shots a game better looking and more polished then Star Citizen",
+        "url": "https://www.reddit.com/r/singularity/comments/1w38mkh/inb4_gpt_7_one_shots_a_game_better_looking_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T09:25:24.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

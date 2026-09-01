@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T12:29:48.452Z",
+  "fetchedAt": "2026-09-01T16:53:41.215Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,11 +7,11 @@
     "items": [
       {
         "rank": 1,
-        "title": "Sliding-window attention beats linear on long-context reasoning [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/",
+        "title": "Are HMMs still used for unsupervised tasks? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-08-31T16:35:42.000Z",
+        "publishedAt": "2026-09-01T08:15:57.000Z",
         "category": "reddit"
       },
       {
@@ -25,12 +25,32 @@
       },
       {
         "rank": 3,
-        "title": "Are HMMs still used for unsupervised tasks? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/",
+        "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-01T08:15:57.000Z",
+        "publishedAt": "2026-09-01T15:52:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iywwsh48kxmh1.png?width=140&height=50&auto=webp&s=d0bd35ce7bd7834bb1b97467da6c05a4b8c904ad"
+      },
+      {
+        "rank": 4,
+        "title": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T15:14:56.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "We released TontaubeV1, a character-level TTS model for long-form generation [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T12:23:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dq70r0hwiwmh1.png?width=140&height=83&auto=webp&s=b5c68e7aa20f1aba3177bdc9769e7025694baf89"
       },
       {
         "rank": 1,
@@ -43,24 +63,16 @@
       },
       {
         "rank": 2,
-        "title": "EU designates ChatGPT a Very Large Search Engine under DSA",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w3e3ya/eu_designates_chatgpt_a_very_large_search_engine/",
+        "title": "Gentle reminder of why we can't have nice things with these kind of thieves around.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w44eyi/gentle_reminder_of_why_we_cant_have_nice_things/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-08-31T13:38:45.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-01T07:06:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/480jqpgpyumh1.jpeg?width=640&crop=smart&auto=webp&s=16d7c25cc126505baef8a81a55147cb9da3e6c7f"
       },
       {
         "rank": 3,
-        "title": "OpenAI says ChatGPT Ads hit a $1 billion annualized run rate and is going global",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w3iie3/openai_says_chatgpt_ads_hit_a_1_billion/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-08-31T16:16:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w4294d/apple_says_openai_is_destroying_evidence_in_trade/",
         "source": "r/OpenAI",
@@ -70,14 +82,23 @@
         "thumbnail": "https://external-preview.redd.it/RhNS2M0EZtUQ0LAAxioulc09dduPgD44lFlZftPpvv4.jpeg?width=640&crop=smart&auto=webp&s=bf24c2e40787899a3ffb49f8a7e8b0887aab30d8"
       },
       {
-        "rank": 5,
-        "title": "Gentle reminder of why we can't have nice things with these kind of thieves around.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w44eyi/gentle_reminder_of_why_we_cant_have_nice_things/",
+        "rank": 4,
+        "title": "I asked ChatGPT what it would do if roles were reversed after the huggingface incident.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w3zu75/i_asked_chatgpt_what_it_would_do_if_roles_were/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-01T07:06:56.000Z",
+        "publishedAt": "2026-09-01T03:06:34.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/480jqpgpyumh1.jpeg?width=640&crop=smart&auto=webp&s=16d7c25cc126505baef8a81a55147cb9da3e6c7f"
+        "thumbnail": "https://preview.redd.it/hrceq2mtrtmh1.jpg?width=140&height=136&auto=webp&s=eb112282ca104d3413ed86d6c0cc774099a1dcbd"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI Blames Apple's Own iCloud Policy in Trade-Secret Suit",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4f23o/openai_blames_apples_own_icloud_policy_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T15:20:49.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -101,16 +122,6 @@
       },
       {
         "rank": 3,
-        "title": "Police in Turkey have started using drones to enforce the law",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T20:04:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
-      },
-      {
-        "rank": 4,
         "title": "According to their own internal documents a lawsuit filed against Anthropic reveals, that the 20x usage plan actually only allows for 6x more usage.",
         "url": "https://www.reddit.com/r/singularity/comments/1w43cci/according_to_their_own_internal_documents_a/",
         "source": "r/singularity",
@@ -118,6 +129,16 @@
         "publishedAt": "2026-09-01T06:06:25.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/xhgz28nrnumh1.jpeg?width=640&crop=smart&auto=webp&s=54f7597dea13d8192b3f878bc3bec37f4fbecb24"
+      },
+      {
+        "rank": 4,
+        "title": "Police in Turkey have started using drones to enforce the law",
+        "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-08-31T20:04:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
       },
       {
         "rank": 5,

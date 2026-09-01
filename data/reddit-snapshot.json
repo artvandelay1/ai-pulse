@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T19:49:50.870Z",
+  "fetchedAt": "2026-09-01T22:30:50.465Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,6 +35,15 @@
       },
       {
         "rank": 4,
+        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T19:02:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "We released TontaubeV1, a character-level TTS model for long-form generation [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/",
         "source": "r/MachineLearning",
@@ -42,15 +51,6 @@
         "publishedAt": "2026-09-01T12:23:32.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dq70r0hwiwmh1.png?width=140&height=83&auto=webp&s=b5c68e7aa20f1aba3177bdc9769e7025694baf89"
-      },
-      {
-        "rank": 5,
-        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T19:02:45.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -93,25 +93,15 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI Blames Apple's Own iCloud Policy in Trade-Secret Suit",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4f23o/openai_blames_apples_own_icloud_policy_in/",
+        "title": "Soon as in tomorrow (Astra)?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4nwlk/soon_as_in_tomorrow_astra/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-01T15:20:49.000Z",
+        "publishedAt": "2026-09-01T20:14:11.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "According to Axios, China is linked to anti-data-center propaganda in the U.S.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3r29c/according_to_axios_china_is_linked_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-08-31T21:08:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t517pjkuzrmh1.jpeg?width=640&crop=smart&auto=webp&s=3f5db9f08f5d2547c24301d5a18cb477ce75da91"
-      },
-      {
-        "rank": 2,
         "title": "According to their own internal documents a lawsuit filed against Anthropic reveals, that the 20x usage plan actually only allows for 6x more usage.",
         "url": "https://www.reddit.com/r/singularity/comments/1w43cci/according_to_their_own_internal_documents_a/",
         "source": "r/singularity",
@@ -121,14 +111,24 @@
         "thumbnail": "https://preview.redd.it/xhgz28nrnumh1.jpeg?width=640&crop=smart&auto=webp&s=54f7597dea13d8192b3f878bc3bec37f4fbecb24"
       },
       {
-        "rank": 3,
-        "title": "Police in Turkey have started using drones to enforce the law",
-        "url": "https://www.reddit.com/r/singularity/comments/1w3p8a3/police_in_turkey_have_started_using_drones_to/",
+        "rank": 2,
+        "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4jumu/introducing_claude_fable_51_and_claude_mythos_51/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-08-31T20:04:48.000Z",
+        "publishedAt": "2026-09-01T18:06:10.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/anIyejRha2tvcm1oMRVAF0oP2zrU--oiNke6d7HagzneJgaav7ytlkEek6eN.png?width=320&crop=smart&auto=webp&s=18bac0276c89751cd311db5b1bc011c2810a65d0"
+        "thumbnail": "https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&crop=smart&auto=webp&s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74"
+      },
+      {
+        "rank": 3,
+        "title": "What are these benchmarks 💀",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4k0yu/what_are_these_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T18:12:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l1ed9s7e9ymh1.png?width=640&crop=smart&auto=webp&s=e241b497d5e448ff3cd2e3aa1f43cf5d4a8c5829"
       },
       {
         "rank": 4,
@@ -142,13 +142,13 @@
       },
       {
         "rank": 5,
-        "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4jumu/introducing_claude_fable_51_and_claude_mythos_51/",
+        "title": "Fable 5.1 is out",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4jri0/fable_51_is_out/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-01T18:06:10.000Z",
+        "publishedAt": "2026-09-01T18:03:08.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&crop=smart&auto=webp&s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74"
+        "thumbnail": "https://external-preview.redd.it/HfmidW0wtsfdf-czdd8nxTqOcBZxRDeuIVZQdstDB4g.png?width=640&crop=smart&auto=webp&s=b1f889a9216220165269e9073c4e45da4421f381"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T09:30:44.960Z",
+  "fetchedAt": "2026-09-02T13:51:43.056Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,15 +35,6 @@
       },
       {
         "rank": 4,
-        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T19:02:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "[D] Self-Promotion Thread",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
         "source": "r/MachineLearning",
@@ -52,17 +43,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-01T18:26:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dxg7ny5vbymh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ecd43b39784fb6a7029b3fd7cd9acea15a269eb7"
+        "publishedAt": "2026-09-01T19:02:45.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Sometimes you have to be firm",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w4kttc/sometimes_you_have_to_be_firm/",
         "source": "r/OpenAI",
@@ -70,6 +60,16 @@
         "publishedAt": "2026-09-01T18:39:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/n79lrnjaeymh1.jpeg?width=640&crop=smart&auto=webp&s=5ce7395a74c0e2ea739afbedbc16dd604cb1f16e"
+      },
+      {
+        "rank": 2,
+        "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T18:26:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dxg7ny5vbymh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ecd43b39784fb6a7029b3fd7cd9acea15a269eb7"
       },
       {
         "rank": 3,
@@ -82,6 +82,15 @@
       },
       {
         "rank": 4,
+        "title": "Astra is about to drop 👀",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4th8t/astra_is_about_to_drop/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T23:28:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w4nrcr/openai_is_about_to_release_its_first_ai_model/",
         "source": "r/OpenAI",
@@ -89,15 +98,6 @@
         "publishedAt": "2026-09-01T20:09:40.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/AHpsdySs7yDLOlozKvqH1yUsYraG0yFFE5HKD6hIgZ4.jpeg?width=640&crop=smart&auto=webp&s=ee75bb0205b97ad8feaf3fc3eace978f2b824194"
-      },
-      {
-        "rank": 5,
-        "title": "Astra is about to drop 👀",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4th8t/astra_is_about_to_drop/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T23:28:02.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -131,16 +131,6 @@
       },
       {
         "rank": 4,
-        "title": "Self-driving Cybercabs spotted flooding some Austin streets, other cities, ahead of this September 3rd launch",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4fv84/selfdriving_cybercabs_spotted_flooding_some/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T15:49:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZmRqZ2E3eXloeG1oMdvrB2ms4afZ4WrP_CDFkfE5In5SeF1PB4scNEJjosSe.png?width=640&crop=smart&auto=webp&s=89a8a885555c25a365faa980f07756647ed15d05"
-      },
-      {
-        "rank": 5,
         "title": "if true openai has made another o1-level breakthrough",
         "url": "https://www.reddit.com/r/singularity/comments/1w4w5g0/if_true_openai_has_made_another_o1level/",
         "source": "r/singularity",
@@ -148,6 +138,16 @@
         "publishedAt": "2026-09-02T01:23:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gxza3a3wd0nh1.png?width=140&height=131&auto=webp&s=b1e874a95e9db779a317a7accce0b968c24fc918"
+      },
+      {
+        "rank": 5,
+        "title": "Self-driving Cybercabs spotted flooding some Austin streets, other cities, ahead of this September 3rd launch",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4fv84/selfdriving_cybercabs_spotted_flooding_some/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T15:49:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZmRqZ2E3eXloeG1oMdvrB2ms4afZ4WrP_CDFkfE5In5SeF1PB4scNEJjosSe.png?width=640&crop=smart&auto=webp&s=89a8a885555c25a365faa980f07756647ed15d05"
       },
       {
         "rank": 1,

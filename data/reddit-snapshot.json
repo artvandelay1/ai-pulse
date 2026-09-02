@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T17:46:47.421Z",
+  "fetchedAt": "2026-09-02T20:49:42.206Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-02T17:38:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "I regret reviewing for AAAI [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
         "source": "r/MachineLearning",
@@ -15,30 +24,21 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
-        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T19:02:45.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 3,
-        "title": "[D] Self-Promotion Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-02T02:15:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-02T16:49:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-02T02:15:07.000Z",
         "category": "reddit"
       },
       {
@@ -52,16 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "Sometimes you have to be firm",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kttc/sometimes_you_have_to_be_firm/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T18:39:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n79lrnjaeymh1.jpeg?width=640&crop=smart&auto=webp&s=5ce7395a74c0e2ea739afbedbc16dd604cb1f16e"
-      },
-      {
-        "rank": 2,
         "title": "GPT-5.6 Sol vs Claude Fable 5.1",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w5bxon/gpt56_sol_vs_claude_fable_51/",
         "source": "r/OpenAI",
@@ -71,26 +61,7 @@
         "thumbnail": "https://external-preview.redd.it/eTEyODMwdjRhNG5oMQUmp_qytMT2h-ed8h34hCYoZKOLwzY1fv66NuX8eQsX.png?width=640&crop=smart&auto=webp&s=41e9b3e633d8d80b233bb9f3d90e4f875ece7b45"
       },
       {
-        "rank": 3,
-        "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T18:26:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dxg7ny5vbymh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ecd43b39784fb6a7029b3fd7cd9acea15a269eb7"
-      },
-      {
-        "rank": 4,
-        "title": "Soon as in tomorrow (Astra)?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4nwlk/soon_as_in_tomorrow_astra/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T20:14:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "title": "Cried after failing my OpenAI interview",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w55dwr/cried_after_failing_my_openai_interview/",
         "source": "r/OpenAI",
@@ -99,14 +70,42 @@
         "category": "reddit"
       },
       {
+        "rank": 3,
+        "title": "Astra is about to drop 👀",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4th8t/astra_is_about_to_drop/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T23:28:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How accurate are Ed Zitron's predictions?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w576mj/how_accurate_are_ed_zitrons_predictions/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-02T11:03:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tobnsk7v93nh1.png?width=640&crop=smart&auto=webp&s=a4400868cf0db103cbe8ac184885979f75024a04"
+      },
+      {
+        "rank": 5,
+        "title": "Fable 5.1 outperforms Fable 5, Opus 5, and GPT‑5.6 Sol. Isn't time to reveal GPT-6 Astra?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w56ldi/fable_51_outperforms_fable_5_opus_5_and_gpt56_sol/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-02T10:32:40.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4jumu/introducing_claude_fable_51_and_claude_mythos_51/",
+        "title": "Gemini 3.8 Flash Benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-01T18:06:10.000Z",
+        "publishedAt": "2026-09-02T15:08:38.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&crop=smart&auto=webp&s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74"
+        "thumbnail": "https://preview.redd.it/3gx8kqsjh4nh1.jpeg?width=640&crop=smart&auto=webp&s=f1511276d97a85326977f43950e6bb9fc42a08eb"
       },
       {
         "rank": 2,
@@ -120,33 +119,32 @@
       },
       {
         "rank": 3,
-        "title": "What are these benchmarks 💀",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4k0yu/what_are_these_benchmarks/",
+        "title": "Sam Altman on X: \"We are going to be launching our next model soon. There is an obvious tension… Astra is very good. We are proud of our work.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1w52kvr/sam_altman_on_x_we_are_going_to_be_launching_our/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-01T18:12:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l1ed9s7e9ymh1.png?width=640&crop=smart&auto=webp&s=e241b497d5e448ff3cd2e3aa1f43cf5d4a8c5829"
+        "publishedAt": "2026-09-02T06:42:23.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "Fable 5.1 helped solve a 373 year old cipher",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4nxsb/fable_51_helped_solve_a_373_year_old_cipher/",
+        "title": "\"GPT-6-ASTRA\" has been staged on the OpenAI API",
+        "url": "https://www.reddit.com/r/singularity/comments/1w5f55h/gpt6astra_has_been_staged_on_the_openai_api/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-01T20:15:11.000Z",
+        "publishedAt": "2026-09-02T16:24:16.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uy1xbgacvymh1.jpeg?width=640&crop=smart&auto=webp&s=d551c731a44bfe1c3e28fe120e8fb334c6ce7c03"
+        "thumbnail": "https://preview.redd.it/qa0i0dfyu4nh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=66ff88c6c7544d39536ffdaf126e6f453d69dc8c"
       },
       {
         "rank": 5,
-        "title": "Gemini 3.8 Flash Benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
+        "title": "OpenAI’s Astra uses \"recurrent depth\" to think silently",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4wc0p/openais_astra_uses_recurrent_depth_to_think/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-02T15:08:38.000Z",
+        "publishedAt": "2026-09-02T01:31:28.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3gx8kqsjh4nh1.jpeg?width=640&crop=smart&auto=webp&s=f1511276d97a85326977f43950e6bb9fc42a08eb"
+        "thumbnail": "https://preview.redd.it/8q2cotsmf0nh1.png?width=640&crop=smart&auto=webp&s=9b0aa2679063ffe5b777702147070bc367a9ebaa"
       },
       {
         "rank": 1,

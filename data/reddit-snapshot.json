@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-09-02T05:01:07.254Z",
+  "fetchedAt": "2026-09-02T09:30:44.960Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I regret reviewing for AAAI [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-02T03:44:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T15:52:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iywwsh48kxmh1.png?width=140&height=50&auto=webp&s=d0bd35ce7bd7834bb1b97467da6c05a4b8c904ad"
+      },
+      {
+        "rank": 3,
+        "title": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T15:14:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-01T19:02:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-02T02:15:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T18:26:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dxg7ny5vbymh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ecd43b39784fb6a7029b3fd7cd9acea15a269eb7"
+      },
+      {
+        "rank": 2,
+        "title": "Sometimes you have to be firm",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kttc/sometimes_you_have_to_be_firm/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T18:39:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n79lrnjaeymh1.jpeg?width=640&crop=smart&auto=webp&s=5ce7395a74c0e2ea739afbedbc16dd604cb1f16e"
+      },
+      {
+        "rank": 3,
+        "title": "Soon as in tomorrow (Astra)?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4nwlk/soon_as_in_tomorrow_astra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T20:14:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4nrcr/openai_is_about_to_release_its_first_ai_model/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T20:09:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/AHpsdySs7yDLOlozKvqH1yUsYraG0yFFE5HKD6hIgZ4.jpeg?width=640&crop=smart&auto=webp&s=ee75bb0205b97ad8feaf3fc3eace978f2b824194"
+      },
+      {
+        "rank": 5,
+        "title": "Astra is about to drop 👀",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w4th8t/astra_is_about_to_drop/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-01T23:28:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4jumu/introducing_claude_fable_51_and_claude_mythos_51/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T18:06:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&crop=smart&auto=webp&s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74"
+      },
+      {
+        "rank": 2,
+        "title": "What are these benchmarks 💀",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4k0yu/what_are_these_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T18:12:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l1ed9s7e9ymh1.png?width=640&crop=smart&auto=webp&s=e241b497d5e448ff3cd2e3aa1f43cf5d4a8c5829"
+      },
+      {
+        "rank": 3,
+        "title": "Fable 5.1 helped solve a 373 year old cipher",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4nxsb/fable_51_helped_solve_a_373_year_old_cipher/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T20:15:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uy1xbgacvymh1.jpeg?width=640&crop=smart&auto=webp&s=d551c731a44bfe1c3e28fe120e8fb334c6ce7c03"
+      },
+      {
+        "rank": 4,
+        "title": "Self-driving Cybercabs spotted flooding some Austin streets, other cities, ahead of this September 3rd launch",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4fv84/selfdriving_cybercabs_spotted_flooding_some/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T15:49:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZmRqZ2E3eXloeG1oMdvrB2ms4afZ4WrP_CDFkfE5In5SeF1PB4scNEJjosSe.png?width=640&crop=smart&auto=webp&s=89a8a885555c25a365faa980f07756647ed15d05"
+      },
+      {
+        "rank": 5,
+        "title": "if true openai has made another o1-level breakthrough",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4w5g0/if_true_openai_has_made_another_o1level/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-02T01:23:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gxza3a3wd0nh1.png?width=140&height=131&auto=webp&s=b1e874a95e9db779a317a7accce0b968c24fc918"
+      },
       {
         "rank": 1,
         "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic",
@@ -56,53 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T15:52:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iywwsh48kxmh1.png?width=140&height=50&auto=webp&s=d0bd35ce7bd7834bb1b97467da6c05a4b8c904ad"
-      },
-      {
-        "rank": 2,
-        "title": "Are HMMs still used for unsupervised tasks? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T08:15:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T15:14:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T19:02:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "We released TontaubeV1, a character-level TTS model for long-form generation [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T12:23:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dq70r0hwiwmh1.png?width=140&height=83&auto=webp&s=b5c68e7aa20f1aba3177bdc9769e7025694baf89"
-      },
-      {
-        "rank": 1,
         "title": "Don’t use Codex TODAY!",
         "url": "https://www.reddit.com/r/codex/comments/1w4h75o/dont_use_codex_today/",
         "source": "r/codex",
@@ -148,104 +245,6 @@
         "publishedAt": "2026-09-01T11:28:58.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0gytluij7wmh1.png?width=140&height=78&auto=webp&s=376a2687ecefa344e0038e4cea2b4658cdfa811e"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w40n1m/gpt6/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T03:45:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Gentle reminder of why we can't have nice things with these kind of thieves around.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w44eyi/gentle_reminder_of_why_we_cant_have_nice_things/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T07:06:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/480jqpgpyumh1.jpeg?width=640&crop=smart&auto=webp&s=16d7c25cc126505baef8a81a55147cb9da3e6c7f"
-      },
-      {
-        "rank": 3,
-        "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4294d/apple_says_openai_is_destroying_evidence_in_trade/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T05:07:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/RhNS2M0EZtUQ0LAAxioulc09dduPgD44lFlZftPpvv4.jpeg?width=640&crop=smart&auto=webp&s=bf24c2e40787899a3ffb49f8a7e8b0887aab30d8"
-      },
-      {
-        "rank": 4,
-        "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T18:26:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dxg7ny5vbymh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ecd43b39784fb6a7029b3fd7cd9acea15a269eb7"
-      },
-      {
-        "rank": 5,
-        "title": "Soon as in tomorrow (Astra)?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4nwlk/soon_as_in_tomorrow_astra/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T20:14:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "According to their own internal documents a lawsuit filed against Anthropic reveals, that the 20x usage plan actually only allows for 6x more usage.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w43cci/according_to_their_own_internal_documents_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T06:06:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xhgz28nrnumh1.jpeg?width=640&crop=smart&auto=webp&s=54f7597dea13d8192b3f878bc3bec37f4fbecb24"
-      },
-      {
-        "rank": 2,
-        "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4jumu/introducing_claude_fable_51_and_claude_mythos_51/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T18:06:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&crop=smart&auto=webp&s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74"
-      },
-      {
-        "rank": 3,
-        "title": "What are these benchmarks 💀",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4k0yu/what_are_these_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T18:12:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l1ed9s7e9ymh1.png?width=640&crop=smart&auto=webp&s=e241b497d5e448ff3cd2e3aa1f43cf5d4a8c5829"
-      },
-      {
-        "rank": 4,
-        "title": "Self-driving Cybercabs spotted flooding some Austin streets, other cities, ahead of this September 3rd launch",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4fv84/selfdriving_cybercabs_spotted_flooding_some/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T15:49:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZmRqZ2E3eXloeG1oMdvrB2ms4afZ4WrP_CDFkfE5In5SeF1PB4scNEJjosSe.png?width=640&crop=smart&auto=webp&s=89a8a885555c25a365faa980f07756647ed15d05"
-      },
-      {
-        "rank": 5,
-        "title": "Fable 5.1 is out",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4jri0/fable_51_is_out/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T18:03:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/HfmidW0wtsfdf-czdd8nxTqOcBZxRDeuIVZQdstDB4g.png?width=640&crop=smart&auto=webp&s=b1f889a9216220165269e9073c4e45da4421f381"
       }
     ]
   }

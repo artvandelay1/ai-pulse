@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T13:51:43.056Z",
+  "fetchedAt": "2026-09-02T17:46:47.421Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,25 +16,15 @@
       },
       {
         "rank": 2,
-        "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
+        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-01T15:52:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iywwsh48kxmh1.png?width=140&height=50&auto=webp&s=d0bd35ce7bd7834bb1b97467da6c05a4b8c904ad"
-      },
-      {
-        "rank": 3,
-        "title": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-01T15:14:56.000Z",
+        "publishedAt": "2026-09-01T19:02:45.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "[D] Self-Promotion Thread",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
         "source": "r/MachineLearning",
@@ -43,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+        "rank": 4,
+        "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-01T19:02:45.000Z",
+        "publishedAt": "2026-09-02T16:49:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-02T14:40:29.000Z",
         "category": "reddit"
       },
       {
@@ -63,6 +62,16 @@
       },
       {
         "rank": 2,
+        "title": "GPT-5.6 Sol vs Claude Fable 5.1",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w5bxon/gpt56_sol_vs_claude_fable_51/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-02T14:27:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eTEyODMwdjRhNG5oMQUmp_qytMT2h-ed8h34hCYoZKOLwzY1fv66NuX8eQsX.png?width=640&crop=smart&auto=webp&s=41e9b3e633d8d80b233bb9f3d90e4f875ece7b45"
+      },
+      {
+        "rank": 3,
         "title": "Fable 5.1 released. Significant benchmark improvements, what do you think?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w4kgg6/fable_51_released_significant_benchmark/",
         "source": "r/OpenAI",
@@ -72,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/dxg7ny5vbymh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ecd43b39784fb6a7029b3fd7cd9acea15a269eb7"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Soon as in tomorrow (Astra)?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w4nwlk/soon_as_in_tomorrow_astra/",
         "source": "r/OpenAI",
@@ -81,23 +90,13 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Astra is about to drop 👀",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4th8t/astra_is_about_to_drop/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-01T23:28:02.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w4nrcr/openai_is_about_to_release_its_first_ai_model/",
+        "title": "Cried after failing my OpenAI interview",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w55dwr/cried_after_failing_my_openai_interview/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-01T20:09:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/AHpsdySs7yDLOlozKvqH1yUsYraG0yFFE5HKD6hIgZ4.jpeg?width=640&crop=smart&auto=webp&s=ee75bb0205b97ad8feaf3fc3eace978f2b824194"
+        "publishedAt": "2026-09-02T09:25:24.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -111,26 +110,6 @@
       },
       {
         "rank": 2,
-        "title": "What are these benchmarks 💀",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4k0yu/what_are_these_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T18:12:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l1ed9s7e9ymh1.png?width=640&crop=smart&auto=webp&s=e241b497d5e448ff3cd2e3aa1f43cf5d4a8c5829"
-      },
-      {
-        "rank": 3,
-        "title": "Fable 5.1 helped solve a 373 year old cipher",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4nxsb/fable_51_helped_solve_a_373_year_old_cipher/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-01T20:15:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uy1xbgacvymh1.jpeg?width=640&crop=smart&auto=webp&s=d551c731a44bfe1c3e28fe120e8fb334c6ce7c03"
-      },
-      {
-        "rank": 4,
         "title": "if true openai has made another o1-level breakthrough",
         "url": "https://www.reddit.com/r/singularity/comments/1w4w5g0/if_true_openai_has_made_another_o1level/",
         "source": "r/singularity",
@@ -140,14 +119,34 @@
         "thumbnail": "https://preview.redd.it/gxza3a3wd0nh1.png?width=140&height=131&auto=webp&s=b1e874a95e9db779a317a7accce0b968c24fc918"
       },
       {
-        "rank": 5,
-        "title": "Self-driving Cybercabs spotted flooding some Austin streets, other cities, ahead of this September 3rd launch",
-        "url": "https://www.reddit.com/r/singularity/comments/1w4fv84/selfdriving_cybercabs_spotted_flooding_some/",
+        "rank": 3,
+        "title": "What are these benchmarks 💀",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4k0yu/what_are_these_benchmarks/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-01T15:49:49.000Z",
+        "publishedAt": "2026-09-01T18:12:12.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZmRqZ2E3eXloeG1oMdvrB2ms4afZ4WrP_CDFkfE5In5SeF1PB4scNEJjosSe.png?width=640&crop=smart&auto=webp&s=89a8a885555c25a365faa980f07756647ed15d05"
+        "thumbnail": "https://preview.redd.it/l1ed9s7e9ymh1.png?width=640&crop=smart&auto=webp&s=e241b497d5e448ff3cd2e3aa1f43cf5d4a8c5829"
+      },
+      {
+        "rank": 4,
+        "title": "Fable 5.1 helped solve a 373 year old cipher",
+        "url": "https://www.reddit.com/r/singularity/comments/1w4nxsb/fable_51_helped_solve_a_373_year_old_cipher/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-01T20:15:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uy1xbgacvymh1.jpeg?width=640&crop=smart&auto=webp&s=d551c731a44bfe1c3e28fe120e8fb334c6ce7c03"
+      },
+      {
+        "rank": 5,
+        "title": "Gemini 3.8 Flash Benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-02T15:08:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3gx8kqsjh4nh1.jpeg?width=640&crop=smart&auto=webp&s=f1511276d97a85326977f43950e6bb9fc42a08eb"
       },
       {
         "rank": 1,

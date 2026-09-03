@@ -1,10 +1,60 @@
 {
-  "fetchedAt": "2026-09-03T11:36:43.799Z",
+  "fetchedAt": "2026-09-03T16:08:08.490Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "The vibe coders!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w61niq/the_vibe_coders/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T08:40:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nxesmwbap9nh1.jpeg?width=640&crop=smart&auto=webp&s=360c99721ca6f1ab95d0157de43baccfe5efc671"
+      },
+      {
+        "rank": 2,
+        "title": "Fable 5.1 made a Minecraft mod for $20",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5ftqe/fable_51_made_a_minecraft_mod_for_20/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-02T16:48:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YmhhMjFmOGN6NG5oMbeEZuIU96HK-kYPGoOc5gt0l6R9BJHpssRRZFKbhB7B.png?width=640&crop=smart&auto=webp&s=1f93e118cdbc0c60562254b81900417e5d26f15b"
+      },
+      {
+        "rank": 3,
+        "title": "We'll just keep a human in the loop",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w66kf1/well_just_keep_a_human_in_the_loop/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T12:53:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NmNydmZvajh5YW5oMW9WNXvtzlpfz0YOJRRZdNs8NOTJvTJjJAAVnV9EF2tW.png?width=640&crop=smart&auto=webp&s=97ddfcb82fb84ed8f59a289ecdca9f0a216aa466"
+      },
+      {
+        "rank": 4,
+        "title": "Differences Between Fable 5 and Fable 5.1 on MineBench",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5fh39/differences_between_fable_5_and_fable_51_on/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-02T16:35:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ex03ggp0u4nh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=9f3f6592d53f88b45139988900e9b395f76b0e6f"
+      },
+      {
+        "rank": 5,
+        "title": "Meta Releases Muse Spark 1.3, matching Fable 5 w/ .10 cents input .20 cents output per million tokens.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5mbo4/meta_releases_muse_spark_13_matching_fable_5_w_10/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-02T20:34:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xxvrn9fc36nh1.png?width=640&crop=smart&auto=webp&s=417632025997946a5e5c1a3ee8f151a7e4d6bd24"
+      },
       {
         "rank": 1,
         "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
@@ -25,31 +75,60 @@
       },
       {
         "rank": 3,
-        "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
+        "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-02T12:04:39.000Z",
+        "publishedAt": "2026-09-03T14:45:53.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "BREAKING: GPT-6-Astra is staged in OpenAI API",
+        "url": "https://www.reddit.com/r/codex/comments/1w5gjjx/breaking_gpt6astra_is_staged_in_openai_api/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-02T17:13:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3nra9dmo35nh1.png?width=320&crop=smart&auto=webp&s=cffc75f16c6773566a77845fe2639b3bc8450e0a"
+      },
+      {
+        "rank": 2,
+        "title": "Did you guys notice Astra nerfed already??",
+        "url": "https://www.reddit.com/r/codex/comments/1w5j2rj/did_you_guys_notice_astra_nerfed_already/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-02T18:41:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Is he implying there won't be a reset? Or is he implying there will be multiple..?",
+        "url": "https://www.reddit.com/r/codex/comments/1w65o1v/is_he_implying_there_wont_be_a_reset_or_is_he/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-03T12:14:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/u8iac4ubranh1.jpeg?width=640&crop=smart&auto=webp&s=12f8d02a60680bd2156b36a7e415b4bc413b6459"
       },
       {
         "rank": 4,
-        "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
-        "source": "r/MachineLearning",
+        "title": "When at 0%",
+        "url": "https://www.reddit.com/r/codex/comments/1w62qr1/when_at_0/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-02T14:40:29.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-03T09:44:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7dlx91vg0anh1.jpeg?width=320&crop=smart&auto=webp&s=8e8b7f47f1351c569ccd741e8c8797ee7bdf2e4c"
       },
       {
         "rank": 5,
-        "title": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w5cfv1/cabinet_icra_2021_vs_yolo26sem_on_uavid_accuracy/",
-        "source": "r/MachineLearning",
+        "title": "Codex down, Grok down, Gemini down, Claude down..The AIpocalypse has begun. What are your last words?",
+        "url": "https://www.reddit.com/r/codex/comments/1w6aav9/codex_down_grok_down_gemini_down_claude_downthe/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-02T14:46:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/FQ3T6ncHYexwW5ublOEgLmQGUk8B0Rf6KGGDZgHnZ48.png?width=140&height=75&auto=webp&s=da5c0e1c0952803dc0d0e1c0d281a889c5888e3f"
+        "publishedAt": "2026-09-03T15:16:40.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -149,104 +228,6 @@
         "publishedAt": "2026-09-02T21:19:16.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/p14ro5lob6nh1.jpeg?width=640&crop=smart&auto=webp&s=f72a028bf93b8f12176dce4dcf12913bc9690ce8"
-      },
-      {
-        "rank": 1,
-        "title": "Fable 5.1 Max gave me the most reasonable local setup guide",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w54tww/fable_51_max_gave_me_the_most_reasonable_local/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T08:53:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u1l8v68im2nh1.png?width=640&crop=smart&auto=webp&s=0ebd89adeff3798e97580a6b6f67af0eb1407545"
-      },
-      {
-        "rank": 2,
-        "title": "Fable 5.1 made a Minecraft mod for $20",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5ftqe/fable_51_made_a_minecraft_mod_for_20/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T16:48:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YmhhMjFmOGN6NG5oMbeEZuIU96HK-kYPGoOc5gt0l6R9BJHpssRRZFKbhB7B.png?width=640&crop=smart&auto=webp&s=1f93e118cdbc0c60562254b81900417e5d26f15b"
-      },
-      {
-        "rank": 3,
-        "title": "Well I almost got prompt injected",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w57t43/well_i_almost_got_prompt_injected/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T11:35:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z87l3rjlf3nh1.png?width=640&crop=smart&auto=webp&s=31f479cb22524deb59e8748385f83244e9e471de"
-      },
-      {
-        "rank": 4,
-        "title": "Differences Between Fable 5 and Fable 5.1 on MineBench",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5fh39/differences_between_fable_5_and_fable_51_on/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T16:35:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ex03ggp0u4nh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=9f3f6592d53f88b45139988900e9b395f76b0e6f"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic, we want Fable back into the pro plan!!!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w5c2xe/anthropic_we_want_fable_back_into_the_pro_plan/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T14:32:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Astra release incoming?",
-        "url": "https://www.reddit.com/r/codex/comments/1w529nd/astra_release_incoming/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-02T06:24:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k5hkrmn3w1nh1.jpeg?width=640&crop=smart&auto=webp&s=b5e40362891591699f7fb771191fe323f4ceb25d"
-      },
-      {
-        "rank": 2,
-        "title": "BREAKING: GPT-6-Astra is staged in OpenAI API",
-        "url": "https://www.reddit.com/r/codex/comments/1w5gjjx/breaking_gpt6astra_is_staged_in_openai_api/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-02T17:13:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3nra9dmo35nh1.png?width=320&crop=smart&auto=webp&s=cffc75f16c6773566a77845fe2639b3bc8450e0a"
-      },
-      {
-        "rank": 3,
-        "title": "Astra vs Sol token efficiency comparison...WOW",
-        "url": "https://www.reddit.com/r/codex/comments/1w54u75/astra_vs_sol_token_efficiency_comparisonwow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-02T08:53:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rh0idq5fm2nh1.png?width=320&crop=smart&auto=webp&s=5404bd5f171384d93f0e22b68138c77746e64cfe"
-      },
-      {
-        "rank": 4,
-        "title": "Did you guys notice Astra nerfed already??",
-        "url": "https://www.reddit.com/r/codex/comments/1w5j2rj/did_you_guys_notice_astra_nerfed_already/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-02T18:41:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Gpt 6 Astra coming tomorrow(Most likely)",
-        "url": "https://www.reddit.com/r/codex/comments/1w5h1vt/gpt_6_astra_coming_tomorrowmost_likely/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-02T17:30:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/krar9qso65nh1.jpeg?width=640&crop=smart&auto=webp&s=4f2419430fec680a0745d29c2e7b5595542dd6eb"
       }
     ]
   }

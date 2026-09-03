@@ -1,10 +1,118 @@
 {
-  "fetchedAt": "2026-09-03T16:08:08.490Z",
+  "fetchedAt": "2026-09-03T19:24:43.805Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-03T14:45:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "404 page: Anybody else seeing this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w69l03/404_page_anybody_else_seeing_this/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T14:50:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7csptoc0jbnh1.png?width=640&crop=smart&auto=webp&s=6d9b8149610809bf546b2d1ffd33705470327d6e"
+      },
+      {
+        "rank": 2,
+        "title": "Downfall begins?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w69tdm/downfall_begins/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T14:58:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l0b8t9gqkbnh1.jpeg?width=640&crop=smart&auto=webp&s=8da04e2394db4d3ffd5bf6301e9929efbb8646f4"
+      },
+      {
+        "rank": 3,
+        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6f10x/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T18:04:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
+      },
+      {
+        "rank": 4,
+        "title": "It's happening...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6cygu/its_happening/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T16:51:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/d2jws4ls4cnh1.png?width=640&crop=smart&auto=webp&s=ba76e92af3eaa81edee1db01f4691e8c21f5a6c7"
+      },
+      {
+        "rank": 5,
+        "title": "CHATGPT AND CODEX ARE DOWN!!! ASTRA INCOMING???",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w69iq2/chatgpt_and_codex_are_down_astra_incoming/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T14:47:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Who does a better job of explaining the future of generative AI: Ben Affleck or AI CEOs?",
+        "url": "https://www.reddit.com/r/singularity/comments/1w5q76e/who_does_a_better_job_of_explaining_the_future_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-02T23:02:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N2ZuaDR3ajZ1Nm5oMQJIXNeXtc1zWWkD7EGRRQisUXvAkBoKF7JCLeX_L_Ba.png?width=640&crop=smart&auto=webp&s=d076e8c84e7a94ebc903efe3d9c4fb0d66877b97"
+      },
+      {
+        "rank": 2,
+        "title": "Gpt 6 astra benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6f9xo/gpt_6_astra_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T18:13:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/moqytexcjcnh1.png?width=640&crop=smart&auto=webp&s=6b92f19588a57d25231bba95bbdf07d3a120dd17"
+      },
+      {
+        "rank": 3,
+        "title": "Muse Spark 1.3 Released",
+        "url": "https://www.reddit.com/r/singularity/comments/1w5knze/muse_spark_13_released/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-02T19:36:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kw5d39act5nh1.jpeg?width=640&crop=smart&auto=webp&s=6b455ed95b5085d231dee4e3db7c729d594133c3"
+      },
+      {
+        "rank": 4,
+        "title": "Astra leaked chat",
+        "url": "https://www.reddit.com/r/singularity/comments/1w5vzrc/astra_leaked_chat/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T03:26:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t44x0i8858nh1.png?width=640&crop=smart&auto=webp&s=3d8843eb1efd7b9784ed52e303f5586f568b8f3b"
+      },
+      {
+        "rank": 5,
+        "title": "Meta’s muse spark 1.3 surpassed fable 5 and GPT 5.6 sol 🫪",
+        "url": "https://www.reddit.com/r/singularity/comments/1w5nkbh/metas_muse_spark_13_surpassed_fable_5_and_gpt_56/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-02T21:19:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p14ro5lob6nh1.jpeg?width=640&crop=smart&auto=webp&s=f72a028bf93b8f12176dce4dcf12913bc9690ce8"
+      },
       {
         "rank": 1,
         "title": "The vibe coders!",
@@ -57,33 +165,6 @@
       },
       {
         "rank": 1,
-        "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-02T17:38:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-02T16:49:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-03T14:45:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "BREAKING: GPT-6-Astra is staged in OpenAI API",
         "url": "https://www.reddit.com/r/codex/comments/1w5gjjx/breaking_gpt6astra_is_staged_in_openai_api/",
         "source": "r/codex",
@@ -129,105 +210,6 @@
         "score": 0,
         "publishedAt": "2026-09-03T15:16:40.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-5.6 Sol vs Claude Fable 5.1",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w5bxon/gpt56_sol_vs_claude_fable_51/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T14:27:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eTEyODMwdjRhNG5oMQUmp_qytMT2h-ed8h34hCYoZKOLwzY1fv66NuX8eQsX.png?width=640&crop=smart&auto=webp&s=41e9b3e633d8d80b233bb9f3d90e4f875ece7b45"
-      },
-      {
-        "rank": 2,
-        "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w5jdun/trump_administration_sides_with_openai_in_new/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T18:51:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/X-fJW8U9R1tcRwH2u-xLbWTfgI2i8jxGFFEOXdZ9dKU.jpeg?width=640&crop=smart&auto=webp&s=fb7220be11a2f2be79a6d45a2901d678a400c995"
-      },
-      {
-        "rank": 3,
-        "title": "Codex deleted test cases that uncovered a bug to “Prioritize getting the test cases to pass”…",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w5lmx9/codex_deleted_test_cases_that_uncovered_a_bug_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T20:10:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/crphms3dz5nh1.jpeg?width=640&crop=smart&auto=webp&s=f4e3085676414a5d0356421adccc1e2d36eeaaa0"
-      },
-      {
-        "rank": 4,
-        "title": "Will openAI’s new Astra models incorporate text watermarking?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w5qo6i/will_openais_new_astra_models_incorporate_text/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T23:23:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Presumably what Ilya saw",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w5kc18/presumably_what_ilya_saw/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-02T19:24:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/a2FxdHgxNjlyNW5oMaKORK06h0ZwTsHBy9Lsb23pwcTnQL66VEP4Qyq-AmKi.jpeg?width=640&crop=smart&auto=webp&s=6cb7fb2068ccb87d77f070d0d9c5d9085e65efd5"
-      },
-      {
-        "rank": 1,
-        "title": "Who does a better job of explaining the future of generative AI: Ben Affleck or AI CEOs?",
-        "url": "https://www.reddit.com/r/singularity/comments/1w5q76e/who_does_a_better_job_of_explaining_the_future_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-02T23:02:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N2ZuaDR3ajZ1Nm5oMQJIXNeXtc1zWWkD7EGRRQisUXvAkBoKF7JCLeX_L_Ba.png?width=640&crop=smart&auto=webp&s=d076e8c84e7a94ebc903efe3d9c4fb0d66877b97"
-      },
-      {
-        "rank": 2,
-        "title": "Gemini 3.8 Flash Benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-02T15:08:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3gx8kqsjh4nh1.jpeg?width=640&crop=smart&auto=webp&s=f1511276d97a85326977f43950e6bb9fc42a08eb"
-      },
-      {
-        "rank": 3,
-        "title": "\"GPT-6-ASTRA\" has been staged on the OpenAI API",
-        "url": "https://www.reddit.com/r/singularity/comments/1w5f55h/gpt6astra_has_been_staged_on_the_openai_api/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-02T16:24:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qa0i0dfyu4nh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=66ff88c6c7544d39536ffdaf126e6f453d69dc8c"
-      },
-      {
-        "rank": 4,
-        "title": "Muse Spark 1.3 Released",
-        "url": "https://www.reddit.com/r/singularity/comments/1w5knze/muse_spark_13_released/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-02T19:36:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kw5d39act5nh1.jpeg?width=640&crop=smart&auto=webp&s=6b455ed95b5085d231dee4e3db7c729d594133c3"
-      },
-      {
-        "rank": 5,
-        "title": "Meta’s muse spark 1.3 surpassed fable 5 and GPT 5.6 sol 🫪",
-        "url": "https://www.reddit.com/r/singularity/comments/1w5nkbh/metas_muse_spark_13_surpassed_fable_5_and_gpt_56/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-02T21:19:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p14ro5lob6nh1.jpeg?width=640&crop=smart&auto=webp&s=f72a028bf93b8f12176dce4dcf12913bc9690ce8"
       }
     ]
   }

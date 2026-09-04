@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-09-04T03:49:13.463Z",
+  "fetchedAt": "2026-09-04T08:43:43.179Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "GPT-6 is released [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-04T05:13:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dgumcg67ggnh1.png?width=140&height=120&auto=webp&s=4fb36fe9d4df7f081cc088891acd34bc987f7dde"
+      },
+      {
+        "rank": 2,
+        "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-03T14:45:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-03T19:09:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-03T21:12:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-03T19:56:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 Astra | OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6hf6g/gpt6_astra_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T19:27:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/uDBzGOLH1c7z7Kqq54MVY5g_ii5R4T7LPwQEnmQQOOc.png?width=640&crop=smart&auto=webp&s=de80aa0dcae54c6ae713a6c5285fd1d57da1025b"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6-Astra's tax return underpays the government",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6jp0n/gpt6astras_tax_return_underpays_the_government/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T20:48:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/szm3j3v4bdnh1.png?width=640&crop=smart&auto=webp&s=bebbccefc4efc97d388dd1eb71e611f68efb283b"
+      },
+      {
+        "rank": 3,
+        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6f10x/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T18:04:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
+      },
+      {
+        "rank": 4,
+        "title": "Nice",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6nmrf/nice/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T23:23:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5d96bdan2enh1.png?width=640&crop=smart&auto=webp&s=78b02a64003ed64b416466f8c963dccceff8adfc"
+      },
+      {
+        "rank": 5,
+        "title": "Downfall begins?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w69tdm/downfall_begins/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-03T14:58:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l0b8t9gqkbnh1.jpeg?width=640&crop=smart&auto=webp&s=8da04e2394db4d3ffd5bf6301e9929efbb8646f4"
+      },
+      {
+        "rank": 1,
+        "title": "Gpt 6 astra benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6f9xo/gpt_6_astra_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T18:13:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/moqytexcjcnh1.png?width=640&crop=smart&auto=webp&s=6b92f19588a57d25231bba95bbdf07d3a120dd17"
+      },
+      {
+        "rank": 2,
+        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6f0jp/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T18:04:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Astra is actually nuts for electrical engineering",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6m7hr/gpt6_astra_is_actually_nuts_for_electrical/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T22:24:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wieea9o6sdnh1.png?width=640&crop=smart&auto=webp&s=2bbd5848696478ea3634e16bd13efe59f8bfc1c9"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-6 Astra Launch Video",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6gjmb/gpt6_astra_launch_video/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T18:57:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/anVuMzIyZzJyY25oMW-FcvUM6mN1ETe13mG0rC3vMFEDWPMrDNOdEgLG2LF8.png?width=640&crop=smart&auto=webp&s=e0195a13ec90d126b1fa8e5a655ed2b1ebee80b8"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Fable 5.1 surpasses human average on SimpleBench",
+        "url": "https://www.reddit.com/r/singularity/comments/1w68wt3/claude_fable_51_surpasses_human_average_on/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T14:24:52.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "The vibe coders!",
@@ -56,42 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-03T14:45:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-03T19:56:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-03T21:12:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-03T19:09:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Tibo has finally spoken",
         "url": "https://www.reddit.com/r/codex/comments/1w6hr0l/tibo_has_finally_spoken/",
         "source": "r/codex",
@@ -138,105 +247,6 @@
         "publishedAt": "2026-09-03T12:14:05.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/u8iac4ubranh1.jpeg?width=640&crop=smart&auto=webp&s=12f8d02a60680bd2156b36a7e415b4bc413b6459"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 Astra | OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6hf6g/gpt6_astra_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T19:27:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/uDBzGOLH1c7z7Kqq54MVY5g_ii5R4T7LPwQEnmQQOOc.png?width=640&crop=smart&auto=webp&s=de80aa0dcae54c6ae713a6c5285fd1d57da1025b"
-      },
-      {
-        "rank": 2,
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6f10x/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:04:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
-      },
-      {
-        "rank": 3,
-        "title": "Downfall begins?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w69tdm/downfall_begins/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T14:58:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l0b8t9gqkbnh1.jpeg?width=640&crop=smart&auto=webp&s=8da04e2394db4d3ffd5bf6301e9929efbb8646f4"
-      },
-      {
-        "rank": 4,
-        "title": "404 page: Anybody else seeing this?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w69l03/404_page_anybody_else_seeing_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T14:50:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7csptoc0jbnh1.png?width=640&crop=smart&auto=webp&s=6d9b8149610809bf546b2d1ffd33705470327d6e"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-6-Astra's tax return underpays the government",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6jp0n/gpt6astras_tax_return_underpays_the_government/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T20:48:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/szm3j3v4bdnh1.png?width=640&crop=smart&auto=webp&s=bebbccefc4efc97d388dd1eb71e611f68efb283b"
-      },
-      {
-        "rank": 1,
-        "title": "Gpt 6 astra benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6f9xo/gpt_6_astra_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:13:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/moqytexcjcnh1.png?width=640&crop=smart&auto=webp&s=6b92f19588a57d25231bba95bbdf07d3a120dd17"
-      },
-      {
-        "rank": 2,
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6f0jp/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:04:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
-      },
-      {
-        "rank": 3,
-        "title": "Astra leaked chat",
-        "url": "https://www.reddit.com/r/singularity/comments/1w5vzrc/astra_leaked_chat/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T03:26:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t44x0i8858nh1.png?width=640&crop=smart&auto=webp&s=3d8843eb1efd7b9784ed52e303f5586f568b8f3b"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-6 Astra Launch Video",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6gjmb/gpt6_astra_launch_video/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:57:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/anVuMzIyZzJyY25oMW-FcvUM6mN1ETe13mG0rC3vMFEDWPMrDNOdEgLG2LF8.png?width=640&crop=smart&auto=webp&s=e0195a13ec90d126b1fa8e5a655ed2b1ebee80b8"
-      },
-      {
-        "rank": 5,
-        "title": "Claude Fable 5.1 surpasses human average on SimpleBench",
-        "url": "https://www.reddit.com/r/singularity/comments/1w68wt3/claude_fable_51_surpasses_human_average_on/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T14:24:52.000Z",
-        "category": "reddit"
       }
     ]
   }

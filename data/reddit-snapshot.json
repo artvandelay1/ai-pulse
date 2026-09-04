@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T13:20:42.393Z",
+  "fetchedAt": "2026-09-04T17:00:48.451Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-03T14:45:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
         "source": "r/MachineLearning",
@@ -34,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
         "source": "r/MachineLearning",
@@ -43,12 +34,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-03T19:56:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How many repeated LLM queries are enough? Testing a pilot-based reliability protocol [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6wtw7/how_many_repeated_llm_queries_are_enough_testing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-04T06:53:00.000Z",
         "category": "reddit"
       },
       {
@@ -93,13 +93,13 @@
       },
       {
         "rank": 5,
-        "title": "Downfall begins?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w69tdm/downfall_begins/",
+        "title": "We are either getting Astra ASAP or we are getting unlimited GPT.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6qwdh/we_are_either_getting_astra_asap_or_we_are/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-03T14:58:56.000Z",
+        "publishedAt": "2026-09-04T01:50:24.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l0b8t9gqkbnh1.jpeg?width=640&crop=smart&auto=webp&s=8da04e2394db4d3ffd5bf6301e9929efbb8646f4"
+        "thumbnail": "https://preview.redd.it/0sfth7jvsenh1.png?width=320&crop=smart&auto=webp&s=8e4c98913825e9e1f67ed7ff80d34c4b1f6d265e"
       },
       {
         "rank": 1,
@@ -143,13 +143,13 @@
       },
       {
         "rank": 5,
-        "title": "Not only does Astra saturate ARC-AGI-3, it does so using fewer moves than the average human",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6icmp/not_only_does_astra_saturate_arcagi3_it_does_so/",
+        "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6rilg/gpt6_astra_recreated_the_palace_of_fine_arts_in/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-03T20:00:19.000Z",
+        "publishedAt": "2026-09-04T02:19:01.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/QEQpzUq2DoAfWBUPZ9biVHdni1NGt3Nb79KBIgMiB20.png?width=640&crop=smart&auto=webp&s=c888300411e096e2b2e8849022fc0a530fb358d8"
+        "thumbnail": "https://preview.redd.it/jqqxpbtwxenh1.jpg?width=140&height=133&auto=webp&s=0f3f8447637c577b0aad9433be5127cc74de1797"
       },
       {
         "rank": 1,

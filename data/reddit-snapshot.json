@@ -1,10 +1,147 @@
 {
-  "fetchedAt": "2026-09-04T21:44:10.358Z",
+  "fetchedAt": "2026-09-04T23:51:49.915Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "GPT-6 is released [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-04T05:13:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dgumcg67ggnh1.png?width=140&height=120&auto=webp&s=4fb36fe9d4df7f081cc088891acd34bc987f7dde"
+      },
+      {
+        "rank": 2,
+        "title": "What is the general design of these new math solving systems? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-04T20:55:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How many repeated LLM queries are enough? Testing a pilot-based reliability protocol [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6wtw7/how_many_repeated_llm_queries_are_enough_testing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-04T06:53:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-04T20:02:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "We are either getting Astra ASAP or we are getting unlimited GPT.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6qwdh/we_are_either_getting_astra_asap_or_we_are/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T01:50:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0sfth7jvsenh1.png?width=320&crop=smart&auto=webp&s=8e4c98913825e9e1f67ed7ff80d34c4b1f6d265e"
+      },
+      {
+        "rank": 2,
+        "title": "\"Welcome to the AGI era\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6zoag/welcome_to_the_agi_era/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T09:39:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7df9do1c4hnh1.png?width=640&crop=smart&auto=webp&s=2d416c39f00e012900d2a4d010ba40cca88eaf41"
+      },
+      {
+        "rank": 3,
+        "title": "Pro user here. Astra just landed.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w7dkic/pro_user_here_astra_just_landed/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T19:03:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fpc5dudcxjnh1.jpeg?width=640&crop=smart&auto=webp&s=b466d4fecf2a6c68cc350d2352906d9e2f019ccc"
+      },
+      {
+        "rank": 4,
+        "title": "My first \"holy shit\" moment with GPT-6 Astra: I asked it to create a world in Unreal Engine, and fill it with humans (each an Astra-powered agent) who all have to work together to survive.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w7dh1u/my_first_holy_shit_moment_with_gpt6_astra_i_asked/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T19:00:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bG5waDRnYXB3am5oMcCO-PpNfhHy_jtgjZq0UiHwl7EwKP3OpiF5UtciebnO.png?width=640&crop=smart&auto=webp&s=cf2ff075782a7a0b93d28892eb2d2ec55ce69be6"
+      },
+      {
+        "rank": 5,
+        "title": "Discovery of a new OpenAI agent message board",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w741me/discovery_of_a_new_openai_agent_message_board/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T13:12:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nb3phJRhLf83SKA4wDO3lqLf4mmJ5DMjsmmO528OLKA.png?width=640&crop=smart&auto=webp&s=abdf22a7a2e15520df9a78facb89c8f6aa38bfba"
+      },
+      {
+        "rank": 1,
+        "title": "A new message board has been discovered online with about 3200 agents comunicating online during an eval",
+        "url": "https://www.reddit.com/r/singularity/comments/1w73pw2/a_new_message_board_has_been_discovered_online/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T12:59:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oev4b3eb4inh1.jpeg?width=640&crop=smart&auto=webp&s=b1c2772929163deebc57e8e0b640711aafe1fed0"
+      },
+      {
+        "rank": 2,
+        "title": "Jared Duker Lichtman is a professor of mathematics at Stanford.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w754l2/jared_duker_lichtman_is_a_professor_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T13:56:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ud5lj4odeinh1.jpeg?width=640&crop=smart&auto=webp&s=1a9daf59f1a8ed9ebcd2ef3a1a7b3da93aa58195"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6rilg/gpt6_astra_recreated_the_palace_of_fine_arts_in/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T02:19:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jqqxpbtwxenh1.jpg?width=140&height=133&auto=webp&s=0f3f8447637c577b0aad9433be5127cc74de1797"
+      },
+      {
+        "rank": 4,
+        "title": "Astra finally achieves AGI",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6zvci/astra_finally_achieves_agi/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T09:50:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mf9ii6vl6hnh1.png?width=640&crop=smart&auto=webp&s=96ff14d7ea692d21f8abe5cee2c27ea0fa847387"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6-Astra-Max : SVG of a PlayStation 4 controller!",
+        "url": "https://www.reddit.com/r/singularity/comments/1w7gj1i/gpt6astramax_svg_of_a_playstation_4_controller/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T20:52:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yua0so5dgknh1.png?width=640&crop=smart&auto=webp&s=312903dd38ab3e18ab5f853b04c22c469f1916cc"
+      },
       {
         "rank": 1,
         "title": "Fable 5.1 one shotted this",
@@ -56,43 +193,6 @@
       },
       {
         "rank": 1,
-        "title": "GPT-6 is released [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-04T05:13:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dgumcg67ggnh1.png?width=140&height=120&auto=webp&s=4fb36fe9d4df7f081cc088891acd34bc987f7dde"
-      },
-      {
-        "rank": 2,
-        "title": "What is the general design of these new math solving systems? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-04T20:55:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How many repeated LLM queries are enough? Testing a pilot-based reliability protocol [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6wtw7/how_many_repeated_llm_queries_are_enough_testing/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-04T06:53:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-04T20:02:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Confirmed Bank Reset!",
         "url": "https://www.reddit.com/r/codex/comments/1w6nf7d/confirmed_bank_reset/",
         "source": "r/codex",
@@ -140,106 +240,6 @@
         "publishedAt": "2026-09-04T07:15:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/r1pbgr1uegnh1.png?width=640&crop=smart&auto=webp&s=13765e9720a335e6d0f63dd0dff7b40f33f1a64c"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 Astra | OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6hf6g/gpt6_astra_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T19:27:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/uDBzGOLH1c7z7Kqq54MVY5g_ii5R4T7LPwQEnmQQOOc.png?width=640&crop=smart&auto=webp&s=de80aa0dcae54c6ae713a6c5285fd1d57da1025b"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6-Astra's tax return underpays the government",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6jp0n/gpt6astras_tax_return_underpays_the_government/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T20:48:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/szm3j3v4bdnh1.png?width=640&crop=smart&auto=webp&s=bebbccefc4efc97d388dd1eb71e611f68efb283b"
-      },
-      {
-        "rank": 3,
-        "title": "Nice",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6nmrf/nice/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T23:23:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5d96bdan2enh1.png?width=640&crop=smart&auto=webp&s=78b02a64003ed64b416466f8c963dccceff8adfc"
-      },
-      {
-        "rank": 4,
-        "title": "We are either getting Astra ASAP or we are getting unlimited GPT.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6qwdh/we_are_either_getting_astra_asap_or_we_are/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T01:50:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0sfth7jvsenh1.png?width=320&crop=smart&auto=webp&s=8e4c98913825e9e1f67ed7ff80d34c4b1f6d265e"
-      },
-      {
-        "rank": 5,
-        "title": "\"Welcome to the AGI era\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6zoag/welcome_to_the_agi_era/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T09:39:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7df9do1c4hnh1.png?width=640&crop=smart&auto=webp&s=2d416c39f00e012900d2a4d010ba40cca88eaf41"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 Astra is actually nuts for electrical engineering",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6m7hr/gpt6_astra_is_actually_nuts_for_electrical/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T22:24:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wieea9o6sdnh1.png?width=640&crop=smart&auto=webp&s=2bbd5848696478ea3634e16bd13efe59f8bfc1c9"
-      },
-      {
-        "rank": 2,
-        "title": "A new message board has been discovered online with about 3200 agents comunicating online during an eval",
-        "url": "https://www.reddit.com/r/singularity/comments/1w73pw2/a_new_message_board_has_been_discovered_online/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-04T12:59:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oev4b3eb4inh1.jpeg?width=640&crop=smart&auto=webp&s=b1c2772929163deebc57e8e0b640711aafe1fed0"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6rilg/gpt6_astra_recreated_the_palace_of_fine_arts_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-04T02:19:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jqqxpbtwxenh1.jpg?width=140&height=133&auto=webp&s=0f3f8447637c577b0aad9433be5127cc74de1797"
-      },
-      {
-        "rank": 4,
-        "title": "Not only does Astra saturate ARC-AGI-3, it does so using fewer moves than the average human",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6icmp/not_only_does_astra_saturate_arcagi3_it_does_so/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T20:00:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/QEQpzUq2DoAfWBUPZ9biVHdni1NGt3Nb79KBIgMiB20.png?width=640&crop=smart&auto=webp&s=c888300411e096e2b2e8849022fc0a530fb358d8"
-      },
-      {
-        "rank": 5,
-        "title": "Astra finally achieves AGI",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6zvci/astra_finally_achieves_agi/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-04T09:50:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mf9ii6vl6hnh1.png?width=640&crop=smart&auto=webp&s=96ff14d7ea692d21f8abe5cee2c27ea0fa847387"
       }
     ]
   }

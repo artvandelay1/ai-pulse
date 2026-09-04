@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T08:43:43.179Z",
+  "fetchedAt": "2026-09-04T13:20:42.393Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -113,16 +113,6 @@
       },
       {
         "rank": 2,
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6f0jp/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:04:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
-      },
-      {
-        "rank": 3,
         "title": "GPT-6 Astra is actually nuts for electrical engineering",
         "url": "https://www.reddit.com/r/singularity/comments/1w6m7hr/gpt6_astra_is_actually_nuts_for_electrical/",
         "source": "r/singularity",
@@ -130,6 +120,16 @@
         "publishedAt": "2026-09-03T22:24:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wieea9o6sdnh1.png?width=640&crop=smart&auto=webp&s=2bbd5848696478ea3634e16bd13efe59f8bfc1c9"
+      },
+      {
+        "rank": 3,
+        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6f0jp/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T18:04:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
       },
       {
         "rank": 4,
@@ -143,12 +143,13 @@
       },
       {
         "rank": 5,
-        "title": "Claude Fable 5.1 surpasses human average on SimpleBench",
-        "url": "https://www.reddit.com/r/singularity/comments/1w68wt3/claude_fable_51_surpasses_human_average_on/",
+        "title": "Not only does Astra saturate ARC-AGI-3, it does so using fewer moves than the average human",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6icmp/not_only_does_astra_saturate_arcagi3_it_does_so/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-03T14:24:52.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-03T20:00:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/QEQpzUq2DoAfWBUPZ9biVHdni1NGt3Nb79KBIgMiB20.png?width=640&crop=smart&auto=webp&s=c888300411e096e2b2e8849022fc0a530fb358d8"
       },
       {
         "rank": 1,

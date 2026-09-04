@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T17:00:48.451Z",
+  "fetchedAt": "2026-09-04T19:27:46.307Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-03T19:09:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
         "source": "r/MachineLearning",
@@ -34,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Mol-JEPA - Multimodal molecular foundation model [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w6i8pr/moljepa_multimodal_molecular_foundation_model_r/",
         "source": "r/MachineLearning",
@@ -43,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "How many repeated LLM queries are enough? Testing a pilot-based reliability protocol [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w6wtw7/how_many_repeated_llm_queries_are_enough_testing/",
         "source": "r/MachineLearning",
@@ -73,16 +64,6 @@
       },
       {
         "rank": 3,
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6f10x/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:04:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
-      },
-      {
-        "rank": 4,
         "title": "Nice",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w6nmrf/nice/",
         "source": "r/OpenAI",
@@ -92,7 +73,7 @@
         "thumbnail": "https://preview.redd.it/5d96bdan2enh1.png?width=640&crop=smart&auto=webp&s=78b02a64003ed64b416466f8c963dccceff8adfc"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "We are either getting Astra ASAP or we are getting unlimited GPT.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w6qwdh/we_are_either_getting_astra_asap_or_we_are/",
         "source": "r/OpenAI",
@@ -102,17 +83,17 @@
         "thumbnail": "https://preview.redd.it/0sfth7jvsenh1.png?width=320&crop=smart&auto=webp&s=8e4c98913825e9e1f67ed7ff80d34c4b1f6d265e"
       },
       {
-        "rank": 1,
-        "title": "Gpt 6 astra benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6f9xo/gpt_6_astra_benchmarks/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "\"Welcome to the AGI era\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w6zoag/welcome_to_the_agi_era/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-03T18:13:16.000Z",
+        "publishedAt": "2026-09-04T09:39:11.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/moqytexcjcnh1.png?width=640&crop=smart&auto=webp&s=6b92f19588a57d25231bba95bbdf07d3a120dd17"
+        "thumbnail": "https://preview.redd.it/7df9do1c4hnh1.png?width=640&crop=smart&auto=webp&s=2d416c39f00e012900d2a4d010ba40cca88eaf41"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "GPT-6 Astra is actually nuts for electrical engineering",
         "url": "https://www.reddit.com/r/singularity/comments/1w6m7hr/gpt6_astra_is_actually_nuts_for_electrical/",
         "source": "r/singularity",
@@ -122,27 +103,17 @@
         "thumbnail": "https://preview.redd.it/wieea9o6sdnh1.png?width=640&crop=smart&auto=webp&s=2bbd5848696478ea3634e16bd13efe59f8bfc1c9"
       },
       {
+        "rank": 2,
+        "title": "A new message board has been discovered online with about 3200 agents comunicating online during an eval",
+        "url": "https://www.reddit.com/r/singularity/comments/1w73pw2/a_new_message_board_has_been_discovered_online/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T12:59:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oev4b3eb4inh1.jpeg?width=640&crop=smart&auto=webp&s=b1c2772929163deebc57e8e0b640711aafe1fed0"
+      },
+      {
         "rank": 3,
-        "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6f0jp/welcome_to_the_agi_era_openai_says_as_gpt6_astra/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:04:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O9XQ9PzAroYBVhMHnzcbcwbdlOZY6OOcYGIzVUCV9fQ.jpeg?width=640&crop=smart&auto=webp&s=1b085eaa2372a6c70f554b3a0d85dffa6989dd9a"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-6 Astra Launch Video",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6gjmb/gpt6_astra_launch_video/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-03T18:57:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/anVuMzIyZzJyY25oMW-FcvUM6mN1ETe13mG0rC3vMFEDWPMrDNOdEgLG2LF8.png?width=640&crop=smart&auto=webp&s=e0195a13ec90d126b1fa8e5a655ed2b1ebee80b8"
-      },
-      {
-        "rank": 5,
         "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender.",
         "url": "https://www.reddit.com/r/singularity/comments/1w6rilg/gpt6_astra_recreated_the_palace_of_fine_arts_in/",
         "source": "r/singularity",
@@ -150,6 +121,26 @@
         "publishedAt": "2026-09-04T02:19:01.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jqqxpbtwxenh1.jpg?width=140&height=133&auto=webp&s=0f3f8447637c577b0aad9433be5127cc74de1797"
+      },
+      {
+        "rank": 4,
+        "title": "Not only does Astra saturate ARC-AGI-3, it does so using fewer moves than the average human",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6icmp/not_only_does_astra_saturate_arcagi3_it_does_so/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-03T20:00:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/QEQpzUq2DoAfWBUPZ9biVHdni1NGt3Nb79KBIgMiB20.png?width=640&crop=smart&auto=webp&s=c888300411e096e2b2e8849022fc0a530fb358d8"
+      },
+      {
+        "rank": 5,
+        "title": "Astra finally achieves AGI",
+        "url": "https://www.reddit.com/r/singularity/comments/1w6zvci/astra_finally_achieves_agi/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T09:50:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mf9ii6vl6hnh1.png?width=640&crop=smart&auto=webp&s=96ff14d7ea692d21f8abe5cee2c27ea0fa847387"
       },
       {
         "rank": 1,

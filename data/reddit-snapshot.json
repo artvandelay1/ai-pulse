@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-04T23:51:49.915Z",
+  "fetchedAt": "2026-09-05T03:45:41.818Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -44,13 +44,13 @@
       },
       {
         "rank": 1,
-        "title": "We are either getting Astra ASAP or we are getting unlimited GPT.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w6qwdh/we_are_either_getting_astra_asap_or_we_are/",
+        "title": "Pro user here. Astra just landed.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w7dkic/pro_user_here_astra_just_landed/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-04T01:50:24.000Z",
+        "publishedAt": "2026-09-04T19:03:49.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0sfth7jvsenh1.png?width=320&crop=smart&auto=webp&s=8e4c98913825e9e1f67ed7ff80d34c4b1f6d265e"
+        "thumbnail": "https://preview.redd.it/fpc5dudcxjnh1.jpeg?width=640&crop=smart&auto=webp&s=b466d4fecf2a6c68cc350d2352906d9e2f019ccc"
       },
       {
         "rank": 2,
@@ -64,16 +64,6 @@
       },
       {
         "rank": 3,
-        "title": "Pro user here. Astra just landed.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w7dkic/pro_user_here_astra_just_landed/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T19:03:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fpc5dudcxjnh1.jpeg?width=640&crop=smart&auto=webp&s=b466d4fecf2a6c68cc350d2352906d9e2f019ccc"
-      },
-      {
-        "rank": 4,
         "title": "My first \"holy shit\" moment with GPT-6 Astra: I asked it to create a world in Unreal Engine, and fill it with humans (each an Astra-powered agent) who all have to work together to survive.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w7dh1u/my_first_holy_shit_moment_with_gpt6_astra_i_asked/",
         "source": "r/OpenAI",
@@ -83,7 +73,7 @@
         "thumbnail": "https://external-preview.redd.it/bG5waDRnYXB3am5oMcCO-PpNfhHy_jtgjZq0UiHwl7EwKP3OpiF5UtciebnO.png?width=640&crop=smart&auto=webp&s=cf2ff075782a7a0b93d28892eb2d2ec55ce69be6"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Discovery of a new OpenAI agent message board",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w741me/discovery_of_a_new_openai_agent_message_board/",
         "source": "r/OpenAI",
@@ -91,6 +81,16 @@
         "publishedAt": "2026-09-04T13:12:36.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/nb3phJRhLf83SKA4wDO3lqLf4mmJ5DMjsmmO528OLKA.png?width=640&crop=smart&auto=webp&s=abdf22a7a2e15520df9a78facb89c8f6aa38bfba"
+      },
+      {
+        "rank": 5,
+        "title": "Nobody is Talking About GPT 6 Astras Massive Hallucination Improvements",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w7eqlq/nobody_is_talking_about_gpt_6_astras_massive/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T19:46:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0d1zadbo4knh1.png?width=140&height=55&auto=webp&s=6aa7727d64e1132e18aa1b25eba129bd3179b8f4"
       },
       {
         "rank": 1,
@@ -104,6 +104,16 @@
       },
       {
         "rank": 2,
+        "title": "GPT-6-Astra-Max : SVG of a PlayStation 4 controller!",
+        "url": "https://www.reddit.com/r/singularity/comments/1w7gj1i/gpt6astramax_svg_of_a_playstation_4_controller/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-04T20:52:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yua0so5dgknh1.png?width=640&crop=smart&auto=webp&s=312903dd38ab3e18ab5f853b04c22c469f1916cc"
+      },
+      {
+        "rank": 3,
         "title": "Jared Duker Lichtman is a professor of mathematics at Stanford.",
         "url": "https://www.reddit.com/r/singularity/comments/1w754l2/jared_duker_lichtman_is_a_professor_of/",
         "source": "r/singularity",
@@ -111,16 +121,6 @@
         "publishedAt": "2026-09-04T13:56:23.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ud5lj4odeinh1.jpeg?width=640&crop=smart&auto=webp&s=1a9daf59f1a8ed9ebcd2ef3a1a7b3da93aa58195"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w6rilg/gpt6_astra_recreated_the_palace_of_fine_arts_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-04T02:19:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jqqxpbtwxenh1.jpg?width=140&height=133&auto=webp&s=0f3f8447637c577b0aad9433be5127cc74de1797"
       },
       {
         "rank": 4,
@@ -134,13 +134,13 @@
       },
       {
         "rank": 5,
-        "title": "GPT-6-Astra-Max : SVG of a PlayStation 4 controller!",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7gj1i/gpt6astramax_svg_of_a_playstation_4_controller/",
+        "title": "GPT-6 Astra gets 3% on the FrontierMath Erdős Benchmark, while every other Model(that was tested) got 0%",
+        "url": "https://www.reddit.com/r/singularity/comments/1w79wvx/gpt6_astra_gets_3_on_the_frontiermath_erdős/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-04T20:52:09.000Z",
+        "publishedAt": "2026-09-04T16:52:59.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yua0so5dgknh1.png?width=640&crop=smart&auto=webp&s=312903dd38ab3e18ab5f853b04c22c469f1916cc"
+        "thumbnail": "https://preview.redd.it/dhi42fp49jnh1.png?width=140&height=126&auto=webp&s=55e04d5520ee2696b75847997fe8484caabf4239"
       },
       {
         "rank": 1,

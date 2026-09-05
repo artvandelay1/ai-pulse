@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T03:45:41.818Z",
+  "fetchedAt": "2026-09-05T08:14:11.094Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,55 @@
     "items": [
       {
         "rank": 1,
-        "title": "GPT-6 is released [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
-        "source": "r/MachineLearning",
+        "title": "Fable 5.1 one shotted this",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7bh9p/fable_51_one_shotted_this/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-04T05:13:42.000Z",
+        "publishedAt": "2026-09-04T17:49:08.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dgumcg67ggnh1.png?width=140&height=120&auto=webp&s=4fb36fe9d4df7f081cc088891acd34bc987f7dde"
+        "thumbnail": "https://external-preview.redd.it/dG41bXljbXNqam5oMQMLImnNCAf4al0ADJlyhDnxlUhkIpTTQL7WXRZZpEbf.png?width=640&crop=smart&auto=webp&s=5fd6341f59d478ed2295626fade532dc4e9dea75"
       },
       {
         "rank": 2,
+        "title": "We got a limits reset.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7ffob/we_got_a_limits_reset/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T20:11:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Did I get hacked???",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w6z9qy/did_i_get_hacked/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T09:15:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/90wfc7de0hnh1.jpeg?width=640&crop=smart&auto=webp&s=9a1ad5f94ba2ab37f63b5939e924458672cbcdde"
+      },
+      {
+        "rank": 4,
+        "title": "Claude got usage limit reset",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7hr8x/claude_got_usage_limit_reset/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T21:39:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gaqf3rdxoknh1.png?width=140&height=50&auto=webp&s=4f6e7eaf5f79997b742cfea2ed5f40f3aaf291f4"
+      },
+      {
+        "rank": 5,
+        "title": "Claude will deliver your data in any way you want it.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7agvf/claude_will_deliver_your_data_in_any_way_you_want/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-04T17:12:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/twomkzfddjnh1.png?width=140&height=90&auto=webp&s=1583a42f1fe5c85ce166c9efc39d6f167fd404e2"
+      },
+      {
+        "rank": 1,
         "title": "What is the general design of these new math solving systems? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
         "source": "r/MachineLearning",
@@ -25,22 +64,89 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "How many repeated LLM queries are enough? Testing a pilot-based reliability protocol [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w6wtw7/how_many_repeated_llm_queries_are_enough_testing/",
+        "rank": 2,
+        "title": "NeurIPS 2026 Automatic Reference Checker [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-04T06:53:00.000Z",
+        "publishedAt": "2026-09-05T06:14:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Language Models Can Control Their Own Attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T06:07:09.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
+        "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7scxc/implementing_embedding_gemma_from_scratch_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T06:01:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2eCUkvW_p323pOzbzyjRi8YM4-bHeIfhFQpZVpGCnJY.jpeg?width=320&crop=smart&auto=webp&s=bc93db0c8d1dedec5954d3a0207f9c9df8ae00a7"
+      },
+      {
+        "rank": 5,
         "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-04T20:02:03.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo gave astra a new unit of measurement.",
+        "url": "https://www.reddit.com/r/codex/comments/1w78cv3/tibo_gave_astra_a_new_unit_of_measurement/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-04T15:57:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dw8tbse50jnh1.jpeg?width=640&crop=smart&auto=webp&s=2ffe778fe35d0b81904725352716c23e13e2ca52"
+      },
+      {
+        "rank": 2,
+        "title": "Got Astra in codex",
+        "url": "https://www.reddit.com/r/codex/comments/1w7d8r0/got_astra_in_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-04T18:52:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uvlt6966vjnh1.png?width=140&height=82&auto=webp&s=84639bc7a55b2bb1dcefc07e2dfa8fe87926a8fc"
+      },
+      {
+        "rank": 3,
+        "title": "Astra is absolutely incredible.",
+        "url": "https://www.reddit.com/r/codex/comments/1w7on0j/astra_is_absolutely_incredible/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-05T02:49:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Astra feels genuinely next level wtf",
+        "url": "https://www.reddit.com/r/codex/comments/1w7eedj/astra_feels_genuinely_next_level_wtf/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-04T19:34:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Astra dropped for me!",
+        "url": "https://www.reddit.com/r/codex/comments/1w7d3xe/astra_dropped_for_me/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-04T18:47:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nemxw1maujnh1.png?width=320&crop=smart&auto=webp&s=689883556872d49bef51b1a310e4a38d52c77a36"
       },
       {
         "rank": 1,
@@ -141,105 +247,6 @@
         "publishedAt": "2026-09-04T16:52:59.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dhi42fp49jnh1.png?width=140&height=126&auto=webp&s=55e04d5520ee2696b75847997fe8484caabf4239"
-      },
-      {
-        "rank": 1,
-        "title": "Fable 5.1 one shotted this",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7bh9p/fable_51_one_shotted_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T17:49:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dG41bXljbXNqam5oMQMLImnNCAf4al0ADJlyhDnxlUhkIpTTQL7WXRZZpEbf.png?width=640&crop=smart&auto=webp&s=5fd6341f59d478ed2295626fade532dc4e9dea75"
-      },
-      {
-        "rank": 2,
-        "title": "Fable 5.1 vs Fable at making a driving game",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w6lcv4/fable_51_vs_fable_at_making_a_driving_game/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T21:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bXdlOGI1aDVtZG5oMbV7iZvQhsTw3NTr63-YQgsEWyE7c-Vz4FtwnFBLCbdh.png?width=640&crop=smart&auto=webp&s=04062a22b05ae68c291bdca41e8003657ec9b052"
-      },
-      {
-        "rank": 3,
-        "title": "Did I get hacked???",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w6z9qy/did_i_get_hacked/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T09:15:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/90wfc7de0hnh1.jpeg?width=640&crop=smart&auto=webp&s=9a1ad5f94ba2ab37f63b5939e924458672cbcdde"
-      },
-      {
-        "rank": 4,
-        "title": "Asked Claude to reverse engineer a Cracktro EXE from 2001... it fully turned it into a portable html with the original assets, animation and music.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w6qliz/asked_claude_to_reverse_engineer_a_cracktro_exe/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T01:36:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O011TYjK1nfhVtyCWSuOGfcGt8WAxug_iobctfpXQZs.jpeg?width=640&crop=smart&auto=webp&s=ef320c694853ee61c7ffe3477fef0efcf32524fc"
-      },
-      {
-        "rank": 5,
-        "title": "Claude coding 24/7 - how?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w6n3ba/claude_coding_247_how/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-03T23:00:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Confirmed Bank Reset!",
-        "url": "https://www.reddit.com/r/codex/comments/1w6nf7d/confirmed_bank_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-03T23:14:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u2887y911enh1.png?width=140&height=60&auto=webp&s=31ca824af429feedca5ac0a44fce61c398661a48"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo gave astra a new unit of measurement.",
-        "url": "https://www.reddit.com/r/codex/comments/1w78cv3/tibo_gave_astra_a_new_unit_of_measurement/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-04T15:57:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dw8tbse50jnh1.jpeg?width=640&crop=smart&auto=webp&s=2ffe778fe35d0b81904725352716c23e13e2ca52"
-      },
-      {
-        "rank": 3,
-        "title": "GPT 6 Astra usage limits for Plus, Pro 5x, and Pro 20x !",
-        "url": "https://www.reddit.com/r/codex/comments/1w6p23g/gpt_6_astra_usage_limits_for_plus_pro_5x_and_pro/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-04T00:25:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dzh59sn2cenh1.jpeg?width=640&crop=smart&auto=webp&s=45cf0ba631b66159509f57aa453d9d43c4463530"
-      },
-      {
-        "rank": 4,
-        "title": "Got Astra in codex",
-        "url": "https://www.reddit.com/r/codex/comments/1w7d8r0/got_astra_in_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-04T18:52:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uvlt6966vjnh1.png?width=140&height=82&auto=webp&s=84639bc7a55b2bb1dcefc07e2dfa8fe87926a8fc"
-      },
-      {
-        "rank": 5,
-        "title": "Is it real?",
-        "url": "https://www.reddit.com/r/codex/comments/1w6x89u/is_it_real/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-04T07:15:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r1pbgr1uegnh1.png?width=640&crop=smart&auto=webp&s=13765e9720a335e6d0f63dd0dff7b40f33f1a64c"
       }
     ]
   }

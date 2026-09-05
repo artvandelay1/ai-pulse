@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T17:31:11.696Z",
+  "fetchedAt": "2026-09-05T19:26:09.388Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Fable 5.1 one shotted this",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7bh9p/fable_51_one_shotted_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T17:49:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dG41bXljbXNqam5oMQMLImnNCAf4al0ADJlyhDnxlUhkIpTTQL7WXRZZpEbf.png?width=640&crop=smart&auto=webp&s=5fd6341f59d478ed2295626fade532dc4e9dea75"
-      },
-      {
-        "rank": 3,
         "title": "We got a limits reset.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7ffob/we_got_a_limits_reset/",
         "source": "r/ClaudeAI",
@@ -35,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Claude got usage limit reset",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7hr8x/claude_got_usage_limit_reset/",
         "source": "r/ClaudeAI",
@@ -45,13 +35,23 @@
         "thumbnail": "https://preview.redd.it/gaqf3rdxoknh1.png?width=140&height=50&auto=webp&s=4f6e7eaf5f79997b742cfea2ed5f40f3aaf291f4"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Fable vs. Astra",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7ulqw/fable_vs_astra/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-09-05T08:06:39.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I miss when people built things for the internet without turning everything into a subscription",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T09:49:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/48h7qwlbaonh1.jpeg?width=640&crop=smart&auto=webp&s=e308b627f6b43b72a9ba76d9e05b7c8541398aa1"
       },
       {
         "rank": 1,
@@ -129,22 +129,22 @@
       },
       {
         "rank": 4,
-        "title": "Got Astra in codex",
-        "url": "https://www.reddit.com/r/codex/comments/1w7d8r0/got_astra_in_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-04T18:52:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uvlt6966vjnh1.png?width=140&height=82&auto=webp&s=84639bc7a55b2bb1dcefc07e2dfa8fe87926a8fc"
-      },
-      {
-        "rank": 5,
         "title": "Astra feels genuinely next level wtf",
         "url": "https://www.reddit.com/r/codex/comments/1w7eedj/astra_feels_genuinely_next_level_wtf/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-09-04T19:34:06.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Before blaming GPT-6 Astra, read its prompting guide",
+        "url": "https://www.reddit.com/r/codex/comments/1w7x57n/before_blaming_gpt6_astra_read_its_prompting_guide/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-05T10:31:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wp5p7irchonh1.png?width=640&crop=smart&auto=webp&s=5c1d16cc551a09359d6ce6e86815c221f0641612"
       },
       {
         "rank": 1,

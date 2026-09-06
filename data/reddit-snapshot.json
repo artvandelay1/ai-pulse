@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-09-05T23:41:08.387Z",
+  "fetchedAt": "2026-09-06T03:48:44.838Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T19:11:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Language Models Can Control Their Own Attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T06:07:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS 2026 Automatic Reference Checker [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T06:14:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T23:33:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7scxc/implementing_embedding_gemma_from_scratch_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T06:01:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2eCUkvW_p323pOzbzyjRi8YM4-bHeIfhFQpZVpGCnJY.jpeg?width=320&crop=smart&auto=webp&s=bc93db0c8d1dedec5954d3a0207f9c9df8ae00a7"
+      },
+      {
+        "rank": 1,
+        "title": "sub agents being released into my codebase",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w80ggu/sub_agents_being_released_into_my_codebase/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T13:13:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Mm1tNWlyNXRicG5oMX0y3lDIqu8AvQk7SsqHBv4SDkBtDfHcvpktCE0ea9fK.png?width=640&crop=smart&auto=webp&s=5a1c602f1d6bf16651d09d18622f01896dca2370"
+      },
+      {
+        "rank": 2,
+        "title": "Astra (GPT-6) High Intelligence, Low Intuition",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T04:45:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Differences Between GPT-5.6 Sol Pro and GPT-6 Astra Pro on MineBench.ai",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w8619g/differences_between_gpt56_sol_pro_and_gpt6_astra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T16:56:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w28tp9hffqnh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=053c92cd072fa321b69b1cc62c1ee042dc40e04e"
+      },
+      {
+        "rank": 4,
+        "title": "I think Arena has fixed the benchmark for accurate real world coding capabilities: Astra logically sits at number 1",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w8b1ov/i_think_arena_has_fixed_the_benchmark_for/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T20:06:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wr5kbzcgdrnh1.jpeg?width=640&crop=smart&auto=webp&s=bd664fc25e244303b14cdc3e65908de2f2f23606"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI takes the lead",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w87un5/openai_takes_the_lead/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T18:05:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m7a2zdlqrqnh1.png?width=640&crop=smart&auto=webp&s=2e8b436617c8afc11a6ca3a4cd64480379baeba7"
+      },
+      {
+        "rank": 1,
+        "title": "AGI achieved",
+        "url": "https://www.reddit.com/r/singularity/comments/1w7z3f6/agi_achieved/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T12:11:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0svnxwcp0pnh1.jpeg?width=640&crop=smart&auto=webp&s=038664212f7366451bc5b48e8cc9bae1404fc80e"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6-Astra Draws an Portrait in Canva",
+        "url": "https://www.reddit.com/r/singularity/comments/1w7xe37/gpt6astra_draws_an_portrait_in_canva/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T10:45:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ejRoOTcydDNsb25oMQbDhwupv1Ja_WwuUfrnnAM_X2wUJeSQX_4wVVo3WzmS.png?width=640&crop=smart&auto=webp&s=1e0744a4bc2dcdeb82c1f298d9fe779ef13470b3"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Astra Has Beaten Portal, Becoming the First Model to Achieve This.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w8g7d0/gpt6_astra_has_beaten_portal_becoming_the_first/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T23:41:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1eu9dhiqfsnh1.png?width=640&crop=smart&auto=webp&s=e4c9001bd2988c32a33b4df29c9f3b458e22a916"
+      },
+      {
+        "rank": 4,
+        "title": "AI can do it all",
+        "url": "https://www.reddit.com/r/singularity/comments/1w7xi2i/ai_can_do_it_all/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T10:51:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3qsw2vpemonh1.jpeg?width=640&crop=smart&auto=webp&s=1139b406c3b4a76866cc4c846eb1f33170ef931e"
+      },
+      {
+        "rank": 5,
+        "title": "Are all the graphs just gonna look like this now?",
+        "url": "https://www.reddit.com/r/singularity/comments/1w82zm5/are_all_the_graphs_just_gonna_look_like_this_now/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T14:58:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hdnae1whupnh1.png?width=640&crop=smart&auto=webp&s=7519ca07fb139f975a7de7a7cb288a7657c69567"
+      },
       {
         "rank": 1,
         "title": "sub agents being released into my codebase",
@@ -55,43 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T19:11:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Language Models Can Control Their Own Attention [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T06:07:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS 2026 Automatic Reference Checker [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T06:14:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7scxc/implementing_embedding_gemma_from_scratch_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T06:01:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2eCUkvW_p323pOzbzyjRi8YM4-bHeIfhFQpZVpGCnJY.jpeg?width=320&crop=smart&auto=webp&s=bc93db0c8d1dedec5954d3a0207f9c9df8ae00a7"
-      },
-      {
-        "rank": 1,
         "title": "Astra is absolutely incredible.",
         "url": "https://www.reddit.com/r/codex/comments/1w7on0j/astra_is_absolutely_incredible/",
         "source": "r/codex",
@@ -137,105 +245,6 @@
         "publishedAt": "2026-09-05T10:36:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/mi0z6j6ljonh1.png?width=640&crop=smart&auto=webp&s=eb454f15e170bd564d4c556a8dd63187a0c5d61d"
-      },
-      {
-        "rank": 1,
-        "title": "Fable 5.1 vs GPT 6 Astra, 3D Blender, mind blowing difference!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T03:42:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hc9tslyxgmnh1.png?width=140&height=100&auto=webp&s=5c96c4cfa9630914d3dc7955e31e63e9c00f1944"
-      },
-      {
-        "rank": 2,
-        "title": "sub agents being released into my codebase",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w80ggu/sub_agents_being_released_into_my_codebase/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T13:13:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mm1tNWlyNXRicG5oMX0y3lDIqu8AvQk7SsqHBv4SDkBtDfHcvpktCE0ea9fK.png?width=640&crop=smart&auto=webp&s=5a1c602f1d6bf16651d09d18622f01896dca2370"
-      },
-      {
-        "rank": 3,
-        "title": "Made in 2h with astra :o",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w7mfxt/made_in_2h_with_astra_o/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T01:02:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N2NuZ3YwNWNwbG5oMXfippnd1sy7x31ERTIc8IwOTDZ3hgmB7b5DaqT9TbXs.jpeg?width=640&crop=smart&auto=webp&s=f8333bec2b607bd5e9b2abf3c065a7d888618fad"
-      },
-      {
-        "rank": 4,
-        "title": "Astra (GPT-6) High Intelligence, Low Intuition",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T04:45:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Astra GPT-6 Just Rolled out for Plus Users",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w7ikk0/astra_gpt6_just_rolled_out_for_plus_users/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-04T22:11:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sos8rhvvuknh1.png?width=140&height=48&auto=webp&s=b1501662e1483022eb9692c9472826072d7cc30c"
-      },
-      {
-        "rank": 1,
-        "title": "sub agents being released into my codebase",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7l201/sub_agents_being_released_into_my_codebase/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-04T23:58:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aXRod3B2ZHpkbG5oMSY9Yc9jO8Ogk1z_XkSWql6RD1g0zc9CaqptHXQtmVR3.jpeg?width=640&crop=smart&auto=webp&s=83c5229e1777e1f434249142c4c3dbb09ac13ee8"
-      },
-      {
-        "rank": 2,
-        "title": "AGI achieved",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7z3f6/agi_achieved/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T12:11:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0svnxwcp0pnh1.jpeg?width=640&crop=smart&auto=webp&s=038664212f7366451bc5b48e8cc9bae1404fc80e"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6-Astra Draws an Portrait in Canva",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7xe37/gpt6astra_draws_an_portrait_in_canva/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T10:45:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ejRoOTcydDNsb25oMQbDhwupv1Ja_WwuUfrnnAM_X2wUJeSQX_4wVVo3WzmS.png?width=640&crop=smart&auto=webp&s=1e0744a4bc2dcdeb82c1f298d9fe779ef13470b3"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic Possibly Tackles Its First Millennium Prize Problem",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7od9d/anthropic_possibly_tackles_its_first_millennium/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T02:35:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/scxdw9dm5mnh1.png?width=640&crop=smart&auto=webp&s=8820a9e557d6c6d3702c762ce1b940620ea78a36"
-      },
-      {
-        "rank": 5,
-        "title": "AI can do it all",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7xi2i/ai_can_do_it_all/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T10:51:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3qsw2vpemonh1.jpeg?width=640&crop=smart&auto=webp&s=1139b406c3b4a76866cc4c846eb1f33170ef931e"
       }
     ]
   }

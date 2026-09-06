@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-09-06T03:48:44.838Z",
+  "fetchedAt": "2026-09-06T08:32:16.505Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "sub agents being released into my codebase",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w801bh/sub_agents_being_released_into_my_codebase/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T12:55:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dzBhc3J6Zmw4cG5oMX0y3lDIqu8AvQk7SsqHBv4SDkBtDfHcvpktCE0ea9fK.png?width=640&crop=smart&auto=webp&s=2cb7449f2d92e87fa3523eb8a9103ac3d621212a"
+      },
+      {
+        "rank": 2,
+        "title": "I thought I will never say this about Fable",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8h07m/i_thought_i_will_never_say_this_about_fable/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T00:17:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Day 5 of making a cozy game with no dev experience. The world is growing!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8mwa7/day_5_of_making_a_cozy_game_with_no_dev/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T05:10:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Y200ajYwb2MydW5oMdKvnOIPSA9LDLKDv5HdqbOVtuz3Z9oP1oLzj-j1y77D.png?width=640&crop=smart&auto=webp&s=97c10bf9de4df69e5583175fe789900ed293bb22"
+      },
+      {
+        "rank": 4,
+        "title": "I miss when people built things for the internet without turning everything into a subscription",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T09:49:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/48h7qwlbaonh1.jpeg?width=640&crop=smart&auto=webp&s=e308b627f6b43b72a9ba76d9e05b7c8541398aa1"
+      },
+      {
+        "rank": 5,
+        "title": "New #1 on Code Arena: Astra and Fable 5.1 are in a class of their own. Anyone seeing real world differences",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8b57m/new_1_on_code_arena_astra_and_fable_51_are_in_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T20:10:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1p8f0by4ernh1.jpeg?width=640&crop=smart&auto=webp&s=63b65a1ac8ec6ab3357ea570e793d561f548d564"
+      },
       {
         "rank": 1,
         "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
@@ -16,24 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "Language Models Can Control Their Own Attention [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T06:07:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS 2026 Automatic Reference Checker [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T06:14:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
         "source": "r/MachineLearning",
@@ -42,14 +73,71 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w7scxc/implementing_embedding_gemma_from_scratch_in/",
+        "rank": 3,
+        "title": "AIStats 2027 Questions [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-05T06:01:57.000Z",
+        "publishedAt": "2026-09-06T03:33:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-06T07:33:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Why is everyone so angry with Plus users?",
+        "url": "https://www.reddit.com/r/codex/comments/1w7ylpn/why_is_everyone_so_angry_with_plus_users/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-05T11:48:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Before blaming GPT-6 Astra, read its prompting guide",
+        "url": "https://www.reddit.com/r/codex/comments/1w7x57n/before_blaming_gpt6_astra_read_its_prompting_guide/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-05T10:31:54.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2eCUkvW_p323pOzbzyjRi8YM4-bHeIfhFQpZVpGCnJY.jpeg?width=320&crop=smart&auto=webp&s=bc93db0c8d1dedec5954d3a0207f9c9df8ae00a7"
+        "thumbnail": "https://preview.redd.it/wp5p7irchonh1.png?width=640&crop=smart&auto=webp&s=5c1d16cc551a09359d6ce6e86815c221f0641612"
+      },
+      {
+        "rank": 3,
+        "title": "They are robbing us!!",
+        "url": "https://www.reddit.com/r/codex/comments/1w7x7uw/they_are_robbing_us/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-05T10:36:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mi0z6j6ljonh1.png?width=640&crop=smart&auto=webp&s=eb454f15e170bd564d4c556a8dd63187a0c5d61d"
+      },
+      {
+        "rank": 4,
+        "title": "astra telling me to stop doing things on my pc cuz it needs power",
+        "url": "https://www.reddit.com/r/codex/comments/1w88ygg/astra_telling_me_to_stop_doing_things_on_my_pc/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-05T18:46:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eg5p4jv6zqnh1.png?width=320&crop=smart&auto=webp&s=d3466998ef5db561d8cceb1b2c2d1840ea683f39"
+      },
+      {
+        "rank": 5,
+        "title": "The real benchmark test.",
+        "url": "https://www.reddit.com/r/codex/comments/1w8kr84/the_real_benchmark_test/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-06T03:20:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gcy7kv0witnh1.jpeg?width=640&crop=smart&auto=webp&s=db7ca7b436b9b034def3df0bda689159be790539"
       },
       {
         "rank": 1,
@@ -149,102 +237,6 @@
         "publishedAt": "2026-09-05T14:58:57.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/hdnae1whupnh1.png?width=640&crop=smart&auto=webp&s=7519ca07fb139f975a7de7a7cb288a7657c69567"
-      },
-      {
-        "rank": 1,
-        "title": "sub agents being released into my codebase",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w801bh/sub_agents_being_released_into_my_codebase/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T12:55:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dzBhc3J6Zmw4cG5oMX0y3lDIqu8AvQk7SsqHBv4SDkBtDfHcvpktCE0ea9fK.png?width=640&crop=smart&auto=webp&s=2cb7449f2d92e87fa3523eb8a9103ac3d621212a"
-      },
-      {
-        "rank": 2,
-        "title": "Fable vs. Astra",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7ulqw/fable_vs_astra/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T08:06:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I miss when people built things for the internet without turning everything into a subscription",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T09:49:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/48h7qwlbaonh1.jpeg?width=640&crop=smart&auto=webp&s=e308b627f6b43b72a9ba76d9e05b7c8541398aa1"
-      },
-      {
-        "rank": 4,
-        "title": "A small gift to all my opusfived friends",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w80umw/a_small_gift_to_all_my_opusfived_friends/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T13:31:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What's going on with claude usage",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w81w5b/whats_going_on_with_claude_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T14:14:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wcwwgb2nmpnh1.jpeg?width=640&crop=smart&auto=webp&s=fe0b96317e6d3cd694699b6b97ee26c62ad5678c"
-      },
-      {
-        "rank": 1,
-        "title": "Astra is absolutely incredible.",
-        "url": "https://www.reddit.com/r/codex/comments/1w7on0j/astra_is_absolutely_incredible/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-05T02:49:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Why is everyone so angry with Plus users?",
-        "url": "https://www.reddit.com/r/codex/comments/1w7ylpn/why_is_everyone_so_angry_with_plus_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-05T11:48:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra… WOW.",
-        "url": "https://www.reddit.com/r/codex/comments/1w7kvf7/gpt6_astra_wow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-04T23:50:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ea9b8ulgclnh1.jpeg?width=640&crop=smart&auto=webp&s=9147be077ee41b1b709e4b6e63dfcac791d71025"
-      },
-      {
-        "rank": 4,
-        "title": "Before blaming GPT-6 Astra, read its prompting guide",
-        "url": "https://www.reddit.com/r/codex/comments/1w7x57n/before_blaming_gpt6_astra_read_its_prompting_guide/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-05T10:31:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wp5p7irchonh1.png?width=640&crop=smart&auto=webp&s=5c1d16cc551a09359d6ce6e86815c221f0641612"
-      },
-      {
-        "rank": 5,
-        "title": "They are robbing us!!",
-        "url": "https://www.reddit.com/r/codex/comments/1w7x7uw/they_are_robbing_us/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-05T10:36:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mi0z6j6ljonh1.png?width=640&crop=smart&auto=webp&s=eb454f15e170bd564d4c556a8dd63187a0c5d61d"
       }
     ]
   }

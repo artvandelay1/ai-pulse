@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-09-06T08:32:16.505Z",
+  "fetchedAt": "2026-09-06T12:20:51.756Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T19:11:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-05T23:33:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "AIStats 2027 Questions [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-06T03:33:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-06T09:23:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-06T07:33:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "sub agents being released into my codebase",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w80ggu/sub_agents_being_released_into_my_codebase/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T13:13:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Mm1tNWlyNXRicG5oMX0y3lDIqu8AvQk7SsqHBv4SDkBtDfHcvpktCE0ea9fK.png?width=640&crop=smart&auto=webp&s=5a1c602f1d6bf16651d09d18622f01896dca2370"
+      },
+      {
+        "rank": 2,
+        "title": "Astra live action with tokens",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w8nmx9/astra_live_action_with_tokens/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T05:50:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGR1Z3B5N2M5dW5oMRN2ST9QaoRvh93ku1XL_rAuYqZzxL_agQt4SUjaBIMT.png?width=640&crop=smart&auto=webp&s=5fd5c209a2fbc43f668872e924d8d5beb6e72a15"
+      },
+      {
+        "rank": 3,
+        "title": "I think Arena has fixed the benchmark for accurate real world coding capabilities: Astra logically sits at number 1",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w8b1ov/i_think_arena_has_fixed_the_benchmark_for/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T20:06:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wr5kbzcgdrnh1.jpeg?width=640&crop=smart&auto=webp&s=bd664fc25e244303b14cdc3e65908de2f2f23606"
+      },
+      {
+        "rank": 4,
+        "title": "Differences Between GPT-5.6 Sol Pro and GPT-6 Astra Pro on MineBench.ai",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w8619g/differences_between_gpt56_sol_pro_and_gpt6_astra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T16:56:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w28tp9hffqnh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=053c92cd072fa321b69b1cc62c1ee042dc40e04e"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI takes the lead",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w87un5/openai_takes_the_lead/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T18:05:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m7a2zdlqrqnh1.png?width=640&crop=smart&auto=webp&s=2e8b436617c8afc11a6ca3a4cd64480379baeba7"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 Astra Has Beaten Portal, Becoming the First Model to Achieve This.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w8g7d0/gpt6_astra_has_beaten_portal_becoming_the_first/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T23:41:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1eu9dhiqfsnh1.png?width=640&crop=smart&auto=webp&s=e4c9001bd2988c32a33b4df29c9f3b458e22a916"
+      },
+      {
+        "rank": 2,
+        "title": "Are all the graphs just gonna look like this now?",
+        "url": "https://www.reddit.com/r/singularity/comments/1w82zm5/are_all_the_graphs_just_gonna_look_like_this_now/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T14:58:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hdnae1whupnh1.png?width=640&crop=smart&auto=webp&s=7519ca07fb139f975a7de7a7cb288a7657c69567"
+      },
+      {
+        "rank": 3,
+        "title": "Astra turned a game ad video into a playable game in less than 30 minutes",
+        "url": "https://www.reddit.com/r/singularity/comments/1w85dqz/astra_turned_a_game_ad_video_into_a_playable_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T16:31:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ODF5ZDV3dHlhcW5oMeL_dBYMhjfxb2wZItuyIrCf8DfiLXLbpwjHHxwBtBFD.png?width=640&crop=smart&auto=webp&s=8d3c4ad9682eda45fd244ffe6f5bf4e9bf13ce78"
+      },
+      {
+        "rank": 4,
+        "title": "Signs of AGI? GPT-6 Astra scored 95% on a robot control task vs Fable 5.1's 40%",
+        "url": "https://www.reddit.com/r/singularity/comments/1w80gif/signs_of_agi_gpt6_astra_scored_95_on_a_robot/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T13:13:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZjF3dHdqemthcG5oMXMNrDyYgyLNU0l7km1CWnU__vS2agaXMJr8DMKdN3Qt.png?width=640&crop=smart&auto=webp&s=55f18cf2d3a161e46c3d64e413d61318ddb3e239"
+      },
+      {
+        "rank": 5,
+        "title": "GPT 6 Astra drawing Hatsune Miku",
+        "url": "https://www.reddit.com/r/singularity/comments/1w7zdmb/gpt_6_astra_drawing_hatsune_miku/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-05T12:25:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dTRwdXhmaDQzcG5oMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=dc3b9f2f9475ddc004ae38b9a2875c7f6da467ad"
+      },
       {
         "rank": 1,
         "title": "sub agents being released into my codebase",
@@ -56,42 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T19:11:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-05T23:33:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "AIStats 2027 Questions [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T03:33:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T07:33:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Why is everyone so angry with Plus users?",
         "url": "https://www.reddit.com/r/codex/comments/1w7ylpn/why_is_everyone_so_angry_with_plus_users/",
         "source": "r/codex",
@@ -138,105 +247,6 @@
         "publishedAt": "2026-09-06T03:20:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gcy7kv0witnh1.jpeg?width=640&crop=smart&auto=webp&s=db7ca7b436b9b034def3df0bda689159be790539"
-      },
-      {
-        "rank": 1,
-        "title": "sub agents being released into my codebase",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w80ggu/sub_agents_being_released_into_my_codebase/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T13:13:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mm1tNWlyNXRicG5oMX0y3lDIqu8AvQk7SsqHBv4SDkBtDfHcvpktCE0ea9fK.png?width=640&crop=smart&auto=webp&s=5a1c602f1d6bf16651d09d18622f01896dca2370"
-      },
-      {
-        "rank": 2,
-        "title": "Astra (GPT-6) High Intelligence, Low Intuition",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T04:45:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Differences Between GPT-5.6 Sol Pro and GPT-6 Astra Pro on MineBench.ai",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w8619g/differences_between_gpt56_sol_pro_and_gpt6_astra/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T16:56:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w28tp9hffqnh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=053c92cd072fa321b69b1cc62c1ee042dc40e04e"
-      },
-      {
-        "rank": 4,
-        "title": "I think Arena has fixed the benchmark for accurate real world coding capabilities: Astra logically sits at number 1",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w8b1ov/i_think_arena_has_fixed_the_benchmark_for/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T20:06:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wr5kbzcgdrnh1.jpeg?width=640&crop=smart&auto=webp&s=bd664fc25e244303b14cdc3e65908de2f2f23606"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI takes the lead",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w87un5/openai_takes_the_lead/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T18:05:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m7a2zdlqrqnh1.png?width=640&crop=smart&auto=webp&s=2e8b436617c8afc11a6ca3a4cd64480379baeba7"
-      },
-      {
-        "rank": 1,
-        "title": "AGI achieved",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7z3f6/agi_achieved/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T12:11:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0svnxwcp0pnh1.jpeg?width=640&crop=smart&auto=webp&s=038664212f7366451bc5b48e8cc9bae1404fc80e"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6-Astra Draws an Portrait in Canva",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7xe37/gpt6astra_draws_an_portrait_in_canva/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T10:45:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ejRoOTcydDNsb25oMQbDhwupv1Ja_WwuUfrnnAM_X2wUJeSQX_4wVVo3WzmS.png?width=640&crop=smart&auto=webp&s=1e0744a4bc2dcdeb82c1f298d9fe779ef13470b3"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra Has Beaten Portal, Becoming the First Model to Achieve This.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w8g7d0/gpt6_astra_has_beaten_portal_becoming_the_first/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T23:41:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1eu9dhiqfsnh1.png?width=640&crop=smart&auto=webp&s=e4c9001bd2988c32a33b4df29c9f3b458e22a916"
-      },
-      {
-        "rank": 4,
-        "title": "AI can do it all",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7xi2i/ai_can_do_it_all/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T10:51:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3qsw2vpemonh1.jpeg?width=640&crop=smart&auto=webp&s=1139b406c3b4a76866cc4c846eb1f33170ef931e"
-      },
-      {
-        "rank": 5,
-        "title": "Are all the graphs just gonna look like this now?",
-        "url": "https://www.reddit.com/r/singularity/comments/1w82zm5/are_all_the_graphs_just_gonna_look_like_this_now/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T14:58:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hdnae1whupnh1.png?width=640&crop=smart&auto=webp&s=7519ca07fb139f975a7de7a7cb288a7657c69567"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T12:20:51.756Z",
+  "fetchedAt": "2026-09-06T15:42:46.426Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -52,16 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "sub agents being released into my codebase",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w80ggu/sub_agents_being_released_into_my_codebase/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T13:13:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mm1tNWlyNXRicG5oMX0y3lDIqu8AvQk7SsqHBv4SDkBtDfHcvpktCE0ea9fK.png?width=640&crop=smart&auto=webp&s=5a1c602f1d6bf16651d09d18622f01896dca2370"
-      },
-      {
-        "rank": 2,
         "title": "Astra live action with tokens",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w8nmx9/astra_live_action_with_tokens/",
         "source": "r/OpenAI",
@@ -71,7 +61,7 @@
         "thumbnail": "https://external-preview.redd.it/eGR1Z3B5N2M5dW5oMRN2ST9QaoRvh93ku1XL_rAuYqZzxL_agQt4SUjaBIMT.png?width=640&crop=smart&auto=webp&s=5fd5c209a2fbc43f668872e924d8d5beb6e72a15"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "I think Arena has fixed the benchmark for accurate real world coding capabilities: Astra logically sits at number 1",
         "url": "https://www.reddit.com/r/OpenAI/comments/1w8b1ov/i_think_arena_has_fixed_the_benchmark_for/",
         "source": "r/OpenAI",
@@ -79,6 +69,16 @@
         "publishedAt": "2026-09-05T20:06:36.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wr5kbzcgdrnh1.jpeg?width=640&crop=smart&auto=webp&s=bd664fc25e244303b14cdc3e65908de2f2f23606"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI takes the lead",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w87un5/openai_takes_the_lead/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-05T18:05:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m7a2zdlqrqnh1.png?width=640&crop=smart&auto=webp&s=2e8b436617c8afc11a6ca3a4cd64480379baeba7"
       },
       {
         "rank": 4,
@@ -92,13 +92,12 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI takes the lead",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w87un5/openai_takes_the_lead/",
+        "title": "How is anyone actually using Astra on the $20 Plus plan?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w8cbmz/how_is_anyone_actually_using_astra_on_the_20_plus/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-05T18:05:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m7a2zdlqrqnh1.png?width=640&crop=smart&auto=webp&s=2e8b436617c8afc11a6ca3a4cd64480379baeba7"
+        "publishedAt": "2026-09-05T20:57:03.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -112,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "Are all the graphs just gonna look like this now?",
-        "url": "https://www.reddit.com/r/singularity/comments/1w82zm5/are_all_the_graphs_just_gonna_look_like_this_now/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-05T14:58:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hdnae1whupnh1.png?width=640&crop=smart&auto=webp&s=7519ca07fb139f975a7de7a7cb288a7657c69567"
-      },
-      {
-        "rank": 3,
         "title": "Astra turned a game ad video into a playable game in less than 30 minutes",
         "url": "https://www.reddit.com/r/singularity/comments/1w85dqz/astra_turned_a_game_ad_video_into_a_playable_game/",
         "source": "r/singularity",
@@ -131,24 +120,34 @@
         "thumbnail": "https://external-preview.redd.it/ODF5ZDV3dHlhcW5oMeL_dBYMhjfxb2wZItuyIrCf8DfiLXLbpwjHHxwBtBFD.png?width=640&crop=smart&auto=webp&s=8d3c4ad9682eda45fd244ffe6f5bf4e9bf13ce78"
       },
       {
-        "rank": 4,
-        "title": "Signs of AGI? GPT-6 Astra scored 95% on a robot control task vs Fable 5.1's 40%",
-        "url": "https://www.reddit.com/r/singularity/comments/1w80gif/signs_of_agi_gpt6_astra_scored_95_on_a_robot/",
+        "rank": 3,
+        "title": "Things I was getting downvoted for in r/cscareerquestions 2 years ago",
+        "url": "https://www.reddit.com/r/singularity/comments/1w8xokf/things_i_was_getting_downvoted_for_in/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-05T13:13:57.000Z",
+        "publishedAt": "2026-09-06T14:28:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZjF3dHdqemthcG5oMXMNrDyYgyLNU0l7km1CWnU__vS2agaXMJr8DMKdN3Qt.png?width=640&crop=smart&auto=webp&s=55f18cf2d3a161e46c3d64e413d61318ddb3e239"
+        "thumbnail": "https://preview.redd.it/7lzaucrztwnh1.png?width=640&crop=smart&auto=webp&s=b243c49849fdadd2e0943aae27dddc1f415b3af6"
+      },
+      {
+        "rank": 4,
+        "title": "Rumour in SF: Anthropic drops a new model week before IPO",
+        "url": "https://www.reddit.com/r/singularity/comments/1w8t0re/rumour_in_sf_anthropic_drops_a_new_model_week/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-06T10:53:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0c1w3ziqrvnh1.png?width=640&crop=smart&auto=webp&s=3012d1376ce6f6918de4c40d513cd48f1f1f0d7f"
       },
       {
         "rank": 5,
-        "title": "GPT 6 Astra drawing Hatsune Miku",
-        "url": "https://www.reddit.com/r/singularity/comments/1w7zdmb/gpt_6_astra_drawing_hatsune_miku/",
+        "title": "Microsoft's distinguished engineer says \"typing code is absolutely over,\" and Windows 11 is already being built that way. Nadella previously said 20-30% code at MSFT is AI-coded, and Windows security updates now include AI-assisted fixes to fight AI-enabled threats.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w84ngu/microsofts_distinguished_engineer_says_typing/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-05T12:25:09.000Z",
+        "publishedAt": "2026-09-05T16:03:13.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dTRwdXhmaDQzcG5oMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=dc3b9f2f9475ddc004ae38b9a2875c7f6da467ad"
+        "thumbnail": "https://external-preview.redd.it/pm80tYGdQGPd0_XvEVk93ak1BDOKpCNOm_KdK2GmTgE.jpeg?width=640&crop=smart&auto=webp&s=51f34f8250dec7ffc0f2a482cef6197e58de3b12"
       },
       {
         "rank": 1,

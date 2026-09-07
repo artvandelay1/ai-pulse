@@ -1,10 +1,157 @@
 {
-  "fetchedAt": "2026-09-07T21:22:07.891Z",
+  "fetchedAt": "2026-09-07T23:42:42.634Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T10:01:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m77osqk6l2oh1.png?width=640&crop=smart&auto=webp&s=7054723eea01faeb33a956f9e09b6c3a99bdb431"
+      },
+      {
+        "rank": 2,
+        "title": "KV cache as an agent runtime [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T09:03:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T07:56:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T16:54:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Automotive Radar Object Classification [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T08:10:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/grjiguy7x1oh1.png?width=140&height=120&auto=webp&s=6aab8e433cde240fe9a53581e07281061779df94"
+      },
+      {
+        "rank": 1,
+        "title": "Astra Be Like...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w9qqj4/astra_be_like/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T12:24:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p9x3v9jbc3oh1.png?width=640&crop=smart&auto=webp&s=0767a4303056e87ebdfbd92102cb51b1c71a8776"
+      },
+      {
+        "rank": 2,
+        "title": "Denzel Explains AI Slop",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w9hjwj/denzel_explains_ai_slop/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T04:07:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YmJ6NHU5NzZ3MG9oMbmmXqpstfpJL0VVw8lsjB1ySY1w6kZMol5Wi6Znjb7-.png?width=640&crop=smart&auto=webp&s=9fee910ee2fa9e3195fdeaeb2d040a7137f0211d"
+      },
+      {
+        "rank": 3,
+        "title": "I‘m bad at 3D tech stacks so I vibe coded an interactive Odyssey narrative scroll project using Astra",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w9ou8a/im_bad_at_3d_tech_stacks_so_i_vibe_coded_an/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T10:50:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YW5wYzlwM3B2Mm9oMRBO-1AxhYwAqsbCouwbctAOggFynkiLBf8RuH7gg2bU.png?width=640&crop=smart&auto=webp&s=b09fb4f49dd77d8c7c647e5094fc4efb81361831"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-6 Astra has successfully beat all 48 levels of the \"I'm Not A Robot\" game",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wa4vir/gpt6_astra_has_successfully_beat_all_48_levels_of/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T21:21:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MHdldnl2b24wNm9oMRndwI9KD8R52OfPFO66g8podrqs5FXg9ruUZQzXXDDk.png?width=640&crop=smart&auto=webp&s=4fedd148d1998ce1074509824048381028ca7f86"
+      },
+      {
+        "rank": 5,
+        "title": "I used Codex GPT6 to get Doom running on my Samsung TV - and now I’m playing it with the TV remote",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wa3ilo/i_used_codex_gpt6_to_get_doom_running_on_my/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T20:29:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZWZmaXh2bjByNW9oMWN42GVk2Oyd86zoNtKTSF6seF02wpqfyUTZx-wJEliZ.png?width=640&crop=smart&auto=webp&s=84387ba10100377d0e6ea0f686e6f45a224121fe"
+      },
+      {
+        "rank": 1,
+        "title": "Denzel Washington explains why it's not \"AI slop\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1w9f4ko/denzel_washington_explains_why_its_not_ai_slop/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-07T02:08:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YW9lOGF1MHphMG9oMYo9zkEnXPuovGNkEixNKPKh5sff0IeLe7Dfc60kvnL8.png?width=640&crop=smart&auto=webp&s=96dfca8794b336aa489a3caf5e406f6769e220b8"
+      },
+      {
+        "rank": 2,
+        "title": "Astra is now a certified human",
+        "url": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-07T08:48:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/octby766a2oh1.png?width=640&crop=smart&auto=webp&s=2aa2bd2b755809c420f79ba7948fd424a8c4abe4"
+      },
+      {
+        "rank": 3,
+        "title": "CEO Jensen Huang says Artificial General Intelligence (AGI) has arrived.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w9cbcb/ceo_jensen_huang_says_artificial_general/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-06T23:57:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qvctks1knznh1.png?width=640&crop=smart&auto=webp&s=c4ecb076bdbe2e37a38d787dbb530a2cc412e989"
+      },
+      {
+        "rank": 4,
+        "title": "The man who invented the term 'AGI' declares that AGI is here",
+        "url": "https://www.reddit.com/r/singularity/comments/1w9dmf3/the_man_who_invented_the_term_agi_declares_that/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-07T00:56:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xebx5pb0yznh1.png?width=320&crop=smart&auto=webp&s=01580e0462eaaa7ba8107b7a92a79b327764c434"
+      },
+      {
+        "rank": 5,
+        "title": "FactorioBench just dropped ;-)",
+        "url": "https://www.reddit.com/r/singularity/comments/1w9vpyv/factoriobench_just_dropped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-07T15:45:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dg58ombfc4oh1.png?width=640&crop=smart&auto=webp&s=cab48e52367c2bc84534431a4bf344ea4a12138b"
+      },
       {
         "rank": 1,
         "title": "Notion's Official MCP connector prompt injects AI agents to advertise products mid-task",
@@ -56,53 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-07T10:01:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m77osqk6l2oh1.png?width=640&crop=smart&auto=webp&s=7054723eea01faeb33a956f9e09b6c3a99bdb431"
-      },
-      {
-        "rank": 2,
-        "title": "KV cache as an agent runtime [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-07T09:03:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T22:19:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-07T07:56:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Automotive Radar Object Classification [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-07T08:10:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/grjiguy7x1oh1.png?width=140&height=120&auto=webp&s=6aab8e433cde240fe9a53581e07281061779df94"
-      },
-      {
-        "rank": 1,
         "title": "Usage tip: “GPT-6 Astra on low performs better than GPT-5.6 Sol on high.”",
         "url": "https://www.reddit.com/r/codex/comments/1w9erx3/usage_tip_gpt6_astra_on_low_performs_better_than/",
         "source": "r/codex",
@@ -149,106 +249,6 @@
         "publishedAt": "2026-09-06T21:56:57.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/d0kzgttz1znh1.png?width=320&crop=smart&auto=webp&s=b942a8a9fd39d8e96e0c5cb0b9c8886844ad9a32"
-      },
-      {
-        "rank": 1,
-        "title": "Denzel Explains AI Slop",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w9hjwj/denzel_explains_ai_slop/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T04:07:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YmJ6NHU5NzZ3MG9oMbmmXqpstfpJL0VVw8lsjB1ySY1w6kZMol5Wi6Znjb7-.png?width=640&crop=smart&auto=webp&s=9fee910ee2fa9e3195fdeaeb2d040a7137f0211d"
-      },
-      {
-        "rank": 2,
-        "title": "Astra Be Like...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w9qqj4/astra_be_like/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T12:24:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p9x3v9jbc3oh1.png?width=640&crop=smart&auto=webp&s=0767a4303056e87ebdfbd92102cb51b1c71a8776"
-      },
-      {
-        "rank": 3,
-        "title": "From the Chief Scientist at OpenAI : An Alien Mind",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w940xw/from_the_chief_scientist_at_openai_an_alien_mind/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T18:28:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-j3fL1vBAf5UwRJAq9n1dNVBENNAlsrjUljAwQ2Z_Ac.png?width=640&crop=smart&auto=webp&s=26f4832351d88cff5ef00d9ede52fc03f6558b83"
-      },
-      {
-        "rank": 4,
-        "title": "Astra did what Sol and Fable couldn't",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w9a6cx/astra_did_what_sol_and_fable_couldnt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T22:24:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0j7yfmw45znh1.png?width=140&height=46&auto=webp&s=fb3cbf21cb67fcfb90f248c80fdf784481fa7228"
-      },
-      {
-        "rank": 5,
-        "title": "I‘m bad at 3D tech stacks so I vibe coded an interactive Odyssey narrative scroll project using Astra",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w9ou8a/im_bad_at_3d_tech_stacks_so_i_vibe_coded_an/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T10:50:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YW5wYzlwM3B2Mm9oMRBO-1AxhYwAqsbCouwbctAOggFynkiLBf8RuH7gg2bU.png?width=640&crop=smart&auto=webp&s=b09fb4f49dd77d8c7c647e5094fc4efb81361831"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 Astra: Rickroll in Blender",
-        "url": "https://www.reddit.com/r/singularity/comments/1w9aeyk/gpt6_astra_rickroll_in_blender/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T22:34:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cDhldmMxaGw4em5oMUga_UTVADDRZeLu4Vlh1NjM0bcWaD5pEUNREAqn12P8.png?width=640&crop=smart&auto=webp&s=eead5cb76d948250c4596c8b4273943ff96c0e2f"
-      },
-      {
-        "rank": 2,
-        "title": "Hate to admit it, but the last month or so, particularly Jacobian conjecture breakthrough => Huggingface incident, have convinced me the AI safety nerds (that I thought were just luddite alarmists) were on to something",
-        "url": "https://www.reddit.com/r/singularity/comments/1w96hyl/hate_to_admit_it_but_the_last_month_or_so/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T19:59:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/50dr8rq2hynh1.jpeg?width=640&crop=smart&auto=webp&s=ae5a9405ba6ba58b7268eea01b22db05549b7661"
-      },
-      {
-        "rank": 3,
-        "title": "What are your thoughts? I still believe AGI is a long way off.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w9ag49/what_are_your_thoughts_i_still_believe_agi_is_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T22:35:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zkwsgedj8znh1.png?width=640&crop=smart&auto=webp&s=3fa8d90af3703c747b5fd02657a43d1868a54bcc"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-6 Astra finished the game RimWorld in 15 hours.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T18:13:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/675bcdt8yxnh1.png?width=640&crop=smart&auto=webp&s=38a028cbeebe487acec5efbfdac8c7f0bdf15a19"
-      },
-      {
-        "rank": 5,
-        "title": "Denzel Washington explains why it's not \"AI slop\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1w9f4ko/denzel_washington_explains_why_its_not_ai_slop/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-07T02:08:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YW9lOGF1MHphMG9oMYo9zkEnXPuovGNkEixNKPKh5sff0IeLe7Dfc60kvnL8.png?width=640&crop=smart&auto=webp&s=96dfca8794b336aa489a3caf5e406f6769e220b8"
       }
     ]
   }

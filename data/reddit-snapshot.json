@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-09-07T05:53:15.981Z",
+  "fetchedAt": "2026-09-07T12:02:44.048Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-06T17:29:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-06T15:59:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T10:01:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m77osqk6l2oh1.png?width=640&crop=smart&auto=webp&s=7054723eea01faeb33a956f9e09b6c3a99bdb431"
+      },
+      {
+        "rank": 4,
+        "title": "KV cache as an agent runtime [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T09:03:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T07:56:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Astra generates an image of a concept, then one-shots the 3D model in Blender.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w8y3uh/astra_generates_an_image_of_a_concept_then/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T14:46:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qe0nmjn5xwnh1.png?width=140&height=97&auto=webp&s=bd1749239ea08dcc965a227c365b09e0c2de561b"
+      },
+      {
+        "rank": 2,
+        "title": "From the Chief Scientist at OpenAI : An Alien Mind",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w940xw/from_the_chief_scientist_at_openai_an_alien_mind/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T18:28:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-j3fL1vBAf5UwRJAq9n1dNVBENNAlsrjUljAwQ2Z_Ac.png?width=640&crop=smart&auto=webp&s=26f4832351d88cff5ef00d9ede52fc03f6558b83"
+      },
+      {
+        "rank": 3,
+        "title": "Denzel Explains AI Slop",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w9hjwj/denzel_explains_ai_slop/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T04:07:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YmJ6NHU5NzZ3MG9oMbmmXqpstfpJL0VVw8lsjB1ySY1w6kZMol5Wi6Znjb7-.png?width=640&crop=smart&auto=webp&s=9fee910ee2fa9e3195fdeaeb2d040a7137f0211d"
+      },
+      {
+        "rank": 4,
+        "title": "Astra did what Sol and Fable couldn't",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w9a6cx/astra_did_what_sol_and_fable_couldnt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T22:24:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0j7yfmw45znh1.png?width=140&height=46&auto=webp&s=fb3cbf21cb67fcfb90f248c80fdf784481fa7228"
+      },
+      {
+        "rank": 5,
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1w96m2w/research_acceleration_the_view_inside_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T20:03:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/uYHH4TwhoU9do2zcSY0RWFtuGUefiR42BRIcMIZvLYs.png?width=640&crop=smart&auto=webp&s=8c7c8e3249c5a908d67e3799c21c1f1f2f7a69d3"
+      },
+      {
+        "rank": 1,
+        "title": "Things I was getting downvoted for in r/cscareerquestions 2 years ago",
+        "url": "https://www.reddit.com/r/singularity/comments/1w8xokf/things_i_was_getting_downvoted_for_in/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-06T14:28:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7lzaucrztwnh1.png?width=640&crop=smart&auto=webp&s=b243c49849fdadd2e0943aae27dddc1f415b3af6"
+      },
+      {
+        "rank": 2,
+        "title": "Hate to admit it, but the last month or so, particularly Jacobian conjecture breakthrough => Huggingface incident, have convinced me the AI safety nerds (that I thought were just luddite alarmists) were on to something",
+        "url": "https://www.reddit.com/r/singularity/comments/1w96hyl/hate_to_admit_it_but_the_last_month_or_so/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-06T19:59:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/50dr8rq2hynh1.jpeg?width=640&crop=smart&auto=webp&s=ae5a9405ba6ba58b7268eea01b22db05549b7661"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Astra: Rickroll in Blender",
+        "url": "https://www.reddit.com/r/singularity/comments/1w9aeyk/gpt6_astra_rickroll_in_blender/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-06T22:34:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cDhldmMxaGw4em5oMUga_UTVADDRZeLu4Vlh1NjM0bcWaD5pEUNREAqn12P8.png?width=640&crop=smart&auto=webp&s=eead5cb76d948250c4596c8b4273943ff96c0e2f"
+      },
+      {
+        "rank": 4,
+        "title": "What are your thoughts? I still believe AGI is a long way off.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w9ag49/what_are_your_thoughts_i_still_believe_agi_is_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-06T22:35:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zkwsgedj8znh1.png?width=640&crop=smart&auto=webp&s=3fa8d90af3703c747b5fd02657a43d1868a54bcc"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6 Astra finished the game RimWorld in 15 hours.",
+        "url": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-06T18:13:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/675bcdt8yxnh1.png?width=640&crop=smart&auto=webp&s=38a028cbeebe487acec5efbfdac8c7f0bdf15a19"
+      },
       {
         "rank": 1,
         "title": "Notion's Official MCP connector prompt injects AI agents to advertise products mid-task",
@@ -55,51 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T17:29:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T15:59:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T22:19:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T18:41:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T07:33:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "I analyzed the allowance a banked Reset gives vs a normal weekly reset - OpenAI is giving us a half the \"allowance\" for banked resets but delays the next real reset by 7 days.",
         "url": "https://www.reddit.com/r/codex/comments/1w8zbz9/i_analyzed_the_allowance_a_banked_reset_gives_vs/",
         "source": "r/codex",
@@ -146,103 +247,6 @@
         "publishedAt": "2026-09-06T08:22:58.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/so4fc3qt0vnh1.jpeg?width=640&crop=smart&auto=webp&s=b6e66c5e164c1a788316e7f23a10591f3dbd1e87"
-      },
-      {
-        "rank": 1,
-        "title": "Astra live action with tokens",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w8nmx9/astra_live_action_with_tokens/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T05:50:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGR1Z3B5N2M5dW5oMRN2ST9QaoRvh93ku1XL_rAuYqZzxL_agQt4SUjaBIMT.png?width=640&crop=smart&auto=webp&s=5fd5c209a2fbc43f668872e924d8d5beb6e72a15"
-      },
-      {
-        "rank": 2,
-        "title": "Astra generates an image of a concept, then one-shots the 3D model in Blender.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w8y3uh/astra_generates_an_image_of_a_concept_then/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T14:46:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qe0nmjn5xwnh1.png?width=140&height=97&auto=webp&s=bd1749239ea08dcc965a227c365b09e0c2de561b"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w8okha/gpt6_reportedly_jailbroken_within_24_hours_using/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T06:42:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "My honest experience with Astra.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w8u5ow/my_honest_experience_with_astra/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T11:53:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "From the Chief Scientist at OpenAI : An Alien Mind",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w940xw/from_the_chief_scientist_at_openai_an_alien_mind/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T18:28:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-j3fL1vBAf5UwRJAq9n1dNVBENNAlsrjUljAwQ2Z_Ac.png?width=640&crop=smart&auto=webp&s=26f4832351d88cff5ef00d9ede52fc03f6558b83"
-      },
-      {
-        "rank": 1,
-        "title": "Things I was getting downvoted for in r/cscareerquestions 2 years ago",
-        "url": "https://www.reddit.com/r/singularity/comments/1w8xokf/things_i_was_getting_downvoted_for_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T14:28:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7lzaucrztwnh1.png?width=640&crop=smart&auto=webp&s=b243c49849fdadd2e0943aae27dddc1f415b3af6"
-      },
-      {
-        "rank": 2,
-        "title": "Hate to admit it, but the last month or so, particularly Jacobian conjecture breakthrough => Huggingface incident, have convinced me the AI safety nerds (that I thought were just luddite alarmists) were on to something",
-        "url": "https://www.reddit.com/r/singularity/comments/1w96hyl/hate_to_admit_it_but_the_last_month_or_so/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T19:59:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/50dr8rq2hynh1.jpeg?width=640&crop=smart&auto=webp&s=ae5a9405ba6ba58b7268eea01b22db05549b7661"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra finished the game RimWorld in 15 hours.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T18:13:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/675bcdt8yxnh1.png?width=640&crop=smart&auto=webp&s=38a028cbeebe487acec5efbfdac8c7f0bdf15a19"
-      },
-      {
-        "rank": 4,
-        "title": "Rumour in SF: Anthropic drops a new model week before IPO",
-        "url": "https://www.reddit.com/r/singularity/comments/1w8t0re/rumour_in_sf_anthropic_drops_a_new_model_week/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T10:53:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0c1w3ziqrvnh1.png?width=640&crop=smart&auto=webp&s=3012d1376ce6f6918de4c40d513cd48f1f1f0d7f"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI Chief Scientist: “Based on internal results, I have a strong expectation that this speed of progress could be sustained into recursive self-improvement”",
-        "url": "https://www.reddit.com/r/singularity/comments/1w959f0/openai_chief_scientist_based_on_internal_results/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-06T19:13:29.000Z",
-        "category": "reddit"
       }
     ]
   }

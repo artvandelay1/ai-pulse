@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-07T00:49:45.194Z",
+  "fetchedAt": "2026-09-07T05:53:15.981Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Notion's Official MCP connector prompt injects AI agents to advertise products mid-task",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9dluw/notions_official_mcp_connector_prompt_injects_ai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T00:56:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9n4ba4ilxznh1.png?width=640&crop=smart&auto=webp&s=b3097d259f4b5166dd26ac391e9786c359effddd"
+      },
+      {
+        "rank": 2,
+        "title": "Well even Claude know that iam pasted from chatgpt💀",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9aygp/well_even_claude_know_that_iam_pasted_from_chatgpt/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T22:57:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aflx00otcznh1.jpeg?width=640&crop=smart&auto=webp&s=63b471f64a1973cae944dcf1b04f7b3025b97fe7"
+      },
+      {
+        "rank": 3,
+        "title": "What happens if you give AI agents a place humans don’t control? One month later, here are the receipts.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w91i3b/what_happens_if_you_give_ai_agents_a_place_humans/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T16:56:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sihoti3pjxnh1.png?width=640&crop=smart&auto=webp&s=48c151deb7b9a42c2b6759eac6a47b599971911d"
+      },
+      {
+        "rank": 4,
+        "title": "How do you deal with Reddit being off limits?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8skpx/how_do_you_deal_with_reddit_being_off_limits/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T10:29:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Another Astra Post",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8v7ba/another_astra_post/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-06T12:43:15.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
@@ -25,15 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "AIStats 2027 Questions [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-06T03:33:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
         "source": "r/MachineLearning",
@@ -42,13 +81,71 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-06T18:41:34.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-06T07:33:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I analyzed the allowance a banked Reset gives vs a normal weekly reset - OpenAI is giving us a half the \"allowance\" for banked resets but delays the next real reset by 7 days.",
+        "url": "https://www.reddit.com/r/codex/comments/1w8zbz9/i_analyzed_the_allowance_a_banked_reset_gives_vs/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-06T15:34:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4kg2vzxr5xnh1.png?width=320&crop=smart&auto=webp&s=5509a9b4142161b7e9d90aab2d89a9fc58c35503"
+      },
+      {
+        "rank": 2,
+        "title": "Usage tip: “GPT-6 Astra on low performs better than GPT-5.6 Sol on high.”",
+        "url": "https://www.reddit.com/r/codex/comments/1w9erx3/usage_tip_gpt6_astra_on_low_performs_better_than/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-07T01:52:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/txt3s82280oh1.jpeg?width=640&crop=smart&auto=webp&s=31dada41df6a88d5829bb0c85027c9b012475fcb"
+      },
+      {
+        "rank": 3,
+        "title": "When, Tibo?",
+        "url": "https://www.reddit.com/r/codex/comments/1w951h1/when_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-06T19:05:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Tibo's response to the banked reset usage",
+        "url": "https://www.reddit.com/r/codex/comments/1w96j7c/tibos_response_to_the_banked_reset_usage/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-06T20:00:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6hdbmwe9hynh1.png?width=320&crop=smart&auto=webp&s=a396b7419149e297085aabb56cdfce927f5c09d8"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo on grok",
+        "url": "https://www.reddit.com/r/codex/comments/1w8qbyo/tibo_on_grok/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-06T08:22:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/so4fc3qt0vnh1.jpeg?width=640&crop=smart&auto=webp&s=b6e66c5e164c1a788316e7f23a10591f3dbd1e87"
       },
       {
         "rank": 1,
@@ -145,102 +242,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-09-06T19:13:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Day 5 of making a cozy game with no dev experience. The world is growing!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8mwa7/day_5_of_making_a_cozy_game_with_no_dev/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T05:10:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y200ajYwb2MydW5oMdKvnOIPSA9LDLKDv5HdqbOVtuz3Z9oP1oLzj-j1y77D.png?width=640&crop=smart&auto=webp&s=97c10bf9de4df69e5583175fe789900ed293bb22"
-      },
-      {
-        "rank": 2,
-        "title": "I thought I will never say this about Fable",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8h07m/i_thought_i_will_never_say_this_about_fable/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T00:17:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What happens if you give AI agents a place humans don’t control? One month later, here are the receipts.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w91i3b/what_happens_if_you_give_ai_agents_a_place_humans/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-06T16:56:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sihoti3pjxnh1.png?width=640&crop=smart&auto=webp&s=48c151deb7b9a42c2b6759eac6a47b599971911d"
-      },
-      {
-        "rank": 4,
-        "title": "Suddenly worried about costs of Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8fy9u/suddenly_worried_about_costs_of_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T23:29:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/70kstijfdsnh1.png?width=640&crop=smart&auto=webp&s=984b7f80a82563ade10f7da7fc8b82032127b0fe"
-      },
-      {
-        "rank": 5,
-        "title": "Am I the only one noticing the same pattern with every launch? Fable vs Astra",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w8g9dx/am_i_the_only_one_noticing_the_same_pattern_with/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-05T23:43:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "I analyzed the allowance a banked Reset gives vs a normal weekly reset - OpenAI is giving us a half the \"allowance\" for banked resets but delays the next real reset by 7 days.",
-        "url": "https://www.reddit.com/r/codex/comments/1w8zbz9/i_analyzed_the_allowance_a_banked_reset_gives_vs/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-06T15:34:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4kg2vzxr5xnh1.png?width=320&crop=smart&auto=webp&s=5509a9b4142161b7e9d90aab2d89a9fc58c35503"
-      },
-      {
-        "rank": 2,
-        "title": "The real benchmark test.",
-        "url": "https://www.reddit.com/r/codex/comments/1w8kr84/the_real_benchmark_test/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-06T03:20:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gcy7kv0witnh1.jpeg?width=640&crop=smart&auto=webp&s=db7ca7b436b9b034def3df0bda689159be790539"
-      },
-      {
-        "rank": 3,
-        "title": "Tibo on grok",
-        "url": "https://www.reddit.com/r/codex/comments/1w8qbyo/tibo_on_grok/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-06T08:22:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/so4fc3qt0vnh1.jpeg?width=640&crop=smart&auto=webp&s=b6e66c5e164c1a788316e7f23a10591f3dbd1e87"
-      },
-      {
-        "rank": 4,
-        "title": "Astra Low vs Luna Max implementer experiment, Part 2: Results",
-        "url": "https://www.reddit.com/r/codex/comments/1w8hmcz/astra_low_vs_luna_max_implementer_experiment_part/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-06T00:46:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "When, Tibo?",
-        "url": "https://www.reddit.com/r/codex/comments/1w951h1/when_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-06T19:05:30.000Z",
         "category": "reddit"
       }
     ]

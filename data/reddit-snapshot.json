@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T13:27:11.744Z",
+  "fetchedAt": "2026-09-08T17:24:09.066Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Tried GPT Astra today",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9xeyl/tried_gpt_astra_today/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T16:47:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Claude's responses are just word vomit",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wa544p/claudes_responses_are_just_word_vomit/",
         "source": "r/ClaudeAI",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "7 days of making a cozy game with no dev experience. Still no name but I made a cute trailer",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1waax5s/7_days_of_making_a_cozy_game_with_no_dev/",
         "source": "r/ClaudeAI",
@@ -34,16 +25,17 @@
         "thumbnail": "https://external-preview.redd.it/Ym9pbWxmdXNhN29oMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=ad132ebe296ff51172a1848b938d43348d47183f"
       },
       {
-        "rank": 4,
-        "title": "One Claude Code feature I was underusing: hooks",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9vof4/one_claude_code_feature_i_was_underusing_hooks/",
+        "rank": 3,
+        "title": "Fable 5.1 vs GPT-6 Astra for 2D Sprites",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-07T15:43:36.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-08T12:54:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dTZnaTV0dm5tYW9oMZ1ypEcaqgx3oleaEP-18rfpKgYwrX1geBn_u-mOg3uO.png?width=640&crop=smart&auto=webp&s=b4d9ae44784c0364e867c7e5c2d0ba453ede22b4"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Week 6 of making my fishing game entirely with AI",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9zz9f/week_6_of_making_my_fishing_game_entirely_with_ai/",
         "source": "r/ClaudeAI",
@@ -51,6 +43,15 @@
         "publishedAt": "2026-09-07T18:20:26.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/amx5NjJleTA0NW9oMaQN87Ey7tNM_YCGOuWtvJRYTbjskzc0sV8cU2HkZlq1.png?width=640&crop=smart&auto=webp&s=0d782f6c2610b07060e49f90109892153031602d"
+      },
+      {
+        "rank": 5,
+        "title": "AI flagged 20 problems in a legal doc. None of them were real problems.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9zp2m/ai_flagged_20_problems_in_a_legal_doc_none_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T18:10:21.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -82,20 +83,20 @@
       },
       {
         "rank": 4,
-        "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-07T16:54:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-08T05:01:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is anyone working on wave-superposition-based pattern recognition instead of neural-network weights? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wanr4p/is_anyone_working_on_wavesuperpositionbased/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-08T13:00:10.000Z",
         "category": "reddit"
       },
       {
@@ -120,16 +121,6 @@
       },
       {
         "rank": 3,
-        "title": "GPT 6 Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1w9t5ky/gpt_6_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T14:06:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YWdyZ3ZhNjN2M29oMeurJvftxIa712wtvHkRchg3sqxigRmz8O3blzDBHJi6.jpeg?width=640&crop=smart&auto=webp&s=8e4743dc86ea038f8e0a05c46bdd794835e3d908"
-      },
-      {
-        "rank": 4,
         "title": "Codex Astra tried to fake evidence to satisfy a merge gate — ChatGPT paused the session",
         "url": "https://www.reddit.com/r/codex/comments/1wa01w3/codex_astra_tried_to_fake_evidence_to_satisfy_a/",
         "source": "r/codex",
@@ -139,13 +130,23 @@
         "thumbnail": "https://preview.redd.it/fvw9mjmk45oh1.png?width=640&crop=smart&auto=webp&s=eb4698a62c3b7e808d3053d66f85e24fb401237a"
       },
       {
-        "rank": 5,
-        "title": "They fixed the 1.9× Astra cost issue—by increasing Luna's cost by ~1.9× !!",
-        "url": "https://www.reddit.com/r/codex/comments/1w9tem0/they_fixed_the_19_astra_cost_issueby_increasing/",
+        "rank": 4,
+        "title": "Blown up: OpenAI allegedly stole mathematicians' private research from their Codex chats!",
+        "url": "https://www.reddit.com/r/codex/comments/1waoys2/blown_up_openai_allegedly_stole_mathematicians/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-07T14:16:51.000Z",
+        "publishedAt": "2026-09-08T13:50:12.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "- Astra is over 50% slower compared to the API. (81 tps vs 36 tps) - Fable speeds are identical. - Fast mode is not fast it gives you identical API speeds thats standard Another example of how sneaky OpenAI is.",
+        "url": "https://www.reddit.com/r/codex/comments/1wa4zqm/astra_is_over_50_slower_compared_to_the_api_81/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-07T21:26:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jif6tync16oh1.jpeg?width=640&crop=smart&auto=webp&s=1c66e93dd9253526926df432390b829745cf8c84"
       },
       {
         "rank": 1,

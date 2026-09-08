@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-09-08T17:24:09.066Z",
+  "fetchedAt": "2026-09-08T20:10:44.337Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-08T17:42:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-08T00:05:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j69fd24dr6oh1.gif?frame=1&width=140&height=60&auto=webp&s=aeb2c2d1a30589f7b7037573b952e503a21cf54f"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-08T10:19:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-08T02:16:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-08T05:01:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 Astra has successfully beat all 48 levels of the \"I'm Not A Robot\" game",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wa4vir/gpt6_astra_has_successfully_beat_all_48_levels_of/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T21:21:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MHdldnl2b24wNm9oMRndwI9KD8R52OfPFO66g8podrqs5FXg9ruUZQzXXDDk.png?width=640&crop=smart&auto=webp&s=4fedd148d1998ce1074509824048381028ca7f86"
+      },
+      {
+        "rank": 2,
+        "title": "Today Astra is doing 100% of my job",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1waqlhc/today_astra_is_doing_100_of_my_job/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T14:52:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vcm3dgq28boh1.jpeg?width=640&crop=smart&auto=webp&s=b7e7091addec839c2c7674b5fa93b51155cbaca0"
+      },
+      {
+        "rank": 3,
+        "title": "Luna, Terra, Sol and Astra comparison",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wahg7y/luna_terra_sol_and_astra_comparison/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T07:24:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7akno86az8oh1.png?width=640&crop=smart&auto=webp&s=25c77b44fb51cba73945ec1f8902c09623f99585"
+      },
+      {
+        "rank": 4,
+        "title": "Helping GTA 6 Astra become AGI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wajm7k/helping_gta_6_astra_become_agi/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T09:33:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hnjrkv7an9oh1.jpeg?width=640&crop=smart&auto=webp&s=64a1cabd66c39fccff86acb92be2574246f6c118"
+      },
+      {
+        "rank": 5,
+        "title": "I used Codex GPT6 to get Doom running on my Samsung TV - and now I’m playing it with the TV remote",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wa3ilo/i_used_codex_gpt6_to_get_doom_running_on_my/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T20:29:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZWZmaXh2bjByNW9oMWN42GVk2Oyd86zoNtKTSF6seF02wpqfyUTZx-wJEliZ.png?width=640&crop=smart&auto=webp&s=84387ba10100377d0e6ea0f686e6f45a224121fe"
+      },
+      {
+        "rank": 1,
+        "title": "AGI achieved",
+        "url": "https://www.reddit.com/r/singularity/comments/1waav51/agi_achieved/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-08T01:41:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/itdb17hya7oh1.jpeg?width=640&crop=smart&auto=webp&s=29b5641c584bf815519245f8e2f95a2180efbe9d"
+      },
+      {
+        "rank": 2,
+        "title": "A Solution to the Navier-Stokes Millennium Prize Problem",
+        "url": "https://www.reddit.com/r/singularity/comments/1wauqbz/a_solution_to_the_navierstokes_millennium_prize/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-08T17:20:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "In 1962, one of the fathers of neural networks, Warren McCulloch, is asked if machines could one day care as humans do",
+        "url": "https://www.reddit.com/r/singularity/comments/1wa5yw0/in_1962_one_of_the_fathers_of_neural_networks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-07T22:05:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YThpempremI4Nm9oMbIrHlzZBx1qF9VS-QTJhjDf8tFz2rbPqmaA4YZ7Gjlx.png?width=640&crop=smart&auto=webp&s=b53946dddc98f55a8e1f0e9137535fd16e128cc4"
+      },
+      {
+        "rank": 4,
+        "title": "HairBench: there’s no AGI till male pattern baldness is reversed",
+        "url": "https://www.reddit.com/r/singularity/comments/1wagysy/hairbench_theres_no_agi_till_male_pattern/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-08T06:55:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "It's wild how far we've come",
+        "url": "https://www.reddit.com/r/singularity/comments/1wal4o3/its_wild_how_far_weve_come/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-08T10:57:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rf7h1ud62aoh1.jpeg?width=320&crop=smart&auto=webp&s=c73c09989818c591bc32d8b332fdbde9f088945e"
+      },
       {
         "rank": 1,
         "title": "Claude's responses are just word vomit",
@@ -55,52 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T00:05:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j69fd24dr6oh1.gif?frame=1&width=140&height=60&auto=webp&s=aeb2c2d1a30589f7b7037573b952e503a21cf54f"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T10:19:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T02:16:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T05:01:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is anyone working on wave-superposition-based pattern recognition instead of neural-network weights? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wanr4p/is_anyone_working_on_wavesuperpositionbased/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T13:00:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "GPT-6 Astra release summed up in one gif:",
         "url": "https://www.reddit.com/r/codex/comments/1w9z0wr/gpt6_astra_release_summed_up_in_one_gif/",
         "source": "r/codex",
@@ -147,105 +245,6 @@
         "publishedAt": "2026-09-07T21:26:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jif6tync16oh1.jpeg?width=640&crop=smart&auto=webp&s=1c66e93dd9253526926df432390b829745cf8c84"
-      },
-      {
-        "rank": 1,
-        "title": "Astra Be Like...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w9qqj4/astra_be_like/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T12:24:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p9x3v9jbc3oh1.png?width=640&crop=smart&auto=webp&s=0767a4303056e87ebdfbd92102cb51b1c71a8776"
-      },
-      {
-        "rank": 2,
-        "title": "Denzel Explains AI Slop",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w9hjwj/denzel_explains_ai_slop/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T04:07:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YmJ6NHU5NzZ3MG9oMbmmXqpstfpJL0VVw8lsjB1ySY1w6kZMol5Wi6Znjb7-.png?width=640&crop=smart&auto=webp&s=9fee910ee2fa9e3195fdeaeb2d040a7137f0211d"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra has successfully beat all 48 levels of the \"I'm Not A Robot\" game",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wa4vir/gpt6_astra_has_successfully_beat_all_48_levels_of/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T21:21:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MHdldnl2b24wNm9oMRndwI9KD8R52OfPFO66g8podrqs5FXg9ruUZQzXXDDk.png?width=640&crop=smart&auto=webp&s=4fedd148d1998ce1074509824048381028ca7f86"
-      },
-      {
-        "rank": 4,
-        "title": "I‘m bad at 3D tech stacks so I vibe coded an interactive Odyssey narrative scroll project using Astra",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1w9ou8a/im_bad_at_3d_tech_stacks_so_i_vibe_coded_an/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T10:50:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YW5wYzlwM3B2Mm9oMRBO-1AxhYwAqsbCouwbctAOggFynkiLBf8RuH7gg2bU.png?width=640&crop=smart&auto=webp&s=b09fb4f49dd77d8c7c647e5094fc4efb81361831"
-      },
-      {
-        "rank": 5,
-        "title": "I used Codex GPT6 to get Doom running on my Samsung TV - and now I’m playing it with the TV remote",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wa3ilo/i_used_codex_gpt6_to_get_doom_running_on_my/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T20:29:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZWZmaXh2bjByNW9oMWN42GVk2Oyd86zoNtKTSF6seF02wpqfyUTZx-wJEliZ.png?width=640&crop=smart&auto=webp&s=84387ba10100377d0e6ea0f686e6f45a224121fe"
-      },
-      {
-        "rank": 1,
-        "title": "An experimental AI-created drug for an incurable lung disease had a surprising effect during trials: it made the body's biological age indicators drop by 6 years, towards a younger state.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wa1a5n/an_experimental_aicreated_drug_for_an_incurable/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-07T19:07:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/8M8g9b80YKHu0jBN22S62iDvWQmCbfoX7JOuFj0kJIc.jpeg?width=640&crop=smart&auto=webp&s=cd7962cc4768208e2b5d7cb89d5d238319c36572"
-      },
-      {
-        "rank": 2,
-        "title": "Astra is now a certified human",
-        "url": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-07T08:48:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/octby766a2oh1.png?width=640&crop=smart&auto=webp&s=2aa2bd2b755809c420f79ba7948fd424a8c4abe4"
-      },
-      {
-        "rank": 3,
-        "title": "FactorioBench just dropped ;-)",
-        "url": "https://www.reddit.com/r/singularity/comments/1w9vpyv/factoriobench_just_dropped/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-07T15:45:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dg58ombfc4oh1.png?width=640&crop=smart&auto=webp&s=cab48e52367c2bc84534431a4bf344ea4a12138b"
-      },
-      {
-        "rank": 4,
-        "title": "Using H3 MAX this person is able to generate playable, real-time animated Pokémon battles.",
-        "url": "https://www.reddit.com/r/singularity/comments/1w9kjbe/using_h3_max_this_person_is_able_to_generate/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-07T06:45:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmh3M2RqOWFvMW9oMQMOMMujfEEP0J2RewQ36jRh-TfPb8yxASK1C6DX_Qlk.jpeg?width=640&crop=smart&auto=webp&s=126f628382c00f3efb765f3aaba0de726e9eb999"
-      },
-      {
-        "rank": 5,
-        "title": "\"The AGI I imagined was an Einstein-level intellect backed by massive compute, curing diseases, advancing science exponentially, and kicking off a whole new era for humanity.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1w9wmkt/the_agi_i_imagined_was_an_einsteinlevel_intellect/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-07T16:18:13.000Z",
-        "category": "reddit"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T03:52:42.595Z",
+  "fetchedAt": "2026-09-08T08:46:11.082Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,53 @@
     "items": [
       {
         "rank": 1,
-        "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
-        "source": "r/MachineLearning",
+        "title": "Tried GPT Astra today",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9xeyl/tried_gpt_astra_today/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-07T10:01:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m77osqk6l2oh1.png?width=640&crop=smart&auto=webp&s=7054723eea01faeb33a956f9e09b6c3a99bdb431"
+        "publishedAt": "2026-09-07T16:47:37.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
+        "title": "Inside Anthropic Labs, the small team behind Claude Code and other fast-moving product bets",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9pcjq/inside_anthropic_labs_the_small_team_behind/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T11:17:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bQVvFXqz7-JTDUqbXwywo1gifd6DAp42XHr85NGqCJ0.jpeg?width=640&crop=smart&auto=webp&s=b8fa9006ddadb18c923e0cda907e7122e51de95e"
+      },
+      {
+        "rank": 3,
+        "title": "Claude's responses are just word vomit",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wa544p/claudes_responses_are_just_word_vomit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T21:31:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "7 days of making a cozy game with no dev experience. Still no name but I made a cute trailer",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1waax5s/7_days_of_making_a_cozy_game_with_no_dev/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T01:43:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Ym9pbWxmdXNhN29oMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=ad132ebe296ff51172a1848b938d43348d47183f"
+      },
+      {
+        "rank": 5,
+        "title": "One Claude Code feature I was underusing: hooks",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9vof4/one_claude_code_feature_i_was_underusing_hooks/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-07T15:43:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
         "source": "r/MachineLearning",
@@ -26,16 +63,17 @@
         "thumbnail": "https://preview.redd.it/j69fd24dr6oh1.gif?frame=1&width=140&height=60&auto=webp&s=aeb2c2d1a30589f7b7037573b952e503a21cf54f"
       },
       {
-        "rank": 3,
-        "title": "KV cache as an agent runtime [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+        "rank": 2,
+        "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-07T09:03:48.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-07T10:01:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m77osqk6l2oh1.png?width=640&crop=smart&auto=webp&s=7054723eea01faeb33a956f9e09b6c3a99bdb431"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
         "source": "r/MachineLearning",
@@ -44,12 +82,70 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+        "rank": 4,
+        "title": "KV cache as an agent runtime [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-07T07:56:38.000Z",
+        "publishedAt": "2026-09-07T09:03:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-07T16:54:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 Astra release summed up in one gif:",
+        "url": "https://www.reddit.com/r/codex/comments/1w9z0wr/gpt6_astra_release_summed_up_in_one_gif/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-07T17:46:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4x0p6kt3y4oh1.gif?width=640&crop=smart&s=e141cb1ac49ffb1a466843403ada60a08642e112"
+      },
+      {
+        "rank": 2,
+        "title": "It is coming, 6PM PST today",
+        "url": "https://www.reddit.com/r/codex/comments/1wa1udh/it_is_coming_6pm_pst_today/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-07T19:27:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/p26l8m4ag5oh1.jpeg?width=640&crop=smart&auto=webp&s=3ff98abfa3df8e2117a452224eca36398cb28054"
+      },
+      {
+        "rank": 3,
+        "title": "GPT 6 Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1w9t5ky/gpt_6_astra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-07T14:06:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YWdyZ3ZhNjN2M29oMeurJvftxIa712wtvHkRchg3sqxigRmz8O3blzDBHJi6.jpeg?width=640&crop=smart&auto=webp&s=8e4743dc86ea038f8e0a05c46bdd794835e3d908"
+      },
+      {
+        "rank": 4,
+        "title": "Codex Astra tried to fake evidence to satisfy a merge gate — ChatGPT paused the session",
+        "url": "https://www.reddit.com/r/codex/comments/1wa01w3/codex_astra_tried_to_fake_evidence_to_satisfy_a/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-07T18:23:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fvw9mjmk45oh1.png?width=640&crop=smart&auto=webp&s=eb4698a62c3b7e808d3053d66f85e24fb401237a"
+      },
+      {
+        "rank": 5,
+        "title": "They fixed the 1.9× Astra cost issue—by increasing Luna's cost by ~1.9× !!",
+        "url": "https://www.reddit.com/r/codex/comments/1w9tem0/they_fixed_the_19_astra_cost_issueby_increasing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-07T14:16:51.000Z",
         "category": "reddit"
       },
       {
@@ -150,104 +246,6 @@
         "score": 0,
         "publishedAt": "2026-09-07T16:18:13.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Notion's Official MCP connector prompt injects AI agents to advertise products mid-task",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9dluw/notions_official_mcp_connector_prompt_injects_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T00:56:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9n4ba4ilxznh1.png?width=640&crop=smart&auto=webp&s=b3097d259f4b5166dd26ac391e9786c359effddd"
-      },
-      {
-        "rank": 2,
-        "title": "Inside Anthropic Labs, the small team behind Claude Code and other fast-moving product bets",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9pcjq/inside_anthropic_labs_the_small_team_behind/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T11:17:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bQVvFXqz7-JTDUqbXwywo1gifd6DAp42XHr85NGqCJ0.jpeg?width=640&crop=smart&auto=webp&s=b8fa9006ddadb18c923e0cda907e7122e51de95e"
-      },
-      {
-        "rank": 3,
-        "title": "Tried GPT Astra today",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9xeyl/tried_gpt_astra_today/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T16:47:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "denzel explains ai slop",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9h9wi/denzel_explains_ai_slop/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T03:54:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dWQxc21scnR0MG9oMbmmXqpstfpJL0VVw8lsjB1ySY1w6kZMol5Wi6Znjb7-.png?width=640&crop=smart&auto=webp&s=62ec76b093a3b04708f9966005feca4b3322ce66"
-      },
-      {
-        "rank": 5,
-        "title": "Claude Pro Token Usage Has Increased Dramatically After the Latest Update. Anyone Else?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9i1iv/claude_pro_token_usage_has_increased_dramatically/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T04:33:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZXh1bDFzM3Z6MG9oMU2omdCpp0znY9f6ZsKsENICsk1kugFJgpZOER-HKAbe.png?width=640&crop=smart&auto=webp&s=5ae6be83eb765bd769fc534994cec66020ba38e6"
-      },
-      {
-        "rank": 1,
-        "title": "Usage tip: “GPT-6 Astra on low performs better than GPT-5.6 Sol on high.”",
-        "url": "https://www.reddit.com/r/codex/comments/1w9erx3/usage_tip_gpt6_astra_on_low_performs_better_than/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T01:52:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/txt3s82280oh1.jpeg?width=640&crop=smart&auto=webp&s=31dada41df6a88d5829bb0c85027c9b012475fcb"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6 Astra Light, together with the entire OpenAI voice stack, is genuinely the inflection point. This is insanity.",
-        "url": "https://www.reddit.com/r/codex/comments/1w9i5zu/gpt6_astra_light_together_with_the_entire_openai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T04:39:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra release summed up in one gif:",
-        "url": "https://www.reddit.com/r/codex/comments/1w9z0wr/gpt6_astra_release_summed_up_in_one_gif/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T17:46:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4x0p6kt3y4oh1.gif?width=640&crop=smart&s=e141cb1ac49ffb1a466843403ada60a08642e112"
-      },
-      {
-        "rank": 4,
-        "title": "It is coming, 6PM PST today",
-        "url": "https://www.reddit.com/r/codex/comments/1wa1udh/it_is_coming_6pm_pst_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T19:27:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p26l8m4ag5oh1.jpeg?width=640&crop=smart&auto=webp&s=3ff98abfa3df8e2117a452224eca36398cb28054"
-      },
-      {
-        "rank": 5,
-        "title": "Astra usage reportedly improved for power users",
-        "url": "https://www.reddit.com/r/codex/comments/1w99ip3/astra_usage_reportedly_improved_for_power_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-06T21:56:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/d0kzgttz1znh1.png?width=320&crop=smart&auto=webp&s=b942a8a9fd39d8e96e0c5cb0b9c8886844ad9a32"
       }
     ]
   }

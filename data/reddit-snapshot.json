@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-09T01:08:43.767Z",
+  "fetchedAt": "2026-09-09T06:32:07.143Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Fable 5.1 vs GPT-6 Astra for 2D Sprites",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T12:54:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dTZnaTV0dm5tYW9oMZ1ypEcaqgx3oleaEP-18rfpKgYwrX1geBn_u-mOg3uO.png?width=640&crop=smart&auto=webp&s=b4d9ae44784c0364e867c7e5c2d0ba453ede22b4"
+      },
+      {
+        "rank": 2,
+        "title": "I made a virtual lounge for vibecoders to hang out while claude code is running.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wb7190/i_made_a_virtual_lounge_for_vibecoders_to_hang/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T01:05:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dndmMzNldWFnZG9oMeuPF-vZggshl1x50DjwOYuoPo7guWIBBBjzp58TiDD9.png?width=640&crop=smart&auto=webp&s=f1b599c0fab80e73f65071ff6830bd2d99e86c79"
+      },
+      {
+        "rank": 3,
+        "title": "I ported Toyota's Lean quality system to Claude Code so the same agent mistakes stop coming back (MIT, free)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1waoo5h/i_ported_toyotas_lean_quality_system_to_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T13:38:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Great idea, Claude!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wawozx/great_idea_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T18:28:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n9hn2cbz9coh1.jpeg?width=640&crop=smart&auto=webp&s=fb5c718fdb4dbab31a2de0e9c3bfd4796c68e22e"
+      },
+      {
+        "rank": 5,
+        "title": "Is your name Claude or do you know someone named Claude?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wagymg/is_your_name_claude_or_do_you_know_someone_named/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T06:55:20.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
@@ -25,15 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T02:16:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "ECCV 2026 Social Groups [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wb0k5w/eccv_2026_social_groups_d/",
         "source": "r/MachineLearning",
@@ -42,12 +81,50 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Blown up: OpenAI allegedly stole mathematicians' private research from their Codex chats!",
+        "url": "https://www.reddit.com/r/codex/comments/1waoys2/blown_up_openai_allegedly_stole_mathematicians/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-08T05:01:04.000Z",
+        "publishedAt": "2026-09-08T13:50:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Opinion: Astra is overhyped",
+        "url": "https://www.reddit.com/r/codex/comments/1wah1jk/opinion_astra_is_overhyped/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-08T07:00:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Shots were fired",
+        "url": "https://www.reddit.com/r/codex/comments/1wb6msb/shots_were_fired/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-09T00:47:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0gli5q2b6eoh1.png?width=320&crop=smart&auto=webp&s=773963999aabc05a52511bde60ff95af651aef99"
+      },
+      {
+        "rank": 4,
+        "title": "just one… one more time, Tibo… I-I promise… no more rsets after this…",
+        "url": "https://www.reddit.com/r/codex/comments/1wat9lv/just_one_one_more_time_tibo_ii_promise_no_more/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-08T16:28:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4v1fara7pboh1.jpeg?width=640&crop=smart&auto=webp&s=a85414bff2fd554630f854744c293127cd28f044"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT Images 2.5 released!",
+        "url": "https://www.reddit.com/r/codex/comments/1waxfbk/chatgpt_images_25_released/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-08T18:53:44.000Z",
         "category": "reddit"
       },
       {
@@ -146,103 +223,6 @@
         "score": 0,
         "publishedAt": "2026-09-08T06:55:34.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude's responses are just word vomit",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wa544p/claudes_responses_are_just_word_vomit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T21:31:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "7 days of making a cozy game with no dev experience. Still no name but I made a cute trailer",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1waax5s/7_days_of_making_a_cozy_game_with_no_dev/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-08T01:43:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Ym9pbWxmdXNhN29oMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&crop=smart&auto=webp&s=ad132ebe296ff51172a1848b938d43348d47183f"
-      },
-      {
-        "rank": 3,
-        "title": "Fable 5.1 vs GPT-6 Astra for 2D Sprites",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-08T12:54:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dTZnaTV0dm5tYW9oMZ1ypEcaqgx3oleaEP-18rfpKgYwrX1geBn_u-mOg3uO.png?width=640&crop=smart&auto=webp&s=b4d9ae44784c0364e867c7e5c2d0ba453ede22b4"
-      },
-      {
-        "rank": 4,
-        "title": "Week 6 of making my fishing game entirely with AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9zz9f/week_6_of_making_my_fishing_game_entirely_with_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T18:20:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/amx5NjJleTA0NW9oMaQN87Ey7tNM_YCGOuWtvJRYTbjskzc0sV8cU2HkZlq1.png?width=640&crop=smart&auto=webp&s=0d782f6c2610b07060e49f90109892153031602d"
-      },
-      {
-        "rank": 5,
-        "title": "AI flagged 20 problems in a legal doc. None of them were real problems.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1w9zp2m/ai_flagged_20_problems_in_a_legal_doc_none_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-07T18:10:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 Astra release summed up in one gif:",
-        "url": "https://www.reddit.com/r/codex/comments/1w9z0wr/gpt6_astra_release_summed_up_in_one_gif/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T17:46:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4x0p6kt3y4oh1.gif?width=640&crop=smart&s=e141cb1ac49ffb1a466843403ada60a08642e112"
-      },
-      {
-        "rank": 2,
-        "title": "It is coming, 6PM PST today",
-        "url": "https://www.reddit.com/r/codex/comments/1wa1udh/it_is_coming_6pm_pst_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T19:27:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p26l8m4ag5oh1.jpeg?width=640&crop=smart&auto=webp&s=3ff98abfa3df8e2117a452224eca36398cb28054"
-      },
-      {
-        "rank": 3,
-        "title": "Codex Astra tried to fake evidence to satisfy a merge gate — ChatGPT paused the session",
-        "url": "https://www.reddit.com/r/codex/comments/1wa01w3/codex_astra_tried_to_fake_evidence_to_satisfy_a/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T18:23:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fvw9mjmk45oh1.png?width=640&crop=smart&auto=webp&s=eb4698a62c3b7e808d3053d66f85e24fb401237a"
-      },
-      {
-        "rank": 4,
-        "title": "Blown up: OpenAI allegedly stole mathematicians' private research from their Codex chats!",
-        "url": "https://www.reddit.com/r/codex/comments/1waoys2/blown_up_openai_allegedly_stole_mathematicians/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-08T13:50:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "- Astra is over 50% slower compared to the API. (81 tps vs 36 tps) - Fable speeds are identical. - Fast mode is not fast it gives you identical API speeds thats standard Another example of how sneaky OpenAI is.",
-        "url": "https://www.reddit.com/r/codex/comments/1wa4zqm/astra_is_over_50_slower_compared_to_the_api_81/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-07T21:26:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jif6tync16oh1.jpeg?width=640&crop=smart&auto=webp&s=1c66e93dd9253526926df432390b829745cf8c84"
       }
     ]
   }

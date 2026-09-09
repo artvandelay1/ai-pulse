@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T22:56:47.141Z",
+  "fetchedAt": "2026-09-09T01:08:43.767Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,16 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T00:05:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j69fd24dr6oh1.gif?frame=1&width=140&height=60&auto=webp&s=aeb2c2d1a30589f7b7037573b952e503a21cf54f"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
         "source": "r/MachineLearning",
@@ -34,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
         "source": "r/MachineLearning",
@@ -43,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "ECCV 2026 Social Groups [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wb0k5w/eccv_2026_social_groups_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-08T20:44:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-08T05:01:04.000Z",
         "category": "reddit"
       },
       {
@@ -73,6 +72,16 @@
       },
       {
         "rank": 3,
+        "title": "OpenAI threatened to ruin star mathematician's career",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wayuay/openai_threatened_to_ruin_star_mathematicians/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T19:43:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tm72mtvzncoh1.png?width=640&crop=smart&auto=webp&s=27710a4c5e498816f60f0c616b3ebe52af67d014"
+      },
+      {
+        "rank": 4,
         "title": "Millenium Prize solution discovered at OpenAI",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wav1l6/millenium_prize_solution_discovered_at_openai/",
         "source": "r/OpenAI",
@@ -82,7 +91,7 @@
         "thumbnail": "https://preview.redd.it/mi1582vh0coh1.png?width=640&crop=smart&auto=webp&s=e49c118812a596e1bf8952d9aaccbcfbbfe73a45"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Helping GTA 6 Astra become AGI",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wajm7k/helping_gta_6_astra_become_agi/",
         "source": "r/OpenAI",
@@ -90,16 +99,6 @@
         "publishedAt": "2026-09-08T09:33:46.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/hnjrkv7an9oh1.jpeg?width=640&crop=smart&auto=webp&s=64a1cabd66c39fccff86acb92be2574246f6c118"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI threatened to ruin star mathematician's career",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wayuay/openai_threatened_to_ruin_star_mathematicians/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-08T19:43:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tm72mtvzncoh1.png?width=640&crop=smart&auto=webp&s=27710a4c5e498816f60f0c616b3ebe52af67d014"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T06:32:07.143Z",
+  "fetchedAt": "2026-09-09T11:49:09.878Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Fable 5.1 vs GPT-6 Astra for 2D Sprites",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-08T12:54:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dTZnaTV0dm5tYW9oMZ1ypEcaqgx3oleaEP-18rfpKgYwrX1geBn_u-mOg3uO.png?width=640&crop=smart&auto=webp&s=b4d9ae44784c0364e867c7e5c2d0ba453ede22b4"
-      },
-      {
-        "rank": 2,
         "title": "I made a virtual lounge for vibecoders to hang out while claude code is running.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wb7190/i_made_a_virtual_lounge_for_vibecoders_to_hang/",
         "source": "r/ClaudeAI",
@@ -24,6 +14,16 @@
         "publishedAt": "2026-09-09T01:05:01.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/dndmMzNldWFnZG9oMeuPF-vZggshl1x50DjwOYuoPo7guWIBBBjzp58TiDD9.png?width=640&crop=smart&auto=webp&s=f1b599c0fab80e73f65071ff6830bd2d99e86c79"
+      },
+      {
+        "rank": 2,
+        "title": "Fable 5.1 vs GPT-6 Astra for 2D Sprites",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-08T12:54:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dTZnaTV0dm5tYW9oMZ1ypEcaqgx3oleaEP-18rfpKgYwrX1geBn_u-mOg3uO.png?width=640&crop=smart&auto=webp&s=b4d9ae44784c0364e867c7e5c2d0ba453ede22b4"
       },
       {
         "rank": 3,
@@ -46,12 +46,13 @@
       },
       {
         "rank": 5,
-        "title": "Is your name Claude or do you know someone named Claude?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wagymg/is_your_name_claude_or_do_you_know_someone_named/",
+        "title": "Anthropic researcher quits, saying Anthropic and OpenAI are 'gambling with our lives'",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbi2pr/anthropic_researcher_quits_saying_anthropic_and/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-08T06:55:20.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-09T10:45:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/7sN3U1-OyWLOqbQPCyPtkkQCus__PUt-ZBtytsXojPo.jpeg?width=640&crop=smart&auto=webp&s=66305985040589cf3ee784aeb1578d2b0f7346f8"
       },
       {
         "rank": 1,
@@ -64,11 +65,11 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+        "title": "Teach ML! Community service project from Stanford [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-08T10:19:04.000Z",
+        "publishedAt": "2026-09-09T07:54:14.000Z",
         "category": "reddit"
       },
       {
@@ -91,15 +92,6 @@
       },
       {
         "rank": 2,
-        "title": "Opinion: Astra is overhyped",
-        "url": "https://www.reddit.com/r/codex/comments/1wah1jk/opinion_astra_is_overhyped/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-08T07:00:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Shots were fired",
         "url": "https://www.reddit.com/r/codex/comments/1wb6msb/shots_were_fired/",
         "source": "r/codex",
@@ -107,6 +99,16 @@
         "publishedAt": "2026-09-09T00:47:53.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0gli5q2b6eoh1.png?width=320&crop=smart&auto=webp&s=773963999aabc05a52511bde60ff95af651aef99"
+      },
+      {
+        "rank": 3,
+        "title": "Demand for Astra is really unprecedented. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues. - Tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1wbcuvn/demand_for_astra_is_really_unprecedented_priority/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-09T05:46:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hw7tw9xenfoh1.png?width=140&height=57&auto=webp&s=e2d6a9601b8deb6e6e62ba1115347d08e000e9ee"
       },
       {
         "rank": 4,
@@ -120,12 +122,13 @@
       },
       {
         "rank": 5,
-        "title": "ChatGPT Images 2.5 released!",
-        "url": "https://www.reddit.com/r/codex/comments/1waxfbk/chatgpt_images_25_released/",
+        "title": "GPT-6 Astra Max spent 7 hours building a fully animated tractor in Blender — 3,000+ parts and 100+ animations",
+        "url": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-08T18:53:44.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-09T02:28:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cogftwb0oeoh1.gif?frame=1&width=140&height=105&auto=webp&s=811be68301ff39b6306ecc208a1339b307f0b9f8"
       },
       {
         "rank": 1,

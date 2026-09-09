@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-09T16:16:50.798Z",
+  "fetchedAt": "2026-09-09T19:25:46.831Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-08T17:42:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Teach ML! Community service project from Stanford [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "ECCV 2026 Social Groups [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wb0k5w/eccv_2026_social_groups_d/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
         "source": "r/MachineLearning",
@@ -64,32 +55,33 @@
       },
       {
         "rank": 3,
-        "title": "Millenium Prize solution discovered at OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wav1l6/millenium_prize_solution_discovered_at_openai/",
+        "title": "Wake me up when...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wbn4e6/wake_me_up_when/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-08T17:31:24.000Z",
+        "publishedAt": "2026-09-09T14:26:47.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mi1582vh0coh1.png?width=640&crop=smart&auto=webp&s=e49c118812a596e1bf8952d9aaccbcfbbfe73a45"
+        "thumbnail": "https://preview.redd.it/y4lt72id8ioh1.png?width=640&crop=smart&auto=webp&s=bd84d6e20bad526426de6f8a6f0d329b9498a25d"
       },
       {
         "rank": 4,
-        "title": "IntroducingChatGPT Images 2.5",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wax7bo/introducingchatgpt_images_25/",
+        "title": "\"The people building AI earnestly believe that it could kill us all by the end of the decade\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wbcfxl/the_people_building_ai_earnestly_believe_that_it/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-08T18:46:11.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-09T05:23:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5xew0wyijfoh1.png?width=320&crop=smart&auto=webp&s=947bf7f7cf0be8d3e333ef2e2fcacf06077614fe"
       },
       {
         "rank": 5,
-        "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wawnm0/openai_just_claimed_a_huge_math_discovery_some/",
+        "title": "OpenAI might pause Pro subscriptions due to demand",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wbeilc/openai_might_pause_pro_subscriptions_due_to_demand/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-08T18:27:09.000Z",
+        "publishedAt": "2026-09-09T07:18:51.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-Id-uj5ZtGfWIXJssxMy7lahR1AOGFdkbKnclKTYyIo.jpeg?width=640&crop=smart&auto=webp&s=4acbee9cceafc6c3ee80462f62b363b7464ffad6"
+        "thumbnail": "https://preview.redd.it/gjea5g824goh1.png?width=320&crop=smart&auto=webp&s=9ebc59d7cc1416247ac4e9e6996b54745e6b2b85"
       },
       {
         "rank": 1,
@@ -113,15 +105,6 @@
       },
       {
         "rank": 3,
-        "title": "A Solution to the Navier-Stokes Millennium Prize Problem",
-        "url": "https://www.reddit.com/r/singularity/comments/1wauqbz/a_solution_to_the_navierstokes_millennium_prize/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-08T17:20:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Insane times we live in",
         "url": "https://www.reddit.com/r/singularity/comments/1wb3yc0/insane_times_we_live_in/",
         "source": "r/singularity",
@@ -131,13 +114,24 @@
         "thumbnail": "https://preview.redd.it/idbpj8e1mdoh1.jpeg?width=640&crop=smart&auto=webp&s=f953f0e953d73b28d3d9f20dc21a6aed59a04def"
       },
       {
-        "rank": 5,
-        "title": "Today is a historical moment.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wawkq5/today_is_a_historical_moment/",
+        "rank": 4,
+        "title": "We are at the dawn of a new era",
+        "url": "https://www.reddit.com/r/singularity/comments/1wbmva1/we_are_at_the_dawn_of_a_new_era/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-08T18:24:25.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-09T14:17:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vvkeog3o6ioh1.jpeg?width=640&crop=smart&auto=webp&s=14d52fcce315e85b9c0f3555d89c55c7674adc82"
+      },
+      {
+        "rank": 5,
+        "title": "Sam Altman on Room Temperature Superconductors & Anthropic: \"Let's try that.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wb5et4/sam_altman_on_room_temperature_superconductors/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-08T23:55:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lnpsotfywdoh1.jpeg?width=320&crop=smart&auto=webp&s=1c08b554f1afa2689ac64eed9ae5c13e5fb083be"
       },
       {
         "rank": 1,

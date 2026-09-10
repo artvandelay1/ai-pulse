@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T20:00:06.459Z",
+  "fetchedAt": "2026-09-10T22:29:07.668Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,16 +37,6 @@
       },
       {
         "rank": 4,
-        "title": "I got accepted into the Cyber Verification Program at Anthropic!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbx66j/i_got_accepted_into_the_cyber_verification/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T20:23:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8589ebf30koh1.jpeg?width=640&crop=smart&auto=webp&s=81ce7bc2d70573ff56d0a46bef7e95ce238a88b1"
-      },
-      {
-        "rank": 5,
         "title": "Claude Code just burned fifty million tokens in seconds",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wce8dh/claude_code_just_burned_fifty_million_tokens_in/",
         "source": "r/ClaudeAI",
@@ -54,6 +44,16 @@
         "publishedAt": "2026-09-10T09:30:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/hyilflpjwnoh1.png?width=640&crop=smart&auto=webp&s=4730eaa9cd3eda178c6de03099dd6c93252dc869"
+      },
+      {
+        "rank": 5,
+        "title": "Took a break for a few days so no new game updates but....",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wc6prf/took_a_break_for_a_few_days_so_no_new_game/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T02:52:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lnzdcamwwloh1.jpeg?width=640&crop=smart&auto=webp&s=1416723cf6d5b96aad7144688e3097c3adfe17f2"
       },
       {
         "rank": 1,
@@ -66,24 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-10T02:28:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-10T13:44:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
         "source": "r/MachineLearning",
@@ -92,17 +74,25 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Can’t wait",
-        "url": "https://www.reddit.com/r/codex/comments/1wc2nwy/cant_wait/",
-        "source": "r/codex",
+        "rank": 3,
+        "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-09T23:55:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/86gw5ruz1loh1.jpeg?width=640&crop=smart&auto=webp&s=c1d9c607eed013fd4956ce9c3a6485ecc4e1b4ae"
+        "publishedAt": "2026-09-10T02:28:58.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T13:44:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Training Astra",
         "url": "https://www.reddit.com/r/codex/comments/1wcfboo/training_astra/",
         "source": "r/codex",
@@ -112,16 +102,36 @@
         "thumbnail": "https://preview.redd.it/y7241re37ooh1.jpeg?width=640&crop=smart&auto=webp&s=84fa7f0d863de8b619ae81f9357052c63af29322"
       },
       {
-        "rank": 3,
-        "title": "We need GPT6 Luna",
-        "url": "https://www.reddit.com/r/codex/comments/1wc3k1y/we_need_gpt6_luna/",
+        "rank": 2,
+        "title": "Can’t wait",
+        "url": "https://www.reddit.com/r/codex/comments/1wc2nwy/cant_wait/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-10T00:33:10.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-09T23:55:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/86gw5ruz1loh1.jpeg?width=640&crop=smart&auto=webp&s=c1d9c607eed013fd4956ce9c3a6485ecc4e1b4ae"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6-Sol staged in OpenAI API",
+        "url": "https://www.reddit.com/r/codex/comments/1wcpz5j/gpt6sol_staged_in_openai_api/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-10T17:35:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wwq25yv0bqoh1.png?width=640&crop=smart&auto=webp&s=7b03f2f9f1a8f80b9100eddb45b7fcae42c24684"
       },
       {
         "rank": 4,
+        "title": "The limits got nerfed HARD",
+        "url": "https://www.reddit.com/r/codex/comments/1wchlld/the_limits_got_nerfed_hard/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-10T12:19:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Limits are absolutely destroyed",
         "url": "https://www.reddit.com/r/codex/comments/1wc4aqe/limits_are_absolutely_destroyed/",
         "source": "r/codex",
@@ -129,15 +139,6 @@
         "publishedAt": "2026-09-10T01:05:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ik6bo1ldeloh1.png?width=140&height=51&auto=webp&s=999cfe6e561e52b6b24f210436648a34fdf9ca78"
-      },
-      {
-        "rank": 5,
-        "title": "The limits got nerfed HARD",
-        "url": "https://www.reddit.com/r/codex/comments/1wchlld/the_limits_got_nerfed_hard/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-10T12:19:46.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

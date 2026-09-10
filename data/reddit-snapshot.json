@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-09-10T13:28:44.187Z",
+  "fetchedAt": "2026-09-10T17:09:07.161Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists - The American Prospect",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wc7frn/anthropic_is_building_a_predictive_surveillance/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T03:26:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/gMqxSF_i6UxzExWpWAOJC5Q09QHAyMXnI1nYEYZKtIE.jpeg?width=640&crop=smart&auto=webp&s=20170d1e9a9337033abc4a01bafeb3900dfcadbd"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic whistleblower gave up his equity to leave the company",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcfso0/anthropic_whistleblower_gave_up_his_equity_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T10:54:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/UD4unH5vrRN48UWWsk8uR6y3YKBOyn0Zo23urqoij1Y.jpeg?width=640&crop=smart&auto=webp&s=00b01496673c67c7b560e8d247e1de83aed2f1fc"
+      },
+      {
+        "rank": 3,
+        "title": "I got accepted into the Cyber Verification Program at Anthropic!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbx66j/i_got_accepted_into_the_cyber_verification/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T20:23:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8589ebf30koh1.jpeg?width=640&crop=smart&auto=webp&s=81ce7bc2d70573ff56d0a46bef7e95ce238a88b1"
+      },
+      {
+        "rank": 4,
+        "title": "Chatgpt $20 plan VS Claude $20 plan",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbux15/chatgpt_20_plan_vs_claude_20_plan/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T19:04:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Code just burned fifty million tokens in seconds",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wce8dh/claude_code_just_burned_fifty_million_tokens_in/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T09:30:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hyilflpjwnoh1.png?width=640&crop=smart&auto=webp&s=4730eaa9cd3eda178c6de03099dd6c93252dc869"
+      },
       {
         "rank": 1,
         "title": "ICDE Results [D]",
@@ -16,6 +65,24 @@
       },
       {
         "rank": 2,
+        "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T03:28:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T13:44:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
         "source": "r/MachineLearning",
@@ -24,12 +91,51 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Can’t wait",
+        "url": "https://www.reddit.com/r/codex/comments/1wc2nwy/cant_wait/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-10T03:28:41.000Z",
+        "publishedAt": "2026-09-09T23:55:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/86gw5ruz1loh1.jpeg?width=640&crop=smart&auto=webp&s=c1d9c607eed013fd4956ce9c3a6485ecc4e1b4ae"
+      },
+      {
+        "rank": 2,
+        "title": "Training Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1wcfboo/training_astra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-10T10:29:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y7241re37ooh1.jpeg?width=640&crop=smart&auto=webp&s=84fa7f0d863de8b619ae81f9357052c63af29322"
+      },
+      {
+        "rank": 3,
+        "title": "We need GPT6 Luna",
+        "url": "https://www.reddit.com/r/codex/comments/1wc3k1y/we_need_gpt6_luna/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-10T00:33:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Limits are absolutely destroyed",
+        "url": "https://www.reddit.com/r/codex/comments/1wc4aqe/limits_are_absolutely_destroyed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-10T01:05:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ik6bo1ldeloh1.png?width=140&height=51&auto=webp&s=999cfe6e561e52b6b24f210436648a34fdf9ca78"
+      },
+      {
+        "rank": 5,
+        "title": "The limits got nerfed HARD",
+        "url": "https://www.reddit.com/r/codex/comments/1wchlld/the_limits_got_nerfed_hard/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-10T12:19:46.000Z",
         "category": "reddit"
       },
       {
@@ -130,103 +236,6 @@
         "publishedAt": "2026-09-09T16:59:16.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dgqdjd6qyioh1.jpeg?width=640&crop=smart&auto=webp&s=740dd54d963c3c16f407cda9e5079c0fa96de36f"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic researcher quits, saying Anthropic and OpenAI are 'gambling with our lives'",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbi2pr/anthropic_researcher_quits_saying_anthropic_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T10:45:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/7sN3U1-OyWLOqbQPCyPtkkQCus__PUt-ZBtytsXojPo.jpeg?width=640&crop=smart&auto=webp&s=66305985040589cf3ee784aeb1578d2b0f7346f8"
-      },
-      {
-        "rank": 2,
-        "title": "I made a virtual lounge for vibecoders to hang out while claude code is running.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wb7190/i_made_a_virtual_lounge_for_vibecoders_to_hang/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T01:05:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dndmMzNldWFnZG9oMeuPF-vZggshl1x50DjwOYuoPo7guWIBBBjzp58TiDD9.png?width=640&crop=smart&auto=webp&s=f1b599c0fab80e73f65071ff6830bd2d99e86c79"
-      },
-      {
-        "rank": 3,
-        "title": "Cut your Claude Code cost by 90% using the Spotify Method",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbmcgw/cut_your_claude_code_cost_by_90_using_the_spotify/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T13:57:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1ihwmfm73ioh1.png?width=640&crop=smart&auto=webp&s=f055b12e78d626f342fb81320fd0b8d935af073f"
-      },
-      {
-        "rank": 4,
-        "title": "Opus Simulator",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbka16/opus_simulator/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T12:32:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "You’re right, and it’s worse than I thought",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbbhsy/youre_right_and_its_worse_than_i_thought/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T04:34:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Shots were fired",
-        "url": "https://www.reddit.com/r/codex/comments/1wb6msb/shots_were_fired/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-09T00:47:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0gli5q2b6eoh1.png?width=320&crop=smart&auto=webp&s=773963999aabc05a52511bde60ff95af651aef99"
-      },
-      {
-        "rank": 2,
-        "title": "Demand for Astra is really unprecedented. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues. - Tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1wbcuvn/demand_for_astra_is_really_unprecedented_priority/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-09T05:46:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hw7tw9xenfoh1.png?width=140&height=57&auto=webp&s=e2d6a9601b8deb6e6e62ba1115347d08e000e9ee"
-      },
-      {
-        "rank": 3,
-        "title": "Codex issue vaporized weekly limit out of nowhere! Anyone else?",
-        "url": "https://www.reddit.com/r/codex/comments/1wbr0xt/codex_issue_vaporized_weekly_limit_out_of_nowhere/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-09T16:48:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Astra (Light) consistently burns through 100% of my 20x weekly limit every 12-16 hours. And with no more resets, it is time to accept that I can only do one real task per week, per 20x account.",
-        "url": "https://www.reddit.com/r/codex/comments/1wbis4p/astra_light_consistently_burns_through_100_of_my/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-09T11:21:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6rqk22nxhhoh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=68f62bf7138e60bd4f1f0d08d76a83896f00b480"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-6 Astra Max spent 7 hours building a fully animated tractor in Blender — 3,000+ parts and 100+ animations",
-        "url": "https://www.reddit.com/r/codex/comments/1wb8wgr/gpt6_astra_max_spent_7_hours_building_a_fully/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-09T02:28:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cogftwb0oeoh1.gif?frame=1&width=140&height=105&auto=webp&s=811be68301ff39b6306ecc208a1339b307f0b9f8"
       }
     ]
   }

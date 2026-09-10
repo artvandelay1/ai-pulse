@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T08:54:44.048Z",
+  "fetchedAt": "2026-09-10T13:28:44.187Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,39 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-09T13:01:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xv2epabu6ioh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea6c5c3d60a2febc200c16f013a4cdd23aa4a234"
-      },
-      {
-        "rank": 3,
-        "title": "I made a way to migrate between embedding models without re-embedding your entire corpus [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc34d2/i_made_a_way_to_migrate_between_embedding_models/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-10T00:14:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-10T03:28:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-10T02:28:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T03:28:41.000Z",
         "category": "reddit"
       },
       {
@@ -63,6 +44,26 @@
       },
       {
         "rank": 2,
+        "title": "Linked In post from maths professor claims \"BREAKING: OpenAI might have stolen another major proof\"... screenshots herein:",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T09:17:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xbdcxd85unoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7fb4cdeb4cc457fa70f21ed3df7369a235a980d8"
+      },
+      {
+        "rank": 3,
+        "title": "Meta AI Researcher (who quit): \"If OpenAI wanted to cripple an entire nation, they easily could today. All they'd have to do is unleash an agent swarm.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wcgct4/meta_ai_researcher_who_quit_if_openai_wanted_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T11:22:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4qjoy592gooh1.png?width=640&crop=smart&auto=webp&s=75fa2d5e8e7049b4550d23d68a38a740a20cf942"
+      },
+      {
+        "rank": 4,
         "title": "OpenAI claims GPT-6 Astra is an ethereal 'Alien Mind' with AGI-like qualities",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wby3jv/openai_claims_gpt6_astra_is_an_ethereal_alien/",
         "source": "r/OpenAI",
@@ -72,17 +73,7 @@
         "thumbnail": "https://external-preview.redd.it/JoyUlgPpkYK1coEh2_hnPv0Iq33waNZ5fnNDiq--hmM.jpeg?width=640&crop=smart&auto=webp&s=fa6d7d3db2262b8d23032897e8e20cd551f09a31"
       },
       {
-        "rank": 3,
-        "title": "AGI is solved. Just asked Astra to make me GTA VI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wble8s/agi_is_solved_just_asked_astra_to_make_me_gta_vi/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T13:19:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OWljb2ZueWh3aG9oMSlCuEuJiOnFseWi5gjcn7U0MJB1h9XKo-NbI0GOPnRI.png?width=640&crop=smart&auto=webp&s=d8bf442a4957d8d8ad7c54e9caf53181dc896cb6"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "title": "GPT Image 1.5 vs 2 vs 2.5 Flare vs Sunburst — 20 identical prompts, 80 images, side by side",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wbska6/gpt_image_15_vs_2_vs_25_flare_vs_sunburst_20/",
         "source": "r/OpenAI",
@@ -90,16 +81,6 @@
         "publishedAt": "2026-09-09T17:43:13.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/34mv72x27joh1.png?width=140&height=54&auto=webp&s=ee4d004d76147e631a114abef80bed5331bcdae3"
-      },
-      {
-        "rank": 5,
-        "title": "A super fast, non-expensive alternative to motion capture - [ft. Sara Silkin]",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wbnm2g/a_super_fast_nonexpensive_alternative_to_motion/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T14:45:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cnRkaHVmeHBiaW9oMXQM6jlyubAiw-_m01RcxTW6t31qThaMK3xq6R4Gra3O.png?width=640&crop=smart&auto=webp&s=fe8b080538330d1bd585da981b3d68720a1d834a"
       },
       {
         "rank": 1,

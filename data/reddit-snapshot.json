@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T17:09:07.161Z",
+  "fetchedAt": "2026-09-10T20:00:06.459Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "Claude to reMarkable now possible",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcmmi6/claude_to_remarkable_now_possible/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T15:36:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x9uwcqonnpoh1.png?width=640&crop=smart&auto=webp&s=b9ca1c18c8b24e92888682b2a73b5a6e5cc4722b"
+      },
+      {
+        "rank": 3,
         "title": "Anthropic whistleblower gave up his equity to leave the company",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcfso0/anthropic_whistleblower_gave_up_his_equity_to/",
         "source": "r/ClaudeAI",
@@ -26,7 +36,7 @@
         "thumbnail": "https://external-preview.redd.it/UD4unH5vrRN48UWWsk8uR6y3YKBOyn0Zo23urqoij1Y.jpeg?width=640&crop=smart&auto=webp&s=00b01496673c67c7b560e8d247e1de83aed2f1fc"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "I got accepted into the Cyber Verification Program at Anthropic!",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbx66j/i_got_accepted_into_the_cyber_verification/",
         "source": "r/ClaudeAI",
@@ -34,15 +44,6 @@
         "publishedAt": "2026-09-09T20:23:23.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8589ebf30koh1.jpeg?width=640&crop=smart&auto=webp&s=81ce7bc2d70573ff56d0a46bef7e95ce238a88b1"
-      },
-      {
-        "rank": 4,
-        "title": "Chatgpt $20 plan VS Claude $20 plan",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wbux15/chatgpt_20_plan_vs_claude_20_plan/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T19:04:36.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,
@@ -65,11 +66,11 @@
       },
       {
         "rank": 2,
-        "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+        "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-10T03:28:41.000Z",
+        "publishedAt": "2026-09-10T02:28:58.000Z",
         "category": "reddit"
       },
       {
@@ -83,11 +84,11 @@
       },
       {
         "rank": 4,
-        "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
+        "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-10T02:28:58.000Z",
+        "publishedAt": "2026-09-10T03:28:41.000Z",
         "category": "reddit"
       },
       {

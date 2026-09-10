@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-09-09T23:57:10.765Z",
+  "fetchedAt": "2026-09-10T03:58:44.759Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Teach ML! Community service project from Stanford [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-09T07:54:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ICDE Results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc5zak/icde_results_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T02:19:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-09T13:01:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xv2epabu6ioh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea6c5c3d60a2febc200c16f013a4cdd23aa4a234"
+      },
+      {
+        "rank": 4,
+        "title": "I made a way to migrate between embedding models without re-embedding your entire corpus [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc34d2/i_made_a_way_to_migrate_between_embedding_models/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T00:14:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T02:28:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "2 years ago vs Today",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wbbxbq/2_years_ago_vs_today/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T04:56:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0dpaacvrefoh1.jpeg?width=640&crop=smart&auto=webp&s=e2e7b3467708113909f4e5726ca8671080978dbc"
+      },
+      {
+        "rank": 2,
+        "title": "Wake me up when...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wbn4e6/wake_me_up_when/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T14:26:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y4lt72id8ioh1.png?width=640&crop=smart&auto=webp&s=bd84d6e20bad526426de6f8a6f0d329b9498a25d"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI might pause Pro subscriptions due to demand",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wbeilc/openai_might_pause_pro_subscriptions_due_to_demand/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T07:18:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gjea5g824goh1.png?width=320&crop=smart&auto=webp&s=9ebc59d7cc1416247ac4e9e6996b54745e6b2b85"
+      },
+      {
+        "rank": 4,
+        "title": "new bench dropped",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wbe3vf/new_bench_dropped/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T06:55:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r0mv3sbyzfoh1.jpeg?width=640&crop=smart&auto=webp&s=fe4c443f36e05108cd12490827988201c5fd20a0"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI claims GPT-6 Astra is an ethereal 'Alien Mind' with AGI-like qualities",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wby3jv/openai_claims_gpt6_astra_is_an_ethereal_alien/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-09T20:57:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/JoyUlgPpkYK1coEh2_hnPv0Iq33waNZ5fnNDiq--hmM.jpeg?width=640&crop=smart&auto=webp&s=fa6d7d3db2262b8d23032897e8e20cd551f09a31"
+      },
+      {
+        "rank": 1,
+        "title": "Proposal to make the Navier-Stokes vortex the new subreddit image",
+        "url": "https://www.reddit.com/r/singularity/comments/1wbej1p/proposal_to_make_the_navierstokes_vortex_the_new/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-09T07:19:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ycuid1094goh1.jpeg?width=640&crop=smart&auto=webp&s=7235ea67e41abe512da0598e6ff4e655495961d7"
+      },
+      {
+        "rank": 2,
+        "title": "We are at the dawn of a new era",
+        "url": "https://www.reddit.com/r/singularity/comments/1wbmva1/we_are_at_the_dawn_of_a_new_era/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-09T14:17:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vvkeog3o6ioh1.jpeg?width=640&crop=smart&auto=webp&s=14d52fcce315e85b9c0f3555d89c55c7674adc82"
+      },
+      {
+        "rank": 3,
+        "title": "Summarizing the current discourse regarding Navier stokes on both pro and anti-AI online spaces.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wbphuo/summarizing_the_current_discourse_regarding/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-09T15:54:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9y47ajyvnioh1.png?width=640&crop=smart&auto=webp&s=81a90a03365720e69d3b1c53a86f39641459f54f"
+      },
+      {
+        "rank": 4,
+        "title": "The insanity of 10.000 agents running",
+        "url": "https://www.reddit.com/r/singularity/comments/1wbx0o5/the_insanity_of_10000_agents_running/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-09T20:18:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Deepseek v4.1 Flash reaches 98% of Astra’s score at 1.4% of cost on OpenDesign Arena",
+        "url": "https://www.reddit.com/r/singularity/comments/1wbmy11/deepseek_v41_flash_reaches_98_of_astras_score_at/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-09T14:20:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Tlng04jjt6RumgYJaqJOCHa7Q0UAAJv6OXrrYx0Lqsw.png?width=640&crop=smart&auto=webp&s=3b17d770f57d5c9067f483f45d7aebeb4db392e0"
+      },
       {
         "rank": 1,
         "title": "Anthropic researcher quits, saying Anthropic and OpenAI are 'gambling with our lives'",
@@ -55,25 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Teach ML! Community service project from Stanford [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-09T07:54:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-09T13:01:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xv2epabu6ioh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ea6c5c3d60a2febc200c16f013a4cdd23aa4a234"
-      },
-      {
-        "rank": 1,
         "title": "Shots were fired",
         "url": "https://www.reddit.com/r/codex/comments/1wb6msb/shots_were_fired/",
         "source": "r/codex",
@@ -120,106 +246,6 @@
         "publishedAt": "2026-09-09T02:28:44.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/cogftwb0oeoh1.gif?frame=1&width=140&height=105&auto=webp&s=811be68301ff39b6306ecc208a1339b307f0b9f8"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI threatened to ruin star mathematician's career",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wayuay/openai_threatened_to_ruin_star_mathematicians/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-08T19:43:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tm72mtvzncoh1.png?width=640&crop=smart&auto=webp&s=27710a4c5e498816f60f0c616b3ebe52af67d014"
-      },
-      {
-        "rank": 2,
-        "title": "2 years ago vs Today",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wbbxbq/2_years_ago_vs_today/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T04:56:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0dpaacvrefoh1.jpeg?width=640&crop=smart&auto=webp&s=e2e7b3467708113909f4e5726ca8671080978dbc"
-      },
-      {
-        "rank": 3,
-        "title": "Wake me up when...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wbn4e6/wake_me_up_when/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T14:26:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y4lt72id8ioh1.png?width=640&crop=smart&auto=webp&s=bd84d6e20bad526426de6f8a6f0d329b9498a25d"
-      },
-      {
-        "rank": 4,
-        "title": "\"The people building AI earnestly believe that it could kill us all by the end of the decade\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wbcfxl/the_people_building_ai_earnestly_believe_that_it/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T05:23:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5xew0wyijfoh1.png?width=320&crop=smart&auto=webp&s=947bf7f7cf0be8d3e333ef2e2fcacf06077614fe"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI might pause Pro subscriptions due to demand",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wbeilc/openai_might_pause_pro_subscriptions_due_to_demand/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-09T07:18:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gjea5g824goh1.png?width=320&crop=smart&auto=webp&s=9ebc59d7cc1416247ac4e9e6996b54745e6b2b85"
-      },
-      {
-        "rank": 1,
-        "title": "I only like human-solved secrets of the universe",
-        "url": "https://www.reddit.com/r/singularity/comments/1wazg2q/i_only_like_humansolved_secrets_of_the_universe/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-08T20:04:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s52mvyksrcoh1.jpeg?width=640&crop=smart&auto=webp&s=ba1d73bea92fb50cf037b2999f2c3b075fec5861"
-      },
-      {
-        "rank": 2,
-        "title": "Proposal to make the Navier-Stokes vortex the new subreddit image",
-        "url": "https://www.reddit.com/r/singularity/comments/1wbej1p/proposal_to_make_the_navierstokes_vortex_the_new/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-09T07:19:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ycuid1094goh1.jpeg?width=640&crop=smart&auto=webp&s=7235ea67e41abe512da0598e6ff4e655495961d7"
-      },
-      {
-        "rank": 3,
-        "title": "Insane times we live in",
-        "url": "https://www.reddit.com/r/singularity/comments/1wb3yc0/insane_times_we_live_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-08T22:53:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/idbpj8e1mdoh1.jpeg?width=640&crop=smart&auto=webp&s=f953f0e953d73b28d3d9f20dc21a6aed59a04def"
-      },
-      {
-        "rank": 4,
-        "title": "We are at the dawn of a new era",
-        "url": "https://www.reddit.com/r/singularity/comments/1wbmva1/we_are_at_the_dawn_of_a_new_era/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-09T14:17:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vvkeog3o6ioh1.jpeg?width=640&crop=smart&auto=webp&s=14d52fcce315e85b9c0f3555d89c55c7674adc82"
-      },
-      {
-        "rank": 5,
-        "title": "Sam Altman on Room Temperature Superconductors & Anthropic: \"Let's try that.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1wb5et4/sam_altman_on_room_temperature_superconductors/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-08T23:55:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lnpsotfywdoh1.jpeg?width=320&crop=smart&auto=webp&s=1c08b554f1afa2689ac64eed9ae5c13e5fb083be"
       }
     ]
   }

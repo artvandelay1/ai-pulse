@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-09-11T05:08:09.479Z",
+  "fetchedAt": "2026-09-11T09:58:43.706Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ACL Sustainable Reviewing Policy [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T05:38:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Why is TMLR so slow in recent times [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T04:09:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T04:27:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Neurips 2026: site selection email [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T09:02:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-10T13:44:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Meta AI Researcher (who quit): \"If OpenAI wanted to cripple an entire nation, they easily could today. All they'd have to do is unleash an agent swarm.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wcgct4/meta_ai_researcher_who_quit_if_openai_wanted_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T11:22:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4qjoy592gooh1.png?width=640&crop=smart&auto=webp&s=75fa2d5e8e7049b4550d23d68a38a740a20cf942"
+      },
+      {
+        "rank": 2,
+        "title": "Introducing ChatGPT for Financial Services | OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wcsciq/introducing_chatgpt_for_financial_services_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T18:58:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Pp9dwOtv6lcAYFaCIM2KAdjs0xqaFGqNx6uzbDN3B50.png?width=640&crop=smart&auto=webp&s=905f43d2d578983fcc8b450e48de368265d8795f"
+      },
+      {
+        "rank": 3,
+        "title": "Imagine being a philosopher and getting emails like this",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wcm1b2/imagine_being_a_philosopher_and_getting_emails/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T15:13:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v5a4suuolpoh1.png?width=640&crop=smart&auto=webp&s=751b26af36a7af83083a24321834d1c37db9973a"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop'",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wcyt5b/openai_pulls_out_of_caltech_math_hackathon_after/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-10T23:03:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/m2mkMFymtiJ-M2mqI_s6GZyanReB7UyJmr2A5yTRz2Q.jpeg?width=640&crop=smart&auto=webp&s=3f96bc87410eea239a531df570d9d439513105ae"
+      },
+      {
+        "rank": 5,
+        "title": "Account Deactivated due to Biological Research",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wd5kpp/account_deactivated_due_to_biological_research/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T04:06:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dgcf7dinftoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2a131d225ccda6b1c4ca0f6c67d4c39d3cd2052"
+      },
+      {
+        "rank": 1,
+        "title": "Huggingface security txt after the OpenAI incident",
+        "url": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-10T14:54:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gudok8h3ipoh1.png?width=640&crop=smart&auto=webp&s=f64913f618baf8c3867a110862b04687a70c7204"
+      },
+      {
+        "rank": 2,
+        "title": "Amazing Navier Stokes evolving vortex is going viral",
+        "url": "https://www.reddit.com/r/singularity/comments/1wcoyof/amazing_navier_stokes_evolving_vortex_is_going/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-10T17:00:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YXE4eG5mdnE0cW9oMbzOG145Ryc-7_dmWgGEVr5PpkRAEtDxG8gXcx_OaWhq.png?width=320&crop=smart&auto=webp&s=5874e03e1e9604b41bb82ddd84e7cee5839e4634"
+      },
+      {
+        "rank": 3,
+        "title": "First time?",
+        "url": "https://www.reddit.com/r/singularity/comments/1wcynv9/first_time/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-10T22:57:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aniu2pngwroh1.jpeg?width=640&crop=smart&auto=webp&s=a12e342c423183bf94d644e9b396743ac9500187"
+      },
+      {
+        "rank": 4,
+        "title": "Open Letter from 1000 mathematicians against AI use for math",
+        "url": "https://www.reddit.com/r/singularity/comments/1wcxwn7/open_letter_from_1000_mathematicians_against_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-10T22:25:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/921p2ehsqroh1.png?width=320&crop=smart&auto=webp&s=5ab93e029a5675eabfbd413903f57713285fa7ea"
+      },
+      {
+        "rank": 5,
+        "title": "President Trump on AI risks: “It's going to be fine. We'll always have something to stop them. We'll have a little gear. Boom. I really don't like that robot. We’ll stop”",
+        "url": "https://www.reddit.com/r/singularity/comments/1wcnfjm/president_trump_on_ai_risks_its_going_to_be_fine/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-10T16:05:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NXljdXQzNnl1cG9oMWk0zfpFMN81kDL8TCcNQctIZMPK-0StwdyEIS7CN4py.jpeg?width=640&crop=smart&auto=webp&s=2b2d623d8aef56cdeae2c0be7de2807b77110252"
+      },
       {
         "rank": 1,
         "title": "Claude to reMarkable now possible",
@@ -56,33 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Why is TMLR so slow in recent times [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T04:09:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T04:27:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-10T13:44:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Training Astra",
         "url": "https://www.reddit.com/r/codex/comments/1wcfboo/training_astra/",
         "source": "r/codex",
@@ -129,106 +247,6 @@
         "publishedAt": "2026-09-10T05:38:26.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/olx8y5vuqmoh1.png?width=320&crop=smart&auto=webp&s=df113c111be2db638ab964131103adf9ce241323"
-      },
-      {
-        "rank": 1,
-        "title": "Linked In post from maths professor claims \"BREAKING: OpenAI might have stolen another major proof\"... screenshots herein:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T09:17:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xbdcxd85unoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7fb4cdeb4cc457fa70f21ed3df7369a235a980d8"
-      },
-      {
-        "rank": 2,
-        "title": "Meta AI Researcher (who quit): \"If OpenAI wanted to cripple an entire nation, they easily could today. All they'd have to do is unleash an agent swarm.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcgct4/meta_ai_researcher_who_quit_if_openai_wanted_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T11:22:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4qjoy592gooh1.png?width=640&crop=smart&auto=webp&s=75fa2d5e8e7049b4550d23d68a38a740a20cf942"
-      },
-      {
-        "rank": 3,
-        "title": "Imagine being a philosopher and getting emails like this",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcm1b2/imagine_being_a_philosopher_and_getting_emails/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T15:13:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v5a4suuolpoh1.png?width=640&crop=smart&auto=webp&s=751b26af36a7af83083a24321834d1c37db9973a"
-      },
-      {
-        "rank": 4,
-        "title": "Introducing ChatGPT for Financial Services | OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcsciq/introducing_chatgpt_for_financial_services_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T18:58:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Pp9dwOtv6lcAYFaCIM2KAdjs0xqaFGqNx6uzbDN3B50.png?width=640&crop=smart&auto=webp&s=905f43d2d578983fcc8b450e48de368265d8795f"
-      },
-      {
-        "rank": 5,
-        "title": "AI developers be like",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcjrqo/ai_developers_be_like/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T13:49:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cqnx4lqf6poh1.png?width=640&crop=smart&auto=webp&s=903c035ef4cb5163a49b4414b3733b2ad8e3cb90"
-      },
-      {
-        "rank": 1,
-        "title": "Huggingface security txt after the OpenAI incident",
-        "url": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T14:54:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gudok8h3ipoh1.png?width=640&crop=smart&auto=webp&s=f64913f618baf8c3867a110862b04687a70c7204"
-      },
-      {
-        "rank": 2,
-        "title": "Some more millennium prize problems possibly solved…",
-        "url": "https://www.reddit.com/r/singularity/comments/1wce3o4/some_more_millennium_prize_problems_possibly/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T09:23:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j3lsukr9vnoh1.jpeg?width=640&crop=smart&auto=webp&s=27ea5f9b13cedd327acf3d8859db03f529012f97"
-      },
-      {
-        "rank": 3,
-        "title": "Amazing Navier Stokes evolving vortex is going viral",
-        "url": "https://www.reddit.com/r/singularity/comments/1wcoyof/amazing_navier_stokes_evolving_vortex_is_going/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T17:00:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YXE4eG5mdnE0cW9oMbzOG145Ryc-7_dmWgGEVr5PpkRAEtDxG8gXcx_OaWhq.png?width=320&crop=smart&auto=webp&s=5874e03e1e9604b41bb82ddd84e7cee5839e4634"
-      },
-      {
-        "rank": 4,
-        "title": "Nice new logo of Navier–Stokes",
-        "url": "https://www.reddit.com/r/singularity/comments/1wca8no/nice_new_logo_of_navierstokes/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T05:45:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lwnu8kg7smoh1.png?width=320&crop=smart&auto=webp&s=9875cedbfcdf590d2bcebad333f51479efd84c11"
-      },
-      {
-        "rank": 5,
-        "title": "President Trump on AI risks: “It's going to be fine. We'll always have something to stop them. We'll have a little gear. Boom. I really don't like that robot. We’ll stop”",
-        "url": "https://www.reddit.com/r/singularity/comments/1wcnfjm/president_trump_on_ai_risks_its_going_to_be_fine/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T16:05:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NXljdXQzNnl1cG9oMWk0zfpFMN81kDL8TCcNQctIZMPK-0StwdyEIS7CN4py.jpeg?width=640&crop=smart&auto=webp&s=2b2d623d8aef56cdeae2c0be7de2807b77110252"
       }
     ]
   }

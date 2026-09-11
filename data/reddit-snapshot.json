@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T09:58:43.706Z",
+  "fetchedAt": "2026-09-11T14:16:45.322Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,16 @@
       },
       {
         "rank": 3,
+        "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T13:00:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7vrhqzf32woh1.png?width=140&height=71&auto=webp&s=9f2d1cb4a1a423d2fc5a5f1c55ef4aa6774a23b7"
+      },
+      {
+        "rank": 4,
         "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
         "source": "r/MachineLearning",
@@ -33,7 +43,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Neurips 2026: site selection email [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
         "source": "r/MachineLearning",
@@ -42,23 +52,14 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-10T13:44:25.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "Meta AI Researcher (who quit): \"If OpenAI wanted to cripple an entire nation, they easily could today. All they'd have to do is unleash an agent swarm.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcgct4/meta_ai_researcher_who_quit_if_openai_wanted_to/",
+        "title": "Account Deactivated due to Biological Research",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wd5kpp/account_deactivated_due_to_biological_research/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-10T11:22:04.000Z",
+        "publishedAt": "2026-09-11T04:06:38.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4qjoy592gooh1.png?width=640&crop=smart&auto=webp&s=75fa2d5e8e7049b4550d23d68a38a740a20cf942"
+        "thumbnail": "https://preview.redd.it/dgcf7dinftoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2a131d225ccda6b1c4ca0f6c67d4c39d3cd2052"
       },
       {
         "rank": 2,
@@ -92,13 +93,13 @@
       },
       {
         "rank": 5,
-        "title": "Account Deactivated due to Biological Research",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wd5kpp/account_deactivated_due_to_biological_research/",
+        "title": "New leaderboard just dropped",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wd7llf/new_leaderboard_just_dropped/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-11T04:06:38.000Z",
+        "publishedAt": "2026-09-11T05:54:01.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dgcf7dinftoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2a131d225ccda6b1c4ca0f6c67d4c39d3cd2052"
+        "thumbnail": "https://preview.redd.it/hxrzq98tytoh1.jpeg?width=640&crop=smart&auto=webp&s=90f385b1b0526b4796a6369c604230677e89f2b9"
       },
       {
         "rank": 1,

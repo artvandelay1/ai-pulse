@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T14:16:45.322Z",
+  "fetchedAt": "2026-09-11T17:52:45.950Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,12 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "ACL Sustainable Reviewing Policy [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
+        "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-11T05:38:02.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-11T13:00:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7vrhqzf32woh1.png?width=140&height=71&auto=webp&s=9f2d1cb4a1a423d2fc5a5f1c55ef4aa6774a23b7"
       },
       {
         "rank": 2,
@@ -25,13 +26,12 @@
       },
       {
         "rank": 3,
-        "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+        "title": "ACL Sustainable Reviewing Policy [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-11T13:00:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7vrhqzf32woh1.png?width=140&height=71&auto=webp&s=9f2d1cb4a1a423d2fc5a5f1c55ef4aa6774a23b7"
+        "publishedAt": "2026-09-11T05:38:02.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -73,16 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "Imagine being a philosopher and getting emails like this",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcm1b2/imagine_being_a_philosopher_and_getting_emails/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T15:13:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v5a4suuolpoh1.png?width=640&crop=smart&auto=webp&s=751b26af36a7af83083a24321834d1c37db9973a"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop'",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wcyt5b/openai_pulls_out_of_caltech_math_hackathon_after/",
         "source": "r/OpenAI",
@@ -90,6 +80,16 @@
         "publishedAt": "2026-09-10T23:03:12.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/m2mkMFymtiJ-M2mqI_s6GZyanReB7UyJmr2A5yTRz2Q.jpeg?width=640&crop=smart&auto=webp&s=3f96bc87410eea239a531df570d9d439513105ae"
+      },
+      {
+        "rank": 4,
+        "title": "GPT 6 Sol is Coming Soon",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T12:14:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vuswz52luvoh1.png?width=640&crop=smart&auto=webp&s=c30a09e6e0f505f1b9646340b46574b6d6d5cb84"
       },
       {
         "rank": 5,
@@ -103,26 +103,16 @@
       },
       {
         "rank": 1,
-        "title": "Huggingface security txt after the OpenAI incident",
-        "url": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
+        "title": "He might actually be right",
+        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-10T14:54:09.000Z",
+        "publishedAt": "2026-09-11T11:48:50.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gudok8h3ipoh1.png?width=640&crop=smart&auto=webp&s=f64913f618baf8c3867a110862b04687a70c7204"
+        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
       },
       {
         "rank": 2,
-        "title": "Amazing Navier Stokes evolving vortex is going viral",
-        "url": "https://www.reddit.com/r/singularity/comments/1wcoyof/amazing_navier_stokes_evolving_vortex_is_going/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T17:00:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YXE4eG5mdnE0cW9oMbzOG145Ryc-7_dmWgGEVr5PpkRAEtDxG8gXcx_OaWhq.png?width=320&crop=smart&auto=webp&s=5874e03e1e9604b41bb82ddd84e7cee5839e4634"
-      },
-      {
-        "rank": 3,
         "title": "First time?",
         "url": "https://www.reddit.com/r/singularity/comments/1wcynv9/first_time/",
         "source": "r/singularity",
@@ -132,7 +122,7 @@
         "thumbnail": "https://preview.redd.it/aniu2pngwroh1.jpeg?width=640&crop=smart&auto=webp&s=a12e342c423183bf94d644e9b396743ac9500187"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Open Letter from 1000 mathematicians against AI use for math",
         "url": "https://www.reddit.com/r/singularity/comments/1wcxwn7/open_letter_from_1000_mathematicians_against_ai/",
         "source": "r/singularity",
@@ -142,14 +132,23 @@
         "thumbnail": "https://preview.redd.it/921p2ehsqroh1.png?width=320&crop=smart&auto=webp&s=5ab93e029a5675eabfbd413903f57713285fa7ea"
       },
       {
-        "rank": 5,
-        "title": "President Trump on AI risks: “It's going to be fine. We'll always have something to stop them. We'll have a little gear. Boom. I really don't like that robot. We’ll stop”",
-        "url": "https://www.reddit.com/r/singularity/comments/1wcnfjm/president_trump_on_ai_risks_its_going_to_be_fine/",
+        "rank": 4,
+        "title": "The Guy Who Broke the Anthropic Millennium Prize Story Says OpenAI Is Now Using Its Navier–Stokes Model on Riemann and P vs NP",
+        "url": "https://www.reddit.com/r/singularity/comments/1wda0au/the_guy_who_broke_the_anthropic_millennium_prize/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-10T16:05:16.000Z",
+        "publishedAt": "2026-09-11T08:13:32.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NXljdXQzNnl1cG9oMWk0zfpFMN81kDL8TCcNQctIZMPK-0StwdyEIS7CN4py.jpeg?width=640&crop=smart&auto=webp&s=2b2d623d8aef56cdeae2c0be7de2807b77110252"
+        "thumbnail": "https://preview.redd.it/2wsa4rdpnuoh1.jpeg?width=640&crop=smart&auto=webp&s=d4cf7a24e924c71a537340afc465458df23df3d1"
+      },
+      {
+        "rank": 5,
+        "title": "After Astra's stealth nerf last night, we really need benchmarks to do a re-bench 1 week after any model release. This is ridiculous.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wcu0fj/after_astras_stealth_nerf_last_night_we_really/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-10T19:57:59.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

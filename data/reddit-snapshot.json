@@ -1,10 +1,60 @@
 {
-  "fetchedAt": "2026-09-11T17:52:45.950Z",
+  "fetchedAt": "2026-09-11T20:46:12.764Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "New leaderboard just dropped",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wd7l4v/new_leaderboard_just_dropped/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T05:53:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ptppmiooytoh1.jpeg?width=640&crop=smart&auto=webp&s=11b00477129c4438ad46b971e14c56a096856486"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 4.6 was OUR wet dream of AI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wd15a1/opus_46_was_our_wet_dream_of_ai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T00:42:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2a0m4c08fsoh1.jpeg?width=640&crop=smart&auto=webp&s=ee8e7fc705c84a5429be37f93fd02054e4db7988"
+      },
+      {
+        "rank": 3,
+        "title": "My first ever PCB, entirely designed by Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdgzue/my_first_ever_pcb_entirely_designed_by_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T13:54:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kkf4x6jbcwoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f4e294d8ee5a604b3ee909945cb1447b1c38fac2"
+      },
+      {
+        "rank": 4,
+        "title": "If Anthropic cared to read some average chats 😂",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdfh5b/if_anthropic_cared_to_read_some_average_chats/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T12:53:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9wsexz1n1woh1.jpeg?width=640&crop=smart&auto=webp&s=a5a0cc4ac2d080ba8def64a84dbf6644944e2fde"
+      },
+      {
+        "rank": 5,
+        "title": "Senior engineer, loop orchestrator sample setup",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wd44vj/senior_engineer_loop_orchestrator_sample_setup/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T02:58:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gsqp6px3ysoh1.png?width=140&height=133&auto=webp&s=14c76a328620da9963f5ba540f3f9c8ecf0894f3"
+      },
       {
         "rank": 1,
         "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
@@ -35,6 +85,15 @@
       },
       {
         "rank": 4,
+        "title": "How to handle cofound variables? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T18:57:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
         "source": "r/MachineLearning",
@@ -43,13 +102,52 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Neurips 2026: site selection email [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Looks like Codex resets aren’t going away after all",
+        "url": "https://www.reddit.com/r/codex/comments/1wd8pg2/looks_like_codex_resets_arent_going_away_after_all/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-11T09:02:43.000Z",
+        "publishedAt": "2026-09-11T06:56:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aej7h4zk9uoh1.jpeg?width=640&crop=smart&auto=webp&s=9744593e0b84e0adf4fcdf924910137558a52e4d"
+      },
+      {
+        "rank": 2,
+        "title": "Codex is unusable now.",
+        "url": "https://www.reddit.com/r/codex/comments/1wdl56p/codex_is_unusable_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-11T16:29:43.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Astra in Ultra/Max consumes less than Astra Low/Medium",
+        "url": "https://www.reddit.com/r/codex/comments/1wd8b1b/astra_in_ultramax_consumes_less_than_astra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-11T06:33:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-5.3-Codex-Spark Retiring Next Week",
+        "url": "https://www.reddit.com/r/codex/comments/1wd8laf/gpt53codexspark_retiring_next_week/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-11T06:49:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1t5m7ldh8uoh1.png?width=320&crop=smart&auto=webp&s=5c10f0f4f9d5c2f12d9e8280f7ffc59434b4aaf2"
+      },
+      {
+        "rank": 5,
+        "title": "Cost jumped from about $1500 a month to being at over 15k for the first 10 days!!!",
+        "url": "https://www.reddit.com/r/codex/comments/1wd111j/cost_jumped_from_about_1500_a_month_to_being_at/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-11T00:37:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nf4txp2udsoh1.png?width=140&height=41&auto=webp&s=004bb4443eafe6bb1797878f78fcdfb5f83ddee9"
       },
       {
         "rank": 1,
@@ -149,104 +247,6 @@
         "score": 0,
         "publishedAt": "2026-09-10T19:57:59.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude to reMarkable now possible",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcmmi6/claude_to_remarkable_now_possible/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T15:36:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x9uwcqonnpoh1.png?width=640&crop=smart&auto=webp&s=b9ca1c18c8b24e92888682b2a73b5a6e5cc4722b"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic whistleblower gave up his equity to leave the company",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcfso0/anthropic_whistleblower_gave_up_his_equity_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T10:54:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/UD4unH5vrRN48UWWsk8uR6y3YKBOyn0Zo23urqoij1Y.jpeg?width=640&crop=smart&auto=webp&s=00b01496673c67c7b560e8d247e1de83aed2f1fc"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 4.6 was OUR wet dream of AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wd15a1/opus_46_was_our_wet_dream_of_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T00:42:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2a0m4c08fsoh1.jpeg?width=640&crop=smart&auto=webp&s=ee8e7fc705c84a5429be37f93fd02054e4db7988"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Code just burned fifty million tokens in seconds",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wce8dh/claude_code_just_burned_fifty_million_tokens_in/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T09:30:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hyilflpjwnoh1.png?width=640&crop=smart&auto=webp&s=4730eaa9cd3eda178c6de03099dd6c93252dc869"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic says \"double-check your work\" is now an anti-pattern. I counted 125 of those lines in my own config and cannot tell which ones matter.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wcdisq/anthropic_says_doublecheck_your_work_is_now_an/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T08:50:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Training Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1wcfboo/training_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-10T10:29:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y7241re37ooh1.jpeg?width=640&crop=smart&auto=webp&s=84fa7f0d863de8b619ae81f9357052c63af29322"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6-Sol staged in OpenAI API",
-        "url": "https://www.reddit.com/r/codex/comments/1wcpz5j/gpt6sol_staged_in_openai_api/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-10T17:35:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wwq25yv0bqoh1.png?width=640&crop=smart&auto=webp&s=7b03f2f9f1a8f80b9100eddb45b7fcae42c24684"
-      },
-      {
-        "rank": 3,
-        "title": "The limits got nerfed HARD",
-        "url": "https://www.reddit.com/r/codex/comments/1wchlld/the_limits_got_nerfed_hard/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-10T12:19:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "LOL",
-        "url": "https://www.reddit.com/r/codex/comments/1wcqo1g/lol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-10T18:00:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m3pzr0x9fqoh1.png?width=320&crop=smart&auto=webp&s=eb35b1198dd37e6dbbd50a94206289c4726c9a1b"
-      },
-      {
-        "rank": 5,
-        "title": "\"Stop using random multi-agent patterns\"",
-        "url": "https://www.reddit.com/r/codex/comments/1wca46x/stop_using_random_multiagent_patterns/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-10T05:38:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/olx8y5vuqmoh1.png?width=320&crop=smart&auto=webp&s=df113c111be2db638ab964131103adf9ce241323"
       }
     ]
   }

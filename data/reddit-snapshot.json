@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-09-11T20:46:12.764Z",
+  "fetchedAt": "2026-09-11T23:06:42.416Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T13:00:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7vrhqzf32woh1.png?width=140&height=71&auto=webp&s=9f2d1cb4a1a423d2fc5a5f1c55ef4aa6774a23b7"
+      },
+      {
+        "rank": 2,
+        "title": "Why is TMLR so slow in recent times [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T04:09:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ACL Sustainable Reviewing Policy [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T05:38:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How to handle cofound variables? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T18:57:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T04:27:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Account Deactivated due to Biological Research",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wd5kpp/account_deactivated_due_to_biological_research/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T04:06:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dgcf7dinftoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2a131d225ccda6b1c4ca0f6c67d4c39d3cd2052"
+      },
+      {
+        "rank": 2,
+        "title": "GPT 6 Sol is Coming Soon",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T12:14:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vuswz52luvoh1.png?width=640&crop=smart&auto=webp&s=c30a09e6e0f505f1b9646340b46574b6d6d5cb84"
+      },
+      {
+        "rank": 3,
+        "title": "New leaderboard just dropped",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wd7llf/new_leaderboard_just_dropped/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T05:54:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hxrzq98tytoh1.jpeg?width=640&crop=smart&auto=webp&s=90f385b1b0526b4796a6369c604230677e89f2b9"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI wants to slow down, Sam Altman seeks industry-wide AI safety push",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wd4aoa/openai_wants_to_slow_down_sam_altman_seeks/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T03:06:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nA1fobxgy48tU752OK3MDxFzR1sK5AQqtxblHyc1ZPM.jpeg?width=640&crop=smart&auto=webp&s=5b2e2a9b8889a8a6cbff98fb5f0284abcce92435"
+      },
+      {
+        "rank": 5,
+        "title": "Wetware is the new hardware",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdfv4o/wetware_is_the_new_hardware/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T13:09:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cnBieGdiNWc0d29oMQ1Uat0kNLrkWVOwxeIVvA8eUcYGydpDe8UpwFY5YgGO.jpeg?width=640&crop=smart&auto=webp&s=35143963314443f4db83b9de6f212b87a5922314"
+      },
+      {
+        "rank": 1,
+        "title": "He might actually be right",
+        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T11:48:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
+      },
+      {
+        "rank": 2,
+        "title": "Our greatest minds are finally moving on to better things…",
+        "url": "https://www.reddit.com/r/singularity/comments/1wdne3r/our_greatest_minds_are_finally_moving_on_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T17:50:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lr2jrhouhxoh1.png?width=640&crop=smart&auto=webp&s=8de726c2c295f3d96367748bbbda118dcfe8212a"
+      },
+      {
+        "rank": 3,
+        "title": "The Guy Who Broke the Anthropic Millennium Prize Story Says OpenAI Is Now Using Its Navier–Stokes Model on Riemann and P vs NP",
+        "url": "https://www.reddit.com/r/singularity/comments/1wda0au/the_guy_who_broke_the_anthropic_millennium_prize/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T08:13:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2wsa4rdpnuoh1.jpeg?width=640&crop=smart&auto=webp&s=d4cf7a24e924c71a537340afc465458df23df3d1"
+      },
+      {
+        "rank": 4,
+        "title": "As so it begins .... (Over 3 million views on this Tweet so far, with several people in the comments reporting similar, recent incidents)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wdsfdo/as_so_it_begins_over_3_million_views_on_this/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T20:52:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ciiphi2weyoh1.png?width=640&crop=smart&auto=webp&s=f124924a18603c2897086bd305f53eff366eab1d"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6 Astra can control drones and use them to follow people",
+        "url": "https://www.reddit.com/r/singularity/comments/1wd6gz3/gpt6_astra_can_control_drones_and_use_them_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T04:53:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bdzof730otoh1.jpeg?width=640&crop=smart&auto=webp&s=4c40bb44812760678ef120195f61d8d7119f94ab"
+      },
       {
         "rank": 1,
         "title": "New leaderboard just dropped",
@@ -57,52 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T13:00:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7vrhqzf32woh1.png?width=140&height=71&auto=webp&s=9f2d1cb4a1a423d2fc5a5f1c55ef4aa6774a23b7"
-      },
-      {
-        "rank": 2,
-        "title": "Why is TMLR so slow in recent times [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T04:09:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ACL Sustainable Reviewing Policy [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T05:38:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How to handle cofound variables? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T18:57:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T04:27:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Looks like Codex resets aren’t going away after all",
         "url": "https://www.reddit.com/r/codex/comments/1wd8pg2/looks_like_codex_resets_arent_going_away_after_all/",
         "source": "r/codex",
@@ -148,105 +248,6 @@
         "publishedAt": "2026-09-11T00:37:14.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/nf4txp2udsoh1.png?width=140&height=41&auto=webp&s=004bb4443eafe6bb1797878f78fcdfb5f83ddee9"
-      },
-      {
-        "rank": 1,
-        "title": "Account Deactivated due to Biological Research",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wd5kpp/account_deactivated_due_to_biological_research/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T04:06:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dgcf7dinftoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2a131d225ccda6b1c4ca0f6c67d4c39d3cd2052"
-      },
-      {
-        "rank": 2,
-        "title": "Introducing ChatGPT for Financial Services | OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcsciq/introducing_chatgpt_for_financial_services_openai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T18:58:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Pp9dwOtv6lcAYFaCIM2KAdjs0xqaFGqNx6uzbDN3B50.png?width=640&crop=smart&auto=webp&s=905f43d2d578983fcc8b450e48de368265d8795f"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop'",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wcyt5b/openai_pulls_out_of_caltech_math_hackathon_after/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-10T23:03:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/m2mkMFymtiJ-M2mqI_s6GZyanReB7UyJmr2A5yTRz2Q.jpeg?width=640&crop=smart&auto=webp&s=3f96bc87410eea239a531df570d9d439513105ae"
-      },
-      {
-        "rank": 4,
-        "title": "GPT 6 Sol is Coming Soon",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T12:14:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vuswz52luvoh1.png?width=640&crop=smart&auto=webp&s=c30a09e6e0f505f1b9646340b46574b6d6d5cb84"
-      },
-      {
-        "rank": 5,
-        "title": "New leaderboard just dropped",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wd7llf/new_leaderboard_just_dropped/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T05:54:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hxrzq98tytoh1.jpeg?width=640&crop=smart&auto=webp&s=90f385b1b0526b4796a6369c604230677e89f2b9"
-      },
-      {
-        "rank": 1,
-        "title": "He might actually be right",
-        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T11:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
-      },
-      {
-        "rank": 2,
-        "title": "First time?",
-        "url": "https://www.reddit.com/r/singularity/comments/1wcynv9/first_time/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T22:57:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aniu2pngwroh1.jpeg?width=640&crop=smart&auto=webp&s=a12e342c423183bf94d644e9b396743ac9500187"
-      },
-      {
-        "rank": 3,
-        "title": "Open Letter from 1000 mathematicians against AI use for math",
-        "url": "https://www.reddit.com/r/singularity/comments/1wcxwn7/open_letter_from_1000_mathematicians_against_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T22:25:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/921p2ehsqroh1.png?width=320&crop=smart&auto=webp&s=5ab93e029a5675eabfbd413903f57713285fa7ea"
-      },
-      {
-        "rank": 4,
-        "title": "The Guy Who Broke the Anthropic Millennium Prize Story Says OpenAI Is Now Using Its Navier–Stokes Model on Riemann and P vs NP",
-        "url": "https://www.reddit.com/r/singularity/comments/1wda0au/the_guy_who_broke_the_anthropic_millennium_prize/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T08:13:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2wsa4rdpnuoh1.jpeg?width=640&crop=smart&auto=webp&s=d4cf7a24e924c71a537340afc465458df23df3d1"
-      },
-      {
-        "rank": 5,
-        "title": "After Astra's stealth nerf last night, we really need benchmarks to do a re-bench 1 week after any model release. This is ridiculous.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wcu0fj/after_astras_stealth_nerf_last_night_we_really/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-10T19:57:59.000Z",
-        "category": "reddit"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T06:19:50.898Z",
+  "fetchedAt": "2026-09-12T11:10:47.087Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,26 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Neurips 2026: site selection email [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T09:02:43.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "GPT 6 Sol is Coming Soon",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T12:14:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vuswz52luvoh1.png?width=640&crop=smart&auto=webp&s=c30a09e6e0f505f1b9646340b46574b6d6d5cb84"
-      },
-      {
-        "rank": 2,
         "title": "I am having the same experience, crazy how little 5.6 Sol uses in comparison",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wduosi/i_am_having_the_same_experience_crazy_how_little/",
         "source": "r/OpenAI",
@@ -61,6 +42,16 @@
         "publishedAt": "2026-09-11T22:21:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ti64ainyuyoh1.jpeg?width=640&crop=smart&auto=webp&s=bb9f4e2a970ec56d417c4ac9a55c67c41e8a3992"
+      },
+      {
+        "rank": 2,
+        "title": "GPT 6 Sol is Coming Soon",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T12:14:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vuswz52luvoh1.png?width=640&crop=smart&auto=webp&s=c30a09e6e0f505f1b9646340b46574b6d6d5cb84"
       },
       {
         "rank": 3,
@@ -103,16 +94,6 @@
       },
       {
         "rank": 2,
-        "title": "He might actually be right",
-        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T11:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
-      },
-      {
-        "rank": 3,
         "title": "Our greatest minds are finally moving on to better things…",
         "url": "https://www.reddit.com/r/singularity/comments/1wdne3r/our_greatest_minds_are_finally_moving_on_to/",
         "source": "r/singularity",
@@ -122,14 +103,24 @@
         "thumbnail": "https://preview.redd.it/lr2jrhouhxoh1.png?width=640&crop=smart&auto=webp&s=8de726c2c295f3d96367748bbbda118dcfe8212a"
       },
       {
-        "rank": 4,
-        "title": "The Guy Who Broke the Anthropic Millennium Prize Story Says OpenAI Is Now Using Its Navier–Stokes Model on Riemann and P vs NP",
-        "url": "https://www.reddit.com/r/singularity/comments/1wda0au/the_guy_who_broke_the_anthropic_millennium_prize/",
+        "rank": 3,
+        "title": "He might actually be right",
+        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-11T08:13:32.000Z",
+        "publishedAt": "2026-09-11T11:48:50.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2wsa4rdpnuoh1.jpeg?width=640&crop=smart&auto=webp&s=d4cf7a24e924c71a537340afc465458df23df3d1"
+        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
+      },
+      {
+        "rank": 4,
+        "title": "Google's Gemini has allegedly solved the long-standing P = NP problem",
+        "url": "https://www.reddit.com/r/singularity/comments/1wduy3u/googles_gemini_has_allegedly_solved_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T22:32:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lzjk9larwyoh1.png?width=640&crop=smart&auto=webp&s=df7ed56f59d6c8764d84ff4e0dee98ed4472f106"
       },
       {
         "rank": 5,

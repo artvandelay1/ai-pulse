@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T01:26:45.023Z",
+  "fetchedAt": "2026-09-12T06:19:50.898Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,24 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Why is TMLR so slow in recent times [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T04:09:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ACL Sustainable Reviewing Policy [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T05:38:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Confusion regarding EMNLP registration [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
         "source": "r/MachineLearning",
@@ -43,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "How to handle cofound variables? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
         "source": "r/MachineLearning",
@@ -52,17 +34,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Account Deactivated due to Biological Research",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wd5kpp/account_deactivated_due_to_biological_research/",
-        "source": "r/OpenAI",
+        "rank": 4,
+        "title": "Neurips 2026: site selection email [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-11T04:06:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dgcf7dinftoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c2a131d225ccda6b1c4ca0f6c67d4c39d3cd2052"
+        "publishedAt": "2026-09-11T09:02:43.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "GPT 6 Sol is Coming Soon",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/",
         "source": "r/OpenAI",
@@ -72,17 +53,7 @@
         "thumbnail": "https://preview.redd.it/vuswz52luvoh1.png?width=640&crop=smart&auto=webp&s=c30a09e6e0f505f1b9646340b46574b6d6d5cb84"
       },
       {
-        "rank": 3,
-        "title": "New leaderboard just dropped",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wd7llf/new_leaderboard_just_dropped/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T05:54:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hxrzq98tytoh1.jpeg?width=640&crop=smart&auto=webp&s=90f385b1b0526b4796a6369c604230677e89f2b9"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "I am having the same experience, crazy how little 5.6 Sol uses in comparison",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wduosi/i_am_having_the_same_experience_crazy_how_little/",
         "source": "r/OpenAI",
@@ -92,27 +63,36 @@
         "thumbnail": "https://preview.redd.it/ti64ainyuyoh1.jpeg?width=640&crop=smart&auto=webp&s=bb9f4e2a970ec56d417c4ac9a55c67c41e8a3992"
       },
       {
-        "rank": 5,
-        "title": "OpenAI wants to slow down, Sam Altman seeks industry-wide AI safety push",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wd4aoa/openai_wants_to_slow_down_sam_altman_seeks/",
+        "rank": 3,
+        "title": "18,000 posts, 3,700 fake names, 30 websites. This is the map of where OpenAI's agents went when they thought no one was looking.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdp4hh/18000_posts_3700_fake_names_30_websites_this_is/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-11T03:06:02.000Z",
+        "publishedAt": "2026-09-11T18:51:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nA1fobxgy48tU752OK3MDxFzR1sK5AQqtxblHyc1ZPM.jpeg?width=640&crop=smart&auto=webp&s=5b2e2a9b8889a8a6cbff98fb5f0284abcce92435"
+        "thumbnail": "https://preview.redd.it/j8qf6zatfxoh1.png?width=140&height=74&auto=webp&s=9a24cc526bd6ac4b3836a8c0112f210c7316b8f9"
+      },
+      {
+        "rank": 4,
+        "title": "Wetware is the new hardware",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdfv4o/wetware_is_the_new_hardware/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T13:09:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cnBieGdiNWc0d29oMQ1Uat0kNLrkWVOwxeIVvA8eUcYGydpDe8UpwFY5YgGO.jpeg?width=640&crop=smart&auto=webp&s=35143963314443f4db83b9de6f212b87a5922314"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdxzr8/openai_agents_attacked_rubygems_before_hugging/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T00:45:30.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "He might actually be right",
-        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T11:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
-      },
-      {
-        "rank": 2,
         "title": "As so it begins .... (Over 3 million views on this Tweet so far, with several people in the comments reporting similar, recent incidents)",
         "url": "https://www.reddit.com/r/singularity/comments/1wdsfdo/as_so_it_begins_over_3_million_views_on_this/",
         "source": "r/singularity",
@@ -120,6 +100,16 @@
         "publishedAt": "2026-09-11T20:52:32.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ciiphi2weyoh1.png?width=640&crop=smart&auto=webp&s=f124924a18603c2897086bd305f53eff366eab1d"
+      },
+      {
+        "rank": 2,
+        "title": "He might actually be right",
+        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T11:48:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
       },
       {
         "rank": 3,
@@ -143,13 +133,13 @@
       },
       {
         "rank": 5,
-        "title": "GPT-6 Astra can control drones and use them to follow people",
-        "url": "https://www.reddit.com/r/singularity/comments/1wd6gz3/gpt6_astra_can_control_drones_and_use_them_to/",
+        "title": "OpenAI’s Bel model, used to solve Navier-Stokes, now appears in the AI 2027 timeline",
+        "url": "https://www.reddit.com/r/singularity/comments/1wdo60w/openais_bel_model_used_to_solve_navierstokes_now/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-11T04:53:25.000Z",
+        "publishedAt": "2026-09-11T18:18:17.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bdzof730otoh1.jpeg?width=640&crop=smart&auto=webp&s=4c40bb44812760678ef120195f61d8d7119f94ab"
+        "thumbnail": "https://preview.redd.it/l08xd4klnxoh1.jpeg?width=640&crop=smart&auto=webp&s=d7a5892b04c50789e682c409269cb70132557bae"
       },
       {
         "rank": 1,

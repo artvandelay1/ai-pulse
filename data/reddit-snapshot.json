@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T11:10:47.087Z",
+  "fetchedAt": "2026-09-12T14:20:12.241Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,61 @@
     "items": [
       {
         "rank": 1,
-        "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+        "title": "GPT-6 Astra takes the #1 spot on VerBench",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdvpma/gpt6_astra_takes_the_1_spot_on_verbench/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T23:04:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6p1l1mxo2zoh1.png?width=640&crop=smart&auto=webp&s=8c4216fc7772c24241b3f9c897b0ba064f34f14b"
+      },
+      {
+        "rank": 2,
+        "title": "She doesn't know about my $100 AI companion",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdtdex/she_doesnt_know_about_my_100_ai_companion/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T21:28:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ofq26k50lyoh1.jpeg?width=640&crop=smart&auto=webp&s=09550b3fc273b41486f421c5c61c1d0321fdaa09"
+      },
+      {
+        "rank": 3,
+        "title": "ADD developers are moving like lightning with AI, normies beware",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1we0yw8/add_developers_are_moving_like_lightning_with_ai/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T03:06:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Vibecoders about to post the \"claude deleted my entire codebase\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdysoo/vibecoders_about_to_post_the_claude_deleted_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T01:22:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hr4zyoi8rzoh1.jpeg?width=640&crop=smart&auto=webp&s=be7850f10d0be9e6438711043df04538490f819b"
+      },
+      {
+        "rank": 5,
+        "title": "Please write your own posts.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1we0b3q/please_write_your_own_posts/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T02:34:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-11T13:00:11.000Z",
+        "publishedAt": "2026-09-12T11:23:51.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7vrhqzf32woh1.png?width=140&height=71&auto=webp&s=9f2d1cb4a1a423d2fc5a5f1c55ef4aa6774a23b7"
+        "thumbnail": "https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&crop=smart&auto=webp&s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0"
       },
       {
         "rank": 2,
@@ -31,6 +79,54 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-11T18:57:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Codex is unusable now.",
+        "url": "https://www.reddit.com/r/codex/comments/1wdl56p/codex_is_unusable_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-11T16:29:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "This nerf is getting out of hand — look at this Before vs After",
+        "url": "https://www.reddit.com/r/codex/comments/1we551s/this_nerf_is_getting_out_of_hand_look_at_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T06:43:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fkr1zuw9b1ph1.png?width=140&height=75&auto=webp&s=72d4903be86c3857fba0716c2137615958f5ce75"
+      },
+      {
+        "rank": 3,
+        "title": "Tibo Tibo Tibo...",
+        "url": "https://www.reddit.com/r/codex/comments/1we1a4j/tibo_tibo_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T03:21:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ngbfr69lc0ph1.jpeg?width=640&crop=smart&auto=webp&s=a0757a629e502cb76671ff66ef38921409b94176"
+      },
+      {
+        "rank": 4,
+        "title": "Please give us a slow mode",
+        "url": "https://www.reddit.com/r/codex/comments/1wdsjpe/please_give_us_a_slow_mode/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-11T20:57:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kqsy1pgmfyoh1.png?width=140&height=70&auto=webp&s=7ec1078170482c0c2ee07781463041ef625e8c02"
+      },
+      {
+        "rank": 5,
+        "title": "Tibos \"bonus\" resets WITH pushing back next reset date is BAD",
+        "url": "https://www.reddit.com/r/codex/comments/1we8gmi/tibos_bonus_resets_with_pushing_back_next_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T09:56:50.000Z",
         "category": "reddit"
       },
       {
@@ -131,104 +227,6 @@
         "publishedAt": "2026-09-11T18:18:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/l08xd4klnxoh1.jpeg?width=640&crop=smart&auto=webp&s=d7a5892b04c50789e682c409269cb70132557bae"
-      },
-      {
-        "rank": 1,
-        "title": "New leaderboard just dropped",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wd7l4v/new_leaderboard_just_dropped/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T05:53:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ptppmiooytoh1.jpeg?width=640&crop=smart&auto=webp&s=11b00477129c4438ad46b971e14c56a096856486"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 4.6 was OUR wet dream of AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wd15a1/opus_46_was_our_wet_dream_of_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T00:42:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2a0m4c08fsoh1.jpeg?width=640&crop=smart&auto=webp&s=ee8e7fc705c84a5429be37f93fd02054e4db7988"
-      },
-      {
-        "rank": 3,
-        "title": "My first ever PCB, entirely designed by Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdgzue/my_first_ever_pcb_entirely_designed_by_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T13:54:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kkf4x6jbcwoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f4e294d8ee5a604b3ee909945cb1447b1c38fac2"
-      },
-      {
-        "rank": 4,
-        "title": "If Anthropic cared to read some average chats 😂",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdfh5b/if_anthropic_cared_to_read_some_average_chats/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T12:53:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9wsexz1n1woh1.jpeg?width=640&crop=smart&auto=webp&s=a5a0cc4ac2d080ba8def64a84dbf6644944e2fde"
-      },
-      {
-        "rank": 5,
-        "title": "Senior engineer, loop orchestrator sample setup",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wd44vj/senior_engineer_loop_orchestrator_sample_setup/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T02:58:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gsqp6px3ysoh1.png?width=140&height=133&auto=webp&s=14c76a328620da9963f5ba540f3f9c8ecf0894f3"
-      },
-      {
-        "rank": 1,
-        "title": "Looks like Codex resets aren’t going away after all",
-        "url": "https://www.reddit.com/r/codex/comments/1wd8pg2/looks_like_codex_resets_arent_going_away_after_all/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-11T06:56:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aej7h4zk9uoh1.jpeg?width=640&crop=smart&auto=webp&s=9744593e0b84e0adf4fcdf924910137558a52e4d"
-      },
-      {
-        "rank": 2,
-        "title": "Codex is unusable now.",
-        "url": "https://www.reddit.com/r/codex/comments/1wdl56p/codex_is_unusable_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-11T16:29:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Astra in Ultra/Max consumes less than Astra Low/Medium",
-        "url": "https://www.reddit.com/r/codex/comments/1wd8b1b/astra_in_ultramax_consumes_less_than_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-11T06:33:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-5.3-Codex-Spark Retiring Next Week",
-        "url": "https://www.reddit.com/r/codex/comments/1wd8laf/gpt53codexspark_retiring_next_week/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-11T06:49:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1t5m7ldh8uoh1.png?width=320&crop=smart&auto=webp&s=5c10f0f4f9d5c2f12d9e8280f7ffc59434b4aaf2"
-      },
-      {
-        "rank": 5,
-        "title": "Cost jumped from about $1500 a month to being at over 15k for the first 10 days!!!",
-        "url": "https://www.reddit.com/r/codex/comments/1wd111j/cost_jumped_from_about_1500_a_month_to_being_at/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-11T00:37:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nf4txp2udsoh1.png?width=140&height=41&auto=webp&s=004bb4443eafe6bb1797878f78fcdfb5f83ddee9"
       }
     ]
   }

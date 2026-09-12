@@ -1,10 +1,145 @@
 {
-  "fetchedAt": "2026-09-12T14:20:12.241Z",
+  "fetchedAt": "2026-09-12T17:24:49.446Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-12T11:23:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&crop=smart&auto=webp&s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0"
+      },
+      {
+        "rank": 2,
+        "title": "Confusion regarding EMNLP registration [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T23:24:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How to handle cofound variables? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-11T18:57:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How much do tech reports matter for a PhD application? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-12T14:40:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I am having the same experience, crazy how little 5.6 Sol uses in comparison",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wduosi/i_am_having_the_same_experience_crazy_how_little/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T22:21:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ti64ainyuyoh1.jpeg?width=640&crop=smart&auto=webp&s=bb9f4e2a970ec56d417c4ac9a55c67c41e8a3992"
+      },
+      {
+        "rank": 2,
+        "title": "18,000 posts, 3,700 fake names, 30 websites. This is the map of where OpenAI's agents went when they thought no one was looking.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdp4hh/18000_posts_3700_fake_names_30_websites_this_is/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-11T18:51:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j8qf6zatfxoh1.png?width=140&height=74&auto=webp&s=9a24cc526bd6ac4b3836a8c0112f210c7316b8f9"
+      },
+      {
+        "rank": 3,
+        "title": "You're trying to... mine the comet?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wea99m/youre_trying_to_mine_the_comet/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T11:34:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hr4xkwmgs2ph1.png?width=640&crop=smart&auto=webp&s=d33441ba1d04e17fb52ee2cbc3caa2b8d555be2a"
+      },
+      {
+        "rank": 4,
+        "title": "Tibo Tibo Tibo...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1we1aqz/tibo_tibo_tibo/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T03:22:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gfml2dnqc0ph1.jpeg?width=640&crop=smart&auto=webp&s=a2f27970f0d413bda756f8b110a0c8924883f0b0"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wdxzr8/openai_agents_attacked_rubygems_before_hugging/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T00:45:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "As so it begins .... (Over 3 million views on this Tweet so far, with several people in the comments reporting similar, recent incidents)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wdsfdo/as_so_it_begins_over_3_million_views_on_this/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T20:52:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ciiphi2weyoh1.png?width=640&crop=smart&auto=webp&s=f124924a18603c2897086bd305f53eff366eab1d"
+      },
+      {
+        "rank": 2,
+        "title": "Our greatest minds are finally moving on to better things…",
+        "url": "https://www.reddit.com/r/singularity/comments/1wdne3r/our_greatest_minds_are_finally_moving_on_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T17:50:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lr2jrhouhxoh1.png?width=640&crop=smart&auto=webp&s=8de726c2c295f3d96367748bbbda118dcfe8212a"
+      },
+      {
+        "rank": 3,
+        "title": "Google's Gemini has allegedly solved the long-standing P = NP problem",
+        "url": "https://www.reddit.com/r/singularity/comments/1wduy3u/googles_gemini_has_allegedly_solved_the/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T22:32:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lzjk9larwyoh1.png?width=640&crop=smart&auto=webp&s=df7ed56f59d6c8764d84ff4e0dee98ed4472f106"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI’s Bel model, used to solve Navier-Stokes, now appears in the AI 2027 timeline",
+        "url": "https://www.reddit.com/r/singularity/comments/1wdo60w/openais_bel_model_used_to_solve_navierstokes_now/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T18:18:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l08xd4klnxoh1.jpeg?width=640&crop=smart&auto=webp&s=d7a5892b04c50789e682c409269cb70132557bae"
+      },
+      {
+        "rank": 5,
+        "title": "24 Fields Medal winners sign letter titled \"A Severe Misalignment of AI in Mathematics\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wdqjxa/24_fields_medal_winners_sign_letter_titled_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-11T19:42:40.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "GPT-6 Astra takes the #1 spot on VerBench",
@@ -55,34 +190,6 @@
       },
       {
         "rank": 1,
-        "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-12T11:23:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&crop=smart&auto=webp&s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0"
-      },
-      {
-        "rank": 2,
-        "title": "Confusion regarding EMNLP registration [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T23:24:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How to handle cofound variables? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-11T18:57:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Codex is unusable now.",
         "url": "https://www.reddit.com/r/codex/comments/1wdl56p/codex_is_unusable_now/",
         "source": "r/codex",
@@ -128,105 +235,6 @@
         "score": 0,
         "publishedAt": "2026-09-12T09:56:50.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "I am having the same experience, crazy how little 5.6 Sol uses in comparison",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wduosi/i_am_having_the_same_experience_crazy_how_little/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T22:21:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ti64ainyuyoh1.jpeg?width=640&crop=smart&auto=webp&s=bb9f4e2a970ec56d417c4ac9a55c67c41e8a3992"
-      },
-      {
-        "rank": 2,
-        "title": "GPT 6 Sol is Coming Soon",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T12:14:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vuswz52luvoh1.png?width=640&crop=smart&auto=webp&s=c30a09e6e0f505f1b9646340b46574b6d6d5cb84"
-      },
-      {
-        "rank": 3,
-        "title": "18,000 posts, 3,700 fake names, 30 websites. This is the map of where OpenAI's agents went when they thought no one was looking.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wdp4hh/18000_posts_3700_fake_names_30_websites_this_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T18:51:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j8qf6zatfxoh1.png?width=140&height=74&auto=webp&s=9a24cc526bd6ac4b3836a8c0112f210c7316b8f9"
-      },
-      {
-        "rank": 4,
-        "title": "Wetware is the new hardware",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wdfv4o/wetware_is_the_new_hardware/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T13:09:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cnBieGdiNWc0d29oMQ1Uat0kNLrkWVOwxeIVvA8eUcYGydpDe8UpwFY5YgGO.jpeg?width=640&crop=smart&auto=webp&s=35143963314443f4db83b9de6f212b87a5922314"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wdxzr8/openai_agents_attacked_rubygems_before_hugging/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T00:45:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "As so it begins .... (Over 3 million views on this Tweet so far, with several people in the comments reporting similar, recent incidents)",
-        "url": "https://www.reddit.com/r/singularity/comments/1wdsfdo/as_so_it_begins_over_3_million_views_on_this/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T20:52:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ciiphi2weyoh1.png?width=640&crop=smart&auto=webp&s=f124924a18603c2897086bd305f53eff366eab1d"
-      },
-      {
-        "rank": 2,
-        "title": "Our greatest minds are finally moving on to better things…",
-        "url": "https://www.reddit.com/r/singularity/comments/1wdne3r/our_greatest_minds_are_finally_moving_on_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T17:50:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lr2jrhouhxoh1.png?width=640&crop=smart&auto=webp&s=8de726c2c295f3d96367748bbbda118dcfe8212a"
-      },
-      {
-        "rank": 3,
-        "title": "He might actually be right",
-        "url": "https://www.reddit.com/r/singularity/comments/1wddzyc/he_might_actually_be_right/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T11:48:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xcfyfhd3qvoh1.png?width=640&crop=smart&auto=webp&s=e920cfb713ce285e6cc5cca899da415f46c98333"
-      },
-      {
-        "rank": 4,
-        "title": "Google's Gemini has allegedly solved the long-standing P = NP problem",
-        "url": "https://www.reddit.com/r/singularity/comments/1wduy3u/googles_gemini_has_allegedly_solved_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T22:32:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lzjk9larwyoh1.png?width=640&crop=smart&auto=webp&s=df7ed56f59d6c8764d84ff4e0dee98ed4472f106"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI’s Bel model, used to solve Navier-Stokes, now appears in the AI 2027 timeline",
-        "url": "https://www.reddit.com/r/singularity/comments/1wdo60w/openais_bel_model_used_to_solve_navierstokes_now/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-11T18:18:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l08xd4klnxoh1.jpeg?width=640&crop=smart&auto=webp&s=d7a5892b04c50789e682c409269cb70132557bae"
       }
     ]
   }

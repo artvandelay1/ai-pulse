@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T18:01:42.426Z",
+  "fetchedAt": "2026-09-13T20:44:46.174Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-13T18:01:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yuakh7qdrbph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=177ff62e775cd17b2584ecb97a9c056b3e90922c"
+      },
+      {
+        "rank": 3,
         "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
         "source": "r/MachineLearning",
@@ -26,7 +36,17 @@
         "thumbnail": "https://preview.redd.it/57901ltt3aph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a1dfb415841d9cece2281b29bc9eaeeab99a6421"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-13T18:54:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8ipo4fax0cph1.png?width=140&height=53&auto=webp&s=564a0ae77936a51730a9159751cfae7648d66ff2"
+      },
+      {
+        "rank": 5,
         "title": "When NeurIPS'26 final decision release? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
         "source": "r/MachineLearning",
@@ -35,46 +55,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "How do you control different character pose in SDXL when using a reference image? [R][D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-12T21:45:25.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wen637/openai_ipo_wont_happen_until_2027_sam_altman/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T20:22:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/i-aCYekrQzBQR9P3h6-PlyNkNiWEbU2CaqE-uvoFbss.jpeg?width=640&crop=smart&auto=webp&s=062ca2a9b1c97f3eeb6ca1b8e85f43e0622e8f7d"
-      },
-      {
-        "rank": 2,
-        "title": "Independent researchers discovered another rogue swarm. OpenAI either didn't know about it, or covered it up.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1welqtg/independent_researchers_discovered_another_rogue/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T19:26:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p3xwgjaq45ph1.png?width=640&crop=smart&auto=webp&s=2ceb35e4b11caa800c5eb971c25ba062cb39d506"
-      },
-      {
-        "rank": 3,
-        "title": "ChatGPT + Blender MCP Built This From Scratch",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wem6s7/chatgpt_blender_mcp_built_this_from_scratch/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T19:44:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHdlY3hoN3Q3NXBoMSOXDmUyUnM-psQYVGaH4ffr63oRRMM3LiQlP7cKrViI.png?width=640&crop=smart&auto=webp&s=680bfaf70ea9c61d31e9f9aa0da5354e74040adc"
-      },
-      {
-        "rank": 4,
         "title": "Donald Trump dismisses concerns AI could wipe out the human race: 'Whoever wins AI wins'",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wfblmq/donald_trump_dismisses_concerns_ai_could_wipe_out/",
         "source": "r/OpenAI",
@@ -84,7 +65,7 @@
         "thumbnail": "https://external-preview.redd.it/9ttBiGcqSfSQ_bxV3m5GgTZ8yYKFSW7jWLgz8d26C9U.jpeg?width=640&crop=smart&auto=webp&s=1975dc9d98633bd4330d02ffd62b615c1a2f5a79"
       },
       {
-        "rank": 5,
+        "rank": 2,
         "title": "GPT-6 Astra in a nutshell",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wf0npq/gpt6_astra_in_a_nutshell/",
         "source": "r/OpenAI",
@@ -94,17 +75,34 @@
         "thumbnail": "https://preview.redd.it/1sp9opznl8ph1.jpeg?width=640&crop=smart&auto=webp&s=df36c548c23933ce0e8b73387f69919f35452f4b"
       },
       {
-        "rank": 1,
-        "title": "Sam, Dario and Elon have all agreed to slow down on AI acceleration",
-        "url": "https://www.reddit.com/r/singularity/comments/1wekeow/sam_dario_and_elon_have_all_agreed_to_slow_down/",
-        "source": "r/singularity",
+        "rank": 3,
+        "title": "DeepSeek is ruthless",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wf9imw/deepseek_is_ruthless/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-12T18:36:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w9vy2jspv4ph1.jpeg?width=640&crop=smart&auto=webp&s=63ed06bb13313d364143eb9690c6f93f8152940a"
+        "publishedAt": "2026-09-13T14:41:12.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "title": "The Doomsday Moat: Why AI’s Billionaires Want Washington to Stop the Clock",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wfbn2v/the_doomsday_moat_why_ais_billionaires_want/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T16:03:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How come AI can't say it just doesn't know?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wepisl/how_come_ai_cant_say_it_just_doesnt_know/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T21:57:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "“AGI Has Essentially Arrived, Just Not Publicly”: Reports Of “Existential Crises” at OpenAI and Anthropic",
         "url": "https://www.reddit.com/r/singularity/comments/1weoufm/agi_has_essentially_arrived_just_not_publicly/",
         "source": "r/singularity",
@@ -113,17 +111,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "Regulations incoming?",
-        "url": "https://www.reddit.com/r/singularity/comments/1wemejz/regulations_incoming/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-12T19:52:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vik6rvcb95ph1.jpeg?width=640&crop=smart&auto=webp&s=edabaef5ef30fa2e7518f01ee1d39633ce1bbd5a"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "They’re colluding to kill open source",
         "url": "https://www.reddit.com/r/singularity/comments/1wf4hl5/theyre_colluding_to_kill_open_source/",
         "source": "r/singularity",
@@ -133,13 +121,33 @@
         "thumbnail": "https://preview.redd.it/ujs70qdzp9ph1.jpeg?width=640&crop=smart&auto=webp&s=11e68afa330763c3de7429e6a07d6d9b34701a2d"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "title": "Trump is refusing a slowdown",
+        "url": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-13T17:26:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wdqxwwn5obph1.jpeg?width=320&crop=smart&auto=webp&s=54ebd5ba0c0aac83e0f2d5033822cd7be1a48b5c"
+      },
+      {
+        "rank": 4,
         "title": "An OpenAI Researcher on the Gap Between Internal and External Perceptions of AI Progress",
         "url": "https://www.reddit.com/r/singularity/comments/1weqmr7/an_openai_researcher_on_the_gap_between_internal/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-09-12T22:45:35.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Meanwhile in India",
+        "url": "https://www.reddit.com/r/singularity/comments/1weovv9/meanwhile_in_india/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-12T21:31:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YzYydTAxd3VxNXBoMQHeaTAtHFV9raXYc-SD0TAdGqk4_4dmRsYWMocoMi-2.png?width=320&crop=smart&auto=webp&s=8688c9b431986675bcd54736195b5f824df7c7f4"
       },
       {
         "rank": 1,

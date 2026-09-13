@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T14:53:47.840Z",
+  "fetchedAt": "2026-09-13T18:01:42.426Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -45,16 +45,6 @@
       },
       {
         "rank": 1,
-        "title": "Kimi was routing to Claude",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wefb79/kimi_was_routing_to_claude/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T15:18:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ip5m3kdgw3ph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=76e6a98f4679a4b9598fe7c93acf28b3e0ad0200"
-      },
-      {
-        "rank": 2,
         "title": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wen637/openai_ipo_wont_happen_until_2027_sam_altman/",
         "source": "r/OpenAI",
@@ -64,7 +54,7 @@
         "thumbnail": "https://external-preview.redd.it/i-aCYekrQzBQR9P3h6-PlyNkNiWEbU2CaqE-uvoFbss.jpeg?width=640&crop=smart&auto=webp&s=062ca2a9b1c97f3eeb6ca1b8e85f43e0622e8f7d"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Independent researchers discovered another rogue swarm. OpenAI either didn't know about it, or covered it up.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1welqtg/independent_researchers_discovered_another_rogue/",
         "source": "r/OpenAI",
@@ -74,7 +64,7 @@
         "thumbnail": "https://preview.redd.it/p3xwgjaq45ph1.png?width=640&crop=smart&auto=webp&s=2ceb35e4b11caa800c5eb971c25ba062cb39d506"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ChatGPT + Blender MCP Built This From Scratch",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wem6s7/chatgpt_blender_mcp_built_this_from_scratch/",
         "source": "r/OpenAI",
@@ -84,14 +74,24 @@
         "thumbnail": "https://external-preview.redd.it/cHdlY3hoN3Q3NXBoMSOXDmUyUnM-psQYVGaH4ffr63oRRMM3LiQlP7cKrViI.png?width=640&crop=smart&auto=webp&s=680bfaf70ea9c61d31e9f9aa0da5354e74040adc"
       },
       {
-        "rank": 5,
-        "title": "Anthropic CEO calls to slow the pace of AI development amid safety concerns",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1weljg9/anthropic_ceo_calls_to_slow_the_pace_of_ai/",
+        "rank": 4,
+        "title": "Donald Trump dismisses concerns AI could wipe out the human race: 'Whoever wins AI wins'",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wfblmq/donald_trump_dismisses_concerns_ai_could_wipe_out/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-12T19:19:18.000Z",
+        "publishedAt": "2026-09-13T16:01:51.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eJ2WGEVZFb5Ouw3NqPWC3FkFhLz0pZXpn2yKT2HU9po.jpeg?width=640&crop=smart&auto=webp&s=51bfd84ff038654569a216ca9a6f1facc7aa9c49"
+        "thumbnail": "https://external-preview.redd.it/9ttBiGcqSfSQ_bxV3m5GgTZ8yYKFSW7jWLgz8d26C9U.jpeg?width=640&crop=smart&auto=webp&s=1975dc9d98633bd4330d02ffd62b615c1a2f5a79"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6 Astra in a nutshell",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wf0npq/gpt6_astra_in_a_nutshell/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T07:07:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1sp9opznl8ph1.jpeg?width=640&crop=smart&auto=webp&s=df36c548c23933ce0e8b73387f69919f35452f4b"
       },
       {
         "rank": 1,
@@ -114,16 +114,6 @@
       },
       {
         "rank": 3,
-        "title": "Open Letter from 100000 cancer researchers against AI use for cancer",
-        "url": "https://www.reddit.com/r/singularity/comments/1weh7iu/open_letter_from_100000_cancer_researchers/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-12T16:34:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/etx9c6by94ph1.png?width=320&crop=smart&auto=webp&s=c59cee05b535e35b9f26ac06b1198c9f36359573"
-      },
-      {
-        "rank": 4,
         "title": "Regulations incoming?",
         "url": "https://www.reddit.com/r/singularity/comments/1wemejz/regulations_incoming/",
         "source": "r/singularity",
@@ -131,6 +121,16 @@
         "publishedAt": "2026-09-12T19:52:28.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/vik6rvcb95ph1.jpeg?width=640&crop=smart&auto=webp&s=edabaef5ef30fa2e7518f01ee1d39633ce1bbd5a"
+      },
+      {
+        "rank": 4,
+        "title": "They’re colluding to kill open source",
+        "url": "https://www.reddit.com/r/singularity/comments/1wf4hl5/theyre_colluding_to_kill_open_source/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-13T10:53:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ujs70qdzp9ph1.jpeg?width=640&crop=smart&auto=webp&s=11e68afa330763c3de7429e6a07d6d9b34701a2d"
       },
       {
         "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T20:44:46.174Z",
+  "fetchedAt": "2026-09-13T23:02:45.833Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -47,11 +47,11 @@
       },
       {
         "rank": 5,
-        "title": "When NeurIPS'26 final decision release? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
+        "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-13T10:38:50.000Z",
+        "publishedAt": "2026-09-13T20:32:22.000Z",
         "category": "reddit"
       },
       {
@@ -85,6 +85,16 @@
       },
       {
         "rank": 4,
+        "title": "GPT 6 Astra playing Anno 117: Pax Romana from scratch",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wfhsa3/gpt_6_astra_playing_anno_117_pax_romana_from/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T19:51:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aTlyMDJ5NzFkY3BoMZFNMaWfty0KOyzROWv49gVk85BdHxHofG-RivWcODYe.png?width=640&crop=smart&auto=webp&s=15700b41f14f4ee6affc021624ae628ab13859a5"
+      },
+      {
+        "rank": 5,
         "title": "The Doomsday Moat: Why AI’s Billionaires Want Washington to Stop the Clock",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wfbn2v/the_doomsday_moat_why_ais_billionaires_want/",
         "source": "r/OpenAI",
@@ -93,22 +103,14 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "How come AI can't say it just doesn't know?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wepisl/how_come_ai_cant_say_it_just_doesnt_know/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T21:57:57.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "“AGI Has Essentially Arrived, Just Not Publicly”: Reports Of “Existential Crises” at OpenAI and Anthropic",
-        "url": "https://www.reddit.com/r/singularity/comments/1weoufm/agi_has_essentially_arrived_just_not_publicly/",
+        "title": "Trump is refusing a slowdown",
+        "url": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-12T21:29:26.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-13T17:26:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wdqxwwn5obph1.jpeg?width=320&crop=smart&auto=webp&s=54ebd5ba0c0aac83e0f2d5033822cd7be1a48b5c"
       },
       {
         "rank": 2,
@@ -122,32 +124,33 @@
       },
       {
         "rank": 3,
-        "title": "Trump is refusing a slowdown",
-        "url": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
+        "title": "I don't generally like or agree with David Sacks but...",
+        "url": "https://www.reddit.com/r/singularity/comments/1wfead8/i_dont_generally_like_or_agree_with_david_sacks/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-13T17:26:33.000Z",
+        "publishedAt": "2026-09-13T17:42:29.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wdqxwwn5obph1.jpeg?width=320&crop=smart&auto=webp&s=54ebd5ba0c0aac83e0f2d5033822cd7be1a48b5c"
+        "thumbnail": "https://preview.redd.it/djcdf7hyqbph1.jpeg?width=640&crop=smart&auto=webp&s=bdbfe14d1f383bc64109d18f7f160641b52ebd45"
       },
       {
         "rank": 4,
-        "title": "An OpenAI Researcher on the Gap Between Internal and External Perceptions of AI Progress",
-        "url": "https://www.reddit.com/r/singularity/comments/1weqmr7/an_openai_researcher_on_the_gap_between_internal/",
+        "title": "Coming to you next year...",
+        "url": "https://www.reddit.com/r/singularity/comments/1wf6xmt/coming_to_you_next_year/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-12T22:45:35.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-13T12:54:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dc6hsm8jbaph1.png?width=640&crop=smart&auto=webp&s=89338ca618f2f338c7a65310ed24d4822819d7c2"
       },
       {
         "rank": 5,
-        "title": "Meanwhile in India",
-        "url": "https://www.reddit.com/r/singularity/comments/1weovv9/meanwhile_in_india/",
+        "title": "The end goal is openly stated",
+        "url": "https://www.reddit.com/r/singularity/comments/1weya22/the_end_goal_is_openly_stated/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-12T21:31:02.000Z",
+        "publishedAt": "2026-09-13T04:55:20.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YzYydTAxd3VxNXBoMQHeaTAtHFV9raXYc-SD0TAdGqk4_4dmRsYWMocoMi-2.png?width=320&crop=smart&auto=webp&s=8688c9b431986675bcd54736195b5f824df7c7f4"
+        "thumbnail": "https://preview.redd.it/z9n7pc72y7ph1.png?width=320&crop=smart&auto=webp&s=13e77452833cd48d082d0e6c54a9ae8df637d176"
       },
       {
         "rank": 1,

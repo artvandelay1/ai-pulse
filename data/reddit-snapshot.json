@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-13T05:16:45.426Z",
+  "fetchedAt": "2026-09-13T10:33:09.532Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Kimi routed to Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wef8x8/kimi_routed_to_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T15:16:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5g128xyzv3ph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0760275b8ff6e76c32e7282ec7fa2af104c510f2"
+      },
+      {
+        "rank": 2,
+        "title": "I have to say something as a chinese",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1weizes/i_have_to_say_something_as_a_chinese/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T17:42:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Dario Amodei — We Must Pace the Frontier",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wee42v/dario_amodei_we_must_pace_the_frontier/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T14:29:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/O8Bu9xCUI6CYmUQGKme-uUFrwgWqdSA2GejtiMB9qLc.jpeg?width=640&crop=smart&auto=webp&s=553462b8a95c1c67d972ac5efa935db562a01924"
+      },
+      {
+        "rank": 4,
+        "title": "Claude helped me make a custom e-book, and now I can play pokemon on any device with a web browser and use the display as a game dashboard!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wecd8d/claude_helped_me_make_a_custom_ebook_and_now_i/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T13:15:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ah98ywr683ph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8adcb6801bb6fe9059556806c8a1f6d3bfd63d02"
+      },
+      {
+        "rank": 5,
+        "title": "Just took Anthropic's Architect Foundations exam",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1weg67m/just_took_anthropics_architect_foundations_exam/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-12T15:54:08.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
@@ -40,6 +88,52 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-13T03:41:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Truly heed the warning of 5.6 Sol deleting your hard drive",
+        "url": "https://www.reddit.com/r/codex/comments/1wep1ii/truly_heed_the_warning_of_56_sol_deleting_your/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T21:37:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "How many of you guys have switched back to Sol?",
+        "url": "https://www.reddit.com/r/codex/comments/1wecmq0/how_many_of_you_guys_have_switched_back_to_sol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T13:26:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Documentation Masturbation",
+        "url": "https://www.reddit.com/r/codex/comments/1wee4o8/documentation_masturbation/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T14:30:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tn26fbuun3ph1.jpeg?width=640&crop=smart&auto=webp&s=fdb8d6c4f711c215c69108946b3aa84380267107"
+      },
+      {
+        "rank": 4,
+        "title": "Thanks fanboys",
+        "url": "https://www.reddit.com/r/codex/comments/1web39h/thanks_fanboys/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T12:16:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I dont get how this is sustainable for a $200/month product",
+        "url": "https://www.reddit.com/r/codex/comments/1weh2ah/i_dont_get_how_this_is_sustainable_for_a_200month/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-12T16:29:13.000Z",
         "category": "reddit"
       },
       {
@@ -139,103 +233,6 @@
         "publishedAt": "2026-09-12T16:34:37.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/nyf3uddy94ph1.png?width=320&crop=smart&auto=webp&s=38704cfb4b8fe716f791c6bef0282f2b04d0d8f5"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 Astra takes the #1 spot on VerBench",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdvpma/gpt6_astra_takes_the_1_spot_on_verbench/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-11T23:04:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6p1l1mxo2zoh1.png?width=640&crop=smart&auto=webp&s=8c4216fc7772c24241b3f9c897b0ba064f34f14b"
-      },
-      {
-        "rank": 2,
-        "title": "ADD developers are moving like lightning with AI, normies beware",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1we0yw8/add_developers_are_moving_like_lightning_with_ai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T03:06:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Kimi routed to Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wef8x8/kimi_routed_to_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T15:16:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5g128xyzv3ph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0760275b8ff6e76c32e7282ec7fa2af104c510f2"
-      },
-      {
-        "rank": 4,
-        "title": "Vibecoders about to post the \"claude deleted my entire codebase\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wdysoo/vibecoders_about_to_post_the_claude_deleted_my/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T01:22:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hr4zyoi8rzoh1.jpeg?width=640&crop=smart&auto=webp&s=be7850f10d0be9e6438711043df04538490f819b"
-      },
-      {
-        "rank": 5,
-        "title": "Please write your own posts.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1we0b3q/please_write_your_own_posts/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T02:34:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "This nerf is getting out of hand — look at this Before vs After",
-        "url": "https://www.reddit.com/r/codex/comments/1we551s/this_nerf_is_getting_out_of_hand_look_at_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T06:43:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fkr1zuw9b1ph1.png?width=140&height=75&auto=webp&s=72d4903be86c3857fba0716c2137615958f5ce75"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo Tibo Tibo...",
-        "url": "https://www.reddit.com/r/codex/comments/1we1a4j/tibo_tibo_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T03:21:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ngbfr69lc0ph1.jpeg?width=640&crop=smart&auto=webp&s=a0757a629e502cb76671ff66ef38921409b94176"
-      },
-      {
-        "rank": 3,
-        "title": "Tibos \"bonus\" resets WITH pushing back next reset date is BAD",
-        "url": "https://www.reddit.com/r/codex/comments/1we8gmi/tibos_bonus_resets_with_pushing_back_next_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T09:56:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Did it again lesgooo",
-        "url": "https://www.reddit.com/r/codex/comments/1we6xsu/did_it_again_lesgooo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T08:25:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/olgdzmkou1ph1.jpeg?width=640&crop=smart&auto=webp&s=1ee7b1db31021ec21bc01c6f4729755d406997e0"
-      },
-      {
-        "rank": 5,
-        "title": "Astra needs its official benchmarks on OpenAI's side to be updated.",
-        "url": "https://www.reddit.com/r/codex/comments/1wdzaag/astra_needs_its_official_benchmarks_on_openais/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T01:45:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2gf1q0a9vzoh1.png?width=640&crop=smart&auto=webp&s=2f9f24475ce9a1f08556c8048a471362e7b907e5"
       }
     ]
   }

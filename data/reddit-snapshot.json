@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T13:48:44.525Z",
+  "fetchedAt": "2026-09-14T19:09:12.191Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,62 @@
     "items": [
       {
         "rank": 1,
-        "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
+        "title": "I asked Claude to build an operating system from scratch. A few days later it was running on a real laptop",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wfpydl/i_asked_claude_to_build_an_operating_system_from/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-14T01:40:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8kdrazpr5eph1.jpg?width=140&height=105&auto=webp&s=fe57bcaa4f38d6c0c58ee93eeb98ba7e7881883f"
+      },
+      {
+        "rank": 2,
+        "title": "Day 12ish of making a cozy game with no game dev experience",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wfnikw/day_12ish_of_making_a_cozy_game_with_no_game_dev/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T23:47:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dHl4MGQwdzBrZHBoMbhXzHzOZSJTBJ8Bxx2YyeuyRRFo91tluzO4rAnj75Ru.png?width=640&crop=smart&auto=webp&s=3485912d05ece42a039403f023feb4cf999d7f94"
+      },
+      {
+        "rank": 3,
+        "title": "Simulation: what if you could throw anything into a black hole?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wfyjrh/simulation_what_if_you_could_throw_anything_into/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-14T09:24:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N3Y3MG0wbTJmZ3BoMamse0z7CYUJc1-KqySQk0Xf8mTpx7TfhKTLGjfdF5dD.png?width=640&crop=smart&auto=webp&s=b3d49d4752be4930eafbc4a99b864e2a4592182c"
+      },
+      {
+        "rank": 4,
+        "title": "Sol Low managing Opus Medium - “I’m not publishing that”",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wfq5y5/sol_low_managing_opus_medium_im_not_publishing/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-14T01:50:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j52qrry06eph1.jpeg?width=640&crop=smart&auto=webp&s=ab57efc286645cbec141cfe50fc2bc78c3117978"
+      },
+      {
+        "rank": 5,
+        "title": "I gave Claude Fable 5.1 and GPT 6 Astra control of my Robot Arm. Which do you think painted better?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgaetp/i_gave_claude_fable_51_and_gpt_6_astra_control_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-14T17:43:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z3i5muhruiph1.jpeg?width=640&crop=smart&auto=webp&s=4b67ec5eeaa464e6903ed5b935292039e3cee4af"
+      },
+      {
+        "rank": 1,
+        "title": "RSI is not happening [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-13T18:01:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yuakh7qdrbph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=177ff62e775cd17b2584ecb97a9c056b3e90922c"
+        "publishedAt": "2026-09-14T18:03:41.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
@@ -26,16 +75,6 @@
       },
       {
         "rank": 3,
-        "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-13T18:54:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8ipo4fax0cph1.png?width=140&height=53&auto=webp&s=564a0ae77936a51730a9159751cfae7648d66ff2"
-      },
-      {
-        "rank": 4,
         "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
         "source": "r/MachineLearning",
@@ -44,13 +83,70 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "PhD branding question [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wfte3b/phd_branding_question_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-14T04:26:46.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[P] Wine synthesis using VAE [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wg5wxy/p_wine_synthesis_using_vae_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-14T15:03:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bylmwhu92iph1.png?width=140&height=134&auto=webp&s=5c11aa0c0e43d53a5bfeec7b077d0a564af3381b"
+      },
+      {
+        "rank": 1,
+        "title": "HOLY THE NERF IS INSANE",
+        "url": "https://www.reddit.com/r/codex/comments/1wfsy6h/holy_the_nerf_is_insane/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-14T04:04:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6 Sol?",
+        "url": "https://www.reddit.com/r/codex/comments/1wg1zae/gpt6_sol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-14T12:25:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6qfywtmgbhph1.jpeg?width=640&crop=smart&auto=webp&s=6db4b7d209b9d9ce57e69cb88e95dec093d31a11"
+      },
+      {
+        "rank": 3,
+        "title": "We are PROBABLY being served quantized models but still paying the full day-one premium price...",
+        "url": "https://www.reddit.com/r/codex/comments/1wfl79h/we_are_probably_being_served_quantized_models_but/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-13T22:05:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI is silently degrading some Astra / Codex accounts.",
+        "url": "https://www.reddit.com/r/codex/comments/1wg3odg/openai_is_silently_degrading_some_astra_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-14T13:37:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Usage limits are absolutely terrible (100$ plan)",
+        "url": "https://www.reddit.com/r/codex/comments/1wfyw1r/usage_limits_are_absolutely_terrible_100_plan/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-14T09:45:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n2w88srqigph1.png?width=640&crop=smart&auto=webp&s=542c26c0d594520b430658b2606fa64a5a07cb28"
       },
       {
         "rank": 1,
@@ -149,102 +245,6 @@
         "publishedAt": "2026-09-13T22:51:14.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/qsgqrscs9dph1.png?width=640&crop=smart&auto=webp&s=766c2b4e7f64ad12af4719c005793b5ed9a430c7"
-      },
-      {
-        "rank": 1,
-        "title": "Back to normal limit",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf65up/back_to_normal_limit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-13T12:18:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v1q4cxo65aph1.png?width=640&crop=smart&auto=webp&s=3368092bfe5e9eacb17c6ceec97580ec2614eeaf"
-      },
-      {
-        "rank": 2,
-        "title": "I vibe coded 5 mobile games with Claude Code.Turns out, people actually enjoy playing them.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf4r63/i_vibe_coded_5_mobile_games_with_claude_codeturns/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-13T11:07:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6vgqp4ucs9ph1.png?width=640&crop=smart&auto=webp&s=62724ab6e906f87efa31b3eece8f04ad56e872a4"
-      },
-      {
-        "rank": 3,
-        "title": "Claude can optimize my computer",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf7es1/claude_can_optimize_my_computer/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-13T13:15:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "claudes scared of me",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wezdab/claudes_scared_of_me/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-13T05:55:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7xdgjd3o88ph1.png?width=640&crop=smart&auto=webp&s=cd1dceaec6aa3192be22493b6ec753b4717f8f08"
-      },
-      {
-        "rank": 5,
-        "title": "Has Anyone Successfully Vibe-Coded an iOS App using Claude?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf9yg1/has_anyone_successfully_vibecoded_an_ios_app/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-13T14:58:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Astra High just reverse-engineered the printer drivers in my office",
-        "url": "https://www.reddit.com/r/codex/comments/1wfajwi/astra_high_just_reverseengineered_the_printer/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-13T15:21:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Historical Image: OpenAI engineer about to send their \"one-shot\" prompt off to Astra for the demo video in 4 weeks.",
-        "url": "https://www.reddit.com/r/codex/comments/1wf2ma8/historical_image_openai_engineer_about_to_send/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-13T09:03:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t57ukx7r59ph1.png?width=640&crop=smart&auto=webp&s=01f0d68ab7ac02eae63d6ef04b19be523a66488d"
-      },
-      {
-        "rank": 3,
-        "title": "Vibecoding is becoming an ethical question...",
-        "url": "https://www.reddit.com/r/codex/comments/1weyk6c/vibecoding_is_becoming_an_ethical_question/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-13T05:10:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N3V3ejViZW8wOHBoMWMheceZDvsw2SBRkr45Iii_nnVnjay5kNngQK7ZTp1U.png?width=640&crop=smart&auto=webp&s=a9f5a96d92995b09b351453bc441b007d0bc916a"
-      },
-      {
-        "rank": 4,
-        "title": "They removed the option to renew my $200 plan",
-        "url": "https://www.reddit.com/r/codex/comments/1wevxki/they_removed_the_option_to_renew_my_200_plan/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-13T02:54:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "😂😭😭 What if",
-        "url": "https://www.reddit.com/r/codex/comments/1wfftdg/what_if/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-13T18:38:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6bfpkc1v0cph1.jpeg?width=640&crop=smart&auto=webp&s=1d0a9856aec3b2fd7b4cdee8cf5b7239e4a83219"
       }
     ]
   }

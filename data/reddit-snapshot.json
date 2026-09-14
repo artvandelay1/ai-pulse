@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-13T23:02:45.833Z",
+  "fetchedAt": "2026-09-14T01:28:10.930Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Back to normal limit",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf65up/back_to_normal_limit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T12:18:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v1q4cxo65aph1.png?width=640&crop=smart&auto=webp&s=3368092bfe5e9eacb17c6ceec97580ec2614eeaf"
+      },
+      {
+        "rank": 2,
+        "title": "I vibe coded 5 mobile games with Claude Code.Turns out, people actually enjoy playing them.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf4r63/i_vibe_coded_5_mobile_games_with_claude_codeturns/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T11:07:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6vgqp4ucs9ph1.png?width=640&crop=smart&auto=webp&s=62724ab6e906f87efa31b3eece8f04ad56e872a4"
+      },
+      {
+        "rank": 3,
+        "title": "Claude can optimize my computer",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf7es1/claude_can_optimize_my_computer/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T13:15:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "claudes scared of me",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wezdab/claudes_scared_of_me/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T05:55:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7xdgjd3o88ph1.png?width=640&crop=smart&auto=webp&s=cd1dceaec6aa3192be22493b6ec753b4717f8f08"
+      },
+      {
+        "rank": 5,
+        "title": "Has Anyone Successfully Vibe-Coded an iOS App using Claude?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wf9yg1/has_anyone_successfully_vibecoded_an_ios_app/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-13T14:58:32.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
@@ -37,6 +85,15 @@
       },
       {
         "rank": 4,
+        "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-13T20:32:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
         "source": "r/MachineLearning",
@@ -46,13 +103,52 @@
         "thumbnail": "https://preview.redd.it/8ipo4fax0cph1.png?width=140&height=53&auto=webp&s=564a0ae77936a51730a9159751cfae7648d66ff2"
       },
       {
-        "rank": 5,
-        "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Astra High just reverse-engineered the printer drivers in my office",
+        "url": "https://www.reddit.com/r/codex/comments/1wfajwi/astra_high_just_reverseengineered_the_printer/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-13T20:32:22.000Z",
+        "publishedAt": "2026-09-13T15:21:43.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Historical Image: OpenAI engineer about to send their \"one-shot\" prompt off to Astra for the demo video in 4 weeks.",
+        "url": "https://www.reddit.com/r/codex/comments/1wf2ma8/historical_image_openai_engineer_about_to_send/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-13T09:03:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t57ukx7r59ph1.png?width=640&crop=smart&auto=webp&s=01f0d68ab7ac02eae63d6ef04b19be523a66488d"
+      },
+      {
+        "rank": 3,
+        "title": "Vibecoding is becoming an ethical question...",
+        "url": "https://www.reddit.com/r/codex/comments/1weyk6c/vibecoding_is_becoming_an_ethical_question/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-13T05:10:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N3V3ejViZW8wOHBoMWMheceZDvsw2SBRkr45Iii_nnVnjay5kNngQK7ZTp1U.png?width=640&crop=smart&auto=webp&s=a9f5a96d92995b09b351453bc441b007d0bc916a"
+      },
+      {
+        "rank": 4,
+        "title": "They removed the option to renew my $200 plan",
+        "url": "https://www.reddit.com/r/codex/comments/1wevxki/they_removed_the_option_to_renew_my_200_plan/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-13T02:54:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "😂😭😭 What if",
+        "url": "https://www.reddit.com/r/codex/comments/1wfftdg/what_if/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-13T18:38:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6bfpkc1v0cph1.jpeg?width=640&crop=smart&auto=webp&s=1d0a9856aec3b2fd7b4cdee8cf5b7239e4a83219"
       },
       {
         "rank": 1,
@@ -151,100 +247,6 @@
         "publishedAt": "2026-09-13T04:55:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/z9n7pc72y7ph1.png?width=320&crop=smart&auto=webp&s=13e77452833cd48d082d0e6c54a9ae8df637d176"
-      },
-      {
-        "rank": 1,
-        "title": "Kimi routed to Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wef8x8/kimi_routed_to_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T15:16:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5g128xyzv3ph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=0760275b8ff6e76c32e7282ec7fa2af104c510f2"
-      },
-      {
-        "rank": 2,
-        "title": "I have to say something as a chinese",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1weizes/i_have_to_say_something_as_a_chinese/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T17:42:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Dario Amodei — We Must Pace the Frontier",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wee42v/dario_amodei_we_must_pace_the_frontier/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T14:29:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/O8Bu9xCUI6CYmUQGKme-uUFrwgWqdSA2GejtiMB9qLc.jpeg?width=640&crop=smart&auto=webp&s=553462b8a95c1c67d972ac5efa935db562a01924"
-      },
-      {
-        "rank": 4,
-        "title": "Claude helped me make a custom e-book, and now I can play pokemon on any device with a web browser and use the display as a game dashboard!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wecd8d/claude_helped_me_make_a_custom_ebook_and_now_i/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T13:15:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ah98ywr683ph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8adcb6801bb6fe9059556806c8a1f6d3bfd63d02"
-      },
-      {
-        "rank": 5,
-        "title": "Just took Anthropic's Architect Foundations exam",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1weg67m/just_took_anthropics_architect_foundations_exam/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-12T15:54:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Truly heed the warning of 5.6 Sol deleting your hard drive",
-        "url": "https://www.reddit.com/r/codex/comments/1wep1ii/truly_heed_the_warning_of_56_sol_deleting_your/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T21:37:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "How many of you guys have switched back to Sol?",
-        "url": "https://www.reddit.com/r/codex/comments/1wecmq0/how_many_of_you_guys_have_switched_back_to_sol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T13:26:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Documentation Masturbation",
-        "url": "https://www.reddit.com/r/codex/comments/1wee4o8/documentation_masturbation/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T14:30:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tn26fbuun3ph1.jpeg?width=640&crop=smart&auto=webp&s=fdb8d6c4f711c215c69108946b3aa84380267107"
-      },
-      {
-        "rank": 4,
-        "title": "Thanks fanboys",
-        "url": "https://www.reddit.com/r/codex/comments/1web39h/thanks_fanboys/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T12:16:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I dont get how this is sustainable for a $200/month product",
-        "url": "https://www.reddit.com/r/codex/comments/1weh2ah/i_dont_get_how_this_is_sustainable_for_a_200month/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-12T16:29:13.000Z",
-        "category": "reddit"
       }
     ]
   }

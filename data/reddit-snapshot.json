@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T06:54:49.870Z",
+  "fetchedAt": "2026-09-14T13:48:44.525Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-13T10:42:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w4fbk1h7n9ph1.png?width=140&height=140&auto=webp&s=7f346a7331363ad4ed833d0f0b79a656f5230893"
-      },
-      {
-        "rank": 2,
         "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
         "source": "r/MachineLearning",
@@ -26,14 +16,23 @@
         "thumbnail": "https://preview.redd.it/yuakh7qdrbph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=177ff62e775cd17b2584ecb97a9c056b3e90922c"
       },
       {
-        "rank": 3,
-        "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
+        "rank": 2,
+        "title": "ARR August Discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wft2qd/arr_august_discussion_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-13T12:12:39.000Z",
+        "publishedAt": "2026-09-14T04:10:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-13T18:54:18.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/57901ltt3aph1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a1dfb415841d9cece2281b29bc9eaeeab99a6421"
+        "thumbnail": "https://preview.redd.it/8ipo4fax0cph1.png?width=140&height=53&auto=webp&s=564a0ae77936a51730a9159751cfae7648d66ff2"
       },
       {
         "rank": 4,
@@ -46,11 +45,11 @@
       },
       {
         "rank": 5,
-        "title": "ARR August Discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wft2qd/arr_august_discussion_d/",
+        "title": "PhD branding question [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wfte3b/phd_branding_question_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-14T04:10:52.000Z",
+        "publishedAt": "2026-09-14T04:26:46.000Z",
         "category": "reddit"
       },
       {
@@ -75,16 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "GPT-6 Astra in a nutshell",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wf0npq/gpt6_astra_in_a_nutshell/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-13T07:07:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1sp9opznl8ph1.jpeg?width=640&crop=smart&auto=webp&s=df36c548c23933ce0e8b73387f69919f35452f4b"
-      },
-      {
-        "rank": 4,
         "title": "DeepSeek is ruthless",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wf9imw/deepseek_is_ruthless/",
         "source": "r/OpenAI",
@@ -93,13 +82,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "The Doomsday Moat: Why AI’s Billionaires Want Washington to Stop the Clock",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wfbn2v/the_doomsday_moat_why_ais_billionaires_want/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-09-13T16:03:19.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "China's Xi Jinping proposes BRICS 'open-source AI zone'",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wg1kux/chinas_xi_jinping_proposes_brics_opensource_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-14T12:06:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4RbBUAY1ycZZgsmfVv8LzlRNP4mXi6S71p8VgcOaYBs.jpeg?width=640&crop=smart&auto=webp&s=0dfab4567a0d6f2087784018f0a3514529a0dd84"
       },
       {
         "rank": 1,
@@ -113,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "They’re colluding to kill open source",
-        "url": "https://www.reddit.com/r/singularity/comments/1wf4hl5/theyre_colluding_to_kill_open_source/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-13T10:53:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ujs70qdzp9ph1.jpeg?width=640&crop=smart&auto=webp&s=11e68afa330763c3de7429e6a07d6d9b34701a2d"
-      },
-      {
-        "rank": 3,
         "title": "Astra notices user isn't paying attention, makes the Mac beep",
         "url": "https://www.reddit.com/r/singularity/comments/1wfnrqj/astra_notices_user_isnt_paying_attention_makes/",
         "source": "r/singularity",
@@ -132,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/eyqol5q7mdph1.png?width=640&crop=smart&auto=webp&s=c1ec180efbda269a4bb4478b3fba9a45106d01a3"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I don't generally like or agree with David Sacks but...",
         "url": "https://www.reddit.com/r/singularity/comments/1wfead8/i_dont_generally_like_or_agree_with_david_sacks/",
         "source": "r/singularity",
@@ -142,14 +131,24 @@
         "thumbnail": "https://preview.redd.it/djcdf7hyqbph1.jpeg?width=640&crop=smart&auto=webp&s=bdbfe14d1f383bc64109d18f7f160641b52ebd45"
       },
       {
-        "rank": 5,
-        "title": "Coming to you next year...",
-        "url": "https://www.reddit.com/r/singularity/comments/1wf6xmt/coming_to_you_next_year/",
+        "rank": 4,
+        "title": "Run! GPT-2 is gonna kill us all!!",
+        "url": "https://www.reddit.com/r/singularity/comments/1wfyrcr/run_gpt2_is_gonna_kill_us_all/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-13T12:54:25.000Z",
+        "publishedAt": "2026-09-14T09:37:29.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dc6hsm8jbaph1.png?width=640&crop=smart&auto=webp&s=89338ca618f2f338c7a65310ed24d4822819d7c2"
+        "thumbnail": "https://preview.redd.it/mugbnde8hgph1.jpeg?width=320&crop=smart&auto=webp&s=843b33054df815c5f90e59b0b18afc8642aad0db"
+      },
+      {
+        "rank": 5,
+        "title": "Following Trump, Mark Zuckerberg also made a statement on accelerating AI.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wfm9np/following_trump_mark_zuckerberg_also_made_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-13T22:51:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qsgqrscs9dph1.png?width=640&crop=smart&auto=webp&s=766c2b4e7f64ad12af4719c005793b5ed9a430c7"
       },
       {
         "rank": 1,

@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-09-15T21:04:14.019Z",
+  "fetchedAt": "2026-09-15T23:38:43.877Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-15T12:59:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "NeurIPS 2026: handling of multiple venue locations seems bad [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wh0xaz/neurips_2026_handling_of_multiple_venue_locations/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-15T13:48:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-15T16:18:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How much work in progress can a workshop submission be [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgv7hi/how_much_work_in_progress_can_a_workshop/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-15T09:13:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[D] How do you get preprocessed dataset of a paper [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgutx6/d_how_do_you_get_preprocessed_dataset_of_a_paper_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-15T08:50:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tokens Exhausted",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wh27cb/tokens_exhausted/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T14:37:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/am1zMjZhdXczcHBoMYchLzgiH-NJ3R9yU0Ldx2o-SpAi4q-GbF0UeFYo6oma.jpeg?width=640&crop=smart&auto=webp&s=9bb696eff0a828e66ab9371ab3ae9e3b46768674"
+      },
+      {
+        "rank": 2,
+        "title": "Astra vs Fable on AssBench",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wgwn2r/astra_vs_fable_on_assbench/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T10:32:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nfo6u0ifvnph1.png?width=640&crop=smart&auto=webp&s=492f96e06e23f089903fa0cc3cf9aefffc594ddb"
+      },
+      {
+        "rank": 3,
+        "title": "Another Google AI safety researcher has quit, warning we might all be about to die",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wgy3f7/another_google_ai_safety_researcher_has_quit/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T11:46:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sm9bpa5d9oph1.png?width=640&crop=smart&auto=webp&s=047cfe54844b04d1fe695a6d03152ac7ba0d6882"
+      },
+      {
+        "rank": 4,
+        "title": "Why would Al labs call for regulations instead of regulating themselves!!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wh1a3i/why_would_al_labs_call_for_regulations_instead_of/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T14:02:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vcyqf7nkxoph1.png?width=640&crop=smart&auto=webp&s=d9f92c474936daf72316312959eb46af96388b23"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-5.5 is officially on its way out as OpenAI moves to the next generation.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1whe0n4/gpt55_is_officially_on_its_way_out_as_openai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T21:49:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3shjyg7u8rph1.jpeg?width=640&crop=smart&auto=webp&s=3f6b4616e7503ad343e8a4bd074a9b4fffab7950"
+      },
+      {
+        "rank": 1,
+        "title": "From Japanese twitter",
+        "url": "https://www.reddit.com/r/singularity/comments/1wgok3w/from_japanese_twitter/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-15T03:10:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tzcirws9plph1.jpeg?width=640&crop=smart&auto=webp&s=06d17f258c540d260011a50445695a858d718245"
+      },
+      {
+        "rank": 2,
+        "title": "TIME's latest cover",
+        "url": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-15T14:49:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ckf8d2d16pph1.jpeg?width=640&crop=smart&auto=webp&s=ccefdc046f9558bb985aa0da38f61430ff78683a"
+      },
+      {
+        "rank": 3,
+        "title": "Guy who has literally trained a frontier LLM AND engineered viruses thinks the AI-supervirus doomer scenario is bogus.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-15T08:25:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8zseg30g9nph1.jpeg?width=640&crop=smart&auto=webp&s=e8caf7fa01f581d60748fe4ce666f88deb135727"
+      },
+      {
+        "rank": 4,
+        "title": "Ask your LLM",
+        "url": "https://www.reddit.com/r/singularity/comments/1wgse1y/ask_your_llm/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-15T06:24:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mlxw8hfznmph1.jpeg?width=320&crop=smart&auto=webp&s=c111a388b7119697ad86db2cd15e66174fc49d11"
+      },
+      {
+        "rank": 5,
+        "title": "We’re literally living through Don’t Look Up, except it’s AI",
+        "url": "https://www.reddit.com/r/singularity/comments/1wgv7y3/were_literally_living_through_dont_look_up_except/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-15T09:13:56.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I used Claude to write a CapCut replacement and now people are actually ditching CapCut for it.",
@@ -56,51 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T12:59:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS 2026: handling of multiple venue locations seems bad [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wh0xaz/neurips_2026_handling_of_multiple_venue_locations/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T13:48:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T16:18:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How much work in progress can a workshop submission be [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgv7hi/how_much_work_in_progress_can_a_workshop/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T09:13:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[D] How do you get preprocessed dataset of a paper [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgutx6/d_how_do_you_get_preprocessed_dataset_of_a_paper_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T08:50:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Deepseek engineer responds to dario and altman, compares anthropic controlling agi to axis having nukes",
         "url": "https://www.reddit.com/r/codex/comments/1wgjbh4/deepseek_engineer_responds_to_dario_and_altman/",
         "source": "r/codex",
@@ -147,105 +246,6 @@
         "publishedAt": "2026-09-15T15:17:42.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/blq9twlwapph1.png?width=140&height=78&auto=webp&s=3e3e8f1ca2c9585c388ade6bb510ecd6f553d325"
-      },
-      {
-        "rank": 1,
-        "title": "Astra vs Fable on AssBench",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wgwn2r/astra_vs_fable_on_assbench/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T10:32:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nfo6u0ifvnph1.png?width=640&crop=smart&auto=webp&s=492f96e06e23f089903fa0cc3cf9aefffc594ddb"
-      },
-      {
-        "rank": 2,
-        "title": "Another Google AI safety researcher has quit, warning we might all be about to die",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wgy3f7/another_google_ai_safety_researcher_has_quit/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T11:46:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sm9bpa5d9oph1.png?width=640&crop=smart&auto=webp&s=047cfe54844b04d1fe695a6d03152ac7ba0d6882"
-      },
-      {
-        "rank": 3,
-        "title": "\"There is no day after tomorrow if China wins,\" US officials are talking about AI like it's existential now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wggqmr/there_is_no_day_after_tomorrow_if_china_wins_us/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-14T21:29:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/qV8G9QCpRrQkWKxSQFDIwSBpbcVWnG3rilIsgNrAW7w.jpeg?width=640&crop=smart&auto=webp&s=54f65305d71724456222cda0370538384ad5071e"
-      },
-      {
-        "rank": 4,
-        "title": "Tokens Exhausted",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wh27cb/tokens_exhausted/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:37:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/am1zMjZhdXczcHBoMYchLzgiH-NJ3R9yU0Ldx2o-SpAi4q-GbF0UeFYo6oma.jpeg?width=640&crop=smart&auto=webp&s=9bb696eff0a828e66ab9371ab3ae9e3b46768674"
-      },
-      {
-        "rank": 5,
-        "title": "I made a virtual piano with virtual mechanisms to allow agents to speak via piano keys",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wh1jxd/i_made_a_virtual_piano_with_virtual_mechanisms_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:13:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cGhsNTM4emh6b3BoMavY12VcWXRYHen1S7vzM8_UYInWmaDu1zTTBHf1wEVt.png?width=640&crop=smart&auto=webp&s=296cce800c4a17baad695cd0bf4e3841304cbb53"
-      },
-      {
-        "rank": 1,
-        "title": "We Must Pace the Frontier",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-14T20:01:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bzltN254dWpranBoMfm76p2YkSeqIYlh2aY2RcTMrXU8rj-ua8cjchkz1ojg.png?width=640&crop=smart&auto=webp&s=c0c4b39df040999572a69ca3c74c0c4ea5893896"
-      },
-      {
-        "rank": 2,
-        "title": "From Japanese twitter",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgok3w/from_japanese_twitter/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T03:10:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tzcirws9plph1.jpeg?width=640&crop=smart&auto=webp&s=06d17f258c540d260011a50445695a858d718245"
-      },
-      {
-        "rank": 3,
-        "title": "AI 2027 author Daniel Kokotajlo tweets message from current OpenAI capabilities researcher, Dan Selsam, on AI risk. Gives some insight into why some AI researchers may be freaking out: increasing model situational awareness during alignment evaluations",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgibs1/ai_2027_author_daniel_kokotajlo_tweets_message/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-14T22:31:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Trump says ai taking over the world is a hoax",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgfiz8/trump_says_ai_taking_over_the_world_is_a_hoax/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-14T20:43:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cbcbgd89sjph1.jpeg?width=640&crop=smart&auto=webp&s=e65ee7cc85b90475331f1da3853bb9bfe2036448"
-      },
-      {
-        "rank": 5,
-        "title": "Ask your LLM",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgse1y/ask_your_llm/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T06:24:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mlxw8hfznmph1.jpeg?width=320&crop=smart&auto=webp&s=c111a388b7119697ad86db2cd15e66174fc49d11"
       }
     ]
   }

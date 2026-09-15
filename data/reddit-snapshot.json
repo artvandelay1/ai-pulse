@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T22:41:49.523Z",
+  "fetchedAt": "2026-09-15T01:18:48.131Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -34,21 +34,20 @@
       },
       {
         "rank": 4,
-        "title": "[P] Wine synthesis using VAE [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wg5wxy/p_wine_synthesis_using_vae_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-14T15:03:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bylmwhu92iph1.png?width=140&height=134&auto=webp&s=5c11aa0c0e43d53a5bfeec7b077d0a564af3381b"
-      },
-      {
-        "rank": 5,
         "title": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wg3g03/ms_marco_clicktranslation_expansion_tables_poor/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-14T13:28:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How to automatically find the batch size when using Accelerate with FSDP2? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wg9u62/how_to_automatically_find_the_batch_size_when/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-14T17:24:08.000Z",
         "category": "reddit"
       },
       {
@@ -83,16 +82,6 @@
       },
       {
         "rank": 4,
-        "title": "There's power in a name",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wg7ls3/theres_power_in_a_name/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-14T16:05:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cmtlcGNteG1laXBoMd9ZQpwaS4Xl-pmQYTg6Vw4FrbpI7C3uMKZEikwaALOo.png?width=640&crop=smart&auto=webp&s=b08d769cb89a786046c01de478fff4ab21c46e34"
-      },
-      {
-        "rank": 5,
         "title": "\"There is no day after tomorrow if China wins,\" US officials are talking about AI like it's existential now",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wggqmr/there_is_no_day_after_tomorrow_if_china_wins_us/",
         "source": "r/OpenAI",
@@ -100,6 +89,16 @@
         "publishedAt": "2026-09-14T21:29:12.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/qV8G9QCpRrQkWKxSQFDIwSBpbcVWnG3rilIsgNrAW7w.jpeg?width=640&crop=smart&auto=webp&s=54f65305d71724456222cda0370538384ad5071e"
+      },
+      {
+        "rank": 5,
+        "title": "There's power in a name",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wg7ls3/theres_power_in_a_name/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-14T16:05:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cmtlcGNteG1laXBoMd9ZQpwaS4Xl-pmQYTg6Vw4FrbpI7C3uMKZEikwaALOo.png?width=640&crop=smart&auto=webp&s=b08d769cb89a786046c01de478fff4ab21c46e34"
       },
       {
         "rank": 1,
@@ -113,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "Astra notices user isn't paying attention, makes the Mac beep",
-        "url": "https://www.reddit.com/r/singularity/comments/1wfnrqj/astra_notices_user_isnt_paying_attention_makes/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-13T23:59:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eyqol5q7mdph1.png?width=640&crop=smart&auto=webp&s=c1ec180efbda269a4bb4478b3fba9a45106d01a3"
-      },
-      {
-        "rank": 3,
         "title": "We Must Pace the Frontier",
         "url": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
         "source": "r/singularity",
@@ -132,7 +121,7 @@
         "thumbnail": "https://external-preview.redd.it/bzltN254dWpranBoMfm76p2YkSeqIYlh2aY2RcTMrXU8rj-ua8cjchkz1ojg.png?width=640&crop=smart&auto=webp&s=c0c4b39df040999572a69ca3c74c0c4ea5893896"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Run! GPT-2 is gonna kill us all!!",
         "url": "https://www.reddit.com/r/singularity/comments/1wfyrcr/run_gpt2_is_gonna_kill_us_all/",
         "source": "r/singularity",
@@ -142,14 +131,24 @@
         "thumbnail": "https://preview.redd.it/mugbnde8hgph1.jpeg?width=320&crop=smart&auto=webp&s=843b33054df815c5f90e59b0b18afc8642aad0db"
       },
       {
-        "rank": 5,
-        "title": "Following Trump, Mark Zuckerberg also made a statement on accelerating AI.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wfm9np/following_trump_mark_zuckerberg_also_made_a/",
+        "rank": 4,
+        "title": "Trump says ai taking over the world is a hoax",
+        "url": "https://www.reddit.com/r/singularity/comments/1wgfiz8/trump_says_ai_taking_over_the_world_is_a_hoax/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-13T22:51:14.000Z",
+        "publishedAt": "2026-09-14T20:43:41.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qsgqrscs9dph1.png?width=640&crop=smart&auto=webp&s=766c2b4e7f64ad12af4719c005793b5ed9a430c7"
+        "thumbnail": "https://preview.redd.it/cbcbgd89sjph1.jpeg?width=640&crop=smart&auto=webp&s=e65ee7cc85b90475331f1da3853bb9bfe2036448"
+      },
+      {
+        "rank": 5,
+        "title": "China reponded to AI slowdown calls \"Fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance, which serves no one's interest\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wg7hbw/china_reponded_to_ai_slowdown_calls_fearmongering/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-14T16:01:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NnZua2xleXJkaXBoMRIc_pRBj7NWKqtM6Ome22OPbcCSONk-4EQ4nUZfyc1o.png?width=640&crop=smart&auto=webp&s=43ef7d65e60b9f5e07afeaf5ce5a3a480d0cc30c"
       },
       {
         "rank": 1,

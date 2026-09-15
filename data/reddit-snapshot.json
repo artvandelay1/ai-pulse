@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T06:34:12.795Z",
+  "fetchedAt": "2026-09-15T12:34:10.507Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Simulation: what if you could throw anything into a black hole?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wfyjrh/simulation_what_if_you_could_throw_anything_into/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-14T09:24:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N3Y3MG0wbTJmZ3BoMamse0z7CYUJc1-KqySQk0Xf8mTpx7TfhKTLGjfdF5dD.png?width=640&crop=smart&auto=webp&s=b3d49d4752be4930eafbc4a99b864e2a4592182c"
-      },
-      {
-        "rank": 3,
         "title": "I gave Claude Fable 5.1 and GPT 6 Astra control of my Robot Arm. Which do you think painted better?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgaetp/i_gave_claude_fable_51_and_gpt_6_astra_control_of/",
         "source": "r/ClaudeAI",
@@ -36,7 +26,27 @@
         "thumbnail": "https://preview.redd.it/z3i5muhruiph1.jpeg?width=640&crop=smart&auto=webp&s=4b67ec5eeaa464e6903ed5b935292039e3cee4af"
       },
       {
+        "rank": 3,
+        "title": "I used Claude to write a CapCut replacement and now people are actually ditching CapCut for it.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgu8g3/i_used_claude_to_write_a_capcut_replacement_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T08:13:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vu3glb6l6nph1.png?width=640&crop=smart&auto=webp&s=a3cf454c41fc7c785512aee03781be36340562af"
+      },
+      {
         "rank": 4,
+        "title": "Claude Opus 5 drew every frame of this animation using JavaScript.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T09:34:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/anN1aW81YmxsbnBoMYqkNp_8Y7MMT-OeNNZPQVIFVG9DaWE8scEHz7H97o_j.png?width=640&crop=smart&auto=webp&s=743436b1350d0b668ecf1d267b82c09a4505179c"
+      },
+      {
+        "rank": 5,
         "title": "Anthropic says Russian and Chinese threat actors used Claude for drone-swarm software and other weapons work",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wg6zf9/anthropic_says_russian_and_chinese_threat_actors/",
         "source": "r/ClaudeAI",
@@ -46,35 +56,35 @@
         "thumbnail": "https://external-preview.redd.it/CHsXbsdBcreScaOH_XG-mbvYU-DU5W6L3Ql3qEH6Rv4.jpeg?width=640&crop=smart&auto=webp&s=7666d439552ec2d4700feb34e8c6f186325e8f1a"
       },
       {
-        "rank": 5,
-        "title": "I built a handwriting canvas where AI can see what you're writing, and then I added a Tom Riddle diary for some reason",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgcuh6/i_built_a_handwriting_canvas_where_ai_can_see/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-14T19:07:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZHJhaXY0bjVianBoMUXJArEAsMnyY04_rVT7QQ75HY6iqkYDV7SBZSM6R2Bg.png?width=640&crop=smart&auto=webp&s=3d26b431097e0eaeb9d74b98896d6c59cd599e36"
-      },
-      {
         "rank": 1,
         "title": "RSI is not happening [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-14T18:03:41.000Z",
-        "category": "reddit"
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kprgucsxaoph1.png?width=140&height=32&auto=webp&s=0613c09f82e77a7914247567d518883967d5e844"
       },
       {
         "rank": 2,
-        "title": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wg3g03/ms_marco_clicktranslation_expansion_tables_poor/",
+        "title": "How much work in progress can a workshop submission be [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgv7hi/how_much_work_in_progress_can_a_workshop/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-14T13:28:01.000Z",
+        "publishedAt": "2026-09-15T09:13:12.000Z",
         "category": "reddit"
       },
       {
         "rank": 3,
+        "title": "[D] How do you get preprocessed dataset of a paper [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgutx6/d_how_do_you_get_preprocessed_dataset_of_a_paper_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-15T08:50:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "How to automatically find the batch size when using Accelerate with FSDP2? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wg9u62/how_to_automatically_find_the_batch_size_when/",
         "source": "r/MachineLearning",
@@ -83,7 +93,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "[P] Wine synthesis using VAE [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wg5wxy/p_wine_synthesis_using_vae_p/",
         "source": "r/MachineLearning",
@@ -93,26 +103,7 @@
         "thumbnail": "https://preview.redd.it/bylmwhu92iph1.png?width=140&height=134&auto=webp&s=5c11aa0c0e43d53a5bfeec7b077d0a564af3381b"
       },
       {
-        "rank": 5,
-        "title": "Duplicating baseline benchmarks [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wg1tdn/duplicating_baseline_benchmarks_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-14T12:18:06.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "GPT-6 Sol?",
-        "url": "https://www.reddit.com/r/codex/comments/1wg1zae/gpt6_sol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-14T12:25:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6qfywtmgbhph1.jpeg?width=640&crop=smart&auto=webp&s=6db4b7d209b9d9ce57e69cb88e95dec093d31a11"
-      },
-      {
-        "rank": 2,
         "title": "Deepseek engineer responds to dario and altman, compares anthropic controlling agi to axis having nukes",
         "url": "https://www.reddit.com/r/codex/comments/1wgjbh4/deepseek_engineer_responds_to_dario_and_altman/",
         "source": "r/codex",
@@ -122,17 +113,17 @@
         "thumbnail": "https://preview.redd.it/vdmk0i5uikph1.png?width=140&height=128&auto=webp&s=fcb8276214407ef9892849a4ca0e7240de10c475"
       },
       {
-        "rank": 3,
-        "title": "Usage limits are absolutely terrible (100$ plan)",
-        "url": "https://www.reddit.com/r/codex/comments/1wfyw1r/usage_limits_are_absolutely_terrible_100_plan/",
+        "rank": 2,
+        "title": "Chat, Work and Codex merging?",
+        "url": "https://www.reddit.com/r/codex/comments/1wghdgd/chat_work_and_codex_merging/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-14T09:45:25.000Z",
+        "publishedAt": "2026-09-14T21:53:33.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n2w88srqigph1.png?width=640&crop=smart&auto=webp&s=542c26c0d594520b430658b2606fa64a5a07cb28"
+        "thumbnail": "https://preview.redd.it/pgeo347k4kph1.jpeg?width=640&crop=smart&auto=webp&s=769123ff04003f6e60be8a51ae792dff76d373fd"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Yeah about that...",
         "url": "https://www.reddit.com/r/codex/comments/1wgak2b/yeah_about_that/",
         "source": "r/codex",
@@ -142,14 +133,23 @@
         "thumbnail": "https://preview.redd.it/0u70ynbwwiph1.jpeg?width=640&crop=smart&auto=webp&s=208108bcce94aee3ff1ec20b6bad5d3eab786803"
       },
       {
-        "rank": 5,
-        "title": "Chat, Work and Codex merging?",
-        "url": "https://www.reddit.com/r/codex/comments/1wghdgd/chat_work_and_codex_merging/",
+        "rank": 4,
+        "title": "GPT 6 Sol spotted, possibly releasing along with Luna on OpenAI DevDay",
+        "url": "https://www.reddit.com/r/codex/comments/1wghj76/gpt_6_sol_spotted_possibly_releasing_along_with/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-14T21:53:33.000Z",
+        "publishedAt": "2026-09-14T21:59:48.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pgeo347k4kph1.jpeg?width=640&crop=smart&auto=webp&s=769123ff04003f6e60be8a51ae792dff76d373fd"
+        "thumbnail": "https://preview.redd.it/0r1uosau5kph1.jpeg?width=320&crop=smart&auto=webp&s=c778e761f6e938e785e625b434e2eb4de1c3b06e"
+      },
+      {
+        "rank": 5,
+        "title": "Astra is an orchestrator GOD",
+        "url": "https://www.reddit.com/r/codex/comments/1wg26xt/astra_is_an_orchestrator_god/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-14T12:35:40.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

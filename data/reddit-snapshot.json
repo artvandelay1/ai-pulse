@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T09:28:12.617Z",
+  "fetchedAt": "2026-09-16T14:20:08.181Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,26 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Claude Opus 5 drew every frame of this animation using JavaScript.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T09:34:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/anN1aW81YmxsbnBoMYqkNp_8Y7MMT-OeNNZPQVIFVG9DaWE8scEHz7H97o_j.png?width=640&crop=smart&auto=webp&s=743436b1350d0b668ecf1d267b82c09a4505179c"
-      },
-      {
-        "rank": 2,
-        "title": "New usage limits",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh13y2/new_usage_limits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T13:56:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nwkz2nquvoph1.png?width=320&crop=smart&auto=webp&s=8305e46c7daf0d2f8fffba3e17245275ddd8e476"
-      },
-      {
-        "rank": 3,
         "title": "The new usage limits make subscription and team plans genuinely useless for real work",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/",
         "source": "r/ClaudeAI",
@@ -35,7 +15,16 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "title": "Even Fable is done with Opus' verbosity...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whf1ba/even_fable_is_done_with_opus_verbosity/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T22:29:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "TempleOS running inside the in-game monitors of Half Life 1",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh1t5v/templeos_running_inside_the_ingame_monitors_of/",
         "source": "r/ClaudeAI",
@@ -45,39 +34,69 @@
         "thumbnail": "https://preview.redd.it/cs1h8ns1loph1.gif?width=640&crop=smart&s=6982470a55d85bf3f6d9c6577544d7d06f5adeb0"
       },
       {
-        "rank": 5,
-        "title": "Even Fable is done with Opus' verbosity...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whf1ba/even_fable_is_done_with_opus_verbosity/",
+        "rank": 4,
+        "title": "Insane how fast limits get eaten",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whk7j3/insane_how_fast_limits_get_eaten/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-15T22:29:38.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-16T02:13:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/txujpy6yjsph1.png?width=640&crop=smart&auto=webp&s=b4f062360362422403b220daf9903f4b6a4d91b2"
+      },
+      {
+        "rank": 5,
+        "title": "Cachebeat – keep your Claude Code prompt cache warm while a session is idle",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh8rie/cachebeat_keep_your_claude_code_prompt_cache_warm/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T18:35:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2uuRCOfio8ipCXq5RDMlTnw8uOAD8bezUwUQYsnUfOw.png?width=640&crop=smart&auto=webp&s=472bb10cdcc377ca122460eec4999d5d7014bbf0"
       },
       {
         "rank": 1,
-        "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T12:59:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS 2026: handling of multiple venue locations seems bad [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wh0xaz/neurips_2026_handling_of_multiple_venue_locations/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T13:48:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-15T16:18:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "LARA: small, composable behaviours for frozen LLMs [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T13:28:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xrngwyo6wvph1.png?width=640&crop=smart&auto=webp&s=6b381a70e2eb96716a869d648540184c93afd259"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS Reference Checker Report[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1why3sk/neurips_reference_checker_reportd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T14:01:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS Reference Check Response[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1whxvvf/neurips_reference_check_responsed/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T13:53:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "PhD in ML in the AI era, autoresearch [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1whxlgq/phd_in_ml_in_the_ai_era_autoresearch_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T13:41:42.000Z",
         "category": "reddit"
       },
       {
@@ -91,13 +110,12 @@
       },
       {
         "rank": 2,
-        "title": "Time to save up your resets",
-        "url": "https://www.reddit.com/r/codex/comments/1wh39gc/time_to_save_up_your_resets/",
+        "title": "Support just told me they aren't renewing people on the $200 plan...",
+        "url": "https://www.reddit.com/r/codex/comments/1whlif0/support_just_told_me_they_arent_renewing_people/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-15T15:17:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/blq9twlwapph1.png?width=140&height=78&auto=webp&s=3e3e8f1ca2c9585c388ade6bb510ecd6f553d325"
+        "publishedAt": "2026-09-16T03:14:27.000Z",
+        "category": "reddit"
       },
       {
         "rank": 3,
@@ -110,12 +128,13 @@
       },
       {
         "rank": 4,
-        "title": "Coding benchmarks should also reward the leanest possible solution. Coding agent currently build crazy bloated code right now.",
-        "url": "https://www.reddit.com/r/codex/comments/1wgzmul/coding_benchmarks_should_also_reward_the_leanest/",
+        "title": "Time to save up your resets",
+        "url": "https://www.reddit.com/r/codex/comments/1wh39gc/time_to_save_up_your_resets/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-15T12:56:23.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-15T15:17:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/blq9twlwapph1.png?width=140&height=78&auto=webp&s=3e3e8f1ca2c9585c388ade6bb510ecd6f553d325"
       },
       {
         "rank": 5,

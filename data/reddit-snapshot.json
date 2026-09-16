@@ -1,10 +1,129 @@
 {
-  "fetchedAt": "2026-09-16T14:20:08.181Z",
+  "fetchedAt": "2026-09-16T18:21:43.812Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "LARA: small, composable behaviours for frozen LLMs [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T13:28:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xrngwyo6wvph1.png?width=640&crop=smart&auto=webp&s=6b381a70e2eb96716a869d648540184c93afd259"
+      },
+      {
+        "rank": 2,
+        "title": "NeurIPS Reference Check Response[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1whxvvf/neurips_reference_check_responsed/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T13:53:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Poor lil guy",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1whseg2/poor_lil_guy/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T09:32:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kgox4ni7quph1.png?width=640&crop=smart&auto=webp&s=e7ff8576411178c5f650d829364424dc950c68e6"
+      },
+      {
+        "rank": 2,
+        "title": "Plot twist",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1whv1df/plot_twist/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T11:52:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ynbs64k2fvph1.png?width=640&crop=smart&auto=webp&s=af302dfb81cd340ba83cdc5621e3995357c3d347"
+      },
+      {
+        "rank": 3,
+        "title": "Every top reddit comment",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wi2tky/every_top_reddit_comment/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T16:53:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ks69jg31xwph1.png?width=640&crop=smart&auto=webp&s=1b25a361c0a8c868d50d72de006de49b11861926"
+      },
+      {
+        "rank": 4,
+        "title": "not to look a gift horse in the mouth...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1whe5br/not_to_look_a_gift_horse_in_the_mouth/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T21:54:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pe7x72bo9rph1.jpeg?width=640&crop=smart&auto=webp&s=a71fd793d1ed3e5d52591970166feefff73bbc24"
+      },
+      {
+        "rank": 5,
+        "title": "A big “ship” week has been declared, teasing new models from GPT-6 family.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1whwjwq/a_big_ship_week_has_been_declared_teasing_new/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T12:59:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eu13nwfcrvph1.png?width=640&crop=smart&auto=webp&s=c7bb7bfe06924ce38563d196cc5927e5db260672"
+      },
+      {
+        "rank": 1,
+        "title": "Dario, we are looking at you.",
+        "url": "https://www.reddit.com/r/singularity/comments/1whhhfr/dario_we_are_looking_at_you/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-16T00:11:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iyx1kl5byrph1.jpeg?width=640&crop=smart&auto=webp&s=684a5d3c1f62040295f26a505d158485f641ed04"
+      },
+      {
+        "rank": 2,
+        "title": "Google demonstrated RSI loop for AI discovery",
+        "url": "https://www.reddit.com/r/singularity/comments/1whwy4m/google_demonstrated_rsi_loop_for_ai_discovery/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-16T13:15:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k89jh2d6uvph1.jpeg?width=640&crop=smart&auto=webp&s=c7c4390a8c65bf5240529b66ddc716f156a7f717"
+      },
+      {
+        "rank": 3,
+        "title": "Scott Aaronson says that labs, \"having been burned by the hostile response to the Navier-Stokes proof, are now sitting on solutions to some very major problems until they figure out a better way to handle things\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1whbpqz/scott_aaronson_says_that_labs_having_been_burned/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-15T20:21:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/4xr7TnVL7zisx4OEMlbPFxjJL2eKQ4tUGo_fclWPniE.jpeg?width=640&crop=smart&auto=webp&s=db4e9eceeafb60fa87805a68950aedfd82c2ddbe"
+      },
+      {
+        "rank": 4,
+        "title": "Sam Altman: GPT 5.5 an average math professor. 5.6 top one or two percentile. Astra a little bit better. Internal model can do things that the best mathematicians in the world cannot.",
+        "url": "https://www.reddit.com/r/singularity/comments/1whw6ej/sam_altman_gpt_55_an_average_math_professor_56/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-16T12:43:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d2dmdHltMjNvdnBoMaHkx93h0vJ4hz4qpFI8BH1goD5IeDWrvu2amHoLxEUz.png?width=640&crop=smart&auto=webp&s=3072d9761b009ef758b474da829674bd72aad617"
+      },
+      {
+        "rank": 5,
+        "title": "Scott Aaronson writes on his blog tonight that he has heard rumors that the AI companies have reached solutions to some very longstanding open problems in theoretical computer science, and are now sitting on multiple major announcements because of the Navier-Stokes firestorm.",
+        "url": "https://www.reddit.com/r/singularity/comments/1whnuep/scott_aaronson_writes_on_his_blog_tonight_that_he/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-16T05:13:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fymcctypftph1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=38debbcbc9b6d6d41c8f9b9b18d2c597c3e191d5"
+      },
       {
         "rank": 1,
         "title": "The new usage limits make subscription and team plans genuinely useless for real work",
@@ -55,52 +174,6 @@
       },
       {
         "rank": 1,
-        "title": "TabPFN-3.5 is released as the next SOTA tabular foundation model [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-15T16:18:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "LARA: small, composable behaviours for frozen LLMs [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-16T13:28:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xrngwyo6wvph1.png?width=640&crop=smart&auto=webp&s=6b381a70e2eb96716a869d648540184c93afd259"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS Reference Checker Report[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1why3sk/neurips_reference_checker_reportd/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-16T14:01:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "NeurIPS Reference Check Response[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1whxvvf/neurips_reference_check_responsed/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-16T13:53:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "PhD in ML in the AI era, autoresearch [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1whxlgq/phd_in_ml_in_the_ai_era_autoresearch_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-16T13:41:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "here's whats going to happen",
         "url": "https://www.reddit.com/r/codex/comments/1wh2rbt/heres_whats_going_to_happen/",
         "source": "r/codex",
@@ -145,105 +218,6 @@
         "publishedAt": "2026-09-15T18:02:19.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/n9xjnf2c4qph1.png?width=640&crop=smart&auto=webp&s=ac1818bee1710b7bbc35fd4a7c5aaa52d83fe6f3"
-      },
-      {
-        "rank": 1,
-        "title": "Tokens Exhausted",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wh27cb/tokens_exhausted/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:37:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/am1zMjZhdXczcHBoMYchLzgiH-NJ3R9yU0Ldx2o-SpAi4q-GbF0UeFYo6oma.jpeg?width=640&crop=smart&auto=webp&s=9bb696eff0a828e66ab9371ab3ae9e3b46768674"
-      },
-      {
-        "rank": 2,
-        "title": "Astra vs Fable on AssBench",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wgwn2r/astra_vs_fable_on_assbench/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T10:32:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nfo6u0ifvnph1.png?width=640&crop=smart&auto=webp&s=492f96e06e23f089903fa0cc3cf9aefffc594ddb"
-      },
-      {
-        "rank": 3,
-        "title": "Another Google AI safety researcher has quit, warning we might all be about to die",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wgy3f7/another_google_ai_safety_researcher_has_quit/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T11:46:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sm9bpa5d9oph1.png?width=640&crop=smart&auto=webp&s=047cfe54844b04d1fe695a6d03152ac7ba0d6882"
-      },
-      {
-        "rank": 4,
-        "title": "Why would Al labs call for regulations instead of regulating themselves!!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wh1a3i/why_would_al_labs_call_for_regulations_instead_of/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:02:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vcyqf7nkxoph1.png?width=640&crop=smart&auto=webp&s=d9f92c474936daf72316312959eb46af96388b23"
-      },
-      {
-        "rank": 5,
-        "title": "So is the American Right Full on Accelerationist now?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wh9mll/so_is_the_american_right_full_on_accelerationist/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T19:05:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZTliNjNjMnBmcXBoMQkrlPie4UEOcnuFjvlCXcxqrGUzsjScrUHbuXibBwy0.png?width=640&crop=smart&auto=webp&s=a4167647e741bab979ab82d87504b0772ff0c6bd"
-      },
-      {
-        "rank": 1,
-        "title": "TIME's latest cover",
-        "url": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:49:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ckf8d2d16pph1.jpeg?width=640&crop=smart&auto=webp&s=ccefdc046f9558bb985aa0da38f61430ff78683a"
-      },
-      {
-        "rank": 2,
-        "title": "Guy who has literally trained a frontier LLM AND engineered viruses thinks the AI-supervirus doomer scenario is bogus.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T08:25:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8zseg30g9nph1.jpeg?width=640&crop=smart&auto=webp&s=e8caf7fa01f581d60748fe4ce666f88deb135727"
-      },
-      {
-        "rank": 3,
-        "title": "Ask your LLM",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgse1y/ask_your_llm/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T06:24:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mlxw8hfznmph1.jpeg?width=320&crop=smart&auto=webp&s=c111a388b7119697ad86db2cd15e66174fc49d11"
-      },
-      {
-        "rank": 4,
-        "title": "We’re literally living through Don’t Look Up, except it’s AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1wgv7y3/were_literally_living_through_dont_look_up_except/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T09:13:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Continual learning in the fruit fly brain has been decoded, the missing piece for true AGI",
-        "url": "https://www.reddit.com/r/singularity/comments/1wh68ii/continual_learning_in_the_fruit_fly_brain_has/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T17:06:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yuygwkvcupph1.jpeg?width=640&crop=smart&auto=webp&s=57ed7dab840631aa95822ed8e9d8405396e2cdbb"
       }
     ]
   }

@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-16T04:07:43.180Z",
+  "fetchedAt": "2026-09-16T09:28:12.617Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude Opus 5 drew every frame of this animation using JavaScript.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T09:34:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/anN1aW81YmxsbnBoMYqkNp_8Y7MMT-OeNNZPQVIFVG9DaWE8scEHz7H97o_j.png?width=640&crop=smart&auto=webp&s=743436b1350d0b668ecf1d267b82c09a4505179c"
+      },
+      {
+        "rank": 2,
+        "title": "New usage limits",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh13y2/new_usage_limits/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T13:56:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nwkz2nquvoph1.png?width=320&crop=smart&auto=webp&s=8305e46c7daf0d2f8fffba3e17245275ddd8e476"
+      },
+      {
+        "rank": 3,
+        "title": "The new usage limits make subscription and team plans genuinely useless for real work",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T00:37:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "TempleOS running inside the in-game monitors of Half Life 1",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh1t5v/templeos_running_inside_the_ingame_monitors_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T14:22:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cs1h8ns1loph1.gif?width=640&crop=smart&s=6982470a55d85bf3f6d9c6577544d7d06f5adeb0"
+      },
+      {
+        "rank": 5,
+        "title": "Even Fable is done with Opus' verbosity...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whf1ba/even_fable_is_done_with_opus_verbosity/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-15T22:29:38.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
@@ -33,22 +81,51 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "How much work in progress can a workshop submission be [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgv7hi/how_much_work_in_progress_can_a_workshop/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "here's whats going to happen",
+        "url": "https://www.reddit.com/r/codex/comments/1wh2rbt/heres_whats_going_to_happen/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-15T09:13:12.000Z",
+        "publishedAt": "2026-09-15T14:59:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Time to save up your resets",
+        "url": "https://www.reddit.com/r/codex/comments/1wh39gc/time_to_save_up_your_resets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-15T15:17:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/blq9twlwapph1.png?width=140&height=78&auto=webp&s=3e3e8f1ca2c9585c388ade6bb510ecd6f553d325"
+      },
+      {
+        "rank": 3,
+        "title": "MAKE SURE YOUR OTHER USERS ARENT USING WORK MODE",
+        "url": "https://www.reddit.com/r/codex/comments/1wh6tar/make_sure_your_other_users_arent_using_work_mode/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-15T17:26:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Coding benchmarks should also reward the leanest possible solution. Coding agent currently build crazy bloated code right now.",
+        "url": "https://www.reddit.com/r/codex/comments/1wgzmul/coding_benchmarks_should_also_reward_the_leanest/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-15T12:56:23.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "[D] How do you get preprocessed dataset of a paper [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wgutx6/d_how_do_you_get_preprocessed_dataset_of_a_paper_d/",
-        "source": "r/MachineLearning",
+        "title": "GPT 5.6 Sol routing to GPT 6 Sol",
+        "url": "https://www.reddit.com/r/codex/comments/1wh7tnb/gpt_56_sol_routing_to_gpt_6_sol/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-15T08:50:58.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-15T18:02:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n9xjnf2c4qph1.png?width=640&crop=smart&auto=webp&s=ac1818bee1710b7bbc35fd4a7c5aaa52d83fe6f3"
       },
       {
         "rank": 1,
@@ -148,104 +225,6 @@
         "publishedAt": "2026-09-15T17:06:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yuygwkvcupph1.jpeg?width=640&crop=smart&auto=webp&s=57ed7dab840631aa95822ed8e9d8405396e2cdbb"
-      },
-      {
-        "rank": 1,
-        "title": "I used Claude to write a CapCut replacement and now people are actually ditching CapCut for it.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgu8g3/i_used_claude_to_write_a_capcut_replacement_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T08:13:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vu3glb6l6nph1.png?width=640&crop=smart&auto=webp&s=a3cf454c41fc7c785512aee03781be36340562af"
-      },
-      {
-        "rank": 2,
-        "title": "Claude Opus 5 drew every frame of this animation using JavaScript.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgvklo/claude_opus_5_drew_every_frame_of_this_animation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T09:34:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/anN1aW81YmxsbnBoMYqkNp_8Y7MMT-OeNNZPQVIFVG9DaWE8scEHz7H97o_j.png?width=640&crop=smart&auto=webp&s=743436b1350d0b668ecf1d267b82c09a4505179c"
-      },
-      {
-        "rank": 3,
-        "title": "New usage limits",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh13y2/new_usage_limits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T13:56:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nwkz2nquvoph1.png?width=320&crop=smart&auto=webp&s=8305e46c7daf0d2f8fffba3e17245275ddd8e476"
-      },
-      {
-        "rank": 4,
-        "title": "\"Your instinct is half right, and the half that's wrong is the useful part.\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wgujpm/your_instinct_is_half_right_and_the_half_thats/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T08:33:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude keeps naming things after the mistakes I told it not to make. So I built a hook for it.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wghjmn/claude_keeps_naming_things_after_the_mistakes_i/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-14T22:00:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fzg1crqx5kph1.jpeg?width=640&crop=smart&auto=webp&s=8f16baf65b2a885bf375b8048301b3732998bf38"
-      },
-      {
-        "rank": 1,
-        "title": "Deepseek engineer responds to dario and altman, compares anthropic controlling agi to axis having nukes",
-        "url": "https://www.reddit.com/r/codex/comments/1wgjbh4/deepseek_engineer_responds_to_dario_and_altman/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-14T23:12:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vdmk0i5uikph1.png?width=140&height=128&auto=webp&s=fcb8276214407ef9892849a4ca0e7240de10c475"
-      },
-      {
-        "rank": 2,
-        "title": "Chat, Work and Codex merging?",
-        "url": "https://www.reddit.com/r/codex/comments/1wghdgd/chat_work_and_codex_merging/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-14T21:53:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pgeo347k4kph1.jpeg?width=640&crop=smart&auto=webp&s=769123ff04003f6e60be8a51ae792dff76d373fd"
-      },
-      {
-        "rank": 3,
-        "title": "here's whats going to happen",
-        "url": "https://www.reddit.com/r/codex/comments/1wh2rbt/heres_whats_going_to_happen/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:59:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "GPT 6 Sol spotted, possibly releasing along with Luna on OpenAI DevDay",
-        "url": "https://www.reddit.com/r/codex/comments/1wghj76/gpt_6_sol_spotted_possibly_releasing_along_with/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-14T21:59:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0r1uosau5kph1.jpeg?width=320&crop=smart&auto=webp&s=c778e761f6e938e785e625b434e2eb4de1c3b06e"
-      },
-      {
-        "rank": 5,
-        "title": "Time to save up your resets",
-        "url": "https://www.reddit.com/r/codex/comments/1wh39gc/time_to_save_up_your_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-15T15:17:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/blq9twlwapph1.png?width=140&height=78&auto=webp&s=3e3e8f1ca2c9585c388ade6bb510ecd6f553d325"
       }
     ]
   }

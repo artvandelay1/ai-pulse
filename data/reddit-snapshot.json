@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T18:21:43.812Z",
+  "fetchedAt": "2026-09-16T21:35:46.735Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,25 @@
       },
       {
         "rank": 2,
+        "title": "GoBench: Evaluating LLMs on the game of Go [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T18:54:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tbl17cn8ixph1.png?width=140&height=70&auto=webp&s=dd4991d9d3d9dd4d98f8e7afc93bc826e38c523b"
+      },
+      {
+        "rank": 3,
+        "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T20:19:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "NeurIPS Reference Check Response[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1whxvvf/neurips_reference_check_responsed/",
         "source": "r/MachineLearning",
@@ -46,16 +65,6 @@
       },
       {
         "rank": 3,
-        "title": "Every top reddit comment",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wi2tky/every_top_reddit_comment/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-16T16:53:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ks69jg31xwph1.png?width=640&crop=smart&auto=webp&s=1b25a361c0a8c868d50d72de006de49b11861926"
-      },
-      {
-        "rank": 4,
         "title": "not to look a gift horse in the mouth...",
         "url": "https://www.reddit.com/r/OpenAI/comments/1whe5br/not_to_look_a_gift_horse_in_the_mouth/",
         "source": "r/OpenAI",
@@ -65,7 +74,7 @@
         "thumbnail": "https://preview.redd.it/pe7x72bo9rph1.jpeg?width=640&crop=smart&auto=webp&s=a71fd793d1ed3e5d52591970166feefff73bbc24"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "A big “ship” week has been declared, teasing new models from GPT-6 family.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1whwjwq/a_big_ship_week_has_been_declared_teasing_new/",
         "source": "r/OpenAI",
@@ -73,6 +82,16 @@
         "publishedAt": "2026-09-16T12:59:51.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/eu13nwfcrvph1.png?width=640&crop=smart&auto=webp&s=c7bb7bfe06924ce38563d196cc5927e5db260672"
+      },
+      {
+        "rank": 5,
+        "title": "A Single Firm is Behind OpenAI, Anthropic, and Meta Hacking Scandals",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wi4trm/a_single_firm_is_behind_openai_anthropic_and_meta/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T18:04:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/feNO1B4g6ZtBSlBBSYWzIzHMBJRVK-BbR93HxhLT9bA.png?width=640&crop=smart&auto=webp&s=934a6fa950c62681059020d881dc4a515f104753"
       },
       {
         "rank": 1,
@@ -96,16 +115,6 @@
       },
       {
         "rank": 3,
-        "title": "Scott Aaronson says that labs, \"having been burned by the hostile response to the Navier-Stokes proof, are now sitting on solutions to some very major problems until they figure out a better way to handle things\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1whbpqz/scott_aaronson_says_that_labs_having_been_burned/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-15T20:21:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4xr7TnVL7zisx4OEMlbPFxjJL2eKQ4tUGo_fclWPniE.jpeg?width=640&crop=smart&auto=webp&s=db4e9eceeafb60fa87805a68950aedfd82c2ddbe"
-      },
-      {
-        "rank": 4,
         "title": "Sam Altman: GPT 5.5 an average math professor. 5.6 top one or two percentile. Astra a little bit better. Internal model can do things that the best mathematicians in the world cannot.",
         "url": "https://www.reddit.com/r/singularity/comments/1whw6ej/sam_altman_gpt_55_an_average_math_professor_56/",
         "source": "r/singularity",
@@ -115,7 +124,7 @@
         "thumbnail": "https://external-preview.redd.it/d2dmdHltMjNvdnBoMaHkx93h0vJ4hz4qpFI8BH1goD5IeDWrvu2amHoLxEUz.png?width=640&crop=smart&auto=webp&s=3072d9761b009ef758b474da829674bd72aad617"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Scott Aaronson writes on his blog tonight that he has heard rumors that the AI companies have reached solutions to some very longstanding open problems in theoretical computer science, and are now sitting on multiple major announcements because of the Navier-Stokes firestorm.",
         "url": "https://www.reddit.com/r/singularity/comments/1whnuep/scott_aaronson_writes_on_his_blog_tonight_that_he/",
         "source": "r/singularity",
@@ -123,6 +132,16 @@
         "publishedAt": "2026-09-16T05:13:19.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/fymcctypftph1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=38debbcbc9b6d6d41c8f9b9b18d2c597c3e191d5"
+      },
+      {
+        "rank": 5,
+        "title": "New stealth model: Union Alpha",
+        "url": "https://www.reddit.com/r/singularity/comments/1wi03f6/new_stealth_model_union_alpha/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-16T15:15:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e3a23syafwph1.jpeg?width=640&crop=smart&auto=webp&s=ab5a465ffcd55644ee740463b4260f730c375564"
       },
       {
         "rank": 1,

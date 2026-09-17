@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T00:15:06.921Z",
+  "fetchedAt": "2026-09-17T05:11:07.756Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,12 +16,13 @@
       },
       {
         "rank": 2,
-        "title": "The new usage limits make subscription and team plans genuinely useless for real work",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/",
+        "title": "I recreated the viral riso animation with Claude Code + Opus 5. Here's the full prompt, the process and the token count",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi0rhx/i_recreated_the_viral_riso_animation_with_claude/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-16T00:37:50.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-16T15:40:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bmcxaWU0Z2tqd3BoMfSlrj79rz0l0UI3Y9IiKhiXHqFes6Tobdu41neSd1Ah.png?width=640&crop=smart&auto=webp&s=ff84c1f0d66223ecd5ba9431517a9373f1043d5f"
       },
       {
         "rank": 3,
@@ -35,13 +36,12 @@
       },
       {
         "rank": 4,
-        "title": "I recreated the viral riso animation with Claude Code + Opus 5. Here's the full prompt, the process and the token count",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi0rhx/i_recreated_the_viral_riso_animation_with_claude/",
+        "title": "Claude's habit of inventing rules to avoid helping is getting ridiculous",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi6o5h/claudes_habit_of_inventing_rules_to_avoid_helping/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-16T15:40:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bmcxaWU0Z2tqd3BoMfSlrj79rz0l0UI3Y9IiKhiXHqFes6Tobdu41neSd1Ah.png?width=640&crop=smart&auto=webp&s=ff84c1f0d66223ecd5ba9431517a9373f1043d5f"
+        "publishedAt": "2026-09-16T19:09:32.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -101,15 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "Support just told me they aren't renewing people on the $200 plan...",
-        "url": "https://www.reddit.com/r/codex/comments/1whlif0/support_just_told_me_they_arent_renewing_people/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-16T03:14:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Any hope for reset?",
         "url": "https://www.reddit.com/r/codex/comments/1whvec6/any_hope_for_reset/",
         "source": "r/codex",
@@ -119,27 +110,17 @@
         "thumbnail": "https://preview.redd.it/nw15lic6ivph1.png?width=640&crop=smart&auto=webp&s=7c2951f313d122692b22ff5493b94902ce1062e7"
       },
       {
+        "rank": 2,
+        "title": "No new Model this week?",
+        "url": "https://www.reddit.com/r/codex/comments/1wiccvk/no_new_model_this_week/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T22:46:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yqxjx7qwnyph1.jpeg?width=640&crop=smart&auto=webp&s=670d7a15e8263a049b039fc49d6b173b677b74df"
+      },
+      {
         "rank": 3,
-        "title": "They swapped the sol and astra positions.",
-        "url": "https://www.reddit.com/r/codex/comments/1whhxcr/they_swapped_the_sol_and_astra_positions/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-16T00:31:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6lh1023o1sph1.png?width=140&height=124&auto=webp&s=a3da549f9675bcb90bca760a7ae88421c2036b04"
-      },
-      {
-        "rank": 4,
-        "title": "First time I've seen this",
-        "url": "https://www.reddit.com/r/codex/comments/1whozfg/first_time_ive_seen_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-16T06:15:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6jo6vx0sqtph1.png?width=320&crop=smart&auto=webp&s=cb66001d6b3c417566a2255e390ca9172c272633"
-      },
-      {
-        "rank": 5,
         "title": "Use Resеt or wait?",
         "url": "https://www.reddit.com/r/codex/comments/1wi7dhm/use_resеt_or_wait/",
         "source": "r/codex",
@@ -147,6 +128,26 @@
         "publishedAt": "2026-09-16T19:34:46.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8qkmhobhpxph1.png?width=640&crop=smart&auto=webp&s=236c80181309b385068e4cfa698d7a6dc5e4bea6"
+      },
+      {
+        "rank": 4,
+        "title": "Free unlimted use frontier model for a week",
+        "url": "https://www.reddit.com/r/codex/comments/1wia3il/free_unlimted_use_frontier_model_for_a_week/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T21:15:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j1p8homk7yph1.jpeg?width=640&crop=smart&auto=webp&s=5ed5d39aae5aca1b2ae8550cff22b5a9e263d70c"
+      },
+      {
+        "rank": 5,
+        "title": "First time I've seen this",
+        "url": "https://www.reddit.com/r/codex/comments/1whozfg/first_time_ive_seen_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T06:15:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6jo6vx0sqtph1.png?width=320&crop=smart&auto=webp&s=cb66001d6b3c417566a2255e390ca9172c272633"
       },
       {
         "rank": 1,

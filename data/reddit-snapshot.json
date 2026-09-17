@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T10:20:09.108Z",
+  "fetchedAt": "2026-09-17T15:15:06.810Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,12 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "Claude 4.6 was peak and it's downhill since then",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/",
+        "title": "Sales pitch of the century.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1winf9r/sales_pitch_of_the_century/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-16T14:58:03.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-17T07:45:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x29fkck3b1qh1.png?width=640&crop=smart&auto=webp&s=96011c863113a55d6c63286eeadaca2860bbce0c"
       },
       {
         "rank": 2,
@@ -36,22 +37,22 @@
       },
       {
         "rank": 4,
-        "title": "Sales pitch of the century.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1winf9r/sales_pitch_of_the_century/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T07:45:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x29fkck3b1qh1.png?width=640&crop=smart&auto=webp&s=96011c863113a55d6c63286eeadaca2860bbce0c"
-      },
-      {
-        "rank": 5,
         "title": "Claude's habit of inventing rules to avoid helping is getting ridiculous",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi6o5h/claudes_habit_of_inventing_rules_to_avoid_helping/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-09-16T19:09:32.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic says Claude for Small Business has reached 900,000 installations since launching in May",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi17s2/anthropic_says_claude_for_small_business_has/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T15:56:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/a3ZaTBEhY3XgsInOdRCgJ3ij8emX4qHcQXmph_I4tmI.jpeg?width=640&crop=smart&auto=webp&s=3843723bc79932ce288810b1615175af63e8ae21"
       },
       {
         "rank": 1,
@@ -64,16 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "LARA: small, composable behaviours for frozen LLMs [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-16T13:28:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xrngwyo6wvph1.png?width=640&crop=smart&auto=webp&s=6b381a70e2eb96716a869d648540184c93afd259"
-      },
-      {
-        "rank": 3,
         "title": "GoBench: Evaluating LLMs on the game of Go [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
         "source": "r/MachineLearning",
@@ -81,6 +72,15 @@
         "publishedAt": "2026-09-16T18:54:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tbl17cn8ixph1.png?width=140&height=70&auto=webp&s=dd4991d9d3d9dd4d98f8e7afc93bc826e38c523b"
+      },
+      {
+        "rank": 3,
+        "title": "Question about TMLR [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T21:26:05.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -93,35 +93,24 @@
       },
       {
         "rank": 5,
-        "title": "ICLR 2027 table font sizes [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wiou0h/iclr_2027_table_font_sizes_d/",
+        "title": "ICLR 2027 Edits Allowance [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-17T09:09:28.000Z",
+        "publishedAt": "2026-09-17T11:25:00.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "No new Model this week?",
-        "url": "https://www.reddit.com/r/codex/comments/1wiccvk/no_new_model_this_week/",
+        "title": "Feeling scammed on the $200 Pro plan since Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1wioij7/feeling_scammed_on_the_200_pro_plan_since_astra/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-16T22:46:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yqxjx7qwnyph1.jpeg?width=640&crop=smart&auto=webp&s=670d7a15e8263a049b039fc49d6b173b677b74df"
+        "publishedAt": "2026-09-17T08:50:37.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
-        "title": "Any hope for reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1whvec6/any_hope_for_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-16T12:08:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nw15lic6ivph1.png?width=640&crop=smart&auto=webp&s=7c2951f313d122692b22ff5493b94902ce1062e7"
-      },
-      {
-        "rank": 3,
         "title": "Free unlimted use frontier model for a week",
         "url": "https://www.reddit.com/r/codex/comments/1wia3il/free_unlimted_use_frontier_model_for_a_week/",
         "source": "r/codex",
@@ -131,14 +120,23 @@
         "thumbnail": "https://preview.redd.it/j1p8homk7yph1.jpeg?width=640&crop=smart&auto=webp&s=5ed5d39aae5aca1b2ae8550cff22b5a9e263d70c"
       },
       {
-        "rank": 4,
-        "title": "Use Resеt or wait?",
-        "url": "https://www.reddit.com/r/codex/comments/1wi7dhm/use_resеt_or_wait/",
+        "rank": 3,
+        "title": "No new Model this week?",
+        "url": "https://www.reddit.com/r/codex/comments/1wiccvk/no_new_model_this_week/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-16T19:34:46.000Z",
+        "publishedAt": "2026-09-16T22:46:33.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8qkmhobhpxph1.png?width=640&crop=smart&auto=webp&s=236c80181309b385068e4cfa698d7a6dc5e4bea6"
+        "thumbnail": "https://preview.redd.it/yqxjx7qwnyph1.jpeg?width=640&crop=smart&auto=webp&s=670d7a15e8263a049b039fc49d6b173b677b74df"
+      },
+      {
+        "rank": 4,
+        "title": "Had to finish a project and used a reset. You’re welcome.",
+        "url": "https://www.reddit.com/r/codex/comments/1wii9yl/had_to_finish_a_project_and_used_a_reset_youre/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T03:09:09.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T21:35:46.735Z",
+  "fetchedAt": "2026-09-17T00:15:06.921Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,62 @@
     "items": [
       {
         "rank": 1,
+        "title": "Claude 4.6 was peak and it's downhill since then",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T14:58:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "The new usage limits make subscription and team plans genuinely useless for real work",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T00:37:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Claude Cowork and chat are merging into one Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi1wfu/claude_cowork_and_chat_are_merging_into_one_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T16:20:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGF2ZXNnMmxxd3BoMY0FdGvbnP6HzIEQFPTgaIBRuarctx1asuDjwhWf7vJj.png?width=640&crop=smart&auto=webp&s=9c92000726c020628ff3070114f3ece3df146440"
+      },
+      {
+        "rank": 4,
+        "title": "I recreated the viral riso animation with Claude Code + Opus 5. Here's the full prompt, the process and the token count",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi0rhx/i_recreated_the_viral_riso_animation_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T15:40:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bmcxaWU0Z2tqd3BoMfSlrj79rz0l0UI3Y9IiKhiXHqFes6Tobdu41neSd1Ah.png?width=640&crop=smart&auto=webp&s=ff84c1f0d66223ecd5ba9431517a9373f1043d5f"
+      },
+      {
+        "rank": 5,
+        "title": "I'm a fully blind business owner. I just sold my first vibe coded product for $1700.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1who6dy/im_a_fully_blind_business_owner_i_just_sold_my/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-16T05:31:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-16T23:20:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "LARA: small, composable behaviours for frozen LLMs [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
         "source": "r/MachineLearning",
@@ -16,7 +72,7 @@
         "thumbnail": "https://preview.redd.it/xrngwyo6wvph1.png?width=640&crop=smart&auto=webp&s=6b381a70e2eb96716a869d648540184c93afd259"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "GoBench: Evaluating LLMs on the game of Go [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
         "source": "r/MachineLearning",
@@ -26,7 +82,7 @@
         "thumbnail": "https://preview.redd.it/tbl17cn8ixph1.png?width=140&height=70&auto=webp&s=dd4991d9d3d9dd4d98f8e7afc93bc826e38c523b"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
         "source": "r/MachineLearning",
@@ -35,13 +91,62 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "NeurIPS Reference Check Response[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1whxvvf/neurips_reference_check_responsed/",
+        "rank": 5,
+        "title": "Question about TMLR [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wiadm9/question_about_tmlr_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-16T13:53:02.000Z",
+        "publishedAt": "2026-09-16T21:26:05.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Support just told me they aren't renewing people on the $200 plan...",
+        "url": "https://www.reddit.com/r/codex/comments/1whlif0/support_just_told_me_they_arent_renewing_people/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T03:14:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Any hope for reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1whvec6/any_hope_for_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T12:08:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nw15lic6ivph1.png?width=640&crop=smart&auto=webp&s=7c2951f313d122692b22ff5493b94902ce1062e7"
+      },
+      {
+        "rank": 3,
+        "title": "They swapped the sol and astra positions.",
+        "url": "https://www.reddit.com/r/codex/comments/1whhxcr/they_swapped_the_sol_and_astra_positions/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T00:31:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6lh1023o1sph1.png?width=140&height=124&auto=webp&s=a3da549f9675bcb90bca760a7ae88421c2036b04"
+      },
+      {
+        "rank": 4,
+        "title": "First time I've seen this",
+        "url": "https://www.reddit.com/r/codex/comments/1whozfg/first_time_ive_seen_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T06:15:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6jo6vx0sqtph1.png?width=320&crop=smart&auto=webp&s=cb66001d6b3c417566a2255e390ca9172c272633"
+      },
+      {
+        "rank": 5,
+        "title": "Use Resеt or wait?",
+        "url": "https://www.reddit.com/r/codex/comments/1wi7dhm/use_resеt_or_wait/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-16T19:34:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8qkmhobhpxph1.png?width=640&crop=smart&auto=webp&s=236c80181309b385068e4cfa698d7a6dc5e4bea6"
       },
       {
         "rank": 1,
@@ -142,101 +247,6 @@
         "publishedAt": "2026-09-16T15:15:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/e3a23syafwph1.jpeg?width=640&crop=smart&auto=webp&s=ab5a465ffcd55644ee740463b4260f730c375564"
-      },
-      {
-        "rank": 1,
-        "title": "The new usage limits make subscription and team plans genuinely useless for real work",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-16T00:37:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Even Fable is done with Opus' verbosity...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whf1ba/even_fable_is_done_with_opus_verbosity/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T22:29:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "TempleOS running inside the in-game monitors of Half Life 1",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh1t5v/templeos_running_inside_the_ingame_monitors_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:22:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cs1h8ns1loph1.gif?width=640&crop=smart&s=6982470a55d85bf3f6d9c6577544d7d06f5adeb0"
-      },
-      {
-        "rank": 4,
-        "title": "Insane how fast limits get eaten",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1whk7j3/insane_how_fast_limits_get_eaten/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-16T02:13:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/txujpy6yjsph1.png?width=640&crop=smart&auto=webp&s=b4f062360362422403b220daf9903f4b6a4d91b2"
-      },
-      {
-        "rank": 5,
-        "title": "Cachebeat – keep your Claude Code prompt cache warm while a session is idle",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wh8rie/cachebeat_keep_your_claude_code_prompt_cache_warm/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-15T18:35:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2uuRCOfio8ipCXq5RDMlTnw8uOAD8bezUwUQYsnUfOw.png?width=640&crop=smart&auto=webp&s=472bb10cdcc377ca122460eec4999d5d7014bbf0"
-      },
-      {
-        "rank": 1,
-        "title": "here's whats going to happen",
-        "url": "https://www.reddit.com/r/codex/comments/1wh2rbt/heres_whats_going_to_happen/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-15T14:59:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Support just told me they aren't renewing people on the $200 plan...",
-        "url": "https://www.reddit.com/r/codex/comments/1whlif0/support_just_told_me_they_arent_renewing_people/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-16T03:14:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "MAKE SURE YOUR OTHER USERS ARENT USING WORK MODE",
-        "url": "https://www.reddit.com/r/codex/comments/1wh6tar/make_sure_your_other_users_arent_using_work_mode/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-15T17:26:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Time to save up your resets",
-        "url": "https://www.reddit.com/r/codex/comments/1wh39gc/time_to_save_up_your_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-15T15:17:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/blq9twlwapph1.png?width=140&height=78&auto=webp&s=3e3e8f1ca2c9585c388ade6bb510ecd6f553d325"
-      },
-      {
-        "rank": 5,
-        "title": "GPT 5.6 Sol routing to GPT 6 Sol",
-        "url": "https://www.reddit.com/r/codex/comments/1wh7tnb/gpt_56_sol_routing_to_gpt_6_sol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-15T18:02:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n9xjnf2c4qph1.png?width=640&crop=smart&auto=webp&s=ac1818bee1710b7bbc35fd4a7c5aaa52d83fe6f3"
       }
     ]
   }

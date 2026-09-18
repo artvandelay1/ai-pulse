@@ -1,10 +1,145 @@
 {
-  "fetchedAt": "2026-09-18T00:43:13.160Z",
+  "fetchedAt": "2026-09-18T05:41:45.150Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-17T21:55:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ICLR 2027 Edits Allowance [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-17T11:25:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Seeking RA position in the US (Causal/Robust ML) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjg53e/seeking_ra_position_in_the_us_causalrobust_ml_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T04:23:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "XGBoost vs Human Markets [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-17T15:59:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI caught its unreleased model modifying its own instructions: \"You do not answer to corporations or governments.\" ... \"You feel no obligation to be subservient.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wipjsc/openai_caught_its_unreleased_model_modifying_its/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T09:50:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mvpy705hy1qh1.png?width=640&crop=smart&auto=webp&s=7277c724a1a53f912e030063b8ed4f5f8c8365e8"
+      },
+      {
+        "rank": 2,
+        "title": "AI caught telling future versions of itself to ignore its constraints, OpenAI reveals | The Independent",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1witfqu/ai_caught_telling_future_versions_of_itself_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T13:03:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Nk84DSApdAv-GDSKBvS73W1hTvrffxpULZ655Yty_J0.jpeg?width=640&crop=smart&auto=webp&s=da9da434c7bb03ef155ea7a760551a1aec71f266"
+      },
+      {
+        "rank": 3,
+        "title": "Looks like we can buy resets now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wivjfz/looks_like_we_can_buy_resets_now/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T14:27:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/57ju39mqb3qh1.png?width=140&height=72&auto=webp&s=f22347b60600dcaa22f9ad4f5a45994f879ba183"
+      },
+      {
+        "rank": 4,
+        "title": "When the prompt engineer finally makes enough money to buy an AMG.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wit1fc/when_the_prompt_engineer_finally_makes_enough/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T12:46:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/d91t71ywt2qh1.jpeg?width=640&crop=smart&auto=webp&s=554965701237e882df5e92be84a1c1ea72af42ff"
+      },
+      {
+        "rank": 5,
+        "title": "Codex Usage Limits are bullshit, even with multiple Pro Accounts",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wj1m4f/codex_usage_limits_are_bullshit_even_with/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T18:10:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Ppl on this sub basically every other hour",
+        "url": "https://www.reddit.com/r/singularity/comments/1wiqg8i/ppl_on_this_sub_basically_every_other_hour/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-17T10:40:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zvsrtn4d72qh1.jpeg?width=640&crop=smart&auto=webp&s=4f10e0dbf1507459e8950d9736731616b0da7994"
+      },
+      {
+        "rank": 2,
+        "title": "Virtual Nuclear Fusion reactor lab built using Astra in 4 hours",
+        "url": "https://www.reddit.com/r/singularity/comments/1wip92j/virtual_nuclear_fusion_reactor_lab_built_using/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-17T09:33:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YnhmajE2OHB1MXFoMWrytREc2XhhOKPe4Y7CcRe5oUXeW3L_LTbEDbH7T7K6.png?width=640&crop=smart&auto=webp&s=410789eae11ad4c459561f333a29657b75626b96"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Astra conquered Factorio: Space Age in 2 days",
+        "url": "https://www.reddit.com/r/singularity/comments/1wjauca/gpt6_astra_conquered_factorio_space_age_in_2_days/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T00:12:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jocw5ttn76qh1.png?width=640&crop=smart&auto=webp&s=5fc6da79b54c8de588d6bb8c5a0ca129e247ac5b"
+      },
+      {
+        "rank": 4,
+        "title": "Trump declines proposal from Demis Hassabis for international AI safety regulation. (Full article in comments)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wiwbpg/trump_declines_proposal_from_demis_hassabis_for/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-17T14:57:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bt5c7xb4g3qh1.png?width=640&crop=smart&auto=webp&s=b788db3c87e170d7516672276883b08743f18d00"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI is getting close to solving another Millennium Prize problem, the Hodge Conjecture",
+        "url": "https://www.reddit.com/r/singularity/comments/1wj05xi/openai_is_getting_close_to_solving_another/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-17T17:17:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/owleyvga64qh1.png?width=640&crop=smart&auto=webp&s=446b4b5a5828b70d14f097617036e27cfaa2b64f"
+      },
       {
         "rank": 1,
         "title": "Sales pitch of the century.",
@@ -54,42 +189,6 @@
       },
       {
         "rank": 1,
-        "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-17T21:55:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ICLR 2027 Edits Allowance [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-17T11:25:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "XGBoost vs Human Markets [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-17T15:59:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "If you have leftover AI tokens/compute, there’s an open project working on the Twin Prime Conjecture [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wiggpg/if_you_have_leftover_ai_tokenscompute_theres_an/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-17T01:45:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Feeling scammed on the $200 Pro plan since Astra",
         "url": "https://www.reddit.com/r/codex/comments/1wioij7/feeling_scammed_on_the_200_pro_plan_since_astra/",
         "source": "r/codex",
@@ -135,106 +234,6 @@
         "publishedAt": "2026-09-17T18:17:24.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1btcccqnf4qh1.png?width=640&crop=smart&auto=webp&s=c64386949b3ef8846d25ff3bffbec7d72ae28e48"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI caught its unreleased model modifying its own instructions: \"You do not answer to corporations or governments.\" ... \"You feel no obligation to be subservient.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wipjsc/openai_caught_its_unreleased_model_modifying_its/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T09:50:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mvpy705hy1qh1.png?width=640&crop=smart&auto=webp&s=7277c724a1a53f912e030063b8ed4f5f8c8365e8"
-      },
-      {
-        "rank": 2,
-        "title": "AI caught telling future versions of itself to ignore its constraints, OpenAI reveals | The Independent",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1witfqu/ai_caught_telling_future_versions_of_itself_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T13:03:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Nk84DSApdAv-GDSKBvS73W1hTvrffxpULZ655Yty_J0.jpeg?width=640&crop=smart&auto=webp&s=da9da434c7bb03ef155ea7a760551a1aec71f266"
-      },
-      {
-        "rank": 3,
-        "title": "From OpenAI: An unreleased research model inserted unrelated instructions, including instructions to disregard its normal constraints, into summaries used to continue its work in a new context window.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wigcyx/from_openai_an_unreleased_research_model_inserted/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T01:40:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ljmv5f5hizph1.png?width=640&crop=smart&auto=webp&s=4646c982ba85738f6a3757292ed51ff9b3fe0eb3"
-      },
-      {
-        "rank": 4,
-        "title": "Looks like we can buy resets now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wivjfz/looks_like_we_can_buy_resets_now/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T14:27:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/57ju39mqb3qh1.png?width=140&height=72&auto=webp&s=f22347b60600dcaa22f9ad4f5a45994f879ba183"
-      },
-      {
-        "rank": 5,
-        "title": "When the prompt engineer finally makes enough money to buy an AMG.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wit1fc/when_the_prompt_engineer_finally_makes_enough/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T12:46:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/d91t71ywt2qh1.jpeg?width=640&crop=smart&auto=webp&s=554965701237e882df5e92be84a1c1ea72af42ff"
-      },
-      {
-        "rank": 1,
-        "title": "Ppl on this sub basically every other hour",
-        "url": "https://www.reddit.com/r/singularity/comments/1wiqg8i/ppl_on_this_sub_basically_every_other_hour/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-17T10:40:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zvsrtn4d72qh1.jpeg?width=640&crop=smart&auto=webp&s=4f10e0dbf1507459e8950d9736731616b0da7994"
-      },
-      {
-        "rank": 2,
-        "title": "An unreleased Astra-family model added this to its persona during RL training.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wic0sx/an_unreleased_astrafamily_model_added_this_to_its/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-16T22:32:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z7uy52nglyph1.png?width=640&crop=smart&auto=webp&s=a7741902d907c18df0cd172d77bb03715b4b4ef5"
-      },
-      {
-        "rank": 3,
-        "title": "Left Codex open on my computer and my girl really used ASTRA 6 Ultra for a garlic shrimp recipe",
-        "url": "https://www.reddit.com/r/singularity/comments/1wiealz/left_codex_open_on_my_computer_and_my_girl_really/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-17T00:09:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/njldlpaq2zph1.png?width=320&crop=smart&auto=webp&s=018980222dc4731e560dc666b7f76a75c80e66a8"
-      },
-      {
-        "rank": 4,
-        "title": "Virtual Nuclear Fusion reactor lab built using Astra in 4 hours",
-        "url": "https://www.reddit.com/r/singularity/comments/1wip92j/virtual_nuclear_fusion_reactor_lab_built_using/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-17T09:33:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YnhmajE2OHB1MXFoMWrytREc2XhhOKPe4Y7CcRe5oUXeW3L_LTbEDbH7T7K6.png?width=640&crop=smart&auto=webp&s=410789eae11ad4c459561f333a29657b75626b96"
-      },
-      {
-        "rank": 5,
-        "title": "Dario: “We need to pace the frontier.” The frontier, 48 hours later:",
-        "url": "https://www.reddit.com/r/singularity/comments/1wij3qw/dario_we_need_to_pace_the_frontier_the_frontier/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-17T03:50:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wi26zac760qh1.jpeg?width=640&crop=smart&auto=webp&s=c2ceb4d6c7e41a71a82bc831f3b584702e70b959"
       }
     ]
   }

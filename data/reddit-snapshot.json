@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-17T22:24:41.537Z",
+  "fetchedAt": "2026-09-18T00:43:13.160Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,53 @@
     "items": [
       {
         "rank": 1,
-        "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
-        "source": "r/MachineLearning",
+        "title": "Sales pitch of the century.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1winf9r/sales_pitch_of_the_century/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-16T23:20:58.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-17T07:45:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x29fkck3b1qh1.png?width=640&crop=smart&auto=webp&s=96011c863113a55d6c63286eeadaca2860bbce0c"
       },
       {
         "rank": 2,
+        "title": "Opus 5 first refused to help me make this due to \"distaste\", got around it by calling it \"Horror themed GitHub project\" and I am happy with the result.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj18o8/opus_5_first_refused_to_help_me_make_this_due_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T17:57:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vn6j0ns7d4qh1.gif?width=640&crop=smart&s=4d021b6f9fc1fbcc7c2f22ecf244789cddd6b721"
+      },
+      {
+        "rank": 3,
+        "title": "JPMorgan is putting Claude Code inside a sandbox with no standing access to internal systems",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T12:52:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude saved me $800",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T19:32:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What’s one Claude workflow that genuinely changed how you work?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wikd24/whats_one_claude_workflow_that_genuinely_changed/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T04:54:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
         "source": "r/MachineLearning",
@@ -24,12 +62,21 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "ICLR 2027 Edits Allowance [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-17T11:25:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "XGBoost vs Human Markets [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-17T15:59:49.000Z",
         "category": "reddit"
       },
       {
@@ -42,13 +89,52 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "XGBoost vs Human Markets [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Feeling scammed on the $200 Pro plan since Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1wioij7/feeling_scammed_on_the_200_pro_plan_since_astra/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-17T15:59:49.000Z",
+        "publishedAt": "2026-09-17T08:50:37.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Codex badly needs a cache timeout indicator, like Claude recently added.",
+        "url": "https://www.reddit.com/r/codex/comments/1wixw9c/codex_badly_needs_a_cache_timeout_indicator_like/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T15:56:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b1r6pdxbj3qh1.png?width=320&crop=smart&auto=webp&s=8ac3c723cd20d57d88c0937a01e2a979d3a8ee2d"
+      },
+      {
+        "rank": 3,
+        "title": "I was going to cancel my plus subscription and this popped up",
+        "url": "https://www.reddit.com/r/codex/comments/1winzym/i_was_going_to_cancel_my_plus_subscription_and/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T08:19:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nv4tdxtof1qh1.png?width=320&crop=smart&auto=webp&s=2aa6dba6b23249e37344de38bb745a81f4246b84"
+      },
+      {
+        "rank": 4,
+        "title": "Had to finish a project and used a reset. You’re welcome.",
+        "url": "https://www.reddit.com/r/codex/comments/1wii9yl/had_to_finish_a_project_and_used_a_reset_youre/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T03:09:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "End of an Era? ChatGPT now refuses code requests.",
+        "url": "https://www.reddit.com/r/codex/comments/1wj1sjl/end_of_an_era_chatgpt_now_refuses_code_requests/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T18:17:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1btcccqnf4qh1.png?width=640&crop=smart&auto=webp&s=c64386949b3ef8846d25ff3bffbec7d72ae28e48"
       },
       {
         "rank": 1,
@@ -149,102 +235,6 @@
         "publishedAt": "2026-09-17T03:50:15.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wi26zac760qh1.jpeg?width=640&crop=smart&auto=webp&s=c2ceb4d6c7e41a71a82bc831f3b584702e70b959"
-      },
-      {
-        "rank": 1,
-        "title": "Sales pitch of the century.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1winf9r/sales_pitch_of_the_century/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T07:45:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x29fkck3b1qh1.png?width=640&crop=smart&auto=webp&s=96011c863113a55d6c63286eeadaca2860bbce0c"
-      },
-      {
-        "rank": 2,
-        "title": "JPMorgan is putting Claude Code inside a sandbox with no standing access to internal systems",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T12:52:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I Used Claude Code + Unreal MCP to Build a Souls-Like Boss Fight in 72 Hours",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1widtfq/i_used_claude_code_unreal_mcp_to_build_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-16T23:49:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ejZtdGdsem55eXBoMblaGTF6t7w0RJx-sjLcW7FBbPNMgpO6d7sjvcH8aAhT.png?width=640&crop=smart&auto=webp&s=6730a3afc93f4aea8dccf0d15749d6f87eedc062"
-      },
-      {
-        "rank": 4,
-        "title": "What’s one Claude workflow that genuinely changed how you work?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wikd24/whats_one_claude_workflow_that_genuinely_changed/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T04:54:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I asked Claude for a score-following animation of Chopin's Barcarolle, Op. 60 — it built the whole thing end to end",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wi7f6o/i_asked_claude_for_a_scorefollowing_animation_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-16T19:36:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YTJhZHNoOXNveHBoMRnTrC70zXkXWn7bTB_6iyXBW1GZWZ-0CKy76x0P23Pw.png?width=640&crop=smart&auto=webp&s=051911d556b57ba7943ff1ed6bf4b9905df8b10e"
-      },
-      {
-        "rank": 1,
-        "title": "Feeling scammed on the $200 Pro plan since Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1wioij7/feeling_scammed_on_the_200_pro_plan_since_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T08:50:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Free unlimted use frontier model for a week",
-        "url": "https://www.reddit.com/r/codex/comments/1wia3il/free_unlimted_use_frontier_model_for_a_week/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-16T21:15:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j1p8homk7yph1.jpeg?width=640&crop=smart&auto=webp&s=5ed5d39aae5aca1b2ae8550cff22b5a9e263d70c"
-      },
-      {
-        "rank": 3,
-        "title": "I was going to cancel my plus subscription and this popped up",
-        "url": "https://www.reddit.com/r/codex/comments/1winzym/i_was_going_to_cancel_my_plus_subscription_and/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T08:19:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nv4tdxtof1qh1.png?width=320&crop=smart&auto=webp&s=2aa6dba6b23249e37344de38bb745a81f4246b84"
-      },
-      {
-        "rank": 4,
-        "title": "Had to finish a project and used a reset. You’re welcome.",
-        "url": "https://www.reddit.com/r/codex/comments/1wii9yl/had_to_finish_a_project_and_used_a_reset_youre/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T03:09:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "No new Model this week?",
-        "url": "https://www.reddit.com/r/codex/comments/1wiccvk/no_new_model_this_week/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-16T22:46:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yqxjx7qwnyph1.jpeg?width=640&crop=smart&auto=webp&s=670d7a15e8263a049b039fc49d6b173b677b74df"
       }
     ]
   }

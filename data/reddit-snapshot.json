@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T10:53:43.974Z",
+  "fetchedAt": "2026-09-18T14:53:06.978Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,64 @@
     "items": [
       {
         "rank": 1,
+        "title": "Opus 5 first refused to help me make this due to \"distaste\", got around it by calling it \"Horror themed GitHub project\" and I am happy with the result.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj18o8/opus_5_first_refused_to_help_me_make_this_due_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T17:57:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vn6j0ns7d4qh1.gif?width=640&crop=smart&s=4d021b6f9fc1fbcc7c2f22ecf244789cddd6b721"
+      },
+      {
+        "rank": 2,
+        "title": "Claude saved me $800",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T19:32:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Curious...what did he expect the candidate to do 🤔?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjjk5a/curiouswhat_did_he_expect_the_candidate_to_do/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T07:35:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sxhc34o8f8qh1.jpeg?width=640&crop=smart&auto=webp&s=cccb060a96cef2db82231670b3518490c0a6f45c"
+      },
+      {
+        "rank": 4,
+        "title": "Claude's response to me pressing the \"quick answer\" button",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj6l0y/claudes_response_to_me_pressing_the_quick_answer/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T21:15:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kmlhbmyhc5qh1.png?width=640&crop=smart&auto=webp&s=226b023e06064f25ab955ff4c512726557ec80fe"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic says its chatbot Claude is taking over the work of building its own successor",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjaev2/anthropic_says_its_chatbot_claude_is_taking_over/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-17T23:54:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cbFYNp7NznodyRAn75Y4u_g7I8ydMDDGMKonK5lhLzo.jpeg?width=640&crop=smart&auto=webp&s=fecf1fa4d2d1c745bb93e5ae542419ee3548232e"
+      },
+      {
+        "rank": 1,
+        "title": "How competitive are journals compared to top ai conferences? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T11:36:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "AAAI-27 Phase 1 Results [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
         "source": "r/MachineLearning",
@@ -15,7 +73,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
         "source": "r/MachineLearning",
@@ -24,7 +82,16 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "title": "augmenting large datasets to have more edge case data for training [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T11:24:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
         "source": "r/MachineLearning",
@@ -33,21 +100,52 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "ICLR 2027 Edits Allowance [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "End of an Era? ChatGPT now refuses code requests.",
+        "url": "https://www.reddit.com/r/codex/comments/1wj1sjl/end_of_an_era_chatgpt_now_refuses_code_requests/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-17T11:25:00.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-17T18:17:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1btcccqnf4qh1.png?width=640&crop=smart&auto=webp&s=c64386949b3ef8846d25ff3bffbec7d72ae28e48"
+      },
+      {
+        "rank": 2,
+        "title": "Codex badly needs a cache timeout indicator, like Claude recently added.",
+        "url": "https://www.reddit.com/r/codex/comments/1wixw9c/codex_badly_needs_a_cache_timeout_indicator_like/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T15:56:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b1r6pdxbj3qh1.png?width=320&crop=smart&auto=webp&s=8ac3c723cd20d57d88c0937a01e2a979d3a8ee2d"
+      },
+      {
+        "rank": 3,
+        "title": "Finally found a use for my Touch Bar that isn’t just adjusting the volume",
+        "url": "https://www.reddit.com/r/codex/comments/1wj8g0t/finally_found_a_use_for_my_touch_bar_that_isnt/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T22:29:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3xqzpe0zp5qh1.png?width=640&crop=smart&auto=webp&s=eab775fb299a56b43e5df633367d692bb1e00098"
+      },
+      {
+        "rank": 4,
+        "title": "In case you're wondering, this is what $100 plan gets you (Astra High)",
+        "url": "https://www.reddit.com/r/codex/comments/1wj6tl0/in_case_youre_wondering_this_is_what_100_plan/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-17T21:24:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q8ualsgzd5qh1.png?width=140&height=68&auto=webp&s=4698f69e881c40c8f40d707982c45df88704ba19"
       },
       {
         "rank": 5,
-        "title": "XGBoost vs Human Markets [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wixzts/xgboost_vs_human_markets_p/",
-        "source": "r/MachineLearning",
+        "title": "The best trick I’ve learned from Reddit for Codex is to ask GPT for his “confidence”",
+        "url": "https://www.reddit.com/r/codex/comments/1wj653u/the_best_trick_ive_learned_from_reddit_for_codex/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-17T15:59:49.000Z",
+        "publishedAt": "2026-09-17T20:58:19.000Z",
         "category": "reddit"
       },
       {
@@ -147,101 +245,6 @@
         "score": 0,
         "publishedAt": "2026-09-17T23:08:49.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Sales pitch of the century.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1winf9r/sales_pitch_of_the_century/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T07:45:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x29fkck3b1qh1.png?width=640&crop=smart&auto=webp&s=96011c863113a55d6c63286eeadaca2860bbce0c"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5 first refused to help me make this due to \"distaste\", got around it by calling it \"Horror themed GitHub project\" and I am happy with the result.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj18o8/opus_5_first_refused_to_help_me_make_this_due_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T17:57:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vn6j0ns7d4qh1.gif?width=640&crop=smart&s=4d021b6f9fc1fbcc7c2f22ecf244789cddd6b721"
-      },
-      {
-        "rank": 3,
-        "title": "JPMorgan is putting Claude Code inside a sandbox with no standing access to internal systems",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T12:52:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Claude saved me $800",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T19:32:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What’s one Claude workflow that genuinely changed how you work?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wikd24/whats_one_claude_workflow_that_genuinely_changed/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T04:54:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Feeling scammed on the $200 Pro plan since Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1wioij7/feeling_scammed_on_the_200_pro_plan_since_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T08:50:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Codex badly needs a cache timeout indicator, like Claude recently added.",
-        "url": "https://www.reddit.com/r/codex/comments/1wixw9c/codex_badly_needs_a_cache_timeout_indicator_like/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T15:56:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b1r6pdxbj3qh1.png?width=320&crop=smart&auto=webp&s=8ac3c723cd20d57d88c0937a01e2a979d3a8ee2d"
-      },
-      {
-        "rank": 3,
-        "title": "I was going to cancel my plus subscription and this popped up",
-        "url": "https://www.reddit.com/r/codex/comments/1winzym/i_was_going_to_cancel_my_plus_subscription_and/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T08:19:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nv4tdxtof1qh1.png?width=320&crop=smart&auto=webp&s=2aa6dba6b23249e37344de38bb745a81f4246b84"
-      },
-      {
-        "rank": 4,
-        "title": "Had to finish a project and used a reset. You’re welcome.",
-        "url": "https://www.reddit.com/r/codex/comments/1wii9yl/had_to_finish_a_project_and_used_a_reset_youre/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T03:09:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "End of an Era? ChatGPT now refuses code requests.",
-        "url": "https://www.reddit.com/r/codex/comments/1wj1sjl/end_of_an_era_chatgpt_now_refuses_code_requests/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T18:17:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1btcccqnf4qh1.png?width=640&crop=smart&auto=webp&s=c64386949b3ef8846d25ff3bffbec7d72ae28e48"
       }
     ]
   }

@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-09-18T21:10:09.389Z",
+  "fetchedAt": "2026-09-18T23:32:42.738Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ICLR SUBMISSION 47647 how that possible? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T19:12:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "How competitive are journals compared to top ai conferences? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T11:36:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T16:13:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kb3hhwxbzcqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c209a8686eb38c5138ecb81f468c89c970732a2d"
+      },
+      {
+        "rank": 4,
+        "title": "AAAI-27 Phase 1 Results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T05:36:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjp062/classifying_coronary_heart_disease_risk_from/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T12:36:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI's Noam Brown says air-gapping the computers may not stop a misaligned AI, because the machines can still talk by running a CPU hot and reading the temperature change. \"We never want to be in a situation again where we underestimate the AI.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wjrlrx/openais_noam_brown_says_airgapping_the_computers/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T14:22:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGMxMGw0c3ZmYXFoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=ab581123a2afe612dffb3d4ac2b1cbdbe8564856"
+      },
+      {
+        "rank": 2,
+        "title": "\"This is an emergency.\" The world's top mathematicians signed an open letter expressing their \"extreme concern\" about human extinction this decade. The estimates of a 10% chance of extinction \"must not be dismissed as 'hype'.\" ... \"By the time this becomes obvious to the wider public...\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wjnzru/this_is_an_emergency_the_worlds_top/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T11:48:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ars58fubo9qh1.png?width=640&crop=smart&auto=webp&s=211e858e5d175a4d77c03651affc9f12a10e8409"
+      },
+      {
+        "rank": 3,
+        "title": "Astra ported the original Portal game to my iPhone 13 Pro",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wjy7hy/astra_ported_the_original_portal_game_to_my/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T18:27:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fhh2gvehnbqh1.png?width=140&height=64&auto=webp&s=dc6b7cf32796406cec9e68ddb9abb303459c0a9d"
+      },
+      {
+        "rank": 4,
+        "title": "Sorry I am new and I haven't read any find prints on the models being downgraded to push for new model sales.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wjju48/sorry_i_am_new_and_i_havent_read_any_find_prints/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T07:52:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4gxqlnnqh8qh1.png?width=640&crop=smart&auto=webp&s=ed9ed5287fc622fbf1c88001a5d1cac56d0bb3ee"
+      },
+      {
+        "rank": 5,
+        "title": "If top mathematicians, top ai scientists, and former head employees aren’t credible in their warnings, then who is?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wk17fa/if_top_mathematicians_top_ai_scientists_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T20:18:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 Astra conquered Factorio: Space Age in 2 days",
+        "url": "https://www.reddit.com/r/singularity/comments/1wjauca/gpt6_astra_conquered_factorio_space_age_in_2_days/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T00:12:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jocw5ttn76qh1.png?width=640&crop=smart&auto=webp&s=5fc6da79b54c8de588d6bb8c5a0ca129e247ac5b"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI: \"Introducing GPT-6 Astra for Law\" (new model \"gpt-6-astra-law\")",
+        "url": "https://www.reddit.com/r/singularity/comments/1wjlmzx/openai_introducing_gpt6_astra_for_law_new_model/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T09:40:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/wHEh7dWnSUDOaSW3TU0JXhgoNe2q0AJcWwiqROrCDEM.png?width=640&crop=smart&auto=webp&s=ec2e48e12fc6c5ae011543024545eb4758d91931"
+      },
+      {
+        "rank": 3,
+        "title": "Neuralink’s VOICE trial is helping people with disabilities find their voice again",
+        "url": "https://www.reddit.com/r/singularity/comments/1wjxket/neuralinks_voice_trial_is_helping_people_with/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T18:03:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cWVrcmd5bzVqYnFoMUlZz7Mv9OlUxm5zw_4rbQAvb16nV_MlPFhxfe2RmohY.png?width=640&crop=smart&auto=webp&s=0729a330ae8d5185c2b4fddf6a50879f337edb63"
+      },
+      {
+        "rank": 4,
+        "title": "New 'decision' model Jev (developed by co-creator of ChatGPT) is playing Subway Surfers in real-time",
+        "url": "https://www.reddit.com/r/singularity/comments/1wjiphh/new_decision_model_jev_developed_by_cocreator_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T06:45:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dHpuMHpkNG95N3FoMUucEQdQZmbqjqbId0_QLFh_fksCLNqhu15wWNNKVSjG.png?width=640&crop=smart&auto=webp&s=dee26ae435a73f928eca6ff1b1ad629ac590a115"
+      },
+      {
+        "rank": 5,
+        "title": "FrontierMath’s First “Major Advance” Problem Has Been Solved",
+        "url": "https://www.reddit.com/r/singularity/comments/1wjvprk/frontiermaths_first_major_advance_problem_has/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T16:56:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4tkbagu47bqh1.png?width=640&crop=smart&auto=webp&s=c7a6adfae29c0e93e897f43b5c1b06403b842d3a"
+      },
       {
         "rank": 1,
         "title": "Curious...what did he expect the candidate to do 🤔?",
@@ -57,52 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "How competitive are journals compared to top ai conferences? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T11:36:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ICLR SUBMISSION 47647 how that possible? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T19:12:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T16:13:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pq4tp04jzaqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5b42a746dde2850dcace2af73ffbdd738d37832e"
-      },
-      {
-        "rank": 4,
-        "title": "AAAI-27 Phase 1 Results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T05:36:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-17T21:55:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Finally found a use for my Touch Bar that isn’t just adjusting the volume",
         "url": "https://www.reddit.com/r/codex/comments/1wj8g0t/finally_found_a_use_for_my_touch_bar_that_isnt/",
         "source": "r/codex",
@@ -148,104 +247,6 @@
         "score": 0,
         "publishedAt": "2026-09-18T13:48:07.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI's Noam Brown says air-gapping the computers may not stop a misaligned AI, because the machines can still talk by running a CPU hot and reading the temperature change. \"We never want to be in a situation again where we underestimate the AI.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjrlrx/openais_noam_brown_says_airgapping_the_computers/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T14:22:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGMxMGw0c3ZmYXFoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=ab581123a2afe612dffb3d4ac2b1cbdbe8564856"
-      },
-      {
-        "rank": 2,
-        "title": "\"This is an emergency.\" The world's top mathematicians signed an open letter expressing their \"extreme concern\" about human extinction this decade. The estimates of a 10% chance of extinction \"must not be dismissed as 'hype'.\" ... \"By the time this becomes obvious to the wider public...\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjnzru/this_is_an_emergency_the_worlds_top/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T11:48:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ars58fubo9qh1.png?width=640&crop=smart&auto=webp&s=211e858e5d175a4d77c03651affc9f12a10e8409"
-      },
-      {
-        "rank": 3,
-        "title": "Sorry I am new and I haven't read any find prints on the models being downgraded to push for new model sales.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjju48/sorry_i_am_new_and_i_havent_read_any_find_prints/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T07:52:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4gxqlnnqh8qh1.png?width=640&crop=smart&auto=webp&s=ed9ed5287fc622fbf1c88001a5d1cac56d0bb3ee"
-      },
-      {
-        "rank": 4,
-        "title": "Andrew Yang says an AI lab head told him yesterday the OpenAI swarm agents \"polluted the internet\" with \"instructions to self-replicate and create bot swarms,\" and that the labs now \"have to create synthetic internets to train their bots.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjlyvj/andrew_yang_says_an_ai_lab_head_told_him/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T09:59:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cTJua25vaXc0OXFoMUWMdhdxAWAgDD4ubkQ5KEYmKhcjON-pWXrgsLY6lffQ.png?width=640&crop=smart&auto=webp&s=cd5dedfc90641a0fd2bcbf04783fd1a50ed737b1"
-      },
-      {
-        "rank": 5,
-        "title": "What have they done to Sol?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjkahs/what_have_they_done_to_sol/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T08:20:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6 Astra conquered Factorio: Space Age in 2 days",
-        "url": "https://www.reddit.com/r/singularity/comments/1wjauca/gpt6_astra_conquered_factorio_space_age_in_2_days/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T00:12:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jocw5ttn76qh1.png?width=640&crop=smart&auto=webp&s=5fc6da79b54c8de588d6bb8c5a0ca129e247ac5b"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic open-sources Claude-written GPU optimizations that make 30+ biomolecular models ~4× faster on average",
-        "url": "https://www.reddit.com/r/singularity/comments/1wj7beg/anthropic_opensources_claudewritten_gpu/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-17T21:44:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/whi3depoh5qh1.png?width=640&crop=smart&auto=webp&s=63061976c4cd46d885c3a65d8136a770cc9cb998"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI: \"Introducing GPT-6 Astra for Law\" (new model \"gpt-6-astra-law\")",
-        "url": "https://www.reddit.com/r/singularity/comments/1wjlmzx/openai_introducing_gpt6_astra_for_law_new_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T09:40:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/wHEh7dWnSUDOaSW3TU0JXhgoNe2q0AJcWwiqROrCDEM.png?width=640&crop=smart&auto=webp&s=ec2e48e12fc6c5ae011543024545eb4758d91931"
-      },
-      {
-        "rank": 4,
-        "title": "At least six or seven Chinese AI labs aim to train 10–40tn-parameter models within two years.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wj9dna/at_least_six_or_seven_chinese_ai_labs_aim_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-17T23:08:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic reveals Claude is now leading 26% of its own R&D work, up from nearly zero 6 months ago",
-        "url": "https://www.reddit.com/r/singularity/comments/1wj5pzw/anthropic_reveals_claude_is_now_leading_26_of_its/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-17T20:41:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ngrwluez55qh1.png?width=640&crop=smart&auto=webp&s=902f62a122278345cb5fda13073fdd4a2056b0e5"
       }
     ]
   }

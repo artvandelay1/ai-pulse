@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T21:23:50.495Z",
+  "fetchedAt": "2026-09-19T23:25:44.622Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,15 @@
       },
       {
         "rank": 3,
+        "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T12:54:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
         "source": "r/MachineLearning",
@@ -32,15 +41,6 @@
         "publishedAt": "2026-09-19T17:34:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7mc0xz50jiqh1.png?width=140&height=88&auto=webp&s=2cc1034dfbe80d0c44538f76dc04c14bed8cfdad"
-      },
-      {
-        "rank": 4,
-        "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T12:54:13.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,
@@ -103,16 +103,6 @@
       },
       {
         "rank": 1,
-        "title": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
-        "url": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T10:16:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/84oy8fbscgqh1.png?width=640&crop=smart&auto=webp&s=061a3c96dae3519aff7af4c06566e3d53dd3d4f6"
-      },
-      {
-        "rank": 2,
         "title": "Trump says he is forming an \"AI Force\"",
         "url": "https://www.reddit.com/r/singularity/comments/1wks4ud/trump_says_he_is_forming_an_ai_force/",
         "source": "r/singularity",
@@ -122,13 +112,24 @@
         "thumbnail": "https://preview.redd.it/eb5fki6yhiqh1.jpeg?width=640&crop=smart&auto=webp&s=585dea9623e46ea1d8b65023fe58a32dadcd0b08"
       },
       {
-        "rank": 3,
-        "title": "Google is back",
-        "url": "https://www.reddit.com/r/singularity/comments/1wk49ld/google_is_back/",
+        "rank": 2,
+        "title": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
+        "url": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-18T22:19:02.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-19T10:16:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/84oy8fbscgqh1.png?width=640&crop=smart&auto=webp&s=061a3c96dae3519aff7af4c06566e3d53dd3d4f6"
+      },
+      {
+        "rank": 3,
+        "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time",
+        "url": "https://www.reddit.com/r/singularity/comments/1wkwzzj/chatgpt6_astra_cracks_108yearold_unsolved_wwi/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:40:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-8C7jfr4l1ztzcu45hCi2_jRqesNx3enDqDs30SZERE.jpeg?width=640&crop=smart&auto=webp&s=e36043fd8f816487528a425bd682044f0567fa43"
       },
       {
         "rank": 4,

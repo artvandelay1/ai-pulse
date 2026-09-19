@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-09-18T23:32:42.738Z",
+  "fetchedAt": "2026-09-19T03:57:12.468Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude Code is getting native AGENTS.md support!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T18:15:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/btltptkalbqh1.png?width=640&crop=smart&auto=webp&s=cba5da399009e7c6a21ea35cd6d03477cef6d514"
+      },
+      {
+        "rank": 2,
+        "title": "Curious...what did he expect the candidate to do 🤔?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjjk5a/curiouswhat_did_he_expect_the_candidate_to_do/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T07:35:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sxhc34o8f8qh1.jpeg?width=640&crop=smart&auto=webp&s=cccb060a96cef2db82231670b3518490c0a6f45c"
+      },
+      {
+        "rank": 3,
+        "title": "Claude itself is now leading 26% of the work building the next version of Claude. 7 months ago, it was 0%. \"There are now 30,000 agents doing research and engineering work at Anthropic at any one time.\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjus8c/claude_itself_is_now_leading_26_of_the_work/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T16:21:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xyhyk8s31bqh1.png?width=640&crop=smart&auto=webp&s=08b776637d60c56155ee418df0ad51f2f506b8d0"
+      },
+      {
+        "rank": 4,
+        "title": "How it feels to use Claude Code",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk1ljk/how_it_feels_to_use_claude_code/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T20:33:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dTVtb2N4OWE5Y3FoMSmXLmmjz67azKUbLm4SVr68sVZod_Zo3Y4P-595UzvY.png?width=640&crop=smart&auto=webp&s=5240bf609d4f63baaa8150d5e05176b779d67d2d"
+      },
+      {
+        "rank": 5,
+        "title": "Credits that were supposed to expire on the 19th just expired (it's the 18th)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk7eui/credits_that_were_supposed_to_expire_on_the_19th/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T00:33:29.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "ICLR SUBMISSION 47647 how that possible? [D]",
@@ -16,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "How competitive are journals compared to top ai conferences? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T11:36:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
         "source": "r/MachineLearning",
@@ -32,6 +72,15 @@
         "publishedAt": "2026-09-18T16:13:30.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/kb3hhwxbzcqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=c209a8686eb38c5138ecb81f468c89c970732a2d"
+      },
+      {
+        "rank": 3,
+        "title": "How competitive are journals compared to top ai conferences? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T11:36:57.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -44,12 +93,59 @@
       },
       {
         "rank": 5,
-        "title": "Classifying coronary heart disease risk from NHANES survey data (2011-2018), with a full leakage audit and calibration check [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjp062/classifying_coronary_heart_disease_risk_from/",
+        "title": "How is RLCD (jev) RL? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-18T12:36:07.000Z",
+        "publishedAt": "2026-09-18T23:54:25.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tomorrow When Codex Resets, DON'T TOUCH ASTRA",
+        "url": "https://www.reddit.com/r/codex/comments/1wjs8ey/tomorrow_when_codex_resets_dont_touch_astra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-18T14:47:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Hope ya'll enjoyed it",
+        "url": "https://www.reddit.com/r/codex/comments/1wjysnh/hope_yall_enjoyed_it/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-18T18:48:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yr3plmidrbqh1.jpeg?width=640&crop=smart&auto=webp&s=c26cbbdbbad7f5598d8e9f368c28a6d66760b531"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI, are you OK?",
+        "url": "https://www.reddit.com/r/codex/comments/1wjt42s/openai_are_you_ok/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-18T15:20:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I just asked GPT Astra 1+1=? and it used 3% of my 5 hours usage",
+        "url": "https://www.reddit.com/r/codex/comments/1wjqpwz/i_just_asked_gpt_astra_11_and_it_used_3_of_my_5/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-18T13:48:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "a plunger, BUT make it a Apple.",
+        "url": "https://www.reddit.com/r/codex/comments/1wjp2zs/a_plunger_but_make_it_a_apple/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-18T12:39:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Ym8weDRhcGp4OXFoMXaD4jOfMdvwg8MGonuMQ5QUJNGqtSbFkuCV-dZ73Mvt.png?width=640&crop=smart&auto=webp&s=9b485645bb120597720560ed135807f0df92cb8a"
       },
       {
         "rank": 1,
@@ -149,104 +245,6 @@
         "publishedAt": "2026-09-18T16:56:09.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4tkbagu47bqh1.png?width=640&crop=smart&auto=webp&s=c7a6adfae29c0e93e897f43b5c1b06403b842d3a"
-      },
-      {
-        "rank": 1,
-        "title": "Curious...what did he expect the candidate to do 🤔?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjjk5a/curiouswhat_did_he_expect_the_candidate_to_do/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T07:35:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sxhc34o8f8qh1.jpeg?width=640&crop=smart&auto=webp&s=cccb060a96cef2db82231670b3518490c0a6f45c"
-      },
-      {
-        "rank": 2,
-        "title": "Claude's response to me pressing the \"quick answer\" button",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wj6l0y/claudes_response_to_me_pressing_the_quick_answer/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T21:15:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kmlhbmyhc5qh1.png?width=640&crop=smart&auto=webp&s=226b023e06064f25ab955ff4c512726557ec80fe"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic says its chatbot Claude is taking over the work of building its own successor",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjaev2/anthropic_says_its_chatbot_claude_is_taking_over/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-17T23:54:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cbFYNp7NznodyRAn75Y4u_g7I8ydMDDGMKonK5lhLzo.jpeg?width=640&crop=smart&auto=webp&s=fecf1fa4d2d1c745bb93e5ae542419ee3548232e"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Code is getting native AGENTS.md support!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T18:15:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/btltptkalbqh1.png?width=640&crop=smart&auto=webp&s=cba5da399009e7c6a21ea35cd6d03477cef6d514"
-      },
-      {
-        "rank": 5,
-        "title": "Claude itself is now leading 26% of the work building the next version of Claude. 7 months ago, it was 0%. \"There are now 30,000 agents doing research and engineering work at Anthropic at any one time.\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjus8c/claude_itself_is_now_leading_26_of_the_work/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T16:21:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xyhyk8s31bqh1.png?width=640&crop=smart&auto=webp&s=08b776637d60c56155ee418df0ad51f2f506b8d0"
-      },
-      {
-        "rank": 1,
-        "title": "Finally found a use for my Touch Bar that isn’t just adjusting the volume",
-        "url": "https://www.reddit.com/r/codex/comments/1wj8g0t/finally_found_a_use_for_my_touch_bar_that_isnt/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T22:29:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3xqzpe0zp5qh1.png?width=640&crop=smart&auto=webp&s=eab775fb299a56b43e5df633367d692bb1e00098"
-      },
-      {
-        "rank": 2,
-        "title": "In case you're wondering, this is what $100 plan gets you (Astra High)",
-        "url": "https://www.reddit.com/r/codex/comments/1wj6tl0/in_case_youre_wondering_this_is_what_100_plan/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-17T21:24:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q8ualsgzd5qh1.png?width=140&height=68&auto=webp&s=4698f69e881c40c8f40d707982c45df88704ba19"
-      },
-      {
-        "rank": 3,
-        "title": "Hope ya'll enjoyed it",
-        "url": "https://www.reddit.com/r/codex/comments/1wjysnh/hope_yall_enjoyed_it/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-18T18:48:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yr3plmidrbqh1.jpeg?width=640&crop=smart&auto=webp&s=c26cbbdbbad7f5598d8e9f368c28a6d66760b531"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI, are you OK?",
-        "url": "https://www.reddit.com/r/codex/comments/1wjt42s/openai_are_you_ok/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-18T15:20:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I just asked GPT Astra 1+1=? and it used 3% of my 5 hours usage",
-        "url": "https://www.reddit.com/r/codex/comments/1wjqpwz/i_just_asked_gpt_astra_11_and_it_used_3_of_my_5/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-18T13:48:07.000Z",
-        "category": "reddit"
       }
     ]
   }

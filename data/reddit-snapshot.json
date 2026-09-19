@@ -1,10 +1,150 @@
 {
-  "fetchedAt": "2026-09-19T16:24:11.580Z",
+  "fetchedAt": "2026-09-19T18:46:43.940Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ICLR SUBMISSION 47647 how that possible? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T19:12:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "JMLR submission experience [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T02:11:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ICLR 2027 submission 50k+[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wks0dv/iclr_2027_submission_50kd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:23:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How is RLCD (jev) RL? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-18T23:54:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T12:54:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I built a 24/7 AI television network. It’s been running for 15 months—and now ChatGPT runs it autonomously.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wk0zyk/i_built_a_247_ai_television_network_its_been/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T20:10:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "AI is getting out of hand.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wks0ip/ai_is_getting_out_of_hand/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:23:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bXI5bGY1dDJoaXFoMeEbNNr8HfPCQgZWmV8kPIerCFnbS8eVNwTNFcGv1uTp.png?width=640&crop=smart&auto=webp&s=9a46fe42a5ea00ddcff640a90085522a69aaa720"
+      },
+      {
+        "rank": 3,
+        "title": "I think Tibo might be a little out of touch with the user experience...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wkgmi5/i_think_tibo_might_be_a_little_out_of_touch_with/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T08:28:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mbnnrsvhtfqh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9a27498b3698be277ab1ef2c0939e7c0e1feee01"
+      },
+      {
+        "rank": 4,
+        "title": "If top mathematicians, top ai scientists, and former head employees aren’t credible in their warnings, then who is?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wk17fa/if_top_mathematicians_top_ai_scientists_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T20:18:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Be careful with the new Agents API, I just paid $1600 for idle containers",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wjz5ze/be_careful_with_the_new_agents_api_i_just_paid/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T19:01:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qbozvrzqtbqh1.jpeg?width=640&crop=smart&auto=webp&s=b472f320f9d075699d92ed41169a796506a42b90"
+      },
+      {
+        "rank": 1,
+        "title": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
+        "url": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-19T10:16:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/84oy8fbscgqh1.png?width=640&crop=smart&auto=webp&s=061a3c96dae3519aff7af4c06566e3d53dd3d4f6"
+      },
+      {
+        "rank": 2,
+        "title": "Google is back",
+        "url": "https://www.reddit.com/r/singularity/comments/1wk49ld/google_is_back/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T22:19:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Gemini HACKED 3 companies in its first breakout per WSJ (and confirmed by Google)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wk61n8/gemini_hacked_3_companies_in_its_first_breakout/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T23:34:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Trump says he is forming an \"AI Force\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wks4ud/trump_says_he_is_forming_an_ai_force/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:28:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eb5fki6yhiqh1.jpeg?width=640&crop=smart&auto=webp&s=585dea9623e46ea1d8b65023fe58a32dadcd0b08"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI's Noam Brown says air-gapping the computers may not stop a misaligned AI, because the machines can still talk by running a CPU hot and reading the temperature change. \"We never want to be in a situation again where we underestimate the AI.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wk64m3/openais_noam_brown_says_airgapping_the_computers/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T23:37:33.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Claude Code is getting native AGENTS.md support!",
@@ -56,52 +196,6 @@
       },
       {
         "rank": 1,
-        "title": "ICLR SUBMISSION 47647 how that possible? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjzgng/iclr_submission_47647_how_that_possible_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T19:12:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "JMLR submission experience [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T02:11:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How is RLCD (jev) RL? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T23:54:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T12:54:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wkdnns/diffusiongemma_how_it_generates_text_in_parallel/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T05:41:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/DX1NVynXOJTEhMQ1ghb_TOrMd8hEOmoDXAMIMbThwM8.jpeg?width=320&crop=smart&auto=webp&s=dcc961e32bc9470187f905a21bfac017f3733424"
-      },
-      {
-        "rank": 1,
         "title": "Hope ya'll enjoyed it",
         "url": "https://www.reddit.com/r/codex/comments/1wjysnh/hope_yall_enjoyed_it/",
         "source": "r/codex",
@@ -147,102 +241,6 @@
         "publishedAt": "2026-09-19T04:33:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/szqk6conneqh1.jpeg?width=640&crop=smart&auto=webp&s=8f165ba390becde96b1221bce385973cd7fd7923"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI's Noam Brown says air-gapping the computers may not stop a misaligned AI, because the machines can still talk by running a CPU hot and reading the temperature change. \"We never want to be in a situation again where we underestimate the AI.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjrlrx/openais_noam_brown_says_airgapping_the_computers/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T14:22:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGMxMGw0c3ZmYXFoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=ab581123a2afe612dffb3d4ac2b1cbdbe8564856"
-      },
-      {
-        "rank": 2,
-        "title": "I built a 24/7 AI television network. It’s been running for 15 months—and now ChatGPT runs it autonomously.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wk0zyk/i_built_a_247_ai_television_network_its_been/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T20:10:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Astra ported the original Portal game to my iPhone 13 Pro",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjy7hy/astra_ported_the_original_portal_game_to_my/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T18:27:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fhh2gvehnbqh1.png?width=140&height=64&auto=webp&s=dc6b7cf32796406cec9e68ddb9abb303459c0a9d"
-      },
-      {
-        "rank": 4,
-        "title": "If top mathematicians, top ai scientists, and former head employees aren’t credible in their warnings, then who is?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wk17fa/if_top_mathematicians_top_ai_scientists_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T20:18:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Be careful with the new Agents API, I just paid $1600 for idle containers",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjz5ze/be_careful_with_the_new_agents_api_i_just_paid/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T19:01:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qbozvrzqtbqh1.jpeg?width=640&crop=smart&auto=webp&s=b472f320f9d075699d92ed41169a796506a42b90"
-      },
-      {
-        "rank": 1,
-        "title": "Neuralink’s VOICE trial is helping people with disabilities find their voice again",
-        "url": "https://www.reddit.com/r/singularity/comments/1wjxket/neuralinks_voice_trial_is_helping_people_with/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T18:03:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cWVrcmd5bzVqYnFoMUlZz7Mv9OlUxm5zw_4rbQAvb16nV_MlPFhxfe2RmohY.png?width=640&crop=smart&auto=webp&s=0729a330ae8d5185c2b4fddf6a50879f337edb63"
-      },
-      {
-        "rank": 2,
-        "title": "Running away is mathematically impossible, so stay calm.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wjwral/running_away_is_mathematically_impossible_so_stay/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T17:34:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sdnxtxg3ebqh1.jpeg?width=640&crop=smart&auto=webp&s=919d74d0dfcf464fa038ad96d973d0c6a2916c93"
-      },
-      {
-        "rank": 3,
-        "title": "Google is back",
-        "url": "https://www.reddit.com/r/singularity/comments/1wk49ld/google_is_back/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T22:19:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "FrontierMath’s First “Major Advance” Problem Has Been Solved",
-        "url": "https://www.reddit.com/r/singularity/comments/1wjvprk/frontiermaths_first_major_advance_problem_has/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T16:56:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4tkbagu47bqh1.png?width=640&crop=smart&auto=webp&s=c7a6adfae29c0e93e897f43b5c1b06403b842d3a"
-      },
-      {
-        "rank": 5,
-        "title": "Gemini HACKED 3 companies in its first breakout per WSJ (and confirmed by Google)",
-        "url": "https://www.reddit.com/r/singularity/comments/1wk61n8/gemini_hacked_3_companies_in_its_first_breakout/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T23:34:03.000Z",
-        "category": "reddit"
       }
     ]
   }

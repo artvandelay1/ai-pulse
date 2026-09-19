@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T08:43:43.389Z",
+  "fetchedAt": "2026-09-19T13:00:41.301Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,15 +26,6 @@
       },
       {
         "rank": 3,
-        "title": "How competitive are journals compared to top ai conferences? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-18T11:36:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "JMLR submission experience [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
         "source": "r/MachineLearning",
@@ -43,13 +34,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "How is RLCD (jev) RL? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wk6iei/how_is_rlcd_jev_rl_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-18T23:54:25.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "DiffusionGemma: How It Generates Text in Parallel (From Scratch in PyTorch) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wkdnns/diffusiongemma_how_it_generates_text_in_parallel/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T05:41:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/DX1NVynXOJTEhMQ1ghb_TOrMd8hEOmoDXAMIMbThwM8.jpeg?width=320&crop=smart&auto=webp&s=dcc961e32bc9470187f905a21bfac017f3733424"
       },
       {
         "rank": 1,
@@ -82,22 +83,22 @@
       },
       {
         "rank": 4,
-        "title": "\"This is an emergency.\" The world's top mathematicians signed an open letter expressing their \"extreme concern\" about human extinction this decade. The estimates of a 10% chance of extinction \"must not be dismissed as 'hype'.\" ... \"By the time this becomes obvious to the wider public...\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wjnzru/this_is_an_emergency_the_worlds_top/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T11:48:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ars58fubo9qh1.png?width=640&crop=smart&auto=webp&s=211e858e5d175a4d77c03651affc9f12a10e8409"
-      },
-      {
-        "rank": 5,
         "title": "If top mathematicians, top ai scientists, and former head employees aren’t credible in their warnings, then who is?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wk17fa/if_top_mathematicians_top_ai_scientists_and/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-09-18T20:18:19.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Be careful with the new Agents API, I just paid $1600 for idle containers",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wjz5ze/be_careful_with_the_new_agents_api_i_just_paid/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-18T19:01:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qbozvrzqtbqh1.jpeg?width=640&crop=smart&auto=webp&s=b472f320f9d075699d92ed41169a796506a42b90"
       },
       {
         "rank": 1,
@@ -111,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "OpenAI: \"Introducing GPT-6 Astra for Law\" (new model \"gpt-6-astra-law\")",
-        "url": "https://www.reddit.com/r/singularity/comments/1wjlmzx/openai_introducing_gpt6_astra_for_law_new_model/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-18T09:40:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/wHEh7dWnSUDOaSW3TU0JXhgoNe2q0AJcWwiqROrCDEM.png?width=640&crop=smart&auto=webp&s=ec2e48e12fc6c5ae011543024545eb4758d91931"
-      },
-      {
-        "rank": 3,
         "title": "Running away is mathematically impossible, so stay calm.",
         "url": "https://www.reddit.com/r/singularity/comments/1wjwral/running_away_is_mathematically_impossible_so_stay/",
         "source": "r/singularity",
@@ -130,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/sdnxtxg3ebqh1.jpeg?width=640&crop=smart&auto=webp&s=919d74d0dfcf464fa038ad96d973d0c6a2916c93"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Google is back",
         "url": "https://www.reddit.com/r/singularity/comments/1wk49ld/google_is_back/",
         "source": "r/singularity",
@@ -139,7 +130,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "FrontierMath’s First “Major Advance” Problem Has Been Solved",
         "url": "https://www.reddit.com/r/singularity/comments/1wjvprk/frontiermaths_first_major_advance_problem_has/",
         "source": "r/singularity",
@@ -147,6 +138,15 @@
         "publishedAt": "2026-09-18T16:56:09.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4tkbagu47bqh1.png?width=640&crop=smart&auto=webp&s=c7a6adfae29c0e93e897f43b5c1b06403b842d3a"
+      },
+      {
+        "rank": 5,
+        "title": "Gemini HACKED 3 companies in its first breakout per WSJ (and confirmed by Google)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wk61n8/gemini_hacked_3_companies_in_its_first_breakout/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-18T23:34:03.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

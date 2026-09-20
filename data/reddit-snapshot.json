@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-20T12:09:42.438Z",
+  "fetchedAt": "2026-09-20T16:26:07.416Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Code just deleted 48k files. This can't be real.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-20T03:00:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hhqtqhy0clqh1.jpeg?width=640&crop=smart&auto=webp&s=125deec8d3a5ebcbd2e60ca68c90932712853d72"
+      },
+      {
+        "rank": 2,
+        "title": "Asked Claude to waste my remaining usage before weekly reset. Very satisfied with the result.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkqszd/asked_claude_to_waste_my_remaining_usage_before/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T16:35:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qrkz3pp78iqh1.png?width=640&crop=smart&auto=webp&s=ec92a432c6ac9f3263e225effb9e67a02ccb9814"
+      },
+      {
+        "rank": 3,
+        "title": "It's time to cancel your subscriptions - Anthropic is silently nerfing Claude's reasoning budget while telling you it's the same model",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl6wyn/its_time_to_cancel_your_subscriptions_anthropic/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-20T04:20:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "gave sonnet 5, opus 5, astra and fable 5.1 the same \"lighthouse at night\" svg prompt. then fable did it again today and… what?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl2w73/gave_sonnet_5_opus_5_astra_and_fable_51_the_same/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-20T00:59:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eg2sfuu5pkqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=58f39c3612438f5b5b6a529f9e2331bb9ec84fb0"
+      },
+      {
+        "rank": 5,
+        "title": "What is the best way to use LLMS's in 2026? I feel like a caveman with the way I use them?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkvqxc/what_is_the_best_way_to_use_llmss_in_2026_i_feel/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T19:50:50.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I wanted to watch a neural network learn [P]",
@@ -36,15 +84,6 @@
       },
       {
         "rank": 4,
-        "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T12:54:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
         "source": "r/MachineLearning",
@@ -52,6 +91,63 @@
         "publishedAt": "2026-09-19T17:34:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7mc0xz50jiqh1.png?width=140&height=88&auto=webp&s=2cc1034dfbe80d0c44538f76dc04c14bed8cfdad"
+      },
+      {
+        "rank": 5,
+        "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wkwha7/can_conference_review_infrastructure_keep_up_with/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:19:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "The End of the Codex Era. I've Completely Lost Trust in OpenAI. They're Secretly Degrading Their Models.",
+        "url": "https://www.reddit.com/r/codex/comments/1wkwdfl/the_end_of_the_codex_era_ive_completely_lost/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:15:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1gjz508yajqh1.png?width=640&crop=smart&auto=webp&s=76541060ddfc428c1902a234876a047aab168b0f"
+      },
+      {
+        "rank": 2,
+        "title": "time to take legal action as an EU citizen",
+        "url": "https://www.reddit.com/r/codex/comments/1wkx9fp/time_to_take_legal_action_as_an_eu_citizen/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:51:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Top 10 Codex Skill Repos",
+        "url": "https://www.reddit.com/r/codex/comments/1wku2ft/top_10_codex_skill_repos/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T18:44:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z417vm0kviqh1.png?width=640&crop=smart&auto=webp&s=7d7dc41a356b34414729038ffd6db9503c665256"
+      },
+      {
+        "rank": 4,
+        "title": "Stop begging for resets, chin up as paid customers who deserves better",
+        "url": "https://www.reddit.com/r/codex/comments/1wl1e7p/stop_begging_for_resets_chin_up_as_paid_customers/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T23:49:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Codex is done",
+        "url": "https://www.reddit.com/r/codex/comments/1wkw3u4/codex_is_done/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:04:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bg0e46jj8jqh1.png?width=640&crop=smart&auto=webp&s=5d58bc4c3789696a4aaa5ea4fa0a8c332770a068"
       },
       {
         "rank": 1,
@@ -150,102 +246,6 @@
         "publishedAt": "2026-09-19T13:03:48.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/N212MWhhb202aHFoMZPvgTOIE-wIGVbigH7m0yeXuPic9kUNWikyAvY5z_aR.jpeg?width=320&crop=smart&auto=webp&s=23aeeedbfcd79715be6933fd9b2bffac3bf93e69"
-      },
-      {
-        "rank": 1,
-        "title": "Asked Claude to waste my remaining usage before weekly reset. Very satisfied with the result.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkqszd/asked_claude_to_waste_my_remaining_usage_before/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T16:35:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qrkz3pp78iqh1.png?width=640&crop=smart&auto=webp&s=ec92a432c6ac9f3263e225effb9e67a02ccb9814"
-      },
-      {
-        "rank": 2,
-        "title": "Code just deleted 48k files. This can't be real.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T03:00:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hhqtqhy0clqh1.jpeg?width=640&crop=smart&auto=webp&s=125deec8d3a5ebcbd2e60ca68c90932712853d72"
-      },
-      {
-        "rank": 3,
-        "title": "Claude Code effort level and model selection | Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkg2w8/claude_code_effort_level_and_model_selection/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T07:56:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2A4auARY25KRcUZAkzQG0nh1kbHY7n4ugL_usNA8zig.jpeg?width=640&crop=smart&auto=webp&s=60d7509cf7331f6dc211ee421422b89635e212b4"
-      },
-      {
-        "rank": 4,
-        "title": "gave sonnet 5, opus 5, astra and fable 5.1 the same \"lighthouse at night\" svg prompt. then fable did it again today and… what?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl2w73/gave_sonnet_5_opus_5_astra_and_fable_51_the_same/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T00:59:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eg2sfuu5pkqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=58f39c3612438f5b5b6a529f9e2331bb9ec84fb0"
-      },
-      {
-        "rank": 5,
-        "title": "What is the best way to use LLMS's in 2026? I feel like a caveman with the way I use them?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkvqxc/what_is_the_best_way_to_use_llmss_in_2026_i_feel/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T19:50:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "The End of the Codex Era. I've Completely Lost Trust in OpenAI. They're Secretly Degrading Their Models.",
-        "url": "https://www.reddit.com/r/codex/comments/1wkwdfl/the_end_of_the_codex_era_ive_completely_lost/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-19T20:15:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1gjz508yajqh1.png?width=640&crop=smart&auto=webp&s=76541060ddfc428c1902a234876a047aab168b0f"
-      },
-      {
-        "rank": 2,
-        "title": "I found the best way to build insane UIs with Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1wkhzv3/i_found_the_best_way_to_build_insane_uis_with/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-19T09:50:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Codex limits issue",
-        "url": "https://www.reddit.com/r/codex/comments/1wkj460/codex_limits_issue/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-19T10:54:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "time to take legal action as an EU citizen",
-        "url": "https://www.reddit.com/r/codex/comments/1wkx9fp/time_to_take_legal_action_as_an_eu_citizen/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-19T20:51:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Codex is done",
-        "url": "https://www.reddit.com/r/codex/comments/1wkw3u4/codex_is_done/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-19T20:04:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bg0e46jj8jqh1.png?width=640&crop=smart&auto=webp&s=5d58bc4c3789696a4aaa5ea4fa0a8c332770a068"
       }
     ]
   }

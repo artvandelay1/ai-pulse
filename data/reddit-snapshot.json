@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T01:29:42.794Z",
+  "fetchedAt": "2026-09-20T06:54:06.560Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,65 @@
     "items": [
       {
         "rank": 1,
+        "title": "Asked Claude to waste my remaining usage before weekly reset. Very satisfied with the result.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkqszd/asked_claude_to_waste_my_remaining_usage_before/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T16:35:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qrkz3pp78iqh1.png?width=640&crop=smart&auto=webp&s=ec92a432c6ac9f3263e225effb9e67a02ccb9814"
+      },
+      {
+        "rank": 2,
+        "title": "Code just deleted 48k files. This can't be real.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-20T03:00:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hhqtqhy0clqh1.jpeg?width=640&crop=smart&auto=webp&s=125deec8d3a5ebcbd2e60ca68c90932712853d72"
+      },
+      {
+        "rank": 3,
+        "title": "Claude Code effort level and model selection | Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkg2w8/claude_code_effort_level_and_model_selection/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T07:56:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2A4auARY25KRcUZAkzQG0nh1kbHY7n4ugL_usNA8zig.jpeg?width=640&crop=smart&auto=webp&s=60d7509cf7331f6dc211ee421422b89635e212b4"
+      },
+      {
+        "rank": 4,
+        "title": "gave sonnet 5, opus 5, astra and fable 5.1 the same \"lighthouse at night\" svg prompt. then fable did it again today and… what?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wl2w73/gave_sonnet_5_opus_5_astra_and_fable_51_the_same/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-20T00:59:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eg2sfuu5pkqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=58f39c3612438f5b5b6a529f9e2331bb9ec84fb0"
+      },
+      {
+        "rank": 5,
+        "title": "What is the best way to use LLMS's in 2026? I feel like a caveman with the way I use them?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkvqxc/what_is_the_best_way_to_use_llmss_in_2026_i_feel/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T19:50:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I wanted to watch a neural network learn [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T23:12:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cwnmw2lc7kqh1.gif?width=640&crop=smart&s=2370041dc6a0c85300287e1b0ed0b8db0bc78dc5"
+      },
+      {
+        "rank": 2,
         "title": "ICLR 2027 submission 50k+[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wks0dv/iclr_2027_submission_50kd/",
         "source": "r/MachineLearning",
@@ -15,23 +74,14 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
-        "title": "JMLR submission experience [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wk9hwm/jmlr_submission_experience_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T02:11:32.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 3,
-        "title": "I wanted to watch a neural network learn [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+        "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-19T23:12:48.000Z",
+        "publishedAt": "2026-09-19T23:35:28.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cwnmw2lc7kqh1.gif?width=640&crop=smart&s=2370041dc6a0c85300287e1b0ed0b8db0bc78dc5"
+        "thumbnail": "https://preview.redd.it/la7iukj3vjqh1.png?width=320&crop=smart&auto=webp&s=50c5bf5b2b8cccfb76d05dc3c253298776dca717"
       },
       {
         "rank": 4,
@@ -51,6 +101,53 @@
         "publishedAt": "2026-09-19T17:34:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7mc0xz50jiqh1.png?width=140&height=88&auto=webp&s=2cc1034dfbe80d0c44538f76dc04c14bed8cfdad"
+      },
+      {
+        "rank": 1,
+        "title": "The End of the Codex Era. I've Completely Lost Trust in OpenAI. They're Secretly Degrading Their Models.",
+        "url": "https://www.reddit.com/r/codex/comments/1wkwdfl/the_end_of_the_codex_era_ive_completely_lost/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:15:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1gjz508yajqh1.png?width=640&crop=smart&auto=webp&s=76541060ddfc428c1902a234876a047aab168b0f"
+      },
+      {
+        "rank": 2,
+        "title": "I found the best way to build insane UIs with Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1wkhzv3/i_found_the_best_way_to_build_insane_uis_with/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T09:50:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Codex limits issue",
+        "url": "https://www.reddit.com/r/codex/comments/1wkj460/codex_limits_issue/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T10:54:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "time to take legal action as an EU citizen",
+        "url": "https://www.reddit.com/r/codex/comments/1wkx9fp/time_to_take_legal_action_as_an_eu_citizen/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:51:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Codex is done",
+        "url": "https://www.reddit.com/r/codex/comments/1wkw3u4/codex_is_done/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:04:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bg0e46jj8jqh1.png?width=640&crop=smart&auto=webp&s=5d58bc4c3789696a4aaa5ea4fa0a8c332770a068"
       },
       {
         "rank": 1,
@@ -151,103 +248,6 @@
         "publishedAt": "2026-09-19T13:03:48.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/N212MWhhb202aHFoMZPvgTOIE-wIGVbigH7m0yeXuPic9kUNWikyAvY5z_aR.jpeg?width=320&crop=smart&auto=webp&s=23aeeedbfcd79715be6933fd9b2bffac3bf93e69"
-      },
-      {
-        "rank": 1,
-        "title": "Claude Code is getting native AGENTS.md support!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T18:15:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/btltptkalbqh1.png?width=640&crop=smart&auto=webp&s=cba5da399009e7c6a21ea35cd6d03477cef6d514"
-      },
-      {
-        "rank": 2,
-        "title": "How it feels to use Claude Code",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk1ljk/how_it_feels_to_use_claude_code/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T20:33:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dTVtb2N4OWE5Y3FoMSmXLmmjz67azKUbLm4SVr68sVZod_Zo3Y4P-595UzvY.png?width=640&crop=smart&auto=webp&s=5240bf609d4f63baaa8150d5e05176b779d67d2d"
-      },
-      {
-        "rank": 3,
-        "title": "Credits that were supposed to expire on the 19th just expired (it's the 18th)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wk7eui/credits_that_were_supposed_to_expire_on_the_19th/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T00:33:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Code effort level and model selection | Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wkg2w8/claude_code_effort_level_and_model_selection/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T07:56:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2A4auARY25KRcUZAkzQG0nh1kbHY7n4ugL_usNA8zig.jpeg?width=640&crop=smart&auto=webp&s=60d7509cf7331f6dc211ee421422b89635e212b4"
-      },
-      {
-        "rank": 5,
-        "title": "Built an iPhone app with Claude because I kept forgetting people’s names",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wjybnn/built_an_iphone_app_with_claude_because_i_kept/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-18T18:31:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b656uz-l11_RYCwMm_eNOUSM6WROW9US8TAtA6HeWN4.png?width=640&crop=smart&auto=webp&s=901e04c0db62a0c10d6b70bf5fdb6c08b59141f1"
-      },
-      {
-        "rank": 1,
-        "title": "Hope ya'll enjoyed it",
-        "url": "https://www.reddit.com/r/codex/comments/1wjysnh/hope_yall_enjoyed_it/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-18T18:48:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yr3plmidrbqh1.jpeg?width=640&crop=smart&auto=webp&s=c26cbbdbbad7f5598d8e9f368c28a6d66760b531"
-      },
-      {
-        "rank": 2,
-        "title": "Is the 0% usage left club here?",
-        "url": "https://www.reddit.com/r/codex/comments/1wk3tvu/is_the_0_usage_left_club_here/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-18T22:01:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I found the best way to build insane UIs with Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1wkhzv3/i_found_the_best_way_to_build_insane_uis_with/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-19T09:50:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "This entire sub ready to be unblocked tomorrow",
-        "url": "https://www.reddit.com/r/codex/comments/1wk401o/this_entire_sub_ready_to_be_unblocked_tomorrow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-18T22:08:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mx02yvchqcqh1.png?width=640&crop=smart&auto=webp&s=bd4abaa71d24b129f6fb6d6353ddb932ab754271"
-      },
-      {
-        "rank": 5,
-        "title": "Tibo’s New tweet decoded",
-        "url": "https://www.reddit.com/r/codex/comments/1wkcci2/tibos_new_tweet_decoded/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-19T04:33:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/szqk6conneqh1.jpeg?width=640&crop=smart&auto=webp&s=8f165ba390becde96b1221bce385973cd7fd7923"
       }
     ]
   }

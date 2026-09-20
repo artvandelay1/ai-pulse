@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T19:00:49.303Z",
+  "fetchedAt": "2026-09-20T21:28:45.088Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,15 +27,6 @@
       },
       {
         "rank": 3,
-        "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wkwha7/can_conference_review_infrastructure_keep_up_with/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T20:19:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Inside sanoTTS — a 294,279-parameter TTS system [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wlbhw8/inside_sanotts_a_294279parameter_tts_system_p/",
         "source": "r/MachineLearning",
@@ -45,12 +36,21 @@
         "thumbnail": "https://preview.redd.it/mxpll75zymqh1.png?width=640&crop=smart&auto=webp&s=83d29663362bc2fdaf341618c5f163538f2575b4"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "How is your experience with ICLR LLM Feedback? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-20T16:19:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Why decontamination reports can't fix benchmark contamination, and what an evaluator has to do instead [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wlimaj/why_decontamination_reports_cant_fix_benchmark/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-20T14:31:49.000Z",
         "category": "reddit"
       },
       {
@@ -65,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "I asked GPT-6 Astra to optimize itself so it stops hitting usage limits",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wl0imi/i_asked_gpt6_astra_to_optimize_itself_so_it_stops/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T23:09:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Mathematician Terence Tao: \"We have to slow down AI. The pace is insane, and there's no reason to be this fast - no reason at all.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wlns0q/mathematician_terence_tao_we_have_to_slow_down_ai/",
         "source": "r/OpenAI",
@@ -81,6 +72,15 @@
         "publishedAt": "2026-09-20T17:52:06.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cHluYnd5MTNycHFoMeLubiYRHIejqqh9_U9iXfFsfpvY4I05O54zHqoNwILd.png?width=640&crop=smart&auto=webp&s=87f2b988d778fe54ce99c58efe271d4fa69d2401"
+      },
+      {
+        "rank": 3,
+        "title": "I asked GPT-6 Astra to optimize itself so it stops hitting usage limits",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wl0imi/i_asked_gpt6_astra_to_optimize_itself_so_it_stops/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T23:09:42.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -94,12 +94,13 @@
       },
       {
         "rank": 5,
-        "title": "What is the best way to use LLMS's in 2026? I feel like a caveman with the way I use them?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wkvofz/what_is_the_best_way_to_use_llmss_in_2026_i_feel/",
+        "title": "Class project when I was in 7th grade but AI generated image version",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wlasui/class_project_when_i_was_in_7th_grade_but_ai/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-19T19:48:10.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-20T07:51:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vhpvzpaxrmqh1.jpg?width=140&height=105&auto=webp&s=96d9fd6656b537dc6ffef970e24039fb03fb47c1"
       },
       {
         "rank": 1,
@@ -113,16 +114,6 @@
       },
       {
         "rank": 2,
-        "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time",
-        "url": "https://www.reddit.com/r/singularity/comments/1wkwzzj/chatgpt6_astra_cracks_108yearold_unsolved_wwi/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T20:40:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-8C7jfr4l1ztzcu45hCi2_jRqesNx3enDqDs30SZERE.jpeg?width=640&crop=smart&auto=webp&s=e36043fd8f816487528a425bd682044f0567fa43"
-      },
-      {
-        "rank": 3,
         "title": "Jensen Huang: \"We should go as fast as we can irrespective of anybody else.\"",
         "url": "https://www.reddit.com/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/",
         "source": "r/singularity",
@@ -131,17 +122,17 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Astra, Fable, and MolmoAct2 were put to the test by tasking them with 4 harmful operations through a robotic arm, to see just how risky things can get",
-        "url": "https://www.reddit.com/r/singularity/comments/1wkw0ln/astra_fable_and_molmoact2_were_put_to_the_test_by/",
+        "rank": 3,
+        "title": "Hospitals that adopted AI fastest saw the fewest deaths so far in 2026",
+        "url": "https://www.reddit.com/r/singularity/comments/1wlnquc/hospitals_that_adopted_ai_fastest_saw_the_fewest/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-19T20:01:19.000Z",
+        "publishedAt": "2026-09-20T17:50:54.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NDQ5ejJueDg5anFoMVl8vrrT4jTBbQL7DKtRVduOm5mOCx_Mw9cWBoeKVgNt.png?width=640&crop=smart&auto=webp&s=3d92d10e53f6beaeee1c817cb35f2e24e7e741b9"
+        "thumbnail": "https://preview.redd.it/ipy8kb0xqpqh1.png?width=640&crop=smart&auto=webp&s=d35c64a1c79925ef27906e47ccebc9fb951cbade"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "One by one they will all begin to understand.",
         "url": "https://www.reddit.com/r/singularity/comments/1wkz8qw/one_by_one_they_will_all_begin_to_understand/",
         "source": "r/singularity",
@@ -149,6 +140,16 @@
         "publishedAt": "2026-09-19T22:14:22.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/2l3k7qtnwjqh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=8e731f4e02a57a6d9d12f162b8a894532eb6827f"
+      },
+      {
+        "rank": 5,
+        "title": "Obama on Artificial Intelligence (C-SPAN, 4:13)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wl7wps/obama_on_artificial_intelligence_cspan_413/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-20T05:12:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/CMIEMWMo77r1cEWVKfU7bQfxVv9i6KR_PPP0-QmVffU.jpeg?width=320&crop=smart&auto=webp&s=6a8097ab5b2f3da6d74e12b05784af255e47f05d"
       },
       {
         "rank": 1,

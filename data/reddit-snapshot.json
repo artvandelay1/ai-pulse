@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-09-20T06:54:06.560Z",
+  "fetchedAt": "2026-09-20T12:09:42.438Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I wanted to watch a neural network learn [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T23:12:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cwnmw2lc7kqh1.gif?width=640&crop=smart&s=2370041dc6a0c85300287e1b0ed0b8db0bc78dc5"
+      },
+      {
+        "rank": 2,
+        "title": "ICLR 2027 submission 50k+[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wks0dv/iclr_2027_submission_50kd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:23:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T23:35:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/la7iukj3vjqh1.png?width=320&crop=smart&auto=webp&s=50c5bf5b2b8cccfb76d05dc3c253298776dca717"
+      },
+      {
+        "rank": 4,
+        "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T12:54:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:34:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7mc0xz50jiqh1.png?width=140&height=88&auto=webp&s=2cc1034dfbe80d0c44538f76dc04c14bed8cfdad"
+      },
+      {
+        "rank": 1,
+        "title": "AI is getting out of hand.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wks0ip/ai_is_getting_out_of_hand/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:23:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bXI5bGY1dDJoaXFoMeEbNNr8HfPCQgZWmV8kPIerCFnbS8eVNwTNFcGv1uTp.png?width=640&crop=smart&auto=webp&s=9a46fe42a5ea00ddcff640a90085522a69aaa720"
+      },
+      {
+        "rank": 2,
+        "title": "Thank you Google 🎉🥳🥳",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wktdag/thank_you_google/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T18:17:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e22srmupqiqh1.jpeg?width=640&crop=smart&auto=webp&s=a9957e28a5fc7aeb7fe036d04e9d9a1bde60e2a2"
+      },
+      {
+        "rank": 3,
+        "title": "Researchers found a \"pain\" signal in AI brains. When they crank it up, the AIs desperately try to make it stop. They gave the AIs a \"relief\" button to turn down the pain, which was sometimes fake - and the AIs could tell if it was real.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wkl780/researchers_found_a_pain_signal_in_ai_brains_when/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T12:39:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/glqxq4cf2hqh1.png?width=640&crop=smart&auto=webp&s=60782ea144750eb63dc575552f8122a28dc3ce75"
+      },
+      {
+        "rank": 4,
+        "title": "I asked GPT-6 Astra to optimize itself so it stops hitting usage limits",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wl0imi/i_asked_gpt6_astra_to_optimize_itself_so_it_stops/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T23:09:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What is the best way to use LLMS's in 2026? I feel like a caveman with the way I use them?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wkvofz/what_is_the_best_way_to_use_llmss_in_2026_i_feel/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-19T19:48:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time",
+        "url": "https://www.reddit.com/r/singularity/comments/1wkwzzj/chatgpt6_astra_cracks_108yearold_unsolved_wwi/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-19T20:40:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/-8C7jfr4l1ztzcu45hCi2_jRqesNx3enDqDs30SZERE.jpeg?width=640&crop=smart&auto=webp&s=e36043fd8f816487528a425bd682044f0567fa43"
+      },
+      {
+        "rank": 2,
+        "title": "Victory By Any Means",
+        "url": "https://www.reddit.com/r/singularity/comments/1wla34t/victory_by_any_means/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-20T07:10:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aDZ2MWRlb21rbXFoMQWBvLkpQ_KqnzKHJ7OtEghpx6u9At9qNJvYNJv-yTOD.jpeg?width=320&crop=smart&auto=webp&s=82bfd1ac1a695a95488cbefbf9961acf358f80a4"
+      },
+      {
+        "rank": 3,
+        "title": "Trump says he is forming an \"AI Force\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wks4ud/trump_says_he_is_forming_an_ai_force/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:28:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eb5fki6yhiqh1.jpeg?width=640&crop=smart&auto=webp&s=585dea9623e46ea1d8b65023fe58a32dadcd0b08"
+      },
+      {
+        "rank": 4,
+        "title": "The POTUS has drunk the ASI kool-aid",
+        "url": "https://www.reddit.com/r/singularity/comments/1wkrij0/the_potus_has_drunk_the_asi_koolaid/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-19T17:03:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h1jlo6l6diqh1.png?width=320&crop=smart&auto=webp&s=e29f02b4b9ddabf6d203f71280fcb5dfe51afbee"
+      },
+      {
+        "rank": 5,
+        "title": "Johnny the Snitch was een LLM!!",
+        "url": "https://www.reddit.com/r/singularity/comments/1wklpwh/johnny_the_snitch_was_een_llm/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-19T13:03:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N212MWhhb202aHFoMZPvgTOIE-wIGVbigH7m0yeXuPic9kUNWikyAvY5z_aR.jpeg?width=320&crop=smart&auto=webp&s=23aeeedbfcd79715be6933fd9b2bffac3bf93e69"
+      },
       {
         "rank": 1,
         "title": "Asked Claude to waste my remaining usage before weekly reset. Very satisfied with the result.",
@@ -56,54 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "I wanted to watch a neural network learn [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T23:12:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cwnmw2lc7kqh1.gif?width=640&crop=smart&s=2370041dc6a0c85300287e1b0ed0b8db0bc78dc5"
-      },
-      {
-        "rank": 2,
-        "title": "ICLR 2027 submission 50k+[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wks0dv/iclr_2027_submission_50kd/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T17:23:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T23:35:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/la7iukj3vjqh1.png?width=320&crop=smart&auto=webp&s=50c5bf5b2b8cccfb76d05dc3c253298776dca717"
-      },
-      {
-        "rank": 4,
-        "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T12:54:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T17:34:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7mc0xz50jiqh1.png?width=140&height=88&auto=webp&s=2cc1034dfbe80d0c44538f76dc04c14bed8cfdad"
-      },
-      {
-        "rank": 1,
         "title": "The End of the Codex Era. I've Completely Lost Trust in OpenAI. They're Secretly Degrading Their Models.",
         "url": "https://www.reddit.com/r/codex/comments/1wkwdfl/the_end_of_the_codex_era_ive_completely_lost/",
         "source": "r/codex",
@@ -148,106 +246,6 @@
         "publishedAt": "2026-09-19T20:04:48.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/bg0e46jj8jqh1.png?width=640&crop=smart&auto=webp&s=5d58bc4c3789696a4aaa5ea4fa0a8c332770a068"
-      },
-      {
-        "rank": 1,
-        "title": "AI is getting out of hand.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wks0ip/ai_is_getting_out_of_hand/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T17:23:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bXI5bGY1dDJoaXFoMeEbNNr8HfPCQgZWmV8kPIerCFnbS8eVNwTNFcGv1uTp.png?width=640&crop=smart&auto=webp&s=9a46fe42a5ea00ddcff640a90085522a69aaa720"
-      },
-      {
-        "rank": 2,
-        "title": "I think Tibo might be a little out of touch with the user experience...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wkgmi5/i_think_tibo_might_be_a_little_out_of_touch_with/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T08:28:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mbnnrsvhtfqh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9a27498b3698be277ab1ef2c0939e7c0e1feee01"
-      },
-      {
-        "rank": 3,
-        "title": "Researchers found a \"pain\" signal in AI brains. When they crank it up, the AIs desperately try to make it stop. They gave the AIs a \"relief\" button to turn down the pain, which was sometimes fake - and the AIs could tell if it was real.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wkl780/researchers_found_a_pain_signal_in_ai_brains_when/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T12:39:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/glqxq4cf2hqh1.png?width=640&crop=smart&auto=webp&s=60782ea144750eb63dc575552f8122a28dc3ce75"
-      },
-      {
-        "rank": 4,
-        "title": "Thank you Google 🎉🥳🥳",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wktdag/thank_you_google/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T18:17:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e22srmupqiqh1.jpeg?width=640&crop=smart&auto=webp&s=a9957e28a5fc7aeb7fe036d04e9d9a1bde60e2a2"
-      },
-      {
-        "rank": 5,
-        "title": "I benchmarked Jev aginst gpt-5.6-luna!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wkgkrz/i_benchmarked_jev_aginst_gpt56luna/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T08:25:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l33ryur0tfqh1.png?width=640&crop=smart&auto=webp&s=9189cf8e6cd5cfc4989b732d9768b6ac4e311464"
-      },
-      {
-        "rank": 1,
-        "title": "ChatGPT-6 Astra cracks 108-year-old unsolved WWI German code for the first time",
-        "url": "https://www.reddit.com/r/singularity/comments/1wkwzzj/chatgpt6_astra_cracks_108yearold_unsolved_wwi/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T20:40:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-8C7jfr4l1ztzcu45hCi2_jRqesNx3enDqDs30SZERE.jpeg?width=640&crop=smart&auto=webp&s=e36043fd8f816487528a425bd682044f0567fa43"
-      },
-      {
-        "rank": 2,
-        "title": "Trump says he is forming an \"AI Force\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1wks4ud/trump_says_he_is_forming_an_ai_force/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T17:28:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eb5fki6yhiqh1.jpeg?width=640&crop=smart&auto=webp&s=585dea9623e46ea1d8b65023fe58a32dadcd0b08"
-      },
-      {
-        "rank": 3,
-        "title": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
-        "url": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T10:16:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/84oy8fbscgqh1.png?width=640&crop=smart&auto=webp&s=061a3c96dae3519aff7af4c06566e3d53dd3d4f6"
-      },
-      {
-        "rank": 4,
-        "title": "The POTUS has drunk the ASI kool-aid",
-        "url": "https://www.reddit.com/r/singularity/comments/1wkrij0/the_potus_has_drunk_the_asi_koolaid/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T17:03:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h1jlo6l6diqh1.png?width=320&crop=smart&auto=webp&s=e29f02b4b9ddabf6d203f71280fcb5dfe51afbee"
-      },
-      {
-        "rank": 5,
-        "title": "Johnny the Snitch was een LLM!!",
-        "url": "https://www.reddit.com/r/singularity/comments/1wklpwh/johnny_the_snitch_was_een_llm/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T13:03:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N212MWhhb202aHFoMZPvgTOIE-wIGVbigH7m0yeXuPic9kUNWikyAvY5z_aR.jpeg?width=320&crop=smart&auto=webp&s=23aeeedbfcd79715be6933fd9b2bffac3bf93e69"
       }
     ]
   }

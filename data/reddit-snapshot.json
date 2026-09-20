@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T21:28:45.088Z",
+  "fetchedAt": "2026-09-20T23:27:45.029Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "I wanted to watch a neural network learn [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-19T23:12:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cwnmw2lc7kqh1.gif?width=640&crop=smart&s=2370041dc6a0c85300287e1b0ed0b8db0bc78dc5"
-      },
-      {
-        "rank": 2,
         "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/",
         "source": "r/MachineLearning",
@@ -26,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/la7iukj3vjqh1.png?width=320&crop=smart&auto=webp&s=50c5bf5b2b8cccfb76d05dc3c253298776dca717"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Inside sanoTTS — a 294,279-parameter TTS system [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wlbhw8/inside_sanotts_a_294279parameter_tts_system_p/",
         "source": "r/MachineLearning",
@@ -36,7 +26,7 @@
         "thumbnail": "https://preview.redd.it/mxpll75zymqh1.png?width=640&crop=smart&auto=webp&s=83d29663362bc2fdaf341618c5f163538f2575b4"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "How is your experience with ICLR LLM Feedback? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
         "source": "r/MachineLearning",
@@ -45,12 +35,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Why decontamination reports can't fix benchmark contamination, and what an evaluator has to do instead [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wlimaj/why_decontamination_reports_cant_fix_benchmark/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-20T14:31:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-20T00:43:46.000Z",
         "category": "reddit"
       },
       {
@@ -75,15 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "I asked GPT-6 Astra to optimize itself so it stops hitting usage limits",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wl0imi/i_asked_gpt6_astra_to_optimize_itself_so_it_stops/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-19T23:09:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "ChatGPT has now surpassed Instagram by site visits",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wlki0e/chatgpt_has_now_surpassed_instagram_by_site_visits/",
         "source": "r/OpenAI",
@@ -93,7 +83,7 @@
         "thumbnail": "https://preview.redd.it/9o9morms4pqh1.jpeg?width=640&crop=smart&auto=webp&s=e3c1fff7d6f2b1d46e40cd13d66e2d74260f79e7"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Class project when I was in 7th grade but AI generated image version",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wlasui/class_project_when_i_was_in_7th_grade_but_ai/",
         "source": "r/OpenAI",
@@ -101,6 +91,16 @@
         "publishedAt": "2026-09-20T07:51:13.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/vhpvzpaxrmqh1.jpg?width=140&height=105&auto=webp&s=96d9fd6656b537dc6ffef970e24039fb03fb47c1"
+      },
+      {
+        "rank": 5,
+        "title": "AI for good",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wlc7oe/ai_for_good/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-20T09:13:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bDB2bGRscmk2bnFoMb4rl4upqZ_F6yIjs67VkA-BF0w4VEJi_3O4lCUl4iwl.png?width=640&crop=smart&auto=webp&s=feb86bb30b28638ad0d3b3fd78dc7559ccfb792e"
       },
       {
         "rank": 1,
@@ -133,16 +133,6 @@
       },
       {
         "rank": 4,
-        "title": "One by one they will all begin to understand.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wkz8qw/one_by_one_they_will_all_begin_to_understand/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-19T22:14:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2l3k7qtnwjqh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=8e731f4e02a57a6d9d12f162b8a894532eb6827f"
-      },
-      {
-        "rank": 5,
         "title": "Obama on Artificial Intelligence (C-SPAN, 4:13)",
         "url": "https://www.reddit.com/r/singularity/comments/1wl7wps/obama_on_artificial_intelligence_cspan_413/",
         "source": "r/singularity",
@@ -150,6 +140,16 @@
         "publishedAt": "2026-09-20T05:12:44.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/CMIEMWMo77r1cEWVKfU7bQfxVv9i6KR_PPP0-QmVffU.jpeg?width=320&crop=smart&auto=webp&s=6a8097ab5b2f3da6d74e12b05784af255e47f05d"
+      },
+      {
+        "rank": 5,
+        "title": "This coming week could have a couple of model releases",
+        "url": "https://www.reddit.com/r/singularity/comments/1wlnw0m/this_coming_week_could_have_a_couple_of_model/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-20T17:56:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rw19397urpqh1.png?width=640&crop=smart&auto=webp&s=4d45434da71d1f9636289b0455d4e6da2f122c0f"
       },
       {
         "rank": 1,

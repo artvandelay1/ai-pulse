@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-21T19:11:46.365Z",
+  "fetchedAt": "2026-09-21T22:47:13.027Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I am done with this shit.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T06:55:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Eerie/concerning hallucinations",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm6mht/eerieconcerning_hallucinations/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T08:11:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sjb9js8g0uqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=838d2dc648daea96da5463c6718fb95f0a7ad005"
+      },
+      {
+        "rank": 3,
+        "title": "PSA - Claude Code: Turn off Prompt Suggestions, save ~10% of your limits/spend",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm8adm/psa_claude_code_turn_off_prompt_suggestions_save/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T09:50:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5c6ey29eeuqh1.png?width=140&height=18&auto=webp&s=5fc5080a60627ec4d1e28dcc8708f85ac1003aed"
+      },
+      {
+        "rank": 4,
+        "title": "Do you talk to Claude politely?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm1foz/do_you_talk_to_claude_politely/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T03:25:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Seeing this on monday while claude is fixing a critical bug",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm8ori/seeing_this_on_monday_while_claude_is_fixing_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T10:12:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4l7l67fdluqh1.png?width=320&crop=smart&auto=webp&s=b3e905426d7f5ffe4dff223ac63b9486e1c02e70"
+      },
       {
         "rank": 1,
         "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
@@ -25,6 +73,15 @@
       },
       {
         "rank": 3,
+        "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-21T19:44:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
         "source": "r/MachineLearning",
@@ -33,13 +90,62 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Systems for Machine Learning[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wme6lx/systems_for_machine_learningd/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-21T14:21:01.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Since our baby tracking turned to a subscription app I used codex to build a 100% free version.",
+        "url": "https://www.reddit.com/r/codex/comments/1wm0pgh/since_our_baby_tracking_turned_to_a_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T02:50:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8rsf5025fsqh1.jpeg?width=640&crop=smart&auto=webp&s=c8c51b62eec02eca89124ac4a80e69ea1f5a87dc"
+      },
+      {
+        "rank": 2,
+        "title": "AGI is here: Astra can't stop creating random .md files across my codebases",
+        "url": "https://www.reddit.com/r/codex/comments/1wm2c4g/agi_is_here_astra_cant_stop_creating_random_md/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T04:11:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Xiaomi just aboslutely killed pareto frontier, can't wait to use it in codex! (its openAI api/codex compatible)",
+        "url": "https://www.reddit.com/r/codex/comments/1wmp5bh/xiaomi_just_aboslutely_killed_pareto_frontier/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T20:54:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a5njfggjsxqh1.png?width=640&crop=smart&auto=webp&s=b084208f1810614e1c627e2d417dc2f5d0014a75"
+      },
+      {
+        "rank": 4,
+        "title": "Same model, different capabilities on different accounts",
+        "url": "https://www.reddit.com/r/codex/comments/1wmenzi/same_model_different_capabilities_on_different/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T14:39:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wxcgj1kzxvqh1.png?width=140&height=43&auto=webp&s=104140807b665784569c53bbcc1f0d6df9fe3f26"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6 Luna may already be in A/B testing. Some GPT-5.6 Luna requests are being served as GPT-6 Luna behind the scenes",
+        "url": "https://www.reddit.com/r/codex/comments/1wmhdee/gpt6_luna_may_already_be_in_ab_testing_some_gpt56/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T16:16:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vftpbwq1fwqh1.jpeg?width=640&crop=smart&auto=webp&s=635c6eb4830ef60b82a8f6314e0d2af065fd2661"
       },
       {
         "rank": 1,
@@ -138,103 +244,6 @@
         "publishedAt": "2026-09-21T16:25:36.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/t86fwfzlgwqh1.jpeg?width=640&crop=smart&auto=webp&s=54d68c2a3b3627c9c184379db3e2fc3b5af7e7a8"
-      },
-      {
-        "rank": 1,
-        "title": "I am done with this shit.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T06:55:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Eerie/concerning hallucinations",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm6mht/eerieconcerning_hallucinations/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T08:11:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sjb9js8g0uqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=838d2dc648daea96da5463c6718fb95f0a7ad005"
-      },
-      {
-        "rank": 3,
-        "title": "Something is wrong with usage this week",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlj3gu/something_is_wrong_with_usage_this_week/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T14:51:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/apo6j1mxuoqh1.jpeg?width=640&crop=smart&auto=webp&s=730f762d71ee852713570740d76bc60caf67990c"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlmmf2/anthropic_selects_accenture_as_first_embedded/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T17:08:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/UkX1QS4KhMnkDJY7e-20pKJvAU7HmN6tkdW37qAkT60.jpeg?width=640&crop=smart&auto=webp&s=314e68f42ee98d73b41a186f555551fcd7b8a54d"
-      },
-      {
-        "rank": 5,
-        "title": "What's your proudest side-project made with Claude?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wlltzt/whats_your_proudest_sideproject_made_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T16:37:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "This is how I code now - cringe",
-        "url": "https://www.reddit.com/r/codex/comments/1wlp1ll/this_is_how_i_code_now_cringe/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-20T18:39:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/75zob89nzpqh1.jpeg?width=640&crop=smart&auto=webp&s=a7151475aeb4058a8c9920ba271d75aa654f1a30"
-      },
-      {
-        "rank": 2,
-        "title": "\"Make me proud\" is the best prompt I've ever written",
-        "url": "https://www.reddit.com/r/codex/comments/1wlq5uk/make_me_proud_is_the_best_prompt_ive_ever_written/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-20T19:21:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Since our baby tracking turned to a subscription app I used codex to build a 100% free version.",
-        "url": "https://www.reddit.com/r/codex/comments/1wm0pgh/since_our_baby_tracking_turned_to_a_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-21T02:50:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8rsf5025fsqh1.jpeg?width=640&crop=smart&auto=webp&s=c8c51b62eec02eca89124ac4a80e69ea1f5a87dc"
-      },
-      {
-        "rank": 4,
-        "title": "PSA: Codex cache only lasts max 30 minutes",
-        "url": "https://www.reddit.com/r/codex/comments/1wlqlz6/psa_codex_cache_only_lasts_max_30_minutes/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-20T19:37:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2mhpo0he8qqh1.png?width=640&crop=smart&auto=webp&s=4128fa12374fc1ff0aeba5f485d54b3922f0d4e6"
-      },
-      {
-        "rank": 5,
-        "title": "To people wondering why OpenAI doesn't confirm that they're degrading/re-routing responses for certain (mostly Chinese or other VPN/proxy/node users), it's b/c the US Government told them not to. [credit to /u/RepresentativeRuin75 for finding this]",
-        "url": "https://www.reddit.com/r/codex/comments/1wlk3ym/to_people_wondering_why_openai_doesnt_confirm/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-20T15:31:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y1orf7du1pqh1.png?width=640&crop=smart&auto=webp&s=dcb9cdb0e60c2a71fe6cc55f2c1a465e167ad0cf"
       }
     ]
   }

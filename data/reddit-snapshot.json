@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T01:28:45.313Z",
+  "fetchedAt": "2026-09-21T06:59:47.347Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,15 @@
     "items": [
       {
         "rank": 1,
+        "title": "Concerns about the ICLR review policy [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wm1crj/concerns_about_the_iclr_review_policy_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-21T03:21:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "How is your experience with ICLR LLM Feedback? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
         "source": "r/MachineLearning",
@@ -15,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Inside sanoTTS — a 294,279-parameter TTS system [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wlbhw8/inside_sanotts_a_294279parameter_tts_system_p/",
         "source": "r/MachineLearning",
@@ -25,7 +34,7 @@
         "thumbnail": "https://preview.redd.it/mxpll75zymqh1.png?width=640&crop=smart&auto=webp&s=83d29663362bc2fdaf341618c5f163538f2575b4"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Hemmingway-1, an Apache-2.0 27B creative-writing fine-tune (Qwen3.8-27B base, EQ-Bench 4 1330)[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wlr1w5/hemmingway1_an_apache20_27b_creativewriting/",
         "source": "r/MachineLearning",
@@ -34,21 +43,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Why decontamination reports can't fix benchmark contamination, and what an evaluator has to do instead [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wlimaj/why_decontamination_reports_cant_fix_benchmark/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-20T14:31:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Autograd project [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wlj8vv/autograd_project_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-20T14:57:56.000Z",
         "category": "reddit"
       },
       {
@@ -83,16 +83,6 @@
       },
       {
         "rank": 4,
-        "title": "Class project when I was in 7th grade but AI generated image version",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wlasui/class_project_when_i_was_in_7th_grade_but_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T07:51:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vhpvzpaxrmqh1.jpg?width=140&height=105&auto=webp&s=96d9fd6656b537dc6ffef970e24039fb03fb47c1"
-      },
-      {
-        "rank": 5,
         "title": "Trump brutally mocked over bizarre effort to rename AI 'superior' or 'extreme' intelligence",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wlt52p/trump_brutally_mocked_over_bizarre_effort_to/",
         "source": "r/OpenAI",
@@ -100,6 +90,16 @@
         "publishedAt": "2026-09-20T21:13:58.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/FRTPOKX-xhTgJIYT26hRYIEqKFHbDSIFxXfTP9jc6ag.jpeg?width=640&crop=smart&auto=webp&s=832eaaca05c6850b9d6a5d72fd833e184516f4d1"
+      },
+      {
+        "rank": 5,
+        "title": "Class project when I was in 7th grade but AI generated image version",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wlasui/class_project_when_i_was_in_7th_grade_but_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-20T07:51:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vhpvzpaxrmqh1.jpg?width=140&height=105&auto=webp&s=96d9fd6656b537dc6ffef970e24039fb03fb47c1"
       },
       {
         "rank": 1,
@@ -132,16 +132,6 @@
       },
       {
         "rank": 4,
-        "title": "Obama on Artificial Intelligence (C-SPAN, 4:13)",
-        "url": "https://www.reddit.com/r/singularity/comments/1wl7wps/obama_on_artificial_intelligence_cspan_413/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-20T05:12:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/CMIEMWMo77r1cEWVKfU7bQfxVv9i6KR_PPP0-QmVffU.jpeg?width=320&crop=smart&auto=webp&s=6a8097ab5b2f3da6d74e12b05784af255e47f05d"
-      },
-      {
-        "rank": 5,
         "title": "China Is Doing About 30 Times More Agricultural Drone Work Than The U.S.",
         "url": "https://www.reddit.com/r/singularity/comments/1wlsgdk/china_is_doing_about_30_times_more_agricultural/",
         "source": "r/singularity",
@@ -149,6 +139,16 @@
         "publishedAt": "2026-09-20T20:47:37.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/nOFvTihEYvgzxmxk-PO1_E1-s6bUk1ZSJLHRE1BqUio.jpeg?width=640&crop=smart&auto=webp&s=cca591ad7e3d6f53c4c8282b54933b79d8a5c19f"
+      },
+      {
+        "rank": 5,
+        "title": "Open AI robotics hiring is surging up and fast",
+        "url": "https://www.reddit.com/r/singularity/comments/1wlzifs/open_ai_robotics_hiring_is_surging_up_and_fast/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-21T01:52:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yz12wdcv4sqh1.jpeg?width=640&crop=smart&auto=webp&s=e04e3cbb57d2038db69babf281edcdd5dc609373"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T17:36:16.319Z",
+  "fetchedAt": "2026-09-22T21:05:08.073Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "Opus 5.5 is 40% cheaper while being 30% faster than opus 5.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnf7sb/opus_55_is_40_cheaper_while_being_30_faster_than/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T17:02:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kpauvtq3s3rh1.jpeg?width=640&crop=smart&auto=webp&s=81f47b3a94447c2d056c9688ebe68cb31bbc3d58"
+      },
+      {
+        "rank": 3,
         "title": "If Opus 5.5 releases today, what are the biggest improvements you hope it will bring?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wn72p0/if_opus_55_releases_today_what_are_the_biggest/",
         "source": "r/ClaudeAI",
@@ -25,7 +35,17 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "title": "Did Anthropic just find a new way to benchmax Opus 5.5 without actually giving subscribers that performance?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnejyx/did_anthropic_just_find_a_new_way_to_benchmax/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:38:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rmsgatzzm3rh1.png?width=140&height=106&auto=webp&s=a078e38f6b51061b4b5fb878974028989f3a9266"
+      },
+      {
+        "rank": 5,
         "title": "Opus 5.5 in the release notes",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wndzf3/opus_55_in_the_release_notes/",
         "source": "r/ClaudeAI",
@@ -33,25 +53,6 @@
         "publishedAt": "2026-09-22T16:17:37.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/s7st73m3k3rh1.png?width=640&crop=smart&auto=webp&s=f3872c73d47b8929b121299a5fb4b1b24265a7d4"
-      },
-      {
-        "rank": 4,
-        "title": "what do you actually use claude for day to day, beyond the obvious stuff",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wn6dcv/what_do_you_actually_use_claude_for_day_to_day/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T11:02:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "vackrooms: an endless backrooms game. Free, in the browser, open source.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmx1hq/vackrooms_an_endless_backrooms_game_free_in_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T02:27:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YmxydnBrdWJmenFoMSbxUKl3hfW_Dd9FVRVIVoDKCsOhkBvOVamL4xIHf3gO.png?width=640&crop=smart&auto=webp&s=8ae7661776ad092a5f0a9d90088397fa61ade8b6"
       },
       {
         "rank": 1,
@@ -65,15 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-21T19:44:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Understanding and Enhancing Kimi Delta Attention [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wn5uv9/understanding_and_enhancing_kimi_delta_attention_r/",
         "source": "r/MachineLearning",
@@ -83,16 +75,7 @@
         "thumbnail": "https://preview.redd.it/v7oqopy3v1rh1.gif?frame=1&width=140&height=140&auto=webp&s=e5a3fafa125d82696dd092844108cc6917ec33c6"
       },
       {
-        "rank": 4,
-        "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-22T15:47:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
         "source": "r/MachineLearning",
@@ -102,7 +85,35 @@
         "thumbnail": "https://preview.redd.it/n5k7nncup3rh1.jpeg?width=640&crop=smart&auto=webp&s=d5b386f7f3101c41e4662eb2c7de6249f1bb9c38"
       },
       {
+        "rank": 4,
+        "title": "LinearSolveBench: new benchmark for linear solvers [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-22T15:34:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-22T15:47:47.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
+        "title": "New models and a reset landed",
+        "url": "https://www.reddit.com/r/codex/comments/1wnhkmv/new_models_and_a_reset_landed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-22T18:25:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xfuutraz64rh1.jpeg?width=640&crop=smart&auto=webp&s=594422ca7ad3b74a31ec71c2b39e93260f4488c9"
+      },
+      {
+        "rank": 2,
         "title": "Reset Tuesday",
         "url": "https://www.reddit.com/r/codex/comments/1wmzqdi/reset_tuesday/",
         "source": "r/codex",
@@ -112,7 +123,7 @@
         "thumbnail": "https://preview.redd.it/jmzi02jn30rh1.jpeg?width=640&crop=smart&auto=webp&s=eabe1ddf106dac59a3277f28808cb12a37801639"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "The ugly truth",
         "url": "https://www.reddit.com/r/codex/comments/1wmpy6x/the_ugly_truth/",
         "source": "r/codex",
@@ -122,34 +133,24 @@
         "thumbnail": "https://preview.redd.it/hsm9jf60yxqh1.jpeg?width=640&crop=smart&auto=webp&s=179777236c33eaf7a98b6efefa0bbd65d1d42c01"
       },
       {
-        "rank": 3,
-        "title": "Xiaomi just aboslutely killed pareto frontier, can't wait to use it in codex! (its openAI api/codex compatible)",
-        "url": "https://www.reddit.com/r/codex/comments/1wmp5bh/xiaomi_just_aboslutely_killed_pareto_frontier/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-21T20:54:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a5njfggjsxqh1.png?width=640&crop=smart&auto=webp&s=b084208f1810614e1c627e2d417dc2f5d0014a75"
-      },
-      {
         "rank": 4,
-        "title": "Five Pro 20x accounts, two persistently degraded: Astra comparisons and OpenAI’s response",
-        "url": "https://www.reddit.com/r/codex/comments/1wmk8i7/five_pro_20x_accounts_two_persistently_degraded/",
+        "title": "Gpt 6 sol and luna",
+        "url": "https://www.reddit.com/r/codex/comments/1wnh5j8/gpt_6_sol_and_luna/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-21T17:58:51.000Z",
+        "publishedAt": "2026-09-22T18:10:38.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/87y0md5rrwqh1.png?width=140&height=84&auto=webp&s=8f8783f2a9aa9a05076c1d8648773b8877e51023"
+        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
       },
       {
         "rank": 5,
-        "title": "I did it!!",
-        "url": "https://www.reddit.com/r/codex/comments/1wn8ckg/i_did_it/",
+        "title": "So is it the time to switch to claude?",
+        "url": "https://www.reddit.com/r/codex/comments/1wnf4pn/so_is_it_the_time_to_switch_to_claude/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-22T12:38:24.000Z",
+        "publishedAt": "2026-09-22T16:59:39.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g8ten5gzg2rh1.jpeg?width=640&crop=smart&auto=webp&s=45568f86c2f7243ef8f8992cf450c7861f55d2c3"
+        "thumbnail": "https://preview.redd.it/dif1gbclr3rh1.jpeg?width=640&crop=smart&auto=webp&s=c13b7c31ffc56980dafead35214f4d996ae6b410"
       },
       {
         "rank": 1,

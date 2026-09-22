@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-22T12:50:44.110Z",
+  "fetchedAt": "2026-09-22T17:36:16.319Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnecg9/introducing_claude_opus_55_the_first_model_in_our/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:31:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Nm1rd3I5MjRqM3JoMS8Q9v2odZGoaz4Fhrr481TgTjyvMJUe2cj51hJetSf4.png?width=640&crop=smart&auto=webp&s=a144cfe9ed4db6a4ae321bf4a42fb1ead215d85c"
+      },
+      {
+        "rank": 2,
+        "title": "If Opus 5.5 releases today, what are the biggest improvements you hope it will bring?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wn72p0/if_opus_55_releases_today_what_are_the_biggest/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T11:38:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5.5 in the release notes",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wndzf3/opus_55_in_the_release_notes/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:17:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s7st73m3k3rh1.png?width=640&crop=smart&auto=webp&s=f3872c73d47b8929b121299a5fb4b1b24265a7d4"
+      },
+      {
+        "rank": 4,
+        "title": "what do you actually use claude for day to day, beyond the obvious stuff",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wn6dcv/what_do_you_actually_use_claude_for_day_to_day/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T11:02:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "vackrooms: an endless backrooms game. Free, in the browser, open source.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmx1hq/vackrooms_an_endless_backrooms_game_free_in_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T02:27:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YmxydnBrdWJmenFoMSbxUKl3hfW_Dd9FVRVIVoDKCsOhkBvOVamL4xIHf3gO.png?width=640&crop=smart&auto=webp&s=8ae7661776ad092a5f0a9d90088397fa61ade8b6"
+      },
       {
         "rank": 1,
         "title": "Xiaomi releases MiMo-V2.6: \"Frontier intelligence, all the modalities, built in public.\" [N]",
@@ -26,30 +74,82 @@
       },
       {
         "rank": 3,
-        "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
+        "title": "Understanding and Enhancing Kimi Delta Attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn5uv9/understanding_and_enhancing_kimi_delta_attention_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-21T14:43:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-22T10:34:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v7oqopy3v1rh1.gif?frame=1&width=140&height=140&auto=webp&s=e5a3fafa125d82696dd092844108cc6917ec33c6"
       },
       {
         "rank": 4,
-        "title": "Paper on ArXiv for a year now, should I disclose about it in ICLR submission? [Discussion]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn30sf/paper_on_arxiv_for_a_year_now_should_i_disclose/",
+        "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-22T07:46:51.000Z",
+        "publishedAt": "2026-09-22T15:47:47.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Systems for Machine Learning[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wme6lx/systems_for_machine_learningd/",
+        "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-21T14:21:01.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-22T16:49:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n5k7nncup3rh1.jpeg?width=640&crop=smart&auto=webp&s=d5b386f7f3101c41e4662eb2c7de6249f1bb9c38"
+      },
+      {
+        "rank": 1,
+        "title": "Reset Tuesday",
+        "url": "https://www.reddit.com/r/codex/comments/1wmzqdi/reset_tuesday/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-22T04:40:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jmzi02jn30rh1.jpeg?width=640&crop=smart&auto=webp&s=eabe1ddf106dac59a3277f28808cb12a37801639"
+      },
+      {
+        "rank": 2,
+        "title": "The ugly truth",
+        "url": "https://www.reddit.com/r/codex/comments/1wmpy6x/the_ugly_truth/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T21:24:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hsm9jf60yxqh1.jpeg?width=640&crop=smart&auto=webp&s=179777236c33eaf7a98b6efefa0bbd65d1d42c01"
+      },
+      {
+        "rank": 3,
+        "title": "Xiaomi just aboslutely killed pareto frontier, can't wait to use it in codex! (its openAI api/codex compatible)",
+        "url": "https://www.reddit.com/r/codex/comments/1wmp5bh/xiaomi_just_aboslutely_killed_pareto_frontier/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T20:54:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a5njfggjsxqh1.png?width=640&crop=smart&auto=webp&s=b084208f1810614e1c627e2d417dc2f5d0014a75"
+      },
+      {
+        "rank": 4,
+        "title": "Five Pro 20x accounts, two persistently degraded: Astra comparisons and OpenAI’s response",
+        "url": "https://www.reddit.com/r/codex/comments/1wmk8i7/five_pro_20x_accounts_two_persistently_degraded/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-21T17:58:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/87y0md5rrwqh1.png?width=140&height=84&auto=webp&s=8f8783f2a9aa9a05076c1d8648773b8877e51023"
+      },
+      {
+        "rank": 5,
+        "title": "I did it!!",
+        "url": "https://www.reddit.com/r/codex/comments/1wn8ckg/i_did_it/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-22T12:38:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/g8ten5gzg2rh1.jpeg?width=640&crop=smart&auto=webp&s=45568f86c2f7243ef8f8992cf450c7861f55d2c3"
       },
       {
         "rank": 1,
@@ -149,106 +249,6 @@
         "publishedAt": "2026-09-21T14:22:26.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/uu4ricymuvqh1.jpeg?width=640&crop=smart&auto=webp&s=1aa510faf5572d73d95a3211ba84a699064fd3d7"
-      },
-      {
-        "rank": 1,
-        "title": "Eerie/concerning hallucinations",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm6mht/eerieconcerning_hallucinations/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T08:11:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sjb9js8g0uqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=838d2dc648daea96da5463c6718fb95f0a7ad005"
-      },
-      {
-        "rank": 2,
-        "title": "PSA - Claude Code: Turn off Prompt Suggestions, save ~10% of your limits/spend",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm8adm/psa_claude_code_turn_off_prompt_suggestions_save/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T09:50:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5c6ey29eeuqh1.png?width=140&height=18&auto=webp&s=5fc5080a60627ec4d1e28dcc8708f85ac1003aed"
-      },
-      {
-        "rank": 3,
-        "title": "Seeing this on monday while claude is fixing a critical bug",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wm8ori/seeing_this_on_monday_while_claude_is_fixing_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T10:12:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4l7l67fdluqh1.png?width=320&crop=smart&auto=webp&s=b3e905426d7f5ffe4dff223ac63b9486e1c02e70"
-      },
-      {
-        "rank": 4,
-        "title": "Web Radar Now Available!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmt9mq/web_radar_now_available/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T23:38:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N3lqcGkzYWhseXFoMURSeqevRxxTjQW8Ntmf7qok7eIODlNUAysgQDLUGcDx.png?width=640&crop=smart&auto=webp&s=a199fc1b776d315433cc3eb367d41a2d226cdc66"
-      },
-      {
-        "rank": 5,
-        "title": "vackrooms: an endless backrooms game. Free, in the browser, open source.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wmx1hq/vackrooms_an_endless_backrooms_game_free_in_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T02:27:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YmxydnBrdWJmenFoMSbxUKl3hfW_Dd9FVRVIVoDKCsOhkBvOVamL4xIHf3gO.png?width=640&crop=smart&auto=webp&s=8ae7661776ad092a5f0a9d90088397fa61ade8b6"
-      },
-      {
-        "rank": 1,
-        "title": "Xiaomi just aboslutely killed pareto frontier, can't wait to use it in codex! (its openAI api/codex compatible)",
-        "url": "https://www.reddit.com/r/codex/comments/1wmp5bh/xiaomi_just_aboslutely_killed_pareto_frontier/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-21T20:54:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a5njfggjsxqh1.png?width=640&crop=smart&auto=webp&s=b084208f1810614e1c627e2d417dc2f5d0014a75"
-      },
-      {
-        "rank": 2,
-        "title": "The ugly truth",
-        "url": "https://www.reddit.com/r/codex/comments/1wmpy6x/the_ugly_truth/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-21T21:24:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hsm9jf60yxqh1.jpeg?width=640&crop=smart&auto=webp&s=179777236c33eaf7a98b6efefa0bbd65d1d42c01"
-      },
-      {
-        "rank": 3,
-        "title": "Five Pro 20x accounts, two persistently degraded: Astra comparisons and OpenAI’s response",
-        "url": "https://www.reddit.com/r/codex/comments/1wmk8i7/five_pro_20x_accounts_two_persistently_degraded/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-21T17:58:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/87y0md5rrwqh1.png?width=140&height=84&auto=webp&s=8f8783f2a9aa9a05076c1d8648773b8877e51023"
-      },
-      {
-        "rank": 4,
-        "title": "Reset Tuesday",
-        "url": "https://www.reddit.com/r/codex/comments/1wmzqdi/reset_tuesday/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-22T04:40:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jmzi02jn30rh1.jpeg?width=640&crop=smart&auto=webp&s=eabe1ddf106dac59a3277f28808cb12a37801639"
-      },
-      {
-        "rank": 5,
-        "title": "Same model, different capabilities on different accounts",
-        "url": "https://www.reddit.com/r/codex/comments/1wmenzi/same_model_different_capabilities_on_different/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-21T14:39:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wxcgj1kzxvqh1.png?width=140&height=43&auto=webp&s=104140807b665784569c53bbcc1f0d6df9fe3f26"
       }
     ]
   }

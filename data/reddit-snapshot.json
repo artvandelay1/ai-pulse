@@ -1,10 +1,158 @@
 {
-  "fetchedAt": "2026-09-22T21:05:08.073Z",
+  "fetchedAt": "2026-09-22T23:45:42.804Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Xiaomi releases MiMo-V2.6: \"Frontier intelligence, all the modalities, built in public.\" [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-22T07:56:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/89uurv5r21rh1.png?width=140&height=56&auto=webp&s=65bbdc4b681bf9bcbc72fdb28be01ff42404f8ac"
+      },
+      {
+        "rank": 2,
+        "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:49:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n5k7nncup3rh1.jpeg?width=640&crop=smart&auto=webp&s=d5b386f7f3101c41e4662eb2c7de6249f1bb9c38"
+      },
+      {
+        "rank": 3,
+        "title": "Understanding and Enhancing Kimi Delta Attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn5uv9/understanding_and_enhancing_kimi_delta_attention_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-22T10:34:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v7oqopy3v1rh1.gif?frame=1&width=140&height=140&auto=webp&s=e5a3fafa125d82696dd092844108cc6917ec33c6"
+      },
+      {
+        "rank": 4,
+        "title": "LinearSolveBench: new benchmark for linear solvers [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-22T15:34:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-22T15:47:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wngyux/introducing_gpt6_sol_and_luna/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T18:04:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5.5 and GPT-6 Sol dropped on the same day, so I lined up every benchmark I could find",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wnk30g/opus_55_and_gpt6_sol_dropped_on_the_same_day_so_i/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T19:55:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6fzx59nym4rh1.png?width=640&crop=smart&auto=webp&s=07677454a547aa14c2b2f0ece7452e50d02d6654"
+      },
+      {
+        "rank": 3,
+        "title": "Saw this today about how GPT Astra is the reason a professional is giving up on their career as a Three.js expert in 3d modelling.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wnepe9/saw_this_today_about_how_gpt_astra_is_the_reason/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:44:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wy6hms3so3rh1.png?width=640&crop=smart&auto=webp&s=5de5b95981395399f72689391464996cf295d24e"
+      },
+      {
+        "rank": 4,
+        "title": "2 years ago, AI researchers thought AI wouldn't solve a Millennium math problem for 30 years",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wn6imi/2_years_ago_ai_researchers_thought_ai_wouldnt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T11:10:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8nkm285612rh1.png?width=640&crop=smart&auto=webp&s=d535b46735795b273a61d980a076aa1b6d941d9c"
+      },
+      {
+        "rank": 5,
+        "title": "1 year of AI evolution in one photo",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wn76ef/1_year_of_ai_evolution_in_one_photo/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T11:43:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bujk4r0672rh1.png?width=640&crop=smart&auto=webp&s=c320196f79971139bdaa77c16219495f4ab1a71c"
+      },
+      {
+        "rank": 1,
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://www.reddit.com/r/singularity/comments/1wngzou/introducing_gpt6_sol_and_luna/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T18:04:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
+      },
+      {
+        "rank": 2,
+        "title": "Claude Opus 5.5 Benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:29:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/if5xd3a5m3rh1.png?width=640&crop=smart&auto=webp&s=5bf5b771788abfe52ef1081ac9044d7b2b7e6523"
+      },
+      {
+        "rank": 3,
+        "title": "Introducing Claude Opus 5.5, 40% Cheaper and Smarter Than Ever Before",
+        "url": "https://www.reddit.com/r/singularity/comments/1wne89f/introducing_claude_opus_55_40_cheaper_and_smarter/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:26:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/UXEA3jVaz8YlHo6cK480hp5l3TH1uV_-i8SLhzt8yio.jpeg?width=640&crop=smart&auto=webp&s=fabf7828bb15c2ab3036efc82bf2af09e86fa3c4"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5.5 built this",
+        "url": "https://www.reddit.com/r/singularity/comments/1wngd2w/opus_55_built_this/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T17:42:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YTB6ODloeTd6M3JoMTsb74G-oDx7dH40qNS_0y6un0Aj5zCNGqtDffoNGenU.png?width=640&crop=smart&auto=webp&s=25115d724e1f87f4091dc4fbf1e4b740bf1e2a2f"
+      },
+      {
+        "rank": 5,
+        "title": "Update on where we are currently",
+        "url": "https://www.reddit.com/r/singularity/comments/1wnfwet/update_on_where_we_are_currently/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T17:26:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f9ziz8ctv3rh1.png?width=640&crop=smart&auto=webp&s=33ef612d431989a8bade49e19bb23d681246d02b"
+      },
       {
         "rank": 1,
         "title": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family",
@@ -56,54 +204,6 @@
       },
       {
         "rank": 1,
-        "title": "Xiaomi releases MiMo-V2.6: \"Frontier intelligence, all the modalities, built in public.\" [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-22T07:56:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/89uurv5r21rh1.png?width=140&height=56&auto=webp&s=65bbdc4b681bf9bcbc72fdb28be01ff42404f8ac"
-      },
-      {
-        "rank": 2,
-        "title": "Understanding and Enhancing Kimi Delta Attention [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn5uv9/understanding_and_enhancing_kimi_delta_attention_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-22T10:34:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v7oqopy3v1rh1.gif?frame=1&width=140&height=140&auto=webp&s=e5a3fafa125d82696dd092844108cc6917ec33c6"
-      },
-      {
-        "rank": 3,
-        "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-22T16:49:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n5k7nncup3rh1.jpeg?width=640&crop=smart&auto=webp&s=d5b386f7f3101c41e4662eb2c7de6249f1bb9c38"
-      },
-      {
-        "rank": 4,
-        "title": "LinearSolveBench: new benchmark for linear solvers [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-22T15:34:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-22T15:47:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "New models and a reset landed",
         "url": "https://www.reddit.com/r/codex/comments/1wnhkmv/new_models_and_a_reset_landed/",
         "source": "r/codex",
@@ -151,105 +251,6 @@
         "publishedAt": "2026-09-22T16:59:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/dif1gbclr3rh1.jpeg?width=640&crop=smart&auto=webp&s=c13b7c31ffc56980dafead35214f4d996ae6b410"
-      },
-      {
-        "rank": 1,
-        "title": "Anyone else feel this way?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wmzbg2/anyone_else_feel_this_way/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T04:17:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p1lzvofozzqh1.png?width=640&crop=smart&auto=webp&s=ce182ec73a6d827f05e84d893375b8b46d053458"
-      },
-      {
-        "rank": 2,
-        "title": "🚨 AI may be entering a completely different phase.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wmq961/ai_may_be_entering_a_completely_different_phase/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T21:36:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/77zlq7o10yqh1.jpeg?width=640&crop=smart&auto=webp&s=12d4e37a6446ddd768fc947c272d6eaa54f5ccf5"
-      },
-      {
-        "rank": 3,
-        "title": "Yes. LinkedIn Park is back.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wmfw0h/yes_linkedin_park_is_back/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T15:24:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OHFldzdtYm80d3FoMSmZ7-ObU5O10952wwi6Wq8dAVkgFK-0EKnBS2GEOKOD.png?width=640&crop=smart&auto=webp&s=04361760f307c15d3a4df71dd793ffa37b30cdb7"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI on GPT Adult Mode: \"OpenAI has acknowledged this as an area worth exploring.\" (2026/08/18)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wmqgv0/openai_on_gpt_adult_mode_openai_has_acknowledged/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T21:44:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Stanford University Uses AI to Replace White Male With Black Student, Beautifies Asian Peer",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wn4ofa/stanford_university_uses_ai_to_replace_white_male/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T09:28:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/btZqT7lhumfHFQzhsvBBgLlUqIYmMRwXbCqgjD5ANtY.jpeg?width=640&crop=smart&auto=webp&s=883eea16b9b0ab28fd2dc5ed3a1a4cc0f58e065a"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI solved 100 open problems in math",
-        "url": "https://www.reddit.com/r/singularity/comments/1wml775/openai_solved_100_open_problems_in_math/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T18:32:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/mdgd9EJR9Uz8EYL2IprKCUvNnhrHhlW_RdbiQuaDDfg.png?width=640&crop=smart&auto=webp&s=1efdd854313071032cbbf02f91b9703a4365f26a"
-      },
-      {
-        "rank": 2,
-        "title": "It's Over For Shape-Rotators",
-        "url": "https://www.reddit.com/r/singularity/comments/1wmqt9a/its_over_for_shaperotators/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T21:58:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9glz6xsx3yqh1.png?width=640&crop=smart&auto=webp&s=2adcf3c99c5c6b2b826e1f2f6d7255abfb14ca80"
-      },
-      {
-        "rank": 3,
-        "title": "Impressive SVG animation made by Opus 5.5 (zero shot)",
-        "url": "https://www.reddit.com/r/singularity/comments/1wmjzrr/impressive_svg_animation_made_by_opus_55_zero_shot/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T17:49:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OGxocGpoeGF2d3FoMZzZZ37a4jxHu1Cr-yoOvN4L5C4aTrQMItjriDWiOW4F.png?width=640&crop=smart&auto=webp&s=9ffd72512f58e21a447786523e888af0bb1942f4"
-      },
-      {
-        "rank": 4,
-        "title": "The final benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1wmsdag/the_final_benchmark/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T23:00:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w6chmxw4fyqh1.jpeg?width=640&crop=smart&auto=webp&s=acd43e7be6558e4bbf2d851fe84e86692f1c44aa"
-      },
-      {
-        "rank": 5,
-        "title": "Quite a few new model releases expected this week, latest rumors attached",
-        "url": "https://www.reddit.com/r/singularity/comments/1wme7xj/quite_a_few_new_model_releases_expected_this_week/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T14:22:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uu4ricymuvqh1.jpeg?width=640&crop=smart&auto=webp&s=1aa510faf5572d73d95a3211ba84a699064fd3d7"
       }
     ]
   }

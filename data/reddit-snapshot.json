@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-09-21T22:47:13.027Z",
+  "fetchedAt": "2026-09-22T01:32:42.789Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-21T10:55:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Concerns about the ICLR review policy [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wm1crj/concerns_about_the_iclr_review_policy_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-21T03:21:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-21T19:44:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-21T14:43:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Systems for Machine Learning[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wme6lx/systems_for_machine_learningd/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-21T14:21:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Yes. LinkedIn Park is back.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wmfw0h/yes_linkedin_park_is_back/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T15:24:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OHFldzdtYm80d3FoMSmZ7-ObU5O10952wwi6Wq8dAVkgFK-0EKnBS2GEOKOD.png?width=640&crop=smart&auto=webp&s=04361760f307c15d3a4df71dd793ffa37b30cdb7"
+      },
+      {
+        "rank": 2,
+        "title": "🚨 AI may be entering a completely different phase.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wmq961/ai_may_be_entering_a_completely_different_phase/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T21:36:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/77zlq7o10yqh1.jpeg?width=640&crop=smart&auto=webp&s=12d4e37a6446ddd768fc947c272d6eaa54f5ccf5"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI on GPT Adult Mode: \"OpenAI has acknowledged this as an area worth exploring.\" (2026/08/18)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wmqgv0/openai_on_gpt_adult_mode_openai_has_acknowledged/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T21:44:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AI VFX are getting scary good",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wmeypn/ai_vfx_are_getting_scary_good/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T14:50:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OHZqNG5ydmp6dnFoMRJazpZoV401y1gpdeE8m1BjKVhsfACHG6KSKmoeksLG.png?width=640&crop=smart&auto=webp&s=df0211c068b299beb83338c6ad64cfef4296365e"
+      },
+      {
+        "rank": 5,
+        "title": "Sorry, game theoretically impossible.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wm8ky6/sorry_game_theoretically_impossible/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-21T10:06:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/dw8n7shskuqh1.png?width=320&crop=smart&auto=webp&s=9b2a8d3f14dd2f40d6e00d793cdc1bc1431a6582"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI solved 100 open problems in math",
+        "url": "https://www.reddit.com/r/singularity/comments/1wml775/openai_solved_100_open_problems_in_math/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-21T18:32:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/mdgd9EJR9Uz8EYL2IprKCUvNnhrHhlW_RdbiQuaDDfg.png?width=640&crop=smart&auto=webp&s=1efdd854313071032cbbf02f91b9703a4365f26a"
+      },
+      {
+        "rank": 2,
+        "title": "Open AI robotics hiring is surging up and fast",
+        "url": "https://www.reddit.com/r/singularity/comments/1wlzifs/open_ai_robotics_hiring_is_surging_up_and_fast/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-21T01:52:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yz12wdcv4sqh1.jpeg?width=640&crop=smart&auto=webp&s=e04e3cbb57d2038db69babf281edcdd5dc609373"
+      },
+      {
+        "rank": 3,
+        "title": "Impressive SVG animation made by Opus 5.5 (zero shot)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wmjzrr/impressive_svg_animation_made_by_opus_55_zero_shot/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-21T17:49:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OGxocGpoeGF2d3FoMZzZZ37a4jxHu1Cr-yoOvN4L5C4aTrQMItjriDWiOW4F.png?width=640&crop=smart&auto=webp&s=9ffd72512f58e21a447786523e888af0bb1942f4"
+      },
+      {
+        "rank": 4,
+        "title": "Quite a few new model releases expected this week, latest rumors attached",
+        "url": "https://www.reddit.com/r/singularity/comments/1wme7xj/quite_a_few_new_model_releases_expected_this_week/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-21T14:22:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uu4ricymuvqh1.jpeg?width=640&crop=smart&auto=webp&s=1aa510faf5572d73d95a3211ba84a699064fd3d7"
+      },
+      {
+        "rank": 5,
+        "title": "[Leaks] GPT-6 Is Already Legacy Software. SHIP 6.1. 🚀",
+        "url": "https://www.reddit.com/r/singularity/comments/1wmhm7h/leaks_gpt6_is_already_legacy_software_ship_61/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-21T16:25:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t86fwfzlgwqh1.jpeg?width=640&crop=smart&auto=webp&s=54d68c2a3b3627c9c184379db3e2fc3b5af7e7a8"
+      },
       {
         "rank": 1,
         "title": "I am done with this shit.",
@@ -55,51 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-21T10:55:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Concerns about the ICLR review policy [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wm1crj/concerns_about_the_iclr_review_policy_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-21T03:21:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-21T19:44:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "For NeurIPS: Is Paris or Syndey better for networking with U.S. tech companies? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wmesj1/for_neurips_is_paris_or_syndey_better_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-21T14:43:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Systems for Machine Learning[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wme6lx/systems_for_machine_learningd/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-21T14:21:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Since our baby tracking turned to a subscription app I used codex to build a 100% free version.",
         "url": "https://www.reddit.com/r/codex/comments/1wm0pgh/since_our_baby_tracking_turned_to_a_subscription/",
         "source": "r/codex",
@@ -146,104 +245,6 @@
         "publishedAt": "2026-09-21T16:16:52.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/vftpbwq1fwqh1.jpeg?width=640&crop=smart&auto=webp&s=635c6eb4830ef60b82a8f6314e0d2af065fd2661"
-      },
-      {
-        "rank": 1,
-        "title": "Trump brutally mocked over bizarre effort to rename AI 'superior' or 'extreme' intelligence",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wlt52p/trump_brutally_mocked_over_bizarre_effort_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T21:13:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/FRTPOKX-xhTgJIYT26hRYIEqKFHbDSIFxXfTP9jc6ag.jpeg?width=640&crop=smart&auto=webp&s=832eaaca05c6850b9d6a5d72fd833e184516f4d1"
-      },
-      {
-        "rank": 2,
-        "title": "is astra 6 supposed to do this?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wlu25t/is_astra_6_supposed_to_do_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T21:51:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Yes. LinkedIn Park is back.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wmfw0h/yes_linkedin_park_is_back/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T15:24:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OHFldzdtYm80d3FoMSmZ7-ObU5O10952wwi6Wq8dAVkgFK-0EKnBS2GEOKOD.png?width=640&crop=smart&auto=webp&s=04361760f307c15d3a4df71dd793ffa37b30cdb7"
-      },
-      {
-        "rank": 4,
-        "title": "AI VFX are getting scary good",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wmeypn/ai_vfx_are_getting_scary_good/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-21T14:50:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OHZqNG5ydmp6dnFoMRJazpZoV401y1gpdeE8m1BjKVhsfACHG6KSKmoeksLG.png?width=640&crop=smart&auto=webp&s=df0211c068b299beb83338c6ad64cfef4296365e"
-      },
-      {
-        "rank": 5,
-        "title": "we open sourced a 27b model that just does creative writing",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wlrpoc/we_open_sourced_a_27b_model_that_just_does/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-20T20:19:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Open AI robotics hiring is surging up and fast",
-        "url": "https://www.reddit.com/r/singularity/comments/1wlzifs/open_ai_robotics_hiring_is_surging_up_and_fast/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T01:52:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yz12wdcv4sqh1.jpeg?width=640&crop=smart&auto=webp&s=e04e3cbb57d2038db69babf281edcdd5dc609373"
-      },
-      {
-        "rank": 2,
-        "title": "China Is Doing About 30 Times More Agricultural Drone Work Than The U.S.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wlsgdk/china_is_doing_about_30_times_more_agricultural/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-20T20:47:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nOFvTihEYvgzxmxk-PO1_E1-s6bUk1ZSJLHRE1BqUio.jpeg?width=640&crop=smart&auto=webp&s=cca591ad7e3d6f53c4c8282b54933b79d8a5c19f"
-      },
-      {
-        "rank": 3,
-        "title": "Quite a few new model releases expected this week, latest rumors attached",
-        "url": "https://www.reddit.com/r/singularity/comments/1wme7xj/quite_a_few_new_model_releases_expected_this_week/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T14:22:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uu4ricymuvqh1.jpeg?width=640&crop=smart&auto=webp&s=1aa510faf5572d73d95a3211ba84a699064fd3d7"
-      },
-      {
-        "rank": 4,
-        "title": "Introducing Grok 4.7",
-        "url": "https://www.reddit.com/r/singularity/comments/1wmgudm/introducing_grok_47/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T15:58:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/KwPNJ5CI4N1lqPEcCwsDunBYJS6do-n9SKUBY_eqf-4.jpeg?width=640&crop=smart&auto=webp&s=5f542e9247471ed9d2392452370d40b74805f064"
-      },
-      {
-        "rank": 5,
-        "title": "[Leaks] GPT-6 Is Already Legacy Software. SHIP 6.1. 🚀",
-        "url": "https://www.reddit.com/r/singularity/comments/1wmhm7h/leaks_gpt6_is_already_legacy_software_ship_61/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-21T16:25:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t86fwfzlgwqh1.jpeg?width=640&crop=smart&auto=webp&s=54d68c2a3b3627c9c184379db3e2fc3b5af7e7a8"
       }
     ]
   }

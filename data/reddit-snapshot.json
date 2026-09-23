@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T04:04:43.140Z",
+  "fetchedAt": "2026-09-23T09:28:46.021Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Xiaomi releases MiMo-V2.6: \"Frontier intelligence, all the modalities, built in public.\" [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-22T07:56:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/89uurv5r21rh1.png?width=140&height=56&auto=webp&s=65bbdc4b681bf9bcbc72fdb28be01ff42404f8ac"
-      },
-      {
-        "rank": 2,
         "title": "Understanding and Enhancing Kimi Delta Attention [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wn5uv9/understanding_and_enhancing_kimi_delta_attention_r/",
         "source": "r/MachineLearning",
@@ -26,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/v7oqopy3v1rh1.gif?frame=1&width=140&height=140&auto=webp&s=e5a3fafa125d82696dd092844108cc6917ec33c6"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
         "source": "r/MachineLearning",
@@ -36,7 +26,7 @@
         "thumbnail": "https://preview.redd.it/n5k7nncup3rh1.jpeg?width=640&crop=smart&auto=webp&s=d5b386f7f3101c41e4662eb2c7de6249f1bb9c38"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "LinearSolveBench: new benchmark for linear solvers [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnctam/linearsolvebench_new_benchmark_for_linear_solvers/",
         "source": "r/MachineLearning",
@@ -45,7 +35,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
         "source": "r/MachineLearning",
@@ -54,17 +44,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Introducing GPT-6 Sol and Luna",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wngyux/introducing_gpt6_sol_and_luna/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "QontoFAQ: A better Information Retrieval Benchmark [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wn9xqk/qontofaq_a_better_information_retrieval_benchmark/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-22T18:04:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
+        "publishedAt": "2026-09-22T13:45:18.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Sir, Dario just dropped opus 5.5 and it beats GPT-6 astra at agentic coding on medium effort while being 80% cheaper… beats fable 5.1 on every benchmark… 30% faster than opus 5… and sir… they even raised the usage limits and gifted everyone a tibo style banked reset…",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wnq2cb/sir_dario_just_dropped_opus_55_and_it_beats_gpt6/",
         "source": "r/OpenAI",
@@ -72,6 +61,16 @@
         "publishedAt": "2026-09-22T23:52:52.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ujk0aq0bt5rh1.jpeg?width=640&crop=smart&auto=webp&s=5bedf81746fdb9d7a48da6baee3f1ae0301939a0"
+      },
+      {
+        "rank": 2,
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wngyux/introducing_gpt6_sol_and_luna/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-22T18:04:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
       },
       {
         "rank": 3,
@@ -105,36 +104,6 @@
       },
       {
         "rank": 1,
-        "title": "Introducing GPT-6 Sol and Luna",
-        "url": "https://www.reddit.com/r/singularity/comments/1wngzou/introducing_gpt6_sol_and_luna/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-22T18:04:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
-      },
-      {
-        "rank": 2,
-        "title": "Claude Opus 5.5 Benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-22T16:29:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/if5xd3a5m3rh1.png?width=640&crop=smart&auto=webp&s=5bf5b771788abfe52ef1081ac9044d7b2b7e6523"
-      },
-      {
-        "rank": 3,
-        "title": "Introducing Claude Opus 5.5, 40% Cheaper and Smarter Than Ever Before",
-        "url": "https://www.reddit.com/r/singularity/comments/1wne89f/introducing_claude_opus_55_40_cheaper_and_smarter/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-22T16:26:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/UXEA3jVaz8YlHo6cK480hp5l3TH1uV_-i8SLhzt8yio.jpeg?width=640&crop=smart&auto=webp&s=fabf7828bb15c2ab3036efc82bf2af09e86fa3c4"
-      },
-      {
-        "rank": 4,
         "title": "The race for AGI",
         "url": "https://www.reddit.com/r/singularity/comments/1wnn1p8/the_race_for_agi/",
         "source": "r/singularity",
@@ -144,14 +113,44 @@
         "thumbnail": "https://external-preview.redd.it/ZXltbGpkMW82NXJoMVo9ISqdZLx6_P3K67NidX21V9DjpyY5MCUGflAAOyGq.png?width=640&crop=smart&auto=webp&s=2b7e8377f20085c2627456ff7c9e29ed519eb595"
       },
       {
-        "rank": 5,
-        "title": "Opus 5.5 built this",
-        "url": "https://www.reddit.com/r/singularity/comments/1wngd2w/opus_55_built_this/",
+        "rank": 2,
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://www.reddit.com/r/singularity/comments/1wngzou/introducing_gpt6_sol_and_luna/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-22T17:42:45.000Z",
+        "publishedAt": "2026-09-22T18:04:48.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YTB6ODloeTd6M3JoMTsb74G-oDx7dH40qNS_0y6un0Aj5zCNGqtDffoNGenU.png?width=640&crop=smart&auto=webp&s=25115d724e1f87f4091dc4fbf1e4b740bf1e2a2f"
+        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
+      },
+      {
+        "rank": 3,
+        "title": "Claude Opus 5.5 Benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:29:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/if5xd3a5m3rh1.png?width=640&crop=smart&auto=webp&s=5bf5b771788abfe52ef1081ac9044d7b2b7e6523"
+      },
+      {
+        "rank": 4,
+        "title": "Introducing Claude Opus 5.5, 40% Cheaper and Smarter Than Ever Before",
+        "url": "https://www.reddit.com/r/singularity/comments/1wne89f/introducing_claude_opus_55_40_cheaper_and_smarter/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T16:26:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/UXEA3jVaz8YlHo6cK480hp5l3TH1uV_-i8SLhzt8yio.jpeg?width=640&crop=smart&auto=webp&s=fabf7828bb15c2ab3036efc82bf2af09e86fa3c4"
+      },
+      {
+        "rank": 5,
+        "title": "Update on where we are currently",
+        "url": "https://www.reddit.com/r/singularity/comments/1wnfwet/update_on_where_we_are_currently/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-22T17:26:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f9ziz8ctv3rh1.png?width=640&crop=smart&auto=webp&s=33ef612d431989a8bade49e19bb23d681246d02b"
       },
       {
         "rank": 1,

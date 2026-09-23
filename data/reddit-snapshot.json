@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-23T18:33:43.811Z",
+  "fetchedAt": "2026-09-23T22:09:48.811Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -44,16 +44,6 @@
       },
       {
         "rank": 2,
-        "title": "Opus 5.5 and GPT-6 Sol dropped on the same day, so I lined up every benchmark I could find",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wnk30g/opus_55_and_gpt6_sol_dropped_on_the_same_day_so_i/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T19:55:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6fzx59nym4rh1.png?width=640&crop=smart&auto=webp&s=07677454a547aa14c2b2f0ece7452e50d02d6654"
-      },
-      {
-        "rank": 3,
         "title": "Luna 6 is a massive downgrade over Luna 5.6. Misses crucial details, less helpful than 5.6 Luna",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wnxg0n/luna_6_is_a_massive_downgrade_over_luna_56_misses/",
         "source": "r/OpenAI",
@@ -62,7 +52,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "The most concise explanation of the Hugging Face attack I've heard",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wo5nb6/the_most_concise_explanation_of_the_hugging_face/",
         "source": "r/OpenAI",
@@ -72,7 +62,7 @@
         "thumbnail": "https://external-preview.redd.it/dmd6NHpjcDBzOXJoMWDgf6bEAeBUMqCGdVO3FG04TihvBp5iCBmd9bG_BSFY.png?width=640&crop=smart&auto=webp&s=5c006bb6cb2848c72a0ff56423aa46a497606248"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "OpenAI rolls out upgraded prompt caching and reduced cached input rates for GPT-6",
         "url": "https://www.reddit.com/r/OpenAI/comments/1woal22/openai_rolls_out_upgraded_prompt_caching_and/",
         "source": "r/OpenAI",
@@ -82,17 +72,17 @@
         "thumbnail": "https://external-preview.redd.it/bc5tmofE01XSLeFfeYyi696-R0lx7A7KFt71W_QlSoo.png?width=640&crop=smart&auto=webp&s=4a6815c8d9844b89e5fb19e5617ec8d5ff27cee8"
       },
       {
-        "rank": 1,
-        "title": "The race for AGI",
-        "url": "https://www.reddit.com/r/singularity/comments/1wnn1p8/the_race_for_agi/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "People don't get how huge the AI companies are now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wo5rze/people_dont_get_how_huge_the_ai_companies_are_now/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-22T21:45:54.000Z",
+        "publishedAt": "2026-09-23T13:18:17.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZXltbGpkMW82NXJoMVo9ISqdZLx6_P3K67NidX21V9DjpyY5MCUGflAAOyGq.png?width=640&crop=smart&auto=webp&s=2b7e8377f20085c2627456ff7c9e29ed519eb595"
+        "thumbnail": "https://preview.redd.it/b81ct35is9rh1.png?width=640&crop=smart&auto=webp&s=b5009402d1ddf7132b34457d82f3b917f7b8846e"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Looking back at how it all started: vibe coding with GPT-3 in 2020",
         "url": "https://www.reddit.com/r/singularity/comments/1wo3crl/looking_back_at_how_it_all_started_vibe_coding/",
         "source": "r/singularity",
@@ -102,17 +92,17 @@
         "thumbnail": "https://external-preview.redd.it/enM2NW1scW9xOHJoMd3RHHGdJyuTVQE2XuewVIt8_5GOuHpBrvBKuLXPe-5j.png?width=640&crop=smart&auto=webp&s=eaebfb490afb5d04c02d805a7b99ec1b65caf2f2"
       },
       {
-        "rank": 3,
-        "title": "GPT-6 Astra just made a leap in musical reasoning: it wrote a complex four-part Bach-style piece with no harmony-rule errors and techniques no previous AI managed",
-        "url": "https://www.reddit.com/r/singularity/comments/1wnjtqa/gpt6_astra_just_made_a_leap_in_musical_reasoning/",
+        "rank": 2,
+        "title": "Claude discovered a novel enzyme system with properties reminiscent of CRISPR",
+        "url": "https://www.reddit.com/r/singularity/comments/1woe138/claude_discovered_a_novel_enzyme_system_with/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-22T19:46:08.000Z",
+        "publishedAt": "2026-09-23T18:27:22.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gtk5y7ual4rh1.jpeg?width=640&crop=smart&auto=webp&s=751d3a41c207a14a60b61076fabb29d7a9eca045"
+        "thumbnail": "https://external-preview.redd.it/6GC1dfRvYsUVbj9GrosgvLOCtBnmgKcAQ_YCmbwFA3A.jpeg?width=640&crop=smart&auto=webp&s=c179c72577cecb4fbce878a2a2450f45eab6c479"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "By opus 5.5.",
         "url": "https://www.reddit.com/r/singularity/comments/1wnw1dl/by_opus_55/",
         "source": "r/singularity",
@@ -122,14 +112,24 @@
         "thumbnail": "https://external-preview.redd.it/eXByYzZrNXc2N3JoMRA6TvTK_bHEYBTe3QC8cTjBq5EiWROshH_bX98yQn3s.png?width=640&crop=smart&auto=webp&s=cec933f44bd6592acaf36ed6bb02e1adcf64fdd3"
       },
       {
-        "rank": 5,
-        "title": "Opus 5.5 makes a Lanterns Festival",
-        "url": "https://www.reddit.com/r/singularity/comments/1wnt8cj/opus_55_makes_a_lanterns_festival/",
+        "rank": 4,
+        "title": "Cmon Do Something",
+        "url": "https://www.reddit.com/r/singularity/comments/1wo23em/cmon_do_something/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-23T02:14:10.000Z",
+        "publishedAt": "2026-09-23T10:22:53.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmh4MnJ5c3hoNnJoMaCa1MgwH2Ebv5laFz9EnSRj6rxP9lnqwXDFA10BW_am.png?width=640&crop=smart&auto=webp&s=8d0b9a2f8a1da39ea1ed0f616c351f9c97055403"
+        "thumbnail": "https://preview.redd.it/v6s8z9zpx8rh1.jpeg?width=640&crop=smart&auto=webp&s=5bd2e346256d835c62c96a3a2b1ac52b27ab08d4"
+      },
+      {
+        "rank": 5,
+        "title": "The moment Claude agents discover a new molecular mechanism, talking as if they were human, using interjections and cues",
+        "url": "https://www.reddit.com/r/singularity/comments/1wognfz/the_moment_claude_agents_discover_a_new_molecular/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-23T20:03:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9wqrcc4etbrh1.jpeg?width=640&crop=smart&auto=webp&s=a15181800e7399cf5403451aaddcd5088993be1a"
       },
       {
         "rank": 1,

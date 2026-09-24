@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-23T22:09:48.811Z",
+  "fetchedAt": "2026-09-24T00:47:07.281Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "OPUS 5.5 IS THE NEW 4.6!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo9lbs/opus_55_is_the_new_46/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T15:44:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Made entirely with Opus 5.5 + $3.21 of OpenRouter API usage",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T19:50:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YTJoeGViYnFvYnJoMVzpZx9DHHOWDluCIdRP_p3OFPT1rpiTD5wVbSNbeAWR.png?width=640&crop=smart&auto=webp&s=62f99b35c708f919d7e9af7fc81f86c054094ec0"
+      },
+      {
+        "rank": 3,
+        "title": "Stupid question - if Opus 5.5 is better than Fable 5.1, why would we ever use Fable 5.1?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnxeql/stupid_question_if_opus_55_is_better_than_fable/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T05:46:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AI still has its moments!!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wo917e/ai_still_has_its_moments/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T15:24:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8srnm2kgfarh1.jpeg?width=640&crop=smart&auto=webp&s=04bce891b50a3e595833ebff374d85c899e1bad7"
+      },
+      {
+        "rank": 5,
+        "title": "I do scientific research and Opus5.5 refuses to touch anything I’ve been working on.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnuko4/i_do_scientific_research_and_opus55_refuses_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T03:17:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/knmrangst6rh1.jpeg?width=640&crop=smart&auto=webp&s=c0e320a8d9b4233e732628239ae8ac314337d8a9"
+      },
       {
         "rank": 1,
         "title": "NeurIPS Author Notifications Tomorrow [D]",
@@ -31,6 +79,53 @@
         "score": 0,
         "publishedAt": "2026-09-23T07:59:39.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Sol 6 is a slop fest",
+        "url": "https://www.reddit.com/r/codex/comments/1wnto0j/sol_6_is_a_slop_fest/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-23T02:34:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Copex",
+        "url": "https://www.reddit.com/r/codex/comments/1wo0mmf/copex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-23T08:57:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pu1bj615i8rh1.png?width=640&crop=smart&auto=webp&s=51504bda6900aadf4ae569e5cdff239cedd29a1b"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Sol is just GPT-6 Terra renamed as Sol",
+        "url": "https://www.reddit.com/r/codex/comments/1wnrh08/gpt6_sol_is_just_gpt6_terra_renamed_as_sol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-23T00:54:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Codex is in a really bad spot right now. Opus 5.5 > all OpenAI's models for coding, and much more generous rate limits",
+        "url": "https://www.reddit.com/r/codex/comments/1wnx6ww/codex_is_in_a_really_bad_spot_right_now_opus_55/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-23T05:33:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Okay, they literally cut our quota by half. GPT 6 Sol got hit too.",
+        "url": "https://www.reddit.com/r/codex/comments/1wo8fhw/okay_they_literally_cut_our_quota_by_half_gpt_6/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-23T15:01:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/phdz8o6cbarh1.png?width=140&height=20&auto=webp&s=133109c2dd911e0c0b3ccfc757d6d17f61fae641"
       },
       {
         "rank": 1,
@@ -130,105 +225,6 @@
         "publishedAt": "2026-09-23T20:03:58.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9wqrcc4etbrh1.jpeg?width=640&crop=smart&auto=webp&s=a15181800e7399cf5403451aaddcd5088993be1a"
-      },
-      {
-        "rank": 1,
-        "title": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnecg9/introducing_claude_opus_55_the_first_model_in_our/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T16:31:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Nm1rd3I5MjRqM3JoMS8Q9v2odZGoaz4Fhrr481TgTjyvMJUe2cj51hJetSf4.png?width=640&crop=smart&auto=webp&s=a144cfe9ed4db6a4ae321bf4a42fb1ead215d85c"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5.5 is 40% cheaper while being 30% faster than opus 5.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnf7sb/opus_55_is_40_cheaper_while_being_30_faster_than/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T17:02:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kpauvtq3s3rh1.jpeg?width=640&crop=smart&auto=webp&s=81f47b3a94447c2d056c9688ebe68cb31bbc3d58"
-      },
-      {
-        "rank": 3,
-        "title": "If Opus 5.5 releases today, what are the biggest improvements you hope it will bring?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wn72p0/if_opus_55_releases_today_what_are_the_biggest/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T11:38:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Did Anthropic just find a new way to benchmax Opus 5.5 without actually giving subscribers that performance?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wnejyx/did_anthropic_just_find_a_new_way_to_benchmax/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T16:38:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rmsgatzzm3rh1.png?width=140&height=106&auto=webp&s=a078e38f6b51061b4b5fb878974028989f3a9266"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5.5 in the release notes",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wndzf3/opus_55_in_the_release_notes/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T16:17:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s7st73m3k3rh1.png?width=640&crop=smart&auto=webp&s=f3872c73d47b8929b121299a5fb4b1b24265a7d4"
-      },
-      {
-        "rank": 1,
-        "title": "New models and a reset landed",
-        "url": "https://www.reddit.com/r/codex/comments/1wnhkmv/new_models_and_a_reset_landed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-22T18:25:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xfuutraz64rh1.jpeg?width=640&crop=smart&auto=webp&s=594422ca7ad3b74a31ec71c2b39e93260f4488c9"
-      },
-      {
-        "rank": 2,
-        "title": "Reset Tuesday",
-        "url": "https://www.reddit.com/r/codex/comments/1wmzqdi/reset_tuesday/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-22T04:40:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jmzi02jn30rh1.jpeg?width=640&crop=smart&auto=webp&s=eabe1ddf106dac59a3277f28808cb12a37801639"
-      },
-      {
-        "rank": 3,
-        "title": "The ugly truth",
-        "url": "https://www.reddit.com/r/codex/comments/1wmpy6x/the_ugly_truth/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-21T21:24:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hsm9jf60yxqh1.jpeg?width=640&crop=smart&auto=webp&s=179777236c33eaf7a98b6efefa0bbd65d1d42c01"
-      },
-      {
-        "rank": 4,
-        "title": "Gpt 6 sol and luna",
-        "url": "https://www.reddit.com/r/codex/comments/1wnh5j8/gpt_6_sol_and_luna/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-22T18:10:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4"
-      },
-      {
-        "rank": 5,
-        "title": "So is it the time to switch to claude?",
-        "url": "https://www.reddit.com/r/codex/comments/1wnf4pn/so_is_it_the_time_to_switch_to_claude/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-22T16:59:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dif1gbclr3rh1.jpeg?width=640&crop=smart&auto=webp&s=c13b7c31ffc56980dafead35214f4d996ae6b410"
       }
     ]
   }

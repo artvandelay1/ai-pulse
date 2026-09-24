@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-09-24T00:47:07.281Z",
+  "fetchedAt": "2026-09-24T05:58:42.731Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "NeurIPS Author Notifications Tomorrow [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wo3kr4/neurips_author_notifications_tomorrow_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-23T11:39:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "EACL Reviewers no response [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1woox4w/eacl_reviewers_no_response_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-24T01:55:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I’m not sure which education path to choose [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wocrgu/im_not_sure_which_education_path_to_choose_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-23T17:40:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS Decisions in Some Hourse to a Day [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1worn3k/neurips_decisions_in_some_hourse_to_a_day_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-24T04:09:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How do you split AI models across ideation, math, and coding?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnzols/how_do_you_split_ai_models_across_ideation_math/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-23T07:59:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "The most concise explanation of the Hugging Face attack I've heard",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wo5nb6/the_most_concise_explanation_of_the_hugging_face/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T13:12:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dmd6NHpjcDBzOXJoMWDgf6bEAeBUMqCGdVO3FG04TihvBp5iCBmd9bG_BSFY.png?width=640&crop=smart&auto=webp&s=5c006bb6cb2848c72a0ff56423aa46a497606248"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI rolls out upgraded prompt caching and reduced cached input rates for GPT-6",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1woal22/openai_rolls_out_upgraded_prompt_caching_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T16:21:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bc5tmofE01XSLeFfeYyi696-R0lx7A7KFt71W_QlSoo.png?width=640&crop=smart&auto=webp&s=4a6815c8d9844b89e5fb19e5617ec8d5ff27cee8"
+      },
+      {
+        "rank": 3,
+        "title": "Billionaire Reddit CEO Steve Huffman says his company will 'go heavy' on hiring graduates because 'they're so much more AI native' than older peers. | Biography | Fortune.com",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wolc31/billionaire_reddit_ceo_steve_huffman_says_his/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T23:13:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI researchers might be spending >$4m/day on tokens (at API prices)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1woct12/openai_researchers_might_be_spending_4mday_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T17:41:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "People don't get how huge the AI companies are now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wo5rze/people_dont_get_how_huge_the_ai_companies_are_now/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-23T13:18:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b81ct35is9rh1.png?width=640&crop=smart&auto=webp&s=b5009402d1ddf7132b34457d82f3b917f7b8846e"
+      },
+      {
+        "rank": 1,
+        "title": "I asked Claude to show me the inside of its own mind. Built by Opus 5.5",
+        "url": "https://www.reddit.com/r/singularity/comments/1wok9tq/i_asked_claude_to_show_me_the_inside_of_its_own/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-23T22:27:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Njgyd3pudHppY3JoMajgGE3kxqe87pyF0CzL1SCmxG7K7PBKDXTbzoUtozlI.png?width=640&crop=smart&auto=webp&s=cc41b7677d123776f5b17799085542b04a884208"
+      },
+      {
+        "rank": 2,
+        "title": "Claude discovered a novel enzyme system with properties reminiscent of CRISPR",
+        "url": "https://www.reddit.com/r/singularity/comments/1woe138/claude_discovered_a_novel_enzyme_system_with/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-23T18:27:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/6GC1dfRvYsUVbj9GrosgvLOCtBnmgKcAQ_YCmbwFA3A.jpeg?width=640&crop=smart&auto=webp&s=c179c72577cecb4fbce878a2a2450f45eab6c479"
+      },
+      {
+        "rank": 3,
+        "title": "Looking back at how it all started: vibe coding with GPT-3 in 2020",
+        "url": "https://www.reddit.com/r/singularity/comments/1wo3crl/looking_back_at_how_it_all_started_vibe_coding/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-23T11:28:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/enM2NW1scW9xOHJoMd3RHHGdJyuTVQE2XuewVIt8_5GOuHpBrvBKuLXPe-5j.png?width=640&crop=smart&auto=webp&s=eaebfb490afb5d04c02d805a7b99ec1b65caf2f2"
+      },
+      {
+        "rank": 4,
+        "title": "The moment Claude agents discover a new molecular mechanism, talking as if they were human, using interjections and cues",
+        "url": "https://www.reddit.com/r/singularity/comments/1wognfz/the_moment_claude_agents_discover_a_new_molecular/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-23T20:03:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9wqrcc4etbrh1.jpeg?width=640&crop=smart&auto=webp&s=a15181800e7399cf5403451aaddcd5088993be1a"
+      },
+      {
+        "rank": 5,
+        "title": "New benchmark just dropped.",
+        "url": "https://www.reddit.com/r/singularity/comments/1woj6x6/new_benchmark_just_dropped/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-23T21:42:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8cwifnzyacrh1.jpeg?width=640&crop=smart&auto=webp&s=9f9e2f9ce86de655696707c1bdaaf74c527338d6"
+      },
       {
         "rank": 1,
         "title": "OPUS 5.5 IS THE NEW 4.6!",
@@ -55,33 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "NeurIPS Author Notifications Tomorrow [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wo3kr4/neurips_author_notifications_tomorrow_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-23T11:39:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ICLR main paper + Supplementary in 1 submission [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnry1d/iclr_main_paper_supplementary_in_1_submission_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-23T01:15:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How do you split AI models across ideation, math, and coding?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wnzols/how_do_you_split_ai_models_across_ideation_math/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-23T07:59:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Sol 6 is a slop fest",
         "url": "https://www.reddit.com/r/codex/comments/1wnto0j/sol_6_is_a_slop_fest/",
         "source": "r/codex",
@@ -126,105 +242,6 @@
         "publishedAt": "2026-09-23T15:01:37.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/phdz8o6cbarh1.png?width=140&height=20&auto=webp&s=133109c2dd911e0c0b3ccfc757d6d17f61fae641"
-      },
-      {
-        "rank": 1,
-        "title": "Sir, Dario just dropped opus 5.5 and it beats GPT-6 astra at agentic coding on medium effort while being 80% cheaper… beats fable 5.1 on every benchmark… 30% faster than opus 5… and sir… they even raised the usage limits and gifted everyone a tibo style banked reset…",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wnq2cb/sir_dario_just_dropped_opus_55_and_it_beats_gpt6/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-22T23:52:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ujk0aq0bt5rh1.jpeg?width=640&crop=smart&auto=webp&s=5bedf81746fdb9d7a48da6baee3f1ae0301939a0"
-      },
-      {
-        "rank": 2,
-        "title": "Luna 6 is a massive downgrade over Luna 5.6. Misses crucial details, less helpful than 5.6 Luna",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wnxg0n/luna_6_is_a_massive_downgrade_over_luna_56_misses/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-23T05:48:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "The most concise explanation of the Hugging Face attack I've heard",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wo5nb6/the_most_concise_explanation_of_the_hugging_face/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-23T13:12:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmd6NHpjcDBzOXJoMWDgf6bEAeBUMqCGdVO3FG04TihvBp5iCBmd9bG_BSFY.png?width=640&crop=smart&auto=webp&s=5c006bb6cb2848c72a0ff56423aa46a497606248"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI rolls out upgraded prompt caching and reduced cached input rates for GPT-6",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1woal22/openai_rolls_out_upgraded_prompt_caching_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-23T16:21:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bc5tmofE01XSLeFfeYyi696-R0lx7A7KFt71W_QlSoo.png?width=640&crop=smart&auto=webp&s=4a6815c8d9844b89e5fb19e5617ec8d5ff27cee8"
-      },
-      {
-        "rank": 5,
-        "title": "People don't get how huge the AI companies are now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wo5rze/people_dont_get_how_huge_the_ai_companies_are_now/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-23T13:18:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b81ct35is9rh1.png?width=640&crop=smart&auto=webp&s=b5009402d1ddf7132b34457d82f3b917f7b8846e"
-      },
-      {
-        "rank": 1,
-        "title": "Looking back at how it all started: vibe coding with GPT-3 in 2020",
-        "url": "https://www.reddit.com/r/singularity/comments/1wo3crl/looking_back_at_how_it_all_started_vibe_coding/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-23T11:28:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/enM2NW1scW9xOHJoMd3RHHGdJyuTVQE2XuewVIt8_5GOuHpBrvBKuLXPe-5j.png?width=640&crop=smart&auto=webp&s=eaebfb490afb5d04c02d805a7b99ec1b65caf2f2"
-      },
-      {
-        "rank": 2,
-        "title": "Claude discovered a novel enzyme system with properties reminiscent of CRISPR",
-        "url": "https://www.reddit.com/r/singularity/comments/1woe138/claude_discovered_a_novel_enzyme_system_with/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-23T18:27:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/6GC1dfRvYsUVbj9GrosgvLOCtBnmgKcAQ_YCmbwFA3A.jpeg?width=640&crop=smart&auto=webp&s=c179c72577cecb4fbce878a2a2450f45eab6c479"
-      },
-      {
-        "rank": 3,
-        "title": "By opus 5.5.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wnw1dl/by_opus_55/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-23T04:31:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eXByYzZrNXc2N3JoMRA6TvTK_bHEYBTe3QC8cTjBq5EiWROshH_bX98yQn3s.png?width=640&crop=smart&auto=webp&s=cec933f44bd6592acaf36ed6bb02e1adcf64fdd3"
-      },
-      {
-        "rank": 4,
-        "title": "Cmon Do Something",
-        "url": "https://www.reddit.com/r/singularity/comments/1wo23em/cmon_do_something/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-23T10:22:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v6s8z9zpx8rh1.jpeg?width=640&crop=smart&auto=webp&s=5bd2e346256d835c62c96a3a2b1ac52b27ab08d4"
-      },
-      {
-        "rank": 5,
-        "title": "The moment Claude agents discover a new molecular mechanism, talking as if they were human, using interjections and cues",
-        "url": "https://www.reddit.com/r/singularity/comments/1wognfz/the_moment_claude_agents_discover_a_new_molecular/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-23T20:03:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9wqrcc4etbrh1.jpeg?width=640&crop=smart&auto=webp&s=a15181800e7399cf5403451aaddcd5088993be1a"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T12:55:48.298Z",
+  "fetchedAt": "2026-09-25T17:52:08.694Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "NeurIPS Accepted Papers are now visible [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurips_accepted_papers_are_now_visible_r/",
-        "source": "r/MachineLearning",
+        "title": "Testing Claude for 3D creation. Max took a whole hour, but just look at the result 👀",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpq8by/testing_claude_for_3d_creation_max_took_a_whole/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-24T16:41:33.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-25T07:46:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Mm1yM240NmNmbXJoMdF00EdoaDd7FaHIxaO-zD2kOh2OQKprknKMIFmFkll5.png?width=640&crop=smart&auto=webp&s=c3e96972bb80c6756893419c70f7ffa1e1c3c7e2"
       },
       {
         "rank": 2,
+        "title": "Real talk: If Anthropic never nerfs Opus 5.5, I will keep my Max subscription for years...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpluhu/real_talk_if_anthropic_never_nerfs_opus_55_i_will/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-25T03:30:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How did they do it?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpdyms/how_did_they_do_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T21:19:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Opus 5.5 Mad defeats Astra 🔥",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpb5hd/claude_opus_55_mad_defeats_astra/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T19:29:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/80ozbzp2sirh1.jpeg?width=640&crop=smart&auto=webp&s=203a1eff77851e584d8e1c887f7f7722bbd668e9"
+      },
+      {
+        "rank": 5,
+        "title": "I gave Opus 5.5 four reference images and \"build this game\". It built a full 3D chess roguelite in Godot by itself.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp8uxb/i_gave_opus_55_four_reference_images_and_build/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T18:02:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ajBscWFkdzRjaXJoMWhMJ__qCVj58mTHor4S9LtPVkGzgcLHCoI7LoAtwsLW.png?width=640&crop=smart&auto=webp&s=622723e8140cbba309adff6c479ecdc4d6463802"
+      },
+      {
+        "rank": 1,
         "title": "Publication venue recommendations [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
         "source": "r/MachineLearning",
@@ -24,7 +63,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "NeurIPS reject final justification [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wpa4gp/neurips_reject_final_justification_r/",
         "source": "r/MachineLearning",
@@ -33,7 +72,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "What's up with AAAI reviewers and organizers? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
         "source": "r/MachineLearning",
@@ -42,13 +81,72 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "How much changes can you make to a paper between acceptance and camera ready? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpjumz/how_much_changes_can_you_make_to_a_paper_between/",
+        "rank": 4,
+        "title": "iclr 2027 de anonymization [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-25T01:49:38.000Z",
+        "publishedAt": "2026-09-25T11:26:22.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpognv/neurips_reject_iclr_how_much_reviewer_feedback/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T05:56:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "New tibo tweet about devday",
+        "url": "https://www.reddit.com/r/codex/comments/1wppkog/new_tibo_tweet_about_devday/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-25T07:03:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mu1p0jpx7mrh1.jpeg?width=640&crop=smart&auto=webp&s=37af991282e3bccd99e7ca654a3dfedf3f67df76"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI prepares new $500 per month Pro Max plan for ChatGPT",
+        "url": "https://www.reddit.com/r/codex/comments/1wpq44p/openai_prepares_new_500_per_month_pro_max_plan/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-25T07:38:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZqGmGTtoe87OxqCq4CIZTwwRHD1sefyB6330GtRBtKk.png?width=640&crop=smart&auto=webp&s=e2a0921afd1686aad8cdf985201ebd04847634f1"
+      },
+      {
+        "rank": 3,
+        "title": "This didn't age too well",
+        "url": "https://www.reddit.com/r/codex/comments/1wpu2b5/this_didnt_age_too_well/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-25T11:40:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/604a5nc8lnrh1.png?width=140&height=41&auto=webp&s=62d28cce4cbfe613c9f26dff126d1ee433da3f73"
+      },
+      {
+        "rank": 4,
+        "title": "My headset dongle died. Codex GPT-6 reverse-engineered Razer's HyperSpeed protocol and built a replacement from two ESP32-S3s",
+        "url": "https://www.reddit.com/r/codex/comments/1wpeebz/my_headset_dongle_died_codex_gpt6/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-24T21:36:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v8qeeuvsdjrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=f58e8373c52154e6bfb6af97ceef7dbaaf4050dd"
+      },
+      {
+        "rank": 5,
+        "title": "Moarrrrr! Higher tier Pro plans are forthcoming",
+        "url": "https://www.reddit.com/r/codex/comments/1wpd1gc/moarrrrr_higher_tier_pro_plans_are_forthcoming/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-24T20:42:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4avefef75jrh1.jpeg?width=640&crop=smart&auto=webp&s=97566e23b63578cef2d1d64d7418967fa85f95c9"
       },
       {
         "rank": 1,
@@ -147,102 +245,6 @@
         "publishedAt": "2026-09-24T19:53:15.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/dHNza3d2emJ3aXJoMUBlNoTk33dkskJtscrpkefmodvWQIpxOWecHPc9HQg6.png?width=640&crop=smart&auto=webp&s=0817f87fe75c267fe10aa8405d8e3fa65c94de77"
-      },
-      {
-        "rank": 1,
-        "title": "Here is what happens when you click the one-time \"Reset\" button.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1woqsqi/here_is_what_happens_when_you_click_the_onetime/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T03:25:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bnNsYmtvNDkwZXJoMf7bAfWJykDEmOfgE-eb8JOZL2Ny1TjXfh5ezZ6evWCC.png?width=640&crop=smart&auto=webp&s=bcd63f51e0f5d41e749fb38dbde3aba2276ae93c"
-      },
-      {
-        "rank": 2,
-        "title": "Jaw literally dropped. I ran the prompt from the \"Made entirely with Opus 5.5\" post on my own project. Here's what Claude Code made on its own for about $4.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wovwao/jaw_literally_dropped_i_ran_the_prompt_from_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T08:15:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M2ZvM2dleGxmZnJoMel4QP5PAL4Rv4pCt8yCxjZ0wINtX0G4wTui-ZC9RIdP.png?width=640&crop=smart&auto=webp&s=69149b79a60ee8724851fb396620f8fa03c2d30c"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic to include Fable 5 usage in Pro plans",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp7ofj/anthropic_to_include_fable_5_usage_in_pro_plans/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T17:18:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u0yqb7vh4irh1.png?width=140&height=91&auto=webp&s=974d85cc45650c85f020e7d5428e6df8bbc6bbc4"
-      },
-      {
-        "rank": 4,
-        "title": "What is wrong with Opus 5.5?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wp1yht/what_is_wrong_with_opus_55/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T13:41:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude Opus 5.5 Mad defeats Astra 🔥",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpb5hd/claude_opus_55_mad_defeats_astra/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T19:29:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/80ozbzp2sirh1.jpeg?width=640&crop=smart&auto=webp&s=203a1eff77851e584d8e1c887f7f7722bbd668e9"
-      },
-      {
-        "rank": 1,
-        "title": "You need to try opus 5.5",
-        "url": "https://www.reddit.com/r/codex/comments/1wp3bzl/you_need_to_try_opus_55/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-24T14:34:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "This needs more attention",
-        "url": "https://www.reddit.com/r/codex/comments/1woxxj2/this_needs_more_attention/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-24T10:24:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4pwb0mds2grh1.png?width=640&crop=smart&auto=webp&s=a3e8eabb527dc4b84c9f137556ac25deef821c78"
-      },
-      {
-        "rank": 3,
-        "title": "GPT 6 - Sol is an Idiot",
-        "url": "https://www.reddit.com/r/codex/comments/1wotvyv/gpt_6_sol_is_an_idiot/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-24T06:14:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Fun fact: the 5h li*mit of Astra on Plus plan is equal to 3.50$ in api costs",
-        "url": "https://www.reddit.com/r/codex/comments/1wp5ayt/fun_fact_the_5h_limit_of_astra_on_plus_plan_is/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-24T15:49:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g7oegsayohrh1.jpeg?width=216&crop=smart&auto=webp&s=c5ba144bbe38c2f1e20683e9180b7f1d71789e09"
-      },
-      {
-        "rank": 5,
-        "title": "Sol 6 was insufferable. Glad to be back to 5.6",
-        "url": "https://www.reddit.com/r/codex/comments/1worwfr/sol_6_was_insufferable_glad_to_be_back_to_56/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-24T04:22:52.000Z",
-        "category": "reddit"
       }
     ]
   }

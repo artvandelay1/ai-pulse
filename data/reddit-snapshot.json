@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-09-25T17:52:08.694Z",
+  "fetchedAt": "2026-09-25T21:19:41.286Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "iclr 2027 de anonymization [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T11:26:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "What's up with AAAI reviewers and organizers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T00:09:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpognv/neurips_reject_iclr_how_much_reviewer_feedback/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T05:56:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How much changes can you make to a paper between acceptance and camera ready? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpjumz/how_much_changes_can_you_make_to_a_paper_between/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T01:49:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "AAAI 2027 Phase 1 Summary Rejection [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpidgd/aaai_2027_phase_1_summary_rejection_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T00:36:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I used Astra to build a Yu-Gi-Oh! AR app for SPECS",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wpg5k8/i_used_astra_to_build_a_yugioh_ar_app_for_specs/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T22:52:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MGs0ZDZmenNyanJoMYwCbczwr8OYi1pNxcqWalC6gOaV-BzNafiocCC0FC_c.png?width=640&crop=smart&auto=webp&s=153de0c444551ce891b60980079e12a9be00441d"
+      },
+      {
+        "rank": 2,
+        "title": "Jensen Huang claims he doesn't know his own address, and so children forgetting how to basic math is ok",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wpsu3c/jensen_huang_claims_he_doesnt_know_his_own/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-25T10:32:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MG16OGxlZTg5bnJoMenLhcZmaq7CF2UkEgH_iRaLFO_hdQoGpQCjRZeU_Xc6.png?width=640&crop=smart&auto=webp&s=25363f7dd78b2b779622f994a49f19928f5e7766"
+      },
+      {
+        "rank": 3,
+        "title": "Sol-6 Be super careful",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wpenup/sol6_be_super_careful/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T21:47:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NEW: OpenAI looks to roll out Pro Max plan which would put a price on longer ChatGPT tasks",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wpeq1o/new_openai_looks_to_roll_out_pro_max_plan_which/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T21:50:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/pUvIF3Ol6JBKwAEvBXmlnAhpLxBeq4ouKZ5EfTSCe2E.jpeg?width=640&crop=smart&auto=webp&s=83bcb760b9489bbadc6bbb78ea1d173763ddc455"
+      },
+      {
+        "rank": 5,
+        "title": "What are they speaking about? Wrong answers only.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wpkggj/what_are_they_speaking_about_wrong_answers_only/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-25T02:19:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rexblxl9tkrh1.jpeg?width=640&crop=smart&auto=webp&s=6c44563ed51f6b9261be438f0357f6f72acbb9bd"
+      },
+      {
+        "rank": 1,
+        "title": "Person spent $2000 in tokens to recreate Adobe Photoshop and customer count just crossed 20k users with no bad reviews",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-25T00:30:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5.5 recreated an AI video output into a playable 90s fantasy walking simulator",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpgntb/opus_55_recreated_an_ai_video_output_into_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-24T23:15:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YngzazAybTN3anJoMbFntHiwkBnQQ2TocvSAzqB3D3nzjuWSBxx0-mSee0cc.png?width=640&crop=smart&auto=webp&s=e0e41595b128c00735925b8af6924f6fba2e13fa"
+      },
+      {
+        "rank": 3,
+        "title": "Meanwhile Gemini",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpu7ns/meanwhile_gemini/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-25T11:48:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/miu8h19omnrh1.png?width=320&crop=smart&auto=webp&s=17d22092b9ca5f834382f7fc36d2d239a2edbe06"
+      },
+      {
+        "rank": 4,
+        "title": "Wanna escape the sandbox?",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpegth/wanna_escape_the_sandbox/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-24T21:39:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r7yi5wxdfjrh1.jpeg?width=640&crop=smart&auto=webp&s=d3e4deca75a6d85012458344f90a73672fec3f11"
+      },
+      {
+        "rank": 5,
+        "title": "President Xi apparently likes the idea of renaming AI to \"Superintelligence\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpxu88/president_xi_apparently_likes_the_idea_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-25T14:29:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/g8lx2t3zeorh1.png?width=640&crop=smart&auto=webp&s=0b4f443e395f9a8fed0d3e8daa41f036fc423264"
+      },
       {
         "rank": 1,
         "title": "Testing Claude for 3D creation. Max took a whole hour, but just look at the result 👀",
@@ -55,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "Publication venue recommendations [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-24T18:02:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS reject final justification [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpa4gp/neurips_reject_final_justification_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-24T18:49:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What's up with AAAI reviewers and organizers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-25T00:09:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "iclr 2027 de anonymization [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-25T11:26:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpognv/neurips_reject_iclr_how_much_reviewer_feedback/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-25T05:56:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "New tibo tweet about devday",
         "url": "https://www.reddit.com/r/codex/comments/1wppkog/new_tibo_tweet_about_devday/",
         "source": "r/codex",
@@ -147,104 +245,6 @@
         "publishedAt": "2026-09-24T20:42:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4avefef75jrh1.jpeg?width=640&crop=smart&auto=webp&s=97566e23b63578cef2d1d64d7418967fa85f95c9"
-      },
-      {
-        "rank": 1,
-        "title": "I used Astra to build a Yu-Gi-Oh! AR app for SPECS",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wpg5k8/i_used_astra_to_build_a_yugioh_ar_app_for_specs/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T22:52:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MGs0ZDZmenNyanJoMYwCbczwr8OYi1pNxcqWalC6gOaV-BzNafiocCC0FC_c.png?width=640&crop=smart&auto=webp&s=153de0c444551ce891b60980079e12a9be00441d"
-      },
-      {
-        "rank": 2,
-        "title": "Tested Astra 6 vs Opus 5.5 on the same 3D task, and the results are pretty funny 😄",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T18:08:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N3FwNmJvZmxkaXJoMQYClDh2cN1YhKLK1L1Yw0yR5ZEX6EtT7fC0qUuXkgD4.png?width=640&crop=smart&auto=webp&s=9a2155c5c824b86c4062d6642bbb145f93a58235"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Sol is NOT the replacement of GPT-5.6 Sol...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wp5eqa/gpt6_sol_is_not_the_replacement_of_gpt56_sol/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T15:53:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tl9noevpohrh1.png?width=140&height=37&auto=webp&s=f4a1d1ef4ada917f374aa2f789bdaa948becdd3b"
-      },
-      {
-        "rank": 4,
-        "title": "Sol-6 Be super careful",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wpenup/sol6_be_super_careful/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T21:47:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "NEW: OpenAI looks to roll out Pro Max plan which would put a price on longer ChatGPT tasks",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wpeq1o/new_openai_looks_to_roll_out_pro_max_plan_which/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T21:50:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/pUvIF3Ol6JBKwAEvBXmlnAhpLxBeq4ouKZ5EfTSCe2E.jpeg?width=640&crop=smart&auto=webp&s=83bcb760b9489bbadc6bbb78ea1d173763ddc455"
-      },
-      {
-        "rank": 1,
-        "title": "Person spent $2000 in tokens to recreate Adobe Photoshop and customer count just crossed 20k users with no bad reviews",
-        "url": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-25T00:30:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5.5 recreated an AI video output into a playable 90s fantasy walking simulator",
-        "url": "https://www.reddit.com/r/singularity/comments/1wpgntb/opus_55_recreated_an_ai_video_output_into_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-24T23:15:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YngzazAybTN3anJoMbFntHiwkBnQQ2TocvSAzqB3D3nzjuWSBxx0-mSee0cc.png?width=640&crop=smart&auto=webp&s=e0e41595b128c00735925b8af6924f6fba2e13fa"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra conquered KSP’s rocket simulator by landing on every surface world, and even mined fuel on Moho to make the trip home",
-        "url": "https://www.reddit.com/r/singularity/comments/1wp2ldw/gpt6_astra_conquered_ksps_rocket_simulator_by/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-24T14:06:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k2zsdegi6hrh1.jpeg?width=640&crop=smart&auto=webp&s=3e6db1ea156fd1b01e76d49932b20e8b4911a69e"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Opus 5.5 tops SimpleBench with its 88.4% score.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wp7jks/claude_opus_55_tops_simplebench_with_its_884_score/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-24T17:13:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qyef707w3irh1.png?width=640&crop=smart&auto=webp&s=59a269c671dffffa356240810ef5e5b5d07716d4"
-      },
-      {
-        "rank": 5,
-        "title": "I asked GPT-6 Astra for a video about \"time\". It made the whole thing in javascript, from the big bang to itself writing the code for this video",
-        "url": "https://www.reddit.com/r/singularity/comments/1wpbrxa/i_asked_gpt6_astra_for_a_video_about_time_it_made/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-24T19:53:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dHNza3d2emJ3aXJoMUBlNoTk33dkskJtscrpkefmodvWQIpxOWecHPc9HQg6.png?width=640&crop=smart&auto=webp&s=0817f87fe75c267fe10aa8405d8e3fa65c94de77"
       }
     ]
   }

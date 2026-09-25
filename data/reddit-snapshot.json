@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T07:24:49.972Z",
+  "fetchedAt": "2026-09-25T12:55:48.298Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "arXiv receives Multiyear Philanthropic Commitments to Support Its Launch as an Independent Nonprofit [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wox8kt/arxiv_receives_multiyear_philanthropic/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-24T09:43:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Publication venue recommendations [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "NeurIPS reject final justification [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wpa4gp/neurips_reject_final_justification_r/",
         "source": "r/MachineLearning",
@@ -42,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "What's up with AAAI reviewers and organizers? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-25T00:09:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How much changes can you make to a paper between acceptance and camera ready? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpjumz/how_much_changes_can_you_make_to_a_paper_between/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T01:49:38.000Z",
         "category": "reddit"
       },
       {
@@ -62,25 +62,6 @@
       },
       {
         "rank": 2,
-        "title": "New benchmark dropped",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wow0m2/new_benchmark_dropped/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T08:23:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y0fjn1s6hfrh1.png?width=640&crop=smart&auto=webp&s=d1c7e4b722738f0b426a45a29754c5c8710c6eb9"
-      },
-      {
-        "rank": 3,
-        "title": "Prince Harry walks off stage awkwardly after teleprompter stops working during AI speech",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wozedu/prince_harry_walks_off_stage_awkwardly_after/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-24T11:44:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Tested Astra 6 vs Opus 5.5 on the same 3D task, and the results are pretty funny 😄",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wp91aj/tested_astra_6_vs_opus_55_on_the_same_3d_task_and/",
         "source": "r/OpenAI",
@@ -90,7 +71,7 @@
         "thumbnail": "https://external-preview.redd.it/N3FwNmJvZmxkaXJoMQYClDh2cN1YhKLK1L1Yw0yR5ZEX6EtT7fC0qUuXkgD4.png?width=640&crop=smart&auto=webp&s=9a2155c5c824b86c4062d6642bbb145f93a58235"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "GPT-6 Sol is NOT the replacement of GPT-5.6 Sol...",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wp5eqa/gpt6_sol_is_not_the_replacement_of_gpt56_sol/",
         "source": "r/OpenAI",
@@ -100,7 +81,35 @@
         "thumbnail": "https://preview.redd.it/tl9noevpohrh1.png?width=140&height=37&auto=webp&s=f4a1d1ef4ada917f374aa2f789bdaa948becdd3b"
       },
       {
+        "rank": 4,
+        "title": "Sol-6 Be super careful",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wpenup/sol6_be_super_careful/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T21:47:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NEW: OpenAI looks to roll out Pro Max plan which would put a price on longer ChatGPT tasks",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wpeq1o/new_openai_looks_to_roll_out_pro_max_plan_which/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-24T21:50:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/pUvIF3Ol6JBKwAEvBXmlnAhpLxBeq4ouKZ5EfTSCe2E.jpeg?width=640&crop=smart&auto=webp&s=83bcb760b9489bbadc6bbb78ea1d173763ddc455"
+      },
+      {
         "rank": 1,
+        "title": "Person spent $2000 in tokens to recreate Adobe Photoshop and customer count just crossed 20k users with no bad reviews",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-25T00:30:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Opus 5.5 recreated an AI video output into a playable 90s fantasy walking simulator",
         "url": "https://www.reddit.com/r/singularity/comments/1wpgntb/opus_55_recreated_an_ai_video_output_into_a/",
         "source": "r/singularity",
@@ -110,7 +119,7 @@
         "thumbnail": "https://external-preview.redd.it/YngzazAybTN3anJoMbFntHiwkBnQQ2TocvSAzqB3D3nzjuWSBxx0-mSee0cc.png?width=640&crop=smart&auto=webp&s=e0e41595b128c00735925b8af6924f6fba2e13fa"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "GPT-6 Astra conquered KSP’s rocket simulator by landing on every surface world, and even mined fuel on Moho to make the trip home",
         "url": "https://www.reddit.com/r/singularity/comments/1wp2ldw/gpt6_astra_conquered_ksps_rocket_simulator_by/",
         "source": "r/singularity",
@@ -120,7 +129,7 @@
         "thumbnail": "https://preview.redd.it/k2zsdegi6hrh1.jpeg?width=640&crop=smart&auto=webp&s=3e6db1ea156fd1b01e76d49932b20e8b4911a69e"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Claude Opus 5.5 tops SimpleBench with its 88.4% score.",
         "url": "https://www.reddit.com/r/singularity/comments/1wp7jks/claude_opus_55_tops_simplebench_with_its_884_score/",
         "source": "r/singularity",
@@ -130,23 +139,14 @@
         "thumbnail": "https://preview.redd.it/qyef707w3irh1.png?width=640&crop=smart&auto=webp&s=59a269c671dffffa356240810ef5e5b5d07716d4"
       },
       {
-        "rank": 4,
-        "title": "Person spent $2000 in tokens to recreate Adobe Photoshop and customer count just crossed 20k users with no bad reviews",
-        "url": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-25T00:30:50.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "China ranks #1 for AI optimism in new poll while the US ranks amongst bottom 5 countries in pessimism",
-        "url": "https://www.reddit.com/r/singularity/comments/1wp1itv/china_ranks_1_for_ai_optimism_in_new_poll_while/",
+        "title": "I asked GPT-6 Astra for a video about \"time\". It made the whole thing in javascript, from the big bang to itself writing the code for this video",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpbrxa/i_asked_gpt6_astra_for_a_video_about_time_it_made/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-24T13:22:49.000Z",
+        "publishedAt": "2026-09-24T19:53:15.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nfi10igqygrh1.jpeg?width=640&crop=smart&auto=webp&s=02f115dea12b99c0ea913c331ff99928bd3dc6f7"
+        "thumbnail": "https://external-preview.redd.it/dHNza3d2emJ3aXJoMUBlNoTk33dkskJtscrpkefmodvWQIpxOWecHPc9HQg6.png?width=640&crop=smart&auto=webp&s=0817f87fe75c267fe10aa8405d8e3fa65c94de77"
       },
       {
         "rank": 1,

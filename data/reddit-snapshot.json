@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T10:08:45.274Z",
+  "fetchedAt": "2026-09-26T14:41:44.932Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "iclr 2027 de anonymization [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-25T11:26:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
         "source": "r/MachineLearning",
@@ -34,16 +25,16 @@
         "thumbnail": "https://preview.redd.it/shimrxewdtrh1.jpeg?width=640&crop=smart&auto=webp&s=11ddf5749fec40ec19dd048cf1b26820f0745bbe"
       },
       {
-        "rank": 4,
-        "title": "NeurIPS Registration - How to get one if all tickers are sold out in Sydney? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpt8sk/neurips_registration_how_to_get_one_if_all/",
+        "rank": 3,
+        "title": "Has anyone used the Forrester function?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-25T10:56:19.000Z",
+        "publishedAt": "2026-09-26T09:24:09.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Confused About job title [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc5ac/confused_about_job_title_r/",
         "source": "r/MachineLearning",
@@ -52,14 +43,22 @@
         "category": "reddit"
       },
       {
+        "rank": 5,
+        "title": "What are people building in computer vision, and what's still painful? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T18:21:22.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "Jensen Huang claims he doesn't know his own address, and so children forgetting how to basic math is ok",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wpsu3c/jensen_huang_claims_he_doesnt_know_his_own/",
+        "title": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-25T10:32:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MG16OGxlZTg5bnJoMenLhcZmaq7CF2UkEgH_iRaLFO_hdQoGpQCjRZeU_Xc6.png?width=640&crop=smart&auto=webp&s=25363f7dd78b2b779622f994a49f19928f5e7766"
+        "publishedAt": "2026-09-26T10:15:17.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
@@ -82,12 +81,13 @@
       },
       {
         "rank": 4,
-        "title": "Can't imagine getting rate limited on a $600 plan 🫪",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wq4es0/cant_imagine_getting_rate_limited_on_a_600_plan/",
+        "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wqmjvg/an_openai_agent_escaped_its_sandbox_by_hiding/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-25T18:46:21.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-26T09:51:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OT8spJhShkPfiaGI9i1xUSTvGlwWHr2E0umFpNEEHgY.jpeg?width=640&crop=smart&auto=webp&s=efe84bdfbb92d5e1aa2f1391ace2b673899b7a08"
       },
       {
         "rank": 5,
@@ -111,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "Meanwhile Gemini",
-        "url": "https://www.reddit.com/r/singularity/comments/1wpu7ns/meanwhile_gemini/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-25T11:48:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/miu8h19omnrh1.png?width=320&crop=smart&auto=webp&s=17d22092b9ca5f834382f7fc36d2d239a2edbe06"
-      },
-      {
-        "rank": 3,
         "title": "In just 100 days, AI crossed into real medical work. 37,000 agents searched 55,000 trials for new treatments, an AI-designed pulmonary fibrosis drug entered Phase III, and an autonomous medical agent beat doctors on ER diagnosis, 87.8% to 78.1%",
         "url": "https://www.reddit.com/r/singularity/comments/1wq52am/in_just_100_days_ai_crossed_into_real_medical/",
         "source": "r/singularity",
@@ -130,7 +120,7 @@
         "thumbnail": "https://preview.redd.it/q5ppb7kvtprh1.jpeg?width=640&crop=smart&auto=webp&s=128c47bdea37a973e3a08d511a74bc914804374e"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Video models are getting good",
         "url": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
         "source": "r/singularity",
@@ -140,14 +130,24 @@
         "thumbnail": "https://external-preview.redd.it/Z29qbGtqam45cnJoMcojh23krgwJHBfUlauMDcBJ8VgdXwhBt-vtQ7kCuMXC.png?width=640&crop=smart&auto=webp&s=82a3a83cc38d108e5ba2f6d53d820e83a9e6c6fc"
       },
       {
-        "rank": 5,
-        "title": "President Xi apparently likes the idea of renaming AI to \"Superintelligence\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1wpxu88/president_xi_apparently_likes_the_idea_of/",
+        "rank": 4,
+        "title": "Claude Fable 5.1 completed a frontier nine-loop particle-physics calculation experts had worked toward for years, with researchers mostly just telling it “keep going” while it built, debugged and ran the entire workflow",
+        "url": "https://www.reddit.com/r/singularity/comments/1wqa2u2/claude_fable_51_completed_a_frontier_nineloop/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-25T14:29:36.000Z",
+        "publishedAt": "2026-09-25T22:37:31.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g8lx2t3zeorh1.png?width=640&crop=smart&auto=webp&s=0b4f443e395f9a8fed0d3e8daa41f036fc423264"
+        "thumbnail": "https://external-preview.redd.it/bwcJj0nYl4_zLIXMHpBZT-bx41EjlgjYZUWbx74N5Ao.png?width=640&crop=smart&auto=webp&s=30d9774ebbaa5e05d205b353c11f8db4503bfafe"
+      },
+      {
+        "rank": 5,
+        "title": "C5R built a research facility that is run entirely by GPT-6 Astra - the model designs, executes, and observes experiments end-to-end across biology, chemistry, and materials science - it controls people and instruments around",
+        "url": "https://www.reddit.com/r/singularity/comments/1wpyuw6/c5r_built_a_research_facility_that_is_run/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-25T15:09:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MTZqNjc3MG9tb3JoMYL-5G1SSsuAFbU0TfjpyieQWxvztcLcYHgj-RRgPke_.png?width=640&crop=smart&auto=webp&s=eb3791beba770b50f84a6e8261f8ba8cb1a3276d"
       },
       {
         "rank": 1,

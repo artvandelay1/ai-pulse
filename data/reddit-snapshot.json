@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T00:04:07.851Z",
+  "fetchedAt": "2026-09-26T05:21:08.945Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,15 +27,6 @@
       },
       {
         "rank": 3,
-        "title": "Real talk: If Anthropic never nerfs Opus 5.5, I will keep my Max subscription for years...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpluhu/real_talk_if_anthropic_never_nerfs_opus_55_i_will/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-25T03:30:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Anthropic signs $11.6B cloud deal with Akamai",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpto23/anthropic_signs_116b_cloud_deal_with_akamai/",
         "source": "r/ClaudeAI",
@@ -43,6 +34,16 @@
         "publishedAt": "2026-09-25T11:18:56.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/V4zNdPPgljMI04Klw80QZsIWk-_G_4ZCXsbDHUF-m7A.jpeg?width=640&crop=smart&auto=webp&s=33da7537f1df8003eb5c0a7dc263d426abf0c367"
+      },
+      {
+        "rank": 4,
+        "title": "I made this playable Pokémon battle demo using Opus 5.5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqb1ur/i_made_this_playable_pokémon_battle_demo_using/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-25T23:20:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZTNkeTJwcnAwcnJoMZ9yn39iu9FiLduqGNbWYfUoVownN5Ia1E4-KaP1rO48.png?width=640&crop=smart&auto=webp&s=d2c7d345d07ad3e19ec48a26b18bc9c7e06243e4"
       },
       {
         "rank": 5,
@@ -64,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "What's up with AAAI reviewers and organizers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-25T00:09:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wpognv/neurips_reject_iclr_how_much_reviewer_feedback/",
         "source": "r/MachineLearning",
@@ -81,21 +73,30 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "How much changes can you make to a paper between acceptance and camera ready? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpjumz/how_much_changes_can_you_make_to_a_paper_between/",
+        "rank": 3,
+        "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-25T01:49:38.000Z",
+        "publishedAt": "2026-09-26T00:12:30.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "NeurIPS Accept, but Confusing Final Justification, Is This Normal? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wpouvt/neurips_accept_but_confusing_final_justification/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-25T06:19:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "NeurIPS Registration - How to get one if all tickers are sold out in Sydney? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wpt8sk/neurips_registration_how_to_get_one_if_all/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-25T10:56:19.000Z",
         "category": "reddit"
       },
       {

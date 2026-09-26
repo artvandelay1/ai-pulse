@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T18:27:43.569Z",
+  "fetchedAt": "2026-09-26T21:26:42.744Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,20 +36,21 @@
       },
       {
         "rank": 4,
-        "title": "My paper got accepted at NeurIPS TAE Workshop 2026 — any advice on getting travel funding?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wquo3w/my_paper_got_accepted_at_neurips_tae_workshop/",
+        "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-26T16:22:59.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-26T18:38:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k043y0nyrwrh1.png?width=140&height=70&auto=webp&s=4b2e67f6d986d9771b2de56a104480904fee57dc"
       },
       {
         "rank": 5,
-        "title": "Has anyone used the Forrester function?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
+        "title": "Publication potential [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-26T09:24:09.000Z",
+        "publishedAt": "2026-09-26T18:23:31.000Z",
         "category": "reddit"
       },
       {
@@ -82,22 +83,23 @@
       },
       {
         "rank": 4,
-        "title": "Can't imagine getting rate limited on a $600 plan 🫪",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wq4es0/cant_imagine_getting_rate_limited_on_a_600_plan/",
+        "title": "Update",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wqlvks/update/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-25T18:46:21.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-26T09:07:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pfwhyvw0ztrh1.png?width=640&crop=smart&auto=webp&s=398ca2dfcb5500f919fb37946fe9709ac9b4f2d6"
       },
       {
         "rank": 5,
-        "title": "Introducing: GPT-6 Rock",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wq4owr/introducing_gpt6_rock/",
+        "title": "Worth the down time, reset coming.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wqcxyo/worth_the_down_time_reset_coming/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-25T18:57:23.000Z",
+        "publishedAt": "2026-09-26T00:49:24.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nbp2zci9rprh1.jpeg?width=640&crop=smart&auto=webp&s=16bfceabae4445c73959377cc4bd9932d74fc495"
+        "thumbnail": "https://preview.redd.it/sjscty81irrh1.png?width=640&crop=smart&auto=webp&s=044162d43ba9452fcf2b4db159dbdec16164d95c"
       },
       {
         "rank": 1,
@@ -111,16 +113,6 @@
       },
       {
         "rank": 2,
-        "title": "In just 100 days, AI crossed into real medical work. 37,000 agents searched 55,000 trials for new treatments, an AI-designed pulmonary fibrosis drug entered Phase III, and an autonomous medical agent beat doctors on ER diagnosis, 87.8% to 78.1%",
-        "url": "https://www.reddit.com/r/singularity/comments/1wq52am/in_just_100_days_ai_crossed_into_real_medical/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-25T19:11:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q5ppb7kvtprh1.jpeg?width=640&crop=smart&auto=webp&s=128c47bdea37a973e3a08d511a74bc914804374e"
-      },
-      {
-        "rank": 3,
         "title": "Video models are getting good",
         "url": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
         "source": "r/singularity",
@@ -128,6 +120,16 @@
         "publishedAt": "2026-09-26T00:02:38.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Z29qbGtqam45cnJoMcojh23krgwJHBfUlauMDcBJ8VgdXwhBt-vtQ7kCuMXC.png?width=640&crop=smart&auto=webp&s=82a3a83cc38d108e5ba2f6d53d820e83a9e6c6fc"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree humanoid robot",
+        "url": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-26T17:30:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGdneWdvZHJnd3JoMaSVlRNBaHwthE-pU2BRD_RA4GRTMy7fHt64QlfCNMQl.jpeg?width=640&crop=smart&auto=webp&s=79b74ec4c8e8356157bd4ad85d484e42980c82f4"
       },
       {
         "rank": 4,

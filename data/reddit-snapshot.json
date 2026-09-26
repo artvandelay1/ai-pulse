@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T14:41:44.932Z",
+  "fetchedAt": "2026-09-26T18:27:43.569Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,6 +16,16 @@
       },
       {
         "rank": 2,
+        "title": "LLMs were told they could lie in Diplomacy. Here's who actually kept their promises. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqufwj/llms_were_told_they_could_lie_in_diplomacy_heres/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-26T16:13:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gpcnyudp2wrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7d7600a12600ec5f0d13efc61db2646bcd54021c"
+      },
+      {
+        "rank": 3,
         "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
         "source": "r/MachineLearning",
@@ -25,30 +35,21 @@
         "thumbnail": "https://preview.redd.it/shimrxewdtrh1.jpeg?width=640&crop=smart&auto=webp&s=11ddf5749fec40ec19dd048cf1b26820f0745bbe"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "title": "My paper got accepted at NeurIPS TAE Workshop 2026 — any advice on getting travel funding?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wquo3w/my_paper_got_accepted_at_neurips_tae_workshop/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-26T16:22:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Has anyone used the Forrester function?[D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-26T09:24:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Confused About job title [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc5ac/confused_about_job_title_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-26T00:11:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What are people building in computer vision, and what's still painful? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-25T18:21:22.000Z",
         "category": "reddit"
       },
       {
@@ -62,13 +63,13 @@
       },
       {
         "rank": 2,
-        "title": "Pass the test or die",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wpzvkq/pass_the_test_or_die/",
+        "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wqmjvg/an_openai_agent_escaped_its_sandbox_by_hiding/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-25T15:49:52.000Z",
+        "publishedAt": "2026-09-26T09:51:06.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xylgh5yitorh1.png?width=640&crop=smart&auto=webp&s=9cec5d9b51c64fb9459b45c149f576ad85183eee"
+        "thumbnail": "https://external-preview.redd.it/OT8spJhShkPfiaGI9i1xUSTvGlwWHr2E0umFpNEEHgY.jpeg?width=640&crop=smart&auto=webp&s=efe84bdfbb92d5e1aa2f1391ace2b673899b7a08"
       },
       {
         "rank": 3,
@@ -81,13 +82,12 @@
       },
       {
         "rank": 4,
-        "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wqmjvg/an_openai_agent_escaped_its_sandbox_by_hiding/",
+        "title": "Can't imagine getting rate limited on a $600 plan 🫪",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wq4es0/cant_imagine_getting_rate_limited_on_a_600_plan/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-26T09:51:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OT8spJhShkPfiaGI9i1xUSTvGlwWHr2E0umFpNEEHgY.jpeg?width=640&crop=smart&auto=webp&s=efe84bdfbb92d5e1aa2f1391ace2b673899b7a08"
+        "publishedAt": "2026-09-25T18:46:21.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -141,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "C5R built a research facility that is run entirely by GPT-6 Astra - the model designs, executes, and observes experiments end-to-end across biology, chemistry, and materials science - it controls people and instruments around",
-        "url": "https://www.reddit.com/r/singularity/comments/1wpyuw6/c5r_built_a_research_facility_that_is_run/",
+        "title": "Japan is trialing a drug that regrows human teeth by blocking USAG-1—a protein that keeps dormant tooth buds switched off. Phase I is done. Phase IIa in children with congenital tooth loss is next. If it works, dentures and implants could become obsolete.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wqatk4/japan_is_trialing_a_drug_that_regrows_human_teeth/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-25T15:09:28.000Z",
+        "publishedAt": "2026-09-25T23:10:19.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MTZqNjc3MG9tb3JoMYL-5G1SSsuAFbU0TfjpyieQWxvztcLcYHgj-RRgPke_.png?width=640&crop=smart&auto=webp&s=eb3791beba770b50f84a6e8261f8ba8cb1a3276d"
+        "thumbnail": "https://preview.redd.it/hry2mlgn8orh1.png?width=640&crop=smart&auto=webp&s=27b9c301ac32f2c271a10d268024e3d48198b533"
       },
       {
         "rank": 1,

@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-26T21:26:42.744Z",
+  "fetchedAt": "2026-09-26T23:48:12.122Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Aight I get it, Opus 5.5 is actually peak",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqcara/aight_i_get_it_opus_55_is_actually_peak/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T00:18:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I gave Opus 5.5 my Minecraft mod file and told it to create a Trailer",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqly15/i_gave_opus_55_my_minecraft_mod_file_and_told_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T09:12:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/angzcnRhN2t6dHJoMbIgRc8KCYQ4qODN2lQ1-S8JanXDUPQYWnwZXNFy-W4h.jpeg?width=640&crop=smart&auto=webp&s=d792c5d3b4eb8f1c9bdcd8bb4519cfff7968fbca"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5.5 is my favorite model ever, by far",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqprkt/opus_55_is_my_favorite_model_ever_by_far/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T12:51:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built my own Monarch-style finance dashboard with Opus 5.5 for less than $20",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T20:44:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w2kzqhc7fxrh1.png?width=140&height=87&auto=webp&s=317c79b5465b1703bcf0b210fbd98078bfe5e2ce"
+      },
+      {
+        "rank": 5,
+        "title": "It is scary thinking the era of these subscriptions will come to an end not long from now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqtnng/it_is_scary_thinking_the_era_of_these/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T15:41:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nlqp02yhvvrh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=52b3fd7aef3ea79c55efbd283e9fceb4d4374a17"
+      },
       {
         "rank": 1,
         "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
@@ -52,6 +100,55 @@
         "score": 0,
         "publishedAt": "2026-09-26T18:23:31.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Stop stealing our Codex quota with these surprise hard resets",
+        "url": "https://www.reddit.com/r/codex/comments/1wqmbwx/stop_stealing_our_codex_quota_with_these_surprise/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T09:37:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I thought the “model nerf” posts were bullshit… until today",
+        "url": "https://www.reddit.com/r/codex/comments/1wqjxyy/i_thought_the_model_nerf_posts_were_bullshit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T07:05:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f71qrxucctrh1.png?width=640&crop=smart&auto=webp&s=bca078baabdb4178d0efdf7d88206c6f0ef125a9"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI GPU are really cooling down; Theo just posted that usage graph, brutal.",
+        "url": "https://www.reddit.com/r/codex/comments/1wqtd1g/openai_gpu_are_really_cooling_down_theo_just/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T15:28:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rw0n2g3suvrh1.jpeg?width=640&crop=smart&auto=webp&s=f634aee9a6e373bc49d0ed1cef746f9ed23b7443"
+      },
+      {
+        "rank": 4,
+        "title": "Reset Confirmed",
+        "url": "https://www.reddit.com/r/codex/comments/1wqc44m/reset_confirmed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T00:09:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yq765n50brrh1.png?width=140&height=102&auto=webp&s=7a16a47f2ad49b924a229226c7a0ea6ea4858096"
+      },
+      {
+        "rank": 5,
+        "title": "They are aware and working on it apparently, just two more days to go!",
+        "url": "https://www.reddit.com/r/codex/comments/1wr1oir/they_are_aware_and_working_on_it_apparently_just/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T21:08:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/acx6348gjxrh1.png?width=640&crop=smart&auto=webp&s=d688914f9db1cb3a1b3a0a3bd306639abd631416"
       },
       {
         "rank": 1,
@@ -150,104 +247,6 @@
         "publishedAt": "2026-09-25T23:10:19.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/hry2mlgn8orh1.png?width=640&crop=smart&auto=webp&s=27b9c301ac32f2c271a10d268024e3d48198b533"
-      },
-      {
-        "rank": 1,
-        "title": "Testing Claude for 3D creation. Max took a whole hour, but just look at the result 👀",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpq8by/testing_claude_for_3d_creation_max_took_a_whole/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-25T07:46:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mm1yM240NmNmbXJoMdF00EdoaDd7FaHIxaO-zD2kOh2OQKprknKMIFmFkll5.png?width=640&crop=smart&auto=webp&s=c3e96972bb80c6756893419c70f7ffa1e1c3c7e2"
-      },
-      {
-        "rank": 2,
-        "title": "Claude Opus evolution is getting out of hand 😭",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wprgxw/claude_opus_evolution_is_getting_out_of_hand/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-25T09:09:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h5o92i7ttmrh1.png?width=140&height=51&auto=webp&s=944e876d848b4357cca497b1782c2fde90f82f3b"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic signs $11.6B cloud deal with Akamai",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpto23/anthropic_signs_116b_cloud_deal_with_akamai/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-25T11:18:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/V4zNdPPgljMI04Klw80QZsIWk-_G_4ZCXsbDHUF-m7A.jpeg?width=640&crop=smart&auto=webp&s=33da7537f1df8003eb5c0a7dc263d426abf0c367"
-      },
-      {
-        "rank": 4,
-        "title": "I made this playable Pokémon battle demo using Opus 5.5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqb1ur/i_made_this_playable_pokémon_battle_demo_using/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-25T23:20:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZTNkeTJwcnAwcnJoMZ9yn39iu9FiLduqGNbWYfUoVownN5Ia1E4-KaP1rO48.png?width=640&crop=smart&auto=webp&s=d2c7d345d07ad3e19ec48a26b18bc9c7e06243e4"
-      },
-      {
-        "rank": 5,
-        "title": "Your AI games suck, and it's not the AI's fault",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wpzqxn/your_ai_games_suck_and_its_not_the_ais_fault/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-25T15:44:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "New tibo tweet about devday",
-        "url": "https://www.reddit.com/r/codex/comments/1wppkog/new_tibo_tweet_about_devday/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-25T07:03:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mu1p0jpx7mrh1.jpeg?width=640&crop=smart&auto=webp&s=37af991282e3bccd99e7ca654a3dfedf3f67df76"
-      },
-      {
-        "rank": 2,
-        "title": "This didn't age too well",
-        "url": "https://www.reddit.com/r/codex/comments/1wpu2b5/this_didnt_age_too_well/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-25T11:40:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/604a5nc8lnrh1.png?width=140&height=41&auto=webp&s=62d28cce4cbfe613c9f26dff126d1ee433da3f73"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI prepares new $500 per month Pro Max plan for ChatGPT",
-        "url": "https://www.reddit.com/r/codex/comments/1wpq44p/openai_prepares_new_500_per_month_pro_max_plan/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-25T07:38:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZqGmGTtoe87OxqCq4CIZTwwRHD1sefyB6330GtRBtKk.png?width=640&crop=smart&auto=webp&s=e2a0921afd1686aad8cdf985201ebd04847634f1"
-      },
-      {
-        "rank": 4,
-        "title": "401 Unauthorized: Incorrect API key provided",
-        "url": "https://www.reddit.com/r/codex/comments/1wqa8t1/401_unauthorized_incorrect_api_key_provided/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-25T22:44:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-6 feels like a downgrade for Codex subscribers, and “but it's cheaper” doesn't really excuse it",
-        "url": "https://www.reddit.com/r/codex/comments/1wptixf/gpt6_feels_like_a_downgrade_for_codex_subscribers/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-25T11:11:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yt0yycv5gnrh1.jpeg?width=640&crop=smart&auto=webp&s=b8611518b974ffc1248fc17aa404107edee397d0"
       }
     ]
   }

@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-09-27T04:35:07.892Z",
+  "fetchedAt": "2026-09-27T10:26:44.260Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Teaching Neural Nets to Fight with RL [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-27T03:10:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jsyu172kbzrh1.gif?width=640&crop=smart&s=8e822d114449ca3292e6dcad471cdfd566df97df"
+      },
+      {
+        "rank": 2,
+        "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-26T18:38:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k043y0nyrwrh1.png?width=140&height=70&auto=webp&s=4b2e67f6d986d9771b2de56a104480904fee57dc"
+      },
+      {
+        "rank": 3,
+        "title": "Publication potential [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-26T18:23:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-27T02:16:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "When do ICLR submissions and reviews become public? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-27T06:27:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT6-Luna comes out on top in Puppy Kill Bench.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wr8r6g/gpt6luna_comes_out_on_top_in_puppy_kill_bench/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-27T02:44:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7tuo0s5l7zrh1.jpeg?width=640&crop=smart&auto=webp&s=91332e1209ff4a05fa8e351880efb631dead8289"
+      },
+      {
+        "rank": 2,
+        "title": "Peter Thiel says it's good to be evil",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wr5a71/peter_thiel_says_its_good_to_be_evil/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T23:51:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/emRnOGpiOHJjeXJoMc3aPCyNVM7lwSZJNip_6LuQtYXZ45OPmwSW5Mc2IQY_.png?width=640&crop=smart&auto=webp&s=58e5ddee3259c5ddb67ec4d6aa849f6a274cc4d1"
+      },
+      {
+        "rank": 3,
+        "title": "Exact method AI used to break into huggingface, including raw payloads.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wqynk0/exact_method_ai_used_to_break_into_huggingface/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T19:02:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d6H1B5Y6tEige_Tv-_Ch4joLtXH_bmJZC9mnDgy9YYk.jpeg?width=640&crop=smart&auto=webp&s=a1809fb1a95ee34e5c6c89086f244e6d16f90901"
+      },
+      {
+        "rank": 4,
+        "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wr78yj/the_first_real_ai_worms_have_arrived_openai_just/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-27T01:27:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "The new agent, O, releasing on DevDay is rumored to not be included in Plus plans.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wr31wa/the_new_agent_o_releasing_on_devday_is_rumored_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T22:07:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree humanoid robot",
+        "url": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-26T17:30:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGdneWdvZHJnd3JoMaSVlRNBaHwthE-pU2BRD_RA4GRTMy7fHt64QlfCNMQl.jpeg?width=640&crop=smart&auto=webp&s=79b74ec4c8e8356157bd4ad85d484e42980c82f4"
+      },
+      {
+        "rank": 2,
+        "title": "Sonnet 5.5, Which Already Supposedly Beats GPT-6 Sol, Has Had a Last-Minute Upgrade With Release Expected Monday",
+        "url": "https://www.reddit.com/r/singularity/comments/1wr27ro/sonnet_55_which_already_supposedly_beats_gpt6_sol/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-26T21:31:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gbiku1zalxrh1.png?width=640&crop=smart&auto=webp&s=8485ee9a8e4f5802699c955a4bcd035200efba1b"
+      },
+      {
+        "rank": 3,
+        "title": "At least the AI takeover will come with sick music",
+        "url": "https://www.reddit.com/r/singularity/comments/1wr4bw8/at_least_the_ai_takeover_will_come_with_sick_music/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-26T23:06:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cGI2ZmFiYnE0eXJoMaT2gjrcyHNGzwzWNho3rF8PioRGI_mhVbKC0lbWxJr3.png?width=640&crop=smart&auto=webp&s=30b8cd27ff39ea48e6bef2fab0bdaea3923c5cdd"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI says 80–90% of research is aimed at GPT-7, GPT-8 and beyond, then distilled into cheap small models",
+        "url": "https://www.reddit.com/r/singularity/comments/1wr9enj/openai_says_8090_of_research_is_aimed_at_gpt7/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-27T03:18:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bh1muzumdzrh1.jpeg?width=640&crop=smart&auto=webp&s=131fb08c3524adf65c0d2900096837aa709a0076"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI always-on assistant, O, leaked. It is powered by a variant of Astra called “Aeon” a version of Astra made to better at long running tasks",
+        "url": "https://www.reddit.com/r/singularity/comments/1wqoc2s/openai_alwayson_assistant_o_leaked_it_is_powered/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-26T11:37:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/37osiixspurh1.jpeg?width=640&crop=smart&auto=webp&s=ade03b641fc3c67bd4069003f16eaf083f44c86d"
+      },
       {
         "rank": 1,
         "title": "I built my own Monarch-style finance dashboard with Opus 5.5 for less than $20",
@@ -56,54 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-26T07:10:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/shimrxewdtrh1.jpeg?width=640&crop=smart&auto=webp&s=11ddf5749fec40ec19dd048cf1b26820f0745bbe"
-      },
-      {
-        "rank": 2,
-        "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-26T18:38:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k043y0nyrwrh1.png?width=140&height=70&auto=webp&s=4b2e67f6d986d9771b2de56a104480904fee57dc"
-      },
-      {
-        "rank": 3,
-        "title": "Publication potential [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-26T18:23:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Teaching Neural Nets to Fight with RL [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-27T03:10:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jsyu172kbzrh1.gif?width=640&crop=smart&s=8e822d114449ca3292e6dcad471cdfd566df97df"
-      },
-      {
-        "rank": 5,
-        "title": "Has anyone used the Forrester function?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-26T09:24:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Stop stealing our Codex quota with these surprise hard resets",
         "url": "https://www.reddit.com/r/codex/comments/1wqmbwx/stop_stealing_our_codex_quota_with_these_surprise/",
         "source": "r/codex",
@@ -150,104 +247,6 @@
         "publishedAt": "2026-09-26T13:25:04.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/b242eGM5aHk4dnJoMXEeMsP5yl35TB6lDs_5hvsrGqMJl6ptmydWXKHPRkVG.jpeg?width=640&crop=smart&auto=webp&s=db65d3ee5ed224c675cc9955d5f33aaf6f747ba7"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T10:15:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wqmjvg/an_openai_agent_escaped_its_sandbox_by_hiding/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T09:51:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OT8spJhShkPfiaGI9i1xUSTvGlwWHr2E0umFpNEEHgY.jpeg?width=640&crop=smart&auto=webp&s=efe84bdfbb92d5e1aa2f1391ace2b673899b7a08"
-      },
-      {
-        "rank": 3,
-        "title": "gpt is down for everyone right?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wqacst/gpt_is_down_for_everyone_right/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-25T22:49:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Update",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wqlvks/update/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T09:07:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pfwhyvw0ztrh1.png?width=640&crop=smart&auto=webp&s=398ca2dfcb5500f919fb37946fe9709ac9b4f2d6"
-      },
-      {
-        "rank": 5,
-        "title": "Worth the down time, reset coming.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wqcxyo/worth_the_down_time_reset_coming/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T00:49:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sjscty81irrh1.png?width=640&crop=smart&auto=webp&s=044162d43ba9452fcf2b4db159dbdec16164d95c"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5.5 cut out em dashes almost entirely",
-        "url": "https://www.reddit.com/r/singularity/comments/1wq9wtj/opus_55_cut_out_em_dashes_almost_entirely/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-25T22:30:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z6utim0psqrh1.png?width=640&crop=smart&auto=webp&s=a76605f8d7a4b26dd070f4b86ac4d63ea0dea3ee"
-      },
-      {
-        "rank": 2,
-        "title": "Video models are getting good",
-        "url": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-26T00:02:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z29qbGtqam45cnJoMcojh23krgwJHBfUlauMDcBJ8VgdXwhBt-vtQ7kCuMXC.png?width=640&crop=smart&auto=webp&s=82a3a83cc38d108e5ba2f6d53d820e83a9e6c6fc"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree humanoid robot",
-        "url": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-26T17:30:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGdneWdvZHJnd3JoMaSVlRNBaHwthE-pU2BRD_RA4GRTMy7fHt64QlfCNMQl.jpeg?width=640&crop=smart&auto=webp&s=79b74ec4c8e8356157bd4ad85d484e42980c82f4"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Fable 5.1 completed a frontier nine-loop particle-physics calculation experts had worked toward for years, with researchers mostly just telling it “keep going” while it built, debugged and ran the entire workflow",
-        "url": "https://www.reddit.com/r/singularity/comments/1wqa2u2/claude_fable_51_completed_a_frontier_nineloop/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-25T22:37:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bwcJj0nYl4_zLIXMHpBZT-bx41EjlgjYZUWbx74N5Ao.png?width=640&crop=smart&auto=webp&s=30d9774ebbaa5e05d205b353c11f8db4503bfafe"
-      },
-      {
-        "rank": 5,
-        "title": "Japan is trialing a drug that regrows human teeth by blocking USAG-1—a protein that keeps dormant tooth buds switched off. Phase I is done. Phase IIa in children with congenital tooth loss is next. If it works, dentures and implants could become obsolete.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wqatk4/japan_is_trialing_a_drug_that_regrows_human_teeth/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-25T23:10:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hry2mlgn8orh1.png?width=640&crop=smart&auto=webp&s=27b9c301ac32f2c271a10d268024e3d48198b533"
       }
     ]
   }

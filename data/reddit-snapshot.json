@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-26T23:48:12.122Z",
+  "fetchedAt": "2026-09-27T04:35:07.892Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,12 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "Aight I get it, Opus 5.5 is actually peak",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqcara/aight_i_get_it_opus_55_is_actually_peak/",
+        "title": "I built my own Monarch-style finance dashboard with Opus 5.5 for less than $20",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-26T00:18:15.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-26T20:44:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w2kzqhc7fxrh1.png?width=140&height=87&auto=webp&s=317c79b5465b1703bcf0b210fbd98078bfe5e2ce"
       },
       {
         "rank": 2,
@@ -35,13 +36,13 @@
       },
       {
         "rank": 4,
-        "title": "I built my own Monarch-style finance dashboard with Opus 5.5 for less than $20",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/",
+        "title": "Elon Musk admits Grok isn’t as good as Anthropic’s Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqzu96/elon_musk_admits_grok_isnt_as_good_as_anthropics/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-26T20:44:05.000Z",
+        "publishedAt": "2026-09-26T19:51:13.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w2kzqhc7fxrh1.png?width=140&height=87&auto=webp&s=317c79b5465b1703bcf0b210fbd98078bfe5e2ce"
+        "thumbnail": "https://external-preview.redd.it/hnSKv3l2A7r_RL7CTtyrrV9gxCwUhguhLGMWr9fwgnY.jpeg?width=640&crop=smart&auto=webp&s=f64f92c07b9bfe47a2dd4efc31fd9cc6fb644f6f"
       },
       {
         "rank": 5,
@@ -55,25 +56,6 @@
       },
       {
         "rank": 1,
-        "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-26T00:12:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "LLMs were told they could lie in Diplomacy. Here's who actually kept their promises. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqufwj/llms_were_told_they_could_lie_in_diplomacy_heres/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-26T16:13:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gpcnyudp2wrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7d7600a12600ec5f0d13efc61db2646bcd54021c"
-      },
-      {
-        "rank": 3,
         "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
         "source": "r/MachineLearning",
@@ -83,7 +65,7 @@
         "thumbnail": "https://preview.redd.it/shimrxewdtrh1.jpeg?width=640&crop=smart&auto=webp&s=11ddf5749fec40ec19dd048cf1b26820f0745bbe"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
         "source": "r/MachineLearning",
@@ -93,12 +75,31 @@
         "thumbnail": "https://preview.redd.it/k043y0nyrwrh1.png?width=140&height=70&auto=webp&s=4b2e67f6d986d9771b2de56a104480904fee57dc"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "Publication potential [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-26T18:23:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Teaching Neural Nets to Fight with RL [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-27T03:10:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jsyu172kbzrh1.gif?width=640&crop=smart&s=8e822d114449ca3292e6dcad471cdfd566df97df"
+      },
+      {
+        "rank": 5,
+        "title": "Has anyone used the Forrester function?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-26T09:24:09.000Z",
         "category": "reddit"
       },
       {
@@ -132,16 +133,6 @@
       },
       {
         "rank": 4,
-        "title": "Reset Confirmed",
-        "url": "https://www.reddit.com/r/codex/comments/1wqc44m/reset_confirmed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-26T00:09:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yq765n50brrh1.png?width=140&height=102&auto=webp&s=7a16a47f2ad49b924a229226c7a0ea6ea4858096"
-      },
-      {
-        "rank": 5,
         "title": "They are aware and working on it apparently, just two more days to go!",
         "url": "https://www.reddit.com/r/codex/comments/1wr1oir/they_are_aware_and_working_on_it_apparently_just/",
         "source": "r/codex",
@@ -149,6 +140,16 @@
         "publishedAt": "2026-09-26T21:08:07.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/acx6348gjxrh1.png?width=640&crop=smart&auto=webp&s=d688914f9db1cb3a1b3a0a3bd306639abd631416"
+      },
+      {
+        "rank": 5,
+        "title": "The Pelican Test...extended version",
+        "url": "https://www.reddit.com/r/codex/comments/1wqqhy9/the_pelican_testextended_version/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T13:25:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/b242eGM5aHk4dnJoMXEeMsP5yl35TB6lDs_5hvsrGqMJl6ptmydWXKHPRkVG.jpeg?width=640&crop=smart&auto=webp&s=db65d3ee5ed224c675cc9955d5f33aaf6f747ba7"
       },
       {
         "rank": 1,

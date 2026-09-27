@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T19:12:49.543Z",
+  "fetchedAt": "2026-09-27T22:30:44.265Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -46,11 +46,11 @@
       },
       {
         "rank": 5,
-        "title": "When do ICLR submissions and reviews become public? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
+        "title": "Two-stage shelf audit: YOLO finds the products, embeddings can't tell sibling SKUS apart. What should Stage 2 be? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrxabu/twostage_shelf_audit_yolo_finds_the_products/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-27T06:27:37.000Z",
+        "publishedAt": "2026-09-27T22:13:14.000Z",
         "category": "reddit"
       },
       {
@@ -84,12 +84,13 @@
       },
       {
         "rank": 4,
-        "title": "The new agent, O, releasing on DevDay is rumored to not be included in Plus plans.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wr31wa/the_new_agent_o_releasing_on_devday_is_rumored_to/",
+        "title": "Dario Amodei on SNL assuring viewers that humanity is safe from AI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wrolgj/dario_amodei_on_snl_assuring_viewers_that/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-26T22:07:56.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-27T16:27:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NWlka3luZmJhM3NoMQRPLMHnciUuR0R9x7DSQ4llQ08sJA2nAotWRpTFd4oP.png?width=640&crop=smart&auto=webp&s=62afeb05aac6a762c89c8685d5da76dc03310f36"
       },
       {
         "rank": 5,
@@ -123,26 +124,15 @@
       },
       {
         "rank": 3,
-        "title": "Sonnet 5.5, Which Already Supposedly Beats GPT-6 Sol, Has Had a Last-Minute Upgrade With Release Expected Monday",
-        "url": "https://www.reddit.com/r/singularity/comments/1wr27ro/sonnet_55_which_already_supposedly_beats_gpt6_sol/",
+        "title": "Introducing Vitruvian, a genetic optimization model for optimizing human embryo DNA and reportedly being able to increase the IQ of a person by 14 points, nearly a standard deviation which is incredibly significant",
+        "url": "https://www.reddit.com/r/singularity/comments/1wrq633/introducing_vitruvian_a_genetic_optimization/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-26T21:31:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gbiku1zalxrh1.png?width=640&crop=smart&auto=webp&s=8485ee9a8e4f5802699c955a4bcd035200efba1b"
+        "publishedAt": "2026-09-27T17:30:31.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "Claude Opus 5.5 designed a processor faster and smaller than the human-made one on the HWE benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1wrera2/claude_opus_55_designed_a_processor_faster_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-27T08:23:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/315nwx60w0sh1.jpg?width=140&height=83&auto=webp&s=14b0673ce4ef58103ee5e3b028aba0d03f6a7a26"
-      },
-      {
-        "rank": 5,
         "title": "Claude Opus 5.5 controlled a robot arm to copy Michelangelo, noticed it had left a broken line, and went back to fix the mistake on its own",
         "url": "https://www.reddit.com/r/singularity/comments/1wrgebj/claude_opus_55_controlled_a_robot_arm_to_copy/",
         "source": "r/singularity",
@@ -150,6 +140,16 @@
         "publishedAt": "2026-09-27T10:03:29.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/MGE0MDdsNXdkMXNoMVfqDTpUkbRD4_9G-ukPAEY5jhtuNXKeJrlJ1lDrEtpL.jpeg?width=640&crop=smart&auto=webp&s=eb6e03865bf3864230a3484de03d1793350a8220"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Opus 5.5 designed a processor faster and smaller than the human-made one on the HWE benchmark",
+        "url": "https://www.reddit.com/r/singularity/comments/1wrera2/claude_opus_55_designed_a_processor_faster_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-27T08:23:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/315nwx60w0sh1.jpg?width=140&height=83&auto=webp&s=14b0673ce4ef58103ee5e3b028aba0d03f6a7a26"
       },
       {
         "rank": 1,

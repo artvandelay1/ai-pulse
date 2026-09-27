@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-09-27T10:26:44.260Z",
+  "fetchedAt": "2026-09-27T15:16:06.744Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built my own Monarch-style finance dashboard with Opus 5.5 for less than $20",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T20:44:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w2kzqhc7fxrh1.png?width=140&height=87&auto=webp&s=317c79b5465b1703bcf0b210fbd98078bfe5e2ce"
+      },
+      {
+        "rank": 2,
+        "title": "Elon Musk admits Grok isn’t as good as Anthropic’s Claude",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqzu96/elon_musk_admits_grok_isnt_as_good_as_anthropics/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T19:51:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/hnSKv3l2A7r_RL7CTtyrrV9gxCwUhguhLGMWr9fwgnY.jpeg?width=640&crop=smart&auto=webp&s=f64f92c07b9bfe47a2dd4efc31fd9cc6fb644f6f"
+      },
+      {
+        "rank": 3,
+        "title": "What tool have you built for yourself with Claude code that removes so much headache in your work or personal life?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wrckhp/what_tool_have_you_built_for_yourself_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-27T06:12:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5.5 picked Squirtle because of Brock. Fable 5.1 picked Charmander because it was the closest ball. One cost $8, the other $100.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqzubb/opus_55_picked_squirtle_because_of_brock_fable_51/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T19:51:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "It is scary thinking the era of these subscriptions will come to an end not long from now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqtnng/it_is_scary_thinking_the_era_of_these/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-26T15:41:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nlqp02yhvvrh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=52b3fd7aef3ea79c55efbd283e9fceb4d4374a17"
+      },
       {
         "rank": 1,
         "title": "Teaching Neural Nets to Fight with RL [P]",
@@ -27,6 +75,16 @@
       },
       {
         "rank": 3,
+        "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-27T12:30:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xts780wef2sh1.gif?frame=1&width=140&height=130&auto=webp&s=5ad7e78833fdaf4ad0337ebf1e31d56144194faf"
+      },
+      {
+        "rank": 4,
         "title": "Publication potential [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
         "source": "r/MachineLearning",
@@ -35,7 +93,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
         "source": "r/MachineLearning",
@@ -44,13 +102,54 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "When do ICLR submissions and reviews become public? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "They are aware and working on it apparently, just two more days to go!",
+        "url": "https://www.reddit.com/r/codex/comments/1wr1oir/they_are_aware_and_working_on_it_apparently_just/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-27T06:27:37.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-26T21:08:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/acx6348gjxrh1.png?width=640&crop=smart&auto=webp&s=d688914f9db1cb3a1b3a0a3bd306639abd631416"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI GPU are really cooling down; Theo just posted that usage graph, brutal.",
+        "url": "https://www.reddit.com/r/codex/comments/1wqtd1g/openai_gpu_are_really_cooling_down_theo_just/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T15:28:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rw0n2g3suvrh1.jpeg?width=640&crop=smart&auto=webp&s=f634aee9a6e373bc49d0ed1cef746f9ed23b7443"
+      },
+      {
+        "rank": 3,
+        "title": "Reset just came in :)",
+        "url": "https://www.reddit.com/r/codex/comments/1wqvl66/reset_just_came_in/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T17:00:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9wshjigbbwrh1.png?width=640&crop=smart&auto=webp&s=d723b7103a372ee598eececcdcb5ea7faeccc70f"
+      },
+      {
+        "rank": 4,
+        "title": "More resets incoming next week",
+        "url": "https://www.reddit.com/r/codex/comments/1wr4cp6/more_resets_incoming_next_week/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T23:08:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sqg1dcgu4yrh1.png?width=140&height=64&auto=webp&s=2ac5ab503a408e9d561481e855fd25d5016ec99a"
+      },
+      {
+        "rank": 5,
+        "title": "I've been seeing a lot of comments circling around the reset penalty. Made a quick chart to show when an account actually 'loses' usage from a global reset",
+        "url": "https://www.reddit.com/r/codex/comments/1wr3yev/ive_been_seeing_a_lot_of_comments_circling_around/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-26T22:49:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ceeytnco1yrh1.jpeg?width=640&crop=smart&auto=webp&s=6088986ad1e5e26a3cd9c7b0612f07f3ad1e745d"
       },
       {
         "rank": 1,
@@ -149,104 +248,6 @@
         "publishedAt": "2026-09-26T11:37:42.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/37osiixspurh1.jpeg?width=640&crop=smart&auto=webp&s=ade03b641fc3c67bd4069003f16eaf083f44c86d"
-      },
-      {
-        "rank": 1,
-        "title": "I built my own Monarch-style finance dashboard with Opus 5.5 for less than $20",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T20:44:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w2kzqhc7fxrh1.png?width=140&height=87&auto=webp&s=317c79b5465b1703bcf0b210fbd98078bfe5e2ce"
-      },
-      {
-        "rank": 2,
-        "title": "I gave Opus 5.5 my Minecraft mod file and told it to create a Trailer",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqly15/i_gave_opus_55_my_minecraft_mod_file_and_told_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T09:12:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/angzcnRhN2t6dHJoMbIgRc8KCYQ4qODN2lQ1-S8JanXDUPQYWnwZXNFy-W4h.jpeg?width=640&crop=smart&auto=webp&s=d792c5d3b4eb8f1c9bdcd8bb4519cfff7968fbca"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5.5 is my favorite model ever, by far",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqprkt/opus_55_is_my_favorite_model_ever_by_far/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T12:51:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Elon Musk admits Grok isn’t as good as Anthropic’s Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqzu96/elon_musk_admits_grok_isnt_as_good_as_anthropics/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T19:51:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/hnSKv3l2A7r_RL7CTtyrrV9gxCwUhguhLGMWr9fwgnY.jpeg?width=640&crop=smart&auto=webp&s=f64f92c07b9bfe47a2dd4efc31fd9cc6fb644f6f"
-      },
-      {
-        "rank": 5,
-        "title": "It is scary thinking the era of these subscriptions will come to an end not long from now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wqtnng/it_is_scary_thinking_the_era_of_these/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-26T15:41:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nlqp02yhvvrh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=52b3fd7aef3ea79c55efbd283e9fceb4d4374a17"
-      },
-      {
-        "rank": 1,
-        "title": "Stop stealing our Codex quota with these surprise hard resets",
-        "url": "https://www.reddit.com/r/codex/comments/1wqmbwx/stop_stealing_our_codex_quota_with_these_surprise/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-26T09:37:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I thought the “model nerf” posts were bullshit… until today",
-        "url": "https://www.reddit.com/r/codex/comments/1wqjxyy/i_thought_the_model_nerf_posts_were_bullshit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-26T07:05:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f71qrxucctrh1.png?width=640&crop=smart&auto=webp&s=bca078baabdb4178d0efdf7d88206c6f0ef125a9"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI GPU are really cooling down; Theo just posted that usage graph, brutal.",
-        "url": "https://www.reddit.com/r/codex/comments/1wqtd1g/openai_gpu_are_really_cooling_down_theo_just/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-26T15:28:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rw0n2g3suvrh1.jpeg?width=640&crop=smart&auto=webp&s=f634aee9a6e373bc49d0ed1cef746f9ed23b7443"
-      },
-      {
-        "rank": 4,
-        "title": "They are aware and working on it apparently, just two more days to go!",
-        "url": "https://www.reddit.com/r/codex/comments/1wr1oir/they_are_aware_and_working_on_it_apparently_just/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-26T21:08:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/acx6348gjxrh1.png?width=640&crop=smart&auto=webp&s=d688914f9db1cb3a1b3a0a3bd306639abd631416"
-      },
-      {
-        "rank": 5,
-        "title": "The Pelican Test...extended version",
-        "url": "https://www.reddit.com/r/codex/comments/1wqqhy9/the_pelican_testextended_version/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-26T13:25:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b242eGM5aHk4dnJoMXEeMsP5yl35TB6lDs_5hvsrGqMJl6ptmydWXKHPRkVG.jpeg?width=640&crop=smart&auto=webp&s=db65d3ee5ed224c675cc9955d5f33aaf6f747ba7"
       }
     ]
   }

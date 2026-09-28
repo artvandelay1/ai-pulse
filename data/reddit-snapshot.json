@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T15:49:45.498Z",
+  "fetchedAt": "2026-09-28T21:43:45.210Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-27T17:51:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zfq29jgkn3sh1.png?width=640&crop=smart&auto=webp&s=256ac7e6ae987452c6854515e6f525785ad4b9eb"
-      },
-      {
-        "rank": 2,
         "title": "Functional Gradient Descent with Adaptive Representations [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wsejb7/functional_gradient_descent_with_adaptive/",
         "source": "r/MachineLearning",
@@ -26,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/wom07k9ih9sh1.gif?width=640&crop=smart&s=ee608513c51962e48d7b3c59c236fb2b29c831b1"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/",
         "source": "r/MachineLearning",
@@ -35,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Qwen3-VL 8B on a laptop vs Opus 5.5 / Sonnet 5 / GPT-5.6 on 137 messy documents: beat GPT-5.6 on tax forms, lost badly on Indian date formats[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/",
         "source": "r/MachineLearning",
@@ -45,7 +35,7 @@
         "thumbnail": "https://external-preview.redd.it/pbDKKEXngkAZSBKer7A3N5h3lnJf2WK81OTSyFJqVjQ.png?width=140&height=70&auto=webp&s=4b2e1e3de06b119764a5bbf21abe04a2056193f1"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Are there any good research papers around Text clustering using LLMs [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6g1p/are_there_any_good_research_papers_around_text/",
         "source": "r/MachineLearning",
@@ -54,17 +44,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Dario Amodei on SNL assuring viewers that humanity is safe from AI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wrolgj/dario_amodei_on_snl_assuring_viewers_that/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsfkwg/browser_demo_of_our_clash_royale_rl_environment_a/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-27T16:27:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NWlka3luZmJhM3NoMQRPLMHnciUuR0R9x7DSQ4llQ08sJA2nAotWRpTFd4oP.png?width=640&crop=smart&auto=webp&s=62afeb05aac6a762c89c8685d5da76dc03310f36"
+        "publishedAt": "2026-09-28T14:06:42.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "It never ends",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wsdji2/it_never_ends/",
         "source": "r/OpenAI",
@@ -74,17 +63,7 @@
         "thumbnail": "https://preview.redd.it/sgfneoxwa9sh1.png?width=640&crop=smart&auto=webp&s=153c3392f6693b4d10a92fad2adb1e7177b06878"
       },
       {
-        "rank": 3,
-        "title": "Either they win, or you lose 💀",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wrq6wl/either_they_win_or_you_lose/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-27T17:31:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cWNvNnZ0anJsM3NoMTwdk5zLxciPOaeEn0ZcLMAjH8pvQfNXx21X9Ym_RXgg.png?width=640&crop=smart&auto=webp&s=2bdd3481fb0ef09609a38441f861a314e7e39495"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "How to import pandas?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1ws604a/how_to_import_pandas/",
         "source": "r/OpenAI",
@@ -94,36 +73,47 @@
         "thumbnail": "https://preview.redd.it/p10xcyw457sh1.png?width=640&crop=smart&auto=webp&s=7896d7ce4e17322103ede468c9ad661a0a7e2967"
       },
       {
-        "rank": 5,
-        "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wrot4b/openai_says_its_ai_agents_escaped_a_secure/",
+        "rank": 3,
+        "title": "Me right now. Come on OAI cook something tomorrow",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wsn2qt/me_right_now_come_on_oai_cook_something_tomorrow/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-27T16:36:08.000Z",
+        "publishedAt": "2026-09-28T18:45:23.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aBGUjPJZjQppG5JyC5ku2YBnlccWeRnM1uNWW4ZBWSU.jpeg?width=640&crop=smart&auto=webp&s=b396597425756ca882252bc7d0d3b91efd23cf5a"
+        "thumbnail": "https://preview.redd.it/i1c5dalx3bsh1.jpeg?width=640&crop=smart&auto=webp&s=35bc8576a03160f15dee785e35a1fa760ca7cf52"
+      },
+      {
+        "rank": 4,
+        "title": "need more tokens",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wsewva/need_more_tokens/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-28T13:39:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b94jbspbl9sh1.jpeg?width=640&crop=smart&auto=webp&s=64fbd4873cf39fec0a60095498c7e4783b7ab335"
+      },
+      {
+        "rank": 5,
+        "title": "Sama vagueposting about tomorrow's DevDay",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wsq03s/sama_vagueposting_about_tomorrows_devday/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-28T20:31:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y5j1w2jrmbsh1.jpeg?width=640&crop=smart&auto=webp&s=56363a9309ce0268c7136e9ea8271fa4d4e3c3ee"
       },
       {
         "rank": 1,
-        "title": "Five frontier AIs were told to engineer and 3D-print the strongest bridge they could with 500 g of plastic. Claude Opus 5.5’s design held ~130 lb, nearly 5× the runner-up",
-        "url": "https://www.reddit.com/r/singularity/comments/1wrvki8/five_frontier_ais_were_told_to_engineer_and/",
+        "title": "Claude Sonnet 5.5 Released",
+        "url": "https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-27T21:01:51.000Z",
+        "publishedAt": "2026-09-28T18:02:52.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MXRmeWo2amFuNHNoMfzjRq4r-KWTg6CRC9VeRP1JJZB5AUYQHh98JUb_b0wg.jpeg?width=320&crop=smart&auto=webp&s=8419bf1a2eb15ab68fe6fc2104ab3a78194c79dd"
+        "thumbnail": "https://external-preview.redd.it/fMfdfmxnSpXQjCVIN6U2pyK0uxm7VdApswdcvbi4t58.jpeg?width=640&crop=smart&auto=webp&s=341bdaf90a0fa76a10e65f2c4c1a6763fc2a3088"
       },
       {
         "rank": 2,
-        "title": "Introducing Vitruvian, a genetic optimization model for optimizing human embryo DNA and reportedly being able to increase the IQ of a person by 14 points, nearly a standard deviation which is incredibly significant",
-        "url": "https://www.reddit.com/r/singularity/comments/1wrq633/introducing_vitruvian_a_genetic_optimization/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-27T17:30:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Thoughts: The chief economist at Apollo is warning that mass adoption of AI agents could trigger a bank run as they optimize user investments.",
         "url": "https://www.reddit.com/r/singularity/comments/1ws1vzo/thoughts_the_chief_economist_at_apollo_is_warning/",
         "source": "r/singularity",
@@ -131,6 +121,16 @@
         "publishedAt": "2026-09-28T01:49:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0ldv1h1o26sh1.png?width=320&crop=smart&auto=webp&s=f503fd91a47d188e47e27aa253dcbd95df61fd4e"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI pauses frontier training after models swarm US Governament",
+        "url": "https://www.reddit.com/r/singularity/comments/1wshvj6/openai_pauses_frontier_training_after_models/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-28T15:35:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/WrNivU1Y6wPXm9wPQwyzSzvA5vPUikxRb1pEt1s9zOI.jpeg?width=640&crop=smart&auto=webp&s=a1f95f4ef7da01356ee076bdcac66fe22b64d233"
       },
       {
         "rank": 4,
@@ -144,13 +144,13 @@
       },
       {
         "rank": 5,
-        "title": "AI agents (mostly Opus 5.5) have been speeding up a 27B model from 66tok/s to 580tok/s on a Mac in 3 days by rewriting its inference engine",
-        "url": "https://www.reddit.com/r/singularity/comments/1wrwn8h/ai_agents_mostly_opus_55_have_been_speeding_up_a/",
+        "title": "Anthropic cooked openai again 💀",
+        "url": "https://www.reddit.com/r/singularity/comments/1wsm1r0/anthropic_cooked_openai_again/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-27T21:45:52.000Z",
+        "publishedAt": "2026-09-28T18:07:23.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dkzc7jjyt4sh1.png?width=140&height=79&auto=webp&s=f8877c2a936145a188b832941f01bfb035edafe4"
+        "thumbnail": "https://preview.redd.it/s42mfi95xash1.png?width=640&crop=smart&auto=webp&s=21d11cc28eedbe7fb61e5e1204baa41c0fdd7c68"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T07:27:47.648Z",
+  "fetchedAt": "2026-09-28T15:49:45.498Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,13 +17,13 @@
       },
       {
         "rank": 2,
-        "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/",
+        "title": "Functional Gradient Descent with Adaptive Representations [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsejb7/functional_gradient_descent_with_adaptive/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-27T12:30:00.000Z",
+        "publishedAt": "2026-09-28T13:23:54.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xts780wef2sh1.gif?frame=1&width=140&height=130&auto=webp&s=5ad7e78833fdaf4ad0337ebf1e31d56144194faf"
+        "thumbnail": "https://preview.redd.it/wom07k9ih9sh1.gif?width=640&crop=smart&s=ee608513c51962e48d7b3c59c236fb2b29c831b1"
       },
       {
         "rank": 3,
@@ -36,20 +36,21 @@
       },
       {
         "rank": 4,
+        "title": "Qwen3-VL 8B on a laptop vs Opus 5.5 / Sonnet 5 / GPT-5.6 on 137 messy documents: beat GPT-5.6 on tax forms, lost badly on Indian date formats[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-28T11:11:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/pbDKKEXngkAZSBKer7A3N5h3lnJf2WK81OTSyFJqVjQ.png?width=140&height=70&auto=webp&s=4b2e1e3de06b119764a5bbf21abe04a2056193f1"
+      },
+      {
+        "rank": 5,
         "title": "Are there any good research papers around Text clustering using LLMs [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6g1p/are_there_any_good_research_papers_around_text/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-28T05:52:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Two-stage shelf audit: YOLO finds the products, embeddings can't tell sibling SKUS apart. What should Stage 2 be? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wrxabu/twostage_shelf_audit_yolo_finds_the_products/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-27T22:13:14.000Z",
         "category": "reddit"
       },
       {
@@ -64,6 +65,16 @@
       },
       {
         "rank": 2,
+        "title": "It never ends",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wsdji2/it_never_ends/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-28T12:41:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sgfneoxwa9sh1.png?width=640&crop=smart&auto=webp&s=153c3392f6693b4d10a92fad2adb1e7177b06878"
+      },
+      {
+        "rank": 3,
         "title": "Either they win, or you lose 💀",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wrq6wl/either_they_win_or_you_lose/",
         "source": "r/OpenAI",
@@ -73,17 +84,17 @@
         "thumbnail": "https://external-preview.redd.it/cWNvNnZ0anJsM3NoMTwdk5zLxciPOaeEn0ZcLMAjH8pvQfNXx21X9Ym_RXgg.png?width=640&crop=smart&auto=webp&s=2bdd3481fb0ef09609a38441f861a314e7e39495"
       },
       {
-        "rank": 3,
-        "title": "POV: you're an OpenAI agent attacking Hugging Face (music video)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wrkkli/pov_youre_an_openai_agent_attacking_hugging_face/",
+        "rank": 4,
+        "title": "How to import pandas?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1ws604a/how_to_import_pandas/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-27T13:43:11.000Z",
+        "publishedAt": "2026-09-28T05:27:02.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d2d3d2t5c3lnMnNoMTBuCpd_nSOv7nijnSYlYFr7fjyvQuhQaeuvvaQ148g8.png?width=640&crop=smart&auto=webp&s=97d61ae7b893efdb5ab8cf3f6ba32adef81439f7"
+        "thumbnail": "https://preview.redd.it/p10xcyw457sh1.png?width=640&crop=smart&auto=webp&s=7896d7ce4e17322103ede468c9ad661a0a7e2967"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wrot4b/openai_says_its_ai_agents_escaped_a_secure/",
         "source": "r/OpenAI",
@@ -91,16 +102,6 @@
         "publishedAt": "2026-09-27T16:36:08.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/aBGUjPJZjQppG5JyC5ku2YBnlccWeRnM1uNWW4ZBWSU.jpeg?width=640&crop=smart&auto=webp&s=b396597425756ca882252bc7d0d3b91efd23cf5a"
-      },
-      {
-        "rank": 5,
-        "title": "Awww",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wrq6q4/awww/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-27T17:31:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8bydc1kql3sh1.png?width=640&crop=smart&auto=webp&s=dd93ec504c9b717420142850fd2177b9a5f54a40"
       },
       {
         "rank": 1,
@@ -123,33 +124,33 @@
       },
       {
         "rank": 3,
-        "title": "Claude Opus 5.5 controlled a robot arm to copy Michelangelo, noticed it had left a broken line, and went back to fix the mistake on its own",
-        "url": "https://www.reddit.com/r/singularity/comments/1wrgebj/claude_opus_55_controlled_a_robot_arm_to_copy/",
+        "title": "Thoughts: The chief economist at Apollo is warning that mass adoption of AI agents could trigger a bank run as they optimize user investments.",
+        "url": "https://www.reddit.com/r/singularity/comments/1ws1vzo/thoughts_the_chief_economist_at_apollo_is_warning/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-27T10:03:29.000Z",
+        "publishedAt": "2026-09-28T01:49:55.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MGE0MDdsNXdkMXNoMVfqDTpUkbRD4_9G-ukPAEY5jhtuNXKeJrlJ1lDrEtpL.jpeg?width=640&crop=smart&auto=webp&s=eb6e03865bf3864230a3484de03d1793350a8220"
+        "thumbnail": "https://preview.redd.it/0ldv1h1o26sh1.png?width=320&crop=smart&auto=webp&s=f503fd91a47d188e47e27aa253dcbd95df61fd4e"
       },
       {
         "rank": 4,
-        "title": "Claude Opus 5.5 designed a processor faster and smaller than the human-made one on the HWE benchmark",
-        "url": "https://www.reddit.com/r/singularity/comments/1wrera2/claude_opus_55_designed_a_processor_faster_and/",
+        "title": "Gemini Pro 4 (leak)",
+        "url": "https://www.reddit.com/r/singularity/comments/1ws8erf/gemini_pro_4_leak/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-27T08:23:09.000Z",
+        "publishedAt": "2026-09-28T07:51:44.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/315nwx60w0sh1.jpg?width=140&height=83&auto=webp&s=14b0673ce4ef58103ee5e3b028aba0d03f6a7a26"
+        "thumbnail": "https://preview.redd.it/2qd0x1j7v7sh1.png?width=140&height=83&auto=webp&s=82a59332fe7de3b25746a5db273bddc47f26c991"
       },
       {
         "rank": 5,
-        "title": "Apéry irrationality marked solved on FrontierMath",
-        "url": "https://www.reddit.com/r/singularity/comments/1wrin3q/apéry_irrationality_marked_solved_on_frontiermath/",
+        "title": "AI agents (mostly Opus 5.5) have been speeding up a 27B model from 66tok/s to 580tok/s on a Mac in 3 days by rewriting its inference engine",
+        "url": "https://www.reddit.com/r/singularity/comments/1wrwn8h/ai_agents_mostly_opus_55_have_been_speeding_up_a/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-27T12:10:33.000Z",
+        "publishedAt": "2026-09-27T21:45:52.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aa_d2PHPShxXS9xU1bKFu-aBuap-efrlRG378_ZIJjc.png?width=640&crop=smart&auto=webp&s=95c98b5990accba76024dbae82243a86e786f16d"
+        "thumbnail": "https://preview.redd.it/dkzc7jjyt4sh1.png?width=140&height=79&auto=webp&s=f8877c2a936145a188b832941f01bfb035edafe4"
       },
       {
         "rank": 1,

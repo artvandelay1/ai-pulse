@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-09-29T08:09:09.275Z",
+  "fetchedAt": "2026-09-29T15:01:43.068Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-29T02:58:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "What are the trending topics in medical imaging? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsockf/what_are_the_trending_topics_in_medical_imaging_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-28T19:30:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-29T10:35:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Advice on choosing university for PhD [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wt54tz/advice_on_choosing_university_for_phd_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-29T09:02:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "CoWindow and MassAlloc Attention: collective causal coverage and distribution-adaptive compute [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wt1gbk/cowindow_and_massalloc_attention_collective/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-29T05:16:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "The rug pull was real",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wt39kd/the_rug_pull_was_real/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T07:03:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r1tn72jhresh1.png?width=140&height=56&auto=webp&s=b7bcba497d1012ec4cf60d5a6150b82859e8ff1d"
+      },
+      {
+        "rank": 2,
+        "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wssokn/wsj_reports_openai_scrapped_gpt61_astra_over/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-28T22:16:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/mKG9oAb4ojpM8R53VXMVpo3tRLj1TIBtWbdeAPRJS-Q.jpeg?width=640&crop=smart&auto=webp&s=669a93a47d906f9d358c5ddf07c0a5194c2650b2"
+      },
+      {
+        "rank": 3,
+        "title": "Stopped getting caught",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wt8z16/stopped_getting_caught/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T12:37:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/81qh3qv1fgsh1.png?width=640&crop=smart&auto=webp&s=ce6e7ac9055a7137b520af07bf0d36b68e298ba0"
+      },
+      {
+        "rank": 4,
+        "title": "Me right now. Come on OAI cook something tomorrow",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wsn2qt/me_right_now_come_on_oai_cook_something_tomorrow/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-28T18:45:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i1c5dalx3bsh1.jpeg?width=640&crop=smart&auto=webp&s=35bc8576a03160f15dee785e35a1fa760ca7cf52"
+      },
+      {
+        "rank": 5,
+        "title": "Sama vagueposting about tomorrow's DevDay",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wsq03s/sama_vagueposting_about_tomorrows_devday/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-28T20:31:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y5j1w2jrmbsh1.jpeg?width=640&crop=smart&auto=webp&s=56363a9309ce0268c7136e9ea8271fa4d4e3c3ee"
+      },
+      {
+        "rank": 1,
+        "title": "Reuters: Anthropic files for $2T IPO with $42B net loss in 2025, expects to spend half a trillion in 2027",
+        "url": "https://www.reddit.com/r/singularity/comments/1wsw45e/reuters_anthropic_files_for_2t_ipo_with_42b_net/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-29T00:48:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Claude Sonnet 5.5 Released",
+        "url": "https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-28T18:02:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/fMfdfmxnSpXQjCVIN6U2pyK0uxm7VdApswdcvbi4t58.jpeg?width=640&crop=smart&auto=webp&s=341bdaf90a0fa76a10e65f2c4c1a6763fc2a3088"
+      },
+      {
+        "rank": 3,
+        "title": "Claude Sonnet 5.5 is one day old and already one-shot this entire 3D zombie FPS in 49 minutes for $177. The gap between describing a game and having a playable game is collapsing.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wswpv6/claude_sonnet_55_is_one_day_old_and_already/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-29T01:17:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZHNtNGxlbm0xZHNoMWWZj63g5GhGT0TFXnUrmfEJ_IrsXCuB-Z6b4o2F-L9N.jpeg?width=640&crop=smart&auto=webp&s=47171a70a9b1e05b7be5896859962562911003cc"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI pauses frontier training after models swarm US Governament",
+        "url": "https://www.reddit.com/r/singularity/comments/1wshvj6/openai_pauses_frontier_training_after_models/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-28T15:35:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/WrNivU1Y6wPXm9wPQwyzSzvA5vPUikxRb1pEt1s9zOI.jpeg?width=640&crop=smart&auto=webp&s=a1f95f4ef7da01356ee076bdcac66fe22b64d233"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic cooked openai again 💀",
+        "url": "https://www.reddit.com/r/singularity/comments/1wsm1r0/anthropic_cooked_openai_again/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-28T18:07:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s42mfi95xash1.png?width=640&crop=smart&auto=webp&s=21d11cc28eedbe7fb61e5e1204baa41c0fdd7c68"
+      },
       {
         "rank": 1,
         "title": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family",
@@ -56,53 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Functional Gradient Descent with Adaptive Representations [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsejb7/functional_gradient_descent_with_adaptive/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-28T13:23:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wom07k9ih9sh1.gif?width=640&crop=smart&s=ee608513c51962e48d7b3c59c236fb2b29c831b1"
-      },
-      {
-        "rank": 2,
-        "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-29T02:58:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Qwen3-VL 8B on a laptop vs Opus 5.5 / Sonnet 5 / GPT-5.6 on 137 messy documents: beat GPT-5.6 on tax forms, lost badly on Indian date formats[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-28T11:11:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/pbDKKEXngkAZSBKer7A3N5h3lnJf2WK81OTSyFJqVjQ.png?width=140&height=70&auto=webp&s=4b2e1e3de06b119764a5bbf21abe04a2056193f1"
-      },
-      {
-        "rank": 4,
-        "title": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsfkwg/browser_demo_of_our_clash_royale_rl_environment_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-28T14:06:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What are the trending topics in medical imaging? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsockf/what_are_the_trending_topics_in_medical_imaging_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-28T19:30:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Dev Day? More like Death Day",
         "url": "https://www.reddit.com/r/codex/comments/1wsmrkp/dev_day_more_like_death_day/",
         "source": "r/codex",
@@ -148,106 +245,6 @@
         "score": 0,
         "publishedAt": "2026-09-28T14:54:54.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "It never ends",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wsdji2/it_never_ends/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T12:41:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sgfneoxwa9sh1.png?width=640&crop=smart&auto=webp&s=153c3392f6693b4d10a92fad2adb1e7177b06878"
-      },
-      {
-        "rank": 2,
-        "title": "How to import pandas?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1ws604a/how_to_import_pandas/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T05:27:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p10xcyw457sh1.png?width=640&crop=smart&auto=webp&s=7896d7ce4e17322103ede468c9ad661a0a7e2967"
-      },
-      {
-        "rank": 3,
-        "title": "Me right now. Come on OAI cook something tomorrow",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wsn2qt/me_right_now_come_on_oai_cook_something_tomorrow/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T18:45:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i1c5dalx3bsh1.jpeg?width=640&crop=smart&auto=webp&s=35bc8576a03160f15dee785e35a1fa760ca7cf52"
-      },
-      {
-        "rank": 4,
-        "title": "need more tokens",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wsewva/need_more_tokens/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T13:39:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b94jbspbl9sh1.jpeg?width=640&crop=smart&auto=webp&s=64fbd4873cf39fec0a60095498c7e4783b7ab335"
-      },
-      {
-        "rank": 5,
-        "title": "Sama vagueposting about tomorrow's DevDay",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wsq03s/sama_vagueposting_about_tomorrows_devday/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T20:31:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y5j1w2jrmbsh1.jpeg?width=640&crop=smart&auto=webp&s=56363a9309ce0268c7136e9ea8271fa4d4e3c3ee"
-      },
-      {
-        "rank": 1,
-        "title": "Claude Sonnet 5.5 Released",
-        "url": "https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-28T18:02:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/fMfdfmxnSpXQjCVIN6U2pyK0uxm7VdApswdcvbi4t58.jpeg?width=640&crop=smart&auto=webp&s=341bdaf90a0fa76a10e65f2c4c1a6763fc2a3088"
-      },
-      {
-        "rank": 2,
-        "title": "Thoughts: The chief economist at Apollo is warning that mass adoption of AI agents could trigger a bank run as they optimize user investments.",
-        "url": "https://www.reddit.com/r/singularity/comments/1ws1vzo/thoughts_the_chief_economist_at_apollo_is_warning/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-28T01:49:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0ldv1h1o26sh1.png?width=320&crop=smart&auto=webp&s=f503fd91a47d188e47e27aa253dcbd95df61fd4e"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI pauses frontier training after models swarm US Governament",
-        "url": "https://www.reddit.com/r/singularity/comments/1wshvj6/openai_pauses_frontier_training_after_models/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-28T15:35:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/WrNivU1Y6wPXm9wPQwyzSzvA5vPUikxRb1pEt1s9zOI.jpeg?width=640&crop=smart&auto=webp&s=a1f95f4ef7da01356ee076bdcac66fe22b64d233"
-      },
-      {
-        "rank": 4,
-        "title": "Gemini Pro 4 (leak)",
-        "url": "https://www.reddit.com/r/singularity/comments/1ws8erf/gemini_pro_4_leak/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-28T07:51:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2qd0x1j7v7sh1.png?width=140&height=83&auto=webp&s=82a59332fe7de3b25746a5db273bddc47f26c991"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic cooked openai again 💀",
-        "url": "https://www.reddit.com/r/singularity/comments/1wsm1r0/anthropic_cooked_openai_again/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-28T18:07:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s42mfi95xash1.png?width=640&crop=smart&auto=webp&s=21d11cc28eedbe7fb61e5e1204baa41c0fdd7c68"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T01:39:14.172Z",
+  "fetchedAt": "2026-09-29T08:09:09.275Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "Sonnet 5.5 on Vals AI benchmark, if these hold true the $20 is insane value right now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsmg82/sonnet_55_on_vals_ai_benchmark_if_these_hold_true/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-28T18:22:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8c162f4szash1.jpeg?width=640&crop=smart&auto=webp&s=2685c53997473b69e8f8523c01019afdfc609fac"
+      },
+      {
+        "rank": 3,
         "title": "Sloppy Kart — a totally finished product™",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsep0x/sloppy_kart_a_totally_finished_product/",
         "source": "r/ClaudeAI",
@@ -26,7 +36,7 @@
         "thumbnail": "https://external-preview.redd.it/Z3FjN2FmbnFqOXNoMVsD1yFtyjrKOGoyEfoILN6RnhImJDZinJ8mLyaf2abK.png?width=640&crop=smart&auto=webp&s=9030efe3404bafdbf8965075a2a03203b583cbd5"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "How are people actually getting Claude to build beautiful UIs instead of generic AI slop?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws9oix/how_are_people_actually_getting_claude_to_build/",
         "source": "r/ClaudeAI",
@@ -35,24 +45,14 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Week 9 of making my fishing game with the help of AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws64e3/week_9_of_making_my_fishing_game_with_the_help_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T05:33:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OHhjM292N241N3NoMTKgMF1CcU4iGwJZYbCYAJR3FjOzDSlYhC4YygJYJ_QJ.png?width=640&crop=smart&auto=webp&s=6bd3046e197d3a71c931277cef3167c8f22cccfe"
-      },
-      {
         "rank": 5,
-        "title": "Sonnet 5.5 on Vals AI benchmark, if these hold true the $20 is insane value right now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsmg82/sonnet_55_on_vals_ai_benchmark_if_these_hold_true/",
+        "title": "This just feels right",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws8pap/this_just_feels_right/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-09-28T18:22:08.000Z",
+        "publishedAt": "2026-09-28T08:10:14.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8c162f4szash1.jpeg?width=640&crop=smart&auto=webp&s=2685c53997473b69e8f8523c01019afdfc609fac"
+        "thumbnail": "https://preview.redd.it/mnisgcgay7sh1.jpeg?width=640&crop=smart&auto=webp&s=c167105ab3013d4d5273895e27db43bc287d8a44"
       },
       {
         "rank": 1,
@@ -66,11 +66,11 @@
       },
       {
         "rank": 2,
-        "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/",
+        "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-28T05:49:38.000Z",
+        "publishedAt": "2026-09-29T02:58:39.000Z",
         "category": "reddit"
       },
       {
@@ -85,20 +85,20 @@
       },
       {
         "rank": 4,
-        "title": "Are there any good research papers around Text clustering using LLMs [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6g1p/are_there_any_good_research_papers_around_text/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-28T05:52:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wsfkwg/browser_demo_of_our_clash_royale_rl_environment_a/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-28T14:06:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What are the trending topics in medical imaging? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wsockf/what_are_the_trending_topics_in_medical_imaging_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-28T19:30:56.000Z",
         "category": "reddit"
       },
       {
@@ -113,15 +113,6 @@
       },
       {
         "rank": 2,
-        "title": "Tibo your resets have no effect anymore",
-        "url": "https://www.reddit.com/r/codex/comments/1ws4dp4/tibo_your_resets_have_no_effect_anymore/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-28T03:58:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Thanks I guess...",
         "url": "https://www.reddit.com/r/codex/comments/1ws8yob/thanks_i_guess/",
         "source": "r/codex",
@@ -131,7 +122,7 @@
         "thumbnail": "https://preview.redd.it/0anng1m418sh1.png?width=640&crop=smart&auto=webp&s=999351932af9ebe0011dfc9cc8a9268a9b5d1fbb"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "API users get more powerful models",
         "url": "https://www.reddit.com/r/codex/comments/1wsfbic/api_users_get_more_powerful_models/",
         "source": "r/codex",
@@ -141,14 +132,22 @@
         "thumbnail": "https://preview.redd.it/u05a75yeo9sh1.png?width=640&crop=smart&auto=webp&s=62a922821798cf9297affad844145eaefc2a9264"
       },
       {
-        "rank": 5,
-        "title": "New Tibo tweet",
-        "url": "https://www.reddit.com/r/codex/comments/1ws7a0n/new_tibo_tweet/",
+        "rank": 4,
+        "title": "OpenAI Scraps Release of Astra 6.1 Over Safety Concerns",
+        "url": "https://www.reddit.com/r/codex/comments/1wste2j/openai_scraps_release_of_astra_61_over_safety/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-09-28T06:41:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/segr29wti7sh1.jpeg?width=640&crop=smart&auto=webp&s=fad7fd3338901e84b9eea303f239c94afd7f4a20"
+        "publishedAt": "2026-09-28T22:46:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "5 Things OpenAI must COOK on at DevDay to keep my $200/m sub. What's your list?",
+        "url": "https://www.reddit.com/r/codex/comments/1wsgswz/5_things_openai_must_cook_on_at_devday_to_keep_my/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-28T14:54:54.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

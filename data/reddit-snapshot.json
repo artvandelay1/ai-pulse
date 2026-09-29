@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T19:58:46.056Z",
+  "fetchedAt": "2026-09-29T23:37:43.171Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -72,16 +72,6 @@
       },
       {
         "rank": 3,
-        "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wssokn/wsj_reports_openai_scrapped_gpt61_astra_over/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T22:16:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/mKG9oAb4ojpM8R53VXMVpo3tRLj1TIBtWbdeAPRJS-Q.jpeg?width=640&crop=smart&auto=webp&s=669a93a47d906f9d358c5ddf07c0a5194c2650b2"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI launches dots (long-running agents)",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wtfsn4/openai_launches_dots_longrunning_agents/",
         "source": "r/OpenAI",
@@ -91,7 +81,7 @@
         "thumbnail": "https://preview.redd.it/khxdrys1rhsh1.png?width=640&crop=smart&auto=webp&s=72eff8112e6b35665f50a1d48d051089ea23053e"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Dev Day i am expecting this",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wtdn7h/dev_day_i_am_expecting_this/",
         "source": "r/OpenAI",
@@ -99,6 +89,15 @@
         "publishedAt": "2026-09-29T15:46:07.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/aHM4MG9jcnBjaHNoMUl345D4SLBNic0Ac_Xsuezr9A-p-7BgUNeGO4NHVZYc.png?width=640&crop=smart&auto=webp&s=0ae3661a3c90cabba35d20d5053ca853e969e226"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI launches GPT-6.1 Sol",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wtg4f3/openai_launches_gpt61_sol/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T17:18:17.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -111,6 +110,16 @@
       },
       {
         "rank": 2,
+        "title": "Someone using Opus 5.5 ports the entire game of Minecraft into Elden Ring, running on Mac",
+        "url": "https://www.reddit.com/r/singularity/comments/1wtiubh/someone_using_opus_55_ports_the_entire_game_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-29T18:59:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHQ2eTFhZTliaXNoMddrFC9DKgJyPoRyDx4nDCrX5BMVMDwIo1Q5O8FvTXIn.jpeg?width=640&crop=smart&auto=webp&s=cd7afc6048ebcfe26259a270da7c33a0a98c41c9"
+      },
+      {
+        "rank": 3,
         "title": "Claude Sonnet 5.5 is one day old and already one-shot this entire 3D zombie FPS in 49 minutes for $177. The gap between describing a game and having a playable game is collapsing.",
         "url": "https://www.reddit.com/r/singularity/comments/1wswpv6/claude_sonnet_55_is_one_day_old_and_already/",
         "source": "r/singularity",
@@ -120,7 +129,7 @@
         "thumbnail": "https://external-preview.redd.it/ZHNtNGxlbm0xZHNoMWWZj63g5GhGT0TFXnUrmfEJ_IrsXCuB-Z6b4o2F-L9N.jpeg?width=640&crop=smart&auto=webp&s=47171a70a9b1e05b7be5896859962562911003cc"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Maybe the real AGI was the friends we made along the way",
         "url": "https://www.reddit.com/r/singularity/comments/1wt3ux0/maybe_the_real_agi_was_the_friends_we_made_along/",
         "source": "r/singularity",
@@ -128,16 +137,6 @@
         "publishedAt": "2026-09-29T07:41:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ymd93csexesh1.png?width=320&crop=smart&auto=webp&s=f74817456024116e9c712009dcbe516503f241ed"
-      },
-      {
-        "rank": 4,
-        "title": "AI is basically ubiquitous in all corporate work but reddit is convinced AI is useless, how do those 2 things co-exists?",
-        "url": "https://www.reddit.com/r/singularity/comments/1wtbhb5/ai_is_basically_ubiquitous_in_all_corporate_work/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-29T14:22:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/LQOxwnuRj-bUt-_csQuWgTvDbdCAvR2vDCKASm1CsR0.jpeg?width=640&crop=smart&auto=webp&s=ca5601ea64cf76596f64448a9be4259c86a54507"
       },
       {
         "rank": 5,

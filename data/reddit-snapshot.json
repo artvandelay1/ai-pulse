@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T04:51:49.245Z",
+  "fetchedAt": "2026-09-30T11:02:08.588Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,11 +7,61 @@
     "items": [
       {
         "rank": 1,
-        "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
+        "title": "Open AI's internal benchmarks show GPT-6.1 Sol crushing Opus 5.5, with Anthropic struggling to keep up",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtoi3e/open_ais_internal_benchmarks_show_gpt61_sol/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T22:43:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vp5javg8fjsh1.png?width=640&crop=smart&auto=webp&s=8a5ec6d7f05095bc27581e730eeac1d5422fdd9c"
+      },
+      {
+        "rank": 2,
+        "title": "Is Opus 5.5 entering a “nerfed” phase? LiveNerf baseline update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtlrnu/is_opus_55_entering_a_nerfed_phase_livenerf/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T20:51:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3w70f2x9vish1.jpeg?width=640&crop=smart&auto=webp&s=c38c8d791e80cd5a15d0bd7e5a78e76931a355ae"
+      },
+      {
+        "rank": 3,
+        "title": "Sonnet 5.5 did this. Opus 5.5 quality with half price.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtagdd/sonnet_55_did_this_opus_55_quality_with_half_price/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T13:42:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z3FkYnlnbXBxZ3NoMUREt1UhvAm2GFLG8XYqj_HO5u9x5u_V8qm45Rt030Bc.png?width=640&crop=smart&auto=webp&s=f758f6562302ffc7dba99f03911203c6a60fef80"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5.5 vs Sonnet 5.5 : 3D steampunk whale modeling",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wt9cdl/opus_55_vs_sonnet_55_3d_steampunk_whale_modeling/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T12:54:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NDd2N2s3MG5oZ3NoMcwuxC3EARqR1v6g1GNq1ou28zf3emWf-ER1u2moPoPr.png?width=640&crop=smart&auto=webp&s=bb49826dce3c862fd188b643a4c3da75ad62338f"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic lost how much? The free ride will be over when it goes public.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wt90cb/anthropic_lost_how_much_the_free_ride_will_be/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-29T12:38:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5k4n35kgfgsh1.jpeg?width=640&crop=smart&auto=webp&s=7f37376d1ef0201fe1660dbbfd02b9c607ae53fd"
+      },
+      {
+        "rank": 1,
+        "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-29T10:35:53.000Z",
+        "publishedAt": "2026-09-30T07:19:45.000Z",
         "category": "reddit"
       },
       {
@@ -25,29 +75,77 @@
       },
       {
         "rank": 3,
-        "title": "Advice on choosing university for PhD [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wt54tz/advice_on_choosing_university_for_phd_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-29T09:02:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "CoWindow and MassAlloc Attention: collective causal coverage and distribution-adaptive compute [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wt1gbk/cowindow_and_massalloc_attention_collective/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-29T05:16:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Limited compute, targeting CVPR: rerun experiments for statistically strong numbers or focus on writing? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wt9w3s/limited_compute_targeting_cvpr_rerun_experiments/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-09-29T13:18:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS Education Track [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wt77wj/neurips_education_track_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-29T11:08:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I cut cost and latency on my search engine with Jev [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wtsn3s/i_cut_cost_and_latency_on_my_search_engine_with/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-30T01:55:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Lol",
+        "url": "https://www.reddit.com/r/codex/comments/1wtnt6x/lol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-29T22:12:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eco69kur9jsh1.jpeg?width=640&crop=smart&auto=webp&s=44f66ed9fe6d9acc462a9d747033e4013c575f6b"
+      },
+      {
+        "rank": 2,
+        "title": "Dev Day L",
+        "url": "https://www.reddit.com/r/codex/comments/1wtgv3z/dev_day_l/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-29T17:45:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Aged like milk in the sun",
+        "url": "https://www.reddit.com/r/codex/comments/1wtlimq/aged_like_milk_in_the_sun/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-29T20:41:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kmc6eyubtish1.png?width=640&crop=smart&auto=webp&s=f0b70af0a15b4d118e64b47014e327d8432f43e0"
+      },
+      {
+        "rank": 4,
+        "title": "tibo explains the pro 20x changes",
+        "url": "https://www.reddit.com/r/codex/comments/1wtcrio/tibo_explains_the_pro_20x_changes/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-29T15:12:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1mjhmltv6hsh1.png?width=640&crop=smart&auto=webp&s=e1a67e00340480edea4b570a81a69854e453763e"
+      },
+      {
+        "rank": 5,
+        "title": "Elon did the funniest thing right now",
+        "url": "https://www.reddit.com/r/codex/comments/1wthzjj/elon_did_the_funniest_thing_right_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-29T18:26:58.000Z",
         "category": "reddit"
       },
       {
@@ -148,103 +246,6 @@
         "publishedAt": "2026-09-29T23:51:30.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NHczYmxuMmZyanNoMatBAmnSzL9hetdOn4_xLs_oTubHvgQbJRO_2COAlslT.png?width=640&crop=smart&auto=webp&s=8093921155e72c9d2bbdd9e97a47865e8d027768"
-      },
-      {
-        "rank": 1,
-        "title": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wslxzs/introducing_claude_sonnet_55_the_second_model_in/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T18:03:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aXA5bXQxcmtzYXNoMYQZ-hp34wCe0pY3m3GLiN1pFRH2BL7aPsLxYj-uguZl.png?width=640&crop=smart&auto=webp&s=89bcedbbe83d82f4bd42ea7cf788f38b5fc9362f"
-      },
-      {
-        "rank": 2,
-        "title": "Sonnet 5.5 on Vals AI benchmark, if these hold true the $20 is insane value right now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsmg82/sonnet_55_on_vals_ai_benchmark_if_these_hold_true/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T18:22:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8c162f4szash1.jpeg?width=640&crop=smart&auto=webp&s=2685c53997473b69e8f8523c01019afdfc609fac"
-      },
-      {
-        "rank": 3,
-        "title": "Sloppy Kart — a totally finished product™",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wsep0x/sloppy_kart_a_totally_finished_product/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T13:30:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z3FjN2FmbnFqOXNoMVsD1yFtyjrKOGoyEfoILN6RnhImJDZinJ8mLyaf2abK.png?width=640&crop=smart&auto=webp&s=9030efe3404bafdbf8965075a2a03203b583cbd5"
-      },
-      {
-        "rank": 4,
-        "title": "How are people actually getting Claude to build beautiful UIs instead of generic AI slop?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws9oix/how_are_people_actually_getting_claude_to_build/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T09:11:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "This just feels right",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ws8pap/this_just_feels_right/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-28T08:10:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mnisgcgay7sh1.jpeg?width=640&crop=smart&auto=webp&s=c167105ab3013d4d5273895e27db43bc287d8a44"
-      },
-      {
-        "rank": 1,
-        "title": "Dev Day? More like Death Day",
-        "url": "https://www.reddit.com/r/codex/comments/1wsmrkp/dev_day_more_like_death_day/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-28T18:33:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u1c61kiv1bsh1.jpeg?width=640&crop=smart&auto=webp&s=f87d78a00181377d028a3b4be3ea16f0410895c7"
-      },
-      {
-        "rank": 2,
-        "title": "Thanks I guess...",
-        "url": "https://www.reddit.com/r/codex/comments/1ws8yob/thanks_i_guess/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-28T08:26:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0anng1m418sh1.png?width=640&crop=smart&auto=webp&s=999351932af9ebe0011dfc9cc8a9268a9b5d1fbb"
-      },
-      {
-        "rank": 3,
-        "title": "API users get more powerful models",
-        "url": "https://www.reddit.com/r/codex/comments/1wsfbic/api_users_get_more_powerful_models/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-28T13:56:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/u05a75yeo9sh1.png?width=640&crop=smart&auto=webp&s=62a922821798cf9297affad844145eaefc2a9264"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI Scraps Release of Astra 6.1 Over Safety Concerns",
-        "url": "https://www.reddit.com/r/codex/comments/1wste2j/openai_scraps_release_of_astra_61_over_safety/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-28T22:46:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "5 Things OpenAI must COOK on at DevDay to keep my $200/m sub. What's your list?",
-        "url": "https://www.reddit.com/r/codex/comments/1wsgswz/5_things_openai_must_cook_on_at_devday_to_keep_my/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-28T14:54:54.000Z",
-        "category": "reddit"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T16:49:46.510Z",
+  "fetchedAt": "2026-09-30T21:21:44.461Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,15 @@
       },
       {
         "rank": 2,
+        "title": "For those who just submit to workshop [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuc7ft/for_those_who_just_submit_to_workshop_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-30T18:08:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
         "source": "r/MachineLearning",
@@ -25,7 +34,16 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "title": "Tokenization: A Survey for Modern NLP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-30T18:13:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Neurips Workshop Author Notification Delay [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wtqtwk/neurips_workshop_author_notification_delay_d/",
         "source": "r/MachineLearning",
@@ -34,36 +52,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Which API for general real-time LLM agents [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-30T15:14:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jj48icuy3osh1.png?width=140&height=61&auto=webp&s=7fe918020d88f50ec0cce1df0f9c2b05d71e67fc"
-      },
-      {
-        "rank": 5,
-        "title": "Isolation Forest performs best with 1.0 as max_samples [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wu8m1a/isolation_forest_performs_best_with_10_as_max/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-30T15:54:58.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "OpenAI launches dots (long-running agents)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wtfsn4/openai_launches_dots_longrunning_agents/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-29T17:05:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/khxdrys1rhsh1.png?width=640&crop=smart&auto=webp&s=72eff8112e6b35665f50a1d48d051089ea23053e"
-      },
-      {
-        "rank": 2,
         "title": "Q: Who should be held accountable when the AI agents commit a crime? | Trump: It's not AI. It's SI. We changed the name officially today",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wu20hr/q_who_should_be_held_accountable_when_the_ai/",
         "source": "r/OpenAI",
@@ -73,13 +62,24 @@
         "thumbnail": "https://external-preview.redd.it/MzE5Z2Z3ZG4zbnNoMVc_2klF_fKx6ss7SiFgA_eqDeD7JGZInRuC2tqje4y9.png?width=640&crop=smart&auto=webp&s=5b33e5584170b911794a6016d38fa4b8d852c8fc"
       },
       {
-        "rank": 3,
-        "title": "OpenAI launches GPT-6.1 Sol",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wtg4f3/openai_launches_gpt61_sol/",
+        "rank": 2,
+        "title": "Introducing robo-dots🤭",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wu6t25/introducing_robodots/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-29T17:18:17.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-09-30T14:44:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cjlraTNrMW02b3NoMaoxluY-lfQG-BXSPavNo2Bk_AQ_KmO3wRCn939OhsK6.png?width=640&crop=smart&auto=webp&s=f6655cf9cf8bbf4456e92f5e5ad33e1a5771be1a"
+      },
+      {
+        "rank": 3,
+        "title": "This is a hot mess",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wu231d/this_is_a_hot_mess/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T11:09:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ka6cwpnc4nsh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cbd4c1625b8d308ecfd2e4d7ba583c2c17a477a9"
       },
       {
         "rank": 4,
@@ -93,23 +93,23 @@
       },
       {
         "rank": 5,
-        "title": "That didn't backfire at all",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wtky3n/that_didnt_backfire_at_all/",
+        "title": "OpenAI CFO Sarah Friar says Muse instead of Dots on live TV",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wu22ql/openai_cfo_sarah_friar_says_muse_instead_of_dots/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-09-29T20:19:06.000Z",
+        "publishedAt": "2026-09-30T11:08:56.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f3843bjtoish1.png?width=640&crop=smart&auto=webp&s=a288576e27eae730e4b613b019b18e70a509e241"
+        "thumbnail": "https://external-preview.redd.it/M3dwdWw2anMzbnNoMaxEHmNM8Iifx6saWtA0uyl-LOaTaf6_Fg6mRHdo22uq.png?width=640&crop=smart&auto=webp&s=4fd4ddddeed8061e8e09ae1e1cf1cff5b22c4299"
       },
       {
         "rank": 1,
-        "title": "Someone using Opus 5.5 ports the entire game of Minecraft into Elden Ring, running on Mac",
-        "url": "https://www.reddit.com/r/singularity/comments/1wtiubh/someone_using_opus_55_ports_the_entire_game_of/",
+        "title": "Dario probably thinking \"finish this sh!t I have to work on ASI\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-09-29T18:59:17.000Z",
+        "publishedAt": "2026-09-30T08:21:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHQ2eTFhZTliaXNoMddrFC9DKgJyPoRyDx4nDCrX5BMVMDwIo1Q5O8FvTXIn.jpeg?width=640&crop=smart&auto=webp&s=cd7afc6048ebcfe26259a270da7c33a0a98c41c9"
+        "thumbnail": "https://external-preview.redd.it/NjRucDM5eHA5bXNoMQjq26NmBvhp2FjKRGUi09L9uMkWPbI7HXgiMXwGPekL.png?width=640&crop=smart&auto=webp&s=5eaeeb87f70fdb08aeaf744e5871490e61e1a2df"
       },
       {
         "rank": 2,
@@ -123,26 +123,6 @@
       },
       {
         "rank": 3,
-        "title": "Dario probably thinking \"finish this sh!t I have to work on ASI\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T08:21:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NjRucDM5eHA5bXNoMQjq26NmBvhp2FjKRGUi09L9uMkWPbI7HXgiMXwGPekL.png?width=640&crop=smart&auto=webp&s=5eaeeb87f70fdb08aeaf744e5871490e61e1a2df"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-6.1 Sol - Apparently near-Astra performance for complex work at a lower cost.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wtftlt/gpt61_sol_apparently_nearastra_performance_for/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-29T17:06:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/pPMbLfIC0-p9IRjCKG60eIylTZ42rk2g6eu8a9C0pjA.png?width=640&crop=smart&auto=webp&s=4f3281fea98e4d75df07ca54f4cc7e2e86a9a2b6"
-      },
-      {
-        "rank": 5,
         "title": "AI is starting to do science from first principles: one system built its own atom-by-atom simulator, ran experiments for days, and found graphene designs ~25% stronger at the same mass",
         "url": "https://www.reddit.com/r/singularity/comments/1wtr02p/ai_is_starting_to_do_science_from_first/",
         "source": "r/singularity",
@@ -150,6 +130,25 @@
         "publishedAt": "2026-09-30T00:36:43.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/stgitqrizjsh1.jpeg?width=640&crop=smart&auto=webp&s=a0b7f18853a17d4afdac20e2a6d18dcaf1fe7c59"
+      },
+      {
+        "rank": 4,
+        "title": "Claude solves an important mathematical problem.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wu72qu/claude_solves_an_important_mathematical_problem/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-30T14:54:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6r3g817m8osh1.jpeg?width=640&crop=smart&auto=webp&s=7e8558a52e814dcec17b75a38679ceec0d8e25e9"
+      },
+      {
+        "rank": 5,
+        "title": "Work I used to give juniors now takes Opus 5.5 minutes. I don't think we've clocked how far past GDPval we are",
+        "url": "https://www.reddit.com/r/singularity/comments/1wu2bxh/work_i_used_to_give_juniors_now_takes_opus_55/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-30T11:22:54.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

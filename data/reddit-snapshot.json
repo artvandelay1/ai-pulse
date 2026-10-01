@@ -1,10 +1,157 @@
 {
-  "fetchedAt": "2026-10-01T07:02:09.479Z",
+  "fetchedAt": "2026-10-01T14:26:50.157Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "For those who just submit to workshop [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuc7ft/for_those_who_just_submit_to_workshop_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-30T18:08:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "How to address novelty concerns in top ai conference? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-01T01:20:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Tokenization: A Survey for Modern NLP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-30T18:13:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-30T18:31:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yzpbplj7bpsh1.png?width=140&height=128&auto=webp&s=5d790574206c927d1eda4b64b609d80f0a884a37"
+      },
+      {
+        "rank": 5,
+        "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-01T13:12:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tq9on2k4vush1.gif?width=640&crop=smart&s=7241cea5ee40ba5a7c0b32d5e2cea9510d3d035f"
+      },
+      {
+        "rank": 1,
+        "title": "Introducing robo-dots🤭",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wu6t25/introducing_robodots/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T14:44:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cjlraTNrMW02b3NoMaoxluY-lfQG-BXSPavNo2Bk_AQ_KmO3wRCn939OhsK6.png?width=640&crop=smart&auto=webp&s=f6655cf9cf8bbf4456e92f5e5ad33e1a5771be1a"
+      },
+      {
+        "rank": 2,
+        "title": "New Improved Model",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wuc047/new_improved_model/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T18:00:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ws94glcs5psh1.png?width=640&crop=smart&auto=webp&s=9cb98a701146bcd9854410e423c437b397dd8d53"
+      },
+      {
+        "rank": 3,
+        "title": "After researchers discovered a \"pain\" signal inside LLMs, a man set up an AI torture chamber in which he trapped a local model. People mass reported it to Github, who took it down.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T12:25:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6otixf6vmush1.png?width=640&crop=smart&auto=webp&s=bac028a68cef7588cbfc75a825b1963e8826e4e5"
+      },
+      {
+        "rank": 4,
+        "title": "Wake up babe, it's Gemini 4 fr",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wufl5b/wake_up_babe_its_gemini_4_fr/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T20:16:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c1woxkh1upsh1.jpeg?width=640&crop=smart&auto=webp&s=604756eca63a27669a0d24bf4b63e977c38f27f7"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI halved its own pricing from GPT-6 Astra to match Google gemini argon",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wurlh9/openai_halved_its_own_pricing_from_gpt6_astra_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T05:56:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/M3utst2Oji1hCt3m8AnFj_FOc4JYhqto5p-e1VjQqZA.png?width=640&crop=smart&auto=webp&s=641a8817634855993c154b179669f09255883d86"
+      },
+      {
+        "rank": 1,
+        "title": "Gemini 4 Argon solved hallucinations.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-30T22:46:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0skesazrkqsh1.jpeg?width=640&crop=smart&auto=webp&s=9aee1ad172f9fdb0003cf53bf71651e960aa20d7"
+      },
+      {
+        "rank": 2,
+        "title": "Gemini 4 from straight from the horses mouth",
+        "url": "https://www.reddit.com/r/singularity/comments/1wufaxm/gemini_4_from_straight_from_the_horses_mouth/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-30T20:05:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ckpyc9uxrpsh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1fd1068a849c8563f89f752806e941a7fe86049c"
+      },
+      {
+        "rank": 3,
+        "title": "Introducing Gemini 4 Argon",
+        "url": "https://www.reddit.com/r/singularity/comments/1wufeu8/introducing_gemini_4_argon/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-30T20:09:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/iW8A1dL0KiFToEglrF7lEwdL6BC6MMzAsgSvdemcQEI.png?width=640&crop=smart&auto=webp&s=bb236ad7f943a9f28d75a933cb593ed67b6bd129"
+      },
+      {
+        "rank": 4,
+        "title": ", Gemini 4 Argon Benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1wufha8/gemini_4_argon_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-30T20:12:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ttsqu12atpsh1.jpeg?width=640&crop=smart&auto=webp&s=49651cd79eaab5187821390dd6cefc37e81139db"
+      },
+      {
+        "rank": 5,
+        "title": "Claude solves an important mathematical problem.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wu72qu/claude_solves_an_important_mathematical_problem/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-09-30T14:54:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6r3g817m8osh1.jpeg?width=640&crop=smart&auto=webp&s=7e8558a52e814dcec17b75a38679ceec0d8e25e9"
+      },
       {
         "rank": 1,
         "title": "Opus 5.5 naming files after all my responses are \"continue\", \"decide for yourself\", \"whatever, all good\"",
@@ -56,52 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wtyl5m/concurrent_image_understanding_and_generation/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-30T07:28:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wabzt1np0msh1.gif?frame=1&width=140&height=78&auto=webp&s=69fd43d6527b92e7f00ec30a975d106e02ff29be"
-      },
-      {
-        "rank": 2,
-        "title": "For those who just submit to workshop [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuc7ft/for_those_who_just_submit_to_workshop_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-30T18:08:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Tokenization: A Survey for Modern NLP [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-30T18:13:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How to address novelty concerns in top ai conference? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-01T01:20:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-30T07:19:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "GPT-6.1 Sol feels unlimited, because it runs at 20 tokens per second",
         "url": "https://www.reddit.com/r/codex/comments/1wuatzt/gpt61_sol_feels_unlimited_because_it_runs_at_20/",
         "source": "r/codex",
@@ -148,105 +249,6 @@
         "publishedAt": "2026-10-01T02:42:26.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gejyalfaqrsh1.png?width=140&height=68&auto=webp&s=0c601815dbee56a2da04220780f5bf828a2b64f7"
-      },
-      {
-        "rank": 1,
-        "title": "Q: Who should be held accountable when the AI agents commit a crime? | Trump: It's not AI. It's SI. We changed the name officially today",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wu20hr/q_who_should_be_held_accountable_when_the_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T11:05:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MzE5Z2Z3ZG4zbnNoMVc_2klF_fKx6ss7SiFgA_eqDeD7JGZInRuC2tqje4y9.png?width=640&crop=smart&auto=webp&s=5b33e5584170b911794a6016d38fa4b8d852c8fc"
-      },
-      {
-        "rank": 2,
-        "title": "Introducing robo-dots🤭",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wu6t25/introducing_robodots/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T14:44:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cjlraTNrMW02b3NoMaoxluY-lfQG-BXSPavNo2Bk_AQ_KmO3wRCn939OhsK6.png?width=640&crop=smart&auto=webp&s=f6655cf9cf8bbf4456e92f5e5ad33e1a5771be1a"
-      },
-      {
-        "rank": 3,
-        "title": "This is a hot mess",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wu231d/this_is_a_hot_mess/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T11:09:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ka6cwpnc4nsh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=cbd4c1625b8d308ecfd2e4d7ba583c2c17a477a9"
-      },
-      {
-        "rank": 4,
-        "title": "The premium experience",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wtqyxh/the_premium_experience/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T00:35:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dHloOTJsYTV6anNoMRsFdxH9cqH235gu2x6-_wVOdaMyZp2ROdDyM0G9FVBq.png?width=640&crop=smart&auto=webp&s=fc8c27d5deec622b3fe7193e57506a3c13fbd29d"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI CFO Sarah Friar says Muse instead of Dots on live TV",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wu22ql/openai_cfo_sarah_friar_says_muse_instead_of_dots/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T11:08:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M3dwdWw2anMzbnNoMaxEHmNM8Iifx6saWtA0uyl-LOaTaf6_Fg6mRHdo22uq.png?width=640&crop=smart&auto=webp&s=4fd4ddddeed8061e8e09ae1e1cf1cff5b22c4299"
-      },
-      {
-        "rank": 1,
-        "title": "Dario probably thinking \"finish this sh!t I have to work on ASI\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1wtzekf/dario_probably_thinking_finish_this_sht_i_have_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T08:21:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NjRucDM5eHA5bXNoMQjq26NmBvhp2FjKRGUi09L9uMkWPbI7HXgiMXwGPekL.png?width=640&crop=smart&auto=webp&s=5eaeeb87f70fdb08aeaf744e5871490e61e1a2df"
-      },
-      {
-        "rank": 2,
-        "title": "AI Gave my brother independence",
-        "url": "https://www.reddit.com/r/singularity/comments/1wtq09e/ai_gave_my_brother_independence/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-29T23:51:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NHczYmxuMmZyanNoMatBAmnSzL9hetdOn4_xLs_oTubHvgQbJRO_2COAlslT.png?width=640&crop=smart&auto=webp&s=8093921155e72c9d2bbdd9e97a47865e8d027768"
-      },
-      {
-        "rank": 3,
-        "title": "AI is starting to do science from first principles: one system built its own atom-by-atom simulator, ran experiments for days, and found graphene designs ~25% stronger at the same mass",
-        "url": "https://www.reddit.com/r/singularity/comments/1wtr02p/ai_is_starting_to_do_science_from_first/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T00:36:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/stgitqrizjsh1.jpeg?width=640&crop=smart&auto=webp&s=a0b7f18853a17d4afdac20e2a6d18dcaf1fe7c59"
-      },
-      {
-        "rank": 4,
-        "title": "Claude solves an important mathematical problem.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wu72qu/claude_solves_an_important_mathematical_problem/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T14:54:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6r3g817m8osh1.jpeg?width=640&crop=smart&auto=webp&s=7e8558a52e814dcec17b75a38679ceec0d8e25e9"
-      },
-      {
-        "rank": 5,
-        "title": "Work I used to give juniors now takes Opus 5.5 minutes. I don't think we've clocked how far past GDPval we are",
-        "url": "https://www.reddit.com/r/singularity/comments/1wu2bxh/work_i_used_to_give_juniors_now_takes_opus_55/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T11:22:54.000Z",
-        "category": "reddit"
       }
     ]
   }

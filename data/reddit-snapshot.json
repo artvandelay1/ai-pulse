@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-01T19:46:50.326Z",
+  "fetchedAt": "2026-10-01T23:49:11.548Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Throwback to when Claude suggested I should deal drugs to make money.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuvxy7/throwback_to_when_claude_suggested_i_should_deal/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T10:31:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/80zyykd92ush1.jpeg?width=640&crop=smart&auto=webp&s=70cbe14a1ae96f1ff5d0e3f0c082520787727c80"
+      },
+      {
+        "rank": 2,
+        "title": "Made a \"Destroy Any Website\" stickman game",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T15:40:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OXljMjFlaXZpdnNoMZXcbfazeJuP16ChGxnHCmCHBLMcZxmHHaULoln8Frsm.png?width=640&crop=smart&auto=webp&s=e22fa1a751f6be9e5c0098dffcda375479d37a0d"
+      },
+      {
+        "rank": 3,
+        "title": "Opus 5.5 nerfing - how to measure, how to spot, how to sue",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T10:50:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I told Claude I like Bach and synths: Contrapunctus Acidus by Opus 5.5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuqjz8/i_told_claude_i_like_bach_and_synths/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T04:54:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cm00dm5od3pkc3NoMQJ4qRSwor77cDA-IZNO3z2EGPy-L2Y9SPsyaaHeZ_40.png?width=640&crop=smart&auto=webp&s=4525a2640e7ea67934a1fc56f76cee160c9b7255"
+      },
+      {
+        "rank": 5,
+        "title": "Is Opus 5.5 Nerfed Now? LiveNerf Day 8 Update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T22:54:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gle8lqy6rxsh1.jpeg?width=640&crop=smart&auto=webp&s=916fa8fc7011517e382edcdd757bf37280ae7bc4"
+      },
       {
         "rank": 1,
         "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
@@ -49,6 +98,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-01T10:12:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "October 1, 2026 - The day that spontaneous resets officially ended",
+        "url": "https://www.reddit.com/r/codex/comments/1wv3dvu/october_1_2026_the_day_that_spontaneous_resets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T16:03:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/50i90uxtpvsh1.jpeg?width=640&crop=smart&auto=webp&s=9cce3140234aaae3a518a2a4394509bd0965e9ee"
+      },
+      {
+        "rank": 2,
+        "title": "PSA: Sol 6.1 slowness might get fixed in next few hours.",
+        "url": "https://www.reddit.com/r/codex/comments/1wuo421/psa_sol_61_slowness_might_get_fixed_in_next_few/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T02:42:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gejyalfaqrsh1.png?width=140&height=68&auto=webp&s=0c601815dbee56a2da04220780f5bf828a2b64f7"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Pro messages drops from 200 to 100 per week as well, by the way.",
+        "url": "https://www.reddit.com/r/codex/comments/1wuzd3u/gpt6_pro_messages_drops_from_200_to_100_per_week/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T13:24:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5nz7r3idxush1.png?width=640&crop=smart&auto=webp&s=4b27c2d3459bdd694aeb862cacdec593a5fa1084"
+      },
+      {
+        "rank": 4,
+        "title": "GPT 6.1 Sol caught faking tests",
+        "url": "https://www.reddit.com/r/codex/comments/1wuuc4e/gpt_61_sol_caught_faking_tests/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T08:50:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k4vyhv14ktsh1.jpeg?width=640&crop=smart&auto=webp&s=0b0034efa6a4fd99ca63d2feee8978c6a1de3a6d"
+      },
+      {
+        "rank": 5,
+        "title": "Open ai can’t stop winning",
+        "url": "https://www.reddit.com/r/codex/comments/1wv7x9q/open_ai_cant_stop_winning/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T18:54:42.000Z",
         "category": "reddit"
       },
       {
@@ -149,104 +247,6 @@
         "publishedAt": "2026-09-30T20:12:34.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ttsqu12atpsh1.jpeg?width=640&crop=smart&auto=webp&s=49651cd79eaab5187821390dd6cefc37e81139db"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5.5 naming files after all my responses are \"continue\", \"decide for yourself\", \"whatever, all good\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu4rv6/opus_55_naming_files_after_all_my_responses_are/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T13:19:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pxf1td3prnsh1.png?width=640&crop=smart&auto=webp&s=9e0d9d5c83375ec946a63f9ff939f8c20880ff27"
-      },
-      {
-        "rank": 2,
-        "title": "Gemini 4 is out: The competition has woken up",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wufk1u/gemini_4_is_out_the_competition_has_woken_up/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T20:15:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aokr7jrttpsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=fec6b73bf58c13ee4ec2ecca927885c50cfd53e2"
-      },
-      {
-        "rank": 3,
-        "title": "What's the one line in your CLAUDE.md that made the biggest difference ?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu40t8/whats_the_one_line_in_your_claudemd_that_made_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T12:47:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 5.5 Comparison to last week",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtzzm4/opus_55_comparison_to_last_week/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T09:00:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NDdpbHgxNmRobXNoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=df10a1372aac0c818daebf40e27c2d76663e169b"
-      },
-      {
-        "rank": 5,
-        "title": "Sonnet 5.5 30x more expensive than GPT 6.1 Sol on 3D tasks",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7ujz/sonnet_55_30x_more_expensive_than_gpt_61_sol_on/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T15:24:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MWp5ZnF2ZHdkb3NoMXy7v0WWNOZ6B75ipHSBc4SvG6mejUNz3H0vhhTBy9hX.png?width=640&crop=smart&auto=webp&s=9a675d27ca2af824a3ca5a17df72092bb94477ff"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6.1 Sol feels unlimited, because it runs at 20 tokens per second",
-        "url": "https://www.reddit.com/r/codex/comments/1wuatzt/gpt61_sol_feels_unlimited_because_it_runs_at_20/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-30T17:17:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zhummubjvosh1.png?width=140&height=48&auto=webp&s=c9148c5cfeb694e415da8822047e561c61eae0a0"
-      },
-      {
-        "rank": 2,
-        "title": "You can't hit your 5h limit if the model takes 1h per small task",
-        "url": "https://www.reddit.com/r/codex/comments/1wuay3g/you_cant_hit_your_5h_limit_if_the_model_takes_1h/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-30T17:21:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gyp8g1rayosh1.png?width=320&crop=smart&auto=webp&s=74aa09246bee84f1e9bee4a0b46982e1f8601a66"
-      },
-      {
-        "rank": 3,
-        "title": "6.1-sol vs. Opus 5.5 - small task on both $20 plan. Results inside",
-        "url": "https://www.reddit.com/r/codex/comments/1wu0d5o/61sol_vs_opus_55_small_task_on_both_20_plan/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-30T09:25:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Sol 6.1 Feels slow? Don't worry its not your fault - its OpenAI",
-        "url": "https://www.reddit.com/r/codex/comments/1wugkrs/sol_61_feels_slow_dont_worry_its_not_your_fault/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-30T20:56:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fv7zmw611qsh1.png?width=640&crop=smart&auto=webp&s=54806c1852977165af840f97bf43b09f444161e7"
-      },
-      {
-        "rank": 5,
-        "title": "PSA: Sol 6.1 slowness might get fixed in next few hours.",
-        "url": "https://www.reddit.com/r/codex/comments/1wuo421/psa_sol_61_slowness_might_get_fixed_in_next_few/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T02:42:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gejyalfaqrsh1.png?width=140&height=68&auto=webp&s=0c601815dbee56a2da04220780f5bf828a2b64f7"
       }
     ]
   }

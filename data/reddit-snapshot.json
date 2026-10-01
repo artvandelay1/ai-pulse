@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-09-30T21:21:44.461Z",
+  "fetchedAt": "2026-10-01T00:46:09.907Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Opus 5.5 naming files after all my responses are \"continue\", \"decide for yourself\", \"whatever, all good\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu4rv6/opus_55_naming_files_after_all_my_responses_are/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T13:19:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pxf1td3prnsh1.png?width=640&crop=smart&auto=webp&s=9e0d9d5c83375ec946a63f9ff939f8c20880ff27"
+      },
+      {
+        "rank": 2,
+        "title": "What's the one line in your CLAUDE.md that made the biggest difference ?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu40t8/whats_the_one_line_in_your_claudemd_that_made_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T12:47:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Gemini 4 is out: The competition has woken up",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wufk1u/gemini_4_is_out_the_competition_has_woken_up/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T20:15:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aokr7jrttpsh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=fec6b73bf58c13ee4ec2ecca927885c50cfd53e2"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5.5 Comparison to last week",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtzzm4/opus_55_comparison_to_last_week/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T09:00:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NDdpbHgxNmRobXNoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=df10a1372aac0c818daebf40e27c2d76663e169b"
+      },
+      {
+        "rank": 5,
+        "title": "Sonnet 5.5 30x more expensive than GPT 6.1 Sol on 3D tasks",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wu7ujz/sonnet_55_30x_more_expensive_than_gpt_61_sol_on/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-09-30T15:24:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MWp5ZnF2ZHdkb3NoMXy7v0WWNOZ6B75ipHSBc4SvG6mejUNz3H0vhhTBy9hX.png?width=640&crop=smart&auto=webp&s=9a675d27ca2af824a3ca5a17df72092bb94477ff"
+      },
       {
         "rank": 1,
         "title": "Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes [R]",
@@ -26,15 +75,6 @@
       },
       {
         "rank": 3,
-        "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-09-30T07:19:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Tokenization: A Survey for Modern NLP [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
         "source": "r/MachineLearning",
@@ -43,12 +83,70 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Neurips Workshop Author Notification Delay [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wtqtwk/neurips_workshop_author_notification_delay_d/",
+        "rank": 4,
+        "title": "LessThink-Qwen3-4B: the same model, with far less thinking [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wtygav/lessthinkqwen34b_the_same_model_with_far_less/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-09-30T00:28:32.000Z",
+        "publishedAt": "2026-09-30T07:19:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-09-30T18:31:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yzpbplj7bpsh1.png?width=140&height=128&auto=webp&s=5d790574206c927d1eda4b64b609d80f0a884a37"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6.1 Sol feels unlimited, because it runs at 20 tokens per second",
+        "url": "https://www.reddit.com/r/codex/comments/1wuatzt/gpt61_sol_feels_unlimited_because_it_runs_at_20/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-30T17:17:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zhummubjvosh1.png?width=140&height=48&auto=webp&s=c9148c5cfeb694e415da8822047e561c61eae0a0"
+      },
+      {
+        "rank": 2,
+        "title": "My take after upgrading to the $500 plan today",
+        "url": "https://www.reddit.com/r/codex/comments/1wtt0gb/my_take_after_upgrading_to_the_500_plan_today/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-30T02:13:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "You can't hit your 5h limit if the model takes 1h per small task",
+        "url": "https://www.reddit.com/r/codex/comments/1wuay3g/you_cant_hit_your_5h_limit_if_the_model_takes_1h/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-30T17:21:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gyp8g1rayosh1.png?width=320&crop=smart&auto=webp&s=74aa09246bee84f1e9bee4a0b46982e1f8601a66"
+      },
+      {
+        "rank": 4,
+        "title": "Are you guys seeing this?",
+        "url": "https://www.reddit.com/r/codex/comments/1wtvwvl/are_you_guys_seeing_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-30T04:45:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1nor7nav6lsh1.png?width=140&height=124&auto=webp&s=dbb37e5822a6cca14227909622eb7e5ebeb7123e"
+      },
+      {
+        "rank": 5,
+        "title": "6.1-sol vs. Opus 5.5 - small task on both $20 plan. Results inside",
+        "url": "https://www.reddit.com/r/codex/comments/1wu0d5o/61sol_vs_opus_55_small_task_on_both_20_plan/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-09-30T09:25:20.000Z",
         "category": "reddit"
       },
       {
@@ -148,104 +246,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-09-30T11:22:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Open AI's internal benchmarks show GPT-6.1 Sol crushing Opus 5.5, with Anthropic struggling to keep up",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtoi3e/open_ais_internal_benchmarks_show_gpt61_sol/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-29T22:43:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vp5javg8fjsh1.png?width=640&crop=smart&auto=webp&s=8a5ec6d7f05095bc27581e730eeac1d5422fdd9c"
-      },
-      {
-        "rank": 2,
-        "title": "Is Opus 5.5 entering a “nerfed” phase? LiveNerf baseline update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtlrnu/is_opus_55_entering_a_nerfed_phase_livenerf/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-29T20:51:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3w70f2x9vish1.jpeg?width=640&crop=smart&auto=webp&s=c38c8d791e80cd5a15d0bd7e5a78e76931a355ae"
-      },
-      {
-        "rank": 3,
-        "title": "Sonnet 5.5 did this. Opus 5.5 quality with half price.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wtagdd/sonnet_55_did_this_opus_55_quality_with_half_price/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-29T13:42:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z3FkYnlnbXBxZ3NoMUREt1UhvAm2GFLG8XYqj_HO5u9x5u_V8qm45Rt030Bc.png?width=640&crop=smart&auto=webp&s=f758f6562302ffc7dba99f03911203c6a60fef80"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 5.5 vs Sonnet 5.5 : 3D steampunk whale modeling",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wt9cdl/opus_55_vs_sonnet_55_3d_steampunk_whale_modeling/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-29T12:54:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NDd2N2s3MG5oZ3NoMcwuxC3EARqR1v6g1GNq1ou28zf3emWf-ER1u2moPoPr.png?width=640&crop=smart&auto=webp&s=bb49826dce3c862fd188b643a4c3da75ad62338f"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic lost how much? The free ride will be over when it goes public.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wt90cb/anthropic_lost_how_much_the_free_ride_will_be/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-09-29T12:38:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5k4n35kgfgsh1.jpeg?width=640&crop=smart&auto=webp&s=7f37376d1ef0201fe1660dbbfd02b9c607ae53fd"
-      },
-      {
-        "rank": 1,
-        "title": "Lol",
-        "url": "https://www.reddit.com/r/codex/comments/1wtnt6x/lol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-29T22:12:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eco69kur9jsh1.jpeg?width=640&crop=smart&auto=webp&s=44f66ed9fe6d9acc462a9d747033e4013c575f6b"
-      },
-      {
-        "rank": 2,
-        "title": "Dev Day L",
-        "url": "https://www.reddit.com/r/codex/comments/1wtgv3z/dev_day_l/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-29T17:45:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Aged like milk in the sun",
-        "url": "https://www.reddit.com/r/codex/comments/1wtlimq/aged_like_milk_in_the_sun/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-29T20:41:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kmc6eyubtish1.png?width=640&crop=smart&auto=webp&s=f0b70af0a15b4d118e64b47014e327d8432f43e0"
-      },
-      {
-        "rank": 4,
-        "title": "tibo explains the pro 20x changes",
-        "url": "https://www.reddit.com/r/codex/comments/1wtcrio/tibo_explains_the_pro_20x_changes/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-29T15:12:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1mjhmltv6hsh1.png?width=640&crop=smart&auto=webp&s=e1a67e00340480edea4b570a81a69854e453763e"
-      },
-      {
-        "rank": 5,
-        "title": "Elon did the funniest thing right now",
-        "url": "https://www.reddit.com/r/codex/comments/1wthzjj/elon_did_the_funniest_thing_right_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-09-29T18:26:58.000Z",
         "category": "reddit"
       }
     ]

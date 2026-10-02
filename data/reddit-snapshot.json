@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-10-02T04:54:15.724Z",
+  "fetchedAt": "2026-10-02T10:59:44.366Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T00:47:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_v0aV_eBcgrKdbMmptn1ri5KPX5hCZc7Wqn35plIeGM.png?width=640&crop=smart&auto=webp&s=e41a28fdd82c11e99da8c135e5a34107d9d56853"
+      },
+      {
+        "rank": 2,
+        "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-01T13:12:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tq9on2k4vush1.gif?width=640&crop=smart&s=7241cea5ee40ba5a7c0b32d5e2cea9510d3d035f"
+      },
+      {
+        "rank": 3,
+        "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-01T14:45:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "A video about Adversarial Objectives [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvk3cw/a_video_about_adversarial_objectives_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T04:02:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[D] Simple Questions Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1pyw/d_simple_questions_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-01T15:00:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "After researchers discovered a \"pain\" signal inside LLMs, a man set up an AI torture chamber in which he trapped a local model. People mass reported it to Github, who took it down.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T12:25:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6otixf6vmush1.png?width=640&crop=smart&auto=webp&s=bac028a68cef7588cbfc75a825b1963e8826e4e5"
+      },
+      {
+        "rank": 2,
+        "title": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wv59q6/ai_godfather_yann_lecun_has_zero_concerns_about/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T17:14:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d-npV4bwO4B8BYpXkSrrgwSZoBcmJ_nPkoUvZlmrCJM.jpeg?width=640&crop=smart&auto=webp&s=e5a1d201a235fd8e1e3957df195d229bf8563783"
+      },
+      {
+        "rank": 3,
+        "title": "I spent a day poking Dots with sticks. Here’s what I figured out.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wuznlr/i_spent_a_day_poking_dots_with_sticks_heres_what/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T13:37:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Rest 10AM PST tomorrow.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wviwfu/rest_10am_pst_tomorrow/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T02:59:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/szs111qtyysh1.jpeg?width=640&crop=smart&auto=webp&s=83a841d74bcf39ae5b1f37ed30b64266cb02d0c3"
+      },
+      {
+        "rank": 5,
+        "title": "A Cry for Help?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wvj0fg/a_cry_for_help/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T03:04:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hixwr93szysh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9ca040aad2000376b2fc99a4be8995d7256660e3"
+      },
+      {
+        "rank": 1,
+        "title": "Google releasing their most powerful model yet",
+        "url": "https://www.reddit.com/r/singularity/comments/1wv0jvd/google_releasing_their_most_powerful_model_yet/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-01T14:14:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZmNsZmo0c2E2dnNoMTIBvbZr5gFlTs_RnkwE0Y-EfeCi83FtKaCrq4ippx3N.jpeg?width=640&crop=smart&auto=webp&s=0858b1d559191dbc210e82e3c352cf1b2bef7706"
+      },
+      {
+        "rank": 2,
+        "title": "Griffin, the first Human Interaction Model to pass video Turing Test it's already #1 on NVIDIA's benchmark for full-duplex AI video - 44% of people thought it was a real person while other systems are at ~3%",
+        "url": "https://www.reddit.com/r/singularity/comments/1wv7q40/griffin_the_first_human_interaction_model_to_pass/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-01T18:47:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OHEwYmd1eHVpd3NoMV9md83xmcKrzBVFKp1KwB32VsmxXXNM0BypwZsE3ugC.png?width=640&crop=smart&auto=webp&s=c881d2893d0fff297211ade900a01daa2b2f0caf"
+      },
+      {
+        "rank": 3,
+        "title": "A Harvard physicist spent 3 months doing research with Claude Fable 5: it reproduced weeks of work in 20 minutes, completed 15 never-before-solved physics calculations, and contributed to 36 papers across 18 fields",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvfbua/a_harvard_physicist_spent_3_months_doing_research/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T00:04:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/9fmdL6gdmsjOdB6UY7emlcOL0XZRVb5T-hLkkVtx8fY.jpeg?width=640&crop=smart&auto=webp&s=d35f90a23887af7fc6ea12906b344f57a9a95663"
+      },
+      {
+        "rank": 4,
+        "title": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’",
+        "url": "https://www.reddit.com/r/singularity/comments/1wv58yx/ai_godfather_yann_lecun_has_zero_concerns_about/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-01T17:13:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d-npV4bwO4B8BYpXkSrrgwSZoBcmJ_nPkoUvZlmrCJM.jpeg?width=640&crop=smart&auto=webp&s=e5a1d201a235fd8e1e3957df195d229bf8563783"
+      },
+      {
+        "rank": 5,
+        "title": "The humanoid robotics company \"Figure\" made their older gen robots jump to their death. (Yes, they actually did this)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvahcj/the_humanoid_robotics_company_figure_made_their/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-01T20:32:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eTc3d3k1Z3QxeHNoMcYy6xi_l-k1mgIpZTTY9eHkR8CLb-UxphE5DYZTEdyY.jpeg?width=640&crop=smart&auto=webp&s=f5636506927570a54e8dd4d94f3b339036350627"
+      },
       {
         "rank": 1,
         "title": "Throwback to when Claude suggested I should deal drugs to make money.",
@@ -56,53 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T00:47:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_v0aV_eBcgrKdbMmptn1ri5KPX5hCZc7Wqn35plIeGM.png?width=640&crop=smart&auto=webp&s=e41a28fdd82c11e99da8c135e5a34107d9d56853"
-      },
-      {
-        "rank": 2,
-        "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-01T13:12:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tq9on2k4vush1.gif?width=640&crop=smart&s=7241cea5ee40ba5a7c0b32d5e2cea9510d3d035f"
-      },
-      {
-        "rank": 3,
-        "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-01T14:45:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Gemini 4 Argon - 1 Million Output Headroom. Hype or a Leap? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuvmpo/gemini_4_argon_1_million_output_headroom_hype_or/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-01T10:12:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[D] Simple Questions Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1pyw/d_simple_questions_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-01T15:00:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "October 1, 2026 - The day that spontaneous resets officially ended",
         "url": "https://www.reddit.com/r/codex/comments/1wv3dvu/october_1_2026_the_day_that_spontaneous_resets/",
         "source": "r/codex",
@@ -148,105 +247,6 @@
         "score": 0,
         "publishedAt": "2026-10-01T14:34:48.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "After researchers discovered a \"pain\" signal inside LLMs, a man set up an AI torture chamber in which he trapped a local model. People mass reported it to Github, who took it down.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T12:25:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6otixf6vmush1.png?width=640&crop=smart&auto=webp&s=bac028a68cef7588cbfc75a825b1963e8826e4e5"
-      },
-      {
-        "rank": 2,
-        "title": "Wake up babe, it's Gemini 4 fr",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wufl5b/wake_up_babe_its_gemini_4_fr/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-09-30T20:16:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c1woxkh1upsh1.jpeg?width=640&crop=smart&auto=webp&s=604756eca63a27669a0d24bf4b63e977c38f27f7"
-      },
-      {
-        "rank": 3,
-        "title": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wv59q6/ai_godfather_yann_lecun_has_zero_concerns_about/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T17:14:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d-npV4bwO4B8BYpXkSrrgwSZoBcmJ_nPkoUvZlmrCJM.jpeg?width=640&crop=smart&auto=webp&s=e5a1d201a235fd8e1e3957df195d229bf8563783"
-      },
-      {
-        "rank": 4,
-        "title": "I spent a day poking Dots with sticks. Here’s what I figured out.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wuznlr/i_spent_a_day_poking_dots_with_sticks_heres_what/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T13:37:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "GPT-6 Astra helped decode a 217-year-old cipher letter to Napoleon's marshal",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wus98d/gpt6_astra_helped_decode_a_217yearold_cipher/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T06:36:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/HDsGCF-cC9Z9R7evSiAJZZZCuYMnYMvSW6uaOO22I_Y.jpeg?width=640&crop=smart&auto=webp&s=3598a7fba912261cf6fdc987fe4d58cc70f69a7b"
-      },
-      {
-        "rank": 1,
-        "title": "Gemini 4 Argon solved hallucinations.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wuj72j/gemini_4_argon_solved_hallucinations/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T22:46:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0skesazrkqsh1.jpeg?width=640&crop=smart&auto=webp&s=9aee1ad172f9fdb0003cf53bf71651e960aa20d7"
-      },
-      {
-        "rank": 2,
-        "title": "Gemini 4 from straight from the horses mouth",
-        "url": "https://www.reddit.com/r/singularity/comments/1wufaxm/gemini_4_from_straight_from_the_horses_mouth/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T20:05:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ckpyc9uxrpsh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=1fd1068a849c8563f89f752806e941a7fe86049c"
-      },
-      {
-        "rank": 3,
-        "title": "Google releasing their most powerful model yet",
-        "url": "https://www.reddit.com/r/singularity/comments/1wv0jvd/google_releasing_their_most_powerful_model_yet/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-01T14:14:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZmNsZmo0c2E2dnNoMTIBvbZr5gFlTs_RnkwE0Y-EfeCi83FtKaCrq4ippx3N.jpeg?width=640&crop=smart&auto=webp&s=0858b1d559191dbc210e82e3c352cf1b2bef7706"
-      },
-      {
-        "rank": 4,
-        "title": "Introducing Gemini 4 Argon",
-        "url": "https://www.reddit.com/r/singularity/comments/1wufeu8/introducing_gemini_4_argon/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T20:09:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/iW8A1dL0KiFToEglrF7lEwdL6BC6MMzAsgSvdemcQEI.png?width=640&crop=smart&auto=webp&s=bb236ad7f943a9f28d75a933cb593ed67b6bd129"
-      },
-      {
-        "rank": 5,
-        "title": ", Gemini 4 Argon Benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1wufha8/gemini_4_argon_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-09-30T20:12:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ttsqu12atpsh1.jpeg?width=640&crop=smart&auto=webp&s=49651cd79eaab5187821390dd6cefc37e81139db"
       }
     ]
   }

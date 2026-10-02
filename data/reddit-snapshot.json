@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-10-02T16:37:13.721Z",
+  "fetchedAt": "2026-10-02T21:15:49.912Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T00:47:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_v0aV_eBcgrKdbMmptn1ri5KPX5hCZc7Wqn35plIeGM.png?width=640&crop=smart&auto=webp&s=e41a28fdd82c11e99da8c135e5a34107d9d56853"
+      },
+      {
+        "rank": 2,
+        "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T15:25:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
+      },
+      {
+        "rank": 3,
+        "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T12:04:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "A video about Adversarial Objectives [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvk3cw/a_video_about_adversarial_objectives_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T04:02:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T02:15:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "We're cooked. This is the first model to pass the Video Turing Test. Half of people who talked to it thought it was a real human",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wvtedh/were_cooked_this_is_the_first_model_to_pass_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T13:09:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z2o2aXo3Nmx6MXRoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=c15fb63abed064858ad6d6e55e8d48ca35ea92b4"
+      },
+      {
+        "rank": 2,
+        "title": "A Cry for Help?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wvj0fg/a_cry_for_help/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T03:04:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hixwr93szysh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9ca040aad2000376b2fc99a4be8995d7256660e3"
+      },
+      {
+        "rank": 3,
+        "title": "PewDiePie is trying to distill GPT-Sol",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T20:06:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l8i9oi7124th1.jpeg?width=640&crop=smart&auto=webp&s=4ad180e1cf9e60efb1d37d6fb8191e5166f1d10c"
+      },
+      {
+        "rank": 4,
+        "title": "Rest 10AM PST tomorrow.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wviwfu/rest_10am_pst_tomorrow/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T02:59:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/szs111qtyysh1.jpeg?width=640&crop=smart&auto=webp&s=83a841d74bcf39ae5b1f37ed30b64266cb02d0c3"
+      },
+      {
+        "rank": 5,
+        "title": "Used GPT-6 Astra to recreate an agent dot as a 3D Gaussian Splat",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wvfapq/used_gpt6_astra_to_recreate_an_agent_dot_as_a_3d/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T00:02:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ajR1ZmxrYzh3eHNoMUklWLWDS28t9XSy58PxsHZZnRDXz42q4hA8yc38Fa3D.png?width=640&crop=smart&auto=webp&s=d245626a51465212fef2b5f3b356f7af0bc43042"
+      },
+      {
+        "rank": 1,
+        "title": "A Harvard physicist spent 3 months doing research with Claude Fable 5: it reproduced weeks of work in 20 minutes, completed 15 never-before-solved physics calculations, and contributed to 36 papers across 18 fields",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvfbua/a_harvard_physicist_spent_3_months_doing_research/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T00:04:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/9fmdL6gdmsjOdB6UY7emlcOL0XZRVb5T-hLkkVtx8fY.jpeg?width=640&crop=smart&auto=webp&s=d35f90a23887af7fc6ea12906b344f57a9a95663"
+      },
+      {
+        "rank": 2,
+        "title": "What do we think of this AI torture chamber",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvknzh/what_do_we_think_of_this_ai_torture_chamber/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T04:34:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fmd6d3jpfzsh1.jpeg?width=640&crop=smart&auto=webp&s=25252639f26e56c3ea76dc62b6cc04e611630794"
+      },
+      {
+        "rank": 3,
+        "title": "Trump asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro, spending hours asking Musk's AI chatbot how Venezuelans would respond to the capture of their president, weeks before ordering the mission that took Maduro",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvfzzh/trump_asked_for_groks_opinion_before_invading/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T00:36:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-6.1 sol (max) scores 100% in frontier math 4",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvzs2k/gpt61_sol_max_scores_100_in_frontier_math_4/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T17:28:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/smavzrgl93th1.jpeg?width=640&crop=smart&auto=webp&s=9d78a7cd8b92d5e19a115b1d9519730aa8b7e0ad"
+      },
+      {
+        "rank": 5,
+        "title": "What the AI pain paper actually found (which I know because I read it)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvx5f2/what_the_ai_pain_paper_actually_found_which_i/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T15:43:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n8672hruq2th1.png?width=640&crop=smart&auto=webp&s=46136780f6e7541cb4046927efab3999102848b7"
+      },
       {
         "rank": 1,
         "title": "hey opus 5.5 can you build me a 24/7 live streaming new network",
@@ -56,53 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T00:47:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_v0aV_eBcgrKdbMmptn1ri5KPX5hCZc7Wqn35plIeGM.png?width=640&crop=smart&auto=webp&s=e41a28fdd82c11e99da8c135e5a34107d9d56853"
-      },
-      {
-        "rank": 2,
-        "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T15:25:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
-      },
-      {
-        "rank": 3,
-        "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T12:04:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "A video about Adversarial Objectives [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvk3cw/a_video_about_adversarial_objectives_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T04:02:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[D] Self-Promotion Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T02:15:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Incoming reset + Sol 6.1 seems much faster now",
         "url": "https://www.reddit.com/r/codex/comments/1wvjdhh/incoming_reset_sol_61_seems_much_faster_now/",
         "source": "r/codex",
@@ -149,105 +248,6 @@
         "publishedAt": "2026-10-01T17:57:30.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/56h2x14r9wsh1.png?width=140&height=43&auto=webp&s=a56b2ff76501e9fcb4a329fde46103cb51b55c02"
-      },
-      {
-        "rank": 1,
-        "title": "After researchers discovered a \"pain\" signal inside LLMs, a man set up an AI torture chamber in which he trapped a local model. People mass reported it to Github, who took it down.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wuy2x1/after_researchers_discovered_a_pain_signal_inside/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T12:25:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6otixf6vmush1.png?width=640&crop=smart&auto=webp&s=bac028a68cef7588cbfc75a825b1963e8826e4e5"
-      },
-      {
-        "rank": 2,
-        "title": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wv59q6/ai_godfather_yann_lecun_has_zero_concerns_about/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T17:14:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d-npV4bwO4B8BYpXkSrrgwSZoBcmJ_nPkoUvZlmrCJM.jpeg?width=640&crop=smart&auto=webp&s=e5a1d201a235fd8e1e3957df195d229bf8563783"
-      },
-      {
-        "rank": 3,
-        "title": "I spent a day poking Dots with sticks. Here’s what I figured out.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wuznlr/i_spent_a_day_poking_dots_with_sticks_heres_what/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T13:37:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Rest 10AM PST tomorrow.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wviwfu/rest_10am_pst_tomorrow/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T02:59:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/szs111qtyysh1.jpeg?width=640&crop=smart&auto=webp&s=83a841d74bcf39ae5b1f37ed30b64266cb02d0c3"
-      },
-      {
-        "rank": 5,
-        "title": "A Cry for Help?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wvj0fg/a_cry_for_help/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T03:04:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hixwr93szysh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9ca040aad2000376b2fc99a4be8995d7256660e3"
-      },
-      {
-        "rank": 1,
-        "title": "Google releasing their most powerful model yet",
-        "url": "https://www.reddit.com/r/singularity/comments/1wv0jvd/google_releasing_their_most_powerful_model_yet/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-01T14:14:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZmNsZmo0c2E2dnNoMTIBvbZr5gFlTs_RnkwE0Y-EfeCi83FtKaCrq4ippx3N.jpeg?width=640&crop=smart&auto=webp&s=0858b1d559191dbc210e82e3c352cf1b2bef7706"
-      },
-      {
-        "rank": 2,
-        "title": "Griffin, the first Human Interaction Model to pass video Turing Test it's already #1 on NVIDIA's benchmark for full-duplex AI video - 44% of people thought it was a real person while other systems are at ~3%",
-        "url": "https://www.reddit.com/r/singularity/comments/1wv7q40/griffin_the_first_human_interaction_model_to_pass/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-01T18:47:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OHEwYmd1eHVpd3NoMV9md83xmcKrzBVFKp1KwB32VsmxXXNM0BypwZsE3ugC.png?width=640&crop=smart&auto=webp&s=c881d2893d0fff297211ade900a01daa2b2f0caf"
-      },
-      {
-        "rank": 3,
-        "title": "A Harvard physicist spent 3 months doing research with Claude Fable 5: it reproduced weeks of work in 20 minutes, completed 15 never-before-solved physics calculations, and contributed to 36 papers across 18 fields",
-        "url": "https://www.reddit.com/r/singularity/comments/1wvfbua/a_harvard_physicist_spent_3_months_doing_research/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T00:04:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/9fmdL6gdmsjOdB6UY7emlcOL0XZRVb5T-hLkkVtx8fY.jpeg?width=640&crop=smart&auto=webp&s=d35f90a23887af7fc6ea12906b344f57a9a95663"
-      },
-      {
-        "rank": 4,
-        "title": "AI ‘godfather’ Yann LeCun has ‘zero concerns’ about human extinction, says Anthropic CEO Dario Amodei is ‘deluded’",
-        "url": "https://www.reddit.com/r/singularity/comments/1wv58yx/ai_godfather_yann_lecun_has_zero_concerns_about/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-01T17:13:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d-npV4bwO4B8BYpXkSrrgwSZoBcmJ_nPkoUvZlmrCJM.jpeg?width=640&crop=smart&auto=webp&s=e5a1d201a235fd8e1e3957df195d229bf8563783"
-      },
-      {
-        "rank": 5,
-        "title": "The humanoid robotics company \"Figure\" made their older gen robots jump to their death. (Yes, they actually did this)",
-        "url": "https://www.reddit.com/r/singularity/comments/1wvahcj/the_humanoid_robotics_company_figure_made_their/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-01T20:32:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eTc3d3k1Z3QxeHNoMcYy6xi_l-k1mgIpZTTY9eHkR8CLb-UxphE5DYZTEdyY.jpeg?width=640&crop=smart&auto=webp&s=f5636506927570a54e8dd4d94f3b339036350627"
       }
     ]
   }

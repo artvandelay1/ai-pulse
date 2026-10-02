@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T23:49:11.548Z",
+  "fetchedAt": "2026-10-02T04:54:15.724Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -56,6 +56,16 @@
       },
       {
         "rank": 1,
+        "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T00:47:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_v0aV_eBcgrKdbMmptn1ri5KPX5hCZc7Wqn35plIeGM.png?width=640&crop=smart&auto=webp&s=e41a28fdd82c11e99da8c135e5a34107d9d56853"
+      },
+      {
+        "rank": 2,
         "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
         "source": "r/MachineLearning",
@@ -63,15 +73,6 @@
         "publishedAt": "2026-10-01T13:12:08.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tq9on2k4vush1.gif?width=640&crop=smart&s=7241cea5ee40ba5a7c0b32d5e2cea9510d3d035f"
-      },
-      {
-        "rank": 2,
-        "title": "How to address novelty concerns in top ai conference? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-01T01:20:35.000Z",
-        "category": "reddit"
       },
       {
         "rank": 3,
@@ -84,20 +85,20 @@
       },
       {
         "rank": 4,
-        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wunvg4/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-01T02:30:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Gemini 4 Argon - 1 Million Output Headroom. Hype or a Leap? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wuvmpo/gemini_4_argon_1_million_output_headroom_hype_or/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-01T10:12:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[D] Simple Questions Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1pyw/d_simple_questions_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-01T15:00:28.000Z",
         "category": "reddit"
       },
       {
@@ -112,16 +113,6 @@
       },
       {
         "rank": 2,
-        "title": "PSA: Sol 6.1 slowness might get fixed in next few hours.",
-        "url": "https://www.reddit.com/r/codex/comments/1wuo421/psa_sol_61_slowness_might_get_fixed_in_next_few/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T02:42:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gejyalfaqrsh1.png?width=140&height=68&auto=webp&s=0c601815dbee56a2da04220780f5bf828a2b64f7"
-      },
-      {
-        "rank": 3,
         "title": "GPT-6 Pro messages drops from 200 to 100 per week as well, by the way.",
         "url": "https://www.reddit.com/r/codex/comments/1wuzd3u/gpt6_pro_messages_drops_from_200_to_100_per_week/",
         "source": "r/codex",
@@ -129,6 +120,15 @@
         "publishedAt": "2026-10-01T13:24:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/5nz7r3idxush1.png?width=640&crop=smart&auto=webp&s=4b27c2d3459bdd694aeb862cacdec593a5fa1084"
+      },
+      {
+        "rank": 3,
+        "title": "Open ai can’t stop winning",
+        "url": "https://www.reddit.com/r/codex/comments/1wv7x9q/open_ai_cant_stop_winning/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T18:54:42.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -142,11 +142,11 @@
       },
       {
         "rank": 5,
-        "title": "Open ai can’t stop winning",
-        "url": "https://www.reddit.com/r/codex/comments/1wv7x9q/open_ai_cant_stop_winning/",
+        "title": "Is it faster to learn and write code myself or wait for GPT 6.1 Sol to write it?",
+        "url": "https://www.reddit.com/r/codex/comments/1wv12fj/is_it_faster_to_learn_and_write_code_myself_or/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-01T18:54:42.000Z",
+        "publishedAt": "2026-10-01T14:34:48.000Z",
         "category": "reddit"
       },
       {

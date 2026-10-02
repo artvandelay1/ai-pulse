@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-02T10:59:44.366Z",
+  "fetchedAt": "2026-10-02T16:37:13.721Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "hey opus 5.5 can you build me a 24/7 live streaming new network",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvkhzo/hey_opus_55_can_you_build_me_a_247_live_streaming/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T04:25:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nk9rhUh0kzqyznJUH_d374ez-fJy7v53wmEjqpaU-eo.png?width=140&height=73&auto=webp&s=058abafcd457809c5e0bb15e0673eada4111da54"
+      },
+      {
+        "rank": 2,
+        "title": "Is Opus 5.5 Nerfed Now? LiveNerf Day 8 Update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T22:54:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gle8lqy6rxsh1.jpeg?width=640&crop=smart&auto=webp&s=916fa8fc7011517e382edcdd757bf37280ae7bc4"
+      },
+      {
+        "rank": 3,
+        "title": "Open Machine CEO Allie K. Miller says she takes \"Claude walks\" while using 34 AI agents to run her workday",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvsiey/open_machine_ceo_allie_k_miller_says_she_takes/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T12:28:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c63YVTwxsylAHwHsZT5lknZZFx5XY4S3DAiYOnNIwbE.jpeg?width=640&crop=smart&auto=webp&s=41a594f4f26bad0cb59bd4dede706a0e0c6581a7"
+      },
+      {
+        "rank": 4,
+        "title": "100$ plan - holy sh*",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdodf/100_plan_holy_sh/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-01T22:48:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "+50% usage if you start a doc?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvkhud/50_usage_if_you_start_a_doc/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T04:25:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zjeftgaudzsh1.jpeg?width=640&crop=smart&auto=webp&s=73e66eeb56fb526dd3d7f9e8d37fbb700092f538"
+      },
       {
         "rank": 1,
         "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
@@ -17,21 +66,21 @@
       },
       {
         "rank": 2,
-        "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
+        "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-01T13:12:08.000Z",
+        "publishedAt": "2026-10-02T15:25:22.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tq9on2k4vush1.gif?width=640&crop=smart&s=7241cea5ee40ba5a7c0b32d5e2cea9510d3d035f"
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
       },
       {
         "rank": 3,
-        "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
+        "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-01T14:45:25.000Z",
+        "publishedAt": "2026-10-02T12:04:05.000Z",
         "category": "reddit"
       },
       {
@@ -45,12 +94,61 @@
       },
       {
         "rank": 5,
-        "title": "[D] Simple Questions Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wv1pyw/d_simple_questions_thread/",
+        "title": "[D] Self-Promotion Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-01T15:00:28.000Z",
+        "publishedAt": "2026-10-02T02:15:05.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Incoming reset + Sol 6.1 seems much faster now",
+        "url": "https://www.reddit.com/r/codex/comments/1wvjdhh/incoming_reset_sol_61_seems_much_faster_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-02T03:24:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1gwvpnhi2zsh1.png?width=320&crop=smart&auto=webp&s=980e1ff70ec81b8c68c46955e244a3aad38e7f79"
+      },
+      {
+        "rank": 2,
+        "title": "Open ai can’t stop winning",
+        "url": "https://www.reddit.com/r/codex/comments/1wv7x9q/open_ai_cant_stop_winning/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T18:54:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Token speed difference, FYI",
+        "url": "https://www.reddit.com/r/codex/comments/1wvs49b/token_speed_difference_fyi/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-02T12:08:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o99wpm1to1th1.jpg?width=140&height=118&auto=webp&s=f10365f5e15201e909d92b9b3e4a376e81729411"
+      },
+      {
+        "rank": 4,
+        "title": "It did not get faster",
+        "url": "https://www.reddit.com/r/codex/comments/1wvdh8p/it_did_not_get_faster/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T22:39:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qk0rg0bfoxsh1.jpg?width=140&height=110&auto=webp&s=a42b8a51267b31cfff8d89d956080ec89c41a5e3"
+      },
+      {
+        "rank": 5,
+        "title": "avg 18 tps after they claim to fix 6.1sol speed...",
+        "url": "https://www.reddit.com/r/codex/comments/1wv6epc/avg_18_tps_after_they_claim_to_fix_61sol_speed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-01T17:57:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/56h2x14r9wsh1.png?width=140&height=43&auto=webp&s=a56b2ff76501e9fcb4a329fde46103cb51b55c02"
       },
       {
         "rank": 1,
@@ -150,103 +248,6 @@
         "publishedAt": "2026-10-01T20:32:45.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/eTc3d3k1Z3QxeHNoMcYy6xi_l-k1mgIpZTTY9eHkR8CLb-UxphE5DYZTEdyY.jpeg?width=640&crop=smart&auto=webp&s=f5636506927570a54e8dd4d94f3b339036350627"
-      },
-      {
-        "rank": 1,
-        "title": "Throwback to when Claude suggested I should deal drugs to make money.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuvxy7/throwback_to_when_claude_suggested_i_should_deal/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T10:31:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/80zyykd92ush1.jpeg?width=640&crop=smart&auto=webp&s=70cbe14a1ae96f1ff5d0e3f0c082520787727c80"
-      },
-      {
-        "rank": 2,
-        "title": "Made a \"Destroy Any Website\" stickman game",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T15:40:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OXljMjFlaXZpdnNoMZXcbfazeJuP16ChGxnHCmCHBLMcZxmHHaULoln8Frsm.png?width=640&crop=smart&auto=webp&s=e22fa1a751f6be9e5c0098dffcda375479d37a0d"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5.5 nerfing - how to measure, how to spot, how to sue",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T10:50:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I told Claude I like Bach and synths: Contrapunctus Acidus by Opus 5.5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wuqjz8/i_told_claude_i_like_bach_and_synths/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T04:54:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cm00dm5od3pkc3NoMQJ4qRSwor77cDA-IZNO3z2EGPy-L2Y9SPsyaaHeZ_40.png?width=640&crop=smart&auto=webp&s=4525a2640e7ea67934a1fc56f76cee160c9b7255"
-      },
-      {
-        "rank": 5,
-        "title": "Is Opus 5.5 Nerfed Now? LiveNerf Day 8 Update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T22:54:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gle8lqy6rxsh1.jpeg?width=640&crop=smart&auto=webp&s=916fa8fc7011517e382edcdd757bf37280ae7bc4"
-      },
-      {
-        "rank": 1,
-        "title": "October 1, 2026 - The day that spontaneous resets officially ended",
-        "url": "https://www.reddit.com/r/codex/comments/1wv3dvu/october_1_2026_the_day_that_spontaneous_resets/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T16:03:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/50i90uxtpvsh1.jpeg?width=640&crop=smart&auto=webp&s=9cce3140234aaae3a518a2a4394509bd0965e9ee"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6 Pro messages drops from 200 to 100 per week as well, by the way.",
-        "url": "https://www.reddit.com/r/codex/comments/1wuzd3u/gpt6_pro_messages_drops_from_200_to_100_per_week/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T13:24:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5nz7r3idxush1.png?width=640&crop=smart&auto=webp&s=4b27c2d3459bdd694aeb862cacdec593a5fa1084"
-      },
-      {
-        "rank": 3,
-        "title": "Open ai can’t stop winning",
-        "url": "https://www.reddit.com/r/codex/comments/1wv7x9q/open_ai_cant_stop_winning/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T18:54:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "GPT 6.1 Sol caught faking tests",
-        "url": "https://www.reddit.com/r/codex/comments/1wuuc4e/gpt_61_sol_caught_faking_tests/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T08:50:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k4vyhv14ktsh1.jpeg?width=640&crop=smart&auto=webp&s=0b0034efa6a4fd99ca63d2feee8978c6a1de3a6d"
-      },
-      {
-        "rank": 5,
-        "title": "Is it faster to learn and write code myself or wait for GPT 6.1 Sol to write it?",
-        "url": "https://www.reddit.com/r/codex/comments/1wv12fj/is_it_faster_to_learn_and_write_code_myself_or/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T14:34:48.000Z",
-        "category": "reddit"
       }
     ]
   }

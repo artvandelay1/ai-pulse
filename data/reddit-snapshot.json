@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T00:41:49.217Z",
+  "fetchedAt": "2026-10-03T06:15:09.736Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
-        "source": "r/MachineLearning",
+        "title": "Confirmed: Opus 5.5 has been nerded",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvyagq/confirmed_opus_55_has_been_nerded/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-02T00:47:10.000Z",
+        "publishedAt": "2026-10-02T16:28:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_v0aV_eBcgrKdbMmptn1ri5KPX5hCZc7Wqn35plIeGM.png?width=640&crop=smart&auto=webp&s=e41a28fdd82c11e99da8c135e5a34107d9d56853"
+        "thumbnail": "https://preview.redd.it/igo82md6z2th1.png?width=640&crop=smart&auto=webp&s=b1a532c51b2955aa242cccb9b949d16fa3dec258"
       },
       {
         "rank": 2,
+        "title": "Open Machine CEO Allie K. Miller says she takes \"Claude walks\" while using 34 AI agents to run her workday",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvsiey/open_machine_ceo_allie_k_miller_says_she_takes/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T12:28:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/c63YVTwxsylAHwHsZT5lknZZFx5XY4S3DAiYOnNIwbE.jpeg?width=640&crop=smart&auto=webp&s=41a594f4f26bad0cb59bd4dede706a0e0c6581a7"
+      },
+      {
+        "rank": 3,
+        "title": "Evidence - Opus 5.5 today vs launch regression with same prompt (Godot Engine)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvwipe/evidence_opus_55_today_vs_launch_regression_with/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T15:19:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cnN6OHVsNmRpMnRoMYx8p9uyYVoZMjiqsr0WvPzOxpwQlIoagRDnVgLZzlL_.png?width=640&crop=smart&auto=webp&s=2d21125cd06af08647324e18032de2f506e22a08"
+      },
+      {
+        "rank": 4,
+        "title": "Team recently started using Claude. Sprints get cleared in a few days",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww0u3i/team_recently_started_using_claude_sprints_get/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T18:10:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Whatever happened to \"Security Nightmare\" Mythos?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvmwys/whatever_happened_to_security_nightmare_mythos/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T06:50:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
         "source": "r/MachineLearning",
@@ -26,7 +64,7 @@
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
         "source": "r/MachineLearning",
@@ -35,22 +73,64 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "A video about Adversarial Objectives [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvk3cw/a_video_about_adversarial_objectives_p/",
+        "rank": 3,
+        "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-02T04:02:56.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-02T21:18:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 1,
+        "title": "Lmao",
+        "url": "https://www.reddit.com/r/codex/comments/1ww4efr/lmao/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-02T20:32:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/g5dlzvgm64th1.jpeg?width=640&crop=smart&auto=webp&s=74d9c0c5966442f2112e51cf2f70e2e7ebe28cb9"
+      },
+      {
+        "rank": 2,
+        "title": "Token speed difference, FYI",
+        "url": "https://www.reddit.com/r/codex/comments/1wvs49b/token_speed_difference_fyi/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-02T12:08:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o99wpm1to1th1.jpg?width=140&height=118&auto=webp&s=f10365f5e15201e909d92b9b3e4a376e81729411"
+      },
+      {
+        "rank": 3,
+        "title": "Opus and Sonnet in Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1wvzbqh/opus_and_sonnet_in_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-02T17:10:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0j7j156r53th1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=517142bfba6d78aa46822b50a22cd81d880cd32f"
+      },
+      {
+        "rank": 4,
+        "title": "A day can really change things",
+        "url": "https://www.reddit.com/r/codex/comments/1wvy6x0/a_day_can_really_change_things/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-02T16:24:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yemstrdey2th1.png?width=640&crop=smart&auto=webp&s=c91084310657cce3398e17a4adf339a5c9ea30f7"
       },
       {
         "rank": 5,
-        "title": "[D] Self-Promotion Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-        "source": "r/MachineLearning",
+        "title": "Reset just hit",
+        "url": "https://www.reddit.com/r/codex/comments/1ww5l7g/reset_just_hit/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-02T02:15:05.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-02T21:21:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wu6k5yzcf4th1.png?width=640&crop=smart&auto=webp&s=a5c297f6f5390f696bf52eb0da460a6c774065e7"
       },
       {
         "rank": 1,
@@ -150,104 +230,6 @@
         "publishedAt": "2026-10-02T01:33:47.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/dmc5c2Q0Mm1peXNoMVbyP3bCnSllDMzZqmN4gAbXrm-p9F_E5M4mNd9r4aV4.png?width=640&crop=smart&auto=webp&s=af9b47885ec763ca63555e374d7c18a87d1abfe2"
-      },
-      {
-        "rank": 1,
-        "title": "hey opus 5.5 can you build me a 24/7 live streaming new network",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvkhzo/hey_opus_55_can_you_build_me_a_247_live_streaming/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T04:25:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nk9rhUh0kzqyznJUH_d374ez-fJy7v53wmEjqpaU-eo.png?width=140&height=73&auto=webp&s=058abafcd457809c5e0bb15e0673eada4111da54"
-      },
-      {
-        "rank": 2,
-        "title": "Is Opus 5.5 Nerfed Now? LiveNerf Day 8 Update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdt9p/is_opus_55_nerfed_now_livenerf_day_8_update/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T22:54:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gle8lqy6rxsh1.jpeg?width=640&crop=smart&auto=webp&s=916fa8fc7011517e382edcdd757bf37280ae7bc4"
-      },
-      {
-        "rank": 3,
-        "title": "Open Machine CEO Allie K. Miller says she takes \"Claude walks\" while using 34 AI agents to run her workday",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvsiey/open_machine_ceo_allie_k_miller_says_she_takes/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T12:28:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c63YVTwxsylAHwHsZT5lknZZFx5XY4S3DAiYOnNIwbE.jpeg?width=640&crop=smart&auto=webp&s=41a594f4f26bad0cb59bd4dede706a0e0c6581a7"
-      },
-      {
-        "rank": 4,
-        "title": "100$ plan - holy sh*",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvdodf/100_plan_holy_sh/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-01T22:48:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "+50% usage if you start a doc?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvkhud/50_usage_if_you_start_a_doc/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T04:25:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zjeftgaudzsh1.jpeg?width=640&crop=smart&auto=webp&s=73e66eeb56fb526dd3d7f9e8d37fbb700092f538"
-      },
-      {
-        "rank": 1,
-        "title": "Incoming reset + Sol 6.1 seems much faster now",
-        "url": "https://www.reddit.com/r/codex/comments/1wvjdhh/incoming_reset_sol_61_seems_much_faster_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-02T03:24:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1gwvpnhi2zsh1.png?width=320&crop=smart&auto=webp&s=980e1ff70ec81b8c68c46955e244a3aad38e7f79"
-      },
-      {
-        "rank": 2,
-        "title": "Open ai can’t stop winning",
-        "url": "https://www.reddit.com/r/codex/comments/1wv7x9q/open_ai_cant_stop_winning/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T18:54:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Token speed difference, FYI",
-        "url": "https://www.reddit.com/r/codex/comments/1wvs49b/token_speed_difference_fyi/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-02T12:08:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o99wpm1to1th1.jpg?width=140&height=118&auto=webp&s=f10365f5e15201e909d92b9b3e4a376e81729411"
-      },
-      {
-        "rank": 4,
-        "title": "It did not get faster",
-        "url": "https://www.reddit.com/r/codex/comments/1wvdh8p/it_did_not_get_faster/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T22:39:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qk0rg0bfoxsh1.jpg?width=140&height=110&auto=webp&s=a42b8a51267b31cfff8d89d956080ec89c41a5e3"
-      },
-      {
-        "rank": 5,
-        "title": "avg 18 tps after they claim to fix 6.1sol speed...",
-        "url": "https://www.reddit.com/r/codex/comments/1wv6epc/avg_18_tps_after_they_claim_to_fix_61sol_speed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-01T17:57:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/56h2x14r9wsh1.png?width=140&height=43&auto=webp&s=a56b2ff76501e9fcb4a329fde46103cb51b55c02"
       }
     ]
   }

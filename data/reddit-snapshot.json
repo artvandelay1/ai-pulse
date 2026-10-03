@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-03T19:22:46.078Z",
+  "fetchedAt": "2026-10-03T22:23:11.254Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I use Claude daily but I know I'm only using a fraction of what Claude can do. How do I actually maximize my use of Claude and build a system that runs my life?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww9nq3/i_use_claude_daily_but_i_know_im_only_using_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T00:29:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5.5 can one-shot a video, so I pushed it a little bit further: a Skill that turns PDF into an animated, interactive web book",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwhlgb/opus_55_can_oneshot_a_video_so_i_pushed_it_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T07:59:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bDFkeWZ4MDRrN3RoMa5OX2Akbnp9AmrD7dDjfccJcukCyEZjIxAfH9xagN1o.png?width=640&crop=smart&auto=webp&s=434c5c6622eed811780a77b3ff8f23fb9f27ecb7"
+      },
+      {
+        "rank": 3,
+        "title": "Did they nerf Opus 5.5? LiveNerf baseline established: Day 10",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwsm61/did_they_nerf_opus_55_livenerf_baseline/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T17:19:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zm7sngm4dath1.jpeg?width=640&crop=smart&auto=webp&s=2178bd74db8b808bb4b6ede0aca00b8ad685cc47"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic invests $100 million to train 10,000 engineers and close the enterprise AI talent gap",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwq6p5/anthropic_invests_100_million_to_train_10000/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T15:35:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/pk43CsZO_IWAIC0sWQgIFxccfwAfMhkyjHTf6lDoXJI.png?width=640&crop=smart&auto=webp&s=9917f778753e836df6a2828673c5c366adf37aa0"
+      },
+      {
+        "rank": 5,
+        "title": "I used Claude to make 106 almost all black OLED wallpapers, plotting the graphics from real scientific data and code. No image generation. Hope you like them!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wwxsle/i_used_claude_to_make_106_almost_all_black_oled/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T20:56:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_pybx9R4P3od3iIl2I1s04ZGqHYw3BI46OSJRnd6WqY.jpeg?width=640&crop=smart&auto=webp&s=a3c6472e83b8e102ea959d43c5f6e6c4de622ff5"
+      },
       {
         "rank": 1,
         "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
@@ -33,14 +82,53 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Leaked image of hardware running 6.1 Sol",
+        "url": "https://www.reddit.com/r/codex/comments/1wwls9e/leaked_image_of_hardware_running_61_sol/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-02T21:18:22.000Z",
+        "publishedAt": "2026-10-03T12:14:58.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+        "thumbnail": "https://preview.redd.it/rd6rshdtu8th1.png?width=640&crop=smart&auto=webp&s=9306e05ad9301eda372f4be2fbd6752a1d0d510c"
+      },
+      {
+        "rank": 2,
+        "title": "Even sol is frustrated at how slow it is",
+        "url": "https://www.reddit.com/r/codex/comments/1wwkfgb/even_sol_is_frustrated_at_how_slow_it_is/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-03T10:58:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mfrr5989h8th1.png?width=640&crop=smart&auto=webp&s=496670474ac8fa43ca7ccf61aaa5be4929a86af3"
+      },
+      {
+        "rank": 3,
+        "title": "Holy usage increase after latest reset",
+        "url": "https://www.reddit.com/r/codex/comments/1ww9cf7/holy_usage_increase_after_latest_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-03T00:13:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I wonder what they have planned",
+        "url": "https://www.reddit.com/r/codex/comments/1wwgvmq/i_wonder_what_they_have_planned/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-03T07:13:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fty5omwxc7th1.jpeg?width=320&crop=smart&auto=webp&s=5644586ac50ffd89d7344b59449467427e5d4bd5"
+      },
+      {
+        "rank": 5,
+        "title": "Cycle that never ends",
+        "url": "https://www.reddit.com/r/codex/comments/1wwjxu9/cycle_that_never_ends/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-03T10:28:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gaxob07tb8th1.png?width=640&crop=smart&auto=webp&s=e625d5953664453b867fef7c440daed8e0bf778a"
       },
       {
         "rank": 1,
@@ -141,104 +229,6 @@
         "publishedAt": "2026-10-03T00:46:45.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/evgw58alf5th1.png?width=640&crop=smart&auto=webp&s=316b6e8b64dfa4b1ed0b0ab4ebdd79c0a5dd0f07"
-      },
-      {
-        "rank": 1,
-        "title": "Confirmed: Opus 5.5 has been nerded",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvyagq/confirmed_opus_55_has_been_nerded/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T16:28:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/igo82md6z2th1.png?width=640&crop=smart&auto=webp&s=b1a532c51b2955aa242cccb9b949d16fa3dec258"
-      },
-      {
-        "rank": 2,
-        "title": "Open Machine CEO Allie K. Miller says she takes \"Claude walks\" while using 34 AI agents to run her workday",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvsiey/open_machine_ceo_allie_k_miller_says_she_takes/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T12:28:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c63YVTwxsylAHwHsZT5lknZZFx5XY4S3DAiYOnNIwbE.jpeg?width=640&crop=smart&auto=webp&s=41a594f4f26bad0cb59bd4dede706a0e0c6581a7"
-      },
-      {
-        "rank": 3,
-        "title": "Evidence - Opus 5.5 today vs launch regression with same prompt (Godot Engine)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvwipe/evidence_opus_55_today_vs_launch_regression_with/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T15:19:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cnN6OHVsNmRpMnRoMYx8p9uyYVoZMjiqsr0WvPzOxpwQlIoagRDnVgLZzlL_.png?width=640&crop=smart&auto=webp&s=2d21125cd06af08647324e18032de2f506e22a08"
-      },
-      {
-        "rank": 4,
-        "title": "Team recently started using Claude. Sprints get cleared in a few days",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1ww0u3i/team_recently_started_using_claude_sprints_get/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T18:10:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Whatever happened to \"Security Nightmare\" Mythos?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wvmwys/whatever_happened_to_security_nightmare_mythos/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T06:50:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Lmao",
-        "url": "https://www.reddit.com/r/codex/comments/1ww4efr/lmao/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-02T20:32:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g5dlzvgm64th1.jpeg?width=640&crop=smart&auto=webp&s=74d9c0c5966442f2112e51cf2f70e2e7ebe28cb9"
-      },
-      {
-        "rank": 2,
-        "title": "Token speed difference, FYI",
-        "url": "https://www.reddit.com/r/codex/comments/1wvs49b/token_speed_difference_fyi/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-02T12:08:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o99wpm1to1th1.jpg?width=140&height=118&auto=webp&s=f10365f5e15201e909d92b9b3e4a376e81729411"
-      },
-      {
-        "rank": 3,
-        "title": "Opus and Sonnet in Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1wvzbqh/opus_and_sonnet_in_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-02T17:10:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0j7j156r53th1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=517142bfba6d78aa46822b50a22cd81d880cd32f"
-      },
-      {
-        "rank": 4,
-        "title": "A day can really change things",
-        "url": "https://www.reddit.com/r/codex/comments/1wvy6x0/a_day_can_really_change_things/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-02T16:24:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yemstrdey2th1.png?width=640&crop=smart&auto=webp&s=c91084310657cce3398e17a4adf339a5c9ea30f7"
-      },
-      {
-        "rank": 5,
-        "title": "Reset just hit",
-        "url": "https://www.reddit.com/r/codex/comments/1ww5l7g/reset_just_hit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-02T21:21:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wu6k5yzcf4th1.png?width=640&crop=smart&auto=webp&s=a5c297f6f5390f696bf52eb0da460a6c774065e7"
       }
     ]
   }

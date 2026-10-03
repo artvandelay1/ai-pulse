@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T16:03:48.933Z",
+  "fetchedAt": "2026-10-03T19:22:46.078Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,24 @@
     "items": [
       {
         "rank": 1,
+        "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T18:04:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ICLR 2027 Reviewing Scores [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T16:10:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "NeurIPS Free Passes [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
         "source": "r/MachineLearning",
@@ -15,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
         "source": "r/MachineLearning",
@@ -56,22 +74,23 @@
       },
       {
         "rank": 4,
-        "title": "Global reset in 45 minuten",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wvy07j/global_reset_in_45_minuten/",
+        "title": "OpenAI publishes a model guide for the GPT-6 family covering model choice, reasoning effort, and tool use",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wwq6yn/openai_publishes_a_model_guide_for_the_gpt6/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-02T16:17:09.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-03T15:36:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/REpqU2OTsMqMdAXDLCKLcGqU2bXHtx-wo_OsnLc2f-k.png?width=640&crop=smart&auto=webp&s=26d3a8d92c948afe4b2b75748752af8ca17d288d"
       },
       {
         "rank": 5,
-        "title": "\"It looks like they're firing whistleblowers.\" Altman purged 3 AI safety researchers for allegedly leaking data to an outside safety group. Hours later, OpenAI's Head of Safety Systems quit.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wvybfd/it_looks_like_theyre_firing_whistleblowers_altman/",
+        "title": "Introducing Oscilloscope Diffusion",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wwqgun/introducing_oscilloscope_diffusion/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-02T16:29:41.000Z",
+        "publishedAt": "2026-10-03T15:48:02.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ma8c2mubz2th1.png?width=640&crop=smart&auto=webp&s=cb8d48f8a44d35638e21a5c3d60386977244a81e"
+        "thumbnail": "https://external-preview.redd.it/amg1azJ4NGJ3OXRoMRRcbsUB5bczVGJzm81eGC-H-gD1Xkd0ySh2aP8cTtBU.png?width=640&crop=smart&auto=webp&s=585f773e54ed53e90f3bfe5a0f93a3cdf51ff47d"
       },
       {
         "rank": 1,
@@ -105,13 +124,13 @@
       },
       {
         "rank": 4,
-        "title": "GPT-6.1 sol (max) scores 100% in frontier math 4",
-        "url": "https://www.reddit.com/r/singularity/comments/1wvzs2k/gpt61_sol_max_scores_100_in_frontier_math_4/",
+        "title": "Intelligence Explosion",
+        "url": "https://www.reddit.com/r/singularity/comments/1wwjonr/intelligence_explosion/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-02T17:28:15.000Z",
+        "publishedAt": "2026-10-03T10:12:07.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/smavzrgl93th1.jpeg?width=640&crop=smart&auto=webp&s=9d78a7cd8b92d5e19a115b1d9519730aa8b7e0ad"
+        "thumbnail": "https://preview.redd.it/iqwlpyyw88th1.jpeg?width=640&crop=smart&auto=webp&s=33c415c5fc2bd6eaf3a20b894c25e2e055644234"
       },
       {
         "rank": 5,

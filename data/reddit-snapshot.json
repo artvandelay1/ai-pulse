@@ -1,10 +1,147 @@
 {
-  "fetchedAt": "2026-10-03T06:15:09.736Z",
+  "fetchedAt": "2026-10-03T11:57:50.263Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T15:25:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
+      },
+      {
+        "rank": 2,
+        "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T12:04:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS Free Passes [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T11:03:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-02T21:18:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 1,
+        "title": "PewDiePie is trying to distill GPT-Sol",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T20:06:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l8i9oi7124th1.jpeg?width=640&crop=smart&auto=webp&s=4ad180e1cf9e60efb1d37d6fb8191e5166f1d10c"
+      },
+      {
+        "rank": 2,
+        "title": "We're cooked. This is the first model to pass the Video Turing Test. Half of people who talked to it thought it was a real human",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wvtedh/were_cooked_this_is_the_first_model_to_pass_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T13:09:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z2o2aXo3Nmx6MXRoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=c15fb63abed064858ad6d6e55e8d48ca35ea92b4"
+      },
+      {
+        "rank": 3,
+        "title": "Truly groundbreaking stuff",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T00:50:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hwzzo274g5th1.png?width=640&crop=smart&auto=webp&s=7f493b62f87a0931720a4544adb7bdca9d7a7ab6"
+      },
+      {
+        "rank": 4,
+        "title": "I leaked a deliberately wrong answer key to an LLM and told it not to use it. It matched the key in 63% of answers - and denied it 47 out of 47 times when asked.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wvuc6m/i_leaked_a_deliberately_wrong_answer_key_to_an/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T13:50:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Each day, 6.1 Sol throughput keeps on improving",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1ww4mvp/each_day_61_sol_throughput_keeps_on_improving/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-02T20:41:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/itgu3t9284th1.png?width=140&height=112&auto=webp&s=f4446c459b3a4795516f2666325e2aed66f5e4dd"
+      },
+      {
+        "rank": 1,
+        "title": "Opus 5.5 recapped all of human history as if it were a 24-hour day in this one-shot animated video, with its own original score",
+        "url": "https://www.reddit.com/r/singularity/comments/1ww2o3o/opus_55_recapped_all_of_human_history_as_if_it/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T19:21:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YTNnaWV6czF1M3RoMez9rZ8QTLyAaqbnT_2NkYrMRAbKp9JDBRVnSV5wP2rs.jpeg?width=640&crop=smart&auto=webp&s=82a6966559be842bcf53c759366eba2e499b81bc"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6.1 sol (max) scores 100% in frontier math 4",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvzs2k/gpt61_sol_max_scores_100_in_frontier_math_4/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T17:28:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/smavzrgl93th1.jpeg?width=640&crop=smart&auto=webp&s=9d78a7cd8b92d5e19a115b1d9519730aa8b7e0ad"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 Astra helped decipher a Napoleonic military letter that remained unread for 217 years; it took just 6 hours",
+        "url": "https://www.reddit.com/r/singularity/comments/1ww7uga/gpt6_astra_helped_decipher_a_napoleonic_military/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T23:02:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/6USdOIbPyvgX_SGDauVptbSoBXkK1tgItHI12Uo7tw0.jpeg?width=640&crop=smart&auto=webp&s=d376b3d74b99dc6de6c7f1c12b65c613c805ff7c"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI is now working directly with Lockheed Martin’s F-35 engineers to solve the math and physics behind advanced fighter-jet sensors",
+        "url": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-03T00:28:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9d47csiqc5th1.jpeg?width=640&crop=smart&auto=webp&s=300d7f8815866908e1dc880f736113e8b69a2163"
+      },
+      {
+        "rank": 5,
+        "title": "What the AI pain paper actually found (which I know because I read it)",
+        "url": "https://www.reddit.com/r/singularity/comments/1wvx5f2/what_the_ai_pain_paper_actually_found_which_i/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-02T15:43:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n8672hruq2th1.png?width=640&crop=smart&auto=webp&s=46136780f6e7541cb4046927efab3999102848b7"
+      },
       {
         "rank": 1,
         "title": "Confirmed: Opus 5.5 has been nerded",
@@ -55,35 +192,6 @@
       },
       {
         "rank": 1,
-        "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T15:25:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
-      },
-      {
-        "rank": 2,
-        "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T12:04:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "[R] Would you keep a robot demonstration if hand tracking missed the moment the plug went in?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1ww5ijc/r_would_you_keep_a_robot_demonstration_if_hand/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-02T21:18:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 1,
         "title": "Lmao",
         "url": "https://www.reddit.com/r/codex/comments/1ww4efr/lmao/",
         "source": "r/codex",
@@ -131,105 +239,6 @@
         "publishedAt": "2026-10-02T21:21:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/wu6k5yzcf4th1.png?width=640&crop=smart&auto=webp&s=a5c297f6f5390f696bf52eb0da460a6c774065e7"
-      },
-      {
-        "rank": 1,
-        "title": "PewDiePie is trying to distill GPT-Sol",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T20:06:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l8i9oi7124th1.jpeg?width=640&crop=smart&auto=webp&s=4ad180e1cf9e60efb1d37d6fb8191e5166f1d10c"
-      },
-      {
-        "rank": 2,
-        "title": "We're cooked. This is the first model to pass the Video Turing Test. Half of people who talked to it thought it was a real human",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wvtedh/were_cooked_this_is_the_first_model_to_pass_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T13:09:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z2o2aXo3Nmx6MXRoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=c15fb63abed064858ad6d6e55e8d48ca35ea92b4"
-      },
-      {
-        "rank": 3,
-        "title": "A Cry for Help?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wvj0fg/a_cry_for_help/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T03:04:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hixwr93szysh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=9ca040aad2000376b2fc99a4be8995d7256660e3"
-      },
-      {
-        "rank": 4,
-        "title": "Rest 10AM PST tomorrow.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wviwfu/rest_10am_pst_tomorrow/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T02:59:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/szs111qtyysh1.jpeg?width=640&crop=smart&auto=webp&s=83a841d74bcf39ae5b1f37ed30b64266cb02d0c3"
-      },
-      {
-        "rank": 5,
-        "title": "I leaked a deliberately wrong answer key to an LLM and told it not to use it. It matched the key in 63% of answers - and denied it 47 out of 47 times when asked.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wvuc6m/i_leaked_a_deliberately_wrong_answer_key_to_an/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T13:50:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "What do we think of this AI torture chamber",
-        "url": "https://www.reddit.com/r/singularity/comments/1wvknzh/what_do_we_think_of_this_ai_torture_chamber/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T04:34:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fmd6d3jpfzsh1.jpeg?width=640&crop=smart&auto=webp&s=25252639f26e56c3ea76dc62b6cc04e611630794"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5.5 recapped all of human history as if it were a 24-hour day in this one-shot animated video, with its own original score",
-        "url": "https://www.reddit.com/r/singularity/comments/1ww2o3o/opus_55_recapped_all_of_human_history_as_if_it/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T19:21:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YTNnaWV6czF1M3RoMez9rZ8QTLyAaqbnT_2NkYrMRAbKp9JDBRVnSV5wP2rs.jpeg?width=640&crop=smart&auto=webp&s=82a6966559be842bcf53c759366eba2e499b81bc"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6.1 sol (max) scores 100% in frontier math 4",
-        "url": "https://www.reddit.com/r/singularity/comments/1wvzs2k/gpt61_sol_max_scores_100_in_frontier_math_4/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T17:28:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/smavzrgl93th1.jpeg?width=640&crop=smart&auto=webp&s=9d78a7cd8b92d5e19a115b1d9519730aa8b7e0ad"
-      },
-      {
-        "rank": 4,
-        "title": "What the AI pain paper actually found (which I know because I read it)",
-        "url": "https://www.reddit.com/r/singularity/comments/1wvx5f2/what_the_ai_pain_paper_actually_found_which_i/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T15:43:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n8672hruq2th1.png?width=640&crop=smart&auto=webp&s=46136780f6e7541cb4046927efab3999102848b7"
-      },
-      {
-        "rank": 5,
-        "title": "Animation supposedly generated by Fable 5.5",
-        "url": "https://www.reddit.com/r/singularity/comments/1wvh73u/animation_supposedly_generated_by_fable_55/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T01:33:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmc5c2Q0Mm1peXNoMVbyP3bCnSllDMzZqmN4gAbXrm-p9F_E5M4mNd9r4aV4.png?width=640&crop=smart&auto=webp&s=af9b47885ec763ca63555e374d7c18a87d1abfe2"
       }
     ]
   }

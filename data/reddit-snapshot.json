@@ -1,10 +1,157 @@
 {
-  "fetchedAt": "2026-10-04T18:05:10.391Z",
+  "fetchedAt": "2026-10-04T21:50:46.717Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-04T10:24:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gkjgii48gfth1.png?width=140&height=107&auto=webp&s=a37b5c86687eb9f397c63fc280b4adf1356dccc0"
+      },
+      {
+        "rank": 2,
+        "title": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-04T12:15:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Working with an AI Company That Does Things You Disagree With [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-04T08:41:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxex8n/a_minimal_interpretable_architecture_for_zeroshot/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-04T12:49:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jmlcnocq5gth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0468e9757244e29477d690f8a74016f9dd2334bf"
+      },
+      {
+        "rank": 5,
+        "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-04T05:21:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9h97aai2wdth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a40fef6e293f12cb47d26058487a620f0faf6519"
+      },
+      {
+        "rank": 1,
+        "title": "Sam Altman’s sister just released the first hour of her deposition against him",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wx0slz/sam_altmans_sister_just_released_the_first_hour/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T23:17:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/KoHkPvRJqUXQ9jxR0rtQpjq5WFoFSP7o-QNDKO1Z1BY.jpeg?width=320&crop=smart&auto=webp&s=8215667fb18d14ef1c0fff103ffcf6d5c6c561ac"
+      },
+      {
+        "rank": 2,
+        "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL files",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-04T15:37:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/5mWotV5SOmfnb56NmRVj2DW92_T-3UJeuNHSnC93x0k.png?width=640&crop=smart&auto=webp&s=8457fb11ab0844b8e741f1cda781b697065773bb"
+      },
+      {
+        "rank": 3,
+        "title": "Banned from ChatGPT for “cyber abuse” while building games — appeal denied in 1 minute, no human review",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wxnt4u/banned_from_chatgpt_for_cyber_abuse_while/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-04T19:09:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jjagsw6q1ith1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=94d3fa576472c0b436fb283728e5c03d737332d7"
+      },
+      {
+        "rank": 4,
+        "title": "NOW: OpenAI says GPT-6.1 Sol Ultrafast is coming soon",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wx3l41/now_openai_says_gpt61_sol_ultrafast_is_coming_soon/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-04T01:41:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/hAhV1zDM-S4q8HOXkgii6KYTm1Mqjk1lbCYBWAcJmQg.jpeg?width=640&crop=smart&auto=webp&s=533999802fc90cee1e25a8a5c63a0a3fb58647ce"
+      },
+      {
+        "rank": 5,
+        "title": "I've created Open Source 100% Rust clean-room replacements for 7 of Adobe's apps: Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign, and Acrobat Pro.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wxmunv/ive_created_open_source_100_rust_cleanroom/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-04T18:31:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2dyvplptuhth1.png?width=640&crop=smart&auto=webp&s=204eb2934682def5b1089209e59f53b4c2bf6318"
+      },
+      {
+        "rank": 1,
+        "title": "Claude Opus 5.5 created this in 18 hours",
+        "url": "https://www.reddit.com/r/singularity/comments/1wx73vr/claude_opus_55_created_this_in_18_hours/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-04T04:56:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N3hnYXlvNmp0ZHRoMWQNn-zBNqk5modl1fI8IoOdEi5uCq5oFeqVzguZ6HVm.png?width=640&crop=smart&auto=webp&s=cd81db43f5451694759c68e0a2325421e674199b"
+      },
+      {
+        "rank": 2,
+        "title": "It's over, guys. This repo turns ONE photo into a full explorable 3D world in 5 minutes. Physics, splats, audio!",
+        "url": "https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-04T04:12:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bjB3c3pqMnBsZHRoMccv0wOHKwp4v6aX1lQK-lQ8icB-2SaifuY7q8Hutfrh.png?width=640&crop=smart&auto=webp&s=20317a8478058922dcead17a786b704e677b03b9"
+      },
+      {
+        "rank": 3,
+        "title": "Crab Rave: \"I built a little crab robot Jumper people seemed to love and I open-souced it\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1wx7ow5/crab_rave_i_built_a_little_crab_robot_jumper/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-04T05:30:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The gaps are shrinking ... and the gaps might get wiped out in the next 1,000 days",
+        "url": "https://www.reddit.com/r/singularity/comments/1wx30i3/the_gaps_are_shrinking_and_the_gaps_might_get/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-04T01:10:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vknx2fc4pcth1.png?width=640&crop=smart&auto=webp&s=d4b59c3c18a36e036f8bb654361e2f7078f739be"
+      },
+      {
+        "rank": 5,
+        "title": "Early warning signs are mounting that AI is already impacting the job market in NYC. This is coming fast and we are doing almost nothing about it.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wxhome/early_warning_signs_are_mounting_that_ai_is/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-04T14:57:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ylixncnnsgth1.jpeg?width=640&crop=smart&auto=webp&s=cc1935b04fcb27ee83dc782a3973dcf2708516b2"
+      },
       {
         "rank": 1,
         "title": "I used Claude to make 106 almost all black OLED wallpapers, plotting the graphics from real scientific data and code. No image generation. Hope you like them!",
@@ -56,53 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-04T10:24:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gkjgii48gfth1.png?width=140&height=107&auto=webp&s=a37b5c86687eb9f397c63fc280b4adf1356dccc0"
-      },
-      {
-        "rank": 2,
-        "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-03T18:04:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-04T12:15:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Working with an AI Company That Does Things You Disagree With [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-04T08:41:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxex8n/a_minimal_interpretable_architecture_for_zeroshot/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-04T12:49:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jmlcnocq5gth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0468e9757244e29477d690f8a74016f9dd2334bf"
-      },
-      {
-        "rank": 1,
         "title": "\"We are locking in\"",
         "url": "https://www.reddit.com/r/codex/comments/1wx7v9j/we_are_locking_in/",
         "source": "r/codex",
@@ -148,105 +248,6 @@
         "publishedAt": "2026-10-03T18:39:29.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NnRuaHN3bmZyYXRoMWd55QhbV8dlNZAkY86-0QUl514y9qJZtmy4q9hJstwY.png?width=640&crop=smart&auto=webp&s=6f82471beacde0ed923b8749958fb88e8a7402cb"
-      },
-      {
-        "rank": 1,
-        "title": "Sam Altman’s sister just released the first hour of her deposition against him",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wx0slz/sam_altmans_sister_just_released_the_first_hour/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-03T23:17:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/KoHkPvRJqUXQ9jxR0rtQpjq5WFoFSP7o-QNDKO1Z1BY.jpeg?width=320&crop=smart&auto=webp&s=8215667fb18d14ef1c0fff103ffcf6d5c6c561ac"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI publishes a model guide for the GPT-6 family covering model choice, reasoning effort, and tool use",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wwq6yn/openai_publishes_a_model_guide_for_the_gpt6/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-03T15:36:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/REpqU2OTsMqMdAXDLCKLcGqU2bXHtx-wo_OsnLc2f-k.png?width=640&crop=smart&auto=webp&s=26d3a8d92c948afe4b2b75748752af8ca17d288d"
-      },
-      {
-        "rank": 3,
-        "title": "Am I crazy or are dots totally worthless?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wwur33/am_i_crazy_or_are_dots_totally_worthless/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-03T18:48:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "NOW: OpenAI says GPT-6.1 Sol Ultrafast is coming soon",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wx3l41/now_openai_says_gpt61_sol_ultrafast_is_coming_soon/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-04T01:41:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/hAhV1zDM-S4q8HOXkgii6KYTm1Mqjk1lbCYBWAcJmQg.jpeg?width=640&crop=smart&auto=webp&s=533999802fc90cee1e25a8a5c63a0a3fb58647ce"
-      },
-      {
-        "rank": 5,
-        "title": "ChatGPT Lawsuit Claims Humans Are Reading Your Chats",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wwpi03/chatgpt_lawsuit_claims_humans_are_reading_your/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-03T15:06:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/PC3jEUFcz5Zv4rlO_wdWHiUsmKmGPo4brMnd3YrEqbs.jpeg?width=640&crop=smart&auto=webp&s=96ecb1672281e133ef89bd64fc0e861fd74d01b7"
-      },
-      {
-        "rank": 1,
-        "title": "Claude Opus 5.5 created this in 18 hours",
-        "url": "https://www.reddit.com/r/singularity/comments/1wx73vr/claude_opus_55_created_this_in_18_hours/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-04T04:56:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N3hnYXlvNmp0ZHRoMWQNn-zBNqk5modl1fI8IoOdEi5uCq5oFeqVzguZ6HVm.png?width=640&crop=smart&auto=webp&s=cd81db43f5451694759c68e0a2325421e674199b"
-      },
-      {
-        "rank": 2,
-        "title": "Intelligence Explosion",
-        "url": "https://www.reddit.com/r/singularity/comments/1wwjonr/intelligence_explosion/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-03T10:12:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iqwlpyyw88th1.jpeg?width=640&crop=smart&auto=webp&s=33c415c5fc2bd6eaf3a20b894c25e2e055644234"
-      },
-      {
-        "rank": 3,
-        "title": "Could the simulated fruit-fly brain be considered the first “immortal” living being?",
-        "url": "https://www.reddit.com/r/singularity/comments/1wwr56b/could_the_simulated_fruitfly_brain_be_considered/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-03T16:16:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lezzd7sv1ath1.jpeg?width=640&crop=smart&auto=webp&s=f25ffd79308fd710cdbbcab93a0a826f3494638c"
-      },
-      {
-        "rank": 4,
-        "title": "It's over, guys. This repo turns ONE photo into a full explorable 3D world in 5 minutes. Physics, splats, audio!",
-        "url": "https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-04T04:12:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bjB3c3pqMnBsZHRoMccv0wOHKwp4v6aX1lQK-lQ8icB-2SaifuY7q8Hutfrh.png?width=640&crop=smart&auto=webp&s=20317a8478058922dcead17a786b704e677b03b9"
-      },
-      {
-        "rank": 5,
-        "title": "The gaps are shrinking ... and the gaps might get wiped out in the next 1,000 days",
-        "url": "https://www.reddit.com/r/singularity/comments/1wx30i3/the_gaps_are_shrinking_and_the_gaps_might_get/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-04T01:10:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vknx2fc4pcth1.png?width=640&crop=smart&auto=webp&s=d4b59c3c18a36e036f8bb654361e2f7078f739be"
       }
     ]
   }

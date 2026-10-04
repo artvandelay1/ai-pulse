@@ -1,10 +1,151 @@
 {
-  "fetchedAt": "2026-10-03T22:23:11.254Z",
+  "fetchedAt": "2026-10-04T01:56:46.166Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T18:04:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ICLR 2027 Reviewing Scores [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T16:10:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS Free Passes [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T11:03:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwz403/accepted_papers_must_be_imported_deadline_neurips/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T21:55:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wx1knr/jev_not_frontier_but_still_worth_your_attention_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-03T23:57:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Sam Altman’s sister just released the first hour of her deposition against him",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wx0slz/sam_altmans_sister_just_released_the_first_hour/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T23:17:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/KoHkPvRJqUXQ9jxR0rtQpjq5WFoFSP7o-QNDKO1Z1BY.jpeg?width=320&crop=smart&auto=webp&s=8215667fb18d14ef1c0fff103ffcf6d5c6c561ac"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI publishes a model guide for the GPT-6 family covering model choice, reasoning effort, and tool use",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wwq6yn/openai_publishes_a_model_guide_for_the_gpt6/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T15:36:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/REpqU2OTsMqMdAXDLCKLcGqU2bXHtx-wo_OsnLc2f-k.png?width=640&crop=smart&auto=webp&s=26d3a8d92c948afe4b2b75748752af8ca17d288d"
+      },
+      {
+        "rank": 3,
+        "title": "Am I crazy or are dots totally worthless?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wwur33/am_i_crazy_or_are_dots_totally_worthless/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T18:48:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Astra is great, but Opus 5.5 is next level",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wwjglp/astra_is_great_but_opus_55_is_next_level/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T09:58:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT Lawsuit Claims Humans Are Reading Your Chats",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wwpi03/chatgpt_lawsuit_claims_humans_are_reading_your/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-03T15:06:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/PC3jEUFcz5Zv4rlO_wdWHiUsmKmGPo4brMnd3YrEqbs.jpeg?width=640&crop=smart&auto=webp&s=96ecb1672281e133ef89bd64fc0e861fd74d01b7"
+      },
+      {
+        "rank": 1,
+        "title": "Intelligence Explosion",
+        "url": "https://www.reddit.com/r/singularity/comments/1wwjonr/intelligence_explosion/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-03T10:12:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iqwlpyyw88th1.jpeg?width=640&crop=smart&auto=webp&s=33c415c5fc2bd6eaf3a20b894c25e2e055644234"
+      },
+      {
+        "rank": 2,
+        "title": "Could the simulated fruit-fly brain be considered the first “immortal” living being?",
+        "url": "https://www.reddit.com/r/singularity/comments/1wwr56b/could_the_simulated_fruitfly_brain_be_considered/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-03T16:16:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lezzd7sv1ath1.jpeg?width=640&crop=smart&auto=webp&s=f25ffd79308fd710cdbbcab93a0a826f3494638c"
+      },
+      {
+        "rank": 3,
+        "title": "I Quit OpenAI Because Its Culture Is Broken",
+        "url": "https://www.reddit.com/r/singularity/comments/1wwlywn/i_quit_openai_because_its_culture_is_broken/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-03T12:24:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/mZURAxp1WqwLk31Cm5FIaPG-kXa0EQ_W6sHGQYSaq1c.jpeg?width=640&crop=smart&auto=webp&s=60d8fb3dcc13923fdedccefd9bfb1c6cd2692afb"
+      },
+      {
+        "rank": 4,
+        "title": "What’s the end game?",
+        "url": "https://www.reddit.com/r/singularity/comments/1wwe5ln/whats_the_end_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-03T04:31:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "software has become a liquid",
+        "url": "https://www.reddit.com/r/singularity/comments/1wwcxo9/software_has_become_a_liquid/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-03T03:23:16.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I use Claude daily but I know I'm only using a fraction of what Claude can do. How do I actually maximize my use of Claude and build a system that runs my life?",
@@ -56,33 +197,6 @@
       },
       {
         "rank": 1,
-        "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-03T18:04:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ICLR 2027 Reviewing Scores [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-03T16:10:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS Free Passes [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-03T11:03:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Leaked image of hardware running 6.1 Sol",
         "url": "https://www.reddit.com/r/codex/comments/1wwls9e/leaked_image_of_hardware_running_61_sol/",
         "source": "r/codex",
@@ -129,106 +243,6 @@
         "publishedAt": "2026-10-03T10:28:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gaxob07tb8th1.png?width=640&crop=smart&auto=webp&s=e625d5953664453b867fef7c440daed8e0bf778a"
-      },
-      {
-        "rank": 1,
-        "title": "PewDiePie is trying to distill GPT-Sol",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T20:06:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l8i9oi7124th1.jpeg?width=640&crop=smart&auto=webp&s=4ad180e1cf9e60efb1d37d6fb8191e5166f1d10c"
-      },
-      {
-        "rank": 2,
-        "title": "Truly groundbreaking stuff",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-03T00:50:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hwzzo274g5th1.png?width=640&crop=smart&auto=webp&s=7f493b62f87a0931720a4544adb7bdca9d7a7ab6"
-      },
-      {
-        "rank": 3,
-        "title": "Each day, 6.1 Sol throughput keeps on improving",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1ww4mvp/each_day_61_sol_throughput_keeps_on_improving/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-02T20:41:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/itgu3t9284th1.png?width=140&height=112&auto=webp&s=f4446c459b3a4795516f2666325e2aed66f5e4dd"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI publishes a model guide for the GPT-6 family covering model choice, reasoning effort, and tool use",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wwq6yn/openai_publishes_a_model_guide_for_the_gpt6/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-03T15:36:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/REpqU2OTsMqMdAXDLCKLcGqU2bXHtx-wo_OsnLc2f-k.png?width=640&crop=smart&auto=webp&s=26d3a8d92c948afe4b2b75748752af8ca17d288d"
-      },
-      {
-        "rank": 5,
-        "title": "Introducing Oscilloscope Diffusion",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wwqgun/introducing_oscilloscope_diffusion/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-03T15:48:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/amg1azJ4NGJ3OXRoMRRcbsUB5bczVGJzm81eGC-H-gD1Xkd0ySh2aP8cTtBU.png?width=640&crop=smart&auto=webp&s=585f773e54ed53e90f3bfe5a0f93a3cdf51ff47d"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5.5 recapped all of human history as if it were a 24-hour day in this one-shot animated video, with its own original score",
-        "url": "https://www.reddit.com/r/singularity/comments/1ww2o3o/opus_55_recapped_all_of_human_history_as_if_it/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T19:21:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YTNnaWV6czF1M3RoMez9rZ8QTLyAaqbnT_2NkYrMRAbKp9JDBRVnSV5wP2rs.jpeg?width=640&crop=smart&auto=webp&s=82a6966559be842bcf53c759366eba2e499b81bc"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6 Astra helped decipher a Napoleonic military letter that remained unread for 217 years; it took just 6 hours",
-        "url": "https://www.reddit.com/r/singularity/comments/1ww7uga/gpt6_astra_helped_decipher_a_napoleonic_military/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-02T23:02:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/6USdOIbPyvgX_SGDauVptbSoBXkK1tgItHI12Uo7tw0.jpeg?width=640&crop=smart&auto=webp&s=d376b3d74b99dc6de6c7f1c12b65c613c805ff7c"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI is now working directly with Lockheed Martin’s F-35 engineers to solve the math and physics behind advanced fighter-jet sensors",
-        "url": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-03T00:28:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9d47csiqc5th1.jpeg?width=640&crop=smart&auto=webp&s=300d7f8815866908e1dc880f736113e8b69a2163"
-      },
-      {
-        "rank": 4,
-        "title": "Intelligence Explosion",
-        "url": "https://www.reddit.com/r/singularity/comments/1wwjonr/intelligence_explosion/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-03T10:12:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iqwlpyyw88th1.jpeg?width=640&crop=smart&auto=webp&s=33c415c5fc2bd6eaf3a20b894c25e2e055644234"
-      },
-      {
-        "rank": 5,
-        "title": "Google introducing tiered model access",
-        "url": "https://www.reddit.com/r/singularity/comments/1ww9zt9/google_introducing_tiered_model_access/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-03T00:46:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/evgw58alf5th1.png?width=640&crop=smart&auto=webp&s=316b6e8b64dfa4b1ed0b0ab4ebdd79c0a5dd0f07"
       }
     ]
   }

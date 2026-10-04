@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-04T01:56:46.166Z",
+  "fetchedAt": "2026-10-04T08:00:41.906Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -43,11 +43,11 @@
       },
       {
         "rank": 5,
-        "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wx1knr/jev_not_frontier_but_still_worth_your_attention_r/",
+        "title": "TMLR desk rejecting two years of work [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wx7wc8/tmlr_desk_rejecting_two_years_of_work_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-03T23:57:28.000Z",
+        "publishedAt": "2026-10-04T05:43:15.000Z",
         "category": "reddit"
       },
       {
@@ -81,12 +81,13 @@
       },
       {
         "rank": 4,
-        "title": "Astra is great, but Opus 5.5 is next level",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wwjglp/astra_is_great_but_opus_55_is_next_level/",
+        "title": "NOW: OpenAI says GPT-6.1 Sol Ultrafast is coming soon",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wx3l41/now_openai_says_gpt61_sol_ultrafast_is_coming_soon/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-03T09:58:26.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-04T01:41:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/hAhV1zDM-S4q8HOXkgii6KYTm1Mqjk1lbCYBWAcJmQg.jpeg?width=640&crop=smart&auto=webp&s=533999802fc90cee1e25a8a5c63a0a3fb58647ce"
       },
       {
         "rank": 5,
@@ -100,6 +101,16 @@
       },
       {
         "rank": 1,
+        "title": "Claude Opus 5.5 created this in 18 hours",
+        "url": "https://www.reddit.com/r/singularity/comments/1wx73vr/claude_opus_55_created_this_in_18_hours/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-04T04:56:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N3hnYXlvNmp0ZHRoMWQNn-zBNqk5modl1fI8IoOdEi5uCq5oFeqVzguZ6HVm.png?width=640&crop=smart&auto=webp&s=cd81db43f5451694759c68e0a2325421e674199b"
+      },
+      {
+        "rank": 2,
         "title": "Intelligence Explosion",
         "url": "https://www.reddit.com/r/singularity/comments/1wwjonr/intelligence_explosion/",
         "source": "r/singularity",
@@ -109,7 +120,7 @@
         "thumbnail": "https://preview.redd.it/iqwlpyyw88th1.jpeg?width=640&crop=smart&auto=webp&s=33c415c5fc2bd6eaf3a20b894c25e2e055644234"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "Could the simulated fruit-fly brain be considered the first “immortal” living being?",
         "url": "https://www.reddit.com/r/singularity/comments/1wwr56b/could_the_simulated_fruitfly_brain_be_considered/",
         "source": "r/singularity",
@@ -119,32 +130,24 @@
         "thumbnail": "https://preview.redd.it/lezzd7sv1ath1.jpeg?width=640&crop=smart&auto=webp&s=f25ffd79308fd710cdbbcab93a0a826f3494638c"
       },
       {
-        "rank": 3,
-        "title": "I Quit OpenAI Because Its Culture Is Broken",
-        "url": "https://www.reddit.com/r/singularity/comments/1wwlywn/i_quit_openai_because_its_culture_is_broken/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-03T12:24:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/mZURAxp1WqwLk31Cm5FIaPG-kXa0EQ_W6sHGQYSaq1c.jpeg?width=640&crop=smart&auto=webp&s=60d8fb3dcc13923fdedccefd9bfb1c6cd2692afb"
-      },
-      {
         "rank": 4,
-        "title": "What’s the end game?",
-        "url": "https://www.reddit.com/r/singularity/comments/1wwe5ln/whats_the_end_game/",
+        "title": "It's over, guys. This repo turns ONE photo into a full explorable 3D world in 5 minutes. Physics, splats, audio!",
+        "url": "https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-03T04:31:35.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-04T04:12:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bjB3c3pqMnBsZHRoMccv0wOHKwp4v6aX1lQK-lQ8icB-2SaifuY7q8Hutfrh.png?width=640&crop=smart&auto=webp&s=20317a8478058922dcead17a786b704e677b03b9"
       },
       {
         "rank": 5,
-        "title": "software has become a liquid",
-        "url": "https://www.reddit.com/r/singularity/comments/1wwcxo9/software_has_become_a_liquid/",
+        "title": "The gaps are shrinking ... and the gaps might get wiped out in the next 1,000 days",
+        "url": "https://www.reddit.com/r/singularity/comments/1wx30i3/the_gaps_are_shrinking_and_the_gaps_might_get/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-03T03:23:16.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-04T01:10:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vknx2fc4pcth1.png?width=640&crop=smart&auto=webp&s=d4b59c3c18a36e036f8bb654361e2f7078f739be"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T06:42:09.588Z",
+  "fetchedAt": "2026-10-05T15:44:14.709Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,16 +37,6 @@
       },
       {
         "rank": 4,
-        "title": "I made a quiz with Claude to test how much AI has gotten into your brain. It’s just a fun side project, but you might enjoy!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxi4nd/i_made_a_quiz_with_claude_to_test_how_much_ai_has/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-04T15:16:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/j4WynciWUKFlK967r6h3bTAWDA2wPnrehCCZs1vjtuo.jpeg?width=640&crop=smart&auto=webp&s=50b51b893b50c99d67880b120476718601bf4f54"
-      },
-      {
-        "rank": 5,
         "title": "Tip: How to automate \"Hi Haiku\" daily early morning",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxon4e/tip_how_to_automate_hi_haiku_daily_early_morning/",
         "source": "r/ClaudeAI",
@@ -56,35 +46,16 @@
         "thumbnail": "https://preview.redd.it/nwbr8o7m7ith1.png?width=640&crop=smart&auto=webp&s=3be30760e406fad44f26db66b53bfcbc96afb150"
       },
       {
+        "rank": 5,
+        "title": "Anthropic needs an even cheaper model than Haiku",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxsns4/anthropic_needs_an_even_cheaper_model_than_haiku/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-04T22:37:30.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-04T10:24:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gkjgii48gfth1.png?width=140&height=107&auto=webp&s=a37b5c86687eb9f397c63fc280b4adf1356dccc0"
-      },
-      {
-        "rank": 2,
-        "title": "Working with an AI Company That Does Things You Disagree With [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-04T08:41:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-04T12:15:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
         "source": "r/MachineLearning",
@@ -94,14 +65,42 @@
         "thumbnail": "https://external-preview.redd.it/Sf5EwytqUvRr2f7YvXQFgyYlJ6Ow-T_GR5657dIpJ1k.png?width=640&crop=smart&auto=webp&s=2affc5f29f0d5daf440c044b458e32dac4ab4cda"
       },
       {
-        "rank": 5,
-        "title": "A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxex8n/a_minimal_interpretable_architecture_for_zeroshot/",
+        "rank": 2,
+        "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-04T12:49:40.000Z",
+        "publishedAt": "2026-10-05T10:07:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-05T13:58:31.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jmlcnocq5gth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0468e9757244e29477d690f8a74016f9dd2334bf"
+        "thumbnail": "https://preview.redd.it/3sow14s4knth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c94fe3a5934021dd09ac2bf7b21caff992ba7269"
+      },
+      {
+        "rank": 4,
+        "title": "Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-05T07:40:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-04T18:03:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/n5gBNSCvcHqzpXXBEmePZZdNr2LmC_AJ4N5jhW6WBgY.png?width=640&crop=smart&auto=webp&s=0afbf1d6b27499a142257bf7476ea983f24e6f76"
       },
       {
         "rank": 1,
@@ -135,15 +134,6 @@
       },
       {
         "rank": 4,
-        "title": "I really enjoy the increase in Usage limits",
-        "url": "https://www.reddit.com/r/codex/comments/1wxddoo/i_really_enjoy_the_increase_in_usage_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-04T11:26:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Chat and Work will be merged",
         "url": "https://www.reddit.com/r/codex/comments/1wxx7y5/chat_and_work_will_be_merged/",
         "source": "r/codex",
@@ -151,6 +141,16 @@
         "publishedAt": "2026-10-05T02:26:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ku9emj7v6kth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=50a04f735034c1bf54c31a2c44b3c3d6ce63484a"
+      },
+      {
+        "rank": 5,
+        "title": "Wrong hill to die on tbh",
+        "url": "https://www.reddit.com/r/codex/comments/1wxs8hs/wrong_hill_to_die_on_tbh/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-04T22:17:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lf1rk4mzyith1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e24dcd4250f5e84e11c9eb3b1764b323f6ad275"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T09:20:48.073Z",
+  "fetchedAt": "2026-10-06T16:12:43.519Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,34 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T13:58:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3sow14s4knth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c94fe3a5934021dd09ac2bf7b21caff992ba7269"
-      },
-      {
-        "rank": 2,
-        "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T10:07:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "A chunking lib in Rust that is ~20x faster [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T18:11:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wypbnf/embedding_every_font_with_neural_networks_makes/",
         "source": "r/MachineLearning",
@@ -44,7 +16,25 @@
         "thumbnail": "https://preview.redd.it/yi46gtu2vqth1.png?width=140&height=78&auto=webp&s=af4bb9b52610f4c99fb09dafaf619da7a4456b03"
       },
       {
-        "rank": 5,
+        "rank": 2,
+        "title": "A chunking lib in Rust that is ~20x faster [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-05T18:11:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T10:50:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
         "source": "r/MachineLearning",
@@ -54,36 +44,16 @@
         "thumbnail": "https://preview.redd.it/0uopztlmpsth1.png?width=140&height=78&auto=webp&s=9c151147cfaf8f65c529f01950c4c6a765649b81"
       },
       {
-        "rank": 1,
-        "title": "Ghatgpt DOT has limits",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wy96in/ghatgpt_dot_has_limits/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "NeurIPS 2026 Financial Assistance [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wz0fzf/neurips_2026_financial_assistance_d/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-05T13:54:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o082wmbhmnth1.jpeg?width=640&crop=smart&auto=webp&s=8470ef26f1b5fa05399d44826cd41bdf5d3f801d"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI explains how it will watermark ChatGPT text to comply with EU provenance rules",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wyci57/openai_explains_how_it_will_watermark_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T16:06:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/1OEOH144qEARYvZSc3L7oOcK_2vl6JHBp3t7b0UDmNY.png?width=640&crop=smart&auto=webp&s=41191055e21242d66a17fcaa8928f5023fa64f92"
-      },
-      {
-        "rank": 3,
-        "title": "My Dot burns 1.6B tokens a day on since day one on a 100$ subscription.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wyoaw7/my_dot_burns_16b_tokens_a_day_on_since_day_one_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T00:02:35.000Z",
+        "publishedAt": "2026-10-06T11:44:36.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 1,
         "title": "GPT-6.1 Astra Delay",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wyrvoc/gpt61_astra_delay/",
         "source": "r/OpenAI",
@@ -93,7 +63,16 @@
         "thumbnail": "https://preview.redd.it/l45z57dmirth1.png?width=640&crop=smart&auto=webp&s=cceb87825b5e9b6154913ecd7d157ac614ce869a"
       },
       {
-        "rank": 5,
+        "rank": 2,
+        "title": "My Dot burns 1.6B tokens a day on since day one on a 100$ subscription.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wyoaw7/my_dot_burns_16b_tokens_a_day_on_since_day_one_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T00:02:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "I Used OpenAI Dots as an agent swarm to break a 47 year old math record, for free (with Lean verification of the proof)",
         "url": "https://www.reddit.com/r/OpenAI/comments/1wyov0r/i_used_openai_dots_as_an_agent_swarm_to_break_a/",
         "source": "r/OpenAI",
@@ -101,6 +80,26 @@
         "publishedAt": "2026-10-06T00:28:50.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/GnaaoeNvk5abIGrquxOIB1FPaQOXQUSSqPOLbk7XWcc.jpeg?width=640&crop=smart&auto=webp&s=828acd1ee830a4ef98901d00d79ee4659be4df5c"
+      },
+      {
+        "rank": 4,
+        "title": "The year is 2026. San Francisco tells the Vatican it has the power of God to put a soul in a computer program. The last Crusade begins.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wz2mi9/the_year_is_2026_san_francisco_tells_the_vatican/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T13:28:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NHhoczN2Zm9tdXRoMRQne5RQENANpJ9xsh7KEpEnRcdiWJm88AXFI-nSilJp.png?width=640&crop=smart&auto=webp&s=4495ee01b86f00aa1e78ac0afbd1b281a1226a5d"
+      },
+      {
+        "rank": 5,
+        "title": "He did the meme",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wye88m/he_did_the_meme/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-05T17:12:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vr3l7errloth1.png?width=640&crop=smart&auto=webp&s=0a7bb190299766b4469cd32b36b930cc048ebf55"
       },
       {
         "rank": 1,
@@ -114,16 +113,6 @@
       },
       {
         "rank": 2,
-        "title": "DeepMind’s new AI designed enzymes from scratch, one made a chemical building block found in many medicines 99× more often than the competing product, while another broke down a plastic pollutant at 90°C where natural enzymes failed",
-        "url": "https://www.reddit.com/r/singularity/comments/1wyft2i/deepminds_new_ai_designed_enzymes_from_scratch/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-05T18:12:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oas7obogwoth1.jpeg?width=640&crop=smart&auto=webp&s=e681d43a8b1f3600361e48e4d872397f75a025be"
-      },
-      {
-        "rank": 3,
         "title": "UT Austin Math Chair Francesco Maggi says OpenAI appears to be preparing to release ~400 AI-generated proofs at once, mathematics is approaching a point where discovery is no longer the scarce part; human understanding is",
         "url": "https://www.reddit.com/r/singularity/comments/1wysmxl/ut_austin_math_chair_francesco_maggi_says_openai/",
         "source": "r/singularity",
@@ -133,16 +122,17 @@
         "thumbnail": "https://preview.redd.it/v0otviqxprth1.jpeg?width=640&crop=smart&auto=webp&s=61224c15360897841ccae26434c553a2afc8e5fc"
       },
       {
-        "rank": 4,
-        "title": "Chat GPT fixed my PC after different technicians over the years couldn't or wouldn't",
-        "url": "https://www.reddit.com/r/singularity/comments/1wy8c0l/chat_gpt_fixed_my_pc_after_different_technicians/",
+        "rank": 3,
+        "title": "DeepMind’s new AI designed enzymes from scratch, one made a chemical building block found in many medicines 99× more often than the competing product, while another broke down a plastic pollutant at 90°C where natural enzymes failed",
+        "url": "https://www.reddit.com/r/singularity/comments/1wyft2i/deepminds_new_ai_designed_enzymes_from_scratch/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-05T13:17:44.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-05T18:12:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oas7obogwoth1.jpeg?width=640&crop=smart&auto=webp&s=e681d43a8b1f3600361e48e4d872397f75a025be"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Microsoft has accidentally revealed GPT-6.1 Sol uses the same base weights as GPT-6 Sol, but with only 2 inference passes instead of 3.",
         "url": "https://www.reddit.com/r/singularity/comments/1wyu0ss/microsoft_has_accidentally_revealed_gpt61_sol/",
         "source": "r/singularity",
@@ -150,6 +140,15 @@
         "publishedAt": "2026-10-06T05:00:07.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/az67ukyp1sth1.png?width=640&crop=smart&auto=webp&s=50eb70f061beb0cd208c8ed16338d7f44f0de626"
+      },
+      {
+        "rank": 5,
+        "title": "LE CHATON FAT IS REAL",
+        "url": "https://www.reddit.com/r/singularity/comments/1wz2r59/le_chaton_fat_is_real/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T13:34:35.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

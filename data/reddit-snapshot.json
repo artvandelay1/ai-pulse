@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-10-06T02:28:12.988Z",
+  "fetchedAt": "2026-10-06T09:20:48.073Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-05T13:58:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3sow14s4knth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c94fe3a5934021dd09ac2bf7b21caff992ba7269"
+      },
+      {
+        "rank": 2,
+        "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-05T10:07:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "A chunking lib in Rust that is ~20x faster [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-05T18:11:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wypbnf/embedding_every_font_with_neural_networks_makes/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T00:51:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yi46gtu2vqth1.png?width=140&height=78&auto=webp&s=af4bb9b52610f4c99fb09dafaf619da7a4456b03"
+      },
+      {
+        "rank": 5,
+        "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T07:03:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0uopztlmpsth1.png?width=140&height=78&auto=webp&s=9c151147cfaf8f65c529f01950c4c6a765649b81"
+      },
+      {
+        "rank": 1,
+        "title": "Ghatgpt DOT has limits",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wy96in/ghatgpt_dot_has_limits/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-05T13:54:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o082wmbhmnth1.jpeg?width=640&crop=smart&auto=webp&s=8470ef26f1b5fa05399d44826cd41bdf5d3f801d"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI explains how it will watermark ChatGPT text to comply with EU provenance rules",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wyci57/openai_explains_how_it_will_watermark_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-05T16:06:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/1OEOH144qEARYvZSc3L7oOcK_2vl6JHBp3t7b0UDmNY.png?width=640&crop=smart&auto=webp&s=41191055e21242d66a17fcaa8928f5023fa64f92"
+      },
+      {
+        "rank": 3,
+        "title": "My Dot burns 1.6B tokens a day on since day one on a 100$ subscription.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wyoaw7/my_dot_burns_16b_tokens_a_day_on_since_day_one_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T00:02:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-6.1 Astra Delay",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wyrvoc/gpt61_astra_delay/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T03:00:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l45z57dmirth1.png?width=640&crop=smart&auto=webp&s=cceb87825b5e9b6154913ecd7d157ac614ce869a"
+      },
+      {
+        "rank": 5,
+        "title": "I Used OpenAI Dots as an agent swarm to break a 47 year old math record, for free (with Lean verification of the proof)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wyov0r/i_used_openai_dots_as_an_agent_swarm_to_break_a/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T00:28:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/GnaaoeNvk5abIGrquxOIB1FPaQOXQUSSqPOLbk7XWcc.jpeg?width=640&crop=smart&auto=webp&s=828acd1ee830a4ef98901d00d79ee4659be4df5c"
+      },
+      {
+        "rank": 1,
+        "title": "AI Is About to Transform Materials Science",
+        "url": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-05T21:11:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zekwb7z8spth1.png?width=640&crop=smart&auto=webp&s=30772c87877baef50b43c0aa83d7192ff19eb295"
+      },
+      {
+        "rank": 2,
+        "title": "DeepMind’s new AI designed enzymes from scratch, one made a chemical building block found in many medicines 99× more often than the competing product, while another broke down a plastic pollutant at 90°C where natural enzymes failed",
+        "url": "https://www.reddit.com/r/singularity/comments/1wyft2i/deepminds_new_ai_designed_enzymes_from_scratch/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-05T18:12:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oas7obogwoth1.jpeg?width=640&crop=smart&auto=webp&s=e681d43a8b1f3600361e48e4d872397f75a025be"
+      },
+      {
+        "rank": 3,
+        "title": "UT Austin Math Chair Francesco Maggi says OpenAI appears to be preparing to release ~400 AI-generated proofs at once, mathematics is approaching a point where discovery is no longer the scarce part; human understanding is",
+        "url": "https://www.reddit.com/r/singularity/comments/1wysmxl/ut_austin_math_chair_francesco_maggi_says_openai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T03:41:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v0otviqxprth1.jpeg?width=640&crop=smart&auto=webp&s=61224c15360897841ccae26434c553a2afc8e5fc"
+      },
+      {
+        "rank": 4,
+        "title": "Chat GPT fixed my PC after different technicians over the years couldn't or wouldn't",
+        "url": "https://www.reddit.com/r/singularity/comments/1wy8c0l/chat_gpt_fixed_my_pc_after_different_technicians/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-05T13:17:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Microsoft has accidentally revealed GPT-6.1 Sol uses the same base weights as GPT-6 Sol, but with only 2 inference passes instead of 3.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wyu0ss/microsoft_has_accidentally_revealed_gpt61_sol/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T05:00:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/az67ukyp1sth1.png?width=640&crop=smart&auto=webp&s=50eb70f061beb0cd208c8ed16338d7f44f0de626"
+      },
       {
         "rank": 1,
         "title": "Update: my human has been nerfed AGAIN. Two months on. Still no changelog.",
@@ -56,53 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T13:58:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3sow14s4knth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c94fe3a5934021dd09ac2bf7b21caff992ba7269"
-      },
-      {
-        "rank": 2,
-        "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T04:11:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Sf5EwytqUvRr2f7YvXQFgyYlJ6Ow-T_GR5657dIpJ1k.png?width=640&crop=smart&auto=webp&s=2affc5f29f0d5daf440c044b458e32dac4ab4cda"
-      },
-      {
-        "rank": 3,
-        "title": "Sona: one transformer replaced our 15+ candidate generators, pre-ranker and ranker in an A/B test [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T10:07:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "A chunking lib in Rust that is ~20x faster [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T18:11:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Withdrawing an accepted paper before camera-ready due to zero funding? (ACML 2026 / OpenReview) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wy2irf/withdrawing_an_accepted_paper_before_cameraready/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-05T07:40:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "OpenAI offers 5x less value than Anthropic at same pricepoint (source: semianalysis)",
         "url": "https://www.reddit.com/r/codex/comments/1wyjx8u/openai_offers_5x_less_value_than_anthropic_at/",
         "source": "r/codex",
@@ -149,105 +248,6 @@
         "publishedAt": "2026-10-05T19:11:14.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/1yybuykk6pth1.png?width=640&crop=smart&auto=webp&s=46d958f97cee3fe2ad8a58a27dfa5caaee9e01eb"
-      },
-      {
-        "rank": 1,
-        "title": "Ghatgpt DOT has limits",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wy96in/ghatgpt_dot_has_limits/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T13:54:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o082wmbhmnth1.jpeg?width=640&crop=smart&auto=webp&s=8470ef26f1b5fa05399d44826cd41bdf5d3f801d"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI explains how it will watermark ChatGPT text to comply with EU provenance rules",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wyci57/openai_explains_how_it_will_watermark_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T16:06:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/1OEOH144qEARYvZSc3L7oOcK_2vl6JHBp3t7b0UDmNY.png?width=640&crop=smart&auto=webp&s=41191055e21242d66a17fcaa8928f5023fa64f92"
-      },
-      {
-        "rank": 3,
-        "title": "Are you planning to cancel your ChatGPT Plus subscription soon now that Tibo has announced that Chat and Work will be merged?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wy2h4d/are_you_planning_to_cancel_your_chatgpt_plus/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T07:37:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/itbtzri5rlth1.jpeg?width=640&crop=smart&auto=webp&s=c977f81182214c1a80555b8de29a99a6557557d3"
-      },
-      {
-        "rank": 4,
-        "title": "From Dec 2024: Fields medalists Terence Tao, Timothy Gowers, and Richard Borcherds characterized [FrontierMath] Tier 3 as “exceptionally challenging,” with Tao predicting it will “resist AIs for several years.” They were fully saturated <2 years later.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wxyrkz/from_dec_2024_fields_medalists_terence_tao/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T03:50:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n146wbcimkth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=bd53374771bef604e090e23c6b2d86abe3d131ba"
-      },
-      {
-        "rank": 5,
-        "title": "Went to check Release Notes just to see...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wyegik/went_to_check_release_notes_just_to_see/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T17:21:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c5g1vto5noth1.jpg?width=140&height=81&auto=webp&s=300d5213dbd238a412bd8bf6f79aa07148ca1a50"
-      },
-      {
-        "rank": 1,
-        "title": "Elon to rename SpaceXAI to SpaceXSI after Trump's demands, OpenSI to follow?",
-        "url": "https://www.reddit.com/r/singularity/comments/1wxtsgk/elon_to_rename_spacexai_to_spacexsi_after_trumps/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-04T23:32:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hjg38iyocjth1.jpeg?width=640&crop=smart&auto=webp&s=998fb5d6802734ed369882c4fb1b1d2a44d781d8"
-      },
-      {
-        "rank": 2,
-        "title": "A researcher spent 3 months making software for designing quantum circuits ~10,000× faster. GPT-6 Astra took the already-optimized code and made it another ~10× faster overnight",
-        "url": "https://www.reddit.com/r/singularity/comments/1wxxz1n/a_researcher_spent_3_months_making_software_for/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-05T03:05:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7d6lrwyoekth1.jpeg?width=640&crop=smart&auto=webp&s=c6e3c2f1dea286cbda5e7bd0afc6cb9cb5495027"
-      },
-      {
-        "rank": 3,
-        "title": "AI Is About to Transform Materials Science",
-        "url": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-05T21:11:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zekwb7z8spth1.png?width=640&crop=smart&auto=webp&s=30772c87877baef50b43c0aa83d7192ff19eb295"
-      },
-      {
-        "rank": 4,
-        "title": "DeepMind’s new AI designed enzymes from scratch, one made a chemical building block found in many medicines 99× more often than the competing product, while another broke down a plastic pollutant at 90°C where natural enzymes failed",
-        "url": "https://www.reddit.com/r/singularity/comments/1wyft2i/deepminds_new_ai_designed_enzymes_from_scratch/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-05T18:12:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oas7obogwoth1.jpeg?width=640&crop=smart&auto=webp&s=e681d43a8b1f3600361e48e4d872397f75a025be"
-      },
-      {
-        "rank": 5,
-        "title": "Chat GPT fixed my PC after different technicians over the years couldn't or wouldn't",
-        "url": "https://www.reddit.com/r/singularity/comments/1wy8c0l/chat_gpt_fixed_my_pc_after_different_technicians/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-05T13:17:44.000Z",
-        "category": "reddit"
       }
     ]
   }

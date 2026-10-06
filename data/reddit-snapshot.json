@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-05T22:25:50.962Z",
+  "fetchedAt": "2026-10-06T02:28:12.988Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,55 @@
     "items": [
       {
         "rank": 1,
-        "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
-        "source": "r/MachineLearning",
+        "title": "Update: my human has been nerfed AGAIN. Two months on. Still no changelog.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wymhe2/update_my_human_has_been_nerfed_again_two_months/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-05T04:11:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Sf5EwytqUvRr2f7YvXQFgyYlJ6Ow-T_GR5657dIpJ1k.png?width=640&crop=smart&auto=webp&s=2affc5f29f0d5daf440c044b458e32dac4ab4cda"
+        "publishedAt": "2026-10-05T22:38:04.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
+        "title": "You put my what",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyiw3k/you_put_my_what/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-05T20:10:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7d3st04dhpth1.png?width=640&crop=smart&auto=webp&s=cde309143c8a723fa3beee9b8c76c6a5a7307485"
+      },
+      {
+        "rank": 3,
+        "title": "Week 10 of making my fishing game with the help of AI and finally close to a demo",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wy28wy/week_10_of_making_my_fishing_game_with_the_help/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-05T07:21:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MXozOWVpMnptbHRoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=69287d32554be76d34b08cf02e6e8b99d8001c44"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5.5 vs. GPT-6 Astra vs. DeepSeek V4.1 Flash vs. Gemini 3.8 Flash ✈️",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wycuri/opus_55_vs_gpt6_astra_vs_deepseek_v41_flash_vs/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-05T16:19:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHY3bzlmY2Njb3RoMfR5g_sVJrPcwCP_EJOZb4X0mqeePZ-23yr2FcgoAMNr.png?width=640&crop=smart&auto=webp&s=2a2346de1858fa0d67d768ce50e7e571ee847f54"
+      },
+      {
+        "rank": 5,
+        "title": "I had to try Opus 5.5's JavaScript videos, so I made one about a data center that makes fresh water instead of using it",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxy24q/i_had_to_try_opus_55s_javascript_videos_so_i_made/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-05T03:10:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bHAxdzlkNmlma3RoMdTLcUbUn-kTep4PHmzZOCfU72xbdNH9WIadPEVysJTF.jpeg?width=640&crop=smart&auto=webp&s=5e0030b319ca4d58cd112bcd79f9ddc9565d16c1"
+      },
+      {
+        "rank": 1,
         "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
         "source": "r/MachineLearning",
@@ -24,6 +63,16 @@
         "publishedAt": "2026-10-05T13:58:31.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/3sow14s4knth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=c94fe3a5934021dd09ac2bf7b21caff992ba7269"
+      },
+      {
+        "rank": 2,
+        "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-05T04:11:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Sf5EwytqUvRr2f7YvXQFgyYlJ6Ow-T_GR5657dIpJ1k.png?width=640&crop=smart&auto=webp&s=2affc5f29f0d5daf440c044b458e32dac4ab4cda"
       },
       {
         "rank": 3,
@@ -51,6 +100,55 @@
         "score": 0,
         "publishedAt": "2026-10-05T07:40:27.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI offers 5x less value than Anthropic at same pricepoint (source: semianalysis)",
+        "url": "https://www.reddit.com/r/codex/comments/1wyjx8u/openai_offers_5x_less_value_than_anthropic_at/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-05T20:50:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iupp7stoopth1.jpeg?width=640&crop=smart&auto=webp&s=a057fed8333c34e873f2d51aca0b3a3f191c9c63"
+      },
+      {
+        "rank": 2,
+        "title": "Day 1 tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1wyehd5/day_1_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-05T17:22:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5idk5coinoth1.jpeg?width=640&crop=smart&auto=webp&s=666648c74bf089df5d2b1285fd6c247f4361f6f7"
+      },
+      {
+        "rank": 3,
+        "title": "Update on Codex and Claude Code",
+        "url": "https://www.reddit.com/r/codex/comments/1wy1zay/update_on_codex_and_claude_code/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-05T07:04:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "dude... this happened for like 10 times already...",
+        "url": "https://www.reddit.com/r/codex/comments/1wy38sy/dude_this_happened_for_like_10_times_already/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-05T08:28:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/25rj4hib0mth1.jpeg?width=640&crop=smart&auto=webp&s=95acfe7831e8054be30356a069844e95e10afa44"
+      },
+      {
+        "rank": 5,
+        "title": "Speed got better. Report yours.",
+        "url": "https://www.reddit.com/r/codex/comments/1wyhcvo/speed_got_better_report_yours/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-05T19:11:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1yybuykk6pth1.png?width=640&crop=smart&auto=webp&s=46d958f97cee3fe2ad8a58a27dfa5caaee9e01eb"
       },
       {
         "rank": 1,
@@ -150,105 +248,6 @@
         "score": 0,
         "publishedAt": "2026-10-05T13:17:44.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude just saved my ass from a gas leak!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxoqzr/claude_just_saved_my_ass_from_a_gas_leak/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-04T19:48:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x41cek8n8ith1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=e08adf495c572f2e0745308b90578bebf8c46fed"
-      },
-      {
-        "rank": 2,
-        "title": "AI is a HelloFresh killer. Automated meal prep and grocery ordering workflow.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxlm01/ai_is_a_hellofresh_killer_automated_meal_prep_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-04T17:40:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o1890v5vihth1.png?width=640&crop=smart&auto=webp&s=f59fa1877da184c0939a5caa45ef99a263df7a77"
-      },
-      {
-        "rank": 3,
-        "title": "Updated Claude storage/memory map: what's local, what's cloud, and what changes Oct 6",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxiysh/updated_claude_storagememory_map_whats_local/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-04T15:51:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pf7icjzjxgth1.png?width=640&crop=smart&auto=webp&s=ccbe51de2c4e2f1127b44812dee8639b744e8d7a"
-      },
-      {
-        "rank": 4,
-        "title": "Tip: How to automate \"Hi Haiku\" daily early morning",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxon4e/tip_how_to_automate_hi_haiku_daily_early_morning/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-04T19:44:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nwbr8o7m7ith1.png?width=640&crop=smart&auto=webp&s=3be30760e406fad44f26db66b53bfcbc96afb150"
-      },
-      {
-        "rank": 5,
-        "title": "Anthropic needs an even cheaper model than Haiku",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wxsns4/anthropic_needs_an_even_cheaper_model_than_haiku/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-04T22:37:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "new tibo post",
-        "url": "https://www.reddit.com/r/codex/comments/1wxq5ng/new_tibo_post/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-04T20:46:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/695p6kvwiith1.png?width=320&crop=smart&auto=webp&s=6f2b009e2007a2e9f7d87bec695b8725517ef599"
-      },
-      {
-        "rank": 2,
-        "title": "They are completely out of touch with what users want",
-        "url": "https://www.reddit.com/r/codex/comments/1wxk6tj/they_are_completely_out_of_touch_with_what_users/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-04T16:42:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fts3fw9ebhth1.jpeg?width=640&crop=smart&auto=webp&s=f1a64423c2579df0cb8ca250a24fff8b4695d695"
-      },
-      {
-        "rank": 3,
-        "title": "Wow. Lucky me!",
-        "url": "https://www.reddit.com/r/codex/comments/1wxpqnh/wow_lucky_me/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-04T20:29:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uwiwye0zfith1.jpeg?width=640&crop=smart&auto=webp&s=f892e18ffdbae3c4127657430866764557f54cdc"
-      },
-      {
-        "rank": 4,
-        "title": "Chat and Work will be merged",
-        "url": "https://www.reddit.com/r/codex/comments/1wxx7y5/chat_and_work_will_be_merged/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-05T02:26:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ku9emj7v6kth1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=50a04f735034c1bf54c31a2c44b3c3d6ce63484a"
-      },
-      {
-        "rank": 5,
-        "title": "Wrong hill to die on tbh",
-        "url": "https://www.reddit.com/r/codex/comments/1wxs8hs/wrong_hill_to_die_on_tbh/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-04T22:17:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lf1rk4mzyith1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e24dcd4250f5e84e11c9eb3b1764b323f6ad275"
       }
     ]
   }

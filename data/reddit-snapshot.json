@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-10-07T00:58:45.116Z",
+  "fetchedAt": "2026-10-07T07:08:12.990Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Anthropic is giving startups a free year of Claude Team, $1,000 in credits and up to $45,000 in perks",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz9oim/anthropic_is_giving_startups_a_free_year_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T18:08:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/3LGnsrlJRRc6q5exjjy_sUDwx_d0VPai6fDvpG5DB5A.jpeg?width=640&crop=smart&auto=webp&s=ebb389ecf84a2f60c699432c35dcf1754fd5759c"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5.5 went from \"I won't help you steal\" to \"rm -rf, boss?\" in one screenshot",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzekf7/opus_55_went_from_i_wont_help_you_steal_to_rm_rf/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T21:16:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Was Opus 5.5 Nerfed? Livenerf Day 13 Update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzbt5t/was_opus_55_nerfed_livenerf_day_13_update/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T19:28:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h30nqniyewth1.jpeg?width=640&crop=smart&auto=webp&s=eea40adb702adb75bd4fa5666c7f3342f0eb2f3e"
+      },
+      {
+        "rank": 4,
+        "title": "It scares me but I think I moved beyond meat proxy",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyy1ch/it_scares_me_but_i_think_i_moved_beyond_meat_proxy/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T09:20:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude knows about my employer in Incognito",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyy0ua/claude_knows_about_my_employer_in_incognito/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T09:19:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s8h20dt6etth1.png?width=640&crop=smart&auto=webp&s=5a30613d7874e0e583bb26ad1da3511fa9029477"
+      },
       {
         "rank": 1,
         "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
@@ -16,20 +64,20 @@
       },
       {
         "rank": 2,
-        "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T10:50:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "ML PHD without A* Publications [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wzeszo/ml_phd_without_a_publications_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-06T21:26:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T10:50:30.000Z",
         "category": "reddit"
       },
       {
@@ -44,13 +92,62 @@
       },
       {
         "rank": 5,
-        "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
+        "title": "NeurIPS workshop registration for registered author [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzhpnz/neurips_workshop_registration_for_registered/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-06T07:03:22.000Z",
+        "publishedAt": "2026-10-06T23:36:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Call it a day and pack it up.",
+        "url": "https://www.reddit.com/r/codex/comments/1wzc76x/call_it_a_day_and_pack_it_up/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-06T19:43:49.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0uopztlmpsth1.png?width=140&height=78&auto=webp&s=9c151147cfaf8f65c529f01950c4c6a765649b81"
+        "thumbnail": "https://preview.redd.it/8n50bomfhwth1.png?width=640&crop=smart&auto=webp&s=2e56a3cd75797b729c117c049efc990369a9652f"
+      },
+      {
+        "rank": 2,
+        "title": "Honestly i'm glad OpenAi truly understands what users need and want, and people say they are out of touch somehow, what nonsense",
+        "url": "https://www.reddit.com/r/codex/comments/1wyx5pr/honestly_im_glad_openai_truly_understands_what/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-06T08:20:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2sjfxzz63tth1.png?width=140&height=86&auto=webp&s=9f9679a3236847ad6e22f5b8152d9be4ebfac000"
+      },
+      {
+        "rank": 3,
+        "title": "Finally, a good take, each release should come with a poll.",
+        "url": "https://www.reddit.com/r/codex/comments/1wz4ibl/finally_a_good_take_each_release_should_come_with/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-06T14:47:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/klfiruit0vth1.jpeg?width=640&crop=smart&auto=webp&s=00f1fffd6b8e21a883c555b2a65b41ef8e2c8bfd"
+      },
+      {
+        "rank": 4,
+        "title": "Day 2.1 tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1wyw7e4/day_21_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-06T07:15:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4iys8x35ssth1.jpeg?width=640&crop=smart&auto=webp&s=eb4385d32b763c23f1f9f9d359a821647ff43d13"
+      },
+      {
+        "rank": 5,
+        "title": "Please tell me this isn’t actually the reason we’re not getting any for the next 28 days",
+        "url": "https://www.reddit.com/r/codex/comments/1wzbhgy/please_tell_me_this_isnt_actually_the_reason_were/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-06T19:16:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/31bs5czpcwth1.jpeg?width=640&crop=smart&auto=webp&s=95d43302f1597eb07ac1b95a89cdaec5e791b8ea"
       },
       {
         "rank": 1,
@@ -149,104 +246,6 @@
         "publishedAt": "2026-10-06T21:03:00.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4dtn4rirvwth1.png?width=640&crop=smart&auto=webp&s=b7c472e431db3e3436513d9e667c4b707df86cde"
-      },
-      {
-        "rank": 1,
-        "title": "Update: my human has been nerfed AGAIN. Two months on. Still no changelog.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wymhe2/update_my_human_has_been_nerfed_again_two_months/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T22:38:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Realizing that your job is forwarding instructions from your boss to Claude and taking Claude’s responses to send them back to your boss",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyqfa4/realizing_that_your_job_is_forwarding/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T01:45:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dzNud21tZGI1cnRoMfv502Ch_SZE04EmWS6RqyFFDk1yVC35uc7YBLu8Ra9b.png?width=640&crop=smart&auto=webp&s=dca096183490dc65b447598599cbc8171534e98b"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic is giving startups a free year of Claude Team, $1,000 in credits and up to $45,000 in perks",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz9oim/anthropic_is_giving_startups_a_free_year_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T18:08:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/3LGnsrlJRRc6q5exjjy_sUDwx_d0VPai6fDvpG5DB5A.jpeg?width=640&crop=smart&auto=webp&s=ebb389ecf84a2f60c699432c35dcf1754fd5759c"
-      },
-      {
-        "rank": 4,
-        "title": "It scares me but I think I moved beyond meat proxy",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyy1ch/it_scares_me_but_i_think_i_moved_beyond_meat_proxy/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T09:20:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude knows about my employer in Incognito",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wyy0ua/claude_knows_about_my_employer_in_incognito/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T09:19:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s8h20dt6etth1.png?width=640&crop=smart&auto=webp&s=5a30613d7874e0e583bb26ad1da3511fa9029477"
-      },
-      {
-        "rank": 1,
-        "title": "Honestly i'm glad OpenAi truly understands what users need and want, and people say they are out of touch somehow, what nonsense",
-        "url": "https://www.reddit.com/r/codex/comments/1wyx5pr/honestly_im_glad_openai_truly_understands_what/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T08:20:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2sjfxzz63tth1.png?width=140&height=86&auto=webp&s=9f9679a3236847ad6e22f5b8152d9be4ebfac000"
-      },
-      {
-        "rank": 2,
-        "title": "Finally, a good take, each release should come with a poll.",
-        "url": "https://www.reddit.com/r/codex/comments/1wz4ibl/finally_a_good_take_each_release_should_come_with/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T14:47:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/klfiruit0vth1.jpeg?width=640&crop=smart&auto=webp&s=00f1fffd6b8e21a883c555b2a65b41ef8e2c8bfd"
-      },
-      {
-        "rank": 3,
-        "title": "Day 2.1 tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1wyw7e4/day_21_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T07:15:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4iys8x35ssth1.jpeg?width=640&crop=smart&auto=webp&s=eb4385d32b763c23f1f9f9d359a821647ff43d13"
-      },
-      {
-        "rank": 4,
-        "title": "Call it a day and pack it up.",
-        "url": "https://www.reddit.com/r/codex/comments/1wzc76x/call_it_a_day_and_pack_it_up/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T19:43:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8n50bomfhwth1.png?width=640&crop=smart&auto=webp&s=2e56a3cd75797b729c117c049efc990369a9652f"
-      },
-      {
-        "rank": 5,
-        "title": "Please tell me this isn’t actually the reason we’re not getting any for the next 28 days",
-        "url": "https://www.reddit.com/r/codex/comments/1wzbhgy/please_tell_me_this_isnt_actually_the_reason_were/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T19:16:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/31bs5czpcwth1.jpeg?width=640&crop=smart&auto=webp&s=95d43302f1597eb07ac1b95a89cdaec5e791b8ea"
       }
     ]
   }

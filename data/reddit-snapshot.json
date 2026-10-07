@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T14:42:09.302Z",
+  "fetchedAt": "2026-10-07T20:32:09.150Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,16 @@
     "items": [
       {
         "rank": 1,
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T13:15:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zwekq4q0m1uh1.jpg?width=140&height=73&auto=webp&s=dd53fbfa5b32c8c83fe9db263f708e1901edd489"
+      },
+      {
+        "rank": 2,
         "title": "Opus 5.5 went from \"I won't help you steal\" to \"rm -rf, boss?\" in one screenshot",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzekf7/opus_55_went_from_i_wont_help_you_steal_to_rm_rf/",
         "source": "r/ClaudeAI",
@@ -15,17 +25,17 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
-        "title": "Anthropic is giving startups a free year of Claude Team, $1,000 in credits and up to $45,000 in perks",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wz9oim/anthropic_is_giving_startups_a_free_year_of/",
+        "rank": 3,
+        "title": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-06T18:08:06.000Z",
+        "publishedAt": "2026-10-07T18:01:28.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/3LGnsrlJRRc6q5exjjy_sUDwx_d0VPai6fDvpG5DB5A.jpeg?width=640&crop=smart&auto=webp&s=ebb389ecf84a2f60c699432c35dcf1754fd5759c"
+        "thumbnail": "https://external-preview.redd.it/dnJwamcweGkwM3VoMT7aDzcypTK3yooC-gqKKT1zqyb7Nhr8OERGL7B2Qw_5.png?width=640&crop=smart&auto=webp&s=f5eaafc7ab6e36c8d2a3eab2cabe6a6e54d9469f"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Just got access to Mythos 5.1",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzn92v/just_got_access_to_mythos_51/",
         "source": "r/ClaudeAI",
@@ -35,7 +45,7 @@
         "thumbnail": "https://preview.redd.it/8nr6tbcv1zth1.jpeg?width=320&crop=smart&auto=webp&s=2c69efbb2ff58743837ad95bfe3c3bae934ffe0a"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Claude tells Ben Thompson his Mac Mini is compromised",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzkpu9/claude_tells_ben_thompson_his_mac_mini_is/",
         "source": "r/ClaudeAI",
@@ -43,16 +53,6 @@
         "publishedAt": "2026-10-07T02:04:19.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jaebdu2jdyth1.png?width=320&crop=smart&auto=webp&s=44732675a6d517d91d4c45eae6d8c138c834eea8"
-      },
-      {
-        "rank": 5,
-        "title": "Was Opus 5.5 Nerfed? Livenerf Day 13 Update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzbt5t/was_opus_55_nerfed_livenerf_day_13_update/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T19:28:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h30nqniyewth1.jpeg?width=640&crop=smart&auto=webp&s=eea40adb702adb75bd4fa5666c7f3342f0eb2f3e"
       },
       {
         "rank": 1,
@@ -66,15 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T16:27:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "ML PHD without A* Publications [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1wzeszo/ml_phd_without_a_publications_d/",
         "source": "r/MachineLearning",
@@ -83,66 +74,34 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "AFP-GIC: Controllable Generative Image Compression [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzbe6r/afpgic_controllable_generative_image_compression_r/",
+        "rank": 3,
+        "title": "Uploaded 5.6 billion TikTok videos metadata on Hugging Face, spanning from 2014 to October 2026 [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x04235/uploaded_56_billion_tiktok_videos_metadata_on/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-06T19:12:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qg5irsv3cwth1.png?width=640&crop=smart&auto=webp&s=e615bda5dd57fe8fba3c80ce4f3eb5856a8b6d09"
+        "publishedAt": "2026-10-07T18:20:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS payment Declined [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x05oc8/neurips_payment_declined_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-07T19:22:01.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Looking for developer-friendly inference providers who give you enough API credits to experiment [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzqmka/looking_for_developerfriendly_inference_providers/",
+        "title": "Neurips camera ready Submission option [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-07T07:51:07.000Z",
+        "publishedAt": "2026-10-07T18:34:39.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Call it a day and pack it up.",
-        "url": "https://www.reddit.com/r/codex/comments/1wzc76x/call_it_a_day_and_pack_it_up/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T19:43:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8n50bomfhwth1.png?width=640&crop=smart&auto=webp&s=2e56a3cd75797b729c117c049efc990369a9652f"
-      },
-      {
-        "rank": 2,
-        "title": "Finally, a good take, each release should come with a poll.",
-        "url": "https://www.reddit.com/r/codex/comments/1wz4ibl/finally_a_good_take_each_release_should_come_with/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T14:47:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/klfiruit0vth1.jpeg?width=640&crop=smart&auto=webp&s=00f1fffd6b8e21a883c555b2a65b41ef8e2c8bfd"
-      },
-      {
-        "rank": 3,
-        "title": "Looks like we will actually be losing the unlimited chat.",
-        "url": "https://www.reddit.com/r/codex/comments/1wzadqg/looks_like_we_will_actually_be_losing_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T18:34:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ktaoff485wth1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=26f578887c5a4c1ce4417da992d3f1c627b13fea"
-      },
-      {
-        "rank": 4,
-        "title": "Please tell me this isn’t actually the reason we’re not getting any for the next 28 days",
-        "url": "https://www.reddit.com/r/codex/comments/1wzbhgy/please_tell_me_this_isnt_actually_the_reason_were/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-06T19:16:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/31bs5czpcwth1.jpeg?width=640&crop=smart&auto=webp&s=95d43302f1597eb07ac1b95a89cdaec5e791b8ea"
-      },
-      {
-        "rank": 5,
         "title": "The reason for the recent slowness",
         "url": "https://www.reddit.com/r/codex/comments/1wzhium/the_reason_for_the_recent_slowness/",
         "source": "r/codex",
@@ -150,6 +109,45 @@
         "publishedAt": "2026-10-06T23:27:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/revmdlvflxth1.jpeg?width=640&crop=smart&auto=webp&s=872d8cd1e32ade594762468e51c7222cc8d71c09"
+      },
+      {
+        "rank": 2,
+        "title": "Global usage resets are infuriating and there should be a way to opt out.",
+        "url": "https://www.reddit.com/r/codex/comments/1wzs3po/global_usage_resets_are_infuriating_and_there/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-07T09:29:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "New ChatGPT update",
+        "url": "https://www.reddit.com/r/codex/comments/1x05squ/new_chatgpt_update/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-07T19:27:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wuflzu8kj3uh1.png?width=640&crop=smart&auto=webp&s=1cc9f32b66aea81effc2246729ddecf08038946e"
+      },
+      {
+        "rank": 4,
+        "title": "I think this confirms a reset is coming soon",
+        "url": "https://www.reddit.com/r/codex/comments/1wzfqj1/i_think_this_confirms_a_reset_is_coming_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-06T22:05:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/69nh4kdt6xth1.png?width=640&crop=smart&auto=webp&s=8b19d78a3367c8f06008d17f2925f12937fe2b5b"
+      },
+      {
+        "rank": 5,
+        "title": "Reset has landed!",
+        "url": "https://www.reddit.com/r/codex/comments/1wzmdt7/reset_has_landed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-07T03:32:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/x2vd94k6tyth1.jpeg?width=640&crop=smart&auto=webp&s=36f987a41587edc8c4c54db6229f1193143bfdff"
       },
       {
         "rank": 1,

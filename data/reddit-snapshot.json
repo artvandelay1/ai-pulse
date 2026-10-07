@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-06T21:11:11.979Z",
+  "fetchedAt": "2026-10-07T00:58:45.116Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T16:27:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T10:50:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ML PHD without A* Publications [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzeszo/ml_phd_without_a_publications_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T21:26:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AFP-GIC: Controllable Generative Image Compression [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzbe6r/afpgic_controllable_generative_image_compression_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T19:12:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qg5irsv3cwth1.png?width=640&crop=smart&auto=webp&s=e615bda5dd57fe8fba3c80ce4f3eb5856a8b6d09"
+      },
+      {
+        "rank": 5,
+        "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-06T07:03:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0uopztlmpsth1.png?width=140&height=78&auto=webp&s=9c151147cfaf8f65c529f01950c4c6a765649b81"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6.1 Astra Delay",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wyrvoc/gpt61_astra_delay/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T03:00:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l45z57dmirth1.png?width=640&crop=smart&auto=webp&s=cceb87825b5e9b6154913ecd7d157ac614ce869a"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI: Sharing AI progress in mathematics",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wzg30i/openai_sharing_ai_progress_in_mathematics/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T22:21:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_9pHpVeGuG_vTvloyMm4gbTC7YRR4VXfrEDLibZX39o.png?width=640&crop=smart&auto=webp&s=1ecfe49c1a51f22c0f0b4471b9a0c1ab39a51887"
+      },
+      {
+        "rank": 3,
+        "title": "Have any of you actually made a single extra dollar from AI usage?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wz7dyh/have_any_of_you_actually_made_a_single_extra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T16:40:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "We’re still far from AGI 💔",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wytssj/were_still_far_from_agi/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T04:47:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lydjchfm1sth1.jpeg?width=640&crop=smart&auto=webp&s=9bfd7d04893837a16da6a77956fcd003c3dcd8f5"
+      },
+      {
+        "rank": 5,
+        "title": "When both AIs are cooking and you’re just there for moderation",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1wz0t74/when_both_ais_are_cooking_and_youre_just_there/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-06T12:03:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/isbw2egi7uth1.jpeg?width=320&crop=smart&auto=webp&s=f825a575905abf8a9e2b97a1c24c1237fb90644e"
+      },
+      {
+        "rank": 1,
+        "title": "UT Austin Math Chair Francesco Maggi says OpenAI appears to be preparing to release ~400 AI-generated proofs at once, mathematics is approaching a point where discovery is no longer the scarce part; human understanding is",
+        "url": "https://www.reddit.com/r/singularity/comments/1wysmxl/ut_austin_math_chair_francesco_maggi_says_openai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T03:41:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v0otviqxprth1.jpeg?width=640&crop=smart&auto=webp&s=61224c15360897841ccae26434c553a2afc8e5fc"
+      },
+      {
+        "rank": 2,
+        "title": "Microsoft has accidentally revealed GPT-6.1 Sol uses the same base weights as GPT-6 Sol, but with only 2 inference passes instead of 3.",
+        "url": "https://www.reddit.com/r/singularity/comments/1wyu0ss/microsoft_has_accidentally_revealed_gpt61_sol/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T05:00:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/az67ukyp1sth1.png?width=640&crop=smart&auto=webp&s=50eb70f061beb0cd208c8ed16338d7f44f0de626"
+      },
+      {
+        "rank": 3,
+        "title": "LE CHATON FAT IS REAL",
+        "url": "https://www.reddit.com/r/singularity/comments/1wz2r59/le_chaton_fat_is_real/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T13:34:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Sharing AI progress in mathematics",
+        "url": "https://www.reddit.com/r/singularity/comments/1wzg6bt/sharing_ai_progress_in_mathematics/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T22:25:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_9pHpVeGuG_vTvloyMm4gbTC7YRR4VXfrEDLibZX39o.png?width=640&crop=smart&auto=webp&s=1ecfe49c1a51f22c0f0b4471b9a0c1ab39a51887"
+      },
+      {
+        "rank": 5,
+        "title": "Europe finally takes the lead",
+        "url": "https://www.reddit.com/r/singularity/comments/1wze844/europe_finally_takes_the_lead/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-06T21:03:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4dtn4rirvwth1.png?width=640&crop=smart&auto=webp&s=b7c472e431db3e3436513d9e667c4b707df86cde"
+      },
       {
         "rank": 1,
         "title": "Update: my human has been nerfed AGAIN. Two months on. Still no changelog.",
@@ -55,54 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T16:27:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wypbnf/embedding_every_font_with_neural_networks_makes/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T00:51:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yi46gtu2vqth1.png?width=140&height=78&auto=webp&s=af4bb9b52610f4c99fb09dafaf619da7a4456b03"
-      },
-      {
-        "rank": 3,
-        "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T10:50:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "AFP-GIC: Controllable Generative Image Compression [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzbe6r/afpgic_controllable_generative_image_compression_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T19:12:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qg5irsv3cwth1.png?width=640&crop=smart&auto=webp&s=e615bda5dd57fe8fba3c80ce4f3eb5856a8b6d09"
-      },
-      {
-        "rank": 5,
-        "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T07:03:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0uopztlmpsth1.png?width=140&height=78&auto=webp&s=9c151147cfaf8f65c529f01950c4c6a765649b81"
-      },
-      {
-        "rank": 1,
         "title": "Honestly i'm glad OpenAi truly understands what users need and want, and people say they are out of touch somehow, what nonsense",
         "url": "https://www.reddit.com/r/codex/comments/1wyx5pr/honestly_im_glad_openai_truly_understands_what/",
         "source": "r/codex",
@@ -150,104 +247,6 @@
         "publishedAt": "2026-10-06T19:16:14.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/31bs5czpcwth1.jpeg?width=640&crop=smart&auto=webp&s=95d43302f1597eb07ac1b95a89cdaec5e791b8ea"
-      },
-      {
-        "rank": 1,
-        "title": "GPT-6.1 Astra Delay",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wyrvoc/gpt61_astra_delay/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T03:00:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l45z57dmirth1.png?width=640&crop=smart&auto=webp&s=cceb87825b5e9b6154913ecd7d157ac614ce869a"
-      },
-      {
-        "rank": 2,
-        "title": "My Dot burns 1.6B tokens a day on since day one on a 100$ subscription.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wyoaw7/my_dot_burns_16b_tokens_a_day_on_since_day_one_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T00:02:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I Used OpenAI Dots as an agent swarm to break a 47 year old math record, for free (with Lean verification of the proof)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wyov0r/i_used_openai_dots_as_an_agent_swarm_to_break_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T00:28:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/GnaaoeNvk5abIGrquxOIB1FPaQOXQUSSqPOLbk7XWcc.jpeg?width=640&crop=smart&auto=webp&s=828acd1ee830a4ef98901d00d79ee4659be4df5c"
-      },
-      {
-        "rank": 4,
-        "title": "The year is 2026. San Francisco tells the Vatican it has the power of God to put a soul in a computer program. The last Crusade begins.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wz2mi9/the_year_is_2026_san_francisco_tells_the_vatican/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T13:28:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NHhoczN2Zm9tdXRoMRQne5RQENANpJ9xsh7KEpEnRcdiWJm88AXFI-nSilJp.png?width=640&crop=smart&auto=webp&s=4495ee01b86f00aa1e78ac0afbd1b281a1226a5d"
-      },
-      {
-        "rank": 5,
-        "title": "He did the meme",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wye88m/he_did_the_meme/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-05T17:12:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vr3l7errloth1.png?width=640&crop=smart&auto=webp&s=0a7bb190299766b4469cd32b36b930cc048ebf55"
-      },
-      {
-        "rank": 1,
-        "title": "AI Is About to Transform Materials Science",
-        "url": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-05T21:11:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zekwb7z8spth1.png?width=640&crop=smart&auto=webp&s=30772c87877baef50b43c0aa83d7192ff19eb295"
-      },
-      {
-        "rank": 2,
-        "title": "UT Austin Math Chair Francesco Maggi says OpenAI appears to be preparing to release ~400 AI-generated proofs at once, mathematics is approaching a point where discovery is no longer the scarce part; human understanding is",
-        "url": "https://www.reddit.com/r/singularity/comments/1wysmxl/ut_austin_math_chair_francesco_maggi_says_openai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-06T03:41:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v0otviqxprth1.jpeg?width=640&crop=smart&auto=webp&s=61224c15360897841ccae26434c553a2afc8e5fc"
-      },
-      {
-        "rank": 3,
-        "title": "DeepMind’s new AI designed enzymes from scratch, one made a chemical building block found in many medicines 99× more often than the competing product, while another broke down a plastic pollutant at 90°C where natural enzymes failed",
-        "url": "https://www.reddit.com/r/singularity/comments/1wyft2i/deepminds_new_ai_designed_enzymes_from_scratch/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-05T18:12:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oas7obogwoth1.jpeg?width=640&crop=smart&auto=webp&s=e681d43a8b1f3600361e48e4d872397f75a025be"
-      },
-      {
-        "rank": 4,
-        "title": "Microsoft has accidentally revealed GPT-6.1 Sol uses the same base weights as GPT-6 Sol, but with only 2 inference passes instead of 3.",
-        "url": "https://www.reddit.com/r/singularity/comments/1wyu0ss/microsoft_has_accidentally_revealed_gpt61_sol/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-06T05:00:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/az67ukyp1sth1.png?width=640&crop=smart&auto=webp&s=50eb70f061beb0cd208c8ed16338d7f44f0de626"
-      },
-      {
-        "rank": 5,
-        "title": "LE CHATON FAT IS REAL",
-        "url": "https://www.reddit.com/r/singularity/comments/1wz2r59/le_chaton_fat_is_real/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-06T13:34:35.000Z",
-        "category": "reddit"
       }
     ]
   }

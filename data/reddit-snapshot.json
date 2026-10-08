@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-08T07:10:46.052Z",
+  "fetchedAt": "2026-10-08T14:50:06.564Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T18:01:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dnJwamcweGkwM3VoMT7aDzcypTK3yooC-gqKKT1zqyb7Nhr8OERGL7B2Qw_5.png?width=640&crop=smart&auto=webp&s=f5eaafc7ab6e36c8d2a3eab2cabe6a6e54d9469f"
+      },
+      {
+        "rank": 2,
+        "title": "Claude fixed a bug in a DOS game from 1991 and now my kid can relive the magic",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x06hmp/claude_fixed_a_bug_in_a_dos_game_from_1991_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T19:58:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0kydsx36p3uh1.jpeg?width=640&crop=smart&auto=webp&s=407bdc821ea45d9cda7d5f5f63c8a37b13bca3d7"
+      },
+      {
+        "rank": 3,
+        "title": "I asked Opus 5.5 to generate an extremely realistic betta fish for my Mac wallpaper. Here's the result.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x02pno/i_asked_opus_55_to_generate_an_extremely/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T17:29:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eDh2NGdldGR5MnVoMasVbxW6HnNMyyuZK8Vo1NTFpvjZIhQ9oJnc-fyP-7KO.png?width=640&crop=smart&auto=webp&s=27e885229e8713fcd3ff079a3fbebf4053235fd4"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Haiku 5.5 cost 12x more than GPT-6 Luna for the same voxel pagoda",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0agoh/claude_haiku_55_cost_12x_more_than_gpt6_luna_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T22:33:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cXU5YXgxd2xnNHVoMeB0ohEy3JIezRTBNxW6k6zDNU6gbPTDyZvdYzPFW-pd.png?width=640&crop=smart&auto=webp&s=f091e01aa2b2a359d56f9e0e544a18089de78f74"
+      },
+      {
+        "rank": 5,
+        "title": "How to save hundreds of $$$ with Claude in places you didn't even imagine",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x02i4a/how_to_save_hundreds_of_with_claude_in_places_you/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T17:21:41.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
@@ -25,15 +74,6 @@
       },
       {
         "rank": 3,
-        "title": "Neurips camera ready Submission option [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-07T18:34:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
         "source": "r/MachineLearning",
@@ -41,6 +81,15 @@
         "publishedAt": "2026-10-08T03:46:09.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/dV5RLKJR5P6mkBb_HfKBGzik1n1I4hLueVe5DCYkEIc.png?width=140&height=105&auto=webp&s=520c06cf49df3a5b54a58996c9ea99a178858c2a"
+      },
+      {
+        "rank": 4,
+        "title": "Neurips camera ready Submission option [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-07T18:34:39.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -51,6 +100,53 @@
         "publishedAt": "2026-10-07T20:58:31.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/i2c0cdkg04uh1.png?width=140&height=80&auto=webp&s=23139089c79e5aaaaef26a7adc4a69b42b140e85"
+      },
+      {
+        "rank": 1,
+        "title": "New ChatGPT update",
+        "url": "https://www.reddit.com/r/codex/comments/1x05squ/new_chatgpt_update/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-07T19:27:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wuflzu8kj3uh1.png?width=640&crop=smart&auto=webp&s=1cc9f32b66aea81effc2246729ddecf08038946e"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5.5 sucks, do NOT migrate to claude!!",
+        "url": "https://www.reddit.com/r/codex/comments/1x07or9/opus_55_sucks_do_not_migrate_to_claude/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-07T20:41:19.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "If you're having trouble understanding the argument of, \"Codex resets are not always a good thing\", consider this",
+        "url": "https://www.reddit.com/r/codex/comments/1x01ab2/if_youre_having_trouble_understanding_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-07T16:35:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "It keeps reciepts. A bit too many.",
+        "url": "https://www.reddit.com/r/codex/comments/1x0cq3p/it_keeps_reciepts_a_bit_too_many/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-08T00:16:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pl3jh8uny4uh1.png?width=640&crop=smart&auto=webp&s=0f2f18f56ebaaa5ce6dd23cde31d190192284e19"
+      },
+      {
+        "rank": 5,
+        "title": "Haiku 5.5 released. Time to unleash Luna 6.1?",
+        "url": "https://www.reddit.com/r/codex/comments/1x040wx/haiku_55_released_time_to_unleash_luna_61/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-07T18:18:47.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -149,103 +245,6 @@
         "score": 0,
         "publishedAt": "2026-10-07T11:21:35.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T13:15:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zwekq4q0m1uh1.jpg?width=140&height=73&auto=webp&s=dd53fbfa5b32c8c83fe9db263f708e1901edd489"
-      },
-      {
-        "rank": 2,
-        "title": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T18:01:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dnJwamcweGkwM3VoMT7aDzcypTK3yooC-gqKKT1zqyb7Nhr8OERGL7B2Qw_5.png?width=640&crop=smart&auto=webp&s=f5eaafc7ab6e36c8d2a3eab2cabe6a6e54d9469f"
-      },
-      {
-        "rank": 3,
-        "title": "Just got access to Mythos 5.1",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzn92v/just_got_access_to_mythos_51/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T04:20:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8nr6tbcv1zth1.jpeg?width=320&crop=smart&auto=webp&s=2c69efbb2ff58743837ad95bfe3c3bae934ffe0a"
-      },
-      {
-        "rank": 4,
-        "title": "Claude tells Ben Thompson his Mac Mini is compromised",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzkpu9/claude_tells_ben_thompson_his_mac_mini_is/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T02:04:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jaebdu2jdyth1.png?width=320&crop=smart&auto=webp&s=44732675a6d517d91d4c45eae6d8c138c834eea8"
-      },
-      {
-        "rank": 5,
-        "title": "Claude fixed a bug in a DOS game from 1991 and now my kid can relive the magic",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x06hmp/claude_fixed_a_bug_in_a_dos_game_from_1991_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T19:58:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0kydsx36p3uh1.jpeg?width=640&crop=smart&auto=webp&s=407bdc821ea45d9cda7d5f5f63c8a37b13bca3d7"
-      },
-      {
-        "rank": 1,
-        "title": "New ChatGPT update",
-        "url": "https://www.reddit.com/r/codex/comments/1x05squ/new_chatgpt_update/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-07T19:27:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wuflzu8kj3uh1.png?width=640&crop=smart&auto=webp&s=1cc9f32b66aea81effc2246729ddecf08038946e"
-      },
-      {
-        "rank": 2,
-        "title": "Global usage resets are infuriating and there should be a way to opt out.",
-        "url": "https://www.reddit.com/r/codex/comments/1wzs3po/global_usage_resets_are_infuriating_and_there/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-07T09:29:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Opus 5.5 sucks, do NOT migrate to claude!!",
-        "url": "https://www.reddit.com/r/codex/comments/1x07or9/opus_55_sucks_do_not_migrate_to_claude/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-07T20:41:19.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "If you're having trouble understanding the argument of, \"Codex resets are not always a good thing\", consider this",
-        "url": "https://www.reddit.com/r/codex/comments/1x01ab2/if_youre_having_trouble_understanding_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-07T16:35:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Reset has landed!",
-        "url": "https://www.reddit.com/r/codex/comments/1wzmdt7/reset_has_landed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-07T03:32:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/x2vd94k6tyth1.jpeg?width=640&crop=smart&auto=webp&s=36f987a41587edc8c4c54db6229f1193143bfdff"
       }
     ]
   }

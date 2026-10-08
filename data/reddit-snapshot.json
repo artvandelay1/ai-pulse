@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-07T20:32:09.150Z",
+  "fetchedAt": "2026-10-08T00:52:14.319Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Opus 5.5 went from \"I won't help you steal\" to \"rm -rf, boss?\" in one screenshot",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzekf7/opus_55_went_from_i_wont_help_you_steal_to_rm_rf/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-06T21:16:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/",
         "source": "r/ClaudeAI",
@@ -35,7 +26,7 @@
         "thumbnail": "https://external-preview.redd.it/dnJwamcweGkwM3VoMT7aDzcypTK3yooC-gqKKT1zqyb7Nhr8OERGL7B2Qw_5.png?width=640&crop=smart&auto=webp&s=f5eaafc7ab6e36c8d2a3eab2cabe6a6e54d9469f"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Just got access to Mythos 5.1",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzn92v/just_got_access_to_mythos_51/",
         "source": "r/ClaudeAI",
@@ -45,7 +36,7 @@
         "thumbnail": "https://preview.redd.it/8nr6tbcv1zth1.jpeg?width=320&crop=smart&auto=webp&s=2c69efbb2ff58743837ad95bfe3c3bae934ffe0a"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Claude tells Ben Thompson his Mac Mini is compromised",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzkpu9/claude_tells_ben_thompson_his_mac_mini_is/",
         "source": "r/ClaudeAI",
@@ -53,6 +44,16 @@
         "publishedAt": "2026-10-07T02:04:19.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/jaebdu2jdyth1.png?width=320&crop=smart&auto=webp&s=44732675a6d517d91d4c45eae6d8c138c834eea8"
+      },
+      {
+        "rank": 5,
+        "title": "Claude fixed a bug in a DOS game from 1991 and now my kid can relive the magic",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x06hmp/claude_fixed_a_bug_in_a_dos_game_from_1991_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T19:58:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0kydsx36p3uh1.jpeg?width=640&crop=smart&auto=webp&s=407bdc821ea45d9cda7d5f5f63c8a37b13bca3d7"
       },
       {
         "rank": 1,
@@ -66,15 +67,6 @@
       },
       {
         "rank": 2,
-        "title": "ML PHD without A* Publications [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzeszo/ml_phd_without_a_publications_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-06T21:26:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Uploaded 5.6 billion TikTok videos metadata on Hugging Face, spanning from 2014 to October 2026 [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x04235/uploaded_56_billion_tiktok_videos_metadata_on/",
         "source": "r/MachineLearning",
@@ -83,16 +75,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "NeurIPS payment Declined [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x05oc8/neurips_payment_declined_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-07T19:22:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Neurips camera ready Submission option [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/",
         "source": "r/MachineLearning",
@@ -101,14 +84,33 @@
         "category": "reddit"
       },
       {
+        "rank": 4,
+        "title": "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0854j/split_the_differences_pool_the_rest_provably/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-07T20:58:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i2c0cdkg04uh1.png?width=140&height=80&auto=webp&s=23139089c79e5aaaaef26a7adc4a69b42b140e85"
+      },
+      {
+        "rank": 5,
+        "title": "How much of AutoResearch is research, and how much is search?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1wzxqze/how_much_of_autoresearch_is_research_and_how_much/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-07T14:18:44.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "The reason for the recent slowness",
-        "url": "https://www.reddit.com/r/codex/comments/1wzhium/the_reason_for_the_recent_slowness/",
+        "title": "New ChatGPT update",
+        "url": "https://www.reddit.com/r/codex/comments/1x05squ/new_chatgpt_update/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-06T23:27:39.000Z",
+        "publishedAt": "2026-10-07T19:27:53.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/revmdlvflxth1.jpeg?width=640&crop=smart&auto=webp&s=872d8cd1e32ade594762468e51c7222cc8d71c09"
+        "thumbnail": "https://preview.redd.it/wuflzu8kj3uh1.png?width=640&crop=smart&auto=webp&s=1cc9f32b66aea81effc2246729ddecf08038946e"
       },
       {
         "rank": 2,
@@ -121,23 +123,21 @@
       },
       {
         "rank": 3,
-        "title": "New ChatGPT update",
-        "url": "https://www.reddit.com/r/codex/comments/1x05squ/new_chatgpt_update/",
+        "title": "Opus 5.5 sucks, do NOT migrate to claude!!",
+        "url": "https://www.reddit.com/r/codex/comments/1x07or9/opus_55_sucks_do_not_migrate_to_claude/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-07T19:27:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wuflzu8kj3uh1.png?width=640&crop=smart&auto=webp&s=1cc9f32b66aea81effc2246729ddecf08038946e"
+        "publishedAt": "2026-10-07T20:41:19.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "I think this confirms a reset is coming soon",
-        "url": "https://www.reddit.com/r/codex/comments/1wzfqj1/i_think_this_confirms_a_reset_is_coming_soon/",
+        "title": "If you're having trouble understanding the argument of, \"Codex resets are not always a good thing\", consider this",
+        "url": "https://www.reddit.com/r/codex/comments/1x01ab2/if_youre_having_trouble_understanding_the/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-06T22:05:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/69nh4kdt6xth1.png?width=640&crop=smart&auto=webp&s=8b19d78a3367c8f06008d17f2925f12937fe2b5b"
+        "publishedAt": "2026-10-07T16:35:44.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

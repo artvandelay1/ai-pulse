@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-08T14:50:06.564Z",
+  "fetchedAt": "2026-10-08T20:36:43.153Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0i6b5/nvidias_erroneous_paper_accepted_as_icmls/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-08T04:58:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-08T03:46:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dV5RLKJR5P6mkBb_HfKBGzik1n1I4hLueVe5DCYkEIc.png?width=140&height=105&auto=webp&s=520c06cf49df3a5b54a58996c9ea99a178858c2a"
+      },
+      {
+        "rank": 3,
+        "title": "Whatever happened to BABA is AI from 2024? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-08T20:00:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-08T19:03:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0854j/split_the_differences_pool_the_rest_provably/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-07T20:58:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i2c0cdkg04uh1.png?width=140&height=80&auto=webp&s=23139089c79e5aaaaef26a7adc4a69b42b140e85"
+      },
+      {
+        "rank": 1,
+        "title": "Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x0gqmb/fields_medalist_terence_tao_reposts_statement/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-08T03:38:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1yfhwb28z5uh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d29d3db2976cf4d19e2ca65f3b8ecaa4def503aa"
+      },
+      {
+        "rank": 2,
+        "title": "Researchers are already significantly improving on OpenAI’s recent math results, verified in Lean",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x0jjv8/researchers_are_already_significantly_improving/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-08T06:20:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pmaszm30s6uh1.jpeg?width=640&crop=smart&auto=webp&s=9b2654b5561ff0fbcf8ea1181fe6fa98b5300a3d"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6 is here in Plus chat",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x0bo3f/gpt6_is_here_in_plus_chat/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-07T23:26:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vbkuyvi9q4uh1.png?width=140&height=99&auto=webp&s=4d87c49116cdfb195a485ba2858b2a2888b18d6c"
+      },
+      {
+        "rank": 4,
+        "title": "When is OpenAI changing their name to OpenSI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x0z8wy/when_is_openai_changing_their_name_to_opensi/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-08T18:50:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGpt uisng my own linux post to answer my own linux problem",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x0rpw4/chatgpt_uisng_my_own_linux_post_to_answer_my_own/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-08T14:01:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZGZuMjc2azkyOXVoMTpk6T43NnMpC_AX5pqpr-bwRpmPTftvmOXjvr262B5c.png?width=640&crop=smart&auto=webp&s=8d5ff89e5da8a5c21f2c6c56c6dc0f131d6ab0cb"
+      },
+      {
+        "rank": 1,
+        "title": "Glad we’re focusing on the important things",
+        "url": "https://www.reddit.com/r/singularity/comments/1x0xkzm/glad_were_focusing_on_the_important_things/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-08T17:47:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/66jzi3y76auh1.jpeg?width=640&crop=smart&auto=webp&s=4ece971123a7391481b0382af42ae789eaf186a2"
+      },
+      {
+        "rank": 2,
+        "title": "Next time you solve unsolved math problems remember to ask for permission, mkay?",
+        "url": "https://www.reddit.com/r/singularity/comments/1x0f7yn/next_time_you_solve_unsolved_math_problems/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-08T02:20:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gytxddoxk5uh1.jpeg?width=640&crop=smart&auto=webp&s=6fd2d9ca199703b448737ebe16657fc35795d200"
+      },
+      {
+        "rank": 3,
+        "title": "Starting November 12th, 2026, abusive or cruel behavior towards Claude will be a violation of Anthropic's Usage Policy",
+        "url": "https://www.reddit.com/r/singularity/comments/1x0x0o8/starting_november_12th_2026_abusive_or_cruel/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-08T17:26:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aqa26ogq2auh1.jpeg?width=640&crop=smart&auto=webp&s=fcb4919c1e75e9308afc2cb67b876060d22fe837"
+      },
+      {
+        "rank": 4,
+        "title": "Mathematicians spent 40 years telling taxpayers that math matters because it benefits humanity. Now that AI is doing the math, suddenly it's about mathematicians.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x0q2ho/mathematicians_spent_40_years_telling_taxpayers/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-08T12:49:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Introducing Humanity’s Sixth Sense, a new benchmark testing intuitive visual reasoning from spatial and causal reasoning to social understanding. The gap is significant. Humans score 93.1%, while the strongest model, GPT-6-astra, reaches 53.6%. The median model scores just 30.9%.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x0twes/introducing_humanitys_sixth_sense_a_new_benchmark/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-08T15:27:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/347x48dph9uh1.png?width=640&crop=smart&auto=webp&s=86a96fca810cf5f3528cb235a59ec04cfb270f4a"
+      },
       {
         "rank": 1,
         "title": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released",
@@ -56,53 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0i6b5/nvidias_erroneous_paper_accepted_as_icmls/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-08T04:58:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Uploaded 5.6 billion TikTok videos metadata on Hugging Face, spanning from 2014 to October 2026 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x04235/uploaded_56_billion_tiktok_videos_metadata_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-07T18:20:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-08T03:46:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dV5RLKJR5P6mkBb_HfKBGzik1n1I4hLueVe5DCYkEIc.png?width=140&height=105&auto=webp&s=520c06cf49df3a5b54a58996c9ea99a178858c2a"
-      },
-      {
-        "rank": 4,
-        "title": "Neurips camera ready Submission option [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-07T18:34:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0854j/split_the_differences_pool_the_rest_provably/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-07T20:58:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i2c0cdkg04uh1.png?width=140&height=80&auto=webp&s=23139089c79e5aaaaef26a7adc4a69b42b140e85"
-      },
-      {
-        "rank": 1,
         "title": "New ChatGPT update",
         "url": "https://www.reddit.com/r/codex/comments/1x05squ/new_chatgpt_update/",
         "source": "r/codex",
@@ -146,104 +244,6 @@
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-10-07T18:18:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI being stingy with all those billions",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x01ape/openai_being_stingy_with_all_those_billions/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T16:36:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ss12vms2p2uh1.jpeg?width=640&crop=smart&auto=webp&s=74ec259c4a8077e3a074354dbc7136a799bc7aee"
-      },
-      {
-        "rank": 2,
-        "title": "It's actually insane how prescient this was. They made it in 2011. This is increasingly what it's like to use computers now.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wzx6xm/its_actually_insane_how_prescient_this_was_they/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T13:55:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bzgxY2t4emd3MXVoMer44z0vhQn_3qGyPUZsiwpKV0kfjpDoAf2URkw1V2Hn.png?width=640&crop=smart&auto=webp&s=1f789e6f028e90a81031f2ede75e3bcc645d1f11"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 and Intelligent UI for everyone",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x045qs/gpt6_and_intelligent_ui_for_everyone/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T18:23:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/-Q_gfNdOzZ6G4r42KttK73NYKM6C01mms851UvmHvec.png?width=640&crop=smart&auto=webp&s=b3c6e2cbcc1b6c85b371f4d5fdd23c9636b4873f"
-      },
-      {
-        "rank": 4,
-        "title": "Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x0gqmb/fields_medalist_terence_tao_reposts_statement/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T03:38:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1yfhwb28z5uh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d29d3db2976cf4d19e2ca65f3b8ecaa4def503aa"
-      },
-      {
-        "rank": 5,
-        "title": "ChatGPT Ads = TOTAL SCAM",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1wzyysy/chatgpt_ads_total_scam/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T15:06:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Amazon packages now when you order 11 items.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x057bb/amazon_packages_now_when_you_order_11_items/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-07T19:03:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/45ydf6s8f3uh1.png?width=640&crop=smart&auto=webp&s=0b2d0e9606b824dc45a54b9b881f196e4a2783b4"
-      },
-      {
-        "rank": 2,
-        "title": "\"this is where i stop calling AI a tool. a tool doesnt do in one release what the best humans do in a lifetime\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1x02g1l/this_is_where_i_stop_calling_ai_a_tool_a_tool/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-07T17:19:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gyp8q4oqw2uh1.png?width=640&crop=smart&auto=webp&s=2de8348debb8b3d44e9385ee77265f11dcca9b6e"
-      },
-      {
-        "rank": 3,
-        "title": "Next time you solve unsolved math problems remember to ask for permission, mkay?",
-        "url": "https://www.reddit.com/r/singularity/comments/1x0f7yn/next_time_you_solve_unsolved_math_problems/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-08T02:20:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gytxddoxk5uh1.jpeg?width=640&crop=smart&auto=webp&s=6fd2d9ca199703b448737ebe16657fc35795d200"
-      },
-      {
-        "rank": 4,
-        "title": "Introducing Claude Haiku 5.5",
-        "url": "https://www.reddit.com/r/singularity/comments/1x03oya/introducing_claude_haiku_55/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-07T18:06:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/BGzBzb5ZglHjfSetDKC7p6yio9DYnfPjxHk_aAwvW9U.jpeg?width=640&crop=smart&auto=webp&s=5a747bf913f6fca0dac8a47d8555d2fab9c5eba0"
-      },
-      {
-        "rank": 5,
-        "title": "Does anyone else IRL feel a little alone in knowing what is happening with intelligence right now?",
-        "url": "https://www.reddit.com/r/singularity/comments/1wztxkb/does_anyone_else_irl_feel_a_little_alone_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-07T11:21:35.000Z",
         "category": "reddit"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T20:36:43.153Z",
+  "fetchedAt": "2026-10-09T01:05:43.484Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -35,22 +35,21 @@
       },
       {
         "rank": 4,
+        "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-08T20:28:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-08T19:03:32.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0854j/split_the_differences_pool_the_rest_provably/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-07T20:58:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i2c0cdkg04uh1.png?width=140&height=80&auto=webp&s=23139089c79e5aaaaef26a7adc4a69b42b140e85"
       },
       {
         "rank": 1,
@@ -64,6 +63,16 @@
       },
       {
         "rank": 2,
+        "title": "What if we boarded planes pre-seated through the butthole",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x12hee/what_if_we_boarded_planes_preseated_through_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-08T20:53:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rtbh7kqv3buh1.jpeg?width=640&crop=smart&auto=webp&s=b495220fc9c6c19c6fffb3a48260045c1eda21f9"
+      },
+      {
+        "rank": 3,
         "title": "Researchers are already significantly improving on OpenAI’s recent math results, verified in Lean",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x0jjv8/researchers_are_already_significantly_improving/",
         "source": "r/OpenAI",
@@ -71,16 +80,6 @@
         "publishedAt": "2026-10-08T06:20:18.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/pmaszm30s6uh1.jpeg?width=640&crop=smart&auto=webp&s=9b2654b5561ff0fbcf8ea1181fe6fa98b5300a3d"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6 is here in Plus chat",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x0bo3f/gpt6_is_here_in_plus_chat/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-07T23:26:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vbkuyvi9q4uh1.png?width=140&height=99&auto=webp&s=4d87c49116cdfb195a485ba2858b2a2888b18d6c"
       },
       {
         "rank": 4,
@@ -142,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Introducing Humanity’s Sixth Sense, a new benchmark testing intuitive visual reasoning from spatial and causal reasoning to social understanding. The gap is significant. Humans score 93.1%, while the strongest model, GPT-6-astra, reaches 53.6%. The median model scores just 30.9%.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x0twes/introducing_humanitys_sixth_sense_a_new_benchmark/",
+        "title": "Two professions coping very differently",
+        "url": "https://www.reddit.com/r/singularity/comments/1x0v80q/two_professions_coping_very_differently/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-08T15:27:25.000Z",
+        "publishedAt": "2026-10-08T16:17:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/347x48dph9uh1.png?width=640&crop=smart&auto=webp&s=86a96fca810cf5f3528cb235a59ec04cfb270f4a"
+        "thumbnail": "https://preview.redd.it/gbv0b06oq9uh1.jpeg?width=640&crop=smart&auto=webp&s=b104504a1a521e5cff703eb0b7b2cb6abf9db1a5"
       },
       {
         "rank": 1,

@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-10-09T15:08:15.428Z",
+  "fetchedAt": "2026-10-09T20:17:48.388Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T08:05:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ARR Oct Discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T12:44:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T00:50:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
+      },
+      {
+        "rank": 4,
+        "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-08T20:28:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T18:59:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "What if we boarded planes pre-seated through the butthole",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x12hee/what_if_we_boarded_planes_preseated_through_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-08T20:53:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rtbh7kqv3buh1.jpeg?width=640&crop=smart&auto=webp&s=b495220fc9c6c19c6fffb3a48260045c1eda21f9"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x1bxtb/anthropic_bans_abusive_or_cruel_behavior_toward/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T04:24:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491"
+      },
+      {
+        "rank": 3,
+        "title": "Anyone who doesn't laugh at this meme is ... THE ENEMY! 😡",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x1ox40/anyone_who_doesnt_laugh_at_this_meme_is_the_enemy/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T15:50:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/80zhuvssqguh1.jpeg?width=640&crop=smart&auto=webp&s=b6014974fd96f4f479bd8d11935f63c272e33640"
+      },
+      {
+        "rank": 4,
+        "title": "The OpenAI employees: \"We were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x1k4sg/the_openai_employees_we_were_fired_for/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T12:31:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lnuev620rfuh1.png?width=640&crop=smart&auto=webp&s=cc5c51e29df4445794f431b9813dc581f5315177"
+      },
+      {
+        "rank": 5,
+        "title": "Model picker in ChatGPT has moved to Settings -> General. Bad UX already, but again which model is the default GPT-6? When was it released? What are its benchmarks?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x1bf75/model_picker_in_chatgpt_has_moved_to_settings/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T03:56:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7g377vke7duh1.jpeg?width=640&crop=smart&auto=webp&s=bef129a80b5de8ac2e06ccbc44e7470a18f658e4"
+      },
+      {
+        "rank": 1,
+        "title": "One developer used Claude to reverse-engineer LG’s webOS media stack and build a native Rust Plex client from scratch—on the same 2019 TV it cuts the profile screen from ~30 seconds to ~3, runs at 60 FPS, and supports 4K, Dolby Vision and Atmos",
+        "url": "https://www.reddit.com/r/singularity/comments/1x18s0b/one_developer_used_claude_to_reverseengineer_lgs/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T01:39:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cjwnfgfzicuh1.jpeg?width=640&crop=smart&auto=webp&s=de65432725598e8827bb951aec53fe32000f6409"
+      },
+      {
+        "rank": 2,
+        "title": "Eye Cells May Have Been Rejuvenated for the First Time in People",
+        "url": "https://www.reddit.com/r/singularity/comments/1x17emy/eye_cells_may_have_been_rejuvenated_for_the_first/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T00:31:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/k5Ke29JsV-ikKHHXrneFJrTKHCBpkdxz4TLUWSCzU0k.jpeg?width=640&crop=smart&auto=webp&s=7c0b60df42786d0b90f555d9cb3176adc68948c8"
+      },
+      {
+        "rank": 3,
+        "title": "Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems feels as if I had been run over by trucks; all the problems (and thus research directions) that I used to mention in my talks, papers, and grant applications have been solved.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1x1mzkn/hugo_duminilcopin_2022_fields_medalist_openais/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T14:34:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "url": "https://www.reddit.com/r/singularity/comments/1x18ywv/anthropic_bans_abusive_or_cruel_behavior_toward/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T01:49:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491"
+      },
+      {
+        "rank": 5,
+        "title": "Put yourself in the shoes of a mathematician",
+        "url": "https://www.reddit.com/r/singularity/comments/1x17p8r/put_yourself_in_the_shoes_of_a_mathematician/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T00:46:00.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Opus 5.5 is so good",
@@ -56,52 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Whatever happened to BABA is AI from 2024? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-08T20:00:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-09T00:50:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
-      },
-      {
-        "rank": 3,
-        "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-08T19:03:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "ARR Oct Discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-09T12:44:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-09T08:05:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "After using Opus 5.5 since it released, all the ChatGPT models start feeling so primitive",
         "url": "https://www.reddit.com/r/codex/comments/1x0xg1z/after_using_opus_55_since_it_released_all_the/",
         "source": "r/codex",
@@ -147,105 +245,6 @@
         "publishedAt": "2026-10-08T19:45:45.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/mqpkfetrrauh1.png?width=640&crop=smart&auto=webp&s=440a708206e69a4b3f02436b6b5c93d08c444938"
-      },
-      {
-        "rank": 1,
-        "title": "What if we boarded planes pre-seated through the butthole",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x12hee/what_if_we_boarded_planes_preseated_through_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T20:53:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rtbh7kqv3buh1.jpeg?width=640&crop=smart&auto=webp&s=b495220fc9c6c19c6fffb3a48260045c1eda21f9"
-      },
-      {
-        "rank": 2,
-        "title": "When is OpenAI changing their name to OpenSI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x0z8wy/when_is_openai_changing_their_name_to_opensi/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T18:50:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Tech stocks drop after report that OpenAI’s revenue is lower than expected",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x115kq/tech_stocks_drop_after_report_that_openais/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T20:01:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/PvLme1ay1KSFNhAT4gNU7SuNbQTQhYz3k66EpFRiQ-c.jpeg?width=640&crop=smart&auto=webp&s=0324a6a77a8fca731e5baa989d57a919d5902cb9"
-      },
-      {
-        "rank": 4,
-        "title": "ChatGpt uisng my own linux post to answer my own linux problem",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x0rpw4/chatgpt_uisng_my_own_linux_post_to_answer_my_own/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T14:01:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZGZuMjc2azkyOXVoMTpk6T43NnMpC_AX5pqpr-bwRpmPTftvmOXjvr262B5c.png?width=640&crop=smart&auto=webp&s=8d5ff89e5da8a5c21f2c6c56c6dc0f131d6ab0cb"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI applied for 15 new top-level domains, including .gpt, .chatgpt and .agi",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x0o0y6/openai_applied_for_15_new_toplevel_domains/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T11:04:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q95rcg61h5uh1.png?width=640&crop=smart&auto=webp&s=d8af239290d754459108abfc247af43579d66b6f"
-      },
-      {
-        "rank": 1,
-        "title": "Glad we’re focusing on the important things",
-        "url": "https://www.reddit.com/r/singularity/comments/1x0xkzm/glad_were_focusing_on_the_important_things/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-08T17:47:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/66jzi3y76auh1.jpeg?width=640&crop=smart&auto=webp&s=4ece971123a7391481b0382af42ae789eaf186a2"
-      },
-      {
-        "rank": 2,
-        "title": "Starting November 12th, 2026, abusive or cruel behavior towards Claude will be a violation of Anthropic's Usage Policy",
-        "url": "https://www.reddit.com/r/singularity/comments/1x0x0o8/starting_november_12th_2026_abusive_or_cruel/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-08T17:26:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aqa26ogq2auh1.jpeg?width=640&crop=smart&auto=webp&s=fcb4919c1e75e9308afc2cb67b876060d22fe837"
-      },
-      {
-        "rank": 3,
-        "title": "One developer used Claude to reverse-engineer LG’s webOS media stack and build a native Rust Plex client from scratch—on the same 2019 TV it cuts the profile screen from ~30 seconds to ~3, runs at 60 FPS, and supports 4K, Dolby Vision and Atmos",
-        "url": "https://www.reddit.com/r/singularity/comments/1x18s0b/one_developer_used_claude_to_reverseengineer_lgs/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T01:39:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cjwnfgfzicuh1.jpeg?width=640&crop=smart&auto=webp&s=de65432725598e8827bb951aec53fe32000f6409"
-      },
-      {
-        "rank": 4,
-        "title": "Two professions coping very differently",
-        "url": "https://www.reddit.com/r/singularity/comments/1x0v80q/two_professions_coping_very_differently/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-08T16:17:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gbv0b06oq9uh1.jpeg?width=640&crop=smart&auto=webp&s=b104504a1a521e5cff703eb0b7b2cb6abf9db1a5"
-      },
-      {
-        "rank": 5,
-        "title": "Tom was the first layoff due to AI",
-        "url": "https://www.reddit.com/r/singularity/comments/1x0ypnz/tom_was_the_first_layoff_due_to_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-08T18:30:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NDY4OTB6N2JlYXVoMU-dbRqgJeqckSPcJ_oBuJ7Tv1x1LIhifSige7wGDt_G.jpeg?width=640&crop=smart&auto=webp&s=228b94858a487800c3f4a1e3f544817dd762ddf9"
       }
     ]
   }

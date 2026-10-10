@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T00:16:09.851Z",
+  "fetchedAt": "2026-10-10T06:17:14.913Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "We know this is disappointing and we’re very sorry",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1cgpo/we_know_this_is_disappointing_and_were_very_sorry/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-09T04:55:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m7cjgtunhduh1.png?width=640&crop=smart&auto=webp&s=3e90ce2eef29a852339b5ef87a9d9620a84622b7"
-      },
-      {
-        "rank": 3,
         "title": "I Pointed Claude at 400 Years of Historical Archives. It Found a Forgotten Meteorite, Lost Rhinos, and Unrecorded Volcanic Eruptions.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1lo40/i_pointed_claude_at_400_years_of_historical/",
         "source": "r/ClaudeAI",
@@ -36,13 +26,23 @@
         "thumbnail": "https://external-preview.redd.it/areOjztc4RN_wmXoVXpYX2CARE4Pyu7ljTIMptTLwTI.jpeg?width=640&crop=smart&auto=webp&s=3c5233a55f43d41af627a2a8a0c8dde8618bfea2"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "i gave claude a batch job overnight, woke up to 96 clips and $2,500 in spends",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1oxol/i_gave_claude_a_batch_job_overnight_woke_up_to_96/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-10-09T15:51:20.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I made a claude code mod that uses Haiku 5.5 (or Jev) to pick the best model and effort for your task. (and more...)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1nnkn/i_made_a_claude_code_mod_that_uses_haiku_55_or/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T15:01:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Nm5kOTlvaHRoZ3VoMYe9PPijdOxnlyxC3em0Lu8vWU-fY-DUsF-__PxmTfwX.png?width=640&crop=smart&auto=webp&s=ea54bed178b86b311d0922aa40c6771cf7303db5"
       },
       {
         "rank": 5,
@@ -65,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-09T08:05:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "ARR Oct Discussion [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
         "source": "r/MachineLearning",
@@ -82,14 +73,22 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
+        "rank": 3,
+        "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-09T00:50:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
+        "publishedAt": "2026-10-09T08:05:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T18:59:11.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -102,25 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "A 3D creek running in your browser with Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1x1dqra/a_3d_creek_running_in_your_browser_with_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-09T06:10:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cWM2ZHgxd291ZHVoMXjx6F7nmtVgHgLh1ipXSFo6D_ZI3R50CFXGW80Hj5p7.png?width=640&crop=smart&auto=webp&s=7964e9f4a5f6cf30baf15c4e2c20e9f29c8a0026"
-      },
-      {
-        "rank": 2,
-        "title": "Holy f*** is Sol 6.1 slow",
-        "url": "https://www.reddit.com/r/codex/comments/1x194xn/holy_f_is_sol_61_slow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-09T01:57:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "After years on the $200 tier, even Haiku is outperforming Sol 6.1 sol in my tests",
         "url": "https://www.reddit.com/r/codex/comments/1x1ilzd/after_years_on_the_200_tier_even_haiku_is/",
         "source": "r/codex",
@@ -129,7 +109,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "new prediction feature",
         "url": "https://www.reddit.com/r/codex/comments/1x1towq/new_prediction_feature/",
         "source": "r/codex",
@@ -139,7 +119,7 @@
         "thumbnail": "https://preview.redd.it/n9jmsh7knhuh1.png?width=320&crop=smart&auto=webp&s=131419ff53b353951971c88ccc49750218e1e7c6"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "Tibo shares Day 5 update",
         "url": "https://www.reddit.com/r/codex/comments/1x1v6je/tibo_shares_day_5_update/",
         "source": "r/codex",
@@ -147,6 +127,25 @@
         "publishedAt": "2026-10-09T19:52:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7xs17ihwxhuh1.jpeg?width=640&crop=smart&auto=webp&s=16cf5982426d3eb171af4eea8edaaedc202b140b"
+      },
+      {
+        "rank": 4,
+        "title": "6.1 Sol is really creative with the subagent names",
+        "url": "https://www.reddit.com/r/codex/comments/1x1y1po/61_sol_is_really_creative_with_the_subagent_names/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-09T21:49:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8gvycl8viiuh1.png?width=320&crop=smart&auto=webp&s=db8ee56930fb4133770c584e16adb81a1764a211"
+      },
+      {
+        "rank": 5,
+        "title": "Are credit prices a joke?",
+        "url": "https://www.reddit.com/r/codex/comments/1x1s1ic/are_credit_prices_a_joke/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-09T17:50:52.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

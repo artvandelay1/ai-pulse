@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T20:17:48.388Z",
+  "fetchedAt": "2026-10-10T00:16:09.851Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,64 @@
     "items": [
       {
         "rank": 1,
+        "title": "Why does Claude need to see my ovulation cycle? 🥺",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1grtv/why_does_claude_need_to_see_my_ovulation_cycle/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T09:24:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ulkkojdhteuh1.jpeg?width=640&crop=smart&auto=webp&s=479fce5e494c3dfe0f8a9bb7b9f0972a4c185069"
+      },
+      {
+        "rank": 2,
+        "title": "We know this is disappointing and we’re very sorry",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1cgpo/we_know_this_is_disappointing_and_were_very_sorry/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T04:55:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m7cjgtunhduh1.png?width=640&crop=smart&auto=webp&s=3e90ce2eef29a852339b5ef87a9d9620a84622b7"
+      },
+      {
+        "rank": 3,
+        "title": "I Pointed Claude at 400 Years of Historical Archives. It Found a Forgotten Meteorite, Lost Rhinos, and Unrecorded Volcanic Eruptions.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1lo40/i_pointed_claude_at_400_years_of_historical/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T13:41:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/areOjztc4RN_wmXoVXpYX2CARE4Pyu7ljTIMptTLwTI.jpeg?width=640&crop=smart&auto=webp&s=3c5233a55f43d41af627a2a8a0c8dde8618bfea2"
+      },
+      {
+        "rank": 4,
+        "title": "i gave claude a batch job overnight, woke up to 96 clips and $2,500 in spends",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1oxol/i_gave_claude_a_batch_job_overnight_woke_up_to_96/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T15:51:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Sonnet 5.5 - GPT 6 instant",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x1gz16/sonnet_55_gpt_6_instant/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T09:36:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ll7m2c43weuh1.jpeg?width=640&crop=smart&auto=webp&s=df4ba9289dba0a592262cebb74324d3ae22ed18d"
+      },
+      {
+        "rank": 1,
+        "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T19:52:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
         "source": "r/MachineLearning",
@@ -15,7 +73,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "ARR Oct Discussion [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
         "source": "r/MachineLearning",
@@ -24,7 +82,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
         "source": "r/MachineLearning",
@@ -34,22 +92,61 @@
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090"
       },
       {
-        "rank": 4,
-        "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
+        "rank": 5,
+        "title": "Clarification ARR Commitment [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-08T20:28:20.000Z",
+        "publishedAt": "2026-10-09T13:36:48.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "A 3D creek running in your browser with Astra",
+        "url": "https://www.reddit.com/r/codex/comments/1x1dqra/a_3d_creek_running_in_your_browser_with_astra/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-09T18:59:11.000Z",
+        "publishedAt": "2026-10-09T06:10:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cWM2ZHgxd291ZHVoMXjx6F7nmtVgHgLh1ipXSFo6D_ZI3R50CFXGW80Hj5p7.png?width=640&crop=smart&auto=webp&s=7964e9f4a5f6cf30baf15c4e2c20e9f29c8a0026"
+      },
+      {
+        "rank": 2,
+        "title": "Holy f*** is Sol 6.1 slow",
+        "url": "https://www.reddit.com/r/codex/comments/1x194xn/holy_f_is_sol_61_slow/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-09T01:57:58.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "After years on the $200 tier, even Haiku is outperforming Sol 6.1 sol in my tests",
+        "url": "https://www.reddit.com/r/codex/comments/1x1ilzd/after_years_on_the_200_tier_even_haiku_is/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-09T11:12:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "new prediction feature",
+        "url": "https://www.reddit.com/r/codex/comments/1x1towq/new_prediction_feature/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-09T18:54:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n9jmsh7knhuh1.png?width=320&crop=smart&auto=webp&s=131419ff53b353951971c88ccc49750218e1e7c6"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo shares Day 5 update",
+        "url": "https://www.reddit.com/r/codex/comments/1x1v6je/tibo_shares_day_5_update/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-09T19:52:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7xs17ihwxhuh1.jpeg?width=640&crop=smart&auto=webp&s=16cf5982426d3eb171af4eea8edaaedc202b140b"
       },
       {
         "rank": 1,
@@ -148,103 +245,6 @@
         "score": 0,
         "publishedAt": "2026-10-09T00:46:00.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5.5 is so good",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x10tx3/opus_55_is_so_good/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T19:50:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z41hjfklsauh1.jpeg?width=640&crop=smart&auto=webp&s=345bd3d7e03b48663fd027915e75e318e72512e5"
-      },
-      {
-        "rank": 2,
-        "title": "Opus 5.5 can make games for 2 decade old phones",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x120gj/opus_55_can_make_games_for_2_decade_old_phones/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T20:34:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eHQ4eHlsbDgwYnVoMePnIOrG-TJz0IKxhEqKxX2ovcDJmusFaOpx1oTS4Rv4.png?width=320&crop=smart&auto=webp&s=e85ff08ad962330db78a16477638145831f85732"
-      },
-      {
-        "rank": 3,
-        "title": "My brother went nearly 10 years without a way to communicate. I built him a switch-accessible hub of tools and games using AI.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0x5wo/my_brother_went_nearly_10_years_without_a_way_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T17:31:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M2VpMXZ3eXIzYXVoMYhLcBCcrSKVMiBZzbB56o4yxhRGyy1pNMUfsaYUTNrI.png?width=320&crop=smart&auto=webp&s=d0c6f74a64fd0bdb165f6a5d98511e2da930e9eb"
-      },
-      {
-        "rank": 4,
-        "title": "Abuse Claude, get banned coming November 12th, 2026",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x11k9j/abuse_claude_get_banned_coming_november_12th_2026/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T20:17:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8aaaxv04xauh1.jpeg?width=640&crop=smart&auto=webp&s=061fa662984de07e276df87ea63c1fcb016c75cf"
-      },
-      {
-        "rank": 5,
-        "title": "What are Claude Code \"Power Users\" doing with Claude Code that the average developer isn't?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x0uhhr/what_are_claude_code_power_users_doing_with/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T15:49:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "After using Opus 5.5 since it released, all the ChatGPT models start feeling so primitive",
-        "url": "https://www.reddit.com/r/codex/comments/1x0xg1z/after_using_opus_55_since_it_released_all_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-08T17:41:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "A 3D creek running in your browser with Astra",
-        "url": "https://www.reddit.com/r/codex/comments/1x1dqra/a_3d_creek_running_in_your_browser_with_astra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-09T06:10:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cWM2ZHgxd291ZHVoMXjx6F7nmtVgHgLh1ipXSFo6D_ZI3R50CFXGW80Hj5p7.png?width=640&crop=smart&auto=webp&s=7964e9f4a5f6cf30baf15c4e2c20e9f29c8a0026"
-      },
-      {
-        "rank": 3,
-        "title": "Probably no reset on day 4",
-        "url": "https://www.reddit.com/r/codex/comments/1x1063x/probably_no_reset_on_day_4/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-08T19:24:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/892g1b23oauh1.jpeg?width=640&crop=smart&auto=webp&s=70b198edbc37998454769e831aaa4a04043796df"
-      },
-      {
-        "rank": 4,
-        "title": "Holy f*** is Sol 6.1 slow",
-        "url": "https://www.reddit.com/r/codex/comments/1x194xn/holy_f_is_sol_61_slow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-09T01:57:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Day 4 - tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1x10pv6/day_4_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-08T19:45:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mqpkfetrrauh1.png?width=640&crop=smart&auto=webp&s=440a708206e69a4b3f02436b6b5c93d08c444938"
       }
     ]
   }

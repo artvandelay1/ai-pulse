@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-10T12:57:10.855Z",
+  "fetchedAt": "2026-10-10T17:44:49.545Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-10T10:51:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T19:52:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-10T04:02:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/awkqvjx9dkuh1.gif?width=320&crop=smart&s=ceac1642bcd55ed03533f05948500f0dffc82aa3"
+      },
+      {
+        "rank": 4,
+        "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-09T18:59:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-10T01:45:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "The man is smooth. We’re not ready for fake videos",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2eq0n/the_man_is_smooth_were_not_ready_for_fake_videos/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T12:59:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/emp4bGk0NjgxbnVoMb8Q9mZwl4c8ZIk9K6uD_EulQRBgEgpbU5WAcGuh4yc0.jpeg?width=640&crop=smart&auto=webp&s=435b448ec71327e29b520a7198dcc18bd5ee96cd"
+      },
+      {
+        "rank": 2,
+        "title": "First, they came for the call centers...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2fcws/first_they_came_for_the_call_centers/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T13:29:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2dfquwqj6nuh1.png?width=640&crop=smart&auto=webp&s=9bc7a7f8da8e0747380e312d612c4e107e57bf50"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI is sorry",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2hntn/openai_is_sorry/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T15:11:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cGIxZ2FyeWtvbnVoMTPCi3eQrTl7GsBgCt0Wqh3_bMcR9AqOKOvNCzXiGTvM.png?width=640&crop=smart&auto=webp&s=5de29d4ea7e0cb89bb795f736f2b359b9d0b4d7d"
+      },
+      {
+        "rank": 4,
+        "title": "Will OpenAI follow? Banning users for abusing the bot.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x28wvd/will_openai_follow_banning_users_for_abusing_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T07:17:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/60pb2196cluh1.jpeg?width=640&crop=smart&auto=webp&s=973fbbf373c79e0bab387a298d27f8729331a84d"
+      },
+      {
+        "rank": 5,
+        "title": "Ultrafast, after \"almost doubling the speed\" and \"50% faster\" announcements",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x1u6b9/ultrafast_after_almost_doubling_the_speed_and_50/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-09T19:13:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1p0rqc3xphuh1.png?width=140&height=117&auto=webp&s=452945d1153c3a5ab45c8b17960ad0172a2d7bb3"
+      },
+      {
+        "rank": 1,
+        "title": "Introducing Microsoft-Decision-1, our model for fast decision-making",
+        "url": "https://www.reddit.com/r/singularity/comments/1x1z0um/introducing_microsoftdecision1_our_model_for_fast/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T22:32:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/TwoGjQ5kHkJYCNvmv4H1yYbW-JsU887SKuM7B9g7vUo.png?width=640&crop=smart&auto=webp&s=5ccbaa2e5e8bb79ebb1c6c56704419ef7a0cd10a"
+      },
+      {
+        "rank": 2,
+        "title": "AI Could Allow For 3-Day Workweeks And Single-Income Households, Bezos Claims",
+        "url": "https://www.reddit.com/r/singularity/comments/1x1vo9t/ai_could_allow_for_3day_workweeks_and/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T20:11:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/pSlekDww9c3w9MuDq6oPDon2n2KfJoRDAaEkm2qhnJc.jpeg?width=640&crop=smart&auto=webp&s=f34cb1420bec0b171e9f54ef657b2759a02b267b"
+      },
+      {
+        "rank": 3,
+        "title": "A startup built an 8,000-square-foot lab in just 30 days to test molecules proposed by AI, it can now measure how often they work in living organisms in about 72 hours",
+        "url": "https://www.reddit.com/r/singularity/comments/1x2812g/a_startup_built_an_8000squarefoot_lab_in_just_30/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-10T06:24:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/djFqMTQwOWoybHVoMdt6ouyfkuW2pt7HdKdrLlEqc42XsM0_6rLTak-YY6AH.png?width=640&crop=smart&auto=webp&s=488fb78fe5866db5a53a3c4b009c6a663cfe1ad3"
+      },
+      {
+        "rank": 4,
+        "title": "We've genuinely lost the plot",
+        "url": "https://www.reddit.com/r/singularity/comments/1x1xqkn/weve_genuinely_lost_the_plot/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-09T21:36:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lfrbqzwhgiuh1.jpeg?width=640&crop=smart&auto=webp&s=becebc6160dd7dc497f82a37db0b5d09717ef877"
+      },
+      {
+        "rank": 5,
+        "title": "A mathematician's perspective",
+        "url": "https://www.reddit.com/r/singularity/comments/1x22o0b/a_mathematicians_perspective/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-10T01:27:10.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I Pointed Claude at 400 Years of Historical Archives. It Found a Forgotten Meteorite, Lost Rhinos, and Unrecorded Volcanic Eruptions.",
@@ -54,52 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-09T19:52:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-10T10:51:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-10T04:02:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/awkqvjx9dkuh1.gif?width=320&crop=smart&s=ceac1642bcd55ed03533f05948500f0dffc82aa3"
-      },
-      {
-        "rank": 4,
-        "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-09T18:59:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Clarification ARR Commitment [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-09T13:36:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "new prediction feature",
         "url": "https://www.reddit.com/r/codex/comments/1x1towq/new_prediction_feature/",
         "source": "r/codex",
@@ -146,104 +245,6 @@
         "publishedAt": "2026-10-09T19:53:47.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/x8z0hqc4yhuh1.png?width=320&crop=smart&auto=webp&s=59a18c55f77d273ccfa1cf9823d9e94cb5aece09"
-      },
-      {
-        "rank": 1,
-        "title": "What if we boarded planes pre-seated through the butthole",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x12hee/what_if_we_boarded_planes_preseated_through_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-08T20:53:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rtbh7kqv3buh1.jpeg?width=640&crop=smart&auto=webp&s=b495220fc9c6c19c6fffb3a48260045c1eda21f9"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x1bxtb/anthropic_bans_abusive_or_cruel_behavior_toward/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-09T04:24:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491"
-      },
-      {
-        "rank": 3,
-        "title": "Anyone who doesn't laugh at this meme is ... THE ENEMY! 😡",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x1ox40/anyone_who_doesnt_laugh_at_this_meme_is_the_enemy/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-09T15:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/80zhuvssqguh1.jpeg?width=640&crop=smart&auto=webp&s=b6014974fd96f4f479bd8d11935f63c272e33640"
-      },
-      {
-        "rank": 4,
-        "title": "The OpenAI employees: \"We were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x1k4sg/the_openai_employees_we_were_fired_for/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-09T12:31:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lnuev620rfuh1.png?width=640&crop=smart&auto=webp&s=cc5c51e29df4445794f431b9813dc581f5315177"
-      },
-      {
-        "rank": 5,
-        "title": "Model picker in ChatGPT has moved to Settings -> General. Bad UX already, but again which model is the default GPT-6? When was it released? What are its benchmarks?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x1bf75/model_picker_in_chatgpt_has_moved_to_settings/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-09T03:56:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7g377vke7duh1.jpeg?width=640&crop=smart&auto=webp&s=bef129a80b5de8ac2e06ccbc44e7470a18f658e4"
-      },
-      {
-        "rank": 1,
-        "title": "One developer used Claude to reverse-engineer LG’s webOS media stack and build a native Rust Plex client from scratch—on the same 2019 TV it cuts the profile screen from ~30 seconds to ~3, runs at 60 FPS, and supports 4K, Dolby Vision and Atmos",
-        "url": "https://www.reddit.com/r/singularity/comments/1x18s0b/one_developer_used_claude_to_reverseengineer_lgs/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T01:39:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cjwnfgfzicuh1.jpeg?width=640&crop=smart&auto=webp&s=de65432725598e8827bb951aec53fe32000f6409"
-      },
-      {
-        "rank": 2,
-        "title": "Eye Cells May Have Been Rejuvenated for the First Time in People",
-        "url": "https://www.reddit.com/r/singularity/comments/1x17emy/eye_cells_may_have_been_rejuvenated_for_the_first/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T00:31:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/k5Ke29JsV-ikKHHXrneFJrTKHCBpkdxz4TLUWSCzU0k.jpeg?width=640&crop=smart&auto=webp&s=7c0b60df42786d0b90f555d9cb3176adc68948c8"
-      },
-      {
-        "rank": 3,
-        "title": "Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems feels as if I had been run over by trucks; all the problems (and thus research directions) that I used to mention in my talks, papers, and grant applications have been solved.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1x1mzkn/hugo_duminilcopin_2022_fields_medalist_openais/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T14:34:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-        "url": "https://www.reddit.com/r/singularity/comments/1x18ywv/anthropic_bans_abusive_or_cruel_behavior_toward/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T01:49:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491"
-      },
-      {
-        "rank": 5,
-        "title": "Put yourself in the shoes of a mathematician",
-        "url": "https://www.reddit.com/r/singularity/comments/1x17p8r/put_yourself_in_the_shoes_of_a_mathematician/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T00:46:00.000Z",
-        "category": "reddit"
       }
     ]
   }

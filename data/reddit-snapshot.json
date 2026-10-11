@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-10-11T06:16:06.398Z",
+  "fetchedAt": "2026-10-11T13:21:45.412Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Has machine learning research gotten more \"wordy\"? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T00:39:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-10T18:08:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/zVOPn_mNnDJX1JYwwkAFVvoaRxIz-xqSHTWymSih1MY.png?width=640&crop=smart&auto=webp&s=beb6f8279ccc7f34963604a3f8d155247380823d"
+      },
+      {
+        "rank": 3,
+        "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T09:33:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T04:48:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What ai is best to operate a system from screen video [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T04:18:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Fields Medalist on the OpenAI Math Release",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2rufy/fields_medalist_on_the_openai_math_release/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T22:25:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "First, they came for the call centers...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2fcws/first_they_came_for_the_call_centers/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T13:29:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2dfquwqj6nuh1.png?width=640&crop=smart&auto=webp&s=9bc7a7f8da8e0747380e312d612c4e107e57bf50"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI is sorry",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2hntn/openai_is_sorry/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T15:11:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cGIxZ2FyeWtvbnVoMTPCi3eQrTl7GsBgCt0Wqh3_bMcR9AqOKOvNCzXiGTvM.png?width=640&crop=smart&auto=webp&s=5de29d4ea7e0cb89bb795f736f2b359b9d0b4d7d"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI and Anthropic expect a catastrophe by 2027, and they're secretly planning... the PR response.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2jll0/openai_and_anthropic_expect_a_catastrophe_by_2027/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T16:32:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0zu2jae53ouh1.png?width=640&crop=smart&auto=webp&s=838966c63bb180afa17688a1e81f343eaae7868e"
+      },
+      {
+        "rank": 5,
+        "title": "“ITS NEVER OKAY TO USE AI” *Uses AI* 😭😭",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x2xmql/its_never_okay_to_use_ai_uses_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T03:19:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/84mj8sgoaruh1.jpeg?width=640&crop=smart&auto=webp&s=dc4cef3c8a13fdf189451260daa2b92751c3f1be"
+      },
+      {
+        "rank": 1,
+        "title": "Slide from recent \"Math 2.0\" Lecture by Terrence Tao. This man has never met a terminal cancer patient in his life if he thinks no one would want to take this risk.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x2kb5k/slide_from_recent_math_20_lecture_by_terrence_tao/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-10T17:02:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0y562phf7ouh1.png?width=640&crop=smart&auto=webp&s=e91117d21b73adf3d4778a48895ad85ad7a69a91"
+      },
+      {
+        "rank": 2,
+        "title": "We should stop defending jobs and start planning for a world without them",
+        "url": "https://www.reddit.com/r/singularity/comments/1x2q7sf/we_should_stop_defending_jobs_and_start_planning/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-10T21:11:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Terrence Tao is actually calling for significantly more compute hours of AI mathematics, yet is being misportrayed in this sub.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x2w1ek/terrence_tao_is_actually_calling_for/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-11T01:55:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How compute time has shifted from pretraining to post-training over the last 2 years",
+        "url": "https://www.reddit.com/r/singularity/comments/1x2na8q/how_compute_time_has_shifted_from_pretraining_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-10T19:06:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c256g4aguouh1.png?width=640&crop=smart&auto=webp&s=6764d4b6aa3e59d145e5ea9de8c9e27b7aacdc1e"
+      },
+      {
+        "rank": 5,
+        "title": "Qualcomm CEO: Frontier AI Companies Want Phones Running 100-Billion-Parameter Models Continuously by 2028 — Some Are Already Building Their Own",
+        "url": "https://www.reddit.com/r/singularity/comments/1x2z573/qualcomm_ceo_frontier_ai_companies_want_phones/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-11T04:44:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YmwyOW9qZW9wcnVoMcIIlfNErlBlWXO_ZYssbWkOTaI6bVpm1_icSfMSzZ36.png?width=640&crop=smart&auto=webp&s=b5b0511a4933f38bb9c21c7637b6661c984a0982"
+      },
       {
         "rank": 1,
         "title": "I'm a 9th grader and I used Claude to prove a geometry conjecture: the rhombicosidodecahedron can't pass through a copy of itself",
@@ -54,52 +197,6 @@
       },
       {
         "rank": 1,
-        "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-10T10:51:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Has machine learning research gotten more \"wordy\"? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T00:39:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-10T18:08:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/zVOPn_mNnDJX1JYwwkAFVvoaRxIz-xqSHTWymSih1MY.png?width=640&crop=smart&auto=webp&s=beb6f8279ccc7f34963604a3f8d155247380823d"
-      },
-      {
-        "rank": 4,
-        "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T04:48:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Help With Choosing Hardware [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-10T08:00:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Reset lended for day 6",
         "url": "https://www.reddit.com/r/codex/comments/1x2roma/reset_lended_for_day_6/",
         "source": "r/codex",
@@ -144,105 +241,6 @@
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-10-10T18:31:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "The man is smooth. We’re not ready for fake videos",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x2eq0n/the_man_is_smooth_were_not_ready_for_fake_videos/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T12:59:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/emp4bGk0NjgxbnVoMb8Q9mZwl4c8ZIk9K6uD_EulQRBgEgpbU5WAcGuh4yc0.jpeg?width=640&crop=smart&auto=webp&s=435b448ec71327e29b520a7198dcc18bd5ee96cd"
-      },
-      {
-        "rank": 2,
-        "title": "First, they came for the call centers...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x2fcws/first_they_came_for_the_call_centers/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T13:29:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2dfquwqj6nuh1.png?width=640&crop=smart&auto=webp&s=9bc7a7f8da8e0747380e312d612c4e107e57bf50"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI is sorry",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x2hntn/openai_is_sorry/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T15:11:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cGIxZ2FyeWtvbnVoMTPCi3eQrTl7GsBgCt0Wqh3_bMcR9AqOKOvNCzXiGTvM.png?width=640&crop=smart&auto=webp&s=5de29d4ea7e0cb89bb795f736f2b359b9d0b4d7d"
-      },
-      {
-        "rank": 4,
-        "title": "Will OpenAI follow? Banning users for abusing the bot.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x28wvd/will_openai_follow_banning_users_for_abusing_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T07:17:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/60pb2196cluh1.jpeg?width=640&crop=smart&auto=webp&s=973fbbf373c79e0bab387a298d27f8729331a84d"
-      },
-      {
-        "rank": 5,
-        "title": "Ultrafast, after \"almost doubling the speed\" and \"50% faster\" announcements",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x1u6b9/ultrafast_after_almost_doubling_the_speed_and_50/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-09T19:13:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1p0rqc3xphuh1.png?width=140&height=117&auto=webp&s=452945d1153c3a5ab45c8b17960ad0172a2d7bb3"
-      },
-      {
-        "rank": 1,
-        "title": "Introducing Microsoft-Decision-1, our model for fast decision-making",
-        "url": "https://www.reddit.com/r/singularity/comments/1x1z0um/introducing_microsoftdecision1_our_model_for_fast/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T22:32:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/TwoGjQ5kHkJYCNvmv4H1yYbW-JsU887SKuM7B9g7vUo.png?width=640&crop=smart&auto=webp&s=5ccbaa2e5e8bb79ebb1c6c56704419ef7a0cd10a"
-      },
-      {
-        "rank": 2,
-        "title": "AI Could Allow For 3-Day Workweeks And Single-Income Households, Bezos Claims",
-        "url": "https://www.reddit.com/r/singularity/comments/1x1vo9t/ai_could_allow_for_3day_workweeks_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T20:11:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/pSlekDww9c3w9MuDq6oPDon2n2KfJoRDAaEkm2qhnJc.jpeg?width=640&crop=smart&auto=webp&s=f34cb1420bec0b171e9f54ef657b2759a02b267b"
-      },
-      {
-        "rank": 3,
-        "title": "A startup built an 8,000-square-foot lab in just 30 days to test molecules proposed by AI, it can now measure how often they work in living organisms in about 72 hours",
-        "url": "https://www.reddit.com/r/singularity/comments/1x2812g/a_startup_built_an_8000squarefoot_lab_in_just_30/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-10T06:24:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/djFqMTQwOWoybHVoMdt6ouyfkuW2pt7HdKdrLlEqc42XsM0_6rLTak-YY6AH.png?width=640&crop=smart&auto=webp&s=488fb78fe5866db5a53a3c4b009c6a663cfe1ad3"
-      },
-      {
-        "rank": 4,
-        "title": "We've genuinely lost the plot",
-        "url": "https://www.reddit.com/r/singularity/comments/1x1xqkn/weve_genuinely_lost_the_plot/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-09T21:36:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lfrbqzwhgiuh1.jpeg?width=640&crop=smart&auto=webp&s=becebc6160dd7dc497f82a37db0b5d09717ef877"
-      },
-      {
-        "rank": 5,
-        "title": "A mathematician's perspective",
-        "url": "https://www.reddit.com/r/singularity/comments/1x22o0b/a_mathematicians_perspective/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-10T01:27:10.000Z",
         "category": "reddit"
       }
     ]

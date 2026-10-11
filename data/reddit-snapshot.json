@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T00:24:08.279Z",
+  "fetchedAt": "2026-10-11T06:16:06.398Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,11 +17,11 @@
       },
       {
         "rank": 2,
-        "title": "While everyone is building AI SAAS B2B services to get rich, I'm just happy to solve small computer annoyances I couldn't before",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x296ob/while_everyone_is_building_ai_saas_b2b_services/",
+        "title": "Vibe coded this skit with Claude. My wife doesn’t get it, but I know you guys will",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2k2t5/vibe_coded_this_skit_with_claude_my_wife_doesnt/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-10T07:34:39.000Z",
+        "publishedAt": "2026-10-10T16:52:44.000Z",
         "category": "reddit"
       },
       {
@@ -36,20 +36,20 @@
       },
       {
         "rank": 4,
-        "title": "Vibe coded this skit with Claude. My wife doesn’t get it, but I know you guys will",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2k2t5/vibe_coded_this_skit_with_claude_my_wife_doesnt/",
+        "title": "While everyone is building AI SAAS B2B services to get rich, I'm just happy to solve small computer annoyances I couldn't before",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x296ob/while_everyone_is_building_ai_saas_b2b_services/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-10T16:52:44.000Z",
+        "publishedAt": "2026-10-10T07:34:39.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "i f$cking love Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x27cev/i_fcking_love_claude/",
+        "title": "Can we please start building apps and systems to save humanity from scarcity and corruption, instead of endless video game clones and billions of repetitive SaaS apps??",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2srd4/can_we_please_start_building_apps_and_systems_to/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-10T05:43:48.000Z",
+        "publishedAt": "2026-10-10T23:09:40.000Z",
         "category": "reddit"
       },
       {
@@ -63,13 +63,12 @@
       },
       {
         "rank": 2,
-        "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
+        "title": "Has machine learning research gotten more \"wordy\"? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-10T04:02:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/awkqvjx9dkuh1.gif?width=320&crop=smart&s=ceac1642bcd55ed03533f05948500f0dffc82aa3"
+        "publishedAt": "2026-10-11T00:39:07.000Z",
+        "category": "reddit"
       },
       {
         "rank": 3,
@@ -83,11 +82,11 @@
       },
       {
         "rank": 4,
-        "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
+        "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-10T01:45:08.000Z",
+        "publishedAt": "2026-10-11T04:48:48.000Z",
         "category": "reddit"
       },
       {
@@ -120,29 +119,31 @@
       },
       {
         "rank": 3,
+        "title": "Nova?? (also, interesting numerical patterns in the card number)",
+        "url": "https://www.reddit.com/r/codex/comments/1x2v0gn/nova_also_interesting_numerical_patterns_in_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T01:01:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3n2gbfcolquh1.png?width=320&crop=smart&auto=webp&s=b568a80fc4ead177b3f38af3d838ef73f2fece79"
+      },
+      {
+        "rank": 4,
+        "title": "nice memory leak",
+        "url": "https://www.reddit.com/r/codex/comments/1x2u5rm/nice_memory_leak/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T00:18:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9lxcp9bndquh1.png?width=640&crop=smart&auto=webp&s=fde5776856b89cafb97ec5af729731008b5bf49d"
+      },
+      {
+        "rank": 5,
         "title": "28 days - I was hoping the stakes would be higher",
         "url": "https://www.reddit.com/r/codex/comments/1x2mgjh/28_days_i_was_hoping_the_stakes_would_be_higher/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-10-10T18:31:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Codex fell off a cliff after Astra, and Opus 5.5 made me question why I'm still paying for Pro",
-        "url": "https://www.reddit.com/r/codex/comments/1x2e2vm/codex_fell_off_a_cliff_after_astra_and_opus_55/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-10T12:26:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Astra this week.",
-        "url": "https://www.reddit.com/r/codex/comments/1x29cd5/astra_this_week/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-10T07:44:32.000Z",
         "category": "reddit"
       },
       {

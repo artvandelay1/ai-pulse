@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-10-11T18:22:48.550Z",
+  "fetchedAt": "2026-10-11T22:21:13.954Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Can we please start building apps and systems to save humanity from scarcity and corruption, instead of endless video game clones and billions of repetitive SaaS apps??",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2srd4/can_we_please_start_building_apps_and_systems_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-10T23:09:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "The day we can run Sonnet-level AI locally on a regular PC will be insane",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x35dqe/the_day_we_can_run_sonnetlevel_ai_locally_on_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T11:01:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "State of the AI wars right now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2wqf4/state_of_the_ai_wars_right_now/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T02:32:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/66bjwbi82ruh1.png?width=640&crop=smart&auto=webp&s=79a2df2216bd05e332ad32fab84249b0422eed81"
+      },
+      {
+        "rank": 4,
+        "title": "Claude saved my marriage. 😂💀",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x395p7/claude_saved_my_marriage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T14:09:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/renl2mmiiuuh1.png?width=640&crop=smart&auto=webp&s=d4ee176895f42fee1fc00e259053dec864f51007"
+      },
+      {
+        "rank": 5,
+        "title": "New Projects rolling out for Chat and Cowork, oh God Anthropic please don't",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x33na4/new_projects_rolling_out_for_chat_and_cowork_oh/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T09:16:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7ni0q85c2tuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d3cf80004e036a194cd529d1a83249093f71e17a"
+      },
       {
         "rank": 1,
         "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
@@ -25,6 +73,15 @@
       },
       {
         "rank": 3,
+        "title": "What's up with google scholar citations ? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T18:17:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
         "source": "r/MachineLearning",
@@ -33,7 +90,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
         "source": "r/MachineLearning",
@@ -42,13 +99,54 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "What are they planning for us",
+        "url": "https://www.reddit.com/r/codex/comments/1x303a0/what_are_they_planning_for_us/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-11T14:37:01.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-11T05:39:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nerimdfjzruh1.jpeg?width=640&crop=smart&auto=webp&s=b83062f2f1e86e8c8a797b69b0531f4fbb0d7ced"
+      },
+      {
+        "rank": 2,
+        "title": "They could let each user choose 5 hour limits with 2x, or not",
+        "url": "https://www.reddit.com/r/codex/comments/1x3e18e/they_could_let_each_user_choose_5_hour_limits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T17:27:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uej573i8hvuh1.png?width=640&crop=smart&auto=webp&s=3f2877c496930322d2816209bc249aa194d43537"
+      },
+      {
+        "rank": 3,
+        "title": "nice memory leak",
+        "url": "https://www.reddit.com/r/codex/comments/1x2u5rm/nice_memory_leak/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T00:18:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9lxcp9bndquh1.png?width=640&crop=smart&auto=webp&s=fde5776856b89cafb97ec5af729731008b5bf49d"
+      },
+      {
+        "rank": 4,
+        "title": "Nova?? (also, interesting numerical patterns in the card number)",
+        "url": "https://www.reddit.com/r/codex/comments/1x2v0gn/nova_also_interesting_numerical_patterns_in_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T01:01:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3n2gbfcolquh1.png?width=320&crop=smart&auto=webp&s=b568a80fc4ead177b3f38af3d838ef73f2fece79"
+      },
+      {
+        "rank": 5,
+        "title": "Dot is on a break",
+        "url": "https://www.reddit.com/r/codex/comments/1x36500/dot_is_on_a_break/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T11:44:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2yf2x2yostuh1.jpeg?width=640&crop=smart&auto=webp&s=32656ce9632dd96788a8f0580cae2066a6916673"
       },
       {
         "rank": 1,
@@ -146,101 +244,6 @@
         "publishedAt": "2026-10-11T15:04:28.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/_3wbjBT169S-DfQ7h9l7aPKwasNgY5X-J2CZHE2lL7Q.jpeg?width=640&crop=smart&auto=webp&s=0696ba785dd2f8bab3718b52b4295683586dcdfb"
-      },
-      {
-        "rank": 1,
-        "title": "I'm a 9th grader and I used Claude to prove a geometry conjecture: the rhombicosidodecahedron can't pass through a copy of itself",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2eybb/im_a_9th_grader_and_i_used_claude_to_prove_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T13:10:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zmx8kb233nuh1.gif?frame=1&width=140&height=140&auto=webp&s=606c8195d6aa8078ac8aa593d94f6f38fd821e23"
-      },
-      {
-        "rank": 2,
-        "title": "Vibe coded this skit with Claude. My wife doesn’t get it, but I know you guys will",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2k2t5/vibe_coded_this_skit_with_claude_my_wife_doesnt/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T16:52:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I made my Claude Code sub-agents a video call. Weirdly, it’s the best way I’ve found to follow what they’re doing.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2f59x/i_made_my_claude_code_subagents_a_video_call/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T13:19:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cGszbzh0dGc0bnVoMfh6PTEEZJCV4cbOaWofIU6B9vQTZ1dSGBvI6-76s6zr.png?width=640&crop=smart&auto=webp&s=d5214bbc060d6e3224a06e1091cde201c230d51e"
-      },
-      {
-        "rank": 4,
-        "title": "While everyone is building AI SAAS B2B services to get rich, I'm just happy to solve small computer annoyances I couldn't before",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x296ob/while_everyone_is_building_ai_saas_b2b_services/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T07:34:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Can we please start building apps and systems to save humanity from scarcity and corruption, instead of endless video game clones and billions of repetitive SaaS apps??",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2srd4/can_we_please_start_building_apps_and_systems_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T23:09:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Reset lended for day 6",
-        "url": "https://www.reddit.com/r/codex/comments/1x2roma/reset_lended_for_day_6/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-10T22:18:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/amgv5x2uspuh1.jpeg?width=640&crop=smart&auto=webp&s=5b47bb405ee70c9e3e943c5950c3d56d0b8b5501"
-      },
-      {
-        "rank": 2,
-        "title": "Dots is the next Sora",
-        "url": "https://www.reddit.com/r/codex/comments/1x2d5fi/dots_is_the_next_sora/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-10T11:37:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Nova?? (also, interesting numerical patterns in the card number)",
-        "url": "https://www.reddit.com/r/codex/comments/1x2v0gn/nova_also_interesting_numerical_patterns_in_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T01:01:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3n2gbfcolquh1.png?width=320&crop=smart&auto=webp&s=b568a80fc4ead177b3f38af3d838ef73f2fece79"
-      },
-      {
-        "rank": 4,
-        "title": "nice memory leak",
-        "url": "https://www.reddit.com/r/codex/comments/1x2u5rm/nice_memory_leak/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T00:18:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9lxcp9bndquh1.png?width=640&crop=smart&auto=webp&s=fde5776856b89cafb97ec5af729731008b5bf49d"
-      },
-      {
-        "rank": 5,
-        "title": "28 days - I was hoping the stakes would be higher",
-        "url": "https://www.reddit.com/r/codex/comments/1x2mgjh/28_days_i_was_hoping_the_stakes_would_be_higher/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-10T18:31:45.000Z",
-        "category": "reddit"
       }
     ]
   }

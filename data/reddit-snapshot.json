@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-10-12T01:38:11.276Z",
+  "fetchedAt": "2026-10-12T08:53:42.078Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T13:51:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "What's up with google scholar citations ? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T18:17:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T14:37:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How's ICLR reviewing going for you? Any observations? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-12T07:22:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T14:39:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Thank god",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x3d4z1/thank_god/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T16:52:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7k83wzkkbvuh1.jpeg?width=640&crop=smart&auto=webp&s=1671f9922a3a785b99709ab68c435ae5a51a04ff"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI's unreleased model solved most of the math problems from a single prompt. It did not even exist before the end of August. Each problem used ~3 hours of thinking.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x3ecz4/openais_unreleased_model_solved_most_of_the_math/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T17:40:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2dxxea56kvuh1.png?width=640&crop=smart&auto=webp&s=2b01de730ebd29caa5c177a71ef5d941a9edcff8"
+      },
+      {
+        "rank": 3,
+        "title": "$/M tokens is stupid",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x3i9vi/m_tokens_is_stupid/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T20:14:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2X3kP_byVu6DH-KZIL3cwmcpOmTCmh6bZ_ZBU135jn4.jpeg?width=640&crop=smart&auto=webp&s=0772b8c98044da6fb5b70673b576cd4164e616e1"
+      },
+      {
+        "rank": 4,
+        "title": "Why do some people with ADHD find AI tools so useful?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x3san4/why_do_some_people_with_adhd_find_ai_tools_so/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T04:18:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Usage resets...",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x35it8/usage_resets/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T11:09:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Shock and awe — Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next",
+        "url": "https://www.reddit.com/r/singularity/comments/1x3daf9/shock_and_awe_creator_of_free_adobe_clones/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-11T16:58:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885"
+      },
+      {
+        "rank": 2,
+        "title": "Does this still works for bots or is it over?",
+        "url": "https://www.reddit.com/r/singularity/comments/1x3d76y/does_this_still_works_for_bots_or_is_it_over/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-11T16:54:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xzl31cbybvuh1.png?width=640&crop=smart&auto=webp&s=79beb557e58a149341d9d00a0576a06aab572d37"
+      },
+      {
+        "rank": 3,
+        "title": "Andrej Karpathy breaks down the capability gap",
+        "url": "https://www.reddit.com/r/singularity/comments/1x3gsc4/andrej_karpathy_breaks_down_the_capability_gap/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-11T19:15:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ojhmtqey0wuh1.png?width=320&crop=smart&auto=webp&s=8d85285d6559c4dc9e8e8a7b0cd7f469bea9b4f4"
+      },
+      {
+        "rank": 4,
+        "title": "GTA 5, Modern Warfare 2, Halo, and many other games have been ported to browser thanks to the power of AI reverse-engineering",
+        "url": "https://www.reddit.com/r/singularity/comments/1x38qz0/gta_5_modern_warfare_2_halo_and_many_other_games/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-11T13:51:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Qgj1nBsr2yBfO8L7giNOyTK2GZGr9Tc-VX1XcgelPzc.jpeg?width=640&crop=smart&auto=webp&s=92ccc6dfcb94a5b8b62e2fb04947149ff9855da4"
+      },
+      {
+        "rank": 5,
+        "title": "Why I want fast AI takeoff: I’m fucking tired of the present",
+        "url": "https://www.reddit.com/r/singularity/comments/1x3hyc4/why_i_want_fast_ai_takeoff_im_fucking_tired_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-11T20:01:52.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "The day we can run Sonnet-level AI locally on a regular PC will be insane",
@@ -56,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T13:51:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "What's up with google scholar citations ? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T18:17:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T14:39:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T14:37:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T04:48:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "They could let each user choose 5 hour limits with 2x, or not",
         "url": "https://www.reddit.com/r/codex/comments/1x3e18e/they_could_let_each_user_choose_5_hour_limits/",
         "source": "r/codex",
@@ -147,103 +244,6 @@
         "score": 0,
         "publishedAt": "2026-10-11T15:56:53.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Fields Medalist on the OpenAI Math Release",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x2rufy/fields_medalist_on_the_openai_math_release/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T22:25:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "An Honest Day’s Work",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x3bgv9/an_honest_days_work/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T15:45:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MTk5NXZlbW96dXVoMRBHh0xZjR_Ch-5zInWvJO5mUhznAzDe_T_N6ihnMIT4.jpeg?width=640&crop=smart&auto=webp&s=29ce654954f4399a7a8e6905ae07a518055a1847"
-      },
-      {
-        "rank": 3,
-        "title": "“ITS NEVER OKAY TO USE AI” *Uses AI* 😭😭",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x2xmql/its_never_okay_to_use_ai_uses_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T03:19:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/84mj8sgoaruh1.jpeg?width=640&crop=smart&auto=webp&s=dc4cef3c8a13fdf189451260daa2b92751c3f1be"
-      },
-      {
-        "rank": 4,
-        "title": "Thank god",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x3d4z1/thank_god/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T16:52:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7k83wzkkbvuh1.jpeg?width=640&crop=smart&auto=webp&s=1671f9922a3a785b99709ab68c435ae5a51a04ff"
-      },
-      {
-        "rank": 5,
-        "title": "Reset is coming your way!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x2rykk/reset_is_coming_your_way/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T22:31:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "GTA 5, Modern Warfare 2, Halo, and many other games have been ported to browser thanks to the power of AI reverse-engineering",
-        "url": "https://www.reddit.com/r/singularity/comments/1x38qz0/gta_5_modern_warfare_2_halo_and_many_other_games/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-11T13:51:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Qgj1nBsr2yBfO8L7giNOyTK2GZGr9Tc-VX1XcgelPzc.jpeg?width=640&crop=smart&auto=webp&s=92ccc6dfcb94a5b8b62e2fb04947149ff9855da4"
-      },
-      {
-        "rank": 2,
-        "title": "We should stop defending jobs and start planning for a world without them",
-        "url": "https://www.reddit.com/r/singularity/comments/1x2q7sf/we_should_stop_defending_jobs_and_start_planning/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-10T21:11:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Shock and awe — Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next",
-        "url": "https://www.reddit.com/r/singularity/comments/1x3daf9/shock_and_awe_creator_of_free_adobe_clones/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-11T16:58:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885"
-      },
-      {
-        "rank": 4,
-        "title": "Qualcomm CEO: Frontier AI Companies Want Phones Running 100-Billion-Parameter Models Continuously by 2028 — Some Are Already Building Their Own",
-        "url": "https://www.reddit.com/r/singularity/comments/1x2z573/qualcomm_ceo_frontier_ai_companies_want_phones/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-11T04:44:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YmwyOW9qZW9wcnVoMcIIlfNErlBlWXO_ZYssbWkOTaI6bVpm1_icSfMSzZ36.png?width=640&crop=smart&auto=webp&s=b5b0511a4933f38bb9c21c7637b6661c984a0982"
-      },
-      {
-        "rank": 5,
-        "title": "Shock and awe — Solo developer rebuilds Adobe Creative Suite in Rust using Claude, releases it free to all — targets 100% parity in one month despite piracy claims and safety warnings",
-        "url": "https://www.reddit.com/r/singularity/comments/1x3agvw/shock_and_awe_solo_developer_rebuilds_adobe/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-11T15:04:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_3wbjBT169S-DfQ7h9l7aPKwasNgY5X-J2CZHE2lL7Q.jpeg?width=640&crop=smart&auto=webp&s=0696ba785dd2f8bab3718b52b4295683586dcdfb"
       }
     ]
   }

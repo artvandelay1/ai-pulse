@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T22:21:13.954Z",
+  "fetchedAt": "2026-10-12T01:38:11.276Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Can we please start building apps and systems to save humanity from scarcity and corruption, instead of endless video game clones and billions of repetitive SaaS apps??",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2srd4/can_we_please_start_building_apps_and_systems_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-10T23:09:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "The day we can run Sonnet-level AI locally on a regular PC will be insane",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x35dqe/the_day_we_can_run_sonnetlevel_ai_locally_on_a/",
         "source": "r/ClaudeAI",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "State of the AI wars right now",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2wqf4/state_of_the_ai_wars_right_now/",
         "source": "r/ClaudeAI",
@@ -34,7 +25,7 @@
         "thumbnail": "https://preview.redd.it/66bjwbi82ruh1.png?width=640&crop=smart&auto=webp&s=79a2df2216bd05e332ad32fab84249b0422eed81"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Claude saved my marriage. 😂💀",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x395p7/claude_saved_my_marriage/",
         "source": "r/ClaudeAI",
@@ -44,7 +35,7 @@
         "thumbnail": "https://preview.redd.it/renl2mmiiuuh1.png?width=640&crop=smart&auto=webp&s=d4ee176895f42fee1fc00e259053dec864f51007"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "New Projects rolling out for Chat and Cowork, oh God Anthropic please don't",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x33na4/new_projects_rolling_out_for_chat_and_cowork_oh/",
         "source": "r/ClaudeAI",
@@ -52,6 +43,16 @@
         "publishedAt": "2026-10-11T09:16:48.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7ni0q85c2tuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d3cf80004e036a194cd529d1a83249093f71e17a"
+      },
+      {
+        "rank": 5,
+        "title": "Claude and I built a 'video' format so Claude (and other LLMs) could 'watch' videos!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x39bpi/claude_and_i_built_a_video_format_so_claude_and/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-11T14:16:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NKiVYnW_UGgK5RczwGq7P3zNSFjBdnYB7_a1mFUbLaU.png?width=640&crop=smart&auto=webp&s=b086432ca147e0192eaee6b5441faf6a5333e9d9"
       },
       {
         "rank": 1,
@@ -64,15 +65,6 @@
       },
       {
         "rank": 2,
-        "title": "Has machine learning research gotten more \"wordy\"? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T00:39:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "What's up with google scholar citations ? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
         "source": "r/MachineLearning",
@@ -81,12 +73,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-11T14:39:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-11T14:37:01.000Z",
         "category": "reddit"
       },
       {
@@ -100,16 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "What are they planning for us",
-        "url": "https://www.reddit.com/r/codex/comments/1x303a0/what_are_they_planning_for_us/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T05:39:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nerimdfjzruh1.jpeg?width=640&crop=smart&auto=webp&s=b83062f2f1e86e8c8a797b69b0531f4fbb0d7ced"
-      },
-      {
-        "rank": 2,
         "title": "They could let each user choose 5 hour limits with 2x, or not",
         "url": "https://www.reddit.com/r/codex/comments/1x3e18e/they_could_let_each_user_choose_5_hour_limits/",
         "source": "r/codex",
@@ -119,27 +110,27 @@
         "thumbnail": "https://preview.redd.it/uej573i8hvuh1.png?width=640&crop=smart&auto=webp&s=3f2877c496930322d2816209bc249aa194d43537"
       },
       {
-        "rank": 3,
-        "title": "nice memory leak",
-        "url": "https://www.reddit.com/r/codex/comments/1x2u5rm/nice_memory_leak/",
+        "rank": 2,
+        "title": "What are they planning for us",
+        "url": "https://www.reddit.com/r/codex/comments/1x303a0/what_are_they_planning_for_us/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-11T00:18:15.000Z",
+        "publishedAt": "2026-10-11T05:39:21.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9lxcp9bndquh1.png?width=640&crop=smart&auto=webp&s=fde5776856b89cafb97ec5af729731008b5bf49d"
+        "thumbnail": "https://preview.redd.it/nerimdfjzruh1.jpeg?width=640&crop=smart&auto=webp&s=b83062f2f1e86e8c8a797b69b0531f4fbb0d7ced"
+      },
+      {
+        "rank": 3,
+        "title": "Day 7 - tibo",
+        "url": "https://www.reddit.com/r/codex/comments/1x3n28b/day_7_tibo/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T23:47:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cslfetuqdxuh1.jpeg?width=640&crop=smart&auto=webp&s=f89e52f38bd7351dfa484a1b0b05130b79621994"
       },
       {
         "rank": 4,
-        "title": "Nova?? (also, interesting numerical patterns in the card number)",
-        "url": "https://www.reddit.com/r/codex/comments/1x2v0gn/nova_also_interesting_numerical_patterns_in_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T01:01:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3n2gbfcolquh1.png?width=320&crop=smart&auto=webp&s=b568a80fc4ead177b3f38af3d838ef73f2fece79"
-      },
-      {
-        "rank": 5,
         "title": "Dot is on a break",
         "url": "https://www.reddit.com/r/codex/comments/1x36500/dot_is_on_a_break/",
         "source": "r/codex",
@@ -147,6 +138,15 @@
         "publishedAt": "2026-10-11T11:44:31.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/2yf2x2yostuh1.jpeg?width=640&crop=smart&auto=webp&s=32656ce9632dd96788a8f0580cae2066a6916673"
+      },
+      {
+        "rank": 5,
+        "title": "This is slow mode and it's quite the marketing genius",
+        "url": "https://www.reddit.com/r/codex/comments/1x3bqs0/this_is_slow_mode_and_its_quite_the_marketing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-11T15:56:53.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T08:53:42.078Z",
+  "fetchedAt": "2026-10-12T18:48:47.491Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,33 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T13:51:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "What's up with google scholar citations ? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T18:17:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-11T14:37:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "How's ICLR reviewing going for you? Any observations? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
         "source": "r/MachineLearning",
@@ -42,36 +15,82 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
+        "rank": 2,
+        "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-11T14:39:01.000Z",
+        "publishedAt": "2026-10-12T15:10:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-12T07:46:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Compressed a RoBERTa AI-text detector from ~500 MB to ~97 MB so it runs client-side in the browser, plus a 26 MB image detector [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vqip/compressed_a_roberta_aitext_detector_from_500_mb/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-12T07:44:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-12T07:33:46.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Thank god",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x3d4z1/thank_god/",
+        "title": "How did encountering \"superintelligence\" go for other species?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x457ja/how_did_encountering_superintelligence_go_for/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-11T16:52:06.000Z",
+        "publishedAt": "2026-10-12T15:40:50.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7k83wzkkbvuh1.jpeg?width=640&crop=smart&auto=webp&s=1671f9922a3a785b99709ab68c435ae5a51a04ff"
+        "thumbnail": "https://preview.redd.it/0f0b2zgq32vh1.png?width=640&crop=smart&auto=webp&s=06b83ee880418620c3ee309f79be70ce541496b3"
       },
       {
         "rank": 2,
-        "title": "OpenAI's unreleased model solved most of the math problems from a single prompt. It did not even exist before the end of August. Each problem used ~3 hours of thinking.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x3ecz4/openais_unreleased_model_solved_most_of_the_math/",
+        "title": "Yet Another Literary Prizewinner Seems to Be AI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x40004/yet_another_literary_prizewinner_seems_to_be_ai/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-11T17:40:27.000Z",
+        "publishedAt": "2026-10-12T12:01:36.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2dxxea56kvuh1.png?width=640&crop=smart&auto=webp&s=2b01de730ebd29caa5c177a71ef5d941a9edcff8"
+        "thumbnail": "https://external-preview.redd.it/BN_V9GMGIEGA4UP5jIwihHygWUnEhQILyVOg5GBOrvM.jpeg?width=640&crop=smart&auto=webp&s=b7d9c7c6d663bc8afc4e7f0ae68cadedfdc14034"
       },
       {
         "rank": 3,
+        "title": "OpenAI Ads - warning",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x3xud7/openai_ads_warning/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T10:00:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude took my money, asked for my government ID and then blocked me when I refused",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x42q44/claude_took_my_money_asked_for_my_government_id/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T14:03:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2mzljk1fm1vh1.png?width=640&crop=smart&auto=webp&s=961791db1cdec2fefea2f0b1f443708e3eec4c08"
+      },
+      {
+        "rank": 5,
         "title": "$/M tokens is stupid",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x3i9vi/m_tokens_is_stupid/",
         "source": "r/OpenAI",
@@ -81,45 +100,7 @@
         "thumbnail": "https://external-preview.redd.it/2X3kP_byVu6DH-KZIL3cwmcpOmTCmh6bZ_ZBU135jn4.jpeg?width=640&crop=smart&auto=webp&s=0772b8c98044da6fb5b70673b576cd4164e616e1"
       },
       {
-        "rank": 4,
-        "title": "Why do some people with ADHD find AI tools so useful?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x3san4/why_do_some_people_with_adhd_find_ai_tools_so/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T04:18:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Usage resets...",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x35it8/usage_resets/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T11:09:36.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "Shock and awe — Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next",
-        "url": "https://www.reddit.com/r/singularity/comments/1x3daf9/shock_and_awe_creator_of_free_adobe_clones/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-11T16:58:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885"
-      },
-      {
-        "rank": 2,
-        "title": "Does this still works for bots or is it over?",
-        "url": "https://www.reddit.com/r/singularity/comments/1x3d76y/does_this_still_works_for_bots_or_is_it_over/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-11T16:54:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xzl31cbybvuh1.png?width=640&crop=smart&auto=webp&s=79beb557e58a149341d9d00a0576a06aab572d37"
-      },
-      {
-        "rank": 3,
         "title": "Andrej Karpathy breaks down the capability gap",
         "url": "https://www.reddit.com/r/singularity/comments/1x3gsc4/andrej_karpathy_breaks_down_the_capability_gap/",
         "source": "r/singularity",
@@ -129,14 +110,34 @@
         "thumbnail": "https://preview.redd.it/ojhmtqey0wuh1.png?width=320&crop=smart&auto=webp&s=8d85285d6559c4dc9e8e8a7b0cd7f469bea9b4f4"
       },
       {
-        "rank": 4,
-        "title": "GTA 5, Modern Warfare 2, Halo, and many other games have been ported to browser thanks to the power of AI reverse-engineering",
-        "url": "https://www.reddit.com/r/singularity/comments/1x38qz0/gta_5_modern_warfare_2_halo_and_many_other_games/",
+        "rank": 2,
+        "title": "Google DeepMind’s AI weather model picked up Hurricane Isaias 11 days before landfall, pinned where it would hit 4 days out and nailed its peak strength 3 days out—potentially giving communities days more time to evacuate and prepare",
+        "url": "https://www.reddit.com/r/singularity/comments/1x3unnr/google_deepminds_ai_weather_model_picked_up/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-11T13:51:55.000Z",
+        "publishedAt": "2026-10-12T06:37:32.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Qgj1nBsr2yBfO8L7giNOyTK2GZGr9Tc-VX1XcgelPzc.jpeg?width=640&crop=smart&auto=webp&s=92ccc6dfcb94a5b8b62e2fb04947149ff9855da4"
+        "thumbnail": "https://preview.redd.it/fdohz13uezuh1.jpeg?width=640&crop=smart&auto=webp&s=2805e9b01ea83ec68bbc768380d73df9117d02c7"
+      },
+      {
+        "rank": 3,
+        "title": "Linus Torvalds Used AI To Make Code Decipherable & Uncovered More Bugs",
+        "url": "https://www.reddit.com/r/singularity/comments/1x3yeti/linus_torvalds_used_ai_to_make_code_decipherable/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-12T10:34:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/zqyf_5Q3V37Vc1TEIOtKwSbvYpf_VbIPSBab6IpbUP8.jpeg?width=640&crop=smart&auto=webp&s=8fca6caa0f400326164d513a9ccbc65e8ade23c7"
+      },
+      {
+        "rank": 4,
+        "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+        "url": "https://www.reddit.com/r/singularity/comments/1x3vgi7/linus_torvalds_working_on_a_hefty_linux_kernel/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-12T07:26:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ThaZPjEwWB8QjuzmPWqTPH9f1Fv_jGmzEYdsu6fxWsA.jpeg?width=640&crop=smart&auto=webp&s=5fe0ffa04e7cf5c40764237e358f697452d3b197"
       },
       {
         "rank": 5,

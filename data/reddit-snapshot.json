@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-10-13T08:16:43.627Z",
+  "fetchedAt": "2026-10-13T16:20:11.353Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Someone used Claude to get a years-old pothole fixed in two days",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4s9hp/someone_used_claude_to_get_a_yearsold_pothole/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T09:41:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z29pM3g0a2FnN3ZoMQet90s3UC1Fq_vNZKG7f64Pw2CPIfgEDwT6Fzblr5iO.png?width=640&crop=smart&auto=webp&s=c8d467d92574c8f59d181b46a222d8185d2b934e"
+      },
+      {
+        "rank": 2,
+        "title": "Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T17:38:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/agFVI7wt3KizZJd9B4G3tcRWUjnChH0L-7c1NqT0cro.jpeg?width=640&crop=smart&auto=webp&s=528f570e328e852792457a3c25e007df9878d306"
+      },
+      {
+        "rank": 3,
+        "title": "5hr limit now bumped to 24hr?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T19:45:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ik689zd8b3vh1.png?width=640&crop=smart&auto=webp&s=96e01452d283bb042345ec436f644326440eba1b"
+      },
+      {
+        "rank": 4,
+        "title": "My Opus said reverse engineering does not work??",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4lwud/my_opus_said_reverse_engineering_does_not_work/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T03:15:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Does Claude Code find new bugs every time you ask it to review your code",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4ssct/does_claude_code_find_new_bugs_every_time_you_ask/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T10:13:14.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
@@ -26,15 +74,25 @@
       },
       {
         "rank": 3,
-        "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
+        "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-12T15:10:34.000Z",
+        "publishedAt": "2026-10-13T15:47:53.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
+        "title": "Machine Learning Tutorial/Workshop [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-13T07:34:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qxz4umcwt6vh1.png?width=640&crop=smart&auto=webp&s=817a9d162acb6b1134d9e799a652f55bfcbace73"
+      },
+      {
+        "rank": 5,
         "title": "Is an MS a soft requirement for Research Engineer / Post-Training roles? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x4lvn8/is_an_ms_a_soft_requirement_for_research_engineer/",
         "source": "r/MachineLearning",
@@ -43,14 +101,53 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Tobo said extra usage?",
+        "url": "https://www.reddit.com/r/codex/comments/1x4p9tx/tobo_said_extra_usage/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-12T20:51:32.000Z",
+        "publishedAt": "2026-10-13T06:25:19.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/d5jdyotkm3vh1.png?width=140&height=58&auto=webp&s=30f2dac67b94fedef1fdad3c98f01c4ac9261214"
+        "thumbnail": "https://preview.redd.it/gsgit2bkh6vh1.jpeg?width=640&crop=smart&auto=webp&s=a3680203da74e574d00a50a2d4340dd564f90d38"
+      },
+      {
+        "rank": 2,
+        "title": "Day 8: Reset",
+        "url": "https://www.reddit.com/r/codex/comments/1x4je5m/day_8_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T01:10:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e3btlgx4x4vh1.png?width=140&height=34&auto=webp&s=d30680e8ca12cb31e9c1067d7edd0d304367f8bd"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6.1-sol is SLOOOWWWW",
+        "url": "https://www.reddit.com/r/codex/comments/1x4br68/gpt61sol_is_slooowwww/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-12T19:41:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Tibo has spoken, time to burn off your tokens by End Of Day today PST Time!",
+        "url": "https://www.reddit.com/r/codex/comments/1x4jdn2/tibo_has_spoken_time_to_burn_off_your_tokens_by/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T01:09:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lx1epte4x4vh1.png?width=640&crop=smart&auto=webp&s=71d10472730b579fd6f992f7e6005cba3da8df1a"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo’s Poll",
+        "url": "https://www.reddit.com/r/codex/comments/1x48ljs/tibos_poll/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-12T17:45:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hl4txwg2q2vh1.jpeg?width=640&crop=smart&auto=webp&s=acf2fed74210c8f196e9cb895b1821faf57a0098"
       },
       {
         "rank": 1,
@@ -149,104 +246,6 @@
         "publishedAt": "2026-10-12T20:27:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4fagcw6ui3vh1.jpeg?width=640&crop=smart&auto=webp&s=fa78c4e1811f3b28d31dda4d17cedce7d07d2876"
-      },
-      {
-        "rank": 1,
-        "title": "Damage control (by @CaptainInsightX)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4662c/damage_control_by_captaininsightx/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T16:16:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qb8pi0kq92vh1.jpeg?width=640&crop=smart&auto=webp&s=fc91d2166e0924e30c2c95d690ad21013148a39f"
-      },
-      {
-        "rank": 2,
-        "title": "Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T17:38:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/agFVI7wt3KizZJd9B4G3tcRWUjnChH0L-7c1NqT0cro.jpeg?width=640&crop=smart&auto=webp&s=528f570e328e852792457a3c25e007df9878d306"
-      },
-      {
-        "rank": 3,
-        "title": "While I was vibe-coding with Opus 5.5 this morning...",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3y0ot/while_i_was_vibecoding_with_opus_55_this_morning/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T10:10:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Week 11 of making my fishing game with the help of AI",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3ttzl/week_11_of_making_my_fishing_game_with_the_help/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T05:47:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aGpkc3Q2M2s1enVoMYAVgmsKkm2RA0F9JhMf12eBPJnk5nTHngF6lItyYNiz.png?width=640&crop=smart&auto=webp&s=b58353c13a2ccd0540b015bff829533736032640"
-      },
-      {
-        "rank": 5,
-        "title": "5hr limit now bumped to 24hr?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T19:45:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ik689zd8b3vh1.png?width=640&crop=smart&auto=webp&s=96e01452d283bb042345ec436f644326440eba1b"
-      },
-      {
-        "rank": 1,
-        "title": "It took two weeks for them to go back on their word.",
-        "url": "https://www.reddit.com/r/codex/comments/1x467hb/it_took_two_weeks_for_them_to_go_back_on_their/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-12T16:17:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5u63yom2a2vh1.png?width=140&height=100&auto=webp&s=e4acb3ce0b6a0aeb439b000790a7d88eff29fcbe"
-      },
-      {
-        "rank": 2,
-        "title": "New context is working so well 😆",
-        "url": "https://www.reddit.com/r/codex/comments/1x3z3rb/new_context_is_working_so_well/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-12T11:13:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xb5q4nzlr0vh1.png?width=640&crop=smart&auto=webp&s=e9aa3a6ea6e393ec7f748b3a5b61e86c71e99b3b"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6.1-sol is SLOOOWWWW",
-        "url": "https://www.reddit.com/r/codex/comments/1x4br68/gpt61sol_is_slooowwww/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-12T19:41:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Tibo’s Poll",
-        "url": "https://www.reddit.com/r/codex/comments/1x48ljs/tibos_poll/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-12T17:45:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hl4txwg2q2vh1.jpeg?width=640&crop=smart&auto=webp&s=acf2fed74210c8f196e9cb895b1821faf57a0098"
-      },
-      {
-        "rank": 5,
-        "title": "This is a new release from Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1x45cci/this_is_a_new_release_from_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-12T15:45:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gjuiqhhn42vh1.jpeg?width=640&crop=smart&auto=webp&s=202f70708df8bd48ee01445f22aa65ec08fd51b7"
       }
     ]
   }

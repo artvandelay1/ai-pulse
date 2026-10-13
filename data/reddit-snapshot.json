@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T18:48:47.491Z",
+  "fetchedAt": "2026-10-13T01:12:09.135Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,64 @@
     "items": [
       {
         "rank": 1,
+        "title": "Damage control (by @CaptainInsightX)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4662c/damage_control_by_captaininsightx/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T16:16:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qb8pi0kq92vh1.jpeg?width=640&crop=smart&auto=webp&s=fc91d2166e0924e30c2c95d690ad21013148a39f"
+      },
+      {
+        "rank": 2,
+        "title": "Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T17:38:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/agFVI7wt3KizZJd9B4G3tcRWUjnChH0L-7c1NqT0cro.jpeg?width=640&crop=smart&auto=webp&s=528f570e328e852792457a3c25e007df9878d306"
+      },
+      {
+        "rank": 3,
+        "title": "While I was vibe-coding with Opus 5.5 this morning...",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3y0ot/while_i_was_vibecoding_with_opus_55_this_morning/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T10:10:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Week 11 of making my fishing game with the help of AI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x3ttzl/week_11_of_making_my_fishing_game_with_the_help/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T05:47:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/aGpkc3Q2M2s1enVoMYAVgmsKkm2RA0F9JhMf12eBPJnk5nTHngF6lItyYNiz.png?width=640&crop=smart&auto=webp&s=b58353c13a2ccd0540b015bff829533736032640"
+      },
+      {
+        "rank": 5,
+        "title": "5hr limit now bumped to 24hr?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-12T19:45:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ik689zd8b3vh1.png?width=640&crop=smart&auto=webp&s=96e01452d283bb042345ec436f644326440eba1b"
+      },
+      {
+        "rank": 1,
+        "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x4awlk/what_is_the_strongest_mechanistic_argument_that/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-12T19:09:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "How's ICLR reviewing going for you? Any observations? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
         "source": "r/MachineLearning",
@@ -15,7 +73,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
         "source": "r/MachineLearning",
@@ -24,7 +82,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
         "source": "r/MachineLearning",
@@ -33,22 +91,63 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Compressed a RoBERTa AI-text detector from ~500 MB to ~97 MB so it runs client-side in the browser, plus a 26 MB image detector [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vqip/compressed_a_roberta_aitext_detector_from_500_mb/",
+        "rank": 5,
+        "title": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-12T07:44:49.000Z",
+        "publishedAt": "2026-10-12T20:51:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/d5jdyotkm3vh1.png?width=140&height=58&auto=webp&s=30f2dac67b94fedef1fdad3c98f01c4ac9261214"
+      },
+      {
+        "rank": 1,
+        "title": "It took two weeks for them to go back on their word.",
+        "url": "https://www.reddit.com/r/codex/comments/1x467hb/it_took_two_weeks_for_them_to_go_back_on_their/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-12T16:17:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5u63yom2a2vh1.png?width=140&height=100&auto=webp&s=e4acb3ce0b6a0aeb439b000790a7d88eff29fcbe"
+      },
+      {
+        "rank": 2,
+        "title": "New context is working so well 😆",
+        "url": "https://www.reddit.com/r/codex/comments/1x3z3rb/new_context_is_working_so_well/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-12T11:13:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xb5q4nzlr0vh1.png?width=640&crop=smart&auto=webp&s=e9aa3a6ea6e393ec7f748b3a5b61e86c71e99b3b"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6.1-sol is SLOOOWWWW",
+        "url": "https://www.reddit.com/r/codex/comments/1x4br68/gpt61sol_is_slooowwww/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-12T19:41:25.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
-        "source": "r/MachineLearning",
+        "rank": 4,
+        "title": "Tibo’s Poll",
+        "url": "https://www.reddit.com/r/codex/comments/1x48ljs/tibos_poll/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-12T07:33:46.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-12T17:45:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hl4txwg2q2vh1.jpeg?width=640&crop=smart&auto=webp&s=acf2fed74210c8f196e9cb895b1821faf57a0098"
+      },
+      {
+        "rank": 5,
+        "title": "This is a new release from Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1x45cci/this_is_a_new_release_from_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-12T15:45:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gjuiqhhn42vh1.jpeg?width=640&crop=smart&auto=webp&s=202f70708df8bd48ee01445f22aa65ec08fd51b7"
       },
       {
         "rank": 1,
@@ -146,104 +245,6 @@
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-10-11T20:01:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "The day we can run Sonnet-level AI locally on a regular PC will be insane",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x35dqe/the_day_we_can_run_sonnetlevel_ai_locally_on_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T11:01:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "State of the AI wars right now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x2wqf4/state_of_the_ai_wars_right_now/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T02:32:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/66bjwbi82ruh1.png?width=640&crop=smart&auto=webp&s=79a2df2216bd05e332ad32fab84249b0422eed81"
-      },
-      {
-        "rank": 3,
-        "title": "Claude saved my marriage. 😂💀",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x395p7/claude_saved_my_marriage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T14:09:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/renl2mmiiuuh1.png?width=640&crop=smart&auto=webp&s=d4ee176895f42fee1fc00e259053dec864f51007"
-      },
-      {
-        "rank": 4,
-        "title": "New Projects rolling out for Chat and Cowork, oh God Anthropic please don't",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x33na4/new_projects_rolling_out_for_chat_and_cowork_oh/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T09:16:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7ni0q85c2tuh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d3cf80004e036a194cd529d1a83249093f71e17a"
-      },
-      {
-        "rank": 5,
-        "title": "Claude and I built a 'video' format so Claude (and other LLMs) could 'watch' videos!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x39bpi/claude_and_i_built_a_video_format_so_claude_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-11T14:16:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NKiVYnW_UGgK5RczwGq7P3zNSFjBdnYB7_a1mFUbLaU.png?width=640&crop=smart&auto=webp&s=b086432ca147e0192eaee6b5441faf6a5333e9d9"
-      },
-      {
-        "rank": 1,
-        "title": "They could let each user choose 5 hour limits with 2x, or not",
-        "url": "https://www.reddit.com/r/codex/comments/1x3e18e/they_could_let_each_user_choose_5_hour_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T17:27:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uej573i8hvuh1.png?width=640&crop=smart&auto=webp&s=3f2877c496930322d2816209bc249aa194d43537"
-      },
-      {
-        "rank": 2,
-        "title": "What are they planning for us",
-        "url": "https://www.reddit.com/r/codex/comments/1x303a0/what_are_they_planning_for_us/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T05:39:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nerimdfjzruh1.jpeg?width=640&crop=smart&auto=webp&s=b83062f2f1e86e8c8a797b69b0531f4fbb0d7ced"
-      },
-      {
-        "rank": 3,
-        "title": "Day 7 - tibo",
-        "url": "https://www.reddit.com/r/codex/comments/1x3n28b/day_7_tibo/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T23:47:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cslfetuqdxuh1.jpeg?width=640&crop=smart&auto=webp&s=f89e52f38bd7351dfa484a1b0b05130b79621994"
-      },
-      {
-        "rank": 4,
-        "title": "Dot is on a break",
-        "url": "https://www.reddit.com/r/codex/comments/1x36500/dot_is_on_a_break/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T11:44:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2yf2x2yostuh1.jpeg?width=640&crop=smart&auto=webp&s=32656ce9632dd96788a8f0580cae2066a6916673"
-      },
-      {
-        "rank": 5,
-        "title": "This is slow mode and it's quite the marketing genius",
-        "url": "https://www.reddit.com/r/codex/comments/1x3bqs0/this_is_slow_mode_and_its_quite_the_marketing/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-11T15:56:53.000Z",
         "category": "reddit"
       }
     ]

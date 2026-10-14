@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-10-13T21:28:42.576Z",
+  "fetchedAt": "2026-10-14T00:34:12.005Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "We're cooked",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4zm61/were_cooked/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T15:25:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Someone used Claude to get a years-old pothole fixed in two days",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4s9hp/someone_used_claude_to_get_a_yearsold_pothole/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T09:41:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z29pM3g0a2FnN3ZoMQet90s3UC1Fq_vNZKG7f64Pw2CPIfgEDwT6Fzblr5iO.png?width=640&crop=smart&auto=webp&s=c8d467d92574c8f59d181b46a222d8185d2b934e"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic says unkillable small models may be months away from self-replicating across the internet",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4zp6s/anthropic_says_unkillable_small_models_may_be/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T15:28:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61"
+      },
+      {
+        "rank": 4,
+        "title": "Fable 5.5 should be released any moment",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5145b/fable_55_should_be_released_any_moment/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T16:20:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0x60rjipf9vh1.png?width=140&height=108&auto=webp&s=6e01d16235208c434db018bb30ea910c77833b94"
+      },
+      {
+        "rank": 5,
+        "title": "My Opus said reverse engineering does not work??",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4lwud/my_opus_said_reverse_engineering_does_not_work/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T03:15:14.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
@@ -35,13 +83,12 @@
       },
       {
         "rank": 4,
-        "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
+        "title": "On writing papers [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-13T13:50:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m5e9anluo8vh1.png?width=140&height=28&auto=webp&s=b904b3df41e59d610776b1d466ad34e56629f32a"
+        "publishedAt": "2026-10-13T18:18:21.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -51,6 +98,56 @@
         "score": 0,
         "publishedAt": "2026-10-13T16:06:10.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tobo said extra usage?",
+        "url": "https://www.reddit.com/r/codex/comments/1x4p9tx/tobo_said_extra_usage/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T06:25:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gsgit2bkh6vh1.jpeg?width=640&crop=smart&auto=webp&s=a3680203da74e574d00a50a2d4340dd564f90d38"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6.1 Sol is 4.6x slower than GPT-5.6 Sol. Are we really getting cheaper models, or just slower ones?",
+        "url": "https://www.reddit.com/r/codex/comments/1x4yte1/gpt61_sol_is_46x_slower_than_gpt56_sol_are_we/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T14:54:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8oqiiu6909vh1.png?width=640&crop=smart&auto=webp&s=394aa4349546077a41b32841359812c8292728f5"
+      },
+      {
+        "rank": 3,
+        "title": "Day 8: Reset",
+        "url": "https://www.reddit.com/r/codex/comments/1x4je5m/day_8_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T01:10:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e3btlgx4x4vh1.png?width=140&height=34&auto=webp&s=d30680e8ca12cb31e9c1067d7edd0d304367f8bd"
+      },
+      {
+        "rank": 4,
+        "title": "The name is half the product distribution!",
+        "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T20:54:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/30rkescgsavh1.jpeg?width=640&crop=smart&auto=webp&s=f4723327d72c00e74efc32ce5b8cb4a7e9778ec6"
+      },
+      {
+        "rank": 5,
+        "title": "Gemini Argon costs twice as much as GPT Sol 6.1 for similar intelligence.",
+        "url": "https://www.reddit.com/r/codex/comments/1x510ju/gemini_argon_costs_twice_as_much_as_gpt_sol_61/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T16:17:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tftdgrxve9vh1.png?width=640&crop=smart&auto=webp&s=d6087fd83cbff951b3267a2de1ccc3b636fe0f7e"
       },
       {
         "rank": 1,
@@ -150,103 +247,6 @@
         "publishedAt": "2026-10-13T17:46:11.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/eGJiODlrNzB2OXZoMdQaRhj3y0jvWhFZ71HPkab-Gm8ANban36e01QM6IVlv.png?width=640&crop=smart&auto=webp&s=64e6a44012472282e44772f413ddd24c3c2e59c5"
-      },
-      {
-        "rank": 1,
-        "title": "Someone used Claude to get a years-old pothole fixed in two days",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4s9hp/someone_used_claude_to_get_a_yearsold_pothole/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T09:41:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z29pM3g0a2FnN3ZoMQet90s3UC1Fq_vNZKG7f64Pw2CPIfgEDwT6Fzblr5iO.png?width=640&crop=smart&auto=webp&s=c8d467d92574c8f59d181b46a222d8185d2b934e"
-      },
-      {
-        "rank": 2,
-        "title": "Meta says its new Muse Wonder scores at 85.6% against 81.5% for Claude Opus 5.5 and 81.4% for GPT-6 Astra.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x48ecy/meta_says_its_new_muse_wonder_scores_at_856/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T17:38:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/agFVI7wt3KizZJd9B4G3tcRWUjnChH0L-7c1NqT0cro.jpeg?width=640&crop=smart&auto=webp&s=528f570e328e852792457a3c25e007df9878d306"
-      },
-      {
-        "rank": 3,
-        "title": "5hr limit now bumped to 24hr?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4bv39/5hr_limit_now_bumped_to_24hr/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T19:45:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ik689zd8b3vh1.png?width=640&crop=smart&auto=webp&s=96e01452d283bb042345ec436f644326440eba1b"
-      },
-      {
-        "rank": 4,
-        "title": "My Opus said reverse engineering does not work??",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4lwud/my_opus_said_reverse_engineering_does_not_work/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T03:15:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Does Claude Code find new bugs every time you ask it to review your code",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4ssct/does_claude_code_find_new_bugs_every_time_you_ask/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T10:13:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Tobo said extra usage?",
-        "url": "https://www.reddit.com/r/codex/comments/1x4p9tx/tobo_said_extra_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T06:25:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gsgit2bkh6vh1.jpeg?width=640&crop=smart&auto=webp&s=a3680203da74e574d00a50a2d4340dd564f90d38"
-      },
-      {
-        "rank": 2,
-        "title": "Day 8: Reset",
-        "url": "https://www.reddit.com/r/codex/comments/1x4je5m/day_8_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T01:10:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e3btlgx4x4vh1.png?width=140&height=34&auto=webp&s=d30680e8ca12cb31e9c1067d7edd0d304367f8bd"
-      },
-      {
-        "rank": 3,
-        "title": "GPT-6.1-sol is SLOOOWWWW",
-        "url": "https://www.reddit.com/r/codex/comments/1x4br68/gpt61sol_is_slooowwww/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-12T19:41:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Tibo has spoken, time to burn off your tokens by End Of Day today PST Time!",
-        "url": "https://www.reddit.com/r/codex/comments/1x4jdn2/tibo_has_spoken_time_to_burn_off_your_tokens_by/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T01:09:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lx1epte4x4vh1.png?width=640&crop=smart&auto=webp&s=71d10472730b579fd6f992f7e6005cba3da8df1a"
-      },
-      {
-        "rank": 5,
-        "title": "Tibo’s Poll",
-        "url": "https://www.reddit.com/r/codex/comments/1x48ljs/tibos_poll/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-12T17:45:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hl4txwg2q2vh1.jpeg?width=640&crop=smart&auto=webp&s=acf2fed74210c8f196e9cb895b1821faf57a0098"
       }
     ]
   }

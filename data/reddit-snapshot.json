@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-14T20:33:10.519Z",
+  "fetchedAt": "2026-10-14T23:48:50.419Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T10:16:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6yoixcborevh1.gif?frame=1&width=140&height=140&auto=webp&s=cad3c53ac5bb39efcbee6033fc3de1a5094b50b3"
+      },
+      {
+        "rank": 2,
+        "title": "PhD students, how ya feeling? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T02:33:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T00:28:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T15:22:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T18:40:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Abdulrahman Alfozan, a Saudi national employed as an OpenAI engineer, looks behind a television where a recording device had been placed at a conference room in OpenAI offices. He was arrested by the FBI.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x5glxv/abdulrahman_alfozan_a_saudi_national_employed_as/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T03:12:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j6hp20iyncvh1.jpeg?width=640&crop=smart&auto=webp&s=e4251372fb76bf475fd77670fa977180cad3d702"
+      },
+      {
+        "rank": 2,
+        "title": "Researchers say new OpenAI and Google image models are easily tricked into making nudes",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x5uito/researchers_say_new_openai_and_google_image/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T15:38:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/hcJpK02mek6VkODSihKMv9vhLUghopbMoxK2KY5Zs9Y.jpeg?width=640&crop=smart&auto=webp&s=01e9bdf680f1589881bf130df8db23f88029a41f"
+      },
+      {
+        "rank": 3,
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x5ckta/saudi_man_charged_with_planting_sophisticated/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T23:53:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/QzHPspaKXNVcQZCbAU86azwa0XUkgK3OM7jgl47SdC8.png?width=640&crop=smart&auto=webp&s=faef71df8f9eb0e4d662cb444cc4b951b6a874ef"
+      },
+      {
+        "rank": 4,
+        "title": "UK spy chief: \"Human history has given us no experience of facing an actor which is smarter than we are, is capable of out-thinking us. This is genuinely novel and deserves serious attention.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x60794/uk_spy_chief_human_history_has_given_us_no/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T19:11:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/M3d2ZTEzdjRmaHZoMSVLxP1Y6ID52iZcWtYMpUeNcAluHoECW34rZusc_fas.png?width=640&crop=smart&auto=webp&s=8b1b9850a1ae99abc7b98d832116b8477e7cf246"
+      },
+      {
+        "rank": 5,
+        "title": "AI models can provably hide capabilities: encrypted networks inside the weights stay hard to elicit by fine-tuning, weight noise or adversarial training",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x5kpng/ai_models_can_provably_hide_capabilities/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T07:14:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 1,
+        "title": "this line was written in 1960s btw, felt like he time travelled.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x5ty7c/this_line_was_written_in_1960s_btw_felt_like_he/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-14T15:17:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mab8seta9gvh1.png?width=640&crop=smart&auto=webp&s=a9fe2377a6fed0744bd3bf67bcf83b8708d9b1cb"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6 Astra autonomously solves 49 out of 50 unpublished theoretical physics research problems, scoring 98% at under $3 per problem. Researchers initially marked several answers wrong, only to discover the AI had caught errors in the calculations of world-class physicists.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x5y9ue/gpt6_astra_autonomously_solves_49_out_of_50/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-14T17:59:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k0xy5mud2hvh1.png?width=140&height=125&auto=webp&s=f544f827302e4d28c1891ce5792f095a4453f7c5"
+      },
+      {
+        "rank": 3,
+        "title": "Quotes from Gemini 4 Argon's chain of thought",
+        "url": "https://www.reddit.com/r/singularity/comments/1x5mljk/quotes_from_gemini_4_argons_chain_of_thought/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-14T09:19:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/anmoxfajgevh1.jpg?width=140&height=34&auto=webp&s=242887c780aee1d02d188ce23878888889fb6bf4"
+      },
+      {
+        "rank": 4,
+        "title": "Epic Games Store vibecoded - Now twice as fast as steam when it used to be much slower",
+        "url": "https://www.reddit.com/r/singularity/comments/1x5t1y6/epic_games_store_vibecoded_now_twice_as_fast_as/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-14T14:42:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Scientists recently overturned a 59-year-old belief about the magnetic fields used to contain plasma in fusion reactors. Google gave their breakthrough to Gemini 4 agents. Within hours, the AI found new solutions that went beyond what the original researchers had discovered. The result: two new ways",
+        "url": "https://www.reddit.com/r/singularity/comments/1x62jzz/scientists_recently_overturned_a_59yearold_belief/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-14T20:43:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nc838cvmvhvh1.png?width=140&height=46&auto=webp&s=370893be017aae30da2bced22f64c209754c48d4"
+      },
       {
         "rank": 1,
         "title": "The future is bleak",
@@ -55,52 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T00:28:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "PhD students, how ya feeling? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T02:33:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T10:16:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6yoixcborevh1.gif?frame=1&width=140&height=140&auto=webp&s=cad3c53ac5bb39efcbee6033fc3de1a5094b50b3"
-      },
-      {
-        "rank": 4,
-        "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T15:22:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T18:40:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "The name is half the product distribution!",
         "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
         "source": "r/codex",
@@ -146,105 +245,6 @@
         "publishedAt": "2026-10-14T13:02:54.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0gd366xalfvh1.png?width=640&crop=smart&auto=webp&s=e81c29e3ccf276637838ebec8146b416d172e935"
-      },
-      {
-        "rank": 1,
-        "title": "The name is half the product distribution!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x58ic0/the_name_is_half_the_product_distribution/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T20:56:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y2h0f69zsavh1.jpeg?width=640&crop=smart&auto=webp&s=c94eb84bf03f4451dac6b3a9c6c61ab33387f57c"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI Employee Terminated after planting bug in Office",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x57ghe/openai_employee_terminated_after_planting_bug_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T20:14:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xa8qeloilavh1.jpeg?width=640&crop=smart&auto=webp&s=84094cabea9755831c0f60c7339d588d09a99435"
-      },
-      {
-        "rank": 3,
-        "title": "Abdulrahman Alfozan, a Saudi national employed as an OpenAI engineer, looks behind a television where a recording device had been placed at a conference room in OpenAI offices. He was arrested by the FBI.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x5glxv/abdulrahman_alfozan_a_saudi_national_employed_as/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T03:12:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j6hp20iyncvh1.jpeg?width=640&crop=smart&auto=webp&s=e4251372fb76bf475fd77670fa977180cad3d702"
-      },
-      {
-        "rank": 4,
-        "title": "I have $15000 worth of OpenAI credits expiring in 14 days. What should I build?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x53jmz/i_have_15000_worth_of_openai_credits_expiring_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T17:49:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x5ckta/saudi_man_charged_with_planting_sophisticated/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T23:53:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/QzHPspaKXNVcQZCbAU86azwa0XUkgK3OM7jgl47SdC8.png?width=640&crop=smart&auto=webp&s=faef71df8f9eb0e4d662cb444cc4b951b6a874ef"
-      },
-      {
-        "rank": 1,
-        "title": "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work",
-        "url": "https://www.reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T17:46:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGJiODlrNzB2OXZoMdQaRhj3y0jvWhFZ71HPkab-Gm8ANban36e01QM6IVlv.png?width=640&crop=smart&auto=webp&s=64e6a44012472282e44772f413ddd24c3c2e59c5"
-      },
-      {
-        "rank": 2,
-        "title": "Google's Gemini 4 Argon taught a humanoid robot to play cornhole from a single human video. It built its own physics simulator, trained the throws, and refined them on the real robot. Apollo then landed 7 shots in a row. Google says this cuts weeks of robotics engineering down to hours.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x58mbn/googles_gemini_4_argon_taught_a_humanoid_robot_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T21:00:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z29tNXc3dHF0YXZoMTziCoz_UcDU1UM2hKcwNiEk9_9IkACrc2feWA-Hf_UK.png?width=640&crop=smart&auto=webp&s=40d7a886102c47b78adca5d81fd89fd9d07430eb"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI employee planted a bug in an office, arrested by FBI",
-        "url": "https://www.reddit.com/r/singularity/comments/1x56x7s/openai_employee_planted_a_bug_in_an_office/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T19:54:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/efjyt9ewhavh1.png?width=320&crop=smart&auto=webp&s=332ee759db24f4a8282df4643d6b5a3bec2cceab"
-      },
-      {
-        "rank": 4,
-        "title": "Welcome back: Gemini 2.5 Pro",
-        "url": "https://www.reddit.com/r/singularity/comments/1x51puo/welcome_back_gemini_25_pro/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T16:43:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gue72f8sj9vh1.jpeg?width=640&crop=smart&auto=webp&s=d2f7f5631830600be7371d77d249ca4ceb2e740c"
-      },
-      {
-        "rank": 5,
-        "title": "This AI video about the upcoming Ballon d'Or ceremony is going viral on X right now.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x4v401/this_ai_video_about_the_upcoming_ballon_dor/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T12:19:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZGJxcGk2MnA3OHZoMetqO0pqbNOXQEbGu1_qXCIcqM3Kn35dKCxFT_UVUv1H.png?width=640&crop=smart&auto=webp&s=861d6777ca21b2e1ff6558d0890af61001608c45"
       }
     ]
   }

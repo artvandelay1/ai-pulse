@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T00:34:12.005Z",
+  "fetchedAt": "2026-10-14T05:58:11.526Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -46,15 +46,25 @@
       },
       {
         "rank": 5,
-        "title": "My Opus said reverse engineering does not work??",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4lwud/my_opus_said_reverse_engineering_does_not_work/",
+        "title": "Redesigning source control at Anthropic",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5b5ek/redesigning_source_control_at_anthropic/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-13T03:15:14.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-13T22:47:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/fuoA9JvlRfMsDiD2Kr179lJfNBUKMRIilsnGtn2Slxg.png?width=320&crop=smart&auto=webp&s=1017237a278b4350abba9de11ca5b3115e563da2"
       },
       {
         "rank": 1,
+        "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T00:28:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
         "source": "r/MachineLearning",
@@ -63,7 +73,16 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "title": "PhD students, how ya feeling? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T02:33:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Machine Learning Tutorial/Workshop [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
         "source": "r/MachineLearning",
@@ -73,16 +92,7 @@
         "thumbnail": "https://preview.redd.it/qxz4umcwt6vh1.png?width=640&crop=smart&auto=webp&s=817a9d162acb6b1134d9e799a652f55bfcbace73"
       },
       {
-        "rank": 3,
-        "title": "Is an MS a soft requirement for Research Engineer / Post-Training roles? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x4lvn8/is_an_ms_a_soft_requirement_for_research_engineer/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-13T03:13:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "title": "On writing papers [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
         "source": "r/MachineLearning",
@@ -91,23 +101,14 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-13T16:06:10.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "Tobo said extra usage?",
-        "url": "https://www.reddit.com/r/codex/comments/1x4p9tx/tobo_said_extra_usage/",
+        "title": "The name is half the product distribution!",
+        "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-13T06:25:19.000Z",
+        "publishedAt": "2026-10-13T20:54:09.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gsgit2bkh6vh1.jpeg?width=640&crop=smart&auto=webp&s=a3680203da74e574d00a50a2d4340dd564f90d38"
+        "thumbnail": "https://preview.redd.it/30rkescgsavh1.jpeg?width=640&crop=smart&auto=webp&s=f4723327d72c00e74efc32ce5b8cb4a7e9778ec6"
       },
       {
         "rank": 2,
@@ -121,23 +122,23 @@
       },
       {
         "rank": 3,
-        "title": "Day 8: Reset",
-        "url": "https://www.reddit.com/r/codex/comments/1x4je5m/day_8_reset/",
+        "title": "Tobo said extra usage?",
+        "url": "https://www.reddit.com/r/codex/comments/1x4p9tx/tobo_said_extra_usage/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-13T01:10:26.000Z",
+        "publishedAt": "2026-10-13T06:25:19.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e3btlgx4x4vh1.png?width=140&height=34&auto=webp&s=d30680e8ca12cb31e9c1067d7edd0d304367f8bd"
+        "thumbnail": "https://preview.redd.it/gsgit2bkh6vh1.jpeg?width=640&crop=smart&auto=webp&s=a3680203da74e574d00a50a2d4340dd564f90d38"
       },
       {
         "rank": 4,
-        "title": "The name is half the product distribution!",
-        "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
+        "title": "🚨Tibo - Day 8",
+        "url": "https://www.reddit.com/r/codex/comments/1x5c5wm/tibo_day_8/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-13T20:54:09.000Z",
+        "publishedAt": "2026-10-13T23:33:40.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/30rkescgsavh1.jpeg?width=640&crop=smart&auto=webp&s=f4723327d72c00e74efc32ce5b8cb4a7e9778ec6"
+        "thumbnail": "https://preview.redd.it/xwdtfyc1lbvh1.jpeg?width=640&crop=smart&auto=webp&s=078c40ca0360e6b7084fd75880f83d7daef679e4"
       },
       {
         "rank": 5,

@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-14T05:58:11.526Z",
+  "fetchedAt": "2026-10-14T11:35:43.292Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T00:28:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "PhD students, how ya feeling? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T02:33:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-13T15:47:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "On writing papers [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-13T18:18:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I turned my dog Jackies Brain into a working AI [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5ny23/i_turned_my_dog_jackies_brain_into_a_working_ai_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T10:43:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mc1agct2wevh1.png?width=140&height=91&auto=webp&s=8a6099d5e6ff53b1bb9e40b37b429613446ab6b8"
+      },
+      {
+        "rank": 1,
+        "title": "The name is half the product distribution!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x58ic0/the_name_is_half_the_product_distribution/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T20:56:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y2h0f69zsavh1.jpeg?width=640&crop=smart&auto=webp&s=c94eb84bf03f4451dac6b3a9c6c61ab33387f57c"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI Employee Terminated after planting bug in Office",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x57ghe/openai_employee_terminated_after_planting_bug_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T20:14:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xa8qeloilavh1.jpeg?width=640&crop=smart&auto=webp&s=84094cabea9755831c0f60c7339d588d09a99435"
+      },
+      {
+        "rank": 3,
+        "title": "Abdulrahman Alfozan, a Saudi national employed as an OpenAI engineer, looks behind a television where a recording device had been placed at a conference room in OpenAI offices. He was arrested by the FBI.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x5glxv/abdulrahman_alfozan_a_saudi_national_employed_as/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T03:12:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j6hp20iyncvh1.jpeg?width=640&crop=smart&auto=webp&s=e4251372fb76bf475fd77670fa977180cad3d702"
+      },
+      {
+        "rank": 4,
+        "title": "I have $15000 worth of OpenAI credits expiring in 14 days. What should I build?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x53jmz/i_have_15000_worth_of_openai_credits_expiring_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T17:49:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x5ckta/saudi_man_charged_with_planting_sophisticated/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T23:53:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/QzHPspaKXNVcQZCbAU86azwa0XUkgK3OM7jgl47SdC8.png?width=640&crop=smart&auto=webp&s=faef71df8f9eb0e4d662cb444cc4b951b6a874ef"
+      },
+      {
+        "rank": 1,
+        "title": "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work",
+        "url": "https://www.reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-13T17:46:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGJiODlrNzB2OXZoMdQaRhj3y0jvWhFZ71HPkab-Gm8ANban36e01QM6IVlv.png?width=640&crop=smart&auto=webp&s=64e6a44012472282e44772f413ddd24c3c2e59c5"
+      },
+      {
+        "rank": 2,
+        "title": "Google's Gemini 4 Argon taught a humanoid robot to play cornhole from a single human video. It built its own physics simulator, trained the throws, and refined them on the real robot. Apollo then landed 7 shots in a row. Google says this cuts weeks of robotics engineering down to hours.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x58mbn/googles_gemini_4_argon_taught_a_humanoid_robot_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-13T21:00:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z29tNXc3dHF0YXZoMTziCoz_UcDU1UM2hKcwNiEk9_9IkACrc2feWA-Hf_UK.png?width=640&crop=smart&auto=webp&s=40d7a886102c47b78adca5d81fd89fd9d07430eb"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI employee planted a bug in an office, arrested by FBI",
+        "url": "https://www.reddit.com/r/singularity/comments/1x56x7s/openai_employee_planted_a_bug_in_an_office/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-13T19:54:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/efjyt9ewhavh1.png?width=320&crop=smart&auto=webp&s=332ee759db24f4a8282df4643d6b5a3bec2cceab"
+      },
+      {
+        "rank": 4,
+        "title": "Welcome back: Gemini 2.5 Pro",
+        "url": "https://www.reddit.com/r/singularity/comments/1x51puo/welcome_back_gemini_25_pro/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-13T16:43:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gue72f8sj9vh1.jpeg?width=640&crop=smart&auto=webp&s=d2f7f5631830600be7371d77d249ca4ceb2e740c"
+      },
+      {
+        "rank": 5,
+        "title": "This AI video about the upcoming Ballon d'Or ceremony is going viral on X right now.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x4v401/this_ai_video_about_the_upcoming_ballon_dor/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-13T12:19:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZGJxcGk2MnA3OHZoMetqO0pqbNOXQEbGu1_qXCIcqM3Kn35dKCxFT_UVUv1H.png?width=640&crop=smart&auto=webp&s=861d6777ca21b2e1ff6558d0890af61001608c45"
+      },
       {
         "rank": 1,
         "title": "We're cooked",
@@ -56,52 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T00:28:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-13T15:47:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "PhD students, how ya feeling? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T02:33:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Machine Learning Tutorial/Workshop [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-13T07:34:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qxz4umcwt6vh1.png?width=640&crop=smart&auto=webp&s=817a9d162acb6b1134d9e799a652f55bfcbace73"
-      },
-      {
-        "rank": 5,
-        "title": "On writing papers [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-13T18:18:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "The name is half the product distribution!",
         "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
         "source": "r/codex",
@@ -149,105 +248,6 @@
         "publishedAt": "2026-10-13T16:17:01.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tftdgrxve9vh1.png?width=640&crop=smart&auto=webp&s=d6087fd83cbff951b3267a2de1ccc3b636fe0f7e"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI's latest blow to mathematicians: 'They have annihilated my field of research'",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x4ffsj/openais_latest_blow_to_mathematicians_they_have/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-12T22:06:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/exswJx2hKepmLSWkCK4jHAEVlDEH7toVNlTijXai8dw.jpeg?width=640&crop=smart&auto=webp&s=62ec6129a4fe25f3161063bb0f9a086f12c47568"
-      },
-      {
-        "rank": 2,
-        "title": "incoming reset within the next 5.5 hours",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x4k120/incoming_reset_within_the_next_55_hours/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T01:41:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jedxmb3u25vh1.png?width=320&crop=smart&auto=webp&s=3d2bba35cdaaf06eb93e68330d2b0056abb6573c"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI Employee Terminated after planting bug in Office",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x57ghe/openai_employee_terminated_after_planting_bug_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T20:14:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xa8qeloilavh1.jpeg?width=640&crop=smart&auto=webp&s=84094cabea9755831c0f60c7339d588d09a99435"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI researcher Roon: \"alignment has not been solved. if this is true, then racing into RSI is a folly that is unprecedented in world history. we will need to significantly slow the frontier of research soon\".",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x4t4k2/openai_researcher_roon_alignment_has_not_been/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T10:33:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h6epnxqrp7vh1.png?width=640&crop=smart&auto=webp&s=6d3ac18cce630b5ccde93e684e1b1a68468db90d"
-      },
-      {
-        "rank": 5,
-        "title": "I have $15000 worth of OpenAI credits expiring in 14 days. What should I build?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x53jmz/i_have_15000_worth_of_openai_credits_expiring_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T17:49:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Big model smell: muse Wonder",
-        "url": "https://www.reddit.com/r/singularity/comments/1x4g2nq/big_model_smell_muse_wonder/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-12T22:34:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hzzaazsl54vh1.jpeg?width=640&crop=smart&auto=webp&s=a675667171661a9f9235fe76bda844c4fdfe00f4"
-      },
-      {
-        "rank": 2,
-        "title": "Statement by Tim Sweeney (Epic Games founder and CEO)",
-        "url": "https://www.reddit.com/r/singularity/comments/1x4l058/statement_by_tim_sweeney_epic_games_founder_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T02:29:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ums9chib5vh1.jpeg?width=640&crop=smart&auto=webp&s=cab799953e08f352db230c71dfca1f542f781693"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic anti-distillation measures may have reduced data harvest by 90-99%",
-        "url": "https://www.reddit.com/r/singularity/comments/1x4pv24/anthropic_antidistillation_measures_may_have/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T07:02:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/6MptJVVXIppgceAvhhPIGRqLooK3uQOWpdoQN4qWG84.jpeg?width=640&crop=smart&auto=webp&s=16cc6f8ad15051a8243bb268c5d27aa6601a16be"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Opus 5.5 wrote an oboe concerto that 60% of listeners thought was human-composed—higher than actual pieces by Handel at 58% and Vivaldi at 43%",
-        "url": "https://www.reddit.com/r/singularity/comments/1x4k8pa/claude_opus_55_wrote_an_oboe_concerto_that_60_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T01:51:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NGwwcXZ6NnI0NXZoMTJMvrygTdrGIHKoRlBuLFkC3qgdRsLmUFeuCaqi6_e4.png?width=640&crop=smart&auto=webp&s=515485ceb5137dc635586b261d2e886e8c8e7efe"
-      },
-      {
-        "rank": 5,
-        "title": "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work",
-        "url": "https://www.reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-13T17:46:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGJiODlrNzB2OXZoMdQaRhj3y0jvWhFZ71HPkab-Gm8ANban36e01QM6IVlv.png?width=640&crop=smart&auto=webp&s=64e6a44012472282e44772f413ddd24c3c2e59c5"
       }
     ]
   }

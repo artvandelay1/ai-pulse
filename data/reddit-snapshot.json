@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-10-14T11:35:43.292Z",
+  "fetchedAt": "2026-10-14T16:53:08.755Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "The future is bleak",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5kb71/the_future_is_bleak/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T06:49:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Redesigning source control at Anthropic",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5b5ek/redesigning_source_control_at_anthropic/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T22:47:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/fuoA9JvlRfMsDiD2Kr179lJfNBUKMRIilsnGtn2Slxg.png?width=320&crop=smart&auto=webp&s=1017237a278b4350abba9de11ca5b3115e563da2"
+      },
+      {
+        "rank": 3,
+        "title": "What is an AI \"Lifehack\" that people don't seem to know yet?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5or3q/what_is_an_ai_lifehack_that_people_dont_seem_to/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T11:29:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "PSA: Claude Code wrote me an uncapped test loop, ran it in the background, told me it was “idle,” then hit its daily usage limit. It ran 17 hours and cost about $2.1K",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x540si/psa_claude_code_wrote_me_an_uncapped_test_loop/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-13T18:06:37.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I let Claude hire its first employee. It chose a rock.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5uqak/i_let_claude_hire_its_first_employee_it_chose_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T15:47:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xfc8ojviegvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4b7abde46de922be7d47ee12312e3a2c8ee88623"
+      },
       {
         "rank": 1,
         "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
@@ -25,15 +72,25 @@
       },
       {
         "rank": 3,
-        "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
+        "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-13T15:47:53.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-14T10:16:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6yoixcborevh1.gif?frame=1&width=140&height=140&auto=webp&s=cad3c53ac5bb39efcbee6033fc3de1a5094b50b3"
       },
       {
         "rank": 4,
+        "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T15:22:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "On writing papers [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
         "source": "r/MachineLearning",
@@ -42,14 +99,52 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "I turned my dog Jackies Brain into a working AI [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5ny23/i_turned_my_dog_jackies_brain_into_a_working_ai_p/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "The name is half the product distribution!",
+        "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-14T10:43:35.000Z",
+        "publishedAt": "2026-10-13T20:54:09.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mc1agct2wevh1.png?width=140&height=91&auto=webp&s=8a6099d5e6ff53b1bb9e40b37b429613446ab6b8"
+        "thumbnail": "https://preview.redd.it/30rkescgsavh1.jpeg?width=640&crop=smart&auto=webp&s=f4723327d72c00e74efc32ce5b8cb4a7e9778ec6"
+      },
+      {
+        "rank": 2,
+        "title": "🚨Tibo - Day 8",
+        "url": "https://www.reddit.com/r/codex/comments/1x5c5wm/tibo_day_8/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-13T23:33:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xwdtfyc1lbvh1.jpeg?width=640&crop=smart&auto=webp&s=078c40ca0360e6b7084fd75880f83d7daef679e4"
+      },
+      {
+        "rank": 3,
+        "title": "I asked Astra what time it was. He's currently trying to unify general relativity and quantum mechanics.",
+        "url": "https://www.reddit.com/r/codex/comments/1x5pue6/i_asked_astra_what_time_it_was_hes_currently/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-14T12:25:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Sadly migrating to opus",
+        "url": "https://www.reddit.com/r/codex/comments/1x5dd8g/sadly_migrating_to_opus/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-14T00:29:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "This is ridiculous",
+        "url": "https://www.reddit.com/r/codex/comments/1x5qnnb/this_is_ridiculous/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-14T13:02:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0gd366xalfvh1.png?width=640&crop=smart&auto=webp&s=e81c29e3ccf276637838ebec8146b416d172e935"
       },
       {
         "rank": 1,
@@ -149,105 +244,6 @@
         "publishedAt": "2026-10-13T12:19:16.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ZGJxcGk2MnA3OHZoMetqO0pqbNOXQEbGu1_qXCIcqM3Kn35dKCxFT_UVUv1H.png?width=640&crop=smart&auto=webp&s=861d6777ca21b2e1ff6558d0890af61001608c45"
-      },
-      {
-        "rank": 1,
-        "title": "We're cooked",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4zm61/were_cooked/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T15:25:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Someone used Claude to get a years-old pothole fixed in two days",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4s9hp/someone_used_claude_to_get_a_yearsold_pothole/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T09:41:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z29pM3g0a2FnN3ZoMQet90s3UC1Fq_vNZKG7f64Pw2CPIfgEDwT6Fzblr5iO.png?width=640&crop=smart&auto=webp&s=c8d467d92574c8f59d181b46a222d8185d2b934e"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic says unkillable small models may be months away from self-replicating across the internet",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x4zp6s/anthropic_says_unkillable_small_models_may_be/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T15:28:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61"
-      },
-      {
-        "rank": 4,
-        "title": "Fable 5.5 should be released any moment",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5145b/fable_55_should_be_released_any_moment/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T16:20:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0x60rjipf9vh1.png?width=140&height=108&auto=webp&s=6e01d16235208c434db018bb30ea910c77833b94"
-      },
-      {
-        "rank": 5,
-        "title": "Redesigning source control at Anthropic",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5b5ek/redesigning_source_control_at_anthropic/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T22:47:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/fuoA9JvlRfMsDiD2Kr179lJfNBUKMRIilsnGtn2Slxg.png?width=320&crop=smart&auto=webp&s=1017237a278b4350abba9de11ca5b3115e563da2"
-      },
-      {
-        "rank": 1,
-        "title": "The name is half the product distribution!",
-        "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T20:54:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/30rkescgsavh1.jpeg?width=640&crop=smart&auto=webp&s=f4723327d72c00e74efc32ce5b8cb4a7e9778ec6"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6.1 Sol is 4.6x slower than GPT-5.6 Sol. Are we really getting cheaper models, or just slower ones?",
-        "url": "https://www.reddit.com/r/codex/comments/1x4yte1/gpt61_sol_is_46x_slower_than_gpt56_sol_are_we/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T14:54:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8oqiiu6909vh1.png?width=640&crop=smart&auto=webp&s=394aa4349546077a41b32841359812c8292728f5"
-      },
-      {
-        "rank": 3,
-        "title": "Tobo said extra usage?",
-        "url": "https://www.reddit.com/r/codex/comments/1x4p9tx/tobo_said_extra_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T06:25:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gsgit2bkh6vh1.jpeg?width=640&crop=smart&auto=webp&s=a3680203da74e574d00a50a2d4340dd564f90d38"
-      },
-      {
-        "rank": 4,
-        "title": "🚨Tibo - Day 8",
-        "url": "https://www.reddit.com/r/codex/comments/1x5c5wm/tibo_day_8/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T23:33:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xwdtfyc1lbvh1.jpeg?width=640&crop=smart&auto=webp&s=078c40ca0360e6b7084fd75880f83d7daef679e4"
-      },
-      {
-        "rank": 5,
-        "title": "Gemini Argon costs twice as much as GPT Sol 6.1 for similar intelligence.",
-        "url": "https://www.reddit.com/r/codex/comments/1x510ju/gemini_argon_costs_twice_as_much_as_gpt_sol_61/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T16:17:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tftdgrxve9vh1.png?width=640&crop=smart&auto=webp&s=d6087fd83cbff951b3267a2de1ccc3b636fe0f7e"
       }
     ]
   }

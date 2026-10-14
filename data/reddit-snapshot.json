@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T16:53:08.755Z",
+  "fetchedAt": "2026-10-14T20:33:10.519Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,6 +16,16 @@
       },
       {
         "rank": 2,
+        "title": "I let Claude hire its first employee. It chose a rock.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5uqak/i_let_claude_hire_its_first_employee_it_chose_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T15:47:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xfc8ojviegvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4b7abde46de922be7d47ee12312e3a2c8ee88623"
+      },
+      {
+        "rank": 3,
         "title": "Redesigning source control at Anthropic",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5b5ek/redesigning_source_control_at_anthropic/",
         "source": "r/ClaudeAI",
@@ -25,7 +35,7 @@
         "thumbnail": "https://external-preview.redd.it/fuoA9JvlRfMsDiD2Kr179lJfNBUKMRIilsnGtn2Slxg.png?width=320&crop=smart&auto=webp&s=1017237a278b4350abba9de11ca5b3115e563da2"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "What is an AI \"Lifehack\" that people don't seem to know yet?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5or3q/what_is_an_ai_lifehack_that_people_dont_seem_to/",
         "source": "r/ClaudeAI",
@@ -34,23 +44,14 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "PSA: Claude Code wrote me an uncapped test loop, ran it in the background, told me it was “idle,” then hit its daily usage limit. It ran 17 hours and cost about $2.1K",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x540si/psa_claude_code_wrote_me_an_uncapped_test_loop/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T18:06:37.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "I let Claude hire its first employee. It chose a rock.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5uqak/i_let_claude_hire_its_first_employee_it_chose_a/",
+        "title": "Pixel art scene made with Opus 5.5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5r6nw/pixel_art_scene_made_with_opus_55/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-14T15:47:03.000Z",
+        "publishedAt": "2026-10-14T13:26:06.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xfc8ojviegvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4b7abde46de922be7d47ee12312e3a2c8ee88623"
+        "thumbnail": "https://external-preview.redd.it/NXF4emc4NGZwZnZoMeylua8JWsKNu8Yr-z_yWypUKsm9hKMM9m-ezwBXDhQ8.png?width=640&crop=smart&auto=webp&s=52b0159b03a0c67e45b17ad7b995dda61bd82602"
       },
       {
         "rank": 1,
@@ -91,11 +92,11 @@
       },
       {
         "rank": 5,
-        "title": "On writing papers [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
+        "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-13T18:18:21.000Z",
+        "publishedAt": "2026-10-14T18:40:18.000Z",
         "category": "reddit"
       },
       {

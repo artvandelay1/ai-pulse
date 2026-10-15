@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T14:21:45.385Z",
+  "fetchedAt": "2026-10-15T18:33:47.633Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T15:22:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
         "source": "r/MachineLearning",
@@ -33,12 +24,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-14T22:08:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "NeurIPS 2026 - waitlist [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T15:42:47.000Z",
         "category": "reddit"
       },
       {
@@ -52,26 +52,6 @@
       },
       {
         "rank": 1,
-        "title": "Researchers say new OpenAI and Google image models are easily tricked into making nudes",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x5uito/researchers_say_new_openai_and_google_image/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T15:38:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/hcJpK02mek6VkODSihKMv9vhLUghopbMoxK2KY5Zs9Y.jpeg?width=640&crop=smart&auto=webp&s=01e9bdf680f1589881bf130df8db23f88029a41f"
-      },
-      {
-        "rank": 2,
-        "title": "UK spy chief: \"Human history has given us no experience of facing an actor which is smarter than we are, is capable of out-thinking us. This is genuinely novel and deserves serious attention.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x60794/uk_spy_chief_human_history_has_given_us_no/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T19:11:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M3d2ZTEzdjRmaHZoMSVLxP1Y6ID52iZcWtYMpUeNcAluHoECW34rZusc_fas.png?width=640&crop=smart&auto=webp&s=8b1b9850a1ae99abc7b98d832116b8477e7cf246"
-      },
-      {
-        "rank": 3,
         "title": "Well that escalated quickly",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x6izda/well_that_escalated_quickly/",
         "source": "r/OpenAI",
@@ -81,7 +61,7 @@
         "thumbnail": "https://external-preview.redd.it/dTV3YnRpZHM2bXZoMYfTEtDKiGAb2MivU8j5RfqB9I2ArnCS1Lse82xYxzQJ.png?width=640&crop=smart&auto=webp&s=e56ee12932cbfbc8c7e0b681c9b9adfb88ba29c9"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x6cmnf/eight_states_sue_openai_saying_chatgpt_isnt_safe/",
         "source": "r/OpenAI",
@@ -91,7 +71,17 @@
         "thumbnail": "https://external-preview.redd.it/LAVZJSPFumudqDMdbjPwqmk6Eh4K9FMYHv-jWZNY0Do.jpeg?width=640&crop=smart&auto=webp&s=9619ed9c1a1dd3e279c43f1ea8acbe9d949e2aad"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "title": "UK spy chief: \"Human history has given us no experience of facing an actor which is smarter than we are, is capable of out-thinking us. This is genuinely novel and deserves serious attention.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x60794/uk_spy_chief_human_history_has_given_us_no/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T19:11:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/M3d2ZTEzdjRmaHZoMSVLxP1Y6ID52iZcWtYMpUeNcAluHoECW34rZusc_fas.png?width=640&crop=smart&auto=webp&s=8b1b9850a1ae99abc7b98d832116b8477e7cf246"
+      },
+      {
+        "rank": 4,
         "title": "OpenAI is now the #1 in estimated OpenRouter spend, passing Anthropic in September",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x612wa/openai_is_now_the_1_in_estimated_openrouter_spend/",
         "source": "r/OpenAI",
@@ -101,27 +91,17 @@
         "thumbnail": "https://preview.redd.it/4dnhjwy4lhvh1.png?width=640&crop=smart&auto=webp&s=397456a00aa17677617d2d2f76f78e6f88c5a74e"
       },
       {
+        "rank": 5,
+        "title": "I built TextFold to make text stretchable with \"semantic zoom\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x62abx/i_built_textfold_to_make_text_stretchable_with/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T20:32:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ld3vnq2mthvh1.gif?width=640&crop=smart&s=418ee3c13f7a8b15b2b37362b7a4d65c98297a8f"
+      },
+      {
         "rank": 1,
-        "title": "this line was written in 1960s btw, felt like he time travelled.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x5ty7c/this_line_was_written_in_1960s_btw_felt_like_he/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-14T15:17:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mab8seta9gvh1.png?width=640&crop=smart&auto=webp&s=a9fe2377a6fed0744bd3bf67bcf83b8708d9b1cb"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6 Astra autonomously solves 49 out of 50 unpublished theoretical physics research problems, scoring 98% at under $3 per problem. Researchers initially marked several answers wrong, only to discover the AI had caught errors in the calculations of world-class physicists.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x5y9ue/gpt6_astra_autonomously_solves_49_out_of_50/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-14T17:59:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k0xy5mud2hvh1.png?width=140&height=125&auto=webp&s=f544f827302e4d28c1891ce5792f095a4453f7c5"
-      },
-      {
-        "rank": 3,
         "title": "Gemini thinking like gemini..",
         "url": "https://www.reddit.com/r/singularity/comments/1x632mk/gemini_thinking_like_gemini/",
         "source": "r/singularity",
@@ -131,7 +111,7 @@
         "thumbnail": "https://preview.redd.it/wqdpirpdzhvh1.jpeg?width=640&crop=smart&auto=webp&s=465628c3abae47a42530f147f79aa358e778002b"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "Scientists recently overturned a 59-year-old belief about the magnetic fields used to contain plasma in fusion reactors. Google gave their breakthrough to Gemini 4 agents. Within hours, the AI found new solutions that went beyond what the original researchers had discovered. The result: two new ways",
         "url": "https://www.reddit.com/r/singularity/comments/1x62jzz/scientists_recently_overturned_a_59yearold_belief/",
         "source": "r/singularity",
@@ -141,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/nc838cvmvhvh1.png?width=140&height=46&auto=webp&s=370893be017aae30da2bced22f64c209754c48d4"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "Ben Affleck actually understands AI architecture, explains why he sold his AI company to Netflix for $587M",
         "url": "https://www.reddit.com/r/singularity/comments/1x6077c/ben_affleck_actually_understands_ai_architecture/",
         "source": "r/singularity",
@@ -149,6 +129,25 @@
         "publishedAt": "2026-10-14T19:11:22.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/FGLd9a3Y6izxZms1c1JV12qMvIthGa7LDARqMalU0eo.jpeg?width=320&crop=smart&auto=webp&s=6556d0756f404bd2a86c26fd9684a974a7c6052a"
+      },
+      {
+        "rank": 4,
+        "title": "Interpretability might have been solved by an Open AI guy: \"Neural Networks Are Already Clean\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1x6pc0o/interpretability_might_have_been_solved_by_an/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-15T15:51:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/tOyUNEbvvECLNkSfl1vFLBTftvD5qHKu9Rt3TCYcWDY.png?width=640&crop=smart&auto=webp&s=e92fade3f686025f06a1f370315ec66c7a17fbb0"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports",
+        "url": "https://www.reddit.com/r/singularity/comments/1x64yue/anthropic_revenue_jumps_to_168_billion_in_third/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-14T22:23:56.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T23:48:50.419Z",
+  "fetchedAt": "2026-10-15T03:57:47.883Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,33 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "PhD students, how ya feeling? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T02:33:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T00:28:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T15:22:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
         "source": "r/MachineLearning",
@@ -52,17 +25,34 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Abdulrahman Alfozan, a Saudi national employed as an OpenAI engineer, looks behind a television where a recording device had been placed at a conference room in OpenAI offices. He was arrested by the FBI.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x5glxv/abdulrahman_alfozan_a_saudi_national_employed_as/",
-        "source": "r/OpenAI",
+        "rank": 3,
+        "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-14T03:12:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j6hp20iyncvh1.jpeg?width=640&crop=smart&auto=webp&s=e4251372fb76bf475fd77670fa977180cad3d702"
+        "publishedAt": "2026-10-14T15:22:01.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "title": "Localized Neural learning vs backpropagation [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5itey/localized_neural_learning_vs_backpropagation_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T05:16:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-14T22:08:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Researchers say new OpenAI and Google image models are easily tricked into making nudes",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x5uito/researchers_say_new_openai_and_google_image/",
         "source": "r/OpenAI",
@@ -72,17 +62,7 @@
         "thumbnail": "https://external-preview.redd.it/hcJpK02mek6VkODSihKMv9vhLUghopbMoxK2KY5Zs9Y.jpeg?width=640&crop=smart&auto=webp&s=01e9bdf680f1589881bf130df8db23f88029a41f"
       },
       {
-        "rank": 3,
-        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x5ckta/saudi_man_charged_with_planting_sophisticated/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T23:53:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/QzHPspaKXNVcQZCbAU86azwa0XUkgK3OM7jgl47SdC8.png?width=640&crop=smart&auto=webp&s=faef71df8f9eb0e4d662cb444cc4b951b6a874ef"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "UK spy chief: \"Human history has given us no experience of facing an actor which is smarter than we are, is capable of out-thinking us. This is genuinely novel and deserves serious attention.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x60794/uk_spy_chief_human_history_has_given_us_no/",
         "source": "r/OpenAI",
@@ -92,7 +72,7 @@
         "thumbnail": "https://external-preview.redd.it/M3d2ZTEzdjRmaHZoMSVLxP1Y6ID52iZcWtYMpUeNcAluHoECW34rZusc_fas.png?width=640&crop=smart&auto=webp&s=8b1b9850a1ae99abc7b98d832116b8477e7cf246"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "AI models can provably hide capabilities: encrypted networks inside the weights stay hard to elicit by fine-tuning, weight noise or adversarial training",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x5kpng/ai_models_can_provably_hide_capabilities/",
         "source": "r/OpenAI",
@@ -100,6 +80,26 @@
         "publishedAt": "2026-10-14T07:14:37.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 4,
+        "title": "Former OpenAI Researcher Issues Grim Warning, Says Only 5,000 People Have Access to Frontier AI While 2 Billion Use It as ‘Better Google Search’",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x5n016/former_openai_researcher_issues_grim_warning_says/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T09:45:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_Q4wB5EWELeE5WALTUf8gf5w59U5YRwiwK-ZZs-YBJU.jpeg?width=640&crop=smart&auto=webp&s=a1c80cda14c3e6eeaf7d90287dc659e3e6b1efd8"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI is now the #1 in estimated OpenRouter spend, passing Anthropic in September",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x612wa/openai_is_now_the_1_in_estimated_openrouter_spend/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-14T19:45:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4dnhjwy4lhvh1.png?width=640&crop=smart&auto=webp&s=397456a00aa17677617d2d2f76f78e6f88c5a74e"
       },
       {
         "rank": 1,
@@ -133,12 +133,13 @@
       },
       {
         "rank": 4,
-        "title": "Epic Games Store vibecoded - Now twice as fast as steam when it used to be much slower",
-        "url": "https://www.reddit.com/r/singularity/comments/1x5t1y6/epic_games_store_vibecoded_now_twice_as_fast_as/",
+        "title": "Gemini thinking like gemini..",
+        "url": "https://www.reddit.com/r/singularity/comments/1x632mk/gemini_thinking_like_gemini/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-14T14:42:38.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-14T21:04:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wqdpirpdzhvh1.jpeg?width=640&crop=smart&auto=webp&s=465628c3abae47a42530f147f79aa358e778002b"
       },
       {
         "rank": 5,

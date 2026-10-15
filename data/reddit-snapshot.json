@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-15T09:03:47.481Z",
+  "fetchedAt": "2026-10-15T14:21:45.385Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T10:16:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6yoixcborevh1.gif?frame=1&width=140&height=140&auto=webp&s=cad3c53ac5bb39efcbee6033fc3de1a5094b50b3"
-      },
-      {
-        "rank": 2,
         "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
         "source": "r/MachineLearning",
@@ -25,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
         "source": "r/MachineLearning",
@@ -34,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
         "source": "r/MachineLearning",
@@ -43,12 +33,21 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-14T22:08:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "How artificial neural networks build their own learning machinery [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6hmyg/how_artificial_neural_networks_build_their_own/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T10:01:47.000Z",
         "category": "reddit"
       },
       {
@@ -73,6 +72,16 @@
       },
       {
         "rank": 3,
+        "title": "Well that escalated quickly",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x6izda/well_that_escalated_quickly/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T11:19:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dTV3YnRpZHM2bXZoMYfTEtDKiGAb2MivU8j5RfqB9I2ArnCS1Lse82xYxzQJ.png?width=640&crop=smart&auto=webp&s=e56ee12932cbfbc8c7e0b681c9b9adfb88ba29c9"
+      },
+      {
+        "rank": 4,
         "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x6cmnf/eight_states_sue_openai_saying_chatgpt_isnt_safe/",
         "source": "r/OpenAI",
@@ -82,7 +91,7 @@
         "thumbnail": "https://external-preview.redd.it/LAVZJSPFumudqDMdbjPwqmk6Eh4K9FMYHv-jWZNY0Do.jpeg?width=640&crop=smart&auto=webp&s=9619ed9c1a1dd3e279c43f1ea8acbe9d949e2aad"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "OpenAI is now the #1 in estimated OpenRouter spend, passing Anthropic in September",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x612wa/openai_is_now_the_1_in_estimated_openrouter_spend/",
         "source": "r/OpenAI",
@@ -90,16 +99,6 @@
         "publishedAt": "2026-10-14T19:45:37.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4dnhjwy4lhvh1.png?width=640&crop=smart&auto=webp&s=397456a00aa17677617d2d2f76f78e6f88c5a74e"
-      },
-      {
-        "rank": 5,
-        "title": "Former OpenAI Researcher Issues Grim Warning, Says Only 5,000 People Have Access to Frontier AI While 2 Billion Use It as ‘Better Google Search’",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x5n016/former_openai_researcher_issues_grim_warning_says/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T09:45:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_Q4wB5EWELeE5WALTUf8gf5w59U5YRwiwK-ZZs-YBJU.jpeg?width=640&crop=smart&auto=webp&s=a1c80cda14c3e6eeaf7d90287dc659e3e6b1efd8"
       },
       {
         "rank": 1,
@@ -143,13 +142,13 @@
       },
       {
         "rank": 5,
-        "title": "Quotes from Gemini 4 Argon's chain of thought",
-        "url": "https://www.reddit.com/r/singularity/comments/1x5mljk/quotes_from_gemini_4_argons_chain_of_thought/",
+        "title": "Ben Affleck actually understands AI architecture, explains why he sold his AI company to Netflix for $587M",
+        "url": "https://www.reddit.com/r/singularity/comments/1x6077c/ben_affleck_actually_understands_ai_architecture/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-14T09:19:50.000Z",
+        "publishedAt": "2026-10-14T19:11:22.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/anmoxfajgevh1.jpg?width=140&height=34&auto=webp&s=242887c780aee1d02d188ce23878888889fb6bf4"
+        "thumbnail": "https://external-preview.redd.it/FGLd9a3Y6izxZms1c1JV12qMvIthGa7LDARqMalU0eo.jpeg?width=320&crop=smart&auto=webp&s=6556d0756f404bd2a86c26fd9684a974a7c6052a"
       },
       {
         "rank": 1,

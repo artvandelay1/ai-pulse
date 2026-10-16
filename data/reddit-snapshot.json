@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-10-16T18:59:51.567Z",
+  "fetchedAt": "2026-10-16T22:01:13.696Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I've spent the last ten months building a project with Claude, and tonight I asked it to show me a bit of the code that he thinks is very clever and he's proud of",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x73jfn/ive_spent_the_last_ten_months_building_a_project/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T01:37:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic employee says resistance is futile",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7hsp6/anthropic_employee_says_resistance_is_futile/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T14:31:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nmyp9k1yauvh1.png?width=640&crop=smart&auto=webp&s=e29d186cf063e65acb8a54a5d5a515fa0c8c2e8c"
+      },
+      {
+        "rank": 3,
+        "title": "Vibe coded a 16 KB FPS game as an experiment",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x78955/vibe_coded_a_16_kb_fps_game_as_an_experiment/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T05:54:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YnQ2OHNuNXBxcnZoMWJlAjJiqz5-eu4UVg-KuDHqBfhztl1OdCt6Zm1h7V0o.png?width=640&crop=smart&auto=webp&s=f55c82957b32cadda9d9d92b02d2d8c70c611290"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5.5 is so good at orchestrating other models and agents, it feels like another level of unlock",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x781g6/opus_55_is_so_good_at_orchestrating_other_models/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T05:41:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Week 6 update! Using AI to build a game with no dev experience",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x721px/week_6_update_using_ai_to_build_a_game_with_no/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T00:22:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MWNtMXYwc3d6cHZoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=21bf4f59f1ccd29f6147c9d6420e1a535a14a9c9"
+      },
       {
         "rank": 1,
         "title": "How many of your paper (either paper you authored or reviewed) are desk rejected? [D]",
@@ -16,11 +64,11 @@
       },
       {
         "rank": 2,
-        "title": "Resources for learning to write production grade python code [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
+        "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-15T21:41:08.000Z",
+        "publishedAt": "2026-10-16T18:49:12.000Z",
         "category": "reddit"
       },
       {
@@ -40,6 +88,55 @@
         "score": 0,
         "publishedAt": "2026-10-16T17:50:55.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "claude pro gives 10x more usage than gpt plus now",
+        "url": "https://www.reddit.com/r/codex/comments/1x7fyi0/claude_pro_gives_10x_more_usage_than_gpt_plus_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T13:16:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/adu6y1mgxtvh1.png?width=640&crop=smart&auto=webp&s=74e330cab0a6c10bdc1adc5f15a8fdab77d1c5e4"
+      },
+      {
+        "rank": 2,
+        "title": "Latest update on Ultrafast",
+        "url": "https://www.reddit.com/r/codex/comments/1x78fq5/latest_update_on_ultrafast/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T06:05:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/324ya58gsrvh1.png?width=140&height=129&auto=webp&s=5f7bfc8751cdd2679ee03e9f47e03d2c1d7ea555"
+      },
+      {
+        "rank": 3,
+        "title": "you might wanna burn through your codex limits today 👀",
+        "url": "https://www.reddit.com/r/codex/comments/1x7hl12/you_might_wanna_burn_through_your_codex_limits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T14:22:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s9ksufm29uvh1.png?width=140&height=23&auto=webp&s=60ff19f9c848e1c856c5a0ba282332f54b82f3e1"
+      },
+      {
+        "rank": 4,
+        "title": "codex usage dropped from 57% remaining to 0% remaining in 3 seconds?",
+        "url": "https://www.reddit.com/r/codex/comments/1x7obzw/codex_usage_dropped_from_57_remaining_to_0/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T18:40:30.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I created an OS using only ChatGPT/Codex for the last 3 and a half months",
+        "url": "https://www.reddit.com/r/codex/comments/1x7jqko/i_created_an_os_using_only_chatgptcodex_for_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T15:47:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9q6635fgmuvh1.png?width=140&height=115&auto=webp&s=81fbc5257a68117839898ec09d44b9d7c8de323e"
       },
       {
         "rank": 1,
@@ -138,102 +235,6 @@
         "score": 0,
         "publishedAt": "2026-10-15T19:37:30.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "That is an awesome toddler-level explanation.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6tpki/that_is_an_awesome_toddlerlevel_explanation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T18:35:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8aov6fmpdovh1.jpeg?width=640&crop=smart&auto=webp&s=762d85af3d26f1b8e733f5ccf049330aaab779d3"
-      },
-      {
-        "rank": 2,
-        "title": "Just got access to mythos!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6vn7r/just_got_access_to_mythos/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T19:49:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h9ltvektqovh1.jpeg?width=640&crop=smart&auto=webp&s=8b2587f037f7b654ce1337b392e69fe29c764515"
-      },
-      {
-        "rank": 3,
-        "title": "Clod Update: Claude promoted him after 1 million views",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6ra9v/clod_update_claude_promoted_him_after_1_million/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T17:04:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9b591vz7unvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=5f749a2bd9ff35325b6f1d53ec45cac578be0388"
-      },
-      {
-        "rank": 4,
-        "title": "A Github tweet leaked the EAP (early access program) name for what is likely the next model: Odango",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6iocw/a_github_tweet_leaked_the_eap_early_access/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T11:02:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q8z1quzs4mvh1.jpeg?width=640&crop=smart&auto=webp&s=d4e247835d70024373ed1383d656038331197c16"
-      },
-      {
-        "rank": 5,
-        "title": "The anti vibe-coding cult is going to be on wrong side of history",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6nfto/the_anti_vibecoding_cult_is_going_to_be_on_wrong/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T14:40:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo post: Day 11/We've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.",
-        "url": "https://www.reddit.com/r/codex/comments/1x6owlw/tibo_post_day_11weve_landed_a_series_of_changes/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-15T15:34:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Latest update on Ultrafast",
-        "url": "https://www.reddit.com/r/codex/comments/1x78fq5/latest_update_on_ultrafast/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T06:05:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/324ya58gsrvh1.png?width=140&height=129&auto=webp&s=5f7bfc8751cdd2679ee03e9f47e03d2c1d7ea555"
-      },
-      {
-        "rank": 3,
-        "title": "just used 5.6 sol again and it feels like magic",
-        "url": "https://www.reddit.com/r/codex/comments/1x6wde3/just_used_56_sol_again_and_it_feels_like_magic/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-15T20:16:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Codex usage on pro drain faster today",
-        "url": "https://www.reddit.com/r/codex/comments/1x6vafr/codex_usage_on_pro_drain_faster_today/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-15T19:35:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Why is the usage so bad? 50% of my weekly limit on the $200 plan gone in 3 hours?",
-        "url": "https://www.reddit.com/r/codex/comments/1x6ms62/why_is_the_usage_so_bad_50_of_my_weekly_limit_on/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-15T14:14:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ltkrr0003nvh1.png?width=640&crop=smart&auto=webp&s=d7143e900553fc5e6d717e5f09897e8d829c4ad3"
       }
     ]
   }

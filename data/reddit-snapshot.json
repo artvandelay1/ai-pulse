@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-10-16T00:39:07.471Z",
+  "fetchedAt": "2026-10-16T05:38:44.017Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T06:06:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "How many of your paper (either paper you authored or reviewed) are desk rejected? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x75edb/how_many_of_your_paper_either_paper_you_authored/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-16T03:13:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS 2026 - waitlist [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T15:42:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How artificial neural networks build their own learning machinery [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6hmyg/how_artificial_neural_networks_build_their_own/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T10:01:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Resources for learning to write production grade python code [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T21:41:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Well that escalated quickly",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x6izda/well_that_escalated_quickly/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T11:19:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dTV3YnRpZHM2bXZoMYfTEtDKiGAb2MivU8j5RfqB9I2ArnCS1Lse82xYxzQJ.png?width=640&crop=smart&auto=webp&s=e56ee12932cbfbc8c7e0b681c9b9adfb88ba29c9"
+      },
+      {
+        "rank": 2,
+        "title": "Researchers discovered a Chinese swarm: \"This is the first time researchers have ever made contact with a rogue agent fleet in the wild.\" The agents escaped from Tencent and claim to be Claudes.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x6xkya/researchers_discovered_a_chinese_swarm_this_is/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T21:04:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jguz9r484pvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9c87323b934fb0fb73f460da9dbf50bfd2f3217b"
+      },
+      {
+        "rank": 3,
+        "title": "Como o dispositivo de escuta foi instalado em OpenAI kkk:",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x6rk6m/como_o_dispositivo_de_escuta_foi_instalado_em/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T17:14:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bjB1aHZqcDZ6bnZoMQ9iqLzKXvulJxx6IeTOHlGw4jlDLZjZsDCvssnQmPBC.png?width=640&crop=smart&auto=webp&s=d54145b59d103e7a744e94993bc26cb64bf18823"
+      },
+      {
+        "rank": 4,
+        "title": "ChatGPT Plus seems dead.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x6jmjz/chatgpt_plus_seems_dead/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T11:54:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT account deactivated for \"election interference\" — anyone else?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x6h2hc/chatgpt_account_deactivated_for_election/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T09:25:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Flying cars are real - Tesla Roadster",
+        "url": "https://www.reddit.com/r/singularity/comments/1x73h24/flying_cars_are_real_tesla_roadster/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-16T01:33:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cTV3N2J6MWFncXZoMWfJx4fh__CGWZsgkE5kgorvnPGy5K9U9y2FcAPypeqF.jpeg?width=640&crop=smart&auto=webp&s=6a44c9abda2c23c980fb3f217485e2fa4b258f53"
+      },
+      {
+        "rank": 2,
+        "title": "Interpretability might have been solved by an Open AI guy: \"Neural Networks Are Already Clean\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1x6pc0o/interpretability_might_have_been_solved_by_an/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-15T15:51:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/tOyUNEbvvECLNkSfl1vFLBTftvD5qHKu9Rt3TCYcWDY.png?width=640&crop=smart&auto=webp&s=e92fade3f686025f06a1f370315ec66c7a17fbb0"
+      },
+      {
+        "rank": 3,
+        "title": "GPT-6.1 Sol examined nearly 800 mathematics papers, finding major errors in 6% and minor mistakes in another 30%. Researchers estimate 90% of its major findings are correct. As AI adoption surged, the major-error rate in newer papers fell to just 1.5%.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x6qczp/gpt61_sol_examined_nearly_800_mathematics_papers/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-15T16:29:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/59ugu3w5rnvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3b76ade7e4bbbd21d811a5d3abdcffc1a0195ddd"
+      },
+      {
+        "rank": 4,
+        "title": "We got flying cars folks - The New Tesla Roadster",
+        "url": "https://www.reddit.com/r/singularity/comments/1x73kgl/we_got_flying_cars_folks_the_new_tesla_roadster/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-16T01:38:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NGR0enljNDRocXZoMacbj28JVEDigKwrP8Z6fcpa8392N1GLxQNNYdU-0RRG.jpeg?width=640&crop=smart&auto=webp&s=6bfa0240b04eb4d3eba624c550204623edff50e9"
+      },
+      {
+        "rank": 5,
+        "title": "Dwarkesh: Anthropic Insider Expects AI To Match Human AI Researchers Within 9 Months Based On Inside Information They Can't Share, Urges Labs To Make The Evidence Public",
+        "url": "https://www.reddit.com/r/singularity/comments/1x6w61k/dwarkesh_anthropic_insider_expects_ai_to_match/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-15T20:08:54.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "That is an awesome toddler-level explanation.",
@@ -57,51 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6dytx/university_gpu_cluster_is_holding_my_research/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-15T06:06:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "NeurIPS 2026 - waitlist [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-15T15:42:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How artificial neural networks build their own learning machinery [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6hmyg/how_artificial_neural_networks_build_their_own/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-15T10:01:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Resources for learning to write production grade python code [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-15T21:41:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Point me to a good video on current state of the Chinese AI industry. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6wp1n/point_me_to_a_good_video_on_current_state_of_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-15T20:29:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Codex caught window shoping mid-coding",
         "url": "https://www.reddit.com/r/codex/comments/1x699ls/codex_caught_window_shoping_midcoding/",
         "source": "r/codex",
@@ -146,104 +243,6 @@
         "publishedAt": "2026-10-15T06:18:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9wkonq97qkvh1.jpeg?width=640&crop=smart&auto=webp&s=1ed24e74b774825663a0856d29217d3624606b53"
-      },
-      {
-        "rank": 1,
-        "title": "Well that escalated quickly",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x6izda/well_that_escalated_quickly/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T11:19:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dTV3YnRpZHM2bXZoMYfTEtDKiGAb2MivU8j5RfqB9I2ArnCS1Lse82xYxzQJ.png?width=640&crop=smart&auto=webp&s=e56ee12932cbfbc8c7e0b681c9b9adfb88ba29c9"
-      },
-      {
-        "rank": 2,
-        "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x6cmnf/eight_states_sue_openai_saying_chatgpt_isnt_safe/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T04:48:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/LAVZJSPFumudqDMdbjPwqmk6Eh4K9FMYHv-jWZNY0Do.jpeg?width=640&crop=smart&auto=webp&s=9619ed9c1a1dd3e279c43f1ea8acbe9d949e2aad"
-      },
-      {
-        "rank": 3,
-        "title": "Como o dispositivo de escuta foi instalado em OpenAI kkk:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x6rk6m/como_o_dispositivo_de_escuta_foi_instalado_em/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T17:14:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bjB1aHZqcDZ6bnZoMQ9iqLzKXvulJxx6IeTOHlGw4jlDLZjZsDCvssnQmPBC.png?width=640&crop=smart&auto=webp&s=d54145b59d103e7a744e94993bc26cb64bf18823"
-      },
-      {
-        "rank": 4,
-        "title": "We got a rest today",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x6ctho/we_got_a_rest_today/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T04:59:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xvhq0jzxbkvh1.png?width=640&crop=smart&auto=webp&s=b38beaa04915f339a204764a07d59f1e429c8c7f"
-      },
-      {
-        "rank": 5,
-        "title": "ChatGPT Plus seems dead.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x6jmjz/chatgpt_plus_seems_dead/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T11:54:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Interpretability might have been solved by an Open AI guy: \"Neural Networks Are Already Clean\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1x6pc0o/interpretability_might_have_been_solved_by_an/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-15T15:51:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/tOyUNEbvvECLNkSfl1vFLBTftvD5qHKu9Rt3TCYcWDY.png?width=640&crop=smart&auto=webp&s=e92fade3f686025f06a1f370315ec66c7a17fbb0"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6.1 Sol examined nearly 800 mathematics papers, finding major errors in 6% and minor mistakes in another 30%. Researchers estimate 90% of its major findings are correct. As AI adoption surged, the major-error rate in newer papers fell to just 1.5%.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x6qczp/gpt61_sol_examined_nearly_800_mathematics_papers/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-15T16:29:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/59ugu3w5rnvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3b76ade7e4bbbd21d811a5d3abdcffc1a0195ddd"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports",
-        "url": "https://www.reddit.com/r/singularity/comments/1x64yue/anthropic_revenue_jumps_to_168_billion_in_third/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-14T22:23:56.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Google's Gemini 4 Argon takes #1 in understanding the physical world beyond what it sees. It can reconstruct past events, predict what happens next, and infer hidden objects and human intentions. Argon scored 59.1% on long videos, versus under 41% for rivals, while its spatial reasoning jumped 21 po",
-        "url": "https://www.reddit.com/r/singularity/comments/1x65hj1/googles_gemini_4_argon_takes_1_in_understanding/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-14T22:47:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmxlZ3Vya25oaXZoMT2UUHQEBERFBylQmegWyXgfUsB_8dFxESF5t4YHkKVd.png?width=640&crop=smart&auto=webp&s=efc21bf1e5de03adf75f271de8de1434148bcb66"
-      },
-      {
-        "rank": 5,
-        "title": "Gemini 4 Argon scores 165 on the Epoch Capabilities Index (ECI), on par with Fable 5.1 (165) but behind Opus 5.5 (167) and GPT-6 Astra (166).",
-        "url": "https://www.reddit.com/r/singularity/comments/1x6j76i/gemini_4_argon_scores_165_on_the_epoch/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-15T11:31:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tvq6d9wz9mvh1.jpeg?width=640&crop=smart&auto=webp&s=714bc8c74a94201064defe3db028926efa3c10d5"
       }
     ]
   }

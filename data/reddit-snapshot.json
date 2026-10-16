@@ -1,10 +1,60 @@
 {
-  "fetchedAt": "2026-10-15T22:02:51.480Z",
+  "fetchedAt": "2026-10-16T00:39:07.471Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "That is an awesome toddler-level explanation.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6tpki/that_is_an_awesome_toddlerlevel_explanation/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T18:35:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8aov6fmpdovh1.jpeg?width=640&crop=smart&auto=webp&s=762d85af3d26f1b8e733f5ccf049330aaab779d3"
+      },
+      {
+        "rank": 2,
+        "title": "Claude let me build something I wanted for almost a decade",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6hef5/claude_let_me_build_something_i_wanted_for_almost/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T09:47:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bGpjM2lmeTlybHZoMQA68qKSku1_6DVgWggFahm9w9D3ezWyno0j7VF7Bltm.png?width=640&crop=smart&auto=webp&s=f247eba418f482f9a6ec014fcfadfdd5616f11b3"
+      },
+      {
+        "rank": 3,
+        "title": "Clod Update: Claude promoted him after 1 million views",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6ra9v/clod_update_claude_promoted_him_after_1_million/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T17:04:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9b591vz7unvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=5f749a2bd9ff35325b6f1d53ec45cac578be0388"
+      },
+      {
+        "rank": 4,
+        "title": "A Github tweet leaked the EAP (early access program) name for what is likely the next model: Odango",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6iocw/a_github_tweet_leaked_the_eap_early_access/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T11:02:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q8z1quzs4mvh1.jpeg?width=640&crop=smart&auto=webp&s=d4e247835d70024373ed1383d656038331197c16"
+      },
+      {
+        "rank": 5,
+        "title": "Just got access to mythos!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x6vn7r/just_got_access_to_mythos/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-15T19:49:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h9ltvektqovh1.jpeg?width=640&crop=smart&auto=webp&s=8b2587f037f7b654ce1337b392e69fe29c764515"
+      },
       {
         "rank": 1,
         "title": "University GPU cluster is holding my research hostage. Can I use my internship company’s GPUs instead? 💀 [D]",
@@ -16,15 +66,6 @@
       },
       {
         "rank": 2,
-        "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-14T22:08:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "NeurIPS 2026 - waitlist [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
         "source": "r/MachineLearning",
@@ -33,13 +74,78 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "How artificial neural networks build their own learning machinery [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x6hmyg/how_artificial_neural_networks_build_their_own/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-15T10:01:47.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Resources for learning to write production grade python code [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T21:41:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Point me to a good video on current state of the Chinese AI industry. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6wp1n/point_me_to_a_good_video_on_current_state_of_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-15T20:29:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Codex caught window shoping mid-coding",
+        "url": "https://www.reddit.com/r/codex/comments/1x699ls/codex_caught_window_shoping_midcoding/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-15T01:48:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/54bpyyoudjvh1.png?width=640&crop=smart&auto=webp&s=3f2bcb9a7d38c88ecc0c83b58d3db1c224b0f5e5"
+      },
+      {
+        "rank": 2,
+        "title": "Day 10 Tibo got optimized out",
+        "url": "https://www.reddit.com/r/codex/comments/1x6bcjt/day_10_tibo_got_optimized_out/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-15T03:36:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Tibo post: Day 11/We've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.",
+        "url": "https://www.reddit.com/r/codex/comments/1x6owlw/tibo_post_day_11weve_landed_a_series_of_changes/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-15T15:34:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "the reset system literally rewards you for nuking your allowance",
+        "url": "https://www.reddit.com/r/codex/comments/1x6h0oh/the_reset_system_literally_rewards_you_for_nuking/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-15T09:22:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Reset just landed",
+        "url": "https://www.reddit.com/r/codex/comments/1x6e5os/reset_just_landed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-15T06:18:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9wkonq97qkvh1.jpeg?width=640&crop=smart&auto=webp&s=1ed24e74b774825663a0856d29217d3624606b53"
       },
       {
         "rank": 1,
@@ -138,102 +244,6 @@
         "publishedAt": "2026-10-15T11:31:23.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tvq6d9wz9mvh1.jpeg?width=640&crop=smart&auto=webp&s=714bc8c74a94201064defe3db028926efa3c10d5"
-      },
-      {
-        "rank": 1,
-        "title": "The future is bleak",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5kb71/the_future_is_bleak/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T06:49:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "I let Claude hire its first employee. It chose a rock.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5uqak/i_let_claude_hire_its_first_employee_it_chose_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T15:47:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xfc8ojviegvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4b7abde46de922be7d47ee12312e3a2c8ee88623"
-      },
-      {
-        "rank": 3,
-        "title": "Redesigning source control at Anthropic",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5b5ek/redesigning_source_control_at_anthropic/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-13T22:47:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/fuoA9JvlRfMsDiD2Kr179lJfNBUKMRIilsnGtn2Slxg.png?width=320&crop=smart&auto=webp&s=1017237a278b4350abba9de11ca5b3115e563da2"
-      },
-      {
-        "rank": 4,
-        "title": "What is an AI \"Lifehack\" that people don't seem to know yet?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5or3q/what_is_an_ai_lifehack_that_people_dont_seem_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T11:29:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Pixel art scene made with Opus 5.5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x5r6nw/pixel_art_scene_made_with_opus_55/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-14T13:26:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NXF4emc4NGZwZnZoMeylua8JWsKNu8Yr-z_yWypUKsm9hKMM9m-ezwBXDhQ8.png?width=640&crop=smart&auto=webp&s=52b0159b03a0c67e45b17ad7b995dda61bd82602"
-      },
-      {
-        "rank": 1,
-        "title": "The name is half the product distribution!",
-        "url": "https://www.reddit.com/r/codex/comments/1x58gb3/the_name_is_half_the_product_distribution/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T20:54:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/30rkescgsavh1.jpeg?width=640&crop=smart&auto=webp&s=f4723327d72c00e74efc32ce5b8cb4a7e9778ec6"
-      },
-      {
-        "rank": 2,
-        "title": "🚨Tibo - Day 8",
-        "url": "https://www.reddit.com/r/codex/comments/1x5c5wm/tibo_day_8/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-13T23:33:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xwdtfyc1lbvh1.jpeg?width=640&crop=smart&auto=webp&s=078c40ca0360e6b7084fd75880f83d7daef679e4"
-      },
-      {
-        "rank": 3,
-        "title": "I asked Astra what time it was. He's currently trying to unify general relativity and quantum mechanics.",
-        "url": "https://www.reddit.com/r/codex/comments/1x5pue6/i_asked_astra_what_time_it_was_hes_currently/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-14T12:25:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Sadly migrating to opus",
-        "url": "https://www.reddit.com/r/codex/comments/1x5dd8g/sadly_migrating_to_opus/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-14T00:29:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "This is ridiculous",
-        "url": "https://www.reddit.com/r/codex/comments/1x5qnnb/this_is_ridiculous/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-14T13:02:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0gd366xalfvh1.png?width=640&crop=smart&auto=webp&s=e81c29e3ccf276637838ebec8146b416d172e935"
       }
     ]
   }

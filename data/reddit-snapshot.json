@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-16T15:29:51.502Z",
+  "fetchedAt": "2026-10-16T18:59:51.567Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "NeurIPS 2026 - waitlist [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-15T15:42:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Resources for learning to write production grade python code [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/",
         "source": "r/MachineLearning",
@@ -33,12 +24,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-16T12:41:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-16T17:50:55.000Z",
         "category": "reddit"
       },
       {
@@ -73,13 +73,13 @@
       },
       {
         "rank": 4,
-        "title": "Como o dispositivo de escuta foi instalado em OpenAI kkk:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x6rk6m/como_o_dispositivo_de_escuta_foi_instalado_em/",
+        "title": "AI beef: Jensen Huang claims Geoffrey Hinton is fearmongering. Hinton says Jensen wants to downplay the danger of AI so he can sell more chips",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x7fsky/ai_beef_jensen_huang_claims_geoffrey_hinton_is/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-15T17:14:24.000Z",
+        "publishedAt": "2026-10-16T13:08:55.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bjB1aHZqcDZ6bnZoMQ9iqLzKXvulJxx6IeTOHlGw4jlDLZjZsDCvssnQmPBC.png?width=640&crop=smart&auto=webp&s=d54145b59d103e7a744e94993bc26cb64bf18823"
+        "thumbnail": "https://external-preview.redd.it/YXh1czZsaWF3dHZoMcT151xoWIQLTl-HK6rp9N6u3ylUk4Iq3ptppYpEZJAr.png?width=640&crop=smart&auto=webp&s=a656f9090af33b5cda4cf2be5fb11409bf05b247"
       },
       {
         "rank": 5,
@@ -93,16 +93,6 @@
       },
       {
         "rank": 1,
-        "title": "Flying cars are real - Tesla Roadster",
-        "url": "https://www.reddit.com/r/singularity/comments/1x73h24/flying_cars_are_real_tesla_roadster/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-16T01:33:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cTV3N2J6MWFncXZoMWfJx4fh__CGWZsgkE5kgorvnPGy5K9U9y2FcAPypeqF.jpeg?width=640&crop=smart&auto=webp&s=6a44c9abda2c23c980fb3f217485e2fa4b258f53"
-      },
-      {
-        "rank": 2,
         "title": "Linus speaks on Ai",
         "url": "https://www.reddit.com/r/singularity/comments/1x79mwf/linus_speaks_on_ai/",
         "source": "r/singularity",
@@ -112,17 +102,7 @@
         "thumbnail": "https://preview.redd.it/ob9q2s9y5svh1.png?width=640&crop=smart&auto=webp&s=710e91236819eb107d30922b9e1eeb34e81dc3d7"
       },
       {
-        "rank": 3,
-        "title": "Interpretability might have been solved by an Open AI guy: \"Neural Networks Are Already Clean\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1x6pc0o/interpretability_might_have_been_solved_by_an/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-15T15:51:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/tOyUNEbvvECLNkSfl1vFLBTftvD5qHKu9Rt3TCYcWDY.png?width=640&crop=smart&auto=webp&s=e92fade3f686025f06a1f370315ec66c7a17fbb0"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "We got flying cars folks - The New Tesla Roadster",
         "url": "https://www.reddit.com/r/singularity/comments/1x73kgl/we_got_flying_cars_folks_the_new_tesla_roadster/",
         "source": "r/singularity",
@@ -132,14 +112,32 @@
         "thumbnail": "https://external-preview.redd.it/NGR0enljNDRocXZoMacbj28JVEDigKwrP8Z6fcpa8392N1GLxQNNYdU-0RRG.jpeg?width=640&crop=smart&auto=webp&s=6bfa0240b04eb4d3eba624c550204623edff50e9"
       },
       {
-        "rank": 5,
-        "title": "GPT-6.1 Sol examined nearly 800 mathematics papers, finding major errors in 6% and minor mistakes in another 30%. Researchers estimate 90% of its major findings are correct. As AI adoption surged, the major-error rate in newer papers fell to just 1.5%.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x6qczp/gpt61_sol_examined_nearly_800_mathematics_papers/",
+        "rank": 3,
+        "title": "Flying cars are real - Tesla Roadster",
+        "url": "https://www.reddit.com/r/singularity/comments/1x73h24/flying_cars_are_real_tesla_roadster/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-15T16:29:23.000Z",
+        "publishedAt": "2026-10-16T01:33:47.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/59ugu3w5rnvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=3b76ade7e4bbbd21d811a5d3abdcffc1a0195ddd"
+        "thumbnail": "https://external-preview.redd.it/cTV3N2J6MWFncXZoMWfJx4fh__CGWZsgkE5kgorvnPGy5K9U9y2FcAPypeqF.jpeg?width=640&crop=smart&auto=webp&s=6a44c9abda2c23c980fb3f217485e2fa4b258f53"
+      },
+      {
+        "rank": 4,
+        "title": "Dwarkesh: Anthropic Insider Expects AI To Match Human AI Researchers Within 9 Months Based On Inside Information They Can't Share, Urges Labs To Make The Evidence Public",
+        "url": "https://www.reddit.com/r/singularity/comments/1x6w61k/dwarkesh_anthropic_insider_expects_ai_to_match/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-15T20:08:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "The last few weeks have been the most technologically concentrated period if time I have so far witnessed.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x6vcdy/the_last_few_weeks_have_been_the_most/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-15T19:37:30.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

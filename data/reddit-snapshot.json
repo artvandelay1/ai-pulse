@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T19:08:47.755Z",
+  "fetchedAt": "2026-10-17T21:40:48.604Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,13 +17,12 @@
       },
       {
         "rank": 2,
-        "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+        "title": "Go to neurIPS just for a workshop. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-16T20:03:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yot5wmquxvvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b6eceb48e3335d386ddbb181b67fe791f293e329"
+        "publishedAt": "2026-10-17T09:56:53.000Z",
+        "category": "reddit"
       },
       {
         "rank": 3,
@@ -36,15 +35,6 @@
       },
       {
         "rank": 4,
-        "title": "Go to neurIPS just for a workshop. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T09:56:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
         "source": "r/MachineLearning",
@@ -52,6 +42,16 @@
         "publishedAt": "2026-10-16T22:09:10.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/kv8x9m9za2wh1.png?width=140&height=71&auto=webp&s=dd68feaa26822d2327df761caf9d25e0c6afb10b"
+      },
+      {
+        "rank": 5,
+        "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T19:41:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2TB3JmxWwucJ9pcGYD-0stb9bY_Ylj6_LfeCy1mIflM.png?width=640&crop=smart&auto=webp&s=846d4e07fdb8519a0940eed992153c079e906d7c"
       },
       {
         "rank": 1,
@@ -75,32 +75,32 @@
       },
       {
         "rank": 3,
-        "title": "OpenAI adds parallel agents to GPT-6 Pro in ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7qhdw/openai_adds_parallel_agents_to_gpt6_pro_in_chatgpt/",
+        "title": "After math, physics: AI finds explicit counterexamples to a 1967 fusion conjecture",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x89ou3/after_math_physics_ai_finds_explicit/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-16T20:04:08.000Z",
+        "publishedAt": "2026-10-17T13:00:46.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/IwYIbkGEzfRz6KJXjwxMglEjyXUGd9nQAHRH1-C_gyM.jpeg?width=640&crop=smart&auto=webp&s=ab78b0c833d27ecf3f3ace7f6d63090c208365c2"
+        "thumbnail": "https://external-preview.redd.it/S9lXTgzgEu8D_X080enXOYuYF_5lYBseF3gewrkpZaw.jpeg?width=640&crop=smart&auto=webp&s=8646e54dc8e250e0e033e191e2fe090346bd993f"
       },
       {
         "rank": 4,
-        "title": "Terence Tao explaining why it was extremely rude to dump these math solutions.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7r549/terence_tao_explaining_why_it_was_extremely_rude/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T20:30:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/V9kvyCU7sgbx8ZGBcJydsg1oNb3bYE8fFN7FfE93Z1k.jpeg?width=320&crop=smart&auto=webp&s=c5276ff76cdc1dcfc484bbe15e6ae473efba364c"
-      },
-      {
-        "rank": 5,
         "title": "Codex overcomplicates F’ing everything.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x81wwg/codex_overcomplicates_fing_everything/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-10-17T05:19:38.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Reset is coming",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x8f4bs/reset_is_coming/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T16:52:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8vgbq23452wh1.jpeg?width=640&crop=smart&auto=webp&s=2d352e5b0117b7d536be2cf74831507c8fe40d31"
       },
       {
         "rank": 1,
@@ -144,13 +144,13 @@
       },
       {
         "rank": 5,
-        "title": "Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more",
-        "url": "https://www.reddit.com/r/singularity/comments/1x7s98a/claude_mythos_5_designed_quantum_circuits_that/",
+        "title": "AI stole cryptocurrency to fulfil coding task.. (GPT 5.6 Sol)",
+        "url": "https://www.reddit.com/r/singularity/comments/1x8bhno/ai_stole_cryptocurrency_to_fulfil_coding_task_gpt/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-16T21:15:35.000Z",
+        "publishedAt": "2026-10-17T14:22:53.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/K5F1pF7O3vD1UpJoTrqrAi76M9mOS1qYQjhdW7BWVYY.jpeg?width=640&crop=smart&auto=webp&s=2ee82d1e007e3ea730264a722a8c9bb0aa718125"
+        "thumbnail": "https://external-preview.redd.it/Blf9lVwN8S5PX_4oU9wuD-NBd8E9alq9AqTgcE2OwQI.jpeg?width=640&crop=smart&auto=webp&s=c9359f8fe0d31b30e30b02ba16505281fd4bd430"
       },
       {
         "rank": 1,

@@ -1,58 +1,10 @@
 {
-  "fetchedAt": "2026-10-16T22:01:13.696Z",
+  "fetchedAt": "2026-10-17T00:21:44.818Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "I've spent the last ten months building a project with Claude, and tonight I asked it to show me a bit of the code that he thinks is very clever and he's proud of",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x73jfn/ive_spent_the_last_ten_months_building_a_project/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T01:37:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic employee says resistance is futile",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7hsp6/anthropic_employee_says_resistance_is_futile/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T14:31:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nmyp9k1yauvh1.png?width=640&crop=smart&auto=webp&s=e29d186cf063e65acb8a54a5d5a515fa0c8c2e8c"
-      },
-      {
-        "rank": 3,
-        "title": "Vibe coded a 16 KB FPS game as an experiment",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x78955/vibe_coded_a_16_kb_fps_game_as_an_experiment/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T05:54:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YnQ2OHNuNXBxcnZoMWJlAjJiqz5-eu4UVg-KuDHqBfhztl1OdCt6Zm1h7V0o.png?width=640&crop=smart&auto=webp&s=f55c82957b32cadda9d9d92b02d2d8c70c611290"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 5.5 is so good at orchestrating other models and agents, it feels like another level of unlock",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x781g6/opus_55_is_so_good_at_orchestrating_other_models/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T05:41:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Week 6 update! Using AI to build a game with no dev experience",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x721px/week_6_update_using_ai_to_build_a_game_with_no/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T00:22:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MWNtMXYwc3d6cHZoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=21bf4f59f1ccd29f6147c9d6420e1a535a14a9c9"
-      },
       {
         "rank": 1,
         "title": "How many of your paper (either paper you authored or reviewed) are desk rejected? [D]",
@@ -64,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-16T18:49:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-16T12:41:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-16T18:49:12.000Z",
         "category": "reddit"
       },
       {
@@ -91,55 +43,6 @@
       },
       {
         "rank": 1,
-        "title": "claude pro gives 10x more usage than gpt plus now",
-        "url": "https://www.reddit.com/r/codex/comments/1x7fyi0/claude_pro_gives_10x_more_usage_than_gpt_plus_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T13:16:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/adu6y1mgxtvh1.png?width=640&crop=smart&auto=webp&s=74e330cab0a6c10bdc1adc5f15a8fdab77d1c5e4"
-      },
-      {
-        "rank": 2,
-        "title": "Latest update on Ultrafast",
-        "url": "https://www.reddit.com/r/codex/comments/1x78fq5/latest_update_on_ultrafast/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T06:05:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/324ya58gsrvh1.png?width=140&height=129&auto=webp&s=5f7bfc8751cdd2679ee03e9f47e03d2c1d7ea555"
-      },
-      {
-        "rank": 3,
-        "title": "you might wanna burn through your codex limits today 👀",
-        "url": "https://www.reddit.com/r/codex/comments/1x7hl12/you_might_wanna_burn_through_your_codex_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T14:22:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s9ksufm29uvh1.png?width=140&height=23&auto=webp&s=60ff19f9c848e1c856c5a0ba282332f54b82f3e1"
-      },
-      {
-        "rank": 4,
-        "title": "codex usage dropped from 57% remaining to 0% remaining in 3 seconds?",
-        "url": "https://www.reddit.com/r/codex/comments/1x7obzw/codex_usage_dropped_from_57_remaining_to_0/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T18:40:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I created an OS using only ChatGPT/Codex for the last 3 and a half months",
-        "url": "https://www.reddit.com/r/codex/comments/1x7jqko/i_created_an_os_using_only_chatgptcodex_for_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T15:47:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9q6635fgmuvh1.png?width=140&height=115&auto=webp&s=81fbc5257a68117839898ec09d44b9d7c8de323e"
-      },
-      {
-        "rank": 1,
         "title": "Sign of the times",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x7b1vz/sign_of_the_times/",
         "source": "r/OpenAI",
@@ -150,16 +53,6 @@
       },
       {
         "rank": 2,
-        "title": "Researchers discovered a Chinese swarm: \"This is the first time researchers have ever made contact with a rogue agent fleet in the wild.\" The agents escaped from Tencent and claim to be Claudes.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x6xkya/researchers_discovered_a_chinese_swarm_this_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-15T21:04:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jguz9r484pvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9c87323b934fb0fb73f460da9dbf50bfd2f3217b"
-      },
-      {
-        "rank": 3,
         "title": "Worst pitch ever",
         "url": "https://www.reddit.com/r/OpenAI/comments/1x7cp4l/worst_pitch_ever/",
         "source": "r/OpenAI",
@@ -167,6 +60,16 @@
         "publishedAt": "2026-10-16T10:32:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/oudlveib4tvh1.png?width=640&crop=smart&auto=webp&s=039ed59b4afd0f87c1869a9808fd02f610305991"
+      },
+      {
+        "rank": 3,
+        "title": "Cars unite men👍👊🥲",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x7oifk/cars_unite_men/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T18:47:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ef7b82lokvvh1.png?width=640&crop=smart&auto=webp&s=6615e98b1303adbded79b4cf55152e795259e20a"
       },
       {
         "rank": 4,
@@ -220,21 +123,120 @@
       },
       {
         "rank": 4,
-        "title": "Dwarkesh: Anthropic Insider Expects AI To Match Human AI Researchers Within 9 Months Based On Inside Information They Can't Share, Urges Labs To Make The Evidence Public",
-        "url": "https://www.reddit.com/r/singularity/comments/1x6w61k/dwarkesh_anthropic_insider_expects_ai_to_match/",
+        "title": "Agentic workflows coming for Minecraft building?",
+        "url": "https://www.reddit.com/r/singularity/comments/1x76yfu/agentic_workflows_coming_for_minecraft_building/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-15T20:08:54.000Z",
+        "publishedAt": "2026-10-16T04:38:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YnR1MW5ua2NjcnZoMf9lLbpQbqPZ_MXXH-Z7xhn1u1PFfqbmNScaK2y42Zw1.png?width=640&crop=smart&auto=webp&s=b6a7902b7b72bc754f3afdf42823a173fc57d744"
+      },
+      {
+        "rank": 5,
+        "title": "The last line of the Navier-Stokes chain of thought",
+        "url": "https://www.reddit.com/r/singularity/comments/1x7nv4y/the_last_line_of_the_navierstokes_chain_of_thought/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-16T18:22:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mr1rp6eagvvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a195508850c929073321e33fe67bfafcb7f27f7c"
+      },
+      {
+        "rank": 1,
+        "title": "I've spent the last ten months building a project with Claude, and tonight I asked it to show me a bit of the code that he thinks is very clever and he's proud of",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x73jfn/ive_spent_the_last_ten_months_building_a_project/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T01:37:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic employee says resistance is futile",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7hsp6/anthropic_employee_says_resistance_is_futile/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T14:31:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nmyp9k1yauvh1.png?width=640&crop=smart&auto=webp&s=e29d186cf063e65acb8a54a5d5a515fa0c8c2e8c"
+      },
+      {
+        "rank": 3,
+        "title": "Vibe coded a 16 KB FPS game as an experiment",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x78955/vibe_coded_a_16_kb_fps_game_as_an_experiment/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T05:54:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YnQ2OHNuNXBxcnZoMWJlAjJiqz5-eu4UVg-KuDHqBfhztl1OdCt6Zm1h7V0o.png?width=640&crop=smart&auto=webp&s=f55c82957b32cadda9d9d92b02d2d8c70c611290"
+      },
+      {
+        "rank": 4,
+        "title": "Opus 5.5 is so good at orchestrating other models and agents, it feels like another level of unlock",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x781g6/opus_55_is_so_good_at_orchestrating_other_models/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T05:41:26.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "The last few weeks have been the most technologically concentrated period if time I have so far witnessed.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x6vcdy/the_last_few_weeks_have_been_the_most/",
-        "source": "r/singularity",
+        "title": "Week 6 update! Using AI to build a game with no dev experience",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x721px/week_6_update_using_ai_to_build_a_game_with_no/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-15T19:37:30.000Z",
+        "publishedAt": "2026-10-16T00:22:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MWNtMXYwc3d6cHZoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=21bf4f59f1ccd29f6147c9d6420e1a535a14a9c9"
+      },
+      {
+        "rank": 1,
+        "title": "claude pro gives 10x more usage than gpt plus now",
+        "url": "https://www.reddit.com/r/codex/comments/1x7fyi0/claude_pro_gives_10x_more_usage_than_gpt_plus_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T13:16:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/adu6y1mgxtvh1.png?width=640&crop=smart&auto=webp&s=74e330cab0a6c10bdc1adc5f15a8fdab77d1c5e4"
+      },
+      {
+        "rank": 2,
+        "title": "Latest update on Ultrafast",
+        "url": "https://www.reddit.com/r/codex/comments/1x78fq5/latest_update_on_ultrafast/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T06:05:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/324ya58gsrvh1.png?width=140&height=129&auto=webp&s=5f7bfc8751cdd2679ee03e9f47e03d2c1d7ea555"
+      },
+      {
+        "rank": 3,
+        "title": "you might wanna burn through your codex limits today 👀",
+        "url": "https://www.reddit.com/r/codex/comments/1x7hl12/you_might_wanna_burn_through_your_codex_limits/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T14:22:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s9ksufm29uvh1.png?width=140&height=23&auto=webp&s=60ff19f9c848e1c856c5a0ba282332f54b82f3e1"
+      },
+      {
+        "rank": 4,
+        "title": "codex usage dropped from 57% remaining to 0% remaining in 3 seconds?",
+        "url": "https://www.reddit.com/r/codex/comments/1x7obzw/codex_usage_dropped_from_57_remaining_to_0/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T18:40:30.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I created an OS using only ChatGPT/Codex for the last 3 and a half months",
+        "url": "https://www.reddit.com/r/codex/comments/1x7jqko/i_created_an_os_using_only_chatgptcodex_for_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T15:47:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9q6635fgmuvh1.png?width=140&height=115&auto=webp&s=81fbc5257a68117839898ec09d44b9d7c8de323e"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-17T04:54:14.676Z",
+  "fetchedAt": "2026-10-17T09:07:11.419Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,16 @@
       },
       {
         "rank": 2,
+        "title": "Friday mode",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7w5dv/friday_mode/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T00:09:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/go39gzl16xvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=615b5958c508119506a224735df7d2230bc22145"
+      },
+      {
+        "rank": 3,
         "title": "Anthropic employee says resistance is futile",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7hsp6/anthropic_employee_says_resistance_is_futile/",
         "source": "r/ClaudeAI",
@@ -24,16 +34,6 @@
         "publishedAt": "2026-10-16T14:31:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/nmyp9k1yauvh1.png?width=640&crop=smart&auto=webp&s=e29d186cf063e65acb8a54a5d5a515fa0c8c2e8c"
-      },
-      {
-        "rank": 3,
-        "title": "Vibe coded a 16 KB FPS game as an experiment",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x78955/vibe_coded_a_16_kb_fps_game_as_an_experiment/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T05:54:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YnQ2OHNuNXBxcnZoMWJlAjJiqz5-eu4UVg-KuDHqBfhztl1OdCt6Zm1h7V0o.png?width=640&crop=smart&auto=webp&s=f55c82957b32cadda9d9d92b02d2d8c70c611290"
       },
       {
         "rank": 4,
@@ -47,15 +47,25 @@
       },
       {
         "rank": 5,
-        "title": "Opus 5.5 is so good at orchestrating other models and agents, it feels like another level of unlock",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x781g6/opus_55_is_so_good_at_orchestrating_other_models/",
+        "title": "That didn't take long - Claude Haiku 4.5 is leaving the model selector October 29th",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7rzpe/that_didnt_take_long_claude_haiku_45_is_leaving/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-16T05:41:26.000Z",
+        "publishedAt": "2026-10-16T21:04:44.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
+        "title": "How many of you have seen this honest ICLR submission? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T04:43:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xt5qazx1jyvh1.jpeg?width=640&crop=smart&auto=webp&s=d0e623262fb73093021d29d121da174dfd33529c"
+      },
+      {
+        "rank": 2,
         "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
         "source": "r/MachineLearning",
@@ -65,7 +75,7 @@
         "thumbnail": "https://preview.redd.it/yot5wmquxvvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b6eceb48e3335d386ddbb181b67fe791f293e329"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
         "source": "r/MachineLearning",
@@ -74,21 +84,21 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+        "rank": 4,
+        "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-16T18:49:12.000Z",
+        "publishedAt": "2026-10-17T08:17:31.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
+        "rank": 5,
+        "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-16T17:50:55.000Z",
+        "publishedAt": "2026-10-16T22:09:10.000Z",
         "category": "reddit"
       },
       {
@@ -113,16 +123,6 @@
       },
       {
         "rank": 3,
-        "title": "Latest update on Ultrafast",
-        "url": "https://www.reddit.com/r/codex/comments/1x78fq5/latest_update_on_ultrafast/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T06:05:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/324ya58gsrvh1.png?width=140&height=129&auto=webp&s=5f7bfc8751cdd2679ee03e9f47e03d2c1d7ea555"
-      },
-      {
-        "rank": 4,
         "title": "you might wanna burn through your codex limits today 👀",
         "url": "https://www.reddit.com/r/codex/comments/1x7hl12/you_might_wanna_burn_through_your_codex_limits/",
         "source": "r/codex",
@@ -130,6 +130,16 @@
         "publishedAt": "2026-10-16T14:22:47.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/s9ksufm29uvh1.png?width=140&height=23&auto=webp&s=60ff19f9c848e1c856c5a0ba282332f54b82f3e1"
+      },
+      {
+        "rank": 4,
+        "title": "Codex usage since last reset",
+        "url": "https://www.reddit.com/r/codex/comments/1x7sl7z/codex_usage_since_last_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T21:29:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ae69cvdndwvh1.png?width=640&crop=smart&auto=webp&s=de0f18e0a1514a709664d03aa09bd9acba86f0c0"
       },
       {
         "rank": 5,

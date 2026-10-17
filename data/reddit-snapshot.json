@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-17T13:08:48.331Z",
+  "fetchedAt": "2026-10-17T16:38:11.941Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "This is 61 KB HTML file 🤯",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7v7gj/this_is_61_kb_html_file/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T23:24:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YnN3bnFsdjB5d3ZoMRJy8ktkrENMwFs2mSpDVAH5vpc3thEy2iqFXx5AN9T6.png?width=640&crop=smart&auto=webp&s=91b6fb56e7cdddeed2f0e25c4a2aae22b55bc5d1"
+      },
+      {
+        "rank": 2,
+        "title": "Procedural generation with Opus is insane. This entire game is 20MB.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8602z/procedural_generation_with_opus_is_insane_this/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T09:32:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZXlzdGowMjJ5enZoMSuIvUyDCR4tM4DiWCdr0wO-_ayGPoU4Nz_6surEv-T9.png?width=640&crop=smart&auto=webp&s=74b90fbdc3b5d0c31af647cc8fb0dda43dff8219"
+      },
+      {
+        "rank": 3,
+        "title": "Friday mode",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7w5dv/friday_mode/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T00:09:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/go39gzl16xvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=615b5958c508119506a224735df7d2230bc22145"
+      },
+      {
+        "rank": 4,
+        "title": "I built a free Windows widget for Claude usage limits with Claude Code — pixel Clawd reacts to your sessions",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7o895/i_built_a_free_windows_widget_for_claude_usage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T18:36:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o5yo0w9oivvh1.gif?frame=1&width=140&height=130&auto=webp&s=4a717dc2e7b641ec148f5719eeb1a242b664dc39"
+      },
+      {
+        "rank": 5,
+        "title": "That didn't take long - Claude Haiku 4.5 is leaving the model selector October 29th",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7rzpe/that_didnt_take_long_claude_haiku_45_is_leaving/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T21:04:44.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "How many of you have seen this honest ICLR submission? [D]",
@@ -36,6 +85,15 @@
       },
       {
         "rank": 4,
+        "title": "Go to neurIPS just for a workshop. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T09:56:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
         "source": "r/MachineLearning",
@@ -44,12 +102,51 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Go to neurIPS just for a workshop. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Codex caching improved",
+        "url": "https://www.reddit.com/r/codex/comments/1x7vvhy/codex_caching_improved/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-17T09:56:53.000Z",
+        "publishedAt": "2026-10-16T23:57:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kg4td6rx3xvh1.jpeg?width=640&crop=smart&auto=webp&s=8ac18bf5a8bdb0e115ac3610eec483c3074365df"
+      },
+      {
+        "rank": 2,
+        "title": "I made this",
+        "url": "https://www.reddit.com/r/codex/comments/1x88yrd/i_made_this/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-17T12:24:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZXVycG02YjJ0MHdoMRJgY5OzGWiymUDoFZpY6mqKFsfCoQGoM0QcArhYrsfF.png?width=640&crop=smart&auto=webp&s=4e67cba86099d4c4b6a40a7fa634f6d0a9939034"
+      },
+      {
+        "rank": 3,
+        "title": "My Dot keeps telling me it loves me",
+        "url": "https://www.reddit.com/r/codex/comments/1x82dpn/my_dot_keeps_telling_me_it_loves_me/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-17T05:47:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Codex usage since last reset",
+        "url": "https://www.reddit.com/r/codex/comments/1x7sl7z/codex_usage_since_last_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T21:29:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ae69cvdndwvh1.png?width=640&crop=smart&auto=webp&s=de0f18e0a1514a709664d03aa09bd9acba86f0c0"
+      },
+      {
+        "rank": 5,
+        "title": "codex usage dropped from 57% remaining to 0% remaining in 3 seconds?",
+        "url": "https://www.reddit.com/r/codex/comments/1x7obzw/codex_usage_dropped_from_57_remaining_to_0/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-16T18:40:30.000Z",
         "category": "reddit"
       },
       {
@@ -151,104 +248,6 @@
         "publishedAt": "2026-10-16T18:22:42.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/mr1rp6eagvvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a195508850c929073321e33fe67bfafcb7f27f7c"
-      },
-      {
-        "rank": 1,
-        "title": "This is 61 KB HTML file 🤯",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7v7gj/this_is_61_kb_html_file/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T23:24:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YnN3bnFsdjB5d3ZoMRJy8ktkrENMwFs2mSpDVAH5vpc3thEy2iqFXx5AN9T6.png?width=640&crop=smart&auto=webp&s=91b6fb56e7cdddeed2f0e25c4a2aae22b55bc5d1"
-      },
-      {
-        "rank": 2,
-        "title": "Friday mode",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7w5dv/friday_mode/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T00:09:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/go39gzl16xvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=615b5958c508119506a224735df7d2230bc22145"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic employee says resistance is futile",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7hsp6/anthropic_employee_says_resistance_is_futile/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T14:31:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nmyp9k1yauvh1.png?width=640&crop=smart&auto=webp&s=e29d186cf063e65acb8a54a5d5a515fa0c8c2e8c"
-      },
-      {
-        "rank": 4,
-        "title": "I built a free Windows widget for Claude usage limits with Claude Code — pixel Clawd reacts to your sessions",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7o895/i_built_a_free_windows_widget_for_claude_usage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T18:36:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o5yo0w9oivvh1.gif?frame=1&width=140&height=130&auto=webp&s=4a717dc2e7b641ec148f5719eeb1a242b664dc39"
-      },
-      {
-        "rank": 5,
-        "title": "That didn't take long - Claude Haiku 4.5 is leaving the model selector October 29th",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7rzpe/that_didnt_take_long_claude_haiku_45_is_leaving/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T21:04:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "claude pro gives 10x more usage than gpt plus now",
-        "url": "https://www.reddit.com/r/codex/comments/1x7fyi0/claude_pro_gives_10x_more_usage_than_gpt_plus_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T13:16:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/adu6y1mgxtvh1.png?width=640&crop=smart&auto=webp&s=74e330cab0a6c10bdc1adc5f15a8fdab77d1c5e4"
-      },
-      {
-        "rank": 2,
-        "title": "Codex caching improved",
-        "url": "https://www.reddit.com/r/codex/comments/1x7vvhy/codex_caching_improved/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T23:57:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kg4td6rx3xvh1.jpeg?width=640&crop=smart&auto=webp&s=8ac18bf5a8bdb0e115ac3610eec483c3074365df"
-      },
-      {
-        "rank": 3,
-        "title": "you might wanna burn through your codex limits today 👀",
-        "url": "https://www.reddit.com/r/codex/comments/1x7hl12/you_might_wanna_burn_through_your_codex_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T14:22:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s9ksufm29uvh1.png?width=140&height=23&auto=webp&s=60ff19f9c848e1c856c5a0ba282332f54b82f3e1"
-      },
-      {
-        "rank": 4,
-        "title": "Codex usage since last reset",
-        "url": "https://www.reddit.com/r/codex/comments/1x7sl7z/codex_usage_since_last_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T21:29:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ae69cvdndwvh1.png?width=640&crop=smart&auto=webp&s=de0f18e0a1514a709664d03aa09bd9acba86f0c0"
-      },
-      {
-        "rank": 5,
-        "title": "codex usage dropped from 57% remaining to 0% remaining in 3 seconds?",
-        "url": "https://www.reddit.com/r/codex/comments/1x7obzw/codex_usage_dropped_from_57_remaining_to_0/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T18:40:30.000Z",
-        "category": "reddit"
       }
     ]
   }

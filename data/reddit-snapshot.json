@@ -1,10 +1,157 @@
 {
-  "fetchedAt": "2026-10-17T16:38:11.941Z",
+  "fetchedAt": "2026-10-17T19:08:47.755Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "How many of you have seen this honest ICLR submission? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T04:43:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xt5qazx1jyvh1.jpeg?width=640&crop=smart&auto=webp&s=d0e623262fb73093021d29d121da174dfd33529c"
+      },
+      {
+        "rank": 2,
+        "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-16T20:03:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yot5wmquxvvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b6eceb48e3335d386ddbb181b67fe791f293e329"
+      },
+      {
+        "rank": 3,
+        "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T08:17:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Go to neurIPS just for a workshop. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T09:56:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-16T22:09:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kv8x9m9za2wh1.png?width=140&height=71&auto=webp&s=dd68feaa26822d2327df761caf9d25e0c6afb10b"
+      },
+      {
+        "rank": 1,
+        "title": "How is your usage so far after this update?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x88ro6/how_is_your_usage_so_far_after_this_update/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T12:14:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i85zf75kr0wh1.jpeg?width=640&crop=smart&auto=webp&s=355f5d2f43083abac4cd6485b77e2947bcd1bd0f"
+      },
+      {
+        "rank": 2,
+        "title": "Replit CEO says it stopped working with Anthropic, citing cost and model tests",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x7vvbt/replit_ceo_says_it_stopped_working_with_anthropic/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T23:56:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/f1-AgnejkcGLjPb69obRi3Z9NxYWoO-CqWvU8l-iSFA.jpeg?width=640&crop=smart&auto=webp&s=fd4a281e59ae7f4019e0b9a3ec88c6fcda51a8f9"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI adds parallel agents to GPT-6 Pro in ChatGPT",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x7qhdw/openai_adds_parallel_agents_to_gpt6_pro_in_chatgpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T20:04:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/IwYIbkGEzfRz6KJXjwxMglEjyXUGd9nQAHRH1-C_gyM.jpeg?width=640&crop=smart&auto=webp&s=ab78b0c833d27ecf3f3ace7f6d63090c208365c2"
+      },
+      {
+        "rank": 4,
+        "title": "Terence Tao explaining why it was extremely rude to dump these math solutions.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x7r549/terence_tao_explaining_why_it_was_extremely_rude/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-16T20:30:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/V9kvyCU7sgbx8ZGBcJydsg1oNb3bYE8fFN7FfE93Z1k.jpeg?width=320&crop=smart&auto=webp&s=c5276ff76cdc1dcfc484bbe15e6ae473efba364c"
+      },
+      {
+        "rank": 5,
+        "title": "Codex overcomplicates F’ing everything.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x81wwg/codex_overcomplicates_fing_everything/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T05:19:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Real.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-17T08:36:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vtobv0aiozvh1.png?width=320&crop=smart&auto=webp&s=7077e70d1b4a18563ad938eba301b5e10b3201a8"
+      },
+      {
+        "rank": 2,
+        "title": "An internal Anthropic research model's chain of thought after cracking the 26-year-old NSA elliptic curve seed mystery in under 30 minutes",
+        "url": "https://www.reddit.com/r/singularity/comments/1x7vivf/an_internal_anthropic_research_models_chain_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-16T23:39:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iytha2zt0xvh1.png?width=640&crop=smart&auto=webp&s=fd9f7a64388c6058cc10456944ccdeef44b3c89e"
+      },
+      {
+        "rank": 3,
+        "title": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-17T06:49:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Y3h3dGVvMGk1enZoMc8uJ_fTj3te41Y0qBTWDr5s8zlv5oHwZFcjc1f54EmR.png?width=640&crop=smart&auto=webp&s=7a1d938b9b8248e87cff70feea13269a8e4662d2"
+      },
+      {
+        "rank": 4,
+        "title": "Claude found the seeds for ECDSA. Proof of no NSA backdoor, but also... I don't feel so good about where we're headed",
+        "url": "https://www.reddit.com/r/singularity/comments/1x7udbi/claude_found_the_seeds_for_ecdsa_proof_of_no_nsa/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-16T22:46:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61"
+      },
+      {
+        "rank": 5,
+        "title": "Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more",
+        "url": "https://www.reddit.com/r/singularity/comments/1x7s98a/claude_mythos_5_designed_quantum_circuits_that/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-16T21:15:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/K5F1pF7O3vD1UpJoTrqrAi76M9mOS1qYQjhdW7BWVYY.jpeg?width=640&crop=smart&auto=webp&s=2ee82d1e007e3ea730264a722a8c9bb0aa718125"
+      },
       {
         "rank": 1,
         "title": "This is 61 KB HTML file 🤯",
@@ -56,53 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "How many of you have seen this honest ICLR submission? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T04:43:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xt5qazx1jyvh1.jpeg?width=640&crop=smart&auto=webp&s=d0e623262fb73093021d29d121da174dfd33529c"
-      },
-      {
-        "rank": 2,
-        "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-16T20:03:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yot5wmquxvvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=b6eceb48e3335d386ddbb181b67fe791f293e329"
-      },
-      {
-        "rank": 3,
-        "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T08:17:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Go to neurIPS just for a workshop. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T09:56:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-16T22:09:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Codex caching improved",
         "url": "https://www.reddit.com/r/codex/comments/1x7vvhy/codex_caching_improved/",
         "source": "r/codex",
@@ -148,106 +248,6 @@
         "score": 0,
         "publishedAt": "2026-10-16T18:40:30.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Cars unite men👍👊🥲",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7oifk/cars_unite_men/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T18:47:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ef7b82lokvvh1.png?width=640&crop=smart&auto=webp&s=6615e98b1303adbded79b4cf55152e795259e20a"
-      },
-      {
-        "rank": 2,
-        "title": "AI beef: Jensen Huang claims Geoffrey Hinton is fearmongering. Hinton says Jensen wants to downplay the danger of AI so he can sell more chips",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7fsky/ai_beef_jensen_huang_claims_geoffrey_hinton_is/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T13:08:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YXh1czZsaWF3dHZoMcT151xoWIQLTl-HK6rp9N6u3ylUk4Iq3ptppYpEZJAr.png?width=640&crop=smart&auto=webp&s=a656f9090af33b5cda4cf2be5fb11409bf05b247"
-      },
-      {
-        "rank": 3,
-        "title": "Replit CEO says it stopped working with Anthropic, citing cost and model tests",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7vvbt/replit_ceo_says_it_stopped_working_with_anthropic/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T23:56:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/f1-AgnejkcGLjPb69obRi3Z9NxYWoO-CqWvU8l-iSFA.jpeg?width=640&crop=smart&auto=webp&s=fd4a281e59ae7f4019e0b9a3ec88c6fcda51a8f9"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI adds parallel agents to GPT-6 Pro in ChatGPT",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7qhdw/openai_adds_parallel_agents_to_gpt6_pro_in_chatgpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T20:04:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/IwYIbkGEzfRz6KJXjwxMglEjyXUGd9nQAHRH1-C_gyM.jpeg?width=640&crop=smart&auto=webp&s=ab78b0c833d27ecf3f3ace7f6d63090c208365c2"
-      },
-      {
-        "rank": 5,
-        "title": "Terence Tao explaining why it was extremely rude to dump these math solutions.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7r549/terence_tao_explaining_why_it_was_extremely_rude/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T20:30:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/V9kvyCU7sgbx8ZGBcJydsg1oNb3bYE8fFN7FfE93Z1k.jpeg?width=320&crop=smart&auto=webp&s=c5276ff76cdc1dcfc484bbe15e6ae473efba364c"
-      },
-      {
-        "rank": 1,
-        "title": "An internal Anthropic research model's chain of thought after cracking the 26-year-old NSA elliptic curve seed mystery in under 30 minutes",
-        "url": "https://www.reddit.com/r/singularity/comments/1x7vivf/an_internal_anthropic_research_models_chain_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-16T23:39:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iytha2zt0xvh1.png?width=640&crop=smart&auto=webp&s=fd9f7a64388c6058cc10456944ccdeef44b3c89e"
-      },
-      {
-        "rank": 2,
-        "title": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T06:49:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y3h3dGVvMGk1enZoMc8uJ_fTj3te41Y0qBTWDr5s8zlv5oHwZFcjc1f54EmR.png?width=640&crop=smart&auto=webp&s=7a1d938b9b8248e87cff70feea13269a8e4662d2"
-      },
-      {
-        "rank": 3,
-        "title": "Real.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T08:36:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vtobv0aiozvh1.png?width=320&crop=smart&auto=webp&s=7077e70d1b4a18563ad938eba301b5e10b3201a8"
-      },
-      {
-        "rank": 4,
-        "title": "Claude found the seeds for ECDSA. Proof of no NSA backdoor, but also... I don't feel so good about where we're headed",
-        "url": "https://www.reddit.com/r/singularity/comments/1x7udbi/claude_found_the_seeds_for_ecdsa_proof_of_no_nsa/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-16T22:46:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61"
-      },
-      {
-        "rank": 5,
-        "title": "The last line of the Navier-Stokes chain of thought",
-        "url": "https://www.reddit.com/r/singularity/comments/1x7nv4y/the_last_line_of_the_navierstokes_chain_of_thought/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-16T18:22:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mr1rp6eagvvh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a195508850c929073321e33fe67bfafcb7f27f7c"
       }
     ]
   }

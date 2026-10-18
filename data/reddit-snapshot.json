@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-10-17T23:54:15.189Z",
+  "fetchedAt": "2026-10-18T03:50:44.161Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "How many of you have seen this honest ICLR submission? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T04:43:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xt5qazx1jyvh1.jpeg?width=640&crop=smart&auto=webp&s=d0e623262fb73093021d29d121da174dfd33529c"
+      },
+      {
+        "rank": 2,
+        "title": "What is wrong with AI writing - ICLR edition [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T23:40:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T08:17:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Go to neurIPS just for a workshop. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T09:56:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-17T19:41:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/2TB3JmxWwucJ9pcGYD-0stb9bY_Ylj6_LfeCy1mIflM.png?width=640&crop=smart&auto=webp&s=846d4e07fdb8519a0940eed992153c079e906d7c"
+      },
+      {
+        "rank": 1,
+        "title": "How is your usage so far after this update?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x88ro6/how_is_your_usage_so_far_after_this_update/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T12:14:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i85zf75kr0wh1.jpeg?width=640&crop=smart&auto=webp&s=355f5d2f43083abac4cd6485b77e2947bcd1bd0f"
+      },
+      {
+        "rank": 2,
+        "title": "After math, physics: AI finds explicit counterexamples to a 1967 fusion conjecture",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x89ou3/after_math_physics_ai_finds_explicit/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T13:00:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/S9lXTgzgEu8D_X080enXOYuYF_5lYBseF3gewrkpZaw.jpeg?width=640&crop=smart&auto=webp&s=8646e54dc8e250e0e033e191e2fe090346bd993f"
+      },
+      {
+        "rank": 3,
+        "title": "Codex overcomplicates F’ing everything.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x81wwg/codex_overcomplicates_fing_everything/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T05:19:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Reset is coming",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x8f4bs/reset_is_coming/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T16:52:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8vgbq23452wh1.jpeg?width=640&crop=smart&auto=webp&s=2d352e5b0117b7d536be2cf74831507c8fe40d31"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x83u6i/openai_models_hacked_a_crypto_wallet_and_breached/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T07:15:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/n5-M1_bT05RoSNyk2dzrYJfM27pUh8badJYf6slA-14.jpeg?width=640&crop=smart&auto=webp&s=58436090e3321b8bae042d4839f3201ea9b5f095"
+      },
+      {
+        "rank": 1,
+        "title": "Real.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-17T08:36:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vtobv0aiozvh1.png?width=320&crop=smart&auto=webp&s=7077e70d1b4a18563ad938eba301b5e10b3201a8"
+      },
+      {
+        "rank": 2,
+        "title": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-17T06:49:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Y3h3dGVvMGk1enZoMc8uJ_fTj3te41Y0qBTWDr5s8zlv5oHwZFcjc1f54EmR.png?width=640&crop=smart&auto=webp&s=7a1d938b9b8248e87cff70feea13269a8e4662d2"
+      },
+      {
+        "rank": 3,
+        "title": "Researchers connected a simulated fruit fly brain to Odyssey-3, an AI that generates entire virtual worlds. The fly is now navigating these imagined environments completely on its own. A biological brain recreated in software is exploring worlds that have never existed.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x8qyc7/researchers_connected_a_simulated_fruit_fly_brain/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-18T01:40:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NGdkNzJ2ZDhyNHdoMU192-EKM8N8DpyZdFngC34tuZC08TR2E2aUl3KUX0iA.png?width=640&crop=smart&auto=webp&s=8dbfdb37a578acd1d8c87765bb9b1ba4287d21f5"
+      },
+      {
+        "rank": 4,
+        "title": "Terrence Tao remarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1x8oxmp/terrence_tao_remarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-17T23:57:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n49gtk2r84wh1.jpeg?width=640&crop=smart&auto=webp&s=8320ddaf18cdde6359f35601c51e2936cdbdbf19"
+      },
+      {
+        "rank": 5,
+        "title": "AI stole cryptocurrency to fulfil coding task.. (GPT 5.6 Sol)",
+        "url": "https://www.reddit.com/r/singularity/comments/1x8bhno/ai_stole_cryptocurrency_to_fulfil_coding_task_gpt/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-17T14:22:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Blf9lVwN8S5PX_4oU9wuD-NBd8E9alq9AqTgcE2OwQI.jpeg?width=640&crop=smart&auto=webp&s=c9359f8fe0d31b30e30b02ba16505281fd4bd430"
+      },
       {
         "rank": 1,
         "title": "Procedural generation with Opus is insane. This entire game is 20MB.",
@@ -57,54 +203,6 @@
       },
       {
         "rank": 1,
-        "title": "How many of you have seen this honest ICLR submission? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T04:43:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xt5qazx1jyvh1.jpeg?width=640&crop=smart&auto=webp&s=d0e623262fb73093021d29d121da174dfd33529c"
-      },
-      {
-        "rank": 2,
-        "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T08:17:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Go to neurIPS just for a workshop. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T09:56:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T19:41:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2TB3JmxWwucJ9pcGYD-0stb9bY_Ylj6_LfeCy1mIflM.png?width=640&crop=smart&auto=webp&s=846d4e07fdb8519a0940eed992153c079e906d7c"
-      },
-      {
-        "rank": 5,
-        "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T14:48:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/znmjaciji1wh1.gif?frame=1&width=140&height=78&auto=webp&s=6ae559fe46a95951315a5d598a2dc633421fc991"
-      },
-      {
-        "rank": 1,
         "title": "Codex caching improved",
         "url": "https://www.reddit.com/r/codex/comments/1x7vvhy/codex_caching_improved/",
         "source": "r/codex",
@@ -151,105 +249,6 @@
         "score": 0,
         "publishedAt": "2026-10-17T05:47:38.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "How is your usage so far after this update?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x88ro6/how_is_your_usage_so_far_after_this_update/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T12:14:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i85zf75kr0wh1.jpeg?width=640&crop=smart&auto=webp&s=355f5d2f43083abac4cd6485b77e2947bcd1bd0f"
-      },
-      {
-        "rank": 2,
-        "title": "Replit CEO says it stopped working with Anthropic, citing cost and model tests",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x7vvbt/replit_ceo_says_it_stopped_working_with_anthropic/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-16T23:56:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/f1-AgnejkcGLjPb69obRi3Z9NxYWoO-CqWvU8l-iSFA.jpeg?width=640&crop=smart&auto=webp&s=fd4a281e59ae7f4019e0b9a3ec88c6fcda51a8f9"
-      },
-      {
-        "rank": 3,
-        "title": "After math, physics: AI finds explicit counterexamples to a 1967 fusion conjecture",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x89ou3/after_math_physics_ai_finds_explicit/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T13:00:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/S9lXTgzgEu8D_X080enXOYuYF_5lYBseF3gewrkpZaw.jpeg?width=640&crop=smart&auto=webp&s=8646e54dc8e250e0e033e191e2fe090346bd993f"
-      },
-      {
-        "rank": 4,
-        "title": "Codex overcomplicates F’ing everything.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x81wwg/codex_overcomplicates_fing_everything/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T05:19:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Reset is coming",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8f4bs/reset_is_coming/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T16:52:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vgbq23452wh1.jpeg?width=640&crop=smart&auto=webp&s=2d352e5b0117b7d536be2cf74831507c8fe40d31"
-      },
-      {
-        "rank": 1,
-        "title": "Real.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T08:36:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vtobv0aiozvh1.png?width=320&crop=smart&auto=webp&s=7077e70d1b4a18563ad938eba301b5e10b3201a8"
-      },
-      {
-        "rank": 2,
-        "title": "An internal Anthropic research model's chain of thought after cracking the 26-year-old NSA elliptic curve seed mystery in under 30 minutes",
-        "url": "https://www.reddit.com/r/singularity/comments/1x7vivf/an_internal_anthropic_research_models_chain_of/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-16T23:39:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iytha2zt0xvh1.png?width=640&crop=smart&auto=webp&s=fd9f7a64388c6058cc10456944ccdeef44b3c89e"
-      },
-      {
-        "rank": 3,
-        "title": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T06:49:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y3h3dGVvMGk1enZoMc8uJ_fTj3te41Y0qBTWDr5s8zlv5oHwZFcjc1f54EmR.png?width=640&crop=smart&auto=webp&s=7a1d938b9b8248e87cff70feea13269a8e4662d2"
-      },
-      {
-        "rank": 4,
-        "title": "Claude found the seeds for ECDSA. Proof of no NSA backdoor, but also... I don't feel so good about where we're headed",
-        "url": "https://www.reddit.com/r/singularity/comments/1x7udbi/claude_found_the_seeds_for_ecdsa_proof_of_no_nsa/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-16T22:46:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61"
-      },
-      {
-        "rank": 5,
-        "title": "AI stole cryptocurrency to fulfil coding task.. (GPT 5.6 Sol)",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8bhno/ai_stole_cryptocurrency_to_fulfil_coding_task_gpt/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T14:22:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Blf9lVwN8S5PX_4oU9wuD-NBd8E9alq9AqTgcE2OwQI.jpeg?width=640&crop=smart&auto=webp&s=c9359f8fe0d31b30e30b02ba16505281fd4bd430"
       }
     ]
   }

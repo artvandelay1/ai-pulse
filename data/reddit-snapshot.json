@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-10-18T13:07:42.860Z",
+  "fetchedAt": "2026-10-18T16:46:13.668Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Claude solved a 25 year old NSA cryptography mystery in 30 minutes. Its first reaction was to throw shade at us 🥲 \"is it suspicious that such an obvious thing wasn't discovered in 25 years?\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8v3sn/claude_solved_a_25_year_old_nsa_cryptography/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T05:31:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/id0277dew5wh1.png?width=640&crop=smart&auto=webp&s=3ae7be8e6aadb94844e34df77d43bc22ad64af9c"
+      },
+      {
+        "rank": 2,
+        "title": "Does Anthropic obscure employee names because they believe mass unrest is coming soon and employees will be targeted personally?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8gp1w/does_anthropic_obscure_employee_names_because/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T17:57:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fl1j2dvmg2wh1.png?width=640&crop=smart&auto=webp&s=83888115fcf186cb56773f12115b0765e9af96e9"
+      },
+      {
+        "rank": 3,
+        "title": "I thought my 90s Amiga was lost forever. 30 years later, it’s back due to ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8f5gl/i_thought_my_90s_amiga_was_lost_forever_30_years/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T16:53:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I feel like im Neo in the Matrix",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8i2q7/i_feel_like_im_neo_in_the_matrix/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T18:53:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "3 small Claude Code habits from other people's setups that I liked",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8lae3/3_small_claude_code_habits_from_other_peoples/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-17T21:08:09.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "What is wrong with AI writing - ICLR edition [D]",
@@ -26,13 +73,12 @@
       },
       {
         "rank": 3,
-        "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+        "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-17T14:48:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/znmjaciji1wh1.gif?frame=1&width=140&height=78&auto=webp&s=6ae559fe46a95951315a5d598a2dc633421fc991"
+        "publishedAt": "2026-10-18T14:24:16.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -45,11 +91,58 @@
       },
       {
         "rank": 5,
-        "title": "EMNLP main presentation[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
+        "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-17T16:45:33.000Z",
+        "publishedAt": "2026-10-18T11:49:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bplp468vr7wh1.png?width=140&height=106&auto=webp&s=b22dafc58a3d07135f82d22a0dab9fe0628a1766"
+      },
+      {
+        "rank": 1,
+        "title": "Codex burning usage way faster after reset",
+        "url": "https://www.reddit.com/r/codex/comments/1x8wj35/codex_burning_usage_way_faster_after_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-18T06:57:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gjl5lkbub6wh1.jpeg?width=640&crop=smart&auto=webp&s=86639f68de15a959cb00cdbbb03975a23d6360e2"
+      },
+      {
+        "rank": 2,
+        "title": "Do not trust 6.1 Sol right now!",
+        "url": "https://www.reddit.com/r/codex/comments/1x8o5oj/do_not_trust_61_sol_right_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-17T23:19:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Tibo really needs a clock",
+        "url": "https://www.reddit.com/r/codex/comments/1x8ldji/tibo_really_needs_a_clock/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-17T21:11:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "WHAT THE HELL DID I JUST WITNESS",
+        "url": "https://www.reddit.com/r/codex/comments/1x8ko5p/what_the_hell_did_i_just_witness/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-17T20:42:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Not sure what they did to GPT 6.1 Sol Usage...",
+        "url": "https://www.reddit.com/r/codex/comments/1x8m8ho/not_sure_what_they_did_to_gpt_61_sol_usage/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-17T21:50:24.000Z",
         "category": "reddit"
       },
       {
@@ -148,105 +241,6 @@
         "publishedAt": "2026-10-17T17:23:14.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ROX_bFD6Eubq-ZXuucpeT7LSl7NDL8jdifwl3urlM5Q.jpeg?width=320&crop=smart&auto=webp&s=27679a143db781c94fcea33eb95cc7736e988bfa"
-      },
-      {
-        "rank": 1,
-        "title": "Procedural generation with Opus is insane. This entire game is 20MB.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8602z/procedural_generation_with_opus_is_insane_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T09:32:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZXlzdGowMjJ5enZoMSuIvUyDCR4tM4DiWCdr0wO-_ayGPoU4Nz_6surEv-T9.png?width=640&crop=smart&auto=webp&s=74b90fbdc3b5d0c31af647cc8fb0dda43dff8219"
-      },
-      {
-        "rank": 2,
-        "title": "Friday mode",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x7w5dv/friday_mode/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T00:09:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/go39gzl16xvh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=615b5958c508119506a224735df7d2230bc22145"
-      },
-      {
-        "rank": 3,
-        "title": "This week's Claude Reset - Anyone else noticing unusually high usage all of a sudden?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8bmku/this_weeks_claude_reset_anyone_else_noticing/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T14:28:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jr3wa6nse1wh1.png?width=320&crop=smart&auto=webp&s=30d6291f13b18b7c0af5ed928bd423b96d992129"
-      },
-      {
-        "rank": 4,
-        "title": "They gave 120 handwritten pages and turned it into a font with Opus 5.5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8cksm/they_gave_120_handwritten_pages_and_turned_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T15:09:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M3J6dzc4cW5tMXdoMf8bLUR8lMjUxjbU3uGHh_swsPBzBeL38F8MmtG9qk3Z.png?width=640&crop=smart&auto=webp&s=d5eaef406049a020d7a5e5dfecb93c69d35dab84"
-      },
-      {
-        "rank": 5,
-        "title": "the situation around.. :p",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x86kos/the_situation_around_p/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T10:07:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mumt9jxw40wh1.jpeg?width=640&crop=smart&auto=webp&s=c4216743d5a0783c7f64c8473c1e582d138aa47b"
-      },
-      {
-        "rank": 1,
-        "title": "Codex caching improved",
-        "url": "https://www.reddit.com/r/codex/comments/1x7vvhy/codex_caching_improved/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-16T23:57:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kg4td6rx3xvh1.jpeg?width=640&crop=smart&auto=webp&s=8ac18bf5a8bdb0e115ac3610eec483c3074365df"
-      },
-      {
-        "rank": 2,
-        "title": "I made this",
-        "url": "https://www.reddit.com/r/codex/comments/1x88yrd/i_made_this/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-17T12:24:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZXVycG02YjJ0MHdoMRJgY5OzGWiymUDoFZpY6mqKFsfCoQGoM0QcArhYrsfF.png?width=640&crop=smart&auto=webp&s=4e67cba86099d4c4b6a40a7fa634f6d0a9939034"
-      },
-      {
-        "rank": 3,
-        "title": "day13/ reset",
-        "url": "https://www.reddit.com/r/codex/comments/1x8ekc4/day13_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-17T16:30:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dmudh9z112wh1.png?width=140&height=93&auto=webp&s=e98dc19ce770531052c3a139fdcf6d6ae70a773d"
-      },
-      {
-        "rank": 4,
-        "title": "Reset landing by End of Day today PST!",
-        "url": "https://www.reddit.com/r/codex/comments/1x8ekzi/reset_landing_by_end_of_day_today_pst/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-17T16:31:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4eruh7v712wh1.png?width=640&crop=smart&auto=webp&s=b174b238121365a4ac0920f35c58132b4601c7bf"
-      },
-      {
-        "rank": 5,
-        "title": "My Dot keeps telling me it loves me",
-        "url": "https://www.reddit.com/r/codex/comments/1x82dpn/my_dot_keeps_telling_me_it_loves_me/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-17T05:47:38.000Z",
-        "category": "reddit"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T21:45:10.360Z",
+  "fetchedAt": "2026-10-19T00:02:06.836Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -27,16 +27,6 @@
       },
       {
         "rank": 3,
-        "title": "My side project made $130 in its first month. A few thoughts",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9668n/my_side_project_made_130_in_its_first_month_a_few/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T15:35:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bHF6bXRubzd3OHdoMc7bo8P9OGjwBipH1dAIrl84lbs96Zdavu6Vn5RXecn3.png?width=640&crop=smart&auto=webp&s=5df5d715313164fe326f424c1cfe36e28c3dafbf"
-      },
-      {
-        "rank": 4,
         "title": "Anthropic at $2 Trillion vs. 35 SaaS Companies at $948 Billion — Are AI Valuations Getting Out of Control?",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9ain3/anthropic_at_2_trillion_vs_35_saas_companies_at/",
         "source": "r/ClaudeAI",
@@ -44,6 +34,16 @@
         "publishedAt": "2026-10-18T18:29:34.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4uwisi3cr9wh1.jpeg?width=640&crop=smart&auto=webp&s=42ae0198ecd68196bf8396145710089029bf41ed"
+      },
+      {
+        "rank": 4,
+        "title": "My side project made $130 in its first month. A few thoughts",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9668n/my_side_project_made_130_in_its_first_month_a_few/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T15:35:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bHF6bXRubzd3OHdoMc7bo8P9OGjwBipH1dAIrl84lbs96Zdavu6Vn5RXecn3.png?width=640&crop=smart&auto=webp&s=5df5d715313164fe326f424c1cfe36e28c3dafbf"
       },
       {
         "rank": 5,
@@ -57,15 +57,6 @@
       },
       {
         "rank": 1,
-        "title": "What is wrong with AI writing - ICLR edition [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-17T23:40:03.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
         "source": "r/MachineLearning",
@@ -75,7 +66,7 @@
         "thumbnail": "https://external-preview.redd.it/nZzYYa99i-Sztj99QW5Hd1WXD0TNCl5x6J01vRMC5Cg.jpeg?width=640&crop=smart&auto=webp&s=61c6c627a24fce571d6a9769b8c7aeb050e7e098"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
         "source": "r/MachineLearning",
@@ -85,7 +76,7 @@
         "thumbnail": "https://preview.redd.it/e2qzbznh89wh1.jpeg?width=640&crop=smart&auto=webp&s=369727ea95798420e103462cc3d3e34b2b62f862"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
         "source": "r/MachineLearning",
@@ -94,13 +85,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-18T08:23:02.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-18T11:49:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bplp468vr7wh1.png?width=140&height=106&auto=webp&s=b22dafc58a3d07135f82d22a0dab9fe0628a1766"
       },
       {
         "rank": 1,
@@ -114,24 +115,6 @@
       },
       {
         "rank": 2,
-        "title": "Do not trust 6.1 Sol right now!",
-        "url": "https://www.reddit.com/r/codex/comments/1x8o5oj/do_not_trust_61_sol_right_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-17T23:19:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Not sure what they did to GPT 6.1 Sol Usage...",
-        "url": "https://www.reddit.com/r/codex/comments/1x8m8ho/not_sure_what_they_did_to_gpt_61_sol_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-17T21:50:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Before dot: 4 days of Codex. After dot: 4 hours.",
         "url": "https://www.reddit.com/r/codex/comments/1x8twjd/before_dot_4_days_of_codex_after_dot_4_hours/",
         "source": "r/codex",
@@ -140,7 +123,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "Funny math of Codex usage and limits",
         "url": "https://www.reddit.com/r/codex/comments/1x8wsha/funny_math_of_codex_usage_and_limits/",
         "source": "r/codex",
@@ -148,6 +131,24 @@
         "publishedAt": "2026-10-18T07:12:08.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8vne2z3uc6wh1.png?width=140&height=76&auto=webp&s=8b743b39b09f8e30e99f99d306ad638ae289761f"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Pro vs ChatGPT Plus (Codex): Which Is Better Value for Money?",
+        "url": "https://www.reddit.com/r/codex/comments/1x8wbt4/claude_pro_vs_chatgpt_plus_codex_which_is_better/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-18T06:45:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Unit testing",
+        "url": "https://www.reddit.com/r/codex/comments/1x8ww3k/unit_testing/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-18T07:18:20.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

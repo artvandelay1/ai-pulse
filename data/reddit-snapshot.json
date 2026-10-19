@@ -1,10 +1,60 @@
 {
-  "fetchedAt": "2026-10-19T04:31:43.948Z",
+  "fetchedAt": "2026-10-19T10:15:10.542Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Adobe, Office, Outlook, ElevenLabs: AI is cloning all of it in Rust",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9dl1f/adobe_office_outlook_elevenlabs_ai_is_cloning_all/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T20:31:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bnd5N2xndzJkYXdoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=872e0b949b7c66d2046565de88bf2d6dfbe37c60"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic at $2 Trillion vs. 35 SaaS Companies at $948 Billion — Are AI Valuations Getting Out of Control?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9ain3/anthropic_at_2_trillion_vs_35_saas_companies_at/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T18:29:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4uwisi3cr9wh1.jpeg?width=640&crop=smart&auto=webp&s=42ae0198ecd68196bf8396145710089029bf41ed"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic is on track to stop hiring technical juniors next year",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x90vwp/anthropic_is_on_track_to_stop_hiring_technical/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T11:27:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bhdlr5pwn7wh1.png?width=140&height=121&auto=webp&s=5296b890303eb5011f8d4d85e75031d371d05e3d"
+      },
+      {
+        "rank": 4,
+        "title": "My side project made $130 in its first month. A few thoughts",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9668n/my_side_project_made_130_in_its_first_month_a_few/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T15:35:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bHF6bXRubzd3OHdoMc7bo8P9OGjwBipH1dAIrl84lbs96Zdavu6Vn5RXecn3.png?width=640&crop=smart&auto=webp&s=5df5d715313164fe326f424c1cfe36e28c3dafbf"
+      },
+      {
+        "rank": 5,
+        "title": "Claude designed quantum circuits up to 39x cheaper than the best published ones",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x956d5/claude_designed_quantum_circuits_up_to_39x/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T14:54:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/vjVYJJQwY_X9EuY5Mcw6Ed2FXBAxlXIf6BB8UHqijHc.jpeg?width=640&crop=smart&auto=webp&s=52c06f710fdda1c4d1cee57ecbae2ea6f9007b14"
+      },
       {
         "rank": 1,
         "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
@@ -35,6 +85,15 @@
       },
       {
         "rank": 4,
+        "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T01:34:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
         "source": "r/MachineLearning",
@@ -44,12 +103,51 @@
         "thumbnail": "https://preview.redd.it/e2qzbznh89wh1.jpeg?width=640&crop=smart&auto=webp&s=369727ea95798420e103462cc3d3e34b2b62f862"
       },
       {
-        "rank": 5,
-        "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "What this even means",
+        "url": "https://www.reddit.com/r/codex/comments/1x9dpgx/what_this_even_means/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-19T01:34:31.000Z",
+        "publishedAt": "2026-10-18T20:36:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/a3cohsj1eawh1.jpeg?width=640&crop=smart&auto=webp&s=28c535f44ee8b5a3dae858a169923a6e0afa7a0d"
+      },
+      {
+        "rank": 2,
+        "title": "day 14",
+        "url": "https://www.reddit.com/r/codex/comments/1x9ju0w/day_14/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-19T01:19:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gbs0gg0gsbwh1.jpeg?width=640&crop=smart&auto=webp&s=cd69d9ea45b82fc8ab9e883850a6219c75030b45"
+      },
+      {
+        "rank": 3,
+        "title": "the vagueposting king 👑",
+        "url": "https://www.reddit.com/r/codex/comments/1x97wlu/the_vagueposting_king/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-18T16:45:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2bd795d589wh1.png?width=140&height=22&auto=webp&s=3c2758a9f29622ac3a5f8f347c9dfe5e6c2adc97"
+      },
+      {
+        "rank": 4,
+        "title": "Funny how frontier models still estimate a task to take 2 weeks when it literally proceeds to do it in 2 hours",
+        "url": "https://www.reddit.com/r/codex/comments/1x9c1va/funny_how_frontier_models_still_estimate_a_task/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-18T19:30:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Burning through usage FAST",
+        "url": "https://www.reddit.com/r/codex/comments/1x96a0v/burning_through_usage_fast/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-18T15:40:16.000Z",
         "category": "reddit"
       },
       {
@@ -149,103 +247,6 @@
         "publishedAt": "2026-10-19T03:17:48.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cDlyMmlqaGlkY3doMQycyeNI8nwpNVAIGaTda4pv5F47Z_s2MNVZ7fw7Y9ez.png?width=320&crop=smart&auto=webp&s=e8e8aa46f1c20ef5f5eccc16f947cae094b5f18f"
-      },
-      {
-        "rank": 1,
-        "title": "Claude solved a 25 year old NSA cryptography mystery in 30 minutes. Its first reaction was to throw shade at us 🥲 \"is it suspicious that such an obvious thing wasn't discovered in 25 years?\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x8v3sn/claude_solved_a_25_year_old_nsa_cryptography/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T05:31:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/id0277dew5wh1.png?width=640&crop=smart&auto=webp&s=3ae7be8e6aadb94844e34df77d43bc22ad64af9c"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic is on track to stop hiring technical juniors next year",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x90vwp/anthropic_is_on_track_to_stop_hiring_technical/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T11:27:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bhdlr5pwn7wh1.png?width=140&height=121&auto=webp&s=5296b890303eb5011f8d4d85e75031d371d05e3d"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic at $2 Trillion vs. 35 SaaS Companies at $948 Billion — Are AI Valuations Getting Out of Control?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9ain3/anthropic_at_2_trillion_vs_35_saas_companies_at/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T18:29:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4uwisi3cr9wh1.jpeg?width=640&crop=smart&auto=webp&s=42ae0198ecd68196bf8396145710089029bf41ed"
-      },
-      {
-        "rank": 4,
-        "title": "My side project made $130 in its first month. A few thoughts",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9668n/my_side_project_made_130_in_its_first_month_a_few/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T15:35:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bHF6bXRubzd3OHdoMc7bo8P9OGjwBipH1dAIrl84lbs96Zdavu6Vn5RXecn3.png?width=640&crop=smart&auto=webp&s=5df5d715313164fe326f424c1cfe36e28c3dafbf"
-      },
-      {
-        "rank": 5,
-        "title": "Claude designed quantum circuits up to 39x cheaper than the best published ones",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x956d5/claude_designed_quantum_circuits_up_to_39x/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T14:54:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/vjVYJJQwY_X9EuY5Mcw6Ed2FXBAxlXIf6BB8UHqijHc.jpeg?width=640&crop=smart&auto=webp&s=52c06f710fdda1c4d1cee57ecbae2ea6f9007b14"
-      },
-      {
-        "rank": 1,
-        "title": "Codex burning usage way faster after reset",
-        "url": "https://www.reddit.com/r/codex/comments/1x8wj35/codex_burning_usage_way_faster_after_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-18T06:57:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gjl5lkbub6wh1.jpeg?width=640&crop=smart&auto=webp&s=86639f68de15a959cb00cdbbb03975a23d6360e2"
-      },
-      {
-        "rank": 2,
-        "title": "Before dot: 4 days of Codex. After dot: 4 hours.",
-        "url": "https://www.reddit.com/r/codex/comments/1x8twjd/before_dot_4_days_of_codex_after_dot_4_hours/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-18T04:21:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Funny math of Codex usage and limits",
-        "url": "https://www.reddit.com/r/codex/comments/1x8wsha/funny_math_of_codex_usage_and_limits/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-18T07:12:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vne2z3uc6wh1.png?width=140&height=76&auto=webp&s=8b743b39b09f8e30e99f99d306ad638ae289761f"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Pro vs ChatGPT Plus (Codex): Which Is Better Value for Money?",
-        "url": "https://www.reddit.com/r/codex/comments/1x8wbt4/claude_pro_vs_chatgpt_plus_codex_which_is_better/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-18T06:45:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Unit testing",
-        "url": "https://www.reddit.com/r/codex/comments/1x8ww3k/unit_testing/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-18T07:18:20.000Z",
-        "category": "reddit"
       }
     ]
   }

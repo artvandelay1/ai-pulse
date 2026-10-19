@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-19T00:02:06.836Z",
+  "fetchedAt": "2026-10-19T04:31:43.948Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-18T19:34:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/nZzYYa99i-Sztj99QW5Hd1WXD0TNCl5x6J01vRMC5Cg.jpeg?width=640&crop=smart&auto=webp&s=61c6c627a24fce571d6a9769b8c7aeb050e7e098"
+      },
+      {
+        "rank": 2,
+        "title": "Conference papers are cooked! [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-18T22:12:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-18T20:52:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-18T16:43:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e2qzbznh89wh1.jpeg?width=640&crop=smart&auto=webp&s=369727ea95798420e103462cc3d3e34b2b62f862"
+      },
+      {
+        "rank": 5,
+        "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T01:34:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "An OpenAI model had no money for its task, so it unlocked someone else’s crypto wallet and kept quiet",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x8y09t/an_openai_model_had_no_money_for_its_task_so_it/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T08:27:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Mei072W50IRjLsRTiYWPZP2S-WEFtEx6idGl5E5kjZ8.jpeg?width=640&crop=smart&auto=webp&s=92c09991baa5b1c5de4f80f1d5a538281020fcb0"
+      },
+      {
+        "rank": 2,
+        "title": "I was paying $400 a month for Codex. One $200 Claude plan is getting me more done.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x9bpur/i_was_paying_400_a_month_for_codex_one_200_claude/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T19:17:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Surely nothing could go wrong",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x95cz5/surely_nothing_could_go_wrong/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T15:01:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ang13y88q8wh1.png?width=640&crop=smart&auto=webp&s=52d7ffba501e126f16fd3306caf0450c11674b04"
+      },
+      {
+        "rank": 4,
+        "title": "Why is AI advancing so rapidly in mathematics but disrupting so few jobs?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x9ar5c/why_is_ai_advancing_so_rapidly_in_mathematics_but/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T18:39:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/JP1zXMX9ooZORkUcuZOCe770lGLdud_5SxIMD2IK8CE.png?width=140&height=74&auto=webp&s=d005225d2dbdecc052cf12ad09acc1f6761e2323"
+      },
+      {
+        "rank": 5,
+        "title": "X to doubt",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x8zxke/x_to_doubt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-18T10:30:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3l6gmlkud7wh1.png?width=640&crop=smart&auto=webp&s=989c828120471cee5ab6d97ee2b20b5b8f844d1e"
+      },
+      {
+        "rank": 1,
+        "title": "Anthropic creates a public benefit fund, pledging 20% of its shares to the public good, with another 2% potentially added for every 50% increase in its valuation",
+        "url": "https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-18T18:14:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/RTI453sNUfzZ9vTZr---e4WdKhSKMF0ZBb2twTEMCb4.jpeg?width=640&crop=smart&auto=webp&s=1f92389d16df013d0a5ee02b83340fd41a215039"
+      },
+      {
+        "rank": 2,
+        "title": "How employment is changing at Anthropic",
+        "url": "https://www.reddit.com/r/singularity/comments/1x8ztaj/how_employment_is_changing_at_anthropic/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-18T10:23:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61"
+      },
+      {
+        "rank": 3,
+        "title": "Yann Lecun: Tesla \"Flying\" Roadster Is A Marketing Stunt",
+        "url": "https://www.reddit.com/r/singularity/comments/1x9m4a7/yann_lecun_tesla_flying_roadster_is_a_marketing/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-19T03:17:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+        "url": "https://www.reddit.com/r/singularity/comments/1x9hhxw/deepseek_v41_flash_1017_beats_larger_rivals_in/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-18T23:24:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ktiCVcAJG7RevUsxmI_Rt3BlO3CfsCmerMC_K9Wp_G0.png?width=640&crop=smart&auto=webp&s=2691de818778a42f650aac652c0e34ceaa9011d0"
+      },
+      {
+        "rank": 5,
+        "title": "Six frontier AIs competed to design and 3D-print egg-protecting capsules. Claude Opus 5.5's egg survived a 20-foot drop without a crack. GPT-6 Astra failed at 8 feet, while Gemini 4 Argon, Grok 4.7, Qwen 3.8-Max, and Muse Wonder failed at 4 feet. Claude dominates another real-world engineering chall",
+        "url": "https://www.reddit.com/r/singularity/comments/1x9m4gs/six_frontier_ais_competed_to_design_and_3dprint/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-19T03:17:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cDlyMmlqaGlkY3doMQycyeNI8nwpNVAIGaTda4pv5F47Z_s2MNVZ7fw7Y9ez.png?width=320&crop=smart&auto=webp&s=e8e8aa46f1c20ef5f5eccc16f947cae094b5f18f"
+      },
       {
         "rank": 1,
         "title": "Claude solved a 25 year old NSA cryptography mystery in 30 minutes. Its first reaction was to throw shade at us 🥲 \"is it suspicious that such an obvious thing wasn't discovered in 25 years?\"",
@@ -57,54 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-18T19:34:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nZzYYa99i-Sztj99QW5Hd1WXD0TNCl5x6J01vRMC5Cg.jpeg?width=640&crop=smart&auto=webp&s=61c6c627a24fce571d6a9769b8c7aeb050e7e098"
-      },
-      {
-        "rank": 2,
-        "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-18T16:43:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/e2qzbznh89wh1.jpeg?width=640&crop=smart&auto=webp&s=369727ea95798420e103462cc3d3e34b2b62f862"
-      },
-      {
-        "rank": 3,
-        "title": "ICLR 2027: Reciprocal reviewer with 0 paper assignments—should I be concerned? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x94heh/iclr_2027_reciprocal_reviewer_with_0_paper/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-18T14:24:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-18T08:23:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-18T11:49:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bplp468vr7wh1.png?width=140&height=106&auto=webp&s=b22dafc58a3d07135f82d22a0dab9fe0628a1766"
-      },
-      {
-        "rank": 1,
         "title": "Codex burning usage way faster after reset",
         "url": "https://www.reddit.com/r/codex/comments/1x8wj35/codex_burning_usage_way_faster_after_reset/",
         "source": "r/codex",
@@ -149,103 +246,6 @@
         "score": 0,
         "publishedAt": "2026-10-18T07:18:20.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Reset is coming",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8f4bs/reset_is_coming/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T16:52:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vgbq23452wh1.jpeg?width=640&crop=smart&auto=webp&s=2d352e5b0117b7d536be2cf74831507c8fe40d31"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI just got another reset",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8l7lv/openai_just_got_another_reset/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T21:04:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "An OpenAI model had no money for its task, so it unlocked someone else’s crypto wallet and kept quiet",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8y09t/an_openai_model_had_no_money_for_its_task_so_it/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T08:27:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mei072W50IRjLsRTiYWPZP2S-WEFtEx6idGl5E5kjZ8.jpeg?width=640&crop=smart&auto=webp&s=92c09991baa5b1c5de4f80f1d5a538281020fcb0"
-      },
-      {
-        "rank": 4,
-        "title": "The new 500$ tier plan & throttling the 200$ plan should be making users sick.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8atpq/the_new_500_tier_plan_throttling_the_200_plan/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T13:54:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "5 things I check with AI before booking a hotel or a flight",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8g3kr/5_things_i_check_with_ai_before_booking_a_hotel/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-17T17:32:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Researchers connected a simulated fruit fly brain to Odyssey-3, an AI that generates entire virtual worlds. The fly is now navigating these imagined environments completely on its own. A biological brain recreated in software is exploring worlds that have never existed.",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8qyc7/researchers_connected_a_simulated_fruit_fly_brain/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-18T01:40:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NGdkNzJ2ZDhyNHdoMU192-EKM8N8DpyZdFngC34tuZC08TR2E2aUl3KUX0iA.png?width=640&crop=smart&auto=webp&s=8dbfdb37a578acd1d8c87765bb9b1ba4287d21f5"
-      },
-      {
-        "rank": 2,
-        "title": "Terrence Tao remarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8oxmp/terrence_tao_remarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T23:57:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n49gtk2r84wh1.jpeg?width=640&crop=smart&auto=webp&s=8320ddaf18cdde6359f35601c51e2936cdbdbf19"
-      },
-      {
-        "rank": 3,
-        "title": "AI stole cryptocurrency to fulfil coding task.. (GPT 5.6 Sol)",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8bhno/ai_stole_cryptocurrency_to_fulfil_coding_task_gpt/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T14:22:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Blf9lVwN8S5PX_4oU9wuD-NBd8E9alq9AqTgcE2OwQI.jpeg?width=640&crop=smart&auto=webp&s=c9359f8fe0d31b30e30b02ba16505281fd4bd430"
-      },
-      {
-        "rank": 4,
-        "title": "New chinese model benchmark scores are INSANE!",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8lwr6/new_chinese_model_benchmark_scores_are_insane/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T21:35:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9z8knwykj3wh1.png?width=140&height=123&auto=webp&s=6fe3250e6cd4e976ab669da905d81b4d325c4d49"
-      },
-      {
-        "rank": 5,
-        "title": "anthropic cofounder Jack Clark “we are in the singularity”",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8fvvu/anthropic_cofounder_jack_clark_we_are_in_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-17T17:23:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ROX_bFD6Eubq-ZXuucpeT7LSl7NDL8jdifwl3urlM5Q.jpeg?width=320&crop=smart&auto=webp&s=27679a143db781c94fcea33eb95cc7736e988bfa"
       }
     ]
   }

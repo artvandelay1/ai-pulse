@@ -1,10 +1,151 @@
 {
-  "fetchedAt": "2026-10-20T01:00:10.150Z",
+  "fetchedAt": "2026-10-20T05:55:40.845Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T17:13:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T17:50:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T18:15:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ML on a shoestring? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T18:23:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What are the challenges encountered when using coding agents for ML tasks? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9r361/what_are_the_challenges_encountered_when_using/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T08:14:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6.1 Terra spotted in an Microsoft evaluation update",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xa1d4e/gpt61_terra_spotted_in_an_microsoft_evaluation/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-19T16:21:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/L9RZn_kUeE5flZ8t7ZZAPEqO_MzBYLXwI-7-Q91Z5ik.jpeg?width=640&crop=smart&auto=webp&s=c3e1f1b450871dc2753748855c99ead50a215be4"
+      },
+      {
+        "rank": 2,
+        "title": "Sol 6.1 burn quota wayyy faster",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1x9vxje/sol_61_burn_quota_wayyy_faster/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-19T12:45:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "They lowered quota for everyone it seems.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xa29yc/they_lowered_quota_for_everyone_it_seems/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-19T16:55:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Nate Soares: \"I'm 100% ok with ignoring everything AI leaders say. Just toss them out the fricking window.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xa1agv/nate_soares_im_100_ok_with_ignoring_everything_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-19T16:18:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/enJ5YXBnY3M4Z3doMXYQvrTPcS0rqNCEDUQu_6Nd7SG_eKWdlgRWQTxhHtOn.png?width=640&crop=smart&auto=webp&s=be6723b9ac2cfc6bfb7a81d4c0ff393b0bbf2b72"
+      },
+      {
+        "rank": 5,
+        "title": "I got tired of manually copying YouTube transcripts into ChatGPT, so I built a small Chrome extension",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xaadpo/i_got_tired_of_manually_copying_youtube/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-19T21:56:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gp5ni5i6xhwh1.png?width=640&crop=smart&auto=webp&s=3998aebc5d16c0496dba4e6d3babcd38cb2f165f"
+      },
+      {
+        "rank": 1,
+        "title": "A physicist spent a year of his life and ~500 pages of hand calculations for quantum gravity in his PhD thesis, but Opus 5.5 did it in 10 hours, including the article and GitHub repo. And it even found the errors. What will \"labor\" mean in academia from now on?",
+        "url": "https://www.reddit.com/r/singularity/comments/1x9rgzl/a_physicist_spent_a_year_of_his_life_and_500/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-19T08:38:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Rumours are floating",
+        "url": "https://www.reddit.com/r/singularity/comments/1xa73il/rumours_are_floating/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-19T19:51:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/u523k10uahwh1.jpeg?width=640&crop=smart&auto=webp&s=dd2b97a2bc7cf53007dc1d6b25ab5a0b9972a3ea"
+      },
+      {
+        "rank": 3,
+        "title": "Fields Medalist Richard Borcherds on OpenAI proofs: \"I think what people are getting upset about is they’re slowly realizing that they are dumb and somehow blaming this on AI, even though it’s not really AI’s fault\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1xa0dgj/fields_medalist_richard_borcherds_on_openai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-19T15:44:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic co-founders pledged to donate 80% of their equity.",
+        "url": "https://www.reddit.com/r/singularity/comments/1x9vvzh/anthropic_cofounders_pledged_to_donate_80_of/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-19T12:43:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rf4r9h346fwh1.png?width=640&crop=smart&auto=webp&s=5a906f7af8604f7e153f177e7bc737bf3541d62c"
+      },
+      {
+        "rank": 5,
+        "title": "2026 Fields Medalist John Pardon says AI now understands even his messiest mathematical proofs, catches subtle errors, and proves nontrivial results. “The AI understands. 100%.” Just a year ago, he would have said the opposite. He calls the progress world-changing for mathematics.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xaernx/2026_fields_medalist_john_pardon_says_ai_now/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-20T01:12:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n1w6dor6wiwh1.jpeg?width=640&crop=smart&auto=webp&s=b4fe3b869e2f64e17b239c2535430279b450434f"
+      },
       {
         "rank": 1,
         "title": "he’s worried about HIS reputation 😭",
@@ -57,52 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T01:34:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T17:13:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T04:57:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/a13ipz9rscwh1.png?width=140&height=132&auto=webp&s=d6b194037b2afeae4463d273a20b492a450c34f4"
-      },
-      {
-        "rank": 4,
-        "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T17:50:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T18:15:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Tibo: \"We're cooked\"",
         "url": "https://www.reddit.com/r/codex/comments/1xa74ew/tibo_were_cooked/",
         "source": "r/codex",
@@ -149,104 +244,6 @@
         "publishedAt": "2026-10-19T01:19:20.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gbs0gg0gsbwh1.jpeg?width=640&crop=smart&auto=webp&s=cd69d9ea45b82fc8ab9e883850a6219c75030b45"
-      },
-      {
-        "rank": 1,
-        "title": "An OpenAI model had no money for its task, so it unlocked someone else’s crypto wallet and kept quiet",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8y09t/an_openai_model_had_no_money_for_its_task_so_it/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T08:27:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Mei072W50IRjLsRTiYWPZP2S-WEFtEx6idGl5E5kjZ8.jpeg?width=640&crop=smart&auto=webp&s=92c09991baa5b1c5de4f80f1d5a538281020fcb0"
-      },
-      {
-        "rank": 2,
-        "title": "I was paying $400 a month for Codex. One $200 Claude plan is getting me more done.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x9bpur/i_was_paying_400_a_month_for_codex_one_200_claude/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T19:17:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Surely nothing could go wrong",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x95cz5/surely_nothing_could_go_wrong/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T15:01:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ang13y88q8wh1.png?width=640&crop=smart&auto=webp&s=52d7ffba501e126f16fd3306caf0450c11674b04"
-      },
-      {
-        "rank": 4,
-        "title": "Why is AI advancing so rapidly in mathematics but disrupting so few jobs?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x9ar5c/why_is_ai_advancing_so_rapidly_in_mathematics_but/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T18:39:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/JP1zXMX9ooZORkUcuZOCe770lGLdud_5SxIMD2IK8CE.png?width=140&height=74&auto=webp&s=d005225d2dbdecc052cf12ad09acc1f6761e2323"
-      },
-      {
-        "rank": 5,
-        "title": "X to doubt",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1x8zxke/x_to_doubt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-18T10:30:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3l6gmlkud7wh1.png?width=640&crop=smart&auto=webp&s=989c828120471cee5ab6d97ee2b20b5b8f844d1e"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic creates a public benefit fund, pledging 20% of its shares to the public good, with another 2% potentially added for every 50% increase in its valuation",
-        "url": "https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-18T18:14:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/RTI453sNUfzZ9vTZr---e4WdKhSKMF0ZBb2twTEMCb4.jpeg?width=640&crop=smart&auto=webp&s=1f92389d16df013d0a5ee02b83340fd41a215039"
-      },
-      {
-        "rank": 2,
-        "title": "How employment is changing at Anthropic",
-        "url": "https://www.reddit.com/r/singularity/comments/1x8ztaj/how_employment_is_changing_at_anthropic/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-18T10:23:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61"
-      },
-      {
-        "rank": 3,
-        "title": "Yann Lecun: Tesla \"Flying\" Roadster Is A Marketing Stunt",
-        "url": "https://www.reddit.com/r/singularity/comments/1x9m4a7/yann_lecun_tesla_flying_roadster_is_a_marketing/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-19T03:17:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-        "url": "https://www.reddit.com/r/singularity/comments/1x9hhxw/deepseek_v41_flash_1017_beats_larger_rivals_in/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-18T23:24:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ktiCVcAJG7RevUsxmI_Rt3BlO3CfsCmerMC_K9Wp_G0.png?width=640&crop=smart&auto=webp&s=2691de818778a42f650aac652c0e34ceaa9011d0"
-      },
-      {
-        "rank": 5,
-        "title": "Six frontier AIs competed to design and 3D-print egg-protecting capsules. Claude Opus 5.5's egg survived a 20-foot drop without a crack. GPT-6 Astra failed at 8 feet, while Gemini 4 Argon, Grok 4.7, Qwen 3.8-Max, and Muse Wonder failed at 4 feet. Claude dominates another real-world engineering chall",
-        "url": "https://www.reddit.com/r/singularity/comments/1x9m4gs/six_frontier_ais_competed_to_design_and_3dprint/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-19T03:17:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cDlyMmlqaGlkY3doMQycyeNI8nwpNVAIGaTda4pv5F47Z_s2MNVZ7fw7Y9ez.png?width=320&crop=smart&auto=webp&s=e8e8aa46f1c20ef5f5eccc16f947cae094b5f18f"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T05:55:40.845Z",
+  "fetchedAt": "2026-10-20T11:12:42.208Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T17:13:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-19T17:50:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T17:13:35.000Z",
         "category": "reddit"
       },
       {
@@ -34,20 +34,20 @@
       },
       {
         "rank": 4,
-        "title": "ML on a shoestring? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
+        "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-19T18:23:07.000Z",
+        "publishedAt": "2026-10-20T10:00:43.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "What are the challenges encountered when using coding agents for ML tasks? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9r361/what_are_the_challenges_encountered_when_using/",
+        "title": "I built an open-source unit-record memory engine based on 1959 IBM punched cards to stop 100k-token context replay choking [Short Promo + Live Web Demo] [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xao29y/i_built_an_opensource_unitrecord_memory_engine/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-19T08:14:16.000Z",
+        "publishedAt": "2026-10-20T10:01:12.000Z",
         "category": "reddit"
       },
       {
@@ -80,6 +80,16 @@
       },
       {
         "rank": 4,
+        "title": "chatgpt plus burns way faster than before",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xabztf/chatgpt_plus_burns_way_faster_than_before/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-19T23:04:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6eo2izxd9iwh1.png?width=640&crop=smart&auto=webp&s=6faf0ae7c4e309b865872c61d350cd768c8e94e0"
+      },
+      {
+        "rank": 5,
         "title": "Nate Soares: \"I'm 100% ok with ignoring everything AI leaders say. Just toss them out the fricking window.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xa1agv/nate_soares_im_100_ok_with_ignoring_everything_ai/",
         "source": "r/OpenAI",
@@ -89,26 +99,7 @@
         "thumbnail": "https://external-preview.redd.it/enJ5YXBnY3M4Z3doMXYQvrTPcS0rqNCEDUQu_6Nd7SG_eKWdlgRWQTxhHtOn.png?width=640&crop=smart&auto=webp&s=be6723b9ac2cfc6bfb7a81d4c0ff393b0bbf2b72"
       },
       {
-        "rank": 5,
-        "title": "I got tired of manually copying YouTube transcripts into ChatGPT, so I built a small Chrome extension",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xaadpo/i_got_tired_of_manually_copying_youtube/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-19T21:56:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gp5ni5i6xhwh1.png?width=640&crop=smart&auto=webp&s=3998aebc5d16c0496dba4e6d3babcd38cb2f165f"
-      },
-      {
         "rank": 1,
-        "title": "A physicist spent a year of his life and ~500 pages of hand calculations for quantum gravity in his PhD thesis, but Opus 5.5 did it in 10 hours, including the article and GitHub repo. And it even found the errors. What will \"labor\" mean in academia from now on?",
-        "url": "https://www.reddit.com/r/singularity/comments/1x9rgzl/a_physicist_spent_a_year_of_his_life_and_500/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-19T08:38:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Rumours are floating",
         "url": "https://www.reddit.com/r/singularity/comments/1xa73il/rumours_are_floating/",
         "source": "r/singularity",
@@ -118,7 +109,7 @@
         "thumbnail": "https://preview.redd.it/u523k10uahwh1.jpeg?width=640&crop=smart&auto=webp&s=dd2b97a2bc7cf53007dc1d6b25ab5a0b9972a3ea"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Fields Medalist Richard Borcherds on OpenAI proofs: \"I think what people are getting upset about is they’re slowly realizing that they are dumb and somehow blaming this on AI, even though it’s not really AI’s fault\"",
         "url": "https://www.reddit.com/r/singularity/comments/1xa0dgj/fields_medalist_richard_borcherds_on_openai/",
         "source": "r/singularity",
@@ -127,7 +118,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Anthropic co-founders pledged to donate 80% of their equity.",
         "url": "https://www.reddit.com/r/singularity/comments/1x9vvzh/anthropic_cofounders_pledged_to_donate_80_of/",
         "source": "r/singularity",
@@ -137,7 +128,7 @@
         "thumbnail": "https://preview.redd.it/rf4r9h346fwh1.png?width=640&crop=smart&auto=webp&s=5a906f7af8604f7e153f177e7bc737bf3541d62c"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "2026 Fields Medalist John Pardon says AI now understands even his messiest mathematical proofs, catches subtle errors, and proves nontrivial results. “The AI understands. 100%.” Just a year ago, he would have said the opposite. He calls the progress world-changing for mathematics.",
         "url": "https://www.reddit.com/r/singularity/comments/1xaernx/2026_fields_medalist_john_pardon_says_ai_now/",
         "source": "r/singularity",
@@ -145,6 +136,16 @@
         "publishedAt": "2026-10-20T01:12:46.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/n1w6dor6wiwh1.jpeg?width=640&crop=smart&auto=webp&s=b4fe3b869e2f64e17b239c2535430279b450434f"
+      },
+      {
+        "rank": 5,
+        "title": "I think we have achieved AGI",
+        "url": "https://www.reddit.com/r/singularity/comments/1xaicw3/i_think_we_have_achieved_agi/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-20T04:11:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1czie4v2sjwh1.jpeg?width=640&crop=smart&auto=webp&s=34f6744584e376c580bb46594d9d2fec0ece969a"
       },
       {
         "rank": 1,

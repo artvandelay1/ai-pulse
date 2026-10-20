@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T15:49:08.213Z",
+  "fetchedAt": "2026-10-20T19:57:07.242Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,26 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "he’s worried about HIS reputation 😭",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa756h/hes_worried_about_his_reputation/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-19T19:53:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l3yrun83bhwh1.png?width=640&crop=smart&auto=webp&s=847f34a31f04db75ac142dd976b968108da9f7bd"
-      },
-      {
-        "rank": 2,
-        "title": "I’m happy with Opus 5.5. Stop everything, we don’t need more",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa3qmz/im_happy_with_opus_55_stop_everything_we_dont/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-19T17:48:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4pvhkgmyhgwh1.jpeg?width=640&crop=smart&auto=webp&s=2049a4f4aa80acfa158c914d0b25ad72293ad93b"
-      },
-      {
-        "rank": 3,
         "title": "Old TCL Beyond TV was super slow, so I tried this open-source debloat with Claude and it worked",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa9f5d/old_tcl_beyond_tv_was_super_slow_so_i_tried_this/",
         "source": "r/ClaudeAI",
@@ -36,16 +16,7 @@
         "thumbnail": "https://preview.redd.it/ltak40tbqhwh1.jpeg?width=640&crop=smart&auto=webp&s=3e18ba850a23f45a600867149d14e6342930b39c"
       },
       {
-        "rank": 4,
-        "title": "Anthropic’s internal report: 80% of Claude session time is agents waiting on humans",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xag7e5/anthropics_internal_report_80_of_claude_session/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T02:21:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "title": "Attended my first Claude hackathon and learned that building a good product and winning a hackathon are two very different things",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xal7sc/attended_my_first_claude_hackathon_and_learned/",
         "source": "r/ClaudeAI",
@@ -55,34 +26,35 @@
         "thumbnail": "https://preview.redd.it/ysx2x8rawdwh1.jpeg?width=640&crop=smart&auto=webp&s=c0fdbebc3854a55bc914e7a57c4fa5d53a93faeb"
       },
       {
-        "rank": 1,
-        "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T17:50:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-19T17:13:35.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 3,
-        "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
-        "source": "r/MachineLearning",
+        "title": "Anthropic’s internal report: 80% of Claude session time is agents waiting on humans",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xag7e5/anthropics_internal_report_80_of_claude_session/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-19T18:15:18.000Z",
+        "publishedAt": "2026-10-20T02:21:38.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
+        "title": "Opus 5.5 refused to draft/write an example of a paragraph in my thesis",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavfzc/opus_55_refused_to_draftwrite_an_example_of_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T15:38:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/odcdmey96nwh1.png?width=640&crop=smart&auto=webp&s=736c39d4c6c0d71c0215105cc611ece74a8d2880"
+      },
+      {
+        "rank": 5,
+        "title": "That was the best $48.62 spent on Fable. Thank you Anthropic",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T13:14:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
         "source": "r/MachineLearning",
@@ -91,35 +63,16 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "ML on a shoestring? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
+        "rank": 2,
+        "title": "Regarding CVPR 2027 Submission [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-19T18:23:07.000Z",
+        "publishedAt": "2026-10-20T12:49:39.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Big shout out to Tibo and Team for their work this weekend!",
-        "url": "https://www.reddit.com/r/codex/comments/1xa5m28/big_shout_out_to_tibo_and_team_for_their_work/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-19T18:56:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Tibo: \"We're cooked\"",
-        "url": "https://www.reddit.com/r/codex/comments/1xa74ew/tibo_were_cooked/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-19T19:52:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0eewb660bhwh1.png?width=640&crop=smart&auto=webp&s=c19d1f89653fdfe681f02d6209637c1c670e4790"
-      },
-      {
-        "rank": 3,
         "title": "Probably explains why Codex is in the state it's currently in. OpenAI can't help but do side quests unlike Anthropic who seem to be laser focused on making better models.",
         "url": "https://www.reddit.com/r/codex/comments/1xaj1n4/probably_explains_why_codex_is_in_the_state_its/",
         "source": "r/codex",
@@ -129,24 +82,44 @@
         "thumbnail": "https://preview.redd.it/xhqmhmtjyjwh1.png?width=640&crop=smart&auto=webp&s=6b31dea4807cdf9d1245d5da795935ed611bf3ca"
       },
       {
-        "rank": 4,
-        "title": "We're getting a 6.1 Terra model",
-        "url": "https://www.reddit.com/r/codex/comments/1xa1e3h/were_getting_a_61_terra_model/",
+        "rank": 2,
+        "title": "Looks like day 15 is a reset as well",
+        "url": "https://www.reddit.com/r/codex/comments/1xaku71/looks_like_day_15_is_a_reset_as_well/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-19T16:22:05.000Z",
+        "publishedAt": "2026-10-20T06:36:36.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ky0g17i9gwh1.png?width=640&crop=smart&auto=webp&s=847b3d0a5f133826c509334a2fa3710d8966f92e"
+        "thumbnail": "https://preview.redd.it/svsvmjjyhkwh1.jpeg?width=640&crop=smart&auto=webp&s=eedd4d06de9b8bddc41447c69a5e5bb60ef37deb"
+      },
+      {
+        "rank": 3,
+        "title": "Well at least they are admitting it",
+        "url": "https://www.reddit.com/r/codex/comments/1xay01g/well_at_least_they_are_admitting_it/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-20T17:12:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/atazmc4fnnwh1.jpeg?width=640&crop=smart&auto=webp&s=1e924ae4bb58aed61f408fa83817bdebf4c6d343"
+      },
+      {
+        "rank": 4,
+        "title": "RESET HAS ARRIVED.",
+        "url": "https://www.reddit.com/r/codex/comments/1xakzfm/reset_has_arrived/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-20T06:45:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f7fd8vtjjkwh1.png?width=320&crop=smart&auto=webp&s=307747a018d4f372f503ed8c7d37a8aff83e7ad4"
       },
       {
         "rank": 5,
-        "title": "Tibo became the #1 most visited account on X in September. All thanks to resets lmao",
-        "url": "https://www.reddit.com/r/codex/comments/1xa0zhl/tibo_became_the_1_most_visited_account_on_x_in/",
+        "title": "Damn bro, respect",
+        "url": "https://www.reddit.com/r/codex/comments/1xaxcnq/damn_bro_respect/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-19T16:06:49.000Z",
+        "publishedAt": "2026-10-20T16:48:39.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/edrz6w0r6gwh1.jpeg?width=640&crop=smart&auto=webp&s=61558794a4a29c71715c4fabb64d054442f4f40d"
+        "thumbnail": "https://preview.redd.it/9jzv5wp5jnwh1.jpeg?width=640&crop=smart&auto=webp&s=06e6624f5022a818b1f80c3c7b982382a6e772c5"
       },
       {
         "rank": 1,

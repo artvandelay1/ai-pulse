@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T21:43:14.507Z",
+  "fetchedAt": "2026-10-20T01:00:10.150Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Claude caught a cryptominer on my Mac whilst building me a temperature monitor app",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9smgq/claude_caught_a_cryptominer_on_my_mac_whilst/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-19T09:50:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vvebqz7pbewh1.jpeg?width=640&crop=smart&auto=webp&s=de26c9f28e9dfd98a583e0fc6992b27cb5e183f5"
-      },
-      {
-        "rank": 3,
         "title": "I’m happy with Opus 5.5. Stop everything, we don’t need more",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa3qmz/im_happy_with_opus_55_stop_everything_we_dont/",
         "source": "r/ClaudeAI",
@@ -34,6 +24,16 @@
         "publishedAt": "2026-10-19T17:48:39.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4pvhkgmyhgwh1.jpeg?width=640&crop=smart&auto=webp&s=2049a4f4aa80acfa158c914d0b25ad72293ad93b"
+      },
+      {
+        "rank": 3,
+        "title": "Claude caught a cryptominer on my Mac whilst building me a temperature monitor app",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9smgq/claude_caught_a_cryptominer_on_my_mac_whilst/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-19T09:50:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vvebqz7pbewh1.jpeg?width=640&crop=smart&auto=webp&s=de26c9f28e9dfd98a583e0fc6992b27cb5e183f5"
       },
       {
         "rank": 4,
@@ -47,24 +47,16 @@
       },
       {
         "rank": 5,
-        "title": "Accenture just capped Claude spend at $29/person after some staff hit $1,000 months. Most companies are wasting the same money.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9itd3/accenture_just_capped_claude_spend_at_29person/",
+        "title": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1x9y7du/anthropic_wants_ai_models_blocked_only_if_they/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-19T00:28:22.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-19T14:21:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/3vyjwxPORAbW_X_GlGkEji5I8pDyiCV7db4RIZcpYwI.jpeg?width=640&crop=smart&auto=webp&s=596248f46d0c5e4049e33be92d4be5d9ddea6428"
       },
       {
         "rank": 1,
-        "title": "Conference papers are cooked! [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-18T22:12:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
         "source": "r/MachineLearning",
@@ -73,7 +65,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
         "source": "r/MachineLearning",
@@ -82,7 +74,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
         "source": "r/MachineLearning",
@@ -92,7 +84,7 @@
         "thumbnail": "https://preview.redd.it/a13ipz9rscwh1.png?width=140&height=132&auto=webp&s=d6b194037b2afeae4463d273a20b492a450c34f4"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
         "source": "r/MachineLearning",
@@ -101,27 +93,16 @@
         "category": "reddit"
       },
       {
+        "rank": 5,
+        "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-19T18:15:18.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "We're getting a 6.1 Terra model",
-        "url": "https://www.reddit.com/r/codex/comments/1xa1e3h/were_getting_a_61_terra_model/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-19T16:22:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5ky0g17i9gwh1.png?width=640&crop=smart&auto=webp&s=847b3d0a5f133826c509334a2fa3710d8966f92e"
-      },
-      {
-        "rank": 2,
-        "title": "day 14",
-        "url": "https://www.reddit.com/r/codex/comments/1x9ju0w/day_14/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-19T01:19:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gbs0gg0gsbwh1.jpeg?width=640&crop=smart&auto=webp&s=cd69d9ea45b82fc8ab9e883850a6219c75030b45"
-      },
-      {
-        "rank": 3,
         "title": "Tibo: \"We're cooked\"",
         "url": "https://www.reddit.com/r/codex/comments/1xa74ew/tibo_were_cooked/",
         "source": "r/codex",
@@ -129,6 +110,25 @@
         "publishedAt": "2026-10-19T19:52:15.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/0eewb660bhwh1.png?width=640&crop=smart&auto=webp&s=c19d1f89653fdfe681f02d6209637c1c670e4790"
+      },
+      {
+        "rank": 2,
+        "title": "Big shout out to Tibo and Team for their work this weekend!",
+        "url": "https://www.reddit.com/r/codex/comments/1xa5m28/big_shout_out_to_tibo_and_team_for_their_work/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-19T18:56:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "We're getting a 6.1 Terra model",
+        "url": "https://www.reddit.com/r/codex/comments/1xa1e3h/were_getting_a_61_terra_model/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-19T16:22:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5ky0g17i9gwh1.png?width=640&crop=smart&auto=webp&s=847b3d0a5f133826c509334a2fa3710d8966f92e"
       },
       {
         "rank": 4,
@@ -142,12 +142,13 @@
       },
       {
         "rank": 5,
-        "title": "Big shout out to Tibo and Team for their work this weekend!",
-        "url": "https://www.reddit.com/r/codex/comments/1xa5m28/big_shout_out_to_tibo_and_team_for_their_work/",
+        "title": "day 14",
+        "url": "https://www.reddit.com/r/codex/comments/1x9ju0w/day_14/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-19T18:56:40.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-19T01:19:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gbs0gg0gsbwh1.jpeg?width=640&crop=smart&auto=webp&s=cd69d9ea45b82fc8ab9e883850a6219c75030b45"
       },
       {
         "rank": 1,

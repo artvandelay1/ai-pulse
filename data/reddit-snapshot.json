@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-21T18:13:06.693Z",
+  "fetchedAt": "2026-10-21T21:56:10.822Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,26 +17,16 @@
       },
       {
         "rank": 2,
-        "title": "You thought that Anthropic was the only frontier profitable AI company? Think again",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb4uak/you_thought_that_anthropic_was_the_only_frontier/",
+        "title": "Claude Duet: Anthropic just casually dropped the personal assistant calling it a proactive agent. This is the response to Muses, Bots and Dots",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbwkgf/claude_duet_anthropic_just_casually_dropped_the/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-20T21:32:01.000Z",
+        "publishedAt": "2026-10-21T19:17:05.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z7o9ognpxowh1.jpeg?width=640&crop=smart&auto=webp&s=05831b7e6c9f79d219fff34ad77ab9a2b9cef73f"
+        "thumbnail": "https://preview.redd.it/r72ka8tjevwh1.jpeg?width=640&crop=smart&auto=webp&s=8c043291e869a3c2836bfbfb572bebcc0c124abf"
       },
       {
         "rank": 3,
-        "title": "based alert",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb2cf6/based_alert/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T19:53:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wg9xeem6gowh1.png?width=320&crop=smart&auto=webp&s=4123e2219cedae4f9cf7a123f3fdb9aa3c25e6c4"
-      },
-      {
-        "rank": 4,
         "title": "Man arrested after telling AI chatbot about ‘plans for mass shooting’ | A 29-year-old man has been remanded in custody after Interpol flagged his conversation with Claude",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbroz9/man_arrested_after_telling_ai_chatbot_about_plans/",
         "source": "r/ClaudeAI",
@@ -46,7 +36,7 @@
         "thumbnail": "https://external-preview.redd.it/xsw6k0W9_zqBrj_WYnqFfIY94Fc4rEthKZ9Z5tWUfgw.jpeg?width=640&crop=smart&auto=webp&s=a89eec6a64d6d8cd4e280340d8f9f878c81b4fee"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Built a live 3D airport with real flights using Claude Code",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbl9av/built_a_live_3d_airport_with_real_flights_using/",
         "source": "r/ClaudeAI",
@@ -54,6 +44,16 @@
         "publishedAt": "2026-10-21T12:02:23.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ZTZ3N3R1NnA3dHdoMSHGPEYzumnYM0ygYwX1wL811EapbpFQ09MBD7FD4ytf.png?width=640&crop=smart&auto=webp&s=0be1efcb0e1ecc69b20389e7d9c7a45cb71d7b6e"
+      },
+      {
+        "rank": 5,
+        "title": "I gave Claude Code my parents' TV model number. It found the TV on Wi-Fi and cleaned out the ads. The interesting part: the prompt is mostly a list of things it must NOT do",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbrzo0/i_gave_claude_code_my_parents_tv_model_number_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-21T16:31:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rmzr4c0ykuwh1.jpeg?width=640&crop=smart&auto=webp&s=c0d5c5cd232392bdc5f776088144929f2c8b29e9"
       },
       {
         "rank": 1,
@@ -74,6 +74,15 @@
         "category": "reddit"
       },
       {
+        "rank": 3,
+        "title": "Noun-verb-conjunction triads [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T17:44:08.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
         "title": "Caching upgraded massively",
         "url": "https://www.reddit.com/r/codex/comments/1xb9prz/caching_upgraded_massively/",
@@ -85,16 +94,6 @@
       },
       {
         "rank": 2,
-        "title": "We accidentally gave you extra usage, so here's 5x more free usage",
-        "url": "https://www.reddit.com/r/codex/comments/1xb2bs4/we_accidentally_gave_you_extra_usage_so_heres_5x/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-20T19:53:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k5dv0t82gowh1.jpeg?width=640&crop=smart&auto=webp&s=7c2b9db2befaa61635acfe5b3e15aad55ea5134d"
-      },
-      {
-        "rank": 3,
         "title": "We’re halfway through 28 days now. Do you think this went how OpenAI hoped it would?",
         "url": "https://www.reddit.com/r/codex/comments/1xb5y6q/were_halfway_through_28_days_now_do_you_think/",
         "source": "r/codex",
@@ -103,7 +102,26 @@
         "category": "reddit"
       },
       {
+        "rank": 3,
+        "title": "Write the F**king Manual - a free Codex plugin that writes your web app's user guides, screenshots included",
+        "url": "https://www.reddit.com/r/codex/comments/1xbuog1/write_the_fking_manual_a_free_codex_plugin_that/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T18:08:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qjxz3bgwzuwh1.gif?width=640&crop=smart&s=c3088dae4c49c1bc1233c9ad45f7072c1ec85de8"
+      },
+      {
         "rank": 4,
+        "title": "Permanent Caching in Codex and Work Makes Pro Subscriptions More Valuable Than Ever",
+        "url": "https://www.reddit.com/r/codex/comments/1xbhzim/permanent_caching_in_codex_and_work_makes_pro/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T08:56:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Giving me a heartattack - $18k assumed budget",
         "url": "https://www.reddit.com/r/codex/comments/1xbdy4t/giving_me_a_heartattack_18k_assumed_budget/",
         "source": "r/codex",
@@ -111,15 +129,6 @@
         "publishedAt": "2026-10-21T04:48:16.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ttdzwphh3rwh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=812ba3043dfdf088a615643a0bfa1931ffc5df99"
-      },
-      {
-        "rank": 5,
-        "title": "Permanent Caching in Codex and Work Makes Pro Subscriptions More Valuable Than Ever",
-        "url": "https://www.reddit.com/r/codex/comments/1xbhzim/permanent_caching_in_codex_and_work_makes_pro/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T08:56:16.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

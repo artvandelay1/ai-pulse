@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T23:04:47.053Z",
+  "fetchedAt": "2026-10-21T01:54:44.653Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -24,6 +24,15 @@
         "category": "reddit"
       },
       {
+        "rank": 3,
+        "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T01:13:32.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
         "title": "Right now, millions of Meta's AIs are living \"digital lives\" in a simulation, and they don't know. They're dropped into a \"fake person's life\" with a job, hobbies, friends, dreams. They think they're talking to real humans, who are secretly other AIs. When the AIs figure it out, Meta deletes it.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xapayu/right_now_millions_of_metas_ais_are_living/",
@@ -45,16 +54,6 @@
       },
       {
         "rank": 3,
-        "title": "chatgpt plus burns way faster than before",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xabztf/chatgpt_plus_burns_way_faster_than_before/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-19T23:04:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6eo2izxd9iwh1.png?width=640&crop=smart&auto=webp&s=6faf0ae7c4e309b865872c61d350cd768c8e94e0"
-      },
-      {
-        "rank": 4,
         "title": "Jeremy Strong: “We are in a moment of existential civilizational crisis ... The issues of control and alignment are not being figured out and are being outpaced by the speed and acceleration of AI ... We need to wake up and regulate and do something about it.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xasr5x/jeremy_strong_we_are_in_a_moment_of_existential/",
         "source": "r/OpenAI",
@@ -62,6 +61,16 @@
         "publishedAt": "2026-10-20T13:53:10.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/MDRkNGpnb3NubXdoMdMWVcGZoQoqTEDdORn6yTSJ5X9E1FNqdmb3OZjHcBkQ.png?width=640&crop=smart&auto=webp&s=044b4cca58dcede4292d9922993c2f439ec800cc"
+      },
+      {
+        "rank": 4,
+        "title": "Usage draining issues",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xb08pw/usage_draining_issues/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T18:35:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y8k5zkez1owh1.png?width=640&crop=smart&auto=webp&s=08e6e5239acb7e6f5ed13d8045b0953c47dc30f5"
       },
       {
         "rank": 5,
@@ -95,16 +104,6 @@
       },
       {
         "rank": 3,
-        "title": "2026 Fields Medalist John Pardon says AI now understands even his messiest mathematical proofs, catches subtle errors, and proves nontrivial results. “The AI understands. 100%.” Just a year ago, he would have said the opposite. He calls the progress world-changing for mathematics.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xaernx/2026_fields_medalist_john_pardon_says_ai_now/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-20T01:12:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n1w6dor6wiwh1.jpeg?width=640&crop=smart&auto=webp&s=b4fe3b869e2f64e17b239c2535430279b450434f"
-      },
-      {
-        "rank": 4,
         "title": "Waymo's robotaxis had 95% fewer serious crashes than humans. Now it plans a fleet of 20,000 cars",
         "url": "https://www.reddit.com/r/singularity/comments/1xarq3w/waymos_robotaxis_had_95_fewer_serious_crashes/",
         "source": "r/singularity",
@@ -112,6 +111,16 @@
         "publishedAt": "2026-10-20T13:09:37.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/RcNiE1Z_QG_yND0SuiSNY58vw2MVoeD_wZAZoGVjTl4.jpeg?width=640&crop=smart&auto=webp&s=e1d5c068c88a28cd44db7df109edcc07526c65c7"
+      },
+      {
+        "rank": 4,
+        "title": "Unemployed people waiting for the singularity to arrive",
+        "url": "https://www.reddit.com/r/singularity/comments/1xaxhe2/unemployed_people_waiting_for_the_singularity_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-20T16:53:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lacbid7mjnwh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0311b6c1c29c720d8ac70eb07df4f9a36edc7ca0"
       },
       {
         "rank": 5,

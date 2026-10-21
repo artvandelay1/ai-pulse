@@ -1,10 +1,146 @@
 {
-  "fetchedAt": "2026-10-21T07:20:11.481Z",
+  "fetchedAt": "2026-10-21T13:07:43.399Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T01:13:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T10:09:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Need access to TPUs for ML mapping project [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbhyq1/need_access_to_tpus_for_ml_mapping_project_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T08:54:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "A 34-point win for my memristor-crossbar repair method came from an unfair baseline; tuned, step-matched baselines removed it [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj5i0/a_34point_win_for_my_memristorcrossbar_repair/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T10:08:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Ex-OpenAI employee accused of bugging office had $385K salary plus a $2.2M new-hire grant",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xbkoph/exopenai_employee_accused_of_bugging_office_had/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-21T11:33:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v973fj2g3twh1.png?width=640&crop=smart&auto=webp&s=c300a5af3653750e6943bed19ce5963fdf700b2d"
+      },
+      {
+        "rank": 2,
+        "title": "12 hour prompt coaching",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xb2w0b/12_hour_prompt_coaching/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T20:13:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6extgtgsjowh1.jpeg?width=640&crop=smart&auto=webp&s=542a0ca0b49330daef64ae51601375d85ee47e4e"
+      },
+      {
+        "rank": 3,
+        "title": "lol this is just funny",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xav0au/lol_this_is_just_funny/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T15:22:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t3wau4ap3nwh1.jpeg?width=640&crop=smart&auto=webp&s=1c8cff6316d3c4c2fa23360434c87bd2f334f426"
+      },
+      {
+        "rank": 4,
+        "title": "Usage draining issues",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xb08pw/usage_draining_issues/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T18:35:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y8k5zkez1owh1.png?width=640&crop=smart&auto=webp&s=08e6e5239acb7e6f5ed13d8045b0953c47dc30f5"
+      },
+      {
+        "rank": 5,
+        "title": "Jeremy Strong: “We are in a moment of existential civilizational crisis ... The issues of control and alignment are not being figured out and are being outpaced by the speed and acceleration of AI ... We need to wake up and regulate and do something about it.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xasr5x/jeremy_strong_we_are_in_a_moment_of_existential/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T13:53:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MDRkNGpnb3NubXdoMdMWVcGZoQoqTEDdORn6yTSJ5X9E1FNqdmb3OZjHcBkQ.png?width=640&crop=smart&auto=webp&s=044b4cca58dcede4292d9922993c2f439ec800cc"
+      },
+      {
+        "rank": 1,
+        "title": "We did it everybody. Close the sub.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xawecs/we_did_it_everybody_close_the_sub/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-20T16:13:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y516yeqtcnwh1.jpeg?width=640&crop=smart&auto=webp&s=bfbdab619c6922832b0551f7c9ce44c6aa95abaa"
+      },
+      {
+        "rank": 2,
+        "title": "Waymo's robotaxis had 95% fewer serious crashes than humans. Now it plans a fleet of 20,000 cars",
+        "url": "https://www.reddit.com/r/singularity/comments/1xarq3w/waymos_robotaxis_had_95_fewer_serious_crashes/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-20T13:09:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/RcNiE1Z_QG_yND0SuiSNY58vw2MVoeD_wZAZoGVjTl4.jpeg?width=640&crop=smart&auto=webp&s=e1d5c068c88a28cd44db7df109edcc07526c65c7"
+      },
+      {
+        "rank": 3,
+        "title": "Unitree's newest robot: H2-X Kung Fu Legend Guardian",
+        "url": "https://www.reddit.com/r/singularity/comments/1xbidfc/unitrees_newest_robot_h2x_kung_fu_legend_guardian/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-21T09:19:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/czRidXU3eGhmc3doMZeSazHDCwJbweTiFjVwfX6iBP5hlNPjMgUPB6ASbBDA.png?width=640&crop=smart&auto=webp&s=6eef11e9d3a853e2cbf00f34a473d55a73165d8e"
+      },
+      {
+        "rank": 4,
+        "title": "Unemployed people waiting for the singularity to arrive",
+        "url": "https://www.reddit.com/r/singularity/comments/1xaxhe2/unemployed_people_waiting_for_the_singularity_to/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-20T16:53:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lacbid7mjnwh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0311b6c1c29c720d8ac70eb07df4f9a36edc7ca0"
+      },
+      {
+        "rank": 5,
+        "title": "As of 3 hours ago, the Linux Kernel no longer requires the usage of AI to be declared for new code submissions.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xbe2tf/as_of_3_hours_ago_the_linux_kernel_no_longer/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-21T04:55:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pxatsh6v4rwh1.jpeg?width=640&crop=smart&auto=webp&s=002b5ade780c3f59e771167ef28d72a8b58f6e38"
+      },
       {
         "rank": 1,
         "title": "You thought that Anthropic was the only frontier profitable AI company? Think again",
@@ -56,33 +192,6 @@
       },
       {
         "rank": 1,
-        "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-20T10:00:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Regarding CVPR 2027 Submission [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xar9ha/regarding_cvpr_2027_submission_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-20T12:49:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Will our paper be removed from EMNLP because of no-show? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-21T01:13:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Caching upgraded massively",
         "url": "https://www.reddit.com/r/codex/comments/1xb9prz/caching_upgraded_massively/",
         "source": "r/codex",
@@ -129,106 +238,6 @@
         "score": 0,
         "publishedAt": "2026-10-20T22:18:04.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Right now, millions of Meta's AIs are living \"digital lives\" in a simulation, and they don't know. They're dropped into a \"fake person's life\" with a job, hobbies, friends, dreams. They think they're talking to real humans, who are secretly other AIs. When the AIs figure it out, Meta deletes it.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xapayu/right_now_millions_of_metas_ais_are_living/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T11:11:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9zt0bc7yulwh1.png?width=640&crop=smart&auto=webp&s=fa41e261b5d2283a3aac76d40f54fe92a83130e2"
-      },
-      {
-        "rank": 2,
-        "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now? | Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.”",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xao716/ai_proved_the_quasiriemann_hypothesis_what/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T10:08:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/A931R4IUUSPsiIg1mxpKqZrslN-Zfn9NYQDqb_-C5Ek.jpeg?width=640&crop=smart&auto=webp&s=784cdf34828078585b607e86151f88b0e4dd2d5b"
-      },
-      {
-        "rank": 3,
-        "title": "Jeremy Strong: “We are in a moment of existential civilizational crisis ... The issues of control and alignment are not being figured out and are being outpaced by the speed and acceleration of AI ... We need to wake up and regulate and do something about it.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xasr5x/jeremy_strong_we_are_in_a_moment_of_existential/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T13:53:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MDRkNGpnb3NubXdoMdMWVcGZoQoqTEDdORn6yTSJ5X9E1FNqdmb3OZjHcBkQ.png?width=640&crop=smart&auto=webp&s=044b4cca58dcede4292d9922993c2f439ec800cc"
-      },
-      {
-        "rank": 4,
-        "title": "Usage draining issues",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xb08pw/usage_draining_issues/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T18:35:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y8k5zkez1owh1.png?width=640&crop=smart&auto=webp&s=08e6e5239acb7e6f5ed13d8045b0953c47dc30f5"
-      },
-      {
-        "rank": 5,
-        "title": "Asked GPT-6 to illustrate the difference in size of a polar bear and a tiger",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xak9ks/asked_gpt6_to_illustrate_the_difference_in_size/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T06:01:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ubrusvypbkwh1.jpeg?width=640&crop=smart&auto=webp&s=49f27fc8f4176cc7979e07b878b839dce5ab6421"
-      },
-      {
-        "rank": 1,
-        "title": "We did it everybody. Close the sub.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xawecs/we_did_it_everybody_close_the_sub/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-20T16:13:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y516yeqtcnwh1.jpeg?width=640&crop=smart&auto=webp&s=bfbdab619c6922832b0551f7c9ce44c6aa95abaa"
-      },
-      {
-        "rank": 2,
-        "title": "This mod received insane amount of AI hate and got taken down",
-        "url": "https://www.reddit.com/r/singularity/comments/1xana1l/this_mod_received_insane_amount_of_ai_hate_and/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-20T09:12:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NXpvcTlldHY4bHdoMR8CppQiwEd8BN89ChHSEhvdR4cHofRjDp7HVR6uovKd.png?width=640&crop=smart&auto=webp&s=6925a4188d4462e5bb4819b01e1f6ced50cb8d5c"
-      },
-      {
-        "rank": 3,
-        "title": "Waymo's robotaxis had 95% fewer serious crashes than humans. Now it plans a fleet of 20,000 cars",
-        "url": "https://www.reddit.com/r/singularity/comments/1xarq3w/waymos_robotaxis_had_95_fewer_serious_crashes/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-20T13:09:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/RcNiE1Z_QG_yND0SuiSNY58vw2MVoeD_wZAZoGVjTl4.jpeg?width=640&crop=smart&auto=webp&s=e1d5c068c88a28cd44db7df109edcc07526c65c7"
-      },
-      {
-        "rank": 4,
-        "title": "Unemployed people waiting for the singularity to arrive",
-        "url": "https://www.reddit.com/r/singularity/comments/1xaxhe2/unemployed_people_waiting_for_the_singularity_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-20T16:53:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lacbid7mjnwh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=0311b6c1c29c720d8ac70eb07df4f9a36edc7ca0"
-      },
-      {
-        "rank": 5,
-        "title": "Oh god. This is not what I meant by having AI assistants",
-        "url": "https://www.reddit.com/r/singularity/comments/1xaoob5/oh_god_this_is_not_what_i_meant_by_having_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-20T10:36:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MXN4bnN4NnRvbHdoMVPwpil7J3wbZ3LDAsyaEg3PDzNFk92moSWqA6jV6XeS.jpeg?width=640&crop=smart&auto=webp&s=19130da5a1c028d7399846e07120fb1b1792e09b"
       }
     ]
   }

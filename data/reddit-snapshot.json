@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-21T01:54:44.653Z",
+  "fetchedAt": "2026-10-21T07:20:11.481Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "You thought that Anthropic was the only frontier profitable AI company? Think again",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb4uak/you_thought_that_anthropic_was_the_only_frontier/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T21:32:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z7o9ognpxowh1.jpeg?width=640&crop=smart&auto=webp&s=05831b7e6c9f79d219fff34ad77ab9a2b9cef73f"
+      },
+      {
+        "rank": 2,
+        "title": "Opus 5.5 refused to draft/write an example of a paragraph in my thesis",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavfzc/opus_55_refused_to_draftwrite_an_example_of_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T15:38:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/odcdmey96nwh1.png?width=640&crop=smart&auto=webp&s=736c39d4c6c0d71c0215105cc611ece74a8d2880"
+      },
+      {
+        "rank": 3,
+        "title": "That was the best $48.62 spent on Fable. Thank you Anthropic",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T13:14:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "based alert",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb2cf6/based_alert/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T19:53:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wg9xeem6gowh1.png?width=320&crop=smart&auto=webp&s=4123e2219cedae4f9cf7a123f3fdb9aa3c25e6c4"
+      },
+      {
+        "rank": 5,
+        "title": "Fable 5.5: what is actually confirmed vs the \"tomorrow\" rumor",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xaqcgn/fable_55_what_is_actually_confirmed_vs_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-20T12:05:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ra4wj3wn4mwh1.png?width=640&crop=smart&auto=webp&s=5bd1b656c1dd3b32883671a18e75951c05bf5cbf"
+      },
       {
         "rank": 1,
         "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
@@ -30,6 +79,55 @@
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-21T01:13:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Caching upgraded massively",
+        "url": "https://www.reddit.com/r/codex/comments/1xb9prz/caching_upgraded_massively/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T01:11:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wx9g6nsw0qwh1.jpeg?width=640&crop=smart&auto=webp&s=df43e48248a05c5a705fe171cfa890329b3b1200"
+      },
+      {
+        "rank": 2,
+        "title": "Well at least they are admitting it",
+        "url": "https://www.reddit.com/r/codex/comments/1xay01g/well_at_least_they_are_admitting_it/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-20T17:12:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/atazmc4fnnwh1.jpeg?width=640&crop=smart&auto=webp&s=1e924ae4bb58aed61f408fa83817bdebf4c6d343"
+      },
+      {
+        "rank": 3,
+        "title": "Damn bro, respect",
+        "url": "https://www.reddit.com/r/codex/comments/1xaxcnq/damn_bro_respect/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-20T16:48:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9jzv5wp5jnwh1.jpeg?width=640&crop=smart&auto=webp&s=06e6624f5022a818b1f80c3c7b982382a6e772c5"
+      },
+      {
+        "rank": 4,
+        "title": "We accidentally gave you extra usage, so here's 5x more free usage",
+        "url": "https://www.reddit.com/r/codex/comments/1xb2bs4/we_accidentally_gave_you_extra_usage_so_heres_5x/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-20T19:53:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k5dv0t82gowh1.jpeg?width=640&crop=smart&auto=webp&s=7c2b9db2befaa61635acfe5b3e15aad55ea5134d"
+      },
+      {
+        "rank": 5,
+        "title": "We’re halfway through 28 days now. Do you think this went how OpenAI hoped it would?",
+        "url": "https://www.reddit.com/r/codex/comments/1xb5y6q/were_halfway_through_28_days_now_do_you_think/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-20T22:18:04.000Z",
         "category": "reddit"
       },
       {
@@ -131,104 +229,6 @@
         "publishedAt": "2026-10-20T10:36:52.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/MXN4bnN4NnRvbHdoMVPwpil7J3wbZ3LDAsyaEg3PDzNFk92moSWqA6jV6XeS.jpeg?width=640&crop=smart&auto=webp&s=19130da5a1c028d7399846e07120fb1b1792e09b"
-      },
-      {
-        "rank": 1,
-        "title": "Old TCL Beyond TV was super slow, so I tried this open-source debloat with Claude and it worked",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xa9f5d/old_tcl_beyond_tv_was_super_slow_so_i_tried_this/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-19T21:18:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ltak40tbqhwh1.jpeg?width=640&crop=smart&auto=webp&s=3e18ba850a23f45a600867149d14e6342930b39c"
-      },
-      {
-        "rank": 2,
-        "title": "Attended my first Claude hackathon and learned that building a good product and winning a hackathon are two very different things",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xal7sc/attended_my_first_claude_hackathon_and_learned/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T06:59:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ysx2x8rawdwh1.jpeg?width=640&crop=smart&auto=webp&s=c0fdbebc3854a55bc914e7a57c4fa5d53a93faeb"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic’s internal report: 80% of Claude session time is agents waiting on humans",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xag7e5/anthropics_internal_report_80_of_claude_session/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T02:21:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Opus 5.5 refused to draft/write an example of a paragraph in my thesis",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xavfzc/opus_55_refused_to_draftwrite_an_example_of_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T15:38:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/odcdmey96nwh1.png?width=640&crop=smart&auto=webp&s=736c39d4c6c0d71c0215105cc611ece74a8d2880"
-      },
-      {
-        "rank": 5,
-        "title": "That was the best $48.62 spent on Fable. Thank you Anthropic",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-20T13:14:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Probably explains why Codex is in the state it's currently in. OpenAI can't help but do side quests unlike Anthropic who seem to be laser focused on making better models.",
-        "url": "https://www.reddit.com/r/codex/comments/1xaj1n4/probably_explains_why_codex_is_in_the_state_its/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-20T04:49:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xhqmhmtjyjwh1.png?width=640&crop=smart&auto=webp&s=6b31dea4807cdf9d1245d5da795935ed611bf3ca"
-      },
-      {
-        "rank": 2,
-        "title": "Looks like day 15 is a reset as well",
-        "url": "https://www.reddit.com/r/codex/comments/1xaku71/looks_like_day_15_is_a_reset_as_well/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-20T06:36:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/svsvmjjyhkwh1.jpeg?width=640&crop=smart&auto=webp&s=eedd4d06de9b8bddc41447c69a5e5bb60ef37deb"
-      },
-      {
-        "rank": 3,
-        "title": "Well at least they are admitting it",
-        "url": "https://www.reddit.com/r/codex/comments/1xay01g/well_at_least_they_are_admitting_it/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-20T17:12:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/atazmc4fnnwh1.jpeg?width=640&crop=smart&auto=webp&s=1e924ae4bb58aed61f408fa83817bdebf4c6d343"
-      },
-      {
-        "rank": 4,
-        "title": "RESET HAS ARRIVED.",
-        "url": "https://www.reddit.com/r/codex/comments/1xakzfm/reset_has_arrived/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-20T06:45:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f7fd8vtjjkwh1.png?width=320&crop=smart&auto=webp&s=307747a018d4f372f503ed8c7d37a8aff83e7ad4"
-      },
-      {
-        "rank": 5,
-        "title": "Damn bro, respect",
-        "url": "https://www.reddit.com/r/codex/comments/1xaxcnq/damn_bro_respect/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-20T16:48:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9jzv5wp5jnwh1.jpeg?width=640&crop=smart&auto=webp&s=06e6624f5022a818b1f80c3c7b982382a6e772c5"
       }
     ]
   }

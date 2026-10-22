@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T10:31:08.114Z",
+  "fetchedAt": "2026-10-22T15:36:13.242Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,26 @@
       },
       {
         "rank": 2,
+        "title": "Claude is Like a Senior Now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T09:40:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k5gcn70oozwh1.jpeg?width=640&crop=smart&auto=webp&s=8ea2e2f4d8ed26ccf50b8721bf255ba155b23216"
+      },
+      {
+        "rank": 3,
+        "title": "I got tired of checking whether Claude Code needs me. So I gave it a physical status light.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T09:29:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bGUxcmVpOGttendoMbYG986yefw64zAT7sg9kgiZb-mdOyiAnbRCi1NifeWx.png?width=640&crop=smart&auto=webp&s=c4e935a1ae3e8e8eb612e8759b03aa53af83ea26"
+      },
+      {
+        "rank": 4,
         "title": "Claude Duet: Anthropic just casually dropped the personal assistant calling it a proactive agent. This is the response to Muses, Bots and Dots",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbwkgf/claude_duet_anthropic_just_casually_dropped_the/",
         "source": "r/ClaudeAI",
@@ -26,17 +46,7 @@
         "thumbnail": "https://preview.redd.it/r72ka8tjevwh1.jpeg?width=640&crop=smart&auto=webp&s=8c043291e869a3c2836bfbfb572bebcc0c124abf"
       },
       {
-        "rank": 3,
-        "title": "Man arrested after telling AI chatbot about ‘plans for mass shooting’ | A 29-year-old man has been remanded in custody after Interpol flagged his conversation with Claude",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbroz9/man_arrested_after_telling_ai_chatbot_about_plans/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-21T16:20:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/xsw6k0W9_zqBrj_WYnqFfIY94Fc4rEthKZ9Z5tWUfgw.jpeg?width=640&crop=smart&auto=webp&s=a89eec6a64d6d8cd4e280340d8f9f878c81b4fee"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "title": "Aside from hacking TVs to remove ads, what’s another cool/innovative way you’ve used claude to boost your quality of life",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc31hj/aside_from_hacking_tvs_to_remove_ads_whats/",
         "source": "r/ClaudeAI",
@@ -45,17 +55,25 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "I gave Claude Code my parents' TV model number. It found the TV on Wi-Fi and cleaned out the ads. The interesting part: the prompt is mostly a list of things it must NOT do",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbrzo0/i_gave_claude_code_my_parents_tv_model_number_it/",
-        "source": "r/ClaudeAI",
+        "rank": 1,
+        "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-21T16:31:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rmzr4c0ykuwh1.jpeg?width=640&crop=smart&auto=webp&s=c0d5c5cd232392bdc5f776088144929f2c8b29e9"
+        "publishedAt": "2026-10-22T12:32:56.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 1,
+        "rank": 2,
+        "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-22T07:10:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Noun-verb-conjunction triads [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
         "source": "r/MachineLearning",
@@ -75,6 +93,25 @@
       },
       {
         "rank": 2,
+        "title": "The Nintendo Switch 2 has been jailbroken using Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1xcg2b2/the_nintendo_switch_2_has_been_jailbroken_using/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T11:32:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Astra Ultrafast tps is insane lmfao",
+        "url": "https://www.reddit.com/r/codex/comments/1xcd6oh/astra_ultrafast_tps_is_insane_lmfao/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T08:44:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zdg2fe5eezwh1.png?width=640&crop=smart&auto=webp&s=456b01bb98f3ed227ebc5484dbcb305ca28e9922"
+      },
+      {
+        "rank": 4,
         "title": "Write the F**king Manual - a free Codex plugin that writes your web app's user guides, screenshots included",
         "url": "https://www.reddit.com/r/codex/comments/1xbuog1/write_the_fking_manual_a_free_codex_plugin_that/",
         "source": "r/codex",
@@ -84,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/qjxz3bgwzuwh1.gif?width=640&crop=smart&s=c3088dae4c49c1bc1233c9ad45f7072c1ec85de8"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "title": "Tibo edging reset - day 17",
         "url": "https://www.reddit.com/r/codex/comments/1xcbi9h/tibo_edging_reset_day_17/",
         "source": "r/codex",
@@ -92,25 +129,6 @@
         "publishedAt": "2026-10-22T06:56:48.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/bmufptpdvywh1.jpeg?width=640&crop=smart&auto=webp&s=3872f3e1e41fa4c233494ad3165ceb823fde32f7"
-      },
-      {
-        "rank": 4,
-        "title": "Has anyone else been experiencing this kind of behavior with 6.1 Sol lately?",
-        "url": "https://www.reddit.com/r/codex/comments/1xbxo7s/has_anyone_else_been_experiencing_this_kind_of/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T19:58:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c1zpt4cxlvwh1.png?width=640&crop=smart&auto=webp&s=1ddad6813589be49397aeb85891865197709112d"
-      },
-      {
-        "rank": 5,
-        "title": "Bug: Codex exhausts entire usage quota busy-waiting on a long-running test instead of sleeping",
-        "url": "https://www.reddit.com/r/codex/comments/1xbn301/bug_codex_exhausts_entire_usage_quota_busywaiting/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T13:24:34.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,

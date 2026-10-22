@@ -1,86 +1,10 @@
 {
-  "fetchedAt": "2026-10-22T00:32:08.320Z",
+  "fetchedAt": "2026-10-22T05:20:11.909Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
-      {
-        "rank": 1,
-        "title": "Will our paper be removed from EMNLP because of no-show? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-21T01:13:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-21T10:09:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Noun-verb-conjunction triads [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-21T17:44:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Caching upgraded massively",
-        "url": "https://www.reddit.com/r/codex/comments/1xb9prz/caching_upgraded_massively/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T01:11:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wx9g6nsw0qwh1.jpeg?width=640&crop=smart&auto=webp&s=df43e48248a05c5a705fe171cfa890329b3b1200"
-      },
-      {
-        "rank": 2,
-        "title": "Write the F**king Manual - a free Codex plugin that writes your web app's user guides, screenshots included",
-        "url": "https://www.reddit.com/r/codex/comments/1xbuog1/write_the_fking_manual_a_free_codex_plugin_that/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T18:08:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qjxz3bgwzuwh1.gif?width=640&crop=smart&s=c3088dae4c49c1bc1233c9ad45f7072c1ec85de8"
-      },
-      {
-        "rank": 3,
-        "title": "Permanent Caching in Codex and Work Makes Pro Subscriptions More Valuable Than Ever",
-        "url": "https://www.reddit.com/r/codex/comments/1xbhzim/permanent_caching_in_codex_and_work_makes_pro/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T08:56:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Giving me a heartattack - $18k assumed budget",
-        "url": "https://www.reddit.com/r/codex/comments/1xbdy4t/giving_me_a_heartattack_18k_assumed_budget/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T04:48:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ttdzwphh3rwh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=812ba3043dfdf088a615643a0bfa1931ffc5df99"
-      },
-      {
-        "rank": 5,
-        "title": "So reset or no?",
-        "url": "https://www.reddit.com/r/codex/comments/1xc1ffg/so_reset_or_no/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T22:26:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ogwx6tdtbwwh1.png?width=320&crop=smart&auto=webp&s=49c08b47a14e0fe1a61147a809d0ef4454e9d650"
-      },
       {
         "rank": 1,
         "title": "I used Claude to fix my Samsung TV",
@@ -103,6 +27,16 @@
       },
       {
         "rank": 3,
+        "title": "I replaced my Samsung TV’s home screen with Claude Code",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbzlih/i_replaced_my_samsung_tvs_home_screen_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-21T21:11:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n1qvsrovyvwh1.png?width=640&crop=smart&auto=webp&s=30d441c0de80c1454ffeffbbce19a1681dd1b709"
+      },
+      {
+        "rank": 4,
         "title": "Man arrested after telling AI chatbot about ‘plans for mass shooting’ | A 29-year-old man has been remanded in custody after Interpol flagged his conversation with Claude",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbroz9/man_arrested_after_telling_ai_chatbot_about_plans/",
         "source": "r/ClaudeAI",
@@ -112,24 +46,79 @@
         "thumbnail": "https://external-preview.redd.it/xsw6k0W9_zqBrj_WYnqFfIY94Fc4rEthKZ9Z5tWUfgw.jpeg?width=640&crop=smart&auto=webp&s=a89eec6a64d6d8cd4e280340d8f9f878c81b4fee"
       },
       {
-        "rank": 4,
-        "title": "Built a live 3D airport with real flights using Claude Code",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbl9av/built_a_live_3d_airport_with_real_flights_using/",
+        "rank": 5,
+        "title": "Aside from hacking TVs to remove ads, what’s another cool/innovative way you’ve used claude to boost your quality of life",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc31hj/aside_from_hacking_tvs_to_remove_ads_whats/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-21T12:02:23.000Z",
+        "publishedAt": "2026-10-21T23:38:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T10:09:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Noun-verb-conjunction triads [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T17:44:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "So reset or no?",
+        "url": "https://www.reddit.com/r/codex/comments/1xc1ffg/so_reset_or_no/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T22:26:05.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZTZ3N3R1NnA3dHdoMSHGPEYzumnYM0ygYwX1wL811EapbpFQ09MBD7FD4ytf.png?width=640&crop=smart&auto=webp&s=0be1efcb0e1ecc69b20389e7d9c7a45cb71d7b6e"
+        "thumbnail": "https://preview.redd.it/ogwx6tdtbwwh1.png?width=320&crop=smart&auto=webp&s=49c08b47a14e0fe1a61147a809d0ef4454e9d650"
+      },
+      {
+        "rank": 2,
+        "title": "Write the F**king Manual - a free Codex plugin that writes your web app's user guides, screenshots included",
+        "url": "https://www.reddit.com/r/codex/comments/1xbuog1/write_the_fking_manual_a_free_codex_plugin_that/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T18:08:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qjxz3bgwzuwh1.gif?width=640&crop=smart&s=c3088dae4c49c1bc1233c9ad45f7072c1ec85de8"
+      },
+      {
+        "rank": 3,
+        "title": "Permanent Caching in Codex and Work Makes Pro Subscriptions More Valuable Than Ever",
+        "url": "https://www.reddit.com/r/codex/comments/1xbhzim/permanent_caching_in_codex_and_work_makes_pro/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T08:56:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Has anyone else been experiencing this kind of behavior with 6.1 Sol lately?",
+        "url": "https://www.reddit.com/r/codex/comments/1xbxo7s/has_anyone_else_been_experiencing_this_kind_of/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T19:58:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c1zpt4cxlvwh1.png?width=640&crop=smart&auto=webp&s=1ddad6813589be49397aeb85891865197709112d"
       },
       {
         "rank": 5,
-        "title": "I gave Claude Code my parents' TV model number. It found the TV on Wi-Fi and cleaned out the ads. The interesting part: the prompt is mostly a list of things it must NOT do",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbrzo0/i_gave_claude_code_my_parents_tv_model_number_it/",
-        "source": "r/ClaudeAI",
+        "title": "Bug: Codex exhausts entire usage quota busy-waiting on a long-running test instead of sleeping",
+        "url": "https://www.reddit.com/r/codex/comments/1xbn301/bug_codex_exhausts_entire_usage_quota_busywaiting/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-21T16:31:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rmzr4c0ykuwh1.jpeg?width=640&crop=smart&auto=webp&s=c0d5c5cd232392bdc5f776088144929f2c8b29e9"
+        "publishedAt": "2026-10-21T13:24:34.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

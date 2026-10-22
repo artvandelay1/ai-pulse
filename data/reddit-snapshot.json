@@ -1,10 +1,86 @@
 {
-  "fetchedAt": "2026-10-21T21:56:10.822Z",
+  "fetchedAt": "2026-10-22T00:32:08.320Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T01:13:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T10:09:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Noun-verb-conjunction triads [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-21T17:44:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Caching upgraded massively",
+        "url": "https://www.reddit.com/r/codex/comments/1xb9prz/caching_upgraded_massively/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T01:11:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wx9g6nsw0qwh1.jpeg?width=640&crop=smart&auto=webp&s=df43e48248a05c5a705fe171cfa890329b3b1200"
+      },
+      {
+        "rank": 2,
+        "title": "Write the F**king Manual - a free Codex plugin that writes your web app's user guides, screenshots included",
+        "url": "https://www.reddit.com/r/codex/comments/1xbuog1/write_the_fking_manual_a_free_codex_plugin_that/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T18:08:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qjxz3bgwzuwh1.gif?width=640&crop=smart&s=c3088dae4c49c1bc1233c9ad45f7072c1ec85de8"
+      },
+      {
+        "rank": 3,
+        "title": "Permanent Caching in Codex and Work Makes Pro Subscriptions More Valuable Than Ever",
+        "url": "https://www.reddit.com/r/codex/comments/1xbhzim/permanent_caching_in_codex_and_work_makes_pro/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T08:56:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Giving me a heartattack - $18k assumed budget",
+        "url": "https://www.reddit.com/r/codex/comments/1xbdy4t/giving_me_a_heartattack_18k_assumed_budget/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T04:48:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ttdzwphh3rwh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=812ba3043dfdf088a615643a0bfa1931ffc5df99"
+      },
+      {
+        "rank": 5,
+        "title": "So reset or no?",
+        "url": "https://www.reddit.com/r/codex/comments/1xc1ffg/so_reset_or_no/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-21T22:26:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ogwx6tdtbwwh1.png?width=320&crop=smart&auto=webp&s=49c08b47a14e0fe1a61147a809d0ef4454e9d650"
+      },
       {
         "rank": 1,
         "title": "I used Claude to fix my Samsung TV",
@@ -54,81 +130,6 @@
         "publishedAt": "2026-10-21T16:31:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/rmzr4c0ykuwh1.jpeg?width=640&crop=smart&auto=webp&s=c0d5c5cd232392bdc5f776088144929f2c8b29e9"
-      },
-      {
-        "rank": 1,
-        "title": "Will our paper be removed from EMNLP because of no-show? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-21T01:13:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-21T10:09:55.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Noun-verb-conjunction triads [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-21T17:44:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Caching upgraded massively",
-        "url": "https://www.reddit.com/r/codex/comments/1xb9prz/caching_upgraded_massively/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T01:11:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wx9g6nsw0qwh1.jpeg?width=640&crop=smart&auto=webp&s=df43e48248a05c5a705fe171cfa890329b3b1200"
-      },
-      {
-        "rank": 2,
-        "title": "We’re halfway through 28 days now. Do you think this went how OpenAI hoped it would?",
-        "url": "https://www.reddit.com/r/codex/comments/1xb5y6q/were_halfway_through_28_days_now_do_you_think/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-20T22:18:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Write the F**king Manual - a free Codex plugin that writes your web app's user guides, screenshots included",
-        "url": "https://www.reddit.com/r/codex/comments/1xbuog1/write_the_fking_manual_a_free_codex_plugin_that/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T18:08:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qjxz3bgwzuwh1.gif?width=640&crop=smart&s=c3088dae4c49c1bc1233c9ad45f7072c1ec85de8"
-      },
-      {
-        "rank": 4,
-        "title": "Permanent Caching in Codex and Work Makes Pro Subscriptions More Valuable Than Ever",
-        "url": "https://www.reddit.com/r/codex/comments/1xbhzim/permanent_caching_in_codex_and_work_makes_pro/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T08:56:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Giving me a heartattack - $18k assumed budget",
-        "url": "https://www.reddit.com/r/codex/comments/1xbdy4t/giving_me_a_heartattack_18k_assumed_budget/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T04:48:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ttdzwphh3rwh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=812ba3043dfdf088a615643a0bfa1931ffc5df99"
       },
       {
         "rank": 1,

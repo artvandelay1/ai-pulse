@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-22T23:06:47.254Z",
+  "fetchedAt": "2026-10-23T01:49:11.886Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "a preview of AGI..😭",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcsmzs/a_preview_of_agi/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T19:43:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7zcazkc0o2xh1.jpeg?width=640&crop=smart&auto=webp&s=c61cea066e250bddc7567678eea4a52b282de636"
+      },
+      {
+        "rank": 2,
+        "title": "Claude is Like a Senior Now",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T09:40:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k5gcn70oozwh1.jpeg?width=640&crop=smart&auto=webp&s=8ea2e2f4d8ed26ccf50b8721bf255ba155b23216"
+      },
+      {
+        "rank": 3,
+        "title": "I got tired of checking whether Claude Code needs me. So I gave it a physical status light.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T09:29:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bGUxcmVpOGttendoMbYG986yefw64zAT7sg9kgiZb-mdOyiAnbRCi1NifeWx.png?width=640&crop=smart&auto=webp&s=c4e935a1ae3e8e8eb612e8759b03aa53af83ea26"
+      },
+      {
+        "rank": 4,
+        "title": "I used Claude Code to build a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcm78x/i_used_claude_code_to_build_a_pizzeria_its_own/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T15:46:42.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Better than s*x",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcjta0/better_than_sx/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T14:16:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8nog0c9s11xh1.gif?width=320&crop=smart&s=42c731672c181bcf7b9c245590d050000f213b30"
+      },
       {
         "rank": 1,
         "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
@@ -16,11 +65,11 @@
       },
       {
         "rank": 2,
-        "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
+        "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-22T07:10:18.000Z",
+        "publishedAt": "2026-10-22T21:03:28.000Z",
         "category": "reddit"
       },
       {
@@ -34,12 +83,70 @@
       },
       {
         "rank": 4,
+        "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcbqdm/frontier_models_are_bad_at_hearing_asmr_8_judges/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-22T07:10:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "ICLR Text Editor [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-22T18:07:44.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT 6 series in a nuthshell, - The most transparently incompetent models out there.",
+        "url": "https://www.reddit.com/r/codex/comments/1xcof7y/gpt_6_series_in_a_nuthshell_the_most/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T17:08:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mbqli0czu1xh1.png?width=640&crop=smart&auto=webp&s=00a62214ba41c33171a78ff642b1154dddb17f4a"
+      },
+      {
+        "rank": 2,
+        "title": "The Nintendo Switch 2 has been jailbroken using Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1xcg2b2/the_nintendo_switch_2_has_been_jailbroken_using/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T11:32:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Astra Ultrafast tps is insane lmfao",
+        "url": "https://www.reddit.com/r/codex/comments/1xcd6oh/astra_ultrafast_tps_is_insane_lmfao/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T08:44:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zdg2fe5eezwh1.png?width=640&crop=smart&auto=webp&s=456b01bb98f3ed227ebc5484dbcb305ca28e9922"
+      },
+      {
+        "rank": 4,
+        "title": "AGI",
+        "url": "https://www.reddit.com/r/codex/comments/1xcoac6/agi/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T17:03:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/67cuum1kv1xh1.jpeg?width=640&crop=smart&auto=webp&s=143a5fe2a7d7326bae5eb4e842e7f0fd75bfd69c"
+      },
+      {
+        "rank": 5,
+        "title": "Tibo edging reset - day 17",
+        "url": "https://www.reddit.com/r/codex/comments/1xcbi9h/tibo_edging_reset_day_17/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T06:56:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/bmufptpdvywh1.jpeg?width=640&crop=smart&auto=webp&s=3872f3e1e41fa4c233494ad3165ceb823fde32f7"
       },
       {
         "rank": 1,
@@ -140,104 +247,6 @@
         "publishedAt": "2026-10-22T07:31:17.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/68xm9wfj1zwh1.jpeg?width=640&crop=smart&auto=webp&s=ff092e38ded4ae27cbd2aa704b1b0edc150e6fec"
-      },
-      {
-        "rank": 1,
-        "title": "I replaced my Samsung TV’s home screen with Claude Code",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbzlih/i_replaced_my_samsung_tvs_home_screen_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-21T21:11:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n1qvsrovyvwh1.png?width=640&crop=smart&auto=webp&s=30d441c0de80c1454ffeffbbce19a1681dd1b709"
-      },
-      {
-        "rank": 2,
-        "title": "Claude is Like a Senior Now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-22T09:40:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k5gcn70oozwh1.jpeg?width=640&crop=smart&auto=webp&s=8ea2e2f4d8ed26ccf50b8721bf255ba155b23216"
-      },
-      {
-        "rank": 3,
-        "title": "I got tired of checking whether Claude Code needs me. So I gave it a physical status light.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-22T09:29:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bGUxcmVpOGttendoMbYG986yefw64zAT7sg9kgiZb-mdOyiAnbRCi1NifeWx.png?width=640&crop=smart&auto=webp&s=c4e935a1ae3e8e8eb612e8759b03aa53af83ea26"
-      },
-      {
-        "rank": 4,
-        "title": "Claude Duet: Anthropic just casually dropped the personal assistant calling it a proactive agent. This is the response to Muses, Bots and Dots",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xbwkgf/claude_duet_anthropic_just_casually_dropped_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-21T19:17:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r72ka8tjevwh1.jpeg?width=640&crop=smart&auto=webp&s=8c043291e869a3c2836bfbfb572bebcc0c124abf"
-      },
-      {
-        "rank": 5,
-        "title": "Aside from hacking TVs to remove ads, what’s another cool/innovative way you’ve used claude to boost your quality of life",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xc31hj/aside_from_hacking_tvs_to_remove_ads_whats/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-21T23:38:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "So reset or no?",
-        "url": "https://www.reddit.com/r/codex/comments/1xc1ffg/so_reset_or_no/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T22:26:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ogwx6tdtbwwh1.png?width=320&crop=smart&auto=webp&s=49c08b47a14e0fe1a61147a809d0ef4454e9d650"
-      },
-      {
-        "rank": 2,
-        "title": "The Nintendo Switch 2 has been jailbroken using Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1xcg2b2/the_nintendo_switch_2_has_been_jailbroken_using/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T11:32:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Astra Ultrafast tps is insane lmfao",
-        "url": "https://www.reddit.com/r/codex/comments/1xcd6oh/astra_ultrafast_tps_is_insane_lmfao/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T08:44:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zdg2fe5eezwh1.png?width=640&crop=smart&auto=webp&s=456b01bb98f3ed227ebc5484dbcb305ca28e9922"
-      },
-      {
-        "rank": 4,
-        "title": "Write the F**king Manual - a free Codex plugin that writes your web app's user guides, screenshots included",
-        "url": "https://www.reddit.com/r/codex/comments/1xbuog1/write_the_fking_manual_a_free_codex_plugin_that/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-21T18:08:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qjxz3bgwzuwh1.gif?width=640&crop=smart&s=c3088dae4c49c1bc1233c9ad45f7072c1ec85de8"
-      },
-      {
-        "rank": 5,
-        "title": "Tibo edging reset - day 17",
-        "url": "https://www.reddit.com/r/codex/comments/1xcbi9h/tibo_edging_reset_day_17/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T06:56:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/bmufptpdvywh1.jpeg?width=640&crop=smart&auto=webp&s=3872f3e1e41fa4c233494ad3165ceb823fde32f7"
       }
     ]
   }

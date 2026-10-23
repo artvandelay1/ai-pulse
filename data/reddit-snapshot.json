@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-23T12:48:47.147Z",
+  "fetchedAt": "2026-10-23T17:49:08.118Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "a preview of AGI..😭",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcsmzs/a_preview_of_agi/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T19:43:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7zcazkc0o2xh1.jpeg?width=640&crop=smart&auto=webp&s=c61cea066e250bddc7567678eea4a52b282de636"
+      },
+      {
+        "rank": 2,
+        "title": "Sweden’s government is blocking ChatGPT and Claude on staff computers from Monday",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdcmm4/swedens_government_is_blocking_chatgpt_and_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T12:27:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/9Qc2PEQskqxnMDIzlXyghIhu6XEvy_xLOLTCT9pOEnk.jpeg?width=640&crop=smart&auto=webp&s=663c33c612f6eb3dc2408adfe0aa94d26924e3bf"
+      },
+      {
+        "rank": 3,
+        "title": "Did they nerf Opus 5.5? Doesn’t look like it. LiveNerf day 29 update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcraz9/did_they_nerf_opus_55_doesnt_look_like_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-22T18:53:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ec5j220af2xh1.jpeg?width=640&crop=smart&auto=webp&s=2bc78f9c68dbaf4046d905a483f2d6422433e9f0"
+      },
+      {
+        "rank": 4,
+        "title": "Claude Fable 5.1 can hide secret messages in benign images",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdgtas/claude_fable_51_can_hide_secret_messages_in/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T15:14:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/fdked9l1h8xh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=beeeaf3b15d8d096e926b047d0be07132638ea3b"
+      },
+      {
+        "rank": 5,
+        "title": "Choose your projects well…the gravy train will end.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd1g18/choose_your_projects_wellthe_gravy_train_will_end/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T02:03:00.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
@@ -16,6 +65,15 @@
       },
       {
         "rank": 2,
+        "title": "AAAI 2027 phase 2 reviews discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T12:58:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
         "source": "r/MachineLearning",
@@ -24,30 +82,69 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-22T21:03:28.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 4,
-        "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+        "title": "Is symbolic ai dead? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-22T20:57:42.000Z",
+        "publishedAt": "2026-10-23T13:49:16.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "ICLR Text Editor [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
+        "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-22T18:07:44.000Z",
+        "publishedAt": "2026-10-23T14:20:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Now they're controlling when we can use our resets.",
+        "url": "https://www.reddit.com/r/codex/comments/1xcv3q2/now_theyre_controlling_when_we_can_use_our_resets/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T21:17:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cil0m6th43xh1.png?width=640&crop=smart&auto=webp&s=a0c111db74b845ec2ae459c338bd314ebdb3b8f0"
+      },
+      {
+        "rank": 2,
+        "title": "Day 18 updates are here",
+        "url": "https://www.reddit.com/r/codex/comments/1xd4n5u/day_18_updates_are_here/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-23T04:47:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/newsq1m6d5xh1.jpeg?width=640&crop=smart&auto=webp&s=23bbfadd5a4a901d538fda9325b4d13802ddf0dd"
+      },
+      {
+        "rank": 3,
+        "title": "Another day, another reset",
+        "url": "https://www.reddit.com/r/codex/comments/1xcpmtx/another_day_another_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T17:52:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/myfifr9942xh1.png?width=140&height=44&auto=webp&s=e59e2b820d3ed987a22326eb1006cfbfc262a33e"
+      },
+      {
+        "rank": 4,
+        "title": "Not allowed to use a banked Codex usage reset",
+        "url": "https://www.reddit.com/r/codex/comments/1xcujke/not_allowed_to_use_a_banked_codex_usage_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-22T20:54:55.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Why does the 28 days feel like the longest we have gone without a major feature or improvement in a while?",
+        "url": "https://www.reddit.com/r/codex/comments/1xd3df1/why_does_the_28_days_feel_like_the_longest_we/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-23T03:39:09.000Z",
         "category": "reddit"
       },
       {
@@ -148,104 +245,6 @@
         "score": 0,
         "publishedAt": "2026-10-22T21:27:20.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "a preview of AGI..😭",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcsmzs/a_preview_of_agi/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-22T19:43:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7zcazkc0o2xh1.jpeg?width=640&crop=smart&auto=webp&s=c61cea066e250bddc7567678eea4a52b282de636"
-      },
-      {
-        "rank": 2,
-        "title": "Claude is Like a Senior Now",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xce2vu/claude_is_like_a_senior_now/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-22T09:40:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k5gcn70oozwh1.jpeg?width=640&crop=smart&auto=webp&s=8ea2e2f4d8ed26ccf50b8721bf255ba155b23216"
-      },
-      {
-        "rank": 3,
-        "title": "I got tired of checking whether Claude Code needs me. So I gave it a physical status light.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcdwdx/i_got_tired_of_checking_whether_claude_code_needs/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-22T09:29:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bGUxcmVpOGttendoMbYG986yefw64zAT7sg9kgiZb-mdOyiAnbRCi1NifeWx.png?width=640&crop=smart&auto=webp&s=c4e935a1ae3e8e8eb612e8759b03aa53af83ea26"
-      },
-      {
-        "rank": 4,
-        "title": "I used Claude Code to build a pizzeria its own ordering app so regulars stop paying DoorDash 30%. First paying customer is live.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcm78x/i_used_claude_code_to_build_a_pizzeria_its_own/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-22T15:46:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Did they nerf Opus 5.5? Doesn’t look like it. LiveNerf day 29 update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xcraz9/did_they_nerf_opus_55_doesnt_look_like_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-22T18:53:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ec5j220af2xh1.jpeg?width=640&crop=smart&auto=webp&s=2bc78f9c68dbaf4046d905a483f2d6422433e9f0"
-      },
-      {
-        "rank": 1,
-        "title": "GPT 6 series in a nuthshell, - The most transparently incompetent models out there.",
-        "url": "https://www.reddit.com/r/codex/comments/1xcof7y/gpt_6_series_in_a_nuthshell_the_most/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T17:08:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mbqli0czu1xh1.png?width=640&crop=smart&auto=webp&s=00a62214ba41c33171a78ff642b1154dddb17f4a"
-      },
-      {
-        "rank": 2,
-        "title": "AGI",
-        "url": "https://www.reddit.com/r/codex/comments/1xcoac6/agi/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T17:03:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/67cuum1kv1xh1.jpeg?width=640&crop=smart&auto=webp&s=143a5fe2a7d7326bae5eb4e842e7f0fd75bfd69c"
-      },
-      {
-        "rank": 3,
-        "title": "The Nintendo Switch 2 has been jailbroken using Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1xcg2b2/the_nintendo_switch_2_has_been_jailbroken_using/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T11:32:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Astra Ultrafast tps is insane lmfao",
-        "url": "https://www.reddit.com/r/codex/comments/1xcd6oh/astra_ultrafast_tps_is_insane_lmfao/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T08:44:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zdg2fe5eezwh1.png?width=640&crop=smart&auto=webp&s=456b01bb98f3ed227ebc5484dbcb305ca28e9922"
-      },
-      {
-        "rank": 5,
-        "title": "Another day, another reset",
-        "url": "https://www.reddit.com/r/codex/comments/1xcpmtx/another_day_another_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-22T17:52:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/myfifr9942xh1.png?width=140&height=44&auto=webp&s=e59e2b820d3ed987a22326eb1006cfbfc262a33e"
       }
     ]
   }

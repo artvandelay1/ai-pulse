@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-10-24T04:14:06.771Z",
+  "fetchedAt": "2026-10-24T09:03:43.512Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Is symbolic ai dead? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T13:49:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T15:37:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 3,
+        "title": "AAAI 2027 phase 2 reviews discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T12:58:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T11:51:47.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T14:20:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Altman admits the cybersecurity crisis is going to get worse: \"I no longer think we're gonna be able to patch all the bugs.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdcjhe/altman_admits_the_cybersecurity_crisis_is_going/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T12:23:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bXlncWxuZ2dtN3hoMccMgeZizmWK1PgTszEksKLlfWhjczT-F11tDd8rtt4S.png?width=640&crop=smart&auto=webp&s=721b84b2b6e5649a79a7e54da633cec05a70b023"
+      },
+      {
+        "rank": 2,
+        "title": "3% of critical software security bugs, in all of recorded history, have been found in the last month - \"Black October\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xddmtq/3_of_critical_software_security_bugs_in_all_of/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T13:11:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ycgk2of0v7xh1.png?width=640&crop=smart&auto=webp&s=9cc217486c6fb80286e40af6b1d7f8cc80e9fb26"
+      },
+      {
+        "rank": 3,
+        "title": "Do you guys remember how awful AI was like 4–5 years ago?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdf8n0/do_you_guys_remember_how_awful_ai_was_like_45/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T14:14:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/amhfuf5z58xh1.jpeg?width=640&crop=smart&auto=webp&s=7483e7b3434b0b840cd9878579b8f33614029b87"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-6 Bel Coming Soon >It's said that Bel is Doug's successor >Reportedly, total parameters exceed 10T >Bel may serve as the foundation for the model after GPT-6 >OpenAI reportedly views Bel as a potential post-GPT-6 foundation> It might even become the foundation for an AGI threshold model The out",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdzvqw/gpt6_bel_coming_soon_its_said_that_bel_is_dougs/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T05:05:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j7j7b8cblcxh1.jpeg?width=640&crop=smart&auto=webp&s=babcb45d5f5b4dd06ca0075fe10b9f402442f7b7"
+      },
+      {
+        "rank": 5,
+        "title": "Shieet, here we go again!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdmef8/shieet_here_we_go_again/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T18:43:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4s7dc3a8i9xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=dd9ee3f25620412acae387c069361bfa805cbb78"
+      },
+      {
+        "rank": 1,
+        "title": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-24T00:21:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/afqxzu4n6bxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=2778a301465ea3da564f1ef5b49e3f30f8e2c7a9"
+      },
+      {
+        "rank": 2,
+        "title": "Babe wake up Kimi K3.1 is rated higher than Fable 5.1 on Artificial Analysis",
+        "url": "https://www.reddit.com/r/singularity/comments/1xdligf/babe_wake_up_kimi_k31_is_rated_higher_than_fable/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-23T18:10:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/grisf0zec9xh1.png?width=640&crop=smart&auto=webp&s=43e9bc3bd2ff27d3b3e72557d71facbc5d7a6dde"
+      },
+      {
+        "rank": 3,
+        "title": "Cybersecurity is currently experiencing a revolution that was completely unimaginable in its entire history. If this pace continues, at the end of 2026 we will see more than 26% of all bugs in human history discovered by the end of the year, hard to even imagine 2027 at this point",
+        "url": "https://www.reddit.com/r/singularity/comments/1xdh8vq/cybersecurity_is_currently_experiencing_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-23T15:30:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/971sutckj8xh1.jpeg?width=640&crop=smart&auto=webp&s=9783a220c359ba84290cb160bd6801e6b5cba65a"
+      },
+      {
+        "rank": 4,
+        "title": "Kimi K3.1 Pro benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1xdkbgt/kimi_k31_pro_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-23T17:24:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ilsngojb49xh1.jpeg?width=640&crop=smart&auto=webp&s=afe35cb4e86213f3e22cd33f650b7a852bb51f63"
+      },
+      {
+        "rank": 5,
+        "title": "Kimi AI told influencers not to disclose paid promotions and pushed specific narratives about their new model",
+        "url": "https://www.reddit.com/r/singularity/comments/1xdquz5/kimi_ai_told_influencers_not_to_disclose_paid/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-23T21:37:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xtcp0j5fdaxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=0f18f7a67d1cb8c43ceac4a7312eba55b5b2cd26"
+      },
       {
         "rank": 1,
         "title": "Claude Fable 5.1 can hide secret messages in benign images",
@@ -55,52 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T07:24:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Is symbolic ai dead? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T13:49:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T15:37:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 4,
-        "title": "AAAI 2027 phase 2 reviews discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T12:58:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T11:51:47.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Day 18 updates are here",
         "url": "https://www.reddit.com/r/codex/comments/1xd4n5u/day_18_updates_are_here/",
         "source": "r/codex",
@@ -146,105 +246,6 @@
         "score": 0,
         "publishedAt": "2026-10-23T05:12:41.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Google DeepMind founder Hassabis shortens AGI timeline from five to two to three years",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xcz4o0/google_deepmind_founder_hassabis_shortens_agi/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T00:11:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/5ocSUQfbJQvpnkhM7lpf1QdL_tua8PWKjjH69mQBJxA.png?width=640&crop=smart&auto=webp&s=821a7b0646c34f9a0aa1ae698895d728dc484f7f"
-      },
-      {
-        "rank": 2,
-        "title": "Altman admits the cybersecurity crisis is going to get worse: \"I no longer think we're gonna be able to patch all the bugs.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdcjhe/altman_admits_the_cybersecurity_crisis_is_going/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T12:23:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bXlncWxuZ2dtN3hoMccMgeZizmWK1PgTszEksKLlfWhjczT-F11tDd8rtt4S.png?width=640&crop=smart&auto=webp&s=721b84b2b6e5649a79a7e54da633cec05a70b023"
-      },
-      {
-        "rank": 3,
-        "title": "3% of critical software security bugs, in all of recorded history, have been found in the last month - \"Black October\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xddmtq/3_of_critical_software_security_bugs_in_all_of/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T13:11:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ycgk2of0v7xh1.png?width=640&crop=smart&auto=webp&s=9cc217486c6fb80286e40af6b1d7f8cc80e9fb26"
-      },
-      {
-        "rank": 4,
-        "title": "Do you guys remember how awful AI was like 4–5 years ago?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdf8n0/do_you_guys_remember_how_awful_ai_was_like_45/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T14:14:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/amhfuf5z58xh1.jpeg?width=640&crop=smart&auto=webp&s=7483e7b3434b0b840cd9878579b8f33614029b87"
-      },
-      {
-        "rank": 5,
-        "title": "National security expert: \"There's a decent chance the internet ceases to exist as such, at least for a time.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdgw8z/national_security_expert_theres_a_decent_chance/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T15:17:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/p3bmcpsjh8xh1.png?width=140&height=103&auto=webp&s=f951bc513fcb9da132918a16a117c5945fdaee8c"
-      },
-      {
-        "rank": 1,
-        "title": "Introducing NPCTalk: Make the NPCs of any game talk in realtime, in character, in their own cloned voice, in under 1s, and they act on what you say.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xczh14/introducing_npctalk_make_the_npcs_of_any_game/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-23T00:27:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/emk0NWVkY3UyNHhoMStlonyVfhU00t1-fNiMZ3f8Q-05zuLq0U2-mf3NtcNw.jpeg?width=640&crop=smart&auto=webp&s=74c825b91f6b0504ce54f1fa70c4c75c3d26e8e7"
-      },
-      {
-        "rank": 2,
-        "title": "Babe wake up Kimi K3.1 is rated higher than Fable 5.1 on Artificial Analysis",
-        "url": "https://www.reddit.com/r/singularity/comments/1xdligf/babe_wake_up_kimi_k31_is_rated_higher_than_fable/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-23T18:10:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/grisf0zec9xh1.png?width=640&crop=smart&auto=webp&s=43e9bc3bd2ff27d3b3e72557d71facbc5d7a6dde"
-      },
-      {
-        "rank": 3,
-        "title": "Guy shows how nothing is real now",
-        "url": "https://www.reddit.com/r/singularity/comments/1xcvctk/guy_shows_how_nothing_is_real_now/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-22T21:27:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Safety Research = Capabilities Research",
-        "url": "https://www.reddit.com/r/singularity/comments/1xcv9zi/safety_research_capabilities_research/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-22T21:24:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c8s5pni263xh1.png?width=640&crop=smart&auto=webp&s=e197f9d31b39cc12afabca62f92670ea435f09a7"
-      },
-      {
-        "rank": 5,
-        "title": "Scientists grew a human mini-brain and used it to control a humanoid robot. It learned to grasp objects with 94% accuracy, chase a laser, and transfer learning between tasks—outperforming a conventional neural network in limited tests.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xd8qwb/scientists_grew_a_human_minibrain_and_used_it_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-23T08:52:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h80cctdyk6xh1.jpeg?width=640&crop=smart&auto=webp&s=4b9c017d9d40a2b04feb60f442a930ffb8670995"
       }
     ]
   }

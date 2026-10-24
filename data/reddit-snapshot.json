@@ -1,10 +1,57 @@
 {
-  "fetchedAt": "2026-10-24T16:55:45.657Z",
+  "fetchedAt": "2026-10-24T19:21:12.472Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Quite the statement from Anthropic's head of security",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe7jz9/quite_the_statement_from_anthropics_head_of/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T12:36:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wt5lb7rvtexh1.png?width=640&crop=smart&auto=webp&s=1eaae81b105f92bda53c23deb536902639c0f107"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic’s new guide (Oct 22) argues most agents should have fewer subagents: one main loop, skills and tool search instead. Includes “we cut Claude Code’s system prompt by over 80%”",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdwquj/anthropics_new_guide_oct_22_argues_most_agents/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T02:15:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How are people making those insane graphic motions video that I keep seeing on instagram using claude ?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdwfec/how_are_people_making_those_insane_graphic/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T01:59:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The “Tv hack” to change UI got me thinking… do you think that claude could replace a ring doorbell subscription?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdq96i/the_tv_hack_to_change_ui_got_me_thinking_do_you/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T21:13:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9sri/this_is_not_a_masterpiece_its_a_claudesterpiece/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T14:15:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Zmh6cGd3dXY4ZnhoMccXeaTBy1Lq3pruRiDTpjPilQwmpO9uB4_tBCR06l7f.png?width=640&crop=smart&auto=webp&s=a3c7511775cecb9b3fdae2dfdbaac1e25ff5da8f"
+      },
       {
         "rank": 1,
         "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
@@ -33,12 +80,50 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Astra suddenly very fast with reasonable usage...",
+        "url": "https://www.reddit.com/r/codex/comments/1xdubn0/astra_suddenly_very_fast_with_reasonable_usage/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-23T17:25:52.000Z",
+        "publishedAt": "2026-10-24T00:12:11.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Dot got my AT&T bill down from $85 to $45 + 2 months free",
+        "url": "https://www.reddit.com/r/codex/comments/1xduiex/dot_got_my_att_bill_down_from_85_to_45_2_months/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-24T00:21:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I regret renewing my subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1xdooul/i_regret_renewing_my_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-23T20:10:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gt3iumitx9xh1.png?width=640&crop=smart&auto=webp&s=4cf49ae048c2bb77d515bad83f42e6ab1ad0849b"
+      },
+      {
+        "rank": 4,
+        "title": "Few words from a fellow resetist",
+        "url": "https://www.reddit.com/r/codex/comments/1xdothd/few_words_from_a_fellow_resetist/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-23T20:15:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hsqq4rdsy9xh1.jpeg?width=640&crop=smart&auto=webp&s=4c37553ac261d1c14ec8f93fe1b1fd9be45cfd15"
+      },
+      {
+        "rank": 5,
+        "title": "Codex treats every byte like a criminal, is that the model or the harness?",
+        "url": "https://www.reddit.com/r/codex/comments/1xdnkqw/codex_treats_every_byte_like_a_criminal_is_that/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-23T19:27:41.000Z",
         "category": "reddit"
       },
       {
@@ -138,100 +223,6 @@
         "publishedAt": "2026-10-23T21:37:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/xtcp0j5fdaxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=0f18f7a67d1cb8c43ceac4a7312eba55b5b2cd26"
-      },
-      {
-        "rank": 1,
-        "title": "Claude Fable 5.1 can hide secret messages in benign images",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdgtas/claude_fable_51_can_hide_secret_messages_in/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T15:14:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/fdked9l1h8xh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=beeeaf3b15d8d096e926b047d0be07132638ea3b"
-      },
-      {
-        "rank": 2,
-        "title": "No coding or gamedev background, 6 weeks with Opus 5.5 + Godot — from drawings to a playable game",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdhkzb/no_coding_or_gamedev_background_6_weeks_with_opus/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T15:43:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZmY0NGJ2cWhsOHhoMZTHxvI8d1FEhP9Qn081cikc8t1NHMCncB489vgbIGtP.png?width=640&crop=smart&auto=webp&s=9445e0eed4874feb32a1c9f484b108fb7059e2de"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic’s new guide (Oct 22) argues most agents should have fewer subagents: one main loop, skills and tool search instead. Includes “we cut Claude Code’s system prompt by over 80%”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdwquj/anthropics_new_guide_oct_22_argues_most_agents/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T02:15:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How are people making those insane graphic motions video that I keep seeing on instagram using claude ?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdwfec/how_are_people_making_those_insane_graphic/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T01:59:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "The “Tv hack” to change UI got me thinking… do you think that claude could replace a ring doorbell subscription?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdq96i/the_tv_hack_to_change_ui_got_me_thinking_do_you/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T21:13:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "What is wrong with the limits? I burned through 50% in 2 hours on the $200 plan.... this is insanity. It was never like this before.",
-        "url": "https://www.reddit.com/r/codex/comments/1xdga9u/what_is_wrong_with_the_limits_i_burned_through_50/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-23T14:54:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7x4r92eid8xh1.png?width=640&crop=smart&auto=webp&s=c0bd2c40714a36f1743d631ff22c9d42abfd94f7"
-      },
-      {
-        "rank": 2,
-        "title": "Astra suddenly very fast with reasonable usage...",
-        "url": "https://www.reddit.com/r/codex/comments/1xdubn0/astra_suddenly_very_fast_with_reasonable_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T00:12:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Dot got my AT&T bill down from $85 to $45 + 2 months free",
-        "url": "https://www.reddit.com/r/codex/comments/1xduiex/dot_got_my_att_bill_down_from_85_to_45_2_months/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T00:21:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I regret renewing my subscription",
-        "url": "https://www.reddit.com/r/codex/comments/1xdooul/i_regret_renewing_my_subscription/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-23T20:10:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gt3iumitx9xh1.png?width=640&crop=smart&auto=webp&s=4cf49ae048c2bb77d515bad83f42e6ab1ad0849b"
-      },
-      {
-        "rank": 5,
-        "title": "Codex treats every byte like a criminal, is that the model or the harness?",
-        "url": "https://www.reddit.com/r/codex/comments/1xdnkqw/codex_treats_every_byte_like_a_criminal_is_that/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-23T19:27:41.000Z",
-        "category": "reddit"
       }
     ]
   }

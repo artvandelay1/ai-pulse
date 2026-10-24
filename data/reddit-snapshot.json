@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T23:58:08.926Z",
+  "fetchedAt": "2026-10-24T04:14:06.771Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -37,20 +37,20 @@
       },
       {
         "rank": 4,
-        "title": "Choose your projects well…the gravy train will end.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd1g18/choose_your_projects_wellthe_gravy_train_will_end/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T02:03:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "This is addictive.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd41oa/this_is_addictive/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-10-23T04:14:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic appears to sneak in a legal loophole in Claude Code to train on \"feedback\" even with training off as in Claude Code's source theres a legal term that counts every \"Allow edit\" you press as feedback.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xd5ruf/anthropic_appears_to_sneak_in_a_legal_loophole_in/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T05:51:20.000Z",
         "category": "reddit"
       },
       {
@@ -73,15 +73,6 @@
       },
       {
         "rank": 3,
-        "title": "AAAI 2027 phase 2 reviews discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T12:58:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
         "source": "r/MachineLearning",
@@ -89,6 +80,15 @@
         "publishedAt": "2026-10-23T15:37:23.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
+      },
+      {
+        "rank": 4,
+        "title": "AAAI 2027 phase 2 reviews discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T12:58:18.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
@@ -121,29 +121,30 @@
       },
       {
         "rank": 3,
-        "title": "Why does the 28 days feel like the longest we have gone without a major feature or improvement in a while?",
-        "url": "https://www.reddit.com/r/codex/comments/1xd3df1/why_does_the_28_days_feel_like_the_longest_we/",
+        "title": "Astra suddenly very fast with reasonable usage...",
+        "url": "https://www.reddit.com/r/codex/comments/1xdubn0/astra_suddenly_very_fast_with_reasonable_usage/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-23T03:39:09.000Z",
+        "publishedAt": "2026-10-24T00:12:11.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
+        "title": "I regret renewing my subscription",
+        "url": "https://www.reddit.com/r/codex/comments/1xdooul/i_regret_renewing_my_subscription/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-23T20:10:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gt3iumitx9xh1.png?width=640&crop=smart&auto=webp&s=4cf49ae048c2bb77d515bad83f42e6ab1ad0849b"
+      },
+      {
+        "rank": 5,
         "title": "Thankfully no 5-hr window... Resets would be a waste.",
         "url": "https://www.reddit.com/r/codex/comments/1xd53kq/thankfully_no_5hr_window_resets_would_be_a_waste/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-10-23T05:12:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "As a Plus user, frequent Codex make me feel left behind",
-        "url": "https://www.reddit.com/r/codex/comments/1xdaojh/as_a_plus_user_frequent_codex_make_me_feel_left/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-23T10:48:16.000Z",
         "category": "reddit"
       },
       {

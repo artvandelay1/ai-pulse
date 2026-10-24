@@ -1,10 +1,144 @@
 {
-  "fetchedAt": "2026-10-24T13:32:13.258Z",
+  "fetchedAt": "2026-10-24T16:55:45.657Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-24T14:18:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T20:39:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-24T09:58:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-23T17:25:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "GPT-6 Bel Coming Soon >It's said that Bel is Doug's successor >Reportedly, total parameters exceed 10T >Bel may serve as the foundation for the model after GPT-6 >OpenAI reportedly views Bel as a potential post-GPT-6 foundation> It might even become the foundation for an AGI threshold model The out",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdzvqw/gpt6_bel_coming_soon_its_said_that_bel_is_dougs/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T05:05:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j7j7b8cblcxh1.jpeg?width=640&crop=smart&auto=webp&s=babcb45d5f5b4dd06ca0075fe10b9f402442f7b7"
+      },
+      {
+        "rank": 2,
+        "title": "Shieet, here we go again!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdmef8/shieet_here_we_go_again/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T18:43:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4s7dc3a8i9xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=dd9ee3f25620412acae387c069361bfa805cbb78"
+      },
+      {
+        "rank": 3,
+        "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic waste’",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xe9ora/terence_tao_ai_turns_beautiful_mathematics_into/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T14:11:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/WVYz-fTEvhuTsKnJtNbvpmPn88OMYKcbZ9workM8iA0.jpeg?width=640&crop=smart&auto=webp&s=2ff4c04b7c4dd7a8a90c6dfc387b4ec15fbb4d62"
+      },
+      {
+        "rank": 4,
+        "title": "Current OpenAI system prompt",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdyfk0/current_openai_system_prompt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T03:45:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI has acquired AS232",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xdqtf6/openai_has_acquired_as232/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-23T21:35:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-24T00:21:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/afqxzu4n6bxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=2778a301465ea3da564f1ef5b49e3f30f8e2c7a9"
+      },
+      {
+        "rank": 2,
+        "title": "Babe wake up Kimi K3.1 is rated higher than Fable 5.1 on Artificial Analysis",
+        "url": "https://www.reddit.com/r/singularity/comments/1xdligf/babe_wake_up_kimi_k31_is_rated_higher_than_fable/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-23T18:10:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/grisf0zec9xh1.png?width=640&crop=smart&auto=webp&s=43e9bc3bd2ff27d3b3e72557d71facbc5d7a6dde"
+      },
+      {
+        "rank": 3,
+        "title": "Revenue: $16.3B Net loss: $80.7B IPO valuation: $2T",
+        "url": "https://www.reddit.com/r/singularity/comments/1xe02h6/revenue_163b_net_loss_807b_ipo_valuation_2t/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-24T05:15:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ofp41xs3ncxh1.jpeg?width=320&crop=smart&auto=webp&s=901c0ade2b89686ed4a3ed394dc23d76b3f1c7e5"
+      },
+      {
+        "rank": 4,
+        "title": "Kimi K3.1 Pro benchmarks",
+        "url": "https://www.reddit.com/r/singularity/comments/1xdkbgt/kimi_k31_pro_benchmarks/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-23T17:24:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ilsngojb49xh1.jpeg?width=640&crop=smart&auto=webp&s=afe35cb4e86213f3e22cd33f650b7a852bb51f63"
+      },
+      {
+        "rank": 5,
+        "title": "Kimi AI told influencers not to disclose paid promotions and pushed specific narratives about their new model",
+        "url": "https://www.reddit.com/r/singularity/comments/1xdquz5/kimi_ai_told_influencers_not_to_disclose_paid/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-23T21:37:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xtcp0j5fdaxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=0f18f7a67d1cb8c43ceac4a7312eba55b5b2cd26"
+      },
       {
         "rank": 1,
         "title": "Claude Fable 5.1 can hide secret messages in benign images",
@@ -54,52 +188,6 @@
       },
       {
         "rank": 1,
-        "title": "Is symbolic ai dead? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T13:49:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T15:37:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&crop=smart&auto=webp&s=de730fbf7ecace6df0036b21470c16a2d4feacfb"
-      },
-      {
-        "rank": 3,
-        "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T14:20:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T20:39:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-23T17:25:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "What is wrong with the limits? I burned through 50% in 2 hours on the $200 plan.... this is insanity. It was never like this before.",
         "url": "https://www.reddit.com/r/codex/comments/1xdga9u/what_is_wrong_with_the_limits_i_burned_through_50/",
         "source": "r/codex",
@@ -144,106 +232,6 @@
         "score": 0,
         "publishedAt": "2026-10-23T19:27:41.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Altman admits the cybersecurity crisis is going to get worse: \"I no longer think we're gonna be able to patch all the bugs.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdcjhe/altman_admits_the_cybersecurity_crisis_is_going/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T12:23:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bXlncWxuZ2dtN3hoMccMgeZizmWK1PgTszEksKLlfWhjczT-F11tDd8rtt4S.png?width=640&crop=smart&auto=webp&s=721b84b2b6e5649a79a7e54da633cec05a70b023"
-      },
-      {
-        "rank": 2,
-        "title": "3% of critical software security bugs, in all of recorded history, have been found in the last month - \"Black October\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xddmtq/3_of_critical_software_security_bugs_in_all_of/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T13:11:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ycgk2of0v7xh1.png?width=640&crop=smart&auto=webp&s=9cc217486c6fb80286e40af6b1d7f8cc80e9fb26"
-      },
-      {
-        "rank": 3,
-        "title": "Do you guys remember how awful AI was like 4–5 years ago?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdf8n0/do_you_guys_remember_how_awful_ai_was_like_45/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T14:14:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/amhfuf5z58xh1.jpeg?width=640&crop=smart&auto=webp&s=7483e7b3434b0b840cd9878579b8f33614029b87"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-6 Bel Coming Soon >It's said that Bel is Doug's successor >Reportedly, total parameters exceed 10T >Bel may serve as the foundation for the model after GPT-6 >OpenAI reportedly views Bel as a potential post-GPT-6 foundation> It might even become the foundation for an AGI threshold model The out",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdzvqw/gpt6_bel_coming_soon_its_said_that_bel_is_dougs/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T05:05:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j7j7b8cblcxh1.jpeg?width=640&crop=smart&auto=webp&s=babcb45d5f5b4dd06ca0075fe10b9f402442f7b7"
-      },
-      {
-        "rank": 5,
-        "title": "Shieet, here we go again!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdmef8/shieet_here_we_go_again/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-23T18:43:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4s7dc3a8i9xh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=dd9ee3f25620412acae387c069361bfa805cbb78"
-      },
-      {
-        "rank": 1,
-        "title": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T00:21:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/afqxzu4n6bxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=2778a301465ea3da564f1ef5b49e3f30f8e2c7a9"
-      },
-      {
-        "rank": 2,
-        "title": "Babe wake up Kimi K3.1 is rated higher than Fable 5.1 on Artificial Analysis",
-        "url": "https://www.reddit.com/r/singularity/comments/1xdligf/babe_wake_up_kimi_k31_is_rated_higher_than_fable/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-23T18:10:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/grisf0zec9xh1.png?width=640&crop=smart&auto=webp&s=43e9bc3bd2ff27d3b3e72557d71facbc5d7a6dde"
-      },
-      {
-        "rank": 3,
-        "title": "Cybersecurity is currently experiencing a revolution that was completely unimaginable in its entire history. If this pace continues, at the end of 2026 we will see more than 26% of all bugs in human history discovered by the end of the year, hard to even imagine 2027 at this point",
-        "url": "https://www.reddit.com/r/singularity/comments/1xdh8vq/cybersecurity_is_currently_experiencing_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-23T15:30:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/971sutckj8xh1.jpeg?width=640&crop=smart&auto=webp&s=9783a220c359ba84290cb160bd6801e6b5cba65a"
-      },
-      {
-        "rank": 4,
-        "title": "Kimi K3.1 Pro benchmarks",
-        "url": "https://www.reddit.com/r/singularity/comments/1xdkbgt/kimi_k31_pro_benchmarks/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-23T17:24:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ilsngojb49xh1.jpeg?width=640&crop=smart&auto=webp&s=afe35cb4e86213f3e22cd33f650b7a852bb51f63"
-      },
-      {
-        "rank": 5,
-        "title": "Kimi AI told influencers not to disclose paid promotions and pushed specific narratives about their new model",
-        "url": "https://www.reddit.com/r/singularity/comments/1xdquz5/kimi_ai_told_influencers_not_to_disclose_paid/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-23T21:37:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xtcp0j5fdaxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=0f18f7a67d1cb8c43ceac4a7312eba55b5b2cd26"
       }
     ]
   }

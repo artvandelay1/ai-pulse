@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T18:17:12.922Z",
+  "fetchedAt": "2026-10-25T21:09:14.796Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -71,6 +71,24 @@
         "publishedAt": "2026-10-25T05:31:19.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yo2dl9avujxh1.jpeg?width=640&crop=smart&auto=webp&s=4bea935d5ab1bff06dc8bdf804ca220214ea1fd4"
+      },
+      {
+        "rank": 3,
+        "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-25T16:32:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-25T18:35:21.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

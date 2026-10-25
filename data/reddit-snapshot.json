@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T00:08:48.487Z",
+  "fetchedAt": "2026-10-25T05:09:43.316Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -24,17 +24,17 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "holy fucking shit.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
-        "source": "r/OpenAI",
+        "rank": 3,
+        "title": "ASRN: Linear-memory long-range copying with learned proper-time clock [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-24T17:02:06.000Z",
+        "publishedAt": "2026-10-25T02:57:16.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ohok2lp65gxh1.png?width=640&crop=smart&auto=webp&s=59035261e704cdee6b22034d300859502b1e30c7"
+        "thumbnail": "https://preview.redd.it/5q1avnn13jxh1.png?width=140&height=78&auto=webp&s=f3fcb18c2fa22373e7ed4652ea2a1009fac1332f"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic waste’",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xe9ora/terence_tao_ai_turns_beautiful_mathematics_into/",
         "source": "r/OpenAI",
@@ -42,6 +42,15 @@
         "publishedAt": "2026-10-24T14:11:22.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/WVYz-fTEvhuTsKnJtNbvpmPn88OMYKcbZ9workM8iA0.jpeg?width=640&crop=smart&auto=webp&s=2ff4c04b7c4dd7a8a90c6dfc387b4ec15fbb4d62"
+      },
+      {
+        "rank": 2,
+        "title": "Luna spawned Astra extra high sub-agents and drained all my usage.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xeme0c/luna_spawned_astra_extra_high_subagents_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T22:59:18.000Z",
+        "category": "reddit"
       },
       {
         "rank": 3,
@@ -55,31 +64,32 @@
       },
       {
         "rank": 4,
-        "title": "Luna spawned Astra extra high sub-agents and drained all my usage.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xeme0c/luna_spawned_astra_extra_high_subagents_and/",
+        "title": "Another reset is coming (probably)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xehxzx/another_reset_is_coming_probably/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-24T22:59:18.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-24T19:45:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/co7da6a9ygxh1.png?width=640&crop=smart&auto=webp&s=7660171b0efaca3109f0f0dd175da4a893b43b4b"
       },
       {
         "rank": 5,
-        "title": "Current OpenAI system prompt",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xdyfk0/current_openai_system_prompt/",
+        "title": "Why are some GPT 5 API requests costing three times more than others?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xeamcl/why_are_some_gpt_5_api_requests_costing_three/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-24T03:45:38.000Z",
+        "publishedAt": "2026-10-24T14:50:30.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "title": "Dario Amodei, CEO of Anthropic, speaking out against the war in Iraq as a college student in 2003",
+        "url": "https://www.reddit.com/r/singularity/comments/1xekblx/dario_amodei_ceo_of_anthropic_speaking_out/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-24T00:21:18.000Z",
+        "publishedAt": "2026-10-24T21:25:04.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/afqxzu4n6bxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=2778a301465ea3da564f1ef5b49e3f30f8e2c7a9"
+        "thumbnail": "https://external-preview.redd.it/MW1nNTd4enhmaHhoMe3URNT8OtREv4_yVaFoaEvIkxi-quJV6wikviZzrWtT.png?width=640&crop=smart&auto=webp&s=47253135c85c2110637e7ba13dc1eb89b772e507"
       },
       {
         "rank": 2,
@@ -93,16 +103,6 @@
       },
       {
         "rank": 3,
-        "title": "Dario Amodei, CEO of Anthropic, speaking out against the war in Iraq as a college student in 2003",
-        "url": "https://www.reddit.com/r/singularity/comments/1xekblx/dario_amodei_ceo_of_anthropic_speaking_out/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T21:25:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MW1nNTd4enhmaHhoMe3URNT8OtREv4_yVaFoaEvIkxi-quJV6wikviZzrWtT.png?width=640&crop=smart&auto=webp&s=47253135c85c2110637e7ba13dc1eb89b772e507"
-      },
-      {
-        "rank": 4,
         "title": "Altman: \"I don't even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we're gonna be able to just patch all the bugs.\"",
         "url": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
         "source": "r/singularity",
@@ -112,7 +112,7 @@
         "thumbnail": "https://external-preview.redd.it/c2l1Z2ZxbDhhZXhoMRWq4TWJyfiqDwfhscHOgmOrw48_AMcgJXG71EowosqU.png?width=640&crop=smart&auto=webp&s=bb6b23f5f688f6ccee5fba334412defa3f9dc79c"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Absolutely crazy AI voice model by Block called Dessa.",
         "url": "https://www.reddit.com/r/singularity/comments/1xe8b2x/absolutely_crazy_ai_voice_model_by_block_called/",
         "source": "r/singularity",
@@ -120,6 +120,16 @@
         "publishedAt": "2026-10-24T13:11:56.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cDloM3M5N3V6ZXhoMTaeU-g4l8D8ZQ0fv_B1aBWevJYgLD8kG9fLC1B0SLqu.png?width=640&crop=smart&auto=webp&s=4f58ced10cc7fcc5079d2a22602f50ee344f215b"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI put its internal models into a red-teaming exercise where they had to coordinate despite being totally isolated from each other. They hacked the server hardware to do it.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xeevz3/openai_put_its_internal_models_into_a_redteaming/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-24T17:42:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ohok2lp65gxh1.png?width=640&crop=smart&auto=webp&s=59035261e704cdee6b22034d300859502b1e30c7"
       },
       {
         "rank": 1,

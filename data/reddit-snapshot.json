@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T10:04:47.761Z",
+  "fetchedAt": "2026-10-25T14:32:11.975Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
-        "source": "r/MachineLearning",
+        "title": "Seems like Anthropic enabled safeguards around reverse-enginering a TV",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xetxga/seems_like_anthropic_enabled_safeguards_around/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-24T14:18:07.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-25T05:26:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xv32vliytjxh1.png?width=640&crop=smart&auto=webp&s=7eb6a7247fce500e0024a80134474db7944d3339"
       },
       {
         "rank": 2,
+        "title": "Claude saved me from septic shock.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xenvvi/claude_saved_me_from_septic_shock/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T00:10:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Samsung decided to cut my washing machine from the Internet, Claude decided otherwise",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xemw8i/samsung_decided_to_cut_my_washing_machine_from/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-24T23:23:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built a laser dry-fire shooting game with Claude Code: a webcam watches your monitor and scores laser hits (open source, free)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeqtp1/i_built_a_laser_dryfire_shooting_game_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T02:37:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bTFxMDBkeHJ5aXhoMTWTrUG8rFWadhU0lEJNmBYRp_Fgq-MmbFrYcxrPIqWM.png?width=640&crop=smart&auto=webp&s=33070d6a1f59b453c1716459cb835d1659884b15"
+      },
+      {
+        "rank": 5,
+        "title": "TIL there’s Anthropic(India) before Anthropic (Claude)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xet1uk/til_theres_anthropicindia_before_anthropic_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T04:36:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yjb4eyb2ljxh1.jpeg?width=640&crop=smart&auto=webp&s=bc2f5e59ed987dcd6c1b00d953f991a73fab3126"
+      },
+      {
+        "rank": 1,
         "title": "ICLR 2027 is still handing out desk rejects [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
         "source": "r/MachineLearning",
@@ -24,7 +63,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
         "source": "r/MachineLearning",
@@ -32,6 +71,55 @@
         "publishedAt": "2026-10-25T05:31:19.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yo2dl9avujxh1.jpeg?width=640&crop=smart&auto=webp&s=4bea935d5ab1bff06dc8bdf804ca220214ea1fd4"
+      },
+      {
+        "rank": 1,
+        "title": "Absolute Cinema",
+        "url": "https://www.reddit.com/r/codex/comments/1xemsx5/absolute_cinema/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-24T23:18:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mnr1jmsd0ixh1.png?width=640&crop=smart&auto=webp&s=7e1d65348ee2f307ccc0f2ed223ba8a711e7220d"
+      },
+      {
+        "rank": 2,
+        "title": "Day 20 confirmed reset!",
+        "url": "https://www.reddit.com/r/codex/comments/1xes0pf/day_20_confirmed_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-25T03:40:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wh9udhc4bjxh1.jpeg?width=640&crop=smart&auto=webp&s=ad725bf05605d32cf73fe9f6239e26a67694e62c"
+      },
+      {
+        "rank": 3,
+        "title": "Sooooooooo… reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1xef58y/sooooooooo_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-24T17:53:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c8lonz8begxh1.jpeg?width=640&crop=smart&auto=webp&s=64b63c75195a1841924e7921b7a4cd5bbc513924"
+      },
+      {
+        "rank": 4,
+        "title": "I forgot I had an agent doing work and it used computer use while I was watching porn. Reckon OpenAI will be seeing what I was seeing?",
+        "url": "https://www.reddit.com/r/codex/comments/1xeea0z/i_forgot_i_had_an_agent_doing_work_and_it_used/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-24T17:17:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Rumour says that 6.1 Terra is close to launch, with a new Reset. Also, 6.1 Terra could be a cheaper version of 6.1 Sol with better performance & Open Ai is getting ready to launch 6.2 Sol or Astra 6.1 soon. (Rumoured)",
+        "url": "https://www.reddit.com/r/codex/comments/1xey2e4/rumour_says_that_61_terra_is_close_to_launch_with/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-25T09:37:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/iyi0jatu2lxh1.png?width=640&crop=smart&auto=webp&s=eda74e86b7948f168d2c93294d62069d641dcbe1"
       },
       {
         "rank": 1,
@@ -131,100 +219,6 @@
         "publishedAt": "2026-10-24T17:42:47.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ohok2lp65gxh1.png?width=640&crop=smart&auto=webp&s=59035261e704cdee6b22034d300859502b1e30c7"
-      },
-      {
-        "rank": 1,
-        "title": "Quite the statement from Anthropic's head of security",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe7jz9/quite_the_statement_from_anthropics_head_of/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T12:36:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wt5lb7rvtexh1.png?width=640&crop=smart&auto=webp&s=1eaae81b105f92bda53c23deb536902639c0f107"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic’s new guide (Oct 22) argues most agents should have fewer subagents: one main loop, skills and tool search instead. Includes “we cut Claude Code’s system prompt by over 80%”",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdwquj/anthropics_new_guide_oct_22_argues_most_agents/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T02:15:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "How are people making those insane graphic motions video that I keep seeing on instagram using claude ?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xdwfec/how_are_people_making_those_insane_graphic/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T01:59:12.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What to do with practically unlimited access to opus 5.5?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9hz7/what_to_do_with_practically_unlimited_access_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T14:03:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xe9sri/this_is_not_a_masterpiece_its_a_claudesterpiece/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T14:15:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Zmh6cGd3dXY4ZnhoMccXeaTBy1Lq3pruRiDTpjPilQwmpO9uB4_tBCR06l7f.png?width=640&crop=smart&auto=webp&s=a3c7511775cecb9b3fdae2dfdbaac1e25ff5da8f"
-      },
-      {
-        "rank": 1,
-        "title": "Astra suddenly very fast with reasonable usage...",
-        "url": "https://www.reddit.com/r/codex/comments/1xdubn0/astra_suddenly_very_fast_with_reasonable_usage/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T00:12:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Sooooooooo… reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1xef58y/sooooooooo_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T17:53:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c8lonz8begxh1.jpeg?width=640&crop=smart&auto=webp&s=64b63c75195a1841924e7921b7a4cd5bbc513924"
-      },
-      {
-        "rank": 3,
-        "title": "Dot got my AT&T bill down from $85 to $45 + 2 months free",
-        "url": "https://www.reddit.com/r/codex/comments/1xduiex/dot_got_my_att_bill_down_from_85_to_45_2_months/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T00:21:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I forgot I had an agent doing work and it used computer use while I was watching porn. Reckon OpenAI will be seeing what I was seeing?",
-        "url": "https://www.reddit.com/r/codex/comments/1xeea0z/i_forgot_i_had_an_agent_doing_work_and_it_used/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T17:17:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I thought auto review was supposed to be free now? It's still consistently consuming my weekly limits",
-        "url": "https://www.reddit.com/r/codex/comments/1xeczbt/i_thought_auto_review_was_supposed_to_be_free_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T16:25:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tae1xiunyfxh1.png?width=640&crop=smart&auto=webp&s=40e5674e14891b92552a8ba42de9c871ae4da24f"
       }
     ]
   }

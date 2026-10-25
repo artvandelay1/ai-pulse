@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T14:32:11.975Z",
+  "fetchedAt": "2026-10-25T18:17:12.922Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,20 +17,20 @@
       },
       {
         "rank": 2,
-        "title": "Claude saved me from septic shock.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xenvvi/claude_saved_me_from_septic_shock/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T00:10:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Samsung decided to cut my washing machine from the Internet, Claude decided otherwise",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xemw8i/samsung_decided_to_cut_my_washing_machine_from/",
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-10-24T23:23:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Claude saved me from septic shock.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xenvvi/claude_saved_me_from_septic_shock/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T00:10:01.000Z",
         "category": "reddit"
       },
       {
@@ -94,25 +94,6 @@
       },
       {
         "rank": 3,
-        "title": "Sooooooooo… reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1xef58y/sooooooooo_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T17:53:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c8lonz8begxh1.jpeg?width=640&crop=smart&auto=webp&s=64b63c75195a1841924e7921b7a4cd5bbc513924"
-      },
-      {
-        "rank": 4,
-        "title": "I forgot I had an agent doing work and it used computer use while I was watching porn. Reckon OpenAI will be seeing what I was seeing?",
-        "url": "https://www.reddit.com/r/codex/comments/1xeea0z/i_forgot_i_had_an_agent_doing_work_and_it_used/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-24T17:17:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Rumour says that 6.1 Terra is close to launch, with a new Reset. Also, 6.1 Terra could be a cheaper version of 6.1 Sol with better performance & Open Ai is getting ready to launch 6.2 Sol or Astra 6.1 soon. (Rumoured)",
         "url": "https://www.reddit.com/r/codex/comments/1xey2e4/rumour_says_that_61_terra_is_close_to_launch_with/",
         "source": "r/codex",
@@ -120,6 +101,26 @@
         "publishedAt": "2026-10-25T09:37:52.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/iyi0jatu2lxh1.png?width=640&crop=smart&auto=webp&s=eda74e86b7948f168d2c93294d62069d641dcbe1"
+      },
+      {
+        "rank": 4,
+        "title": "Stay safe out there using agents",
+        "url": "https://www.reddit.com/r/codex/comments/1xf06z4/stay_safe_out_there_using_agents/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-25T11:40:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f89uv4snolxh1.png?width=140&height=63&auto=webp&s=67a8671ef936e54f445d74abe72b2ccb25a8ff69"
+      },
+      {
+        "rank": 5,
+        "title": "Reset has landed",
+        "url": "https://www.reddit.com/r/codex/comments/1xeup9n/reset_has_landed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-25T06:12:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9bgtk4762kxh1.png?width=140&height=6&auto=webp&s=87ffd77397398d7bbaf1d70feb1332bc283dd8ba"
       },
       {
         "rank": 1,

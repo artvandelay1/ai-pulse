@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T21:09:14.796Z",
+  "fetchedAt": "2026-10-25T23:30:11.316Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,15 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "Samsung decided to cut my washing machine from the Internet, Claude decided otherwise",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xemw8i/samsung_decided_to_cut_my_washing_machine_from/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T23:23:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Claude saved me from septic shock.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xenvvi/claude_saved_me_from_septic_shock/",
         "source": "r/ClaudeAI",
@@ -34,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "I built a laser dry-fire shooting game with Claude Code: a webcam watches your monitor and scores laser hits (open source, free)",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeqtp1/i_built_a_laser_dryfire_shooting_game_with_claude/",
         "source": "r/ClaudeAI",
@@ -44,7 +35,7 @@
         "thumbnail": "https://external-preview.redd.it/bTFxMDBkeHJ5aXhoMTWTrUG8rFWadhU0lEJNmBYRp_Fgq-MmbFrYcxrPIqWM.png?width=640&crop=smart&auto=webp&s=33070d6a1f59b453c1716459cb835d1659884b15"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "TIL there’s Anthropic(India) before Anthropic (Claude)",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xet1uk/til_theres_anthropicindia_before_anthropic_claude/",
         "source": "r/ClaudeAI",
@@ -52,6 +43,16 @@
         "publishedAt": "2026-10-25T04:36:21.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yjb4eyb2ljxh1.jpeg?width=640&crop=smart&auto=webp&s=bc2f5e59ed987dcd6c1b00d953f991a73fab3126"
+      },
+      {
+        "rank": 5,
+        "title": "Flight Simulator 95/98 finally running on 64-bit Windows, patched by Claude Code",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xew9ma/flight_simulator_9598_finally_running_on_64bit/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T07:46:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n3awmbmykjxh1.png?width=140&height=101&auto=webp&s=251aa8d0a04c63ae7a44d2df3364c222560d8325"
       },
       {
         "rank": 1,
@@ -91,17 +92,16 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Absolute Cinema",
-        "url": "https://www.reddit.com/r/codex/comments/1xemsx5/absolute_cinema/",
-        "source": "r/codex",
+        "rank": 5,
+        "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-24T23:18:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mnr1jmsd0ixh1.png?width=640&crop=smart&auto=webp&s=7e1d65348ee2f307ccc0f2ed223ba8a711e7220d"
+        "publishedAt": "2026-10-25T22:57:33.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Day 20 confirmed reset!",
         "url": "https://www.reddit.com/r/codex/comments/1xes0pf/day_20_confirmed_reset/",
         "source": "r/codex",
@@ -111,7 +111,7 @@
         "thumbnail": "https://preview.redd.it/wh9udhc4bjxh1.jpeg?width=640&crop=smart&auto=webp&s=ad725bf05605d32cf73fe9f6239e26a67694e62c"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Rumour says that 6.1 Terra is close to launch, with a new Reset. Also, 6.1 Terra could be a cheaper version of 6.1 Sol with better performance & Open Ai is getting ready to launch 6.2 Sol or Astra 6.1 soon. (Rumoured)",
         "url": "https://www.reddit.com/r/codex/comments/1xey2e4/rumour_says_that_61_terra_is_close_to_launch_with/",
         "source": "r/codex",
@@ -121,7 +121,7 @@
         "thumbnail": "https://preview.redd.it/iyi0jatu2lxh1.png?width=640&crop=smart&auto=webp&s=eda74e86b7948f168d2c93294d62069d641dcbe1"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Stay safe out there using agents",
         "url": "https://www.reddit.com/r/codex/comments/1xf06z4/stay_safe_out_there_using_agents/",
         "source": "r/codex",
@@ -129,6 +129,15 @@
         "publishedAt": "2026-10-25T11:40:46.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/f89uv4snolxh1.png?width=140&height=63&auto=webp&s=67a8671ef936e54f445d74abe72b2ccb25a8ff69"
+      },
+      {
+        "rank": 4,
+        "title": "guys, this is still a WEEKLY limit",
+        "url": "https://www.reddit.com/r/codex/comments/1xfb5jb/guys_this_is_still_a_weekly_limit/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-25T19:19:25.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

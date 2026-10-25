@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T05:09:43.316Z",
+  "fetchedAt": "2026-10-25T10:04:47.761Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,22 +16,22 @@
       },
       {
         "rank": 2,
-        "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+        "title": "ICLR 2027 is still handing out desk rejects [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-24T09:58:29.000Z",
+        "publishedAt": "2026-10-25T05:35:36.000Z",
         "category": "reddit"
       },
       {
         "rank": 3,
-        "title": "ASRN: Linear-memory long-range copying with learned proper-time clock [p]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xer72h/asrn_linearmemory_longrange_copying_with_learned/",
+        "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-25T02:57:16.000Z",
+        "publishedAt": "2026-10-25T05:31:19.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5q1avnn13jxh1.png?width=140&height=78&auto=webp&s=f3fcb18c2fa22373e7ed4652ea2a1009fac1332f"
+        "thumbnail": "https://preview.redd.it/yo2dl9avujxh1.jpeg?width=640&crop=smart&auto=webp&s=4bea935d5ab1bff06dc8bdf804ca220214ea1fd4"
       },
       {
         "rank": 1,
@@ -54,16 +54,26 @@
       },
       {
         "rank": 3,
-        "title": "kimi k3.1 pro",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xe2im6/kimi_k31_pro/",
+        "title": "To make it through this alive and happy we have to dodge:",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xesgvl/to_make_it_through_this_alive_and_happy_we_have/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-24T07:41:34.000Z",
+        "publishedAt": "2026-10-25T04:04:03.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mkf7uk88cdxh1.png?width=140&height=75&auto=webp&s=1db900db7001835ee0e5bd5a6ae618e997103f11"
+        "thumbnail": "https://preview.redd.it/gbkf7tw8fjxh1.png?width=640&crop=smart&auto=webp&s=f27b224359515a3a419730170fa829eb928f02ef"
       },
       {
         "rank": 4,
+        "title": "The expectation at the frontier labs is basically this:",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xewcm4/the_expectation_at_the_frontier_labs_is_basically/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T07:51:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7klrjkgvjkxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9155575b21a749e305f7370488207f6a0b9931e5"
+      },
+      {
+        "rank": 5,
         "title": "Another reset is coming (probably)",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xehxzx/another_reset_is_coming_probably/",
         "source": "r/OpenAI",
@@ -71,15 +81,6 @@
         "publishedAt": "2026-10-24T19:45:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/co7da6a9ygxh1.png?width=640&crop=smart&auto=webp&s=7660171b0efaca3109f0f0dd175da4a893b43b4b"
-      },
-      {
-        "rank": 5,
-        "title": "Why are some GPT 5 API requests costing three times more than others?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xeamcl/why_are_some_gpt_5_api_requests_costing_three/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T14:50:30.000Z",
-        "category": "reddit"
       },
       {
         "rank": 1,
@@ -93,16 +94,6 @@
       },
       {
         "rank": 2,
-        "title": "Revenue: $16.3B Net loss: $80.7B IPO valuation: $2T",
-        "url": "https://www.reddit.com/r/singularity/comments/1xe02h6/revenue_163b_net_loss_807b_ipo_valuation_2t/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T05:15:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ofp41xs3ncxh1.jpeg?width=320&crop=smart&auto=webp&s=901c0ade2b89686ed4a3ed394dc23d76b3f1c7e5"
-      },
-      {
-        "rank": 3,
         "title": "Altman: \"I don't even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we're gonna be able to just patch all the bugs.\"",
         "url": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
         "source": "r/singularity",
@@ -112,7 +103,7 @@
         "thumbnail": "https://external-preview.redd.it/c2l1Z2ZxbDhhZXhoMRWq4TWJyfiqDwfhscHOgmOrw48_AMcgJXG71EowosqU.png?width=640&crop=smart&auto=webp&s=bb6b23f5f688f6ccee5fba334412defa3f9dc79c"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Absolutely crazy AI voice model by Block called Dessa.",
         "url": "https://www.reddit.com/r/singularity/comments/1xe8b2x/absolutely_crazy_ai_voice_model_by_block_called/",
         "source": "r/singularity",
@@ -120,6 +111,16 @@
         "publishedAt": "2026-10-24T13:11:56.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cDloM3M5N3V6ZXhoMTaeU-g4l8D8ZQ0fv_B1aBWevJYgLD8kG9fLC1B0SLqu.png?width=640&crop=smart&auto=webp&s=4f58ced10cc7fcc5079d2a22602f50ee344f215b"
+      },
+      {
+        "rank": 4,
+        "title": "AI Has Finally Hit the (Vertical) Wall on ARC-AGI-3",
+        "url": "https://www.reddit.com/r/singularity/comments/1xeg0e9/ai_has_finally_hit_the_vertical_wall_on_arcagi3/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-24T18:27:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/33qjid2yjgxh1.png?width=140&height=79&auto=webp&s=866fa2bb9bde29f3d59a2b77ff07f5c95b9bd68c"
       },
       {
         "rank": 5,

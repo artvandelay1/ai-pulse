@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T01:36:42.935Z",
+  "fetchedAt": "2026-10-26T07:36:49.217Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,25 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "ICLR 2027 is still handing out desk rejects [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T05:35:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T05:31:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yo2dl9avujxh1.jpeg?width=640&crop=smart&auto=webp&s=4bea935d5ab1bff06dc8bdf804ca220214ea1fd4"
-      },
-      {
-        "rank": 3,
         "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
         "source": "r/MachineLearning",
@@ -34,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
         "source": "r/MachineLearning",
@@ -43,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
         "source": "r/MachineLearning",
@@ -83,6 +64,16 @@
       },
       {
         "rank": 4,
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T02:16:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NUwlEs0iHCIOU3CHUzwXhOfkd2BXuKN0c_pCV2eCbOY.png?width=640&crop=smart&auto=webp&s=d4a375751ba9b330d51adfff723e85a93eda4bef"
+      },
+      {
+        "rank": 5,
         "title": "The expectation at the frontier labs is basically this:",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xewcm4/the_expectation_at_the_frontier_labs_is_basically/",
         "source": "r/OpenAI",
@@ -90,16 +81,6 @@
         "publishedAt": "2026-10-25T07:51:41.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/7klrjkgvjkxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9155575b21a749e305f7370488207f6a0b9931e5"
-      },
-      {
-        "rank": 5,
-        "title": "This is where we teach them human values.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xf6tty/this_is_where_we_teach_them_human_values/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T16:29:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/quvp3zu54nxh1.png?width=640&crop=smart&auto=webp&s=74bada606063480ede10b505cfdf991d7c0c5055"
       },
       {
         "rank": 1,
@@ -123,23 +104,23 @@
       },
       {
         "rank": 3,
-        "title": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows | First successful phase 3 trial of mRNA cancer vaccine",
-        "url": "https://www.reddit.com/r/singularity/comments/1xet21r/bespoke_mrna_vaccine_significantly_reduces_risk/",
+        "title": "Unearthed 2010 Caltech interview reveals how legendary physicist Tom Tombrello tried to auction off Dario Amodei, current CEO of Anthropic, to Elon Musk and Google",
+        "url": "https://www.reddit.com/r/singularity/comments/1xfj0cv/unearthed_2010_caltech_interview_reveals_how/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-25T04:36:41.000Z",
+        "publishedAt": "2026-10-26T00:54:54.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/VZj4LCutQoubDKNwNhmAY40bIn4Ml8ljqax09Hb4I2o.jpeg?width=640&crop=smart&auto=webp&s=2583c6396a563f4d31904cf196e48caff407af26"
+        "thumbnail": "https://preview.redd.it/4ais342glpxh1.png?width=140&height=121&auto=webp&s=6e74dff98c9eb4134bcaccd639c8ba5403b4e51c"
       },
       {
         "rank": 4,
-        "title": "A downloadable AI model just outscored one that was considered too dangerous to release. Believe it!",
-        "url": "https://www.reddit.com/r/singularity/comments/1xetfmz/a_downloadable_ai_model_just_outscored_one_that/",
+        "title": "Chinese models in J++-space are wild.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xf613q/chinese_models_in_jspace_are_wild/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-25T04:57:59.000Z",
+        "publishedAt": "2026-10-25T15:58:43.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ygmc6sxrojxh1.png?width=640&crop=smart&auto=webp&s=be4b073202c220e900569711ec7eb46583597402"
+        "thumbnail": "https://preview.redd.it/firk5otpymxh1.png?width=640&crop=smart&auto=webp&s=681d9f298d5d841907a9e7de96c4816f025a9d19"
       },
       {
         "rank": 5,

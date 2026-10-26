@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T07:36:49.217Z",
+  "fetchedAt": "2026-10-26T15:00:41.778Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,6 +16,15 @@
       },
       {
         "rank": 2,
+        "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-26T07:48:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
         "source": "r/MachineLearning",
@@ -24,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
         "source": "r/MachineLearning",
@@ -34,36 +43,6 @@
       },
       {
         "rank": 1,
-        "title": "Uh oh",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xezf6x/uh_oh/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T10:58:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7vli0gj4hlxh1.png?width=640&crop=smart&auto=webp&s=a5fcd1f5f369fc87aa6284b651941433325e660c"
-      },
-      {
-        "rank": 2,
-        "title": "CloudFlare is aware of more severe vulnerabilities in critical software",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xf37nf/cloudflare_is_aware_of_more_severe/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T14:04:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xtf12vvcemxh1.png?width=640&crop=smart&auto=webp&s=9b51a73d2e3f3a17fb688621f25f5d49c3795a6c"
-      },
-      {
-        "rank": 3,
-        "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T19:02:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/UcF_suW3RG8ij004IyDSD9eysQkE9Xk5oH9X9P_Qxkk.jpeg?width=640&crop=smart&auto=webp&s=094483ae418f8b1292652128ea7d9232afc73656"
-      },
-      {
-        "rank": 4,
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
         "source": "r/OpenAI",
@@ -73,14 +52,44 @@
         "thumbnail": "https://external-preview.redd.it/NUwlEs0iHCIOU3CHUzwXhOfkd2BXuKN0c_pCV2eCbOY.png?width=640&crop=smart&auto=webp&s=d4a375751ba9b330d51adfff723e85a93eda4bef"
       },
       {
-        "rank": 5,
-        "title": "The expectation at the frontier labs is basically this:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xewcm4/the_expectation_at_the_frontier_labs_is_basically/",
+        "rank": 2,
+        "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-25T07:51:41.000Z",
+        "publishedAt": "2026-10-25T19:02:22.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7klrjkgvjkxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9155575b21a749e305f7370488207f6a0b9931e5"
+        "thumbnail": "https://external-preview.redd.it/UcF_suW3RG8ij004IyDSD9eysQkE9Xk5oH9X9P_Qxkk.jpeg?width=640&crop=smart&auto=webp&s=094483ae418f8b1292652128ea7d9232afc73656"
+      },
+      {
+        "rank": 3,
+        "title": "Scott Armstrong says OpenAI's Navier-Stokes result may exceed human invention",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfilfw/scott_armstrong_says_openais_navierstokes_result/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T00:35:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OPYQ9CaKugqGKq8IhaH9lFYl_FwJK9SCQlYxTdqhYPo.jpeg?width=640&crop=smart&auto=webp&s=566f1126dd118f091453f20e0573aa0b8aad18a9"
+      },
+      {
+        "rank": 4,
+        "title": "This is where we teach them human values.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xf6tty/this_is_where_we_teach_them_human_values/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T16:29:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/quvp3zu54nxh1.png?width=640&crop=smart&auto=webp&s=74bada606063480ede10b505cfdf991d7c0c5055"
+      },
+      {
+        "rank": 5,
+        "title": "My hamster Wally is powering my local AI so I don’t need a data center",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfsar9/my_hamster_wally_is_powering_my_local_ai_so_i/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T09:42:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wgox8vfj8sxh1.png?width=140&height=78&auto=webp&s=435e06a6e9aaab9e0d7136ee8eb3f92e56c54c49"
       },
       {
         "rank": 1,
@@ -94,16 +103,6 @@
       },
       {
         "rank": 2,
-        "title": "r/opensource is banning everything AI related",
-        "url": "https://www.reddit.com/r/singularity/comments/1xf0brw/ropensource_is_banning_everything_ai_related/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-25T11:48:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s12fbwrxplxh1.jpeg?width=640&crop=smart&auto=webp&s=b33a034eb2565dc737431ccf0120ba2b9fc4e264"
-      },
-      {
-        "rank": 3,
         "title": "Unearthed 2010 Caltech interview reveals how legendary physicist Tom Tombrello tried to auction off Dario Amodei, current CEO of Anthropic, to Elon Musk and Google",
         "url": "https://www.reddit.com/r/singularity/comments/1xfj0cv/unearthed_2010_caltech_interview_reveals_how/",
         "source": "r/singularity",
@@ -111,6 +110,15 @@
         "publishedAt": "2026-10-26T00:54:54.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/4ais342glpxh1.png?width=140&height=121&auto=webp&s=6e74dff98c9eb4134bcaccd639c8ba5403b4e51c"
+      },
+      {
+        "rank": 3,
+        "title": "One of the most common items on people's post-singularity wishlist is a cure for tinnitus, and I totally get it",
+        "url": "https://www.reddit.com/r/singularity/comments/1xfggem/one_of_the_most_common_items_on_peoples/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-25T22:59:11.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,

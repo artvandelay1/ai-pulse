@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-10-25T23:30:11.316Z",
+  "fetchedAt": "2026-10-26T01:36:42.935Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ICLR 2027 is still handing out desk rejects [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-25T05:35:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-25T05:31:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yo2dl9avujxh1.jpeg?width=640&crop=smart&auto=webp&s=4bea935d5ab1bff06dc8bdf804ca220214ea1fd4"
+      },
+      {
+        "rank": 3,
+        "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-25T16:32:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-25T18:35:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-25T22:57:33.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Uh oh",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xezf6x/uh_oh/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T10:58:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7vli0gj4hlxh1.png?width=640&crop=smart&auto=webp&s=a5fcd1f5f369fc87aa6284b651941433325e660c"
+      },
+      {
+        "rank": 2,
+        "title": "CloudFlare is aware of more severe vulnerabilities in critical software",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xf37nf/cloudflare_is_aware_of_more_severe/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T14:04:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xtf12vvcemxh1.png?width=640&crop=smart&auto=webp&s=9b51a73d2e3f3a17fb688621f25f5d49c3795a6c"
+      },
+      {
+        "rank": 3,
+        "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T19:02:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/UcF_suW3RG8ij004IyDSD9eysQkE9Xk5oH9X9P_Qxkk.jpeg?width=640&crop=smart&auto=webp&s=094483ae418f8b1292652128ea7d9232afc73656"
+      },
+      {
+        "rank": 4,
+        "title": "The expectation at the frontier labs is basically this:",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xewcm4/the_expectation_at_the_frontier_labs_is_basically/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T07:51:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7klrjkgvjkxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9155575b21a749e305f7370488207f6a0b9931e5"
+      },
+      {
+        "rank": 5,
+        "title": "This is where we teach them human values.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xf6tty/this_is_where_we_teach_them_human_values/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-25T16:29:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/quvp3zu54nxh1.png?width=640&crop=smart&auto=webp&s=74bada606063480ede10b505cfdf991d7c0c5055"
+      },
+      {
+        "rank": 1,
+        "title": "Developer uses Claude to overhaul his parents’ TV, removing ads and replacing its entire interface — 8 days later, the project has 34,800 GitHub stars and configurations for 300 TV models",
+        "url": "https://www.reddit.com/r/singularity/comments/1xfh36p/developer_uses_claude_to_overhaul_his_parents_tv/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-25T23:27:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y60nifyw6pxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb26f3696499ffdf4f9987c63b07b8d0a9fcbb05"
+      },
+      {
+        "rank": 2,
+        "title": "r/opensource is banning everything AI related",
+        "url": "https://www.reddit.com/r/singularity/comments/1xf0brw/ropensource_is_banning_everything_ai_related/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-25T11:48:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s12fbwrxplxh1.jpeg?width=640&crop=smart&auto=webp&s=b33a034eb2565dc737431ccf0120ba2b9fc4e264"
+      },
+      {
+        "rank": 3,
+        "title": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows | First successful phase 3 trial of mRNA cancer vaccine",
+        "url": "https://www.reddit.com/r/singularity/comments/1xet21r/bespoke_mrna_vaccine_significantly_reduces_risk/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-25T04:36:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/VZj4LCutQoubDKNwNhmAY40bIn4Ml8ljqax09Hb4I2o.jpeg?width=640&crop=smart&auto=webp&s=2583c6396a563f4d31904cf196e48caff407af26"
+      },
+      {
+        "rank": 4,
+        "title": "A downloadable AI model just outscored one that was considered too dangerous to release. Believe it!",
+        "url": "https://www.reddit.com/r/singularity/comments/1xetfmz/a_downloadable_ai_model_just_outscored_one_that/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-25T04:57:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ygmc6sxrojxh1.png?width=640&crop=smart&auto=webp&s=be4b073202c220e900569711ec7eb46583597402"
+      },
+      {
+        "rank": 5,
+        "title": "We just got new local model called Nanbeige4.3-33B clearly beating Qwen3.8 27B, which is GPT Luna 6 at home, reaching close to GLM 5.3 Flash.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xf5cg5/we_just_got_new_local_model_called_nanbeige4333b/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-25T15:31:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zm6odi3ntmxh1.png?width=140&height=65&auto=webp&s=7e6dab4a0568a0c5db282a1c0a316f4b4d94e5e5"
+      },
       {
         "rank": 1,
         "title": "Seems like Anthropic enabled safeguards around reverse-enginering a TV",
@@ -56,52 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "ICLR 2027 is still handing out desk rejects [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T05:35:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T05:31:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yo2dl9avujxh1.jpeg?width=640&crop=smart&auto=webp&s=4bea935d5ab1bff06dc8bdf804ca220214ea1fd4"
-      },
-      {
-        "rank": 3,
-        "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T16:32:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T18:35:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T22:57:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Day 20 confirmed reset!",
         "url": "https://www.reddit.com/r/codex/comments/1xes0pf/day_20_confirmed_reset/",
         "source": "r/codex",
@@ -148,105 +248,6 @@
         "publishedAt": "2026-10-25T06:12:33.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/9bgtk4762kxh1.png?width=140&height=6&auto=webp&s=87ffd77397398d7bbaf1d70feb1332bc283dd8ba"
-      },
-      {
-        "rank": 1,
-        "title": "Terence Tao: AI turns beautiful mathematics into ‘toxic waste’",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xe9ora/terence_tao_ai_turns_beautiful_mathematics_into/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T14:11:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/WVYz-fTEvhuTsKnJtNbvpmPn88OMYKcbZ9workM8iA0.jpeg?width=640&crop=smart&auto=webp&s=2ff4c04b7c4dd7a8a90c6dfc387b4ec15fbb4d62"
-      },
-      {
-        "rank": 2,
-        "title": "Luna spawned Astra extra high sub-agents and drained all my usage.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xeme0c/luna_spawned_astra_extra_high_subagents_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T22:59:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "To make it through this alive and happy we have to dodge:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xesgvl/to_make_it_through_this_alive_and_happy_we_have/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T04:04:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gbkf7tw8fjxh1.png?width=640&crop=smart&auto=webp&s=f27b224359515a3a419730170fa829eb928f02ef"
-      },
-      {
-        "rank": 4,
-        "title": "The expectation at the frontier labs is basically this:",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xewcm4/the_expectation_at_the_frontier_labs_is_basically/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T07:51:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7klrjkgvjkxh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=9155575b21a749e305f7370488207f6a0b9931e5"
-      },
-      {
-        "rank": 5,
-        "title": "Another reset is coming (probably)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xehxzx/another_reset_is_coming_probably/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-24T19:45:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/co7da6a9ygxh1.png?width=640&crop=smart&auto=webp&s=7660171b0efaca3109f0f0dd175da4a893b43b4b"
-      },
-      {
-        "rank": 1,
-        "title": "Dario Amodei, CEO of Anthropic, speaking out against the war in Iraq as a college student in 2003",
-        "url": "https://www.reddit.com/r/singularity/comments/1xekblx/dario_amodei_ceo_of_anthropic_speaking_out/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T21:25:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MW1nNTd4enhmaHhoMe3URNT8OtREv4_yVaFoaEvIkxi-quJV6wikviZzrWtT.png?width=640&crop=smart&auto=webp&s=47253135c85c2110637e7ba13dc1eb89b772e507"
-      },
-      {
-        "rank": 2,
-        "title": "Altman: \"I don't even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we're gonna be able to just patch all the bugs.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T10:46:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/c2l1Z2ZxbDhhZXhoMRWq4TWJyfiqDwfhscHOgmOrw48_AMcgJXG71EowosqU.png?width=640&crop=smart&auto=webp&s=bb6b23f5f688f6ccee5fba334412defa3f9dc79c"
-      },
-      {
-        "rank": 3,
-        "title": "Absolutely crazy AI voice model by Block called Dessa.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xe8b2x/absolutely_crazy_ai_voice_model_by_block_called/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T13:11:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cDloM3M5N3V6ZXhoMTaeU-g4l8D8ZQ0fv_B1aBWevJYgLD8kG9fLC1B0SLqu.png?width=640&crop=smart&auto=webp&s=4f58ced10cc7fcc5079d2a22602f50ee344f215b"
-      },
-      {
-        "rank": 4,
-        "title": "AI Has Finally Hit the (Vertical) Wall on ARC-AGI-3",
-        "url": "https://www.reddit.com/r/singularity/comments/1xeg0e9/ai_has_finally_hit_the_vertical_wall_on_arcagi3/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T18:27:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/33qjid2yjgxh1.png?width=140&height=79&auto=webp&s=866fa2bb9bde29f3d59a2b77ff07f5c95b9bd68c"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI put its internal models into a red-teaming exercise where they had to coordinate despite being totally isolated from each other. They hacked the server hardware to do it.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xeevz3/openai_put_its_internal_models_into_a_redteaming/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-24T17:42:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ohok2lp65gxh1.png?width=640&crop=smart&auto=webp&s=59035261e704cdee6b22034d300859502b1e30c7"
       }
     ]
   }

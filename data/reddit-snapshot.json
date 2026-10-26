@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T15:00:41.778Z",
+  "fetchedAt": "2026-10-26T20:27:07.277Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,29 +7,78 @@
     "items": [
       {
         "rank": 1,
-        "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
-        "source": "r/MachineLearning",
+        "title": "I built an open source sky camera that Claude Code can actually run. Saturday night it caught 17 meteors and had them sorted before I woke up.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfqc9x/i_built_an_open_source_sky_camera_that_claude/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-25T16:32:44.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-26T07:38:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eTBrMmM5ZWVtcnhoMSNi9PazVRrKTiBIzuupHzySQJIEnFe5GWnPvPb2Uqla.png?width=640&crop=smart&auto=webp&s=113c2f46981565d391cdfab24f68729e7752c7b6"
       },
       {
         "rank": 2,
+        "title": "15 years in software, ex-Google, and tired of the anti-AI rhetoric",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfjhgh/15_years_in_software_exgoogle_and_tired_of_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T01:16:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Limits got at least halved?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfs5q8/limits_got_at_least_halved/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T09:33:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/e9usqpuz6sxh1.png?width=640&crop=smart&auto=webp&s=13f113a65de12dfb86baae5a8aa5bdab6b472d6b"
+      },
+      {
+        "rank": 4,
+        "title": "Hmm yes this is a very dangerous cybersecurity prompt",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg18vv/hmm_yes_this_is_a_very_dangerous_cybersecurity/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T16:12:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/34frg2976uxh1.jpeg?width=640&crop=smart&auto=webp&s=0d7b8dccb4ef927b0183e7ecf3a953301bb3fa72"
+      },
+      {
+        "rank": 5,
+        "title": "Senior devs are in their Kasparov era",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfs6h7/senior_devs_are_in_their_kasparov_era/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T09:34:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-26T17:22:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/wh4mUQ38IBKMFAzz5mEvWFNcZcql8BC1XLSVu0K8ZPw.jpeg?width=320&crop=smart&auto=webp&s=15d96414c0e95ffcee36699585ee575f03e6c890"
+      },
+      {
+        "rank": 2,
+        "title": "Scoring IDP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-26T16:10:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-26T07:48:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-25T18:35:21.000Z",
         "category": "reddit"
       },
       {
@@ -40,6 +89,56 @@
         "score": 0,
         "publishedAt": "2026-10-25T22:57:33.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Introducing GPT6.1 Terra",
+        "url": "https://www.reddit.com/r/codex/comments/1xg4eqq/introducing_gpt61_terra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-26T18:06:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/A5RyS1WkYI5c2q8EJSfO8oWQhxaL3GsbZWE7KonWCf0.png?width=640&crop=smart&auto=webp&s=91da0b6d2a92f0f350585da0337919157ac1c107"
+      },
+      {
+        "rank": 2,
+        "title": "This straight up feels like an advertisement for claude",
+        "url": "https://www.reddit.com/r/codex/comments/1xg4wkp/this_straight_up_feels_like_an_advertisement_for/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-26T18:24:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rkg74p1otuxh1.jpeg?width=640&crop=smart&auto=webp&s=086e9b0edd255699279fc47f28a360be63f6a8a5"
+      },
+      {
+        "rank": 3,
+        "title": "Where we are headed right now",
+        "url": "https://www.reddit.com/r/codex/comments/1xft37n/where_we_are_headed_right_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-26T10:28:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pnuavblrgsxh1.jpeg?width=640&crop=smart&auto=webp&s=384ec1816c66446fff602f2f5d58ed4c9c50d3e1"
+      },
+      {
+        "rank": 4,
+        "title": "What's the point of announcing a reset 45 minutes before it lands?",
+        "url": "https://www.reddit.com/r/codex/comments/1xfoy9r/whats_the_point_of_announcing_a_reset_45_minutes/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-26T06:10:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4b5i54an6rxh1.png?width=320&crop=smart&auto=webp&s=ea5bbb939d0e1c89605eee50e3882e2f1ab61095"
+      },
+      {
+        "rank": 5,
+        "title": "Another reset inbound",
+        "url": "https://www.reddit.com/r/codex/comments/1xfo82b/another_reset_inbound/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-26T05:24:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/unmiipmmyqxh1.jpeg?width=640&crop=smart&auto=webp&s=0892b81964f979fed0ab1679e0db4ec3db586485"
       },
       {
         "rank": 1,
@@ -139,104 +238,6 @@
         "publishedAt": "2026-10-25T15:31:13.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zm6odi3ntmxh1.png?width=140&height=65&auto=webp&s=7e6dab4a0568a0c5db282a1c0a316f4b4d94e5e5"
-      },
-      {
-        "rank": 1,
-        "title": "Seems like Anthropic enabled safeguards around reverse-enginering a TV",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xetxga/seems_like_anthropic_enabled_safeguards_around/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T05:26:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xv32vliytjxh1.png?width=640&crop=smart&auto=webp&s=7eb6a7247fce500e0024a80134474db7944d3339"
-      },
-      {
-        "rank": 2,
-        "title": "Claude saved me from septic shock.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xenvvi/claude_saved_me_from_septic_shock/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T00:10:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I built a laser dry-fire shooting game with Claude Code: a webcam watches your monitor and scores laser hits (open source, free)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xeqtp1/i_built_a_laser_dryfire_shooting_game_with_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T02:37:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bTFxMDBkeHJ5aXhoMTWTrUG8rFWadhU0lEJNmBYRp_Fgq-MmbFrYcxrPIqWM.png?width=640&crop=smart&auto=webp&s=33070d6a1f59b453c1716459cb835d1659884b15"
-      },
-      {
-        "rank": 4,
-        "title": "TIL there’s Anthropic(India) before Anthropic (Claude)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xet1uk/til_theres_anthropicindia_before_anthropic_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T04:36:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yjb4eyb2ljxh1.jpeg?width=640&crop=smart&auto=webp&s=bc2f5e59ed987dcd6c1b00d953f991a73fab3126"
-      },
-      {
-        "rank": 5,
-        "title": "Flight Simulator 95/98 finally running on 64-bit Windows, patched by Claude Code",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xew9ma/flight_simulator_9598_finally_running_on_64bit/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T07:46:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n3awmbmykjxh1.png?width=140&height=101&auto=webp&s=251aa8d0a04c63ae7a44d2df3364c222560d8325"
-      },
-      {
-        "rank": 1,
-        "title": "Day 20 confirmed reset!",
-        "url": "https://www.reddit.com/r/codex/comments/1xes0pf/day_20_confirmed_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-25T03:40:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wh9udhc4bjxh1.jpeg?width=640&crop=smart&auto=webp&s=ad725bf05605d32cf73fe9f6239e26a67694e62c"
-      },
-      {
-        "rank": 2,
-        "title": "Rumour says that 6.1 Terra is close to launch, with a new Reset. Also, 6.1 Terra could be a cheaper version of 6.1 Sol with better performance & Open Ai is getting ready to launch 6.2 Sol or Astra 6.1 soon. (Rumoured)",
-        "url": "https://www.reddit.com/r/codex/comments/1xey2e4/rumour_says_that_61_terra_is_close_to_launch_with/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-25T09:37:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/iyi0jatu2lxh1.png?width=640&crop=smart&auto=webp&s=eda74e86b7948f168d2c93294d62069d641dcbe1"
-      },
-      {
-        "rank": 3,
-        "title": "Stay safe out there using agents",
-        "url": "https://www.reddit.com/r/codex/comments/1xf06z4/stay_safe_out_there_using_agents/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-25T11:40:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/f89uv4snolxh1.png?width=140&height=63&auto=webp&s=67a8671ef936e54f445d74abe72b2ccb25a8ff69"
-      },
-      {
-        "rank": 4,
-        "title": "guys, this is still a WEEKLY limit",
-        "url": "https://www.reddit.com/r/codex/comments/1xfb5jb/guys_this_is_still_a_weekly_limit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-25T19:19:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Reset has landed",
-        "url": "https://www.reddit.com/r/codex/comments/1xeup9n/reset_has_landed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-25T06:12:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9bgtk4762kxh1.png?width=140&height=6&auto=webp&s=87ffd77397398d7bbaf1d70feb1332bc283dd8ba"
       }
     ]
   }

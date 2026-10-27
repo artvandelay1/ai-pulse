@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-27T00:03:13.105Z",
+  "fetchedAt": "2026-10-27T05:27:46.460Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "How to do method research when I feel I have no guidance on doing it? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-27T00:06:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "What is the value proposition of \"RL environment\" companies? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-27T02:37:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-26T17:22:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/wh4mUQ38IBKMFAzz5mEvWFNcZcql8BC1XLSVu0K8ZPw.jpeg?width=320&crop=smart&auto=webp&s=15d96414c0e95ffcee36699585ee575f03e6c890"
+      },
+      {
+        "rank": 4,
+        "title": "Scoring IDP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-26T16:10:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-27T04:12:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "openAI Launches GPT 6.1 TERRA",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T18:09:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vrndlgx2ruxh1.png?width=640&crop=smart&auto=webp&s=470f20a28e71b97005aa6e7ba285e0c4af5a1afe"
+      },
+      {
+        "rank": 2,
+        "title": "My hamster Wally is powering my local AI so I don’t need a data center",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfsar9/my_hamster_wally_is_powering_my_local_ai_so_i/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T09:42:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wgox8vfj8sxh1.png?width=140&height=78&auto=webp&s=435e06a6e9aaab9e0d7136ee8eb3f92e56c54c49"
+      },
+      {
+        "rank": 3,
+        "title": "They need to know how it all happened",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xg5ge8/they_need_to_know_how_it_all_happened/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T18:45:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/v0zevilfxuxh1.png?width=640&crop=smart&auto=webp&s=d5050d391310d7c316eda1d45167b365c84fb24c"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI says its AI disproved a core complexity hypothesis and posts the proof",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgc2qu/openai_says_its_ai_disproved_a_core_complexity/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T23:01:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/TL6itdLZXJh4wakAKqmUL1GjTVJ-N1NETgNdbCNsOd8.jpeg?width=640&crop=smart&auto=webp&s=4a782280133e62b4a02fa1185bf71e3ccff556bb"
+      },
+      {
+        "rank": 5,
+        "title": "After another massive cyberattack, GMO is urging the government to intervene: \"the internet itself is on the verge of collapse\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xfy2nn/after_another_massive_cyberattack_gmo_is_urging/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-26T14:16:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/f24y581iltxh1.png?width=640&crop=smart&auto=webp&s=629e02a80c049b8f7e09d4b24c15e8cd6eaf1e94"
+      },
+      {
+        "rank": 1,
+        "title": "OpenAI says its AI invented a new mathematical technique to solve a 35-year-old mystery about how waves focus, then used the breakthrough to crack several other decades-old problems involving how waves overlap, how signals can be reconstructed, and the geometry of space.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xgaw9b/openai_says_its_ai_invented_a_new_mathematical/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-26T22:12:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ijM4aU3XsMvZk5dDTM08uiuuPpKQ8AiTXl1gXKc6ACA.png?width=640&crop=smart&auto=webp&s=31a14806549815a96e583ef500c960a1365044f8"
+      },
+      {
+        "rank": 2,
+        "title": "Introducing GPT-6.1 Terra",
+        "url": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-26T18:09:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/A5RyS1WkYI5c2q8EJSfO8oWQhxaL3GsbZWE7KonWCf0.png?width=640&crop=smart&auto=webp&s=91da0b6d2a92f0f350585da0337919157ac1c107"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI on the Yang-Mills millenium prize problem",
+        "url": "https://www.reddit.com/r/singularity/comments/1xgalwn/openai_on_the_yangmills_millenium_prize_problem/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-26T22:00:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vmk0fjs9wvxh1.png?width=640&crop=smart&auto=webp&s=c6d8cd9e21a1a16b838e854e973d5e9efc366a1c"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic's revenue vs compute",
+        "url": "https://www.reddit.com/r/singularity/comments/1xfxwtd/anthropics_revenue_vs_compute/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-26T14:10:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uu2e9xx8ktxh1.png?width=640&crop=smart&auto=webp&s=e55262c2c49bd565b149eccd053d00ce2d6e6a5e"
+      },
+      {
+        "rank": 5,
+        "title": "In China, the AI bubble has already burst, $480 billion wiped out",
+        "url": "https://www.reddit.com/r/singularity/comments/1xg48ci/in_china_the_ai_bubble_has_already_burst_480/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-26T18:00:29.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "I built an open source sky camera that Claude Code can actually run. Saturday night it caught 17 meteors and had them sorted before I woke up.",
@@ -51,43 +196,6 @@
         "source": "r/ClaudeAI",
         "score": 0,
         "publishedAt": "2026-10-26T14:10:46.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-26T17:22:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/wh4mUQ38IBKMFAzz5mEvWFNcZcql8BC1XLSVu0K8ZPw.jpeg?width=320&crop=smart&auto=webp&s=15d96414c0e95ffcee36699585ee575f03e6c890"
-      },
-      {
-        "rank": 2,
-        "title": "Scoring IDP [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-26T16:10:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-26T07:48:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-26T19:34:57.000Z",
         "category": "reddit"
       },
       {
@@ -139,105 +247,6 @@
         "publishedAt": "2026-10-26T05:24:50.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/unmiipmmyqxh1.jpeg?width=640&crop=smart&auto=webp&s=0892b81964f979fed0ab1679e0db4ec3db586485"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-26T02:16:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NUwlEs0iHCIOU3CHUzwXhOfkd2BXuKN0c_pCV2eCbOY.png?width=640&crop=smart&auto=webp&s=d4a375751ba9b330d51adfff723e85a93eda4bef"
-      },
-      {
-        "rank": 2,
-        "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T19:02:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/UcF_suW3RG8ij004IyDSD9eysQkE9Xk5oH9X9P_Qxkk.jpeg?width=640&crop=smart&auto=webp&s=094483ae418f8b1292652128ea7d9232afc73656"
-      },
-      {
-        "rank": 3,
-        "title": "Scott Armstrong says OpenAI's Navier-Stokes result may exceed human invention",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xfilfw/scott_armstrong_says_openais_navierstokes_result/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-26T00:35:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OPYQ9CaKugqGKq8IhaH9lFYl_FwJK9SCQlYxTdqhYPo.jpeg?width=640&crop=smart&auto=webp&s=566f1126dd118f091453f20e0573aa0b8aad18a9"
-      },
-      {
-        "rank": 4,
-        "title": "This is where we teach them human values.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xf6tty/this_is_where_we_teach_them_human_values/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-25T16:29:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/quvp3zu54nxh1.png?width=640&crop=smart&auto=webp&s=74bada606063480ede10b505cfdf991d7c0c5055"
-      },
-      {
-        "rank": 5,
-        "title": "My hamster Wally is powering my local AI so I don’t need a data center",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xfsar9/my_hamster_wally_is_powering_my_local_ai_so_i/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-26T09:42:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wgox8vfj8sxh1.png?width=140&height=78&auto=webp&s=435e06a6e9aaab9e0d7136ee8eb3f92e56c54c49"
-      },
-      {
-        "rank": 1,
-        "title": "Developer uses Claude to overhaul his parents’ TV, removing ads and replacing its entire interface — 8 days later, the project has 34,800 GitHub stars and configurations for 300 TV models",
-        "url": "https://www.reddit.com/r/singularity/comments/1xfh36p/developer_uses_claude_to_overhaul_his_parents_tv/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-25T23:27:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y60nifyw6pxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=cb26f3696499ffdf4f9987c63b07b8d0a9fcbb05"
-      },
-      {
-        "rank": 2,
-        "title": "Unearthed 2010 Caltech interview reveals how legendary physicist Tom Tombrello tried to auction off Dario Amodei, current CEO of Anthropic, to Elon Musk and Google",
-        "url": "https://www.reddit.com/r/singularity/comments/1xfj0cv/unearthed_2010_caltech_interview_reveals_how/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-26T00:54:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4ais342glpxh1.png?width=140&height=121&auto=webp&s=6e74dff98c9eb4134bcaccd639c8ba5403b4e51c"
-      },
-      {
-        "rank": 3,
-        "title": "One of the most common items on people's post-singularity wishlist is a cure for tinnitus, and I totally get it",
-        "url": "https://www.reddit.com/r/singularity/comments/1xfggem/one_of_the_most_common_items_on_peoples/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-25T22:59:11.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Chinese models in J++-space are wild.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xf613q/chinese_models_in_jspace_are_wild/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-25T15:58:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/firk5otpymxh1.png?width=640&crop=smart&auto=webp&s=681d9f298d5d841907a9e7de96c4816f025a9d19"
-      },
-      {
-        "rank": 5,
-        "title": "We just got new local model called Nanbeige4.3-33B clearly beating Qwen3.8 27B, which is GPT Luna 6 at home, reaching close to GLM 5.3 Flash.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xf5cg5/we_just_got_new_local_model_called_nanbeige4333b/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-25T15:31:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zm6odi3ntmxh1.png?width=140&height=65&auto=webp&s=7e6dab4a0568a0c5db282a1c0a316f4b4d94e5e5"
       }
     ]
   }

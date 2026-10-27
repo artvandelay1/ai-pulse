@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T20:27:07.277Z",
+  "fetchedAt": "2026-10-27T00:03:13.105Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -46,11 +46,11 @@
       },
       {
         "rank": 5,
-        "title": "Senior devs are in their Kasparov era",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfs6h7/senior_devs_are_in_their_kasparov_era/",
+        "title": "Is this the moment when AI bubble bursts?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xfxww4/is_this_the_moment_when_ai_bubble_bursts/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-26T09:34:49.000Z",
+        "publishedAt": "2026-10-26T14:10:46.000Z",
         "category": "reddit"
       },
       {
@@ -83,25 +83,15 @@
       },
       {
         "rank": 4,
-        "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+        "title": "Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-25T22:57:33.000Z",
+        "publishedAt": "2026-10-26T19:34:57.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Introducing GPT6.1 Terra",
-        "url": "https://www.reddit.com/r/codex/comments/1xg4eqq/introducing_gpt61_terra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-26T18:06:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/A5RyS1WkYI5c2q8EJSfO8oWQhxaL3GsbZWE7KonWCf0.png?width=640&crop=smart&auto=webp&s=91da0b6d2a92f0f350585da0337919157ac1c107"
-      },
-      {
-        "rank": 2,
         "title": "This straight up feels like an advertisement for claude",
         "url": "https://www.reddit.com/r/codex/comments/1xg4wkp/this_straight_up_feels_like_an_advertisement_for/",
         "source": "r/codex",
@@ -109,6 +99,16 @@
         "publishedAt": "2026-10-26T18:24:33.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/rkg74p1otuxh1.jpeg?width=640&crop=smart&auto=webp&s=086e9b0edd255699279fc47f28a360be63f6a8a5"
+      },
+      {
+        "rank": 2,
+        "title": "Introducing GPT6.1 Terra",
+        "url": "https://www.reddit.com/r/codex/comments/1xg4eqq/introducing_gpt61_terra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-26T18:06:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/A5RyS1WkYI5c2q8EJSfO8oWQhxaL3GsbZWE7KonWCf0.png?width=640&crop=smart&auto=webp&s=91da0b6d2a92f0f350585da0337919157ac1c107"
       },
       {
         "rank": 3,

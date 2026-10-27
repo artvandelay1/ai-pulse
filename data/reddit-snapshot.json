@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T16:18:50.784Z",
+  "fetchedAt": "2026-10-27T20:53:47.063Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,11 +16,11 @@
       },
       {
         "rank": 2,
-        "title": "What is the value proposition of \"RL environment\" companies? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
+        "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-27T02:37:13.000Z",
+        "publishedAt": "2026-10-27T19:55:31.000Z",
         "category": "reddit"
       },
       {
@@ -34,35 +34,25 @@
       },
       {
         "rank": 4,
-        "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
+        "title": "What is the value proposition of \"RL environment\" companies? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-26T17:22:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/wh4mUQ38IBKMFAzz5mEvWFNcZcql8BC1XLSVu0K8ZPw.jpeg?width=320&crop=smart&auto=webp&s=15d96414c0e95ffcee36699585ee575f03e6c890"
-      },
-      {
-        "rank": 5,
-        "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-27T04:12:34.000Z",
+        "publishedAt": "2026-10-27T02:37:13.000Z",
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "openAI Launches GPT 6.1 TERRA",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-26T18:09:42.000Z",
+        "publishedAt": "2026-10-27T16:09:42.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vrndlgx2ruxh1.png?width=640&crop=smart&auto=webp&s=470f20a28e71b97005aa6e7ba285e0c4af5a1afe"
+        "thumbnail": "https://preview.redd.it/r5eoct1ja1yh1.gif?width=640&crop=smart&s=c4c2a007ac44df57b60669b8df8c8b40f62568cc"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Crazy realistic now. We're cooked.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xgm2as/crazy_realistic_now_were_cooked/",
         "source": "r/OpenAI",
@@ -72,7 +62,7 @@
         "thumbnail": "https://external-preview.redd.it/ODc0YmNydnZweXhoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=f1b2e22d6bdeac462504f5cf3677b5068b7c89e2"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
         "source": "r/OpenAI",
@@ -82,17 +72,17 @@
         "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727"
       },
       {
-        "rank": 4,
-        "title": "They need to know how it all happened",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xg5ge8/they_need_to_know_how_it_all_happened/",
+        "rank": 3,
+        "title": "How big a deal is this? Claude Opus 5.5: \"If these hold up, this is the biggest single day in the history of math and theoretical computer science.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgyzcg/how_big_a_deal_is_this_claude_opus_55_if_these/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-26T18:45:22.000Z",
+        "publishedAt": "2026-10-27T17:30:52.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/v0zevilfxuxh1.png?width=640&crop=smart&auto=webp&s=d5050d391310d7c316eda1d45167b365c84fb24c"
+        "thumbnail": "https://preview.redd.it/j6qp2iz0p1yh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=8873e759bdd601741aa3658102dfea22422d4bd4"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "OpenAI says its AI disproved a core complexity hypothesis and posts the proof",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xgc2qu/openai_says_its_ai_disproved_a_core_complexity/",
         "source": "r/OpenAI",
@@ -100,6 +90,16 @@
         "publishedAt": "2026-10-26T23:01:48.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/TL6itdLZXJh4wakAKqmUL1GjTVJ-N1NETgNdbCNsOd8.jpeg?width=640&crop=smart&auto=webp&s=4a782280133e62b4a02fa1185bf71e3ccff556bb"
+      },
+      {
+        "rank": 5,
+        "title": "Two physicists asked AI to choose a problem on its own, solve it and write a paper that could be published in a prestigious journal. In two hours, AI produced a paper with a novel, significant result.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgqv27/two_physicists_asked_ai_to_choose_a_problem_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-27T12:12:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mmr2ujaa40yh1.png?width=640&crop=smart&auto=webp&s=060a2f0cb5367981a8cbe3c951154b4cb74dadbb"
       },
       {
         "rank": 1,
@@ -113,13 +113,13 @@
       },
       {
         "rank": 2,
-        "title": "Introducing GPT-6.1 Terra",
-        "url": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
+        "title": "Claude Opus 5.5 helps developer bring the entire Super Mario 64 into mixed reality, running natively in full 3D at 90 FPS, with the game world appearing right inside his room.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xgw6sk/claude_opus_55_helps_developer_bring_the_entire/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-26T18:09:48.000Z",
+        "publishedAt": "2026-10-27T15:50:04.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/A5RyS1WkYI5c2q8EJSfO8oWQhxaL3GsbZWE7KonWCf0.png?width=640&crop=smart&auto=webp&s=91da0b6d2a92f0f350585da0337919157ac1c107"
+        "thumbnail": "https://external-preview.redd.it/NjlmcjJ4azA3MXloMZVRRQOCFYY2rYYKvpc1vRpprV0-GaSBH35J4Un0tHW6.png?width=640&crop=smart&auto=webp&s=57b7fa9070f8dcd21627471fcebefdf03ef22d21"
       },
       {
         "rank": 3,

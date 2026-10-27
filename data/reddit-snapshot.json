@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T10:51:47.549Z",
+  "fetchedAt": "2026-10-27T16:18:50.784Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,6 +25,15 @@
       },
       {
         "rank": 3,
+        "title": "Papers with Code is now open-source [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-27T09:54:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
         "source": "r/MachineLearning",
@@ -32,15 +41,6 @@
         "publishedAt": "2026-10-26T17:22:39.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/wh4mUQ38IBKMFAzz5mEvWFNcZcql8BC1XLSVu0K8ZPw.jpeg?width=320&crop=smart&auto=webp&s=15d96414c0e95ffcee36699585ee575f03e6c890"
-      },
-      {
-        "rank": 4,
-        "title": "Papers with Code is now open-source [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-27T09:54:44.000Z",
-        "category": "reddit"
       },
       {
         "rank": 5,
@@ -63,16 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-27T03:57:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727"
-      },
-      {
-        "rank": 3,
         "title": "Crazy realistic now. We're cooked.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xgm2as/crazy_realistic_now_were_cooked/",
         "source": "r/OpenAI",
@@ -80,6 +70,16 @@
         "publishedAt": "2026-10-27T07:30:40.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/ODc0YmNydnZweXhoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=f1b2e22d6bdeac462504f5cf3677b5068b7c89e2"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-27T03:57:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&crop=smart&auto=webp&s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727"
       },
       {
         "rank": 4,
@@ -123,6 +123,16 @@
       },
       {
         "rank": 3,
+        "title": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-27T08:05:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5alzpbn6wyxh1.jpeg?width=640&crop=smart&auto=webp&s=b227ffb5d11e12a1359660a71d07378b5dbea5de"
+      },
+      {
+        "rank": 4,
         "title": "OpenAI on the Yang-Mills millenium prize problem",
         "url": "https://www.reddit.com/r/singularity/comments/1xgalwn/openai_on_the_yangmills_millenium_prize_problem/",
         "source": "r/singularity",
@@ -130,16 +140,6 @@
         "publishedAt": "2026-10-26T22:00:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/vmk0fjs9wvxh1.png?width=640&crop=smart&auto=webp&s=c6d8cd9e21a1a16b838e854e973d5e9efc366a1c"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic's revenue vs compute",
-        "url": "https://www.reddit.com/r/singularity/comments/1xfxwtd/anthropics_revenue_vs_compute/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-26T14:10:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uu2e9xx8ktxh1.png?width=640&crop=smart&auto=webp&s=e55262c2c49bd565b149eccd053d00ce2d6e6a5e"
       },
       {
         "rank": 5,

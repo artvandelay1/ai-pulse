@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T19:02:07.600Z",
+  "fetchedAt": "2026-10-28T23:27:11.124Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,13 @@
     "items": [
       {
         "rank": 1,
-        "title": "Claude Code usage exploded 8x today. Anthropic confirmed service errors consume our paid limits — and they won't compensate users",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh3yyu/claude_code_usage_exploded_8x_today_anthropic/",
+        "title": "Google introduced Gemini 4 Carbon, allegedly the most frontier model.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhu9ez/google_introduced_gemini_4_carbon_allegedly_the/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-27T20:34:10.000Z",
+        "publishedAt": "2026-10-28T17:17:02.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/snsyzqzil2yh1.png?width=140&height=128&auto=webp&s=23a24f6ceeab63fa9060bd87accd95567426563f"
+        "thumbnail": "https://preview.redd.it/ylm2yy5gr8yh1.jpeg?width=640&crop=smart&auto=webp&s=6c949ee85918c309e7cba8ad51c001412f2ce10f"
       },
       {
         "rank": 2,
@@ -26,6 +26,16 @@
       },
       {
         "rank": 3,
+        "title": "Is Claude Pro actually worth it, or is the free plan enough? (As a student on a tight budget)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhp4o7/is_claude_pro_actually_worth_it_or_is_the_free/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-28T14:10:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8nwhqtf6u7yh1.jpeg?width=320&crop=smart&auto=webp&s=ebed3431c987ac45ef4d40aad5be4ca2af1db96e"
+      },
+      {
+        "rank": 4,
         "title": "PSA for vibe coders: stop prompting tweaks, make Claude build you a remote control",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xha250/psa_for_vibe_coders_stop_prompting_tweaks_make/",
         "source": "r/ClaudeAI",
@@ -34,7 +44,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "I got Claude Opus 5.5 to render photoreal Blender scenes — it took 3 failed attempts per scene, here’s what actually fixed them",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhi21l/i_got_claude_opus_55_to_render_photoreal_blender/",
         "source": "r/ClaudeAI",
@@ -44,26 +54,7 @@
         "thumbnail": "https://preview.redd.it/d96qnbbm06yh1.jpeg?width=140&height=78&auto=webp&s=2bfd7c83d3611b38f333fa3201928d9956910270"
       },
       {
-        "rank": 5,
-        "title": "Tried Claude + Blender for the first time today ❤️",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xh73xd/tried_claude_blender_for_the_first_time_today/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-27T22:37:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/aHluaHRncHE3M3loMd1GBIylsaOnP2-9Ijv3gtKCDrbfUEhM931mpTz0arjm.jpeg?width=640&crop=smart&auto=webp&s=a3401cacb6c4a07223a8d55b1469f8d476096e5a"
-      },
-      {
         "rank": 1,
-        "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-27T19:55:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
         "source": "r/MachineLearning",
@@ -72,21 +63,30 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-27T19:20:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-28T17:52:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-28T17:17:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-28T14:30:25.000Z",
         "category": "reddit"
       },
       {
@@ -101,13 +101,13 @@
       },
       {
         "rank": 1,
-        "title": "Cognition has released FrontierCode 2.0, a tougher benchmark for Al coding agents. The results are brutal: Claude Opus 5.5 leads with just 45.5%, followed by GPT-6 Astra at 42.8%.",
-        "url": "https://www.reddit.com/r/codex/comments/1xh1uiu/cognition_has_released_frontiercode_20_a_tougher/",
+        "title": "chatgpt chat and work merged",
+        "url": "https://www.reddit.com/r/codex/comments/1xi2e86/chatgpt_chat_and_work_merged/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-27T19:15:32.000Z",
+        "publishedAt": "2026-10-28T22:18:39.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9a67k0lq72yh1.jpeg?width=640&crop=smart&auto=webp&s=c5a2fa2b1cc4e26760274741aa11818959b9575a"
+        "thumbnail": "https://preview.redd.it/kiw3egyx8ayh1.jpeg?width=640&crop=smart&auto=webp&s=8a4ed428bb8bc6218e9b5a40c52c6180698a956e"
       },
       {
         "rank": 2,
@@ -131,16 +131,6 @@
       },
       {
         "rank": 4,
-        "title": "Day 23 reset has landed!",
-        "url": "https://www.reddit.com/r/codex/comments/1xhgnnp/day_23_reset_has_landed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-28T06:31:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/40fib2odk5yh1.jpeg?width=640&crop=smart&auto=webp&s=4018224fa6860600ab07e3f9708025a41ae13af4"
-      },
-      {
-        "rank": 5,
         "title": "I built a fairly complex PCB using GPT/Codex, got it manufactured, and it actually works.",
         "url": "https://www.reddit.com/r/codex/comments/1xhq8m6/i_built_a_fairly_complex_pcb_using_gptcodex_got/",
         "source": "r/codex",
@@ -148,6 +138,16 @@
         "publishedAt": "2026-10-28T14:53:00.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/sqQ1nuZz-sahjHQCmUf7-bC79F_Sm3eUpdah06bKdvU.jpeg?width=640&crop=smart&auto=webp&s=d31d1832da0803f47a855266230121cc83016522"
+      },
+      {
+        "rank": 5,
+        "title": "Day 23 reset has landed!",
+        "url": "https://www.reddit.com/r/codex/comments/1xhgnnp/day_23_reset_has_landed/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-28T06:31:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/40fib2odk5yh1.jpeg?width=640&crop=smart&auto=webp&s=4018224fa6860600ab07e3f9708025a41ae13af4"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T06:08:48.186Z",
+  "fetchedAt": "2026-10-28T13:25:49.951Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,15 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "Papers with Code is now open-source [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-27T09:54:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
         "source": "r/MachineLearning",
@@ -43,7 +34,7 @@
         "thumbnail": "https://preview.redd.it/r5eoct1ja1yh1.gif?width=640&crop=smart&s=c4c2a007ac44df57b60669b8df8c8b40f62568cc"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Teachers other than EMA for distillation ? [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwagz/teachers_other_than_ema_for_distillation_r/",
         "source": "r/MachineLearning",
@@ -52,14 +43,23 @@
         "category": "reddit"
       },
       {
+        "rank": 5,
+        "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-27T20:13:07.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "Crazy realistic now. We're cooked.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xgm2as/crazy_realistic_now_were_cooked/",
+        "title": "When will OpenAI change its name to OpenSI?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xh5phe/when_will_openai_change_its_name_to_opensi/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-27T07:30:40.000Z",
+        "publishedAt": "2026-10-27T21:41:11.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ODc0YmNydnZweXhoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=f1b2e22d6bdeac462504f5cf3677b5068b7c89e2"
+        "thumbnail": "https://preview.redd.it/rk21mxipx2yh1.jpeg?width=640&crop=smart&auto=webp&s=0a4fe1b79936284f08624d0f1ae8b59207ed6d14"
       },
       {
         "rank": 2,
@@ -73,33 +73,32 @@
       },
       {
         "rank": 3,
-        "title": "When will OpenAI change its name to OpenSI?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xh5phe/when_will_openai_change_its_name_to_opensi/",
+        "title": "Kinda fucked up",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xhjo1x/kinda_fucked_up/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-27T21:41:11.000Z",
+        "publishedAt": "2026-10-28T09:46:44.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rk21mxipx2yh1.jpeg?width=640&crop=smart&auto=webp&s=0a4fe1b79936284f08624d0f1ae8b59207ed6d14"
+        "thumbnail": "https://preview.redd.it/t83n9n65j6yh1.png?width=640&crop=smart&auto=webp&s=18fab34bf79d45ae390ebf11df2adb7712d18532"
       },
       {
         "rank": 4,
-        "title": "Two physicists asked AI to choose a problem on its own, solve it and write a paper that could be published in a prestigious journal. In two hours, AI produced a paper with a novel, significant result.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xgqv27/two_physicists_asked_ai_to_choose_a_problem_on/",
+        "title": "Anyone else see this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xh2ss0/anyone_else_see_this/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-27T12:12:53.000Z",
+        "publishedAt": "2026-10-27T19:51:15.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mmr2ujaa40yh1.png?width=640&crop=smart&auto=webp&s=060a2f0cb5367981a8cbe3c951154b4cb74dadbb"
+        "thumbnail": "https://preview.redd.it/vh1k4a23e2yh1.png?width=320&crop=smart&auto=webp&s=28dd296e52d4515d57e1f4da37fab3feef08d721"
       },
       {
         "rank": 5,
-        "title": "The perfect storm",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xgobdr/the_perfect_storm/",
+        "title": "Real world comparison of Terra 6.1 vs Sol 6.1 vs Sonnet 5.5 vs Luna 6",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xhb1hu/real_world_comparison_of_terra_61_vs_sol_61_vs/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-27T09:56:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/di5e9wwufzxh1.png?width=640&crop=smart&auto=webp&s=c7d54bf65780e3701206635b55cacb5c0f1b5a40"
+        "publishedAt": "2026-10-28T01:30:08.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -113,16 +112,6 @@
       },
       {
         "rank": 2,
-        "title": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-27T08:05:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5alzpbn6wyxh1.jpeg?width=640&crop=smart&auto=webp&s=b227ffb5d11e12a1359660a71d07378b5dbea5de"
-      },
-      {
-        "rank": 3,
         "title": "Genie 4: A new generation of world simulation",
         "url": "https://www.reddit.com/r/singularity/comments/1xgwsjx/genie_4_a_new_generation_of_world_simulation/",
         "source": "r/singularity",
@@ -132,17 +121,17 @@
         "thumbnail": "https://external-preview.redd.it/vZkY-STOIxRq4MkWkRp9vVq5CDFL-S7TilZjBfSEvyE.jpeg?width=320&crop=smart&auto=webp&s=c17a7b239d4ac41b8ed2cb67ef01ee5be4003a8d"
       },
       {
-        "rank": 4,
-        "title": "Two physicists asked AI to choose a problem on its own, solve it and write a paper that could be published in a prestigious journal. In two hours, AI produced a paper with a novel, significant result.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xgo86l/two_physicists_asked_ai_to_choose_a_problem_on/",
+        "rank": 3,
+        "title": "How to stay motivated at work when it may be in 9 -12 months all white collar work is toasted? Countdown to Aug 2027",
+        "url": "https://www.reddit.com/r/singularity/comments/1xhcq3f/how_to_stay_motivated_at_work_when_it_may_be_in_9/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-27T09:50:58.000Z",
+        "publishedAt": "2026-10-28T02:50:24.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z1lnrzlqczxh1.png?width=640&crop=smart&auto=webp&s=af011d1f60362fb87c47428cdc844e0a0a1eef11"
+        "thumbnail": "https://external-preview.redd.it/nqGo_QiM_coesnxrBbQq6yfEoXMEwSFc30RJciDG1OE.jpeg?width=640&crop=smart&auto=webp&s=c73fc77037104e328347beb3c044082162251ec9"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Early progress on accelerating drug development with Claude",
         "url": "https://www.reddit.com/r/singularity/comments/1xh4yqn/early_progress_on_accelerating_drug_development/",
         "source": "r/singularity",
@@ -150,6 +139,16 @@
         "publishedAt": "2026-10-27T21:12:33.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/4SuJSUVYcUc5JRinpCmKuemTYGXvUbadidH_DYCdupA.jpeg?width=640&crop=smart&auto=webp&s=0e2fae57e2a295deffe4ce371537a93a43f45f9c"
+      },
+      {
+        "rank": 5,
+        "title": "Artificial Analysis Intelligence Index v5 released",
+        "url": "https://www.reddit.com/r/singularity/comments/1xhc5kv/artificial_analysis_intelligence_index_v5_released/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-28T02:22:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0enj8gcxb4yh1.jpeg?width=140&height=126&auto=webp&s=106c67534e87d5d57dcb41a86ca2ce2c5a8b6cb5"
       },
       {
         "rank": 1,

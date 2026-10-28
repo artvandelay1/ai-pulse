@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T20:53:47.063Z",
+  "fetchedAt": "2026-10-28T00:21:46.249Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "How to do method research when I feel I have no guidance on doing it? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-27T00:06:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Papers with Code is now open-source [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
         "source": "r/MachineLearning",
@@ -33,12 +24,21 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "What is the value proposition of \"RL environment\" companies? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-27T02:37:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-27T19:20:08.000Z",
         "category": "reddit"
       },
       {
@@ -83,16 +83,6 @@
       },
       {
         "rank": 4,
-        "title": "OpenAI says its AI disproved a core complexity hypothesis and posts the proof",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xgc2qu/openai_says_its_ai_disproved_a_core_complexity/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-26T23:01:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/TL6itdLZXJh4wakAKqmUL1GjTVJ-N1NETgNdbCNsOd8.jpeg?width=640&crop=smart&auto=webp&s=4a782280133e62b4a02fa1185bf71e3ccff556bb"
-      },
-      {
-        "rank": 5,
         "title": "Two physicists asked AI to choose a problem on its own, solve it and write a paper that could be published in a prestigious journal. In two hours, AI produced a paper with a novel, significant result.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xgqv27/two_physicists_asked_ai_to_choose_a_problem_on/",
         "source": "r/OpenAI",
@@ -102,17 +92,17 @@
         "thumbnail": "https://preview.redd.it/mmr2ujaa40yh1.png?width=640&crop=smart&auto=webp&s=060a2f0cb5367981a8cbe3c951154b4cb74dadbb"
       },
       {
-        "rank": 1,
-        "title": "OpenAI says its AI invented a new mathematical technique to solve a 35-year-old mystery about how waves focus, then used the breakthrough to crack several other decades-old problems involving how waves overlap, how signals can be reconstructed, and the geometry of space.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xgaw9b/openai_says_its_ai_invented_a_new_mathematical/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "The perfect storm",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xgobdr/the_perfect_storm/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-26T22:12:44.000Z",
+        "publishedAt": "2026-10-27T09:56:25.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ijM4aU3XsMvZk5dDTM08uiuuPpKQ8AiTXl1gXKc6ACA.png?width=640&crop=smart&auto=webp&s=31a14806549815a96e583ef500c960a1365044f8"
+        "thumbnail": "https://preview.redd.it/di5e9wwufzxh1.png?width=640&crop=smart&auto=webp&s=c7d54bf65780e3701206635b55cacb5c0f1b5a40"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "Claude Opus 5.5 helps developer bring the entire Super Mario 64 into mixed reality, running natively in full 3D at 90 FPS, with the game world appearing right inside his room.",
         "url": "https://www.reddit.com/r/singularity/comments/1xgw6sk/claude_opus_55_helps_developer_bring_the_entire/",
         "source": "r/singularity",
@@ -122,7 +112,7 @@
         "thumbnail": "https://external-preview.redd.it/NjlmcjJ4azA3MXloMZVRRQOCFYY2rYYKvpc1vRpprV0-GaSBH35J4Un0tHW6.png?width=640&crop=smart&auto=webp&s=57b7fa9070f8dcd21627471fcebefdf03ef22d21"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
         "url": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
         "source": "r/singularity",
@@ -132,24 +122,33 @@
         "thumbnail": "https://preview.redd.it/5alzpbn6wyxh1.jpeg?width=640&crop=smart&auto=webp&s=b227ffb5d11e12a1359660a71d07378b5dbea5de"
       },
       {
-        "rank": 4,
-        "title": "OpenAI on the Yang-Mills millenium prize problem",
-        "url": "https://www.reddit.com/r/singularity/comments/1xgalwn/openai_on_the_yangmills_millenium_prize_problem/",
+        "rank": 3,
+        "title": "Genie 4: A new generation of world simulation",
+        "url": "https://www.reddit.com/r/singularity/comments/1xgwsjx/genie_4_a_new_generation_of_world_simulation/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-26T22:00:49.000Z",
+        "publishedAt": "2026-10-27T16:11:58.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vmk0fjs9wvxh1.png?width=640&crop=smart&auto=webp&s=c6d8cd9e21a1a16b838e854e973d5e9efc366a1c"
+        "thumbnail": "https://external-preview.redd.it/vZkY-STOIxRq4MkWkRp9vVq5CDFL-S7TilZjBfSEvyE.jpeg?width=320&crop=smart&auto=webp&s=c17a7b239d4ac41b8ed2cb67ef01ee5be4003a8d"
+      },
+      {
+        "rank": 4,
+        "title": "Microsoft is asking 60,000 employees to leave, 1/3 of the company",
+        "url": "https://www.reddit.com/r/singularity/comments/1xgi9xp/microsoft_is_asking_60000_employees_to_leave_13/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-27T03:45:25.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Scariest Halloween Costume",
-        "url": "https://www.reddit.com/r/singularity/comments/1xg9oqm/scariest_halloween_costume/",
+        "title": "Two physicists asked AI to choose a problem on its own, solve it and write a paper that could be published in a prestigious journal. In two hours, AI produced a paper with a novel, significant result.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xgo86l/two_physicists_asked_ai_to_choose_a_problem_on/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-26T21:24:08.000Z",
+        "publishedAt": "2026-10-27T09:50:58.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/91dy1o0spvxh1.jpeg?width=640&crop=smart&auto=webp&s=42f642dfcea7505ef16412691648b452d0fefd38"
+        "thumbnail": "https://preview.redd.it/z1lnrzlqczxh1.png?width=640&crop=smart&auto=webp&s=af011d1f60362fb87c47428cdc844e0a0a1eef11"
       },
       {
         "rank": 1,

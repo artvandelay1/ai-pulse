@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-10-29T09:41:07.441Z",
+  "fetchedAt": "2026-10-29T16:47:43.313Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Old-school classifiers are still generally better than Jev [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T14:13:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Leaving a job to pursue a PhD [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T09:28:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "any fun casual podcasts? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T01:55:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-28T17:17:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T08:51:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "my AI agents after I give them full access and tell them to be careful",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xilser/my_ai_agents_after_i_give_them_full_access_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T14:38:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cjk2eTE2ajI0ZnloMZRSGm_jFywVT1Ltb6K-kkIi9lH3P4HjrGz8P5-vQk-M.png?width=640&crop=smart&auto=webp&s=1fc0f74a4c24dba59d12f9d1e2af8760076a9c6b"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI now gives ChatGPT Pro and Business subscribers up to $500 a month in API credits",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xifmqv/openai_now_gives_chatgpt_pro_and_business/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T09:53:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/PVYjK381sLluPcDYizKGpIbqXmXUsU5lPBJKvV5pz3o.jpeg?width=640&crop=smart&auto=webp&s=10d34abbfa140571d5d68aab8478a6d6974d0f95"
+      },
+      {
+        "rank": 3,
+        "title": "Ex-Amazon employee dies after ChatGPT allegedly tells her to reduce medication dosage",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xifo3d/examazon_employee_dies_after_chatgpt_allegedly/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T09:55:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI really is dominating the entire Pareto Frontier",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xi8img/openai_really_is_dominating_the_entire_pareto/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T02:51:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/em9zor41mbyh1.png?width=640&crop=smart&auto=webp&s=1581b5a782399f48ed78df47f4a14ec44942d32c"
+      },
+      {
+        "rank": 5,
+        "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xi1g0j/llms_are_significantly_better_at_finding_mistakes/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-28T21:40:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0lu41xbi2ayh1.jpeg?width=640&crop=smart&auto=webp&s=f1e5023787dd471dc48e6ade2f1ccf2c4fa18e8b"
+      },
+      {
+        "rank": 1,
+        "title": "Biotech about to go vertical?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xih8qk/biotech_about_to_go_vertical/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-29T11:21:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tne0x8ny4eyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c76cd21dca3ec526f05a2e2548dbd8725f2c93c0"
+      },
+      {
+        "rank": 2,
+        "title": "Gemini 4 Carbon",
+        "url": "https://www.reddit.com/r/singularity/comments/1xhtwjm/gemini_4_carbon/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-28T17:04:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0b81xu8bp8yh1.jpeg?width=640&crop=smart&auto=webp&s=2c9a584702c7e069430fdb9a2a14474730fcfd43"
+      },
+      {
+        "rank": 3,
+        "title": "Zip it",
+        "url": "https://www.reddit.com/r/singularity/comments/1xi1oid/zip_it/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-28T21:50:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cGU1cGVtdTk0YXloMYeIDv-i3yc6QDMC1qHe9rk6d2tSXyKapf7mYMuUDclI.png?width=320&crop=smart&auto=webp&s=822c80d44134ae1d4aed9cc43fa95bb339384b31"
+      },
+      {
+        "rank": 4,
+        "title": "GPT-6 Astra painted this on a real robot arm, then filmed and edited it, all from one chat",
+        "url": "https://www.reddit.com/r/singularity/comments/1xi0o38/gpt6_astra_painted_this_on_a_real_robot_arm_then/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-28T21:10:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z3Jlc3MyYTN3OXloMQNbq47WgXkAKZMTF00NTAeO5LL4xMuARtE9IqPAEh7z.png?width=640&crop=smart&auto=webp&s=d0d8dc0bd6bf6f155fa4f5501b5a6a8d94d04e7d"
+      },
+      {
+        "rank": 5,
+        "title": "Google is BACK! #1 on Artificial Analysis",
+        "url": "https://www.reddit.com/r/singularity/comments/1xhuuc3/google_is_back_1_on_artificial_analysis/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-28T17:37:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/5934h8yuu8yh1.png?width=320&crop=smart&auto=webp&s=e1062ff12605d0db87a95ef8c857c8255b00af51"
+      },
       {
         "rank": 1,
         "title": "Google introduced Gemini 4 Carbon, allegedly the most frontier model.",
@@ -55,51 +199,6 @@
       },
       {
         "rank": 1,
-        "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-28T13:34:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "any fun casual podcasts? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T01:55:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T08:51:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-28T17:17:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-28T17:52:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "chatgpt chat and work merged",
         "url": "https://www.reddit.com/r/codex/comments/1xi2e86/chatgpt_chat_and_work_merged/",
         "source": "r/codex",
@@ -147,105 +246,6 @@
         "publishedAt": "2026-10-29T01:51:02.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/b8tvmip7bbyh1.jpeg?width=640&crop=smart&auto=webp&s=b6b34b081ee8dbc40c02611d18399fc9c9c4607a"
-      },
-      {
-        "rank": 1,
-        "title": "When will OpenAI change its name to OpenSI?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xh5phe/when_will_openai_change_its_name_to_opensi/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-27T21:41:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rk21mxipx2yh1.jpeg?width=640&crop=smart&auto=webp&s=0a4fe1b79936284f08624d0f1ae8b59207ed6d14"
-      },
-      {
-        "rank": 2,
-        "title": "How big a deal is this? Claude Opus 5.5: \"If these hold up, this is the biggest single day in the history of math and theoretical computer science.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xgyzcg/how_big_a_deal_is_this_claude_opus_55_if_these/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-27T17:30:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j6qp2iz0p1yh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=8873e759bdd601741aa3658102dfea22422d4bd4"
-      },
-      {
-        "rank": 3,
-        "title": "Kinda fucked up",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xhjo1x/kinda_fucked_up/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T09:46:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t83n9n65j6yh1.png?width=640&crop=smart&auto=webp&s=18fab34bf79d45ae390ebf11df2adb7712d18532"
-      },
-      {
-        "rank": 4,
-        "title": "Anyone else see this?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xh2ss0/anyone_else_see_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-27T19:51:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vh1k4a23e2yh1.png?width=320&crop=smart&auto=webp&s=28dd296e52d4515d57e1f4da37fab3feef08d721"
-      },
-      {
-        "rank": 5,
-        "title": "Real world comparison of Terra 6.1 vs Sol 6.1 vs Sonnet 5.5 vs Luna 6",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xhb1hu/real_world_comparison_of_terra_61_vs_sol_61_vs/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T01:30:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Claude Opus 5.5 helps developer bring the entire Super Mario 64 into mixed reality, running natively in full 3D at 90 FPS, with the game world appearing right inside his room.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xgw6sk/claude_opus_55_helps_developer_bring_the_entire/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-27T15:50:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/NjlmcjJ4azA3MXloMZVRRQOCFYY2rYYKvpc1vRpprV0-GaSBH35J4Un0tHW6.png?width=640&crop=smart&auto=webp&s=57b7fa9070f8dcd21627471fcebefdf03ef22d21"
-      },
-      {
-        "rank": 2,
-        "title": "Genie 4: A new generation of world simulation",
-        "url": "https://www.reddit.com/r/singularity/comments/1xgwsjx/genie_4_a_new_generation_of_world_simulation/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-27T16:11:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/vZkY-STOIxRq4MkWkRp9vVq5CDFL-S7TilZjBfSEvyE.jpeg?width=320&crop=smart&auto=webp&s=c17a7b239d4ac41b8ed2cb67ef01ee5be4003a8d"
-      },
-      {
-        "rank": 3,
-        "title": "How to stay motivated at work when it may be in 9 -12 months all white collar work is toasted? Countdown to Aug 2027",
-        "url": "https://www.reddit.com/r/singularity/comments/1xhcq3f/how_to_stay_motivated_at_work_when_it_may_be_in_9/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-28T02:50:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/nqGo_QiM_coesnxrBbQq6yfEoXMEwSFc30RJciDG1OE.jpeg?width=640&crop=smart&auto=webp&s=c73fc77037104e328347beb3c044082162251ec9"
-      },
-      {
-        "rank": 4,
-        "title": "Early progress on accelerating drug development with Claude",
-        "url": "https://www.reddit.com/r/singularity/comments/1xh4yqn/early_progress_on_accelerating_drug_development/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-27T21:12:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/4SuJSUVYcUc5JRinpCmKuemTYGXvUbadidH_DYCdupA.jpeg?width=640&crop=smart&auto=webp&s=0e2fae57e2a295deffe4ce371537a93a43f45f9c"
-      },
-      {
-        "rank": 5,
-        "title": "Artificial Analysis Intelligence Index v5 released",
-        "url": "https://www.reddit.com/r/singularity/comments/1xhc5kv/artificial_analysis_intelligence_index_v5_released/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-28T02:22:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0enj8gcxb4yh1.jpeg?width=140&height=126&auto=webp&s=106c67534e87d5d57dcb41a86ca2ce2c5a8b6cb5"
       }
     ]
   }

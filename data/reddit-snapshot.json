@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T23:27:11.124Z",
+  "fetchedAt": "2026-10-29T02:44:11.753Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -36,15 +36,6 @@
       },
       {
         "rank": 4,
-        "title": "PSA for vibe coders: stop prompting tweaks, make Claude build you a remote control",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xha250/psa_for_vibe_coders_stop_prompting_tweaks_make/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T00:44:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "I got Claude Opus 5.5 to render photoreal Blender scenes — it took 3 failed attempts per scene, here’s what actually fixed them",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhi21l/i_got_claude_opus_55_to_render_photoreal_blender/",
         "source": "r/ClaudeAI",
@@ -52,6 +43,16 @@
         "publishedAt": "2026-10-28T08:02:47.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/d96qnbbm06yh1.jpeg?width=140&height=78&auto=webp&s=2bfd7c83d3611b38f333fa3201928d9956910270"
+      },
+      {
+        "rank": 5,
+        "title": "Ex-OpenAI researcher: \"anthropic is massively underplaying the recent security breach. i'm hearing cathedral achieved full administrator access of the slack (see every message) where literally every single research secret is contained\"",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhsy44/exopenai_researcher_anthropic_is_massively/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-28T16:30:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2sd0c8v6j8yh1.png?width=640&crop=smart&auto=webp&s=11f7e12a102de4ef218ce7a6e26ce8d7aaca1e90"
       },
       {
         "rank": 1,
@@ -64,11 +65,11 @@
       },
       {
         "rank": 2,
-        "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+        "title": "any fun casual podcasts? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-28T17:52:10.000Z",
+        "publishedAt": "2026-10-29T01:55:38.000Z",
         "category": "reddit"
       },
       {
@@ -82,22 +83,21 @@
       },
       {
         "rank": 4,
+        "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-28T17:52:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-28T14:30:25.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-28T10:41:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yvlvz5hws6yh1.jpeg?width=640&crop=smart&auto=webp&s=0a8b1661ea4f8d369e3fa41743498712fe389b45"
       },
       {
         "rank": 1,
@@ -141,13 +141,13 @@
       },
       {
         "rank": 5,
-        "title": "Day 23 reset has landed!",
-        "url": "https://www.reddit.com/r/codex/comments/1xhgnnp/day_23_reset_has_landed/",
+        "title": "I gave Terra 6.1 a try...",
+        "url": "https://www.reddit.com/r/codex/comments/1xhz6z1/i_gave_terra_61_a_try/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-28T06:31:42.000Z",
+        "publishedAt": "2026-10-28T20:14:17.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/40fib2odk5yh1.jpeg?width=640&crop=smart&auto=webp&s=4018224fa6860600ab07e3f9708025a41ae13af4"
+        "thumbnail": "https://preview.redd.it/vpdmo7yzm9yh1.png?width=640&crop=smart&auto=webp&s=7df34e31da45c42671956d4a85ef53c7fc60d6e8"
       },
       {
         "rank": 1,

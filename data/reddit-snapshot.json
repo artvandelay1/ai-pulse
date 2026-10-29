@@ -1,10 +1,60 @@
 {
-  "fetchedAt": "2026-10-29T16:47:43.313Z",
+  "fetchedAt": "2026-10-29T21:42:15.640Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Meet Claude's standards... or else.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiixew/meet_claudes_standards_or_else/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T12:43:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vztcl9tjjeyh1.png?width=640&crop=smart&auto=webp&s=36a253c2946821a534e8c2946f6a8cfb50e98a47"
+      },
+      {
+        "rank": 2,
+        "title": "We used Claude to get a full PS2 emulator running in a browser tab: TabStationToo",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T10:52:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MTU1OGwzdWh6ZHloMVQcmCS5mMpHTnm2bhAD8W90KwX25in2Oims4u9df0Xa.png?width=640&crop=smart&auto=webp&s=15dad6678e5cade5ce8fb41318b99243ac9b82c7"
+      },
+      {
+        "rank": 3,
+        "title": "👍",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xid1o2/_/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T07:08:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rlrniowuvcyh1.jpeg?width=640&crop=smart&auto=webp&s=23a4c2466f4e0ac6135256899882fb9f4ea100af"
+      },
+      {
+        "rank": 4,
+        "title": "My 6 year old daughter designed a fully-fledged unicorn game and Claude Sonnet built it in under a month. Every sprite, sound and map is made from scratch",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/my_6_year_old_daughter_designed_a_fullyfledged/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T14:00:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Y2J2bWQycTR4ZXloMbD0kS42mAwDl_pNQQrBbueELQMTqUxAQsIW8ewSWfg7.png?width=640&crop=smart&auto=webp&s=2a2c4c8defc253fd755491d2d82e8a5fb37590d7"
+      },
+      {
+        "rank": 5,
+        "title": "Claude helped me unbrick my friend's Pixel 10 without losing any data (Opus 5.5, Claude Code)",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin15e/claude_helped_me_unbrick_my_friends_pixel_10/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T15:25:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sct59ipdcfyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=b42cde95a7fabaf70c52b575b88ce3bc5da3f581"
+      },
       {
         "rank": 1,
         "title": "Old-school classifiers are still generally better than Jev [P]",
@@ -34,21 +84,70 @@
       },
       {
         "rank": 4,
-        "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-28T17:17:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-10-29T08:51:23.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T17:53:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.",
+        "url": "https://www.reddit.com/r/codex/comments/1xipj7s/day_25_we_are_doubling_all_usage_limits_for_all/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T16:56:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/lp2hrw3ssfyh1.png?width=320&crop=smart&auto=webp&s=dd5041e71f35a5cd5db226211bfc334f7c085a77"
+      },
+      {
+        "rank": 2,
+        "title": "chatgpt chat and work merged",
+        "url": "https://www.reddit.com/r/codex/comments/1xi2e86/chatgpt_chat_and_work_merged/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-28T22:18:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kiw3egyx8ayh1.jpeg?width=640&crop=smart&auto=webp&s=8a4ed428bb8bc6218e9b5a40c52c6180698a956e"
+      },
+      {
+        "rank": 3,
+        "title": "Don't Review Agent Code. Interrogate It.",
+        "url": "https://www.reddit.com/r/codex/comments/1xic8ut/dont_review_agent_code_interrogate_it/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T06:18:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "We'll see, I sure hope so",
+        "url": "https://www.reddit.com/r/codex/comments/1xiq3er/well_see_i_sure_hope_so/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T17:16:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mmpmprmbwfyh1.png?width=320&crop=smart&auto=webp&s=0347dc56ab5d8be37e0b4834ea5444003dcdcf41"
+      },
+      {
+        "rank": 5,
+        "title": "Sooooooooo… reset?",
+        "url": "https://www.reddit.com/r/codex/comments/1xi4u9p/sooooooooo_reset/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T00:00:49.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qonp5fwjrayh1.jpeg?width=640&crop=smart&auto=webp&s=9231c5a579ef18a4305b9e4246fafda726cfa7bb"
       },
       {
         "rank": 1,
@@ -148,104 +247,6 @@
         "publishedAt": "2026-10-28T17:37:27.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/5934h8yuu8yh1.png?width=320&crop=smart&auto=webp&s=e1062ff12605d0db87a95ef8c857c8255b00af51"
-      },
-      {
-        "rank": 1,
-        "title": "Google introduced Gemini 4 Carbon, allegedly the most frontier model.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhu9ez/google_introduced_gemini_4_carbon_allegedly_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T17:17:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ylm2yy5gr8yh1.jpeg?width=640&crop=smart&auto=webp&s=6c949ee85918c309e7cba8ad51c001412f2ce10f"
-      },
-      {
-        "rank": 2,
-        "title": "It happened, my project manager just made a PR with Claude.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhl5cb/it_happened_my_project_manager_just_made_a_pr/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T11:10:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Is Claude Pro actually worth it, or is the free plan enough? (As a student on a tight budget)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhp4o7/is_claude_pro_actually_worth_it_or_is_the_free/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T14:10:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8nwhqtf6u7yh1.jpeg?width=320&crop=smart&auto=webp&s=ebed3431c987ac45ef4d40aad5be4ca2af1db96e"
-      },
-      {
-        "rank": 4,
-        "title": "PSA: REA taught Claude how to read binaries. Now let it touch the live process",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xi0lyr/psa_rea_taught_claude_how_to_read_binaries_now/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T21:08:09.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Ex-OpenAI researcher: \"anthropic is massively underplaying the recent security breach. i'm hearing cathedral achieved full administrator access of the slack (see every message) where literally every single research secret is contained\"",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xhsy44/exopenai_researcher_anthropic_is_massively/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T16:30:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2sd0c8v6j8yh1.png?width=640&crop=smart&auto=webp&s=11f7e12a102de4ef218ce7a6e26ce8d7aaca1e90"
-      },
-      {
-        "rank": 1,
-        "title": "chatgpt chat and work merged",
-        "url": "https://www.reddit.com/r/codex/comments/1xi2e86/chatgpt_chat_and_work_merged/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-28T22:18:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kiw3egyx8ayh1.jpeg?width=640&crop=smart&auto=webp&s=8a4ed428bb8bc6218e9b5a40c52c6180698a956e"
-      },
-      {
-        "rank": 2,
-        "title": "I built a fairly complex PCB using GPT/Codex, got it manufactured, and it actually works.",
-        "url": "https://www.reddit.com/r/codex/comments/1xhq8m6/i_built_a_fairly_complex_pcb_using_gptcodex_got/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-28T14:53:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/sqQ1nuZz-sahjHQCmUf7-bC79F_Sm3eUpdah06bKdvU.jpeg?width=640&crop=smart&auto=webp&s=d31d1832da0803f47a855266230121cc83016522"
-      },
-      {
-        "rank": 3,
-        "title": "Sooooooooo… reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1xi4u9p/sooooooooo_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-29T00:00:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qonp5fwjrayh1.jpeg?width=640&crop=smart&auto=webp&s=9231c5a579ef18a4305b9e4246fafda726cfa7bb"
-      },
-      {
-        "rank": 4,
-        "title": "I gave Terra 6.1 a try...",
-        "url": "https://www.reddit.com/r/codex/comments/1xhz6z1/i_gave_terra_61_a_try/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-28T20:14:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vpdmo7yzm9yh1.png?width=640&crop=smart&auto=webp&s=7df34e31da45c42671956d4a85ef53c7fc60d6e8"
-      },
-      {
-        "rank": 5,
-        "title": "Day 24 - You can text your Dot now",
-        "url": "https://www.reddit.com/r/codex/comments/1xi79fa/day_24_you_can_text_your_dot_now/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-29T01:51:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b8tvmip7bbyh1.jpeg?width=640&crop=smart&auto=webp&s=b6b34b081ee8dbc40c02611d18399fc9c9c4607a"
       }
     ]
   }

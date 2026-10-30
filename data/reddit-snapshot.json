@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-10-30T15:14:46.257Z",
+  "fetchedAt": "2026-10-30T20:03:06.952Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Using Claude to put all Global Law into Git",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiz1vy/using_claude_to_put_all_global_law_into_git/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T23:00:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/0KXT1DX6IZ2xf5yZo2X4_kgb4KNwgGgYqks_zFGkogw.png?width=640&crop=smart&auto=webp&s=065e977353a755d10647cc09871e3493d3566f49"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic renames Max5 and Max20 and removes 5h limits for Max20",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T17:34:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vw14lxtg4nyh1.png?width=640&crop=smart&auto=webp&s=eeeda2c7b9302687896f0ed1b4b6eb2f547a1352"
+      },
+      {
+        "rank": 3,
+        "title": "AI agents (run by Claude Sonnet 5) did brain surgery on a mouse [Spoilers: it recovered]",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xixhv8/ai_agents_run_by_claude_sonnet_5_did_brain/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T21:56:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/d2t44jf7ahyh1.jpeg?width=640&crop=smart&auto=webp&s=5018d852a85c7b3bf1fc115956321f05e357b13f"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic gave 50 analysts Claude Code with a hidden coin-flip bias. They followed the agent’s lean 86% of the time",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj3qdv/anthropic_gave_50_analysts_claude_code_with_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T02:35:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Working on a real-time 3D Pokémon battle game. The demo is free and open source",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xja4vw/working_on_a_realtime_3d_pokémon_battle_game_the/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T08:51:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/emNib2wxZnhpa3loMY5PQC5qglYxFkYjYPTVQBqfr46VzUhIBqjm9tpDub3C.png?width=640&crop=smart&auto=webp&s=546b858d2957146b25e24dc5428bd975edca6581"
+      },
       {
         "rank": 1,
         "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
@@ -25,11 +74,11 @@
       },
       {
         "rank": 3,
-        "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
+        "title": "Advice on dealing with Cold Start forecasting [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-29T17:53:52.000Z",
+        "publishedAt": "2026-10-30T17:56:26.000Z",
         "category": "reddit"
       },
       {
@@ -50,6 +99,54 @@
         "publishedAt": "2026-10-30T06:59:57.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/o08elco8zjyh1.jpeg?width=320&crop=smart&auto=webp&s=b5138d1b0b3c64d4d9e16aef795efb1a3c60eaed"
+      },
+      {
+        "rank": 1,
+        "title": "Unified limits are coming in december",
+        "url": "https://www.reddit.com/r/codex/comments/1xiy74i/unified_limits_are_coming_in_december/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T22:24:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t0j5wj19fhyh1.jpeg?width=640&crop=smart&auto=webp&s=145d8b8c60c384e6012e6f877a70390dc6ec8ee0"
+      },
+      {
+        "rank": 2,
+        "title": "Oh well..",
+        "url": "https://www.reddit.com/r/codex/comments/1xiz71x/oh_well/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T23:06:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o9mcflirmhyh1.jpeg?width=640&crop=smart&auto=webp&s=88f319c4bf06d26bc316c4d07b3ccc76531a236f"
+      },
+      {
+        "rank": 3,
+        "title": "Possible GPT-6.2 internal model reference: “gpt-6.2-betelgeuse” — unverified",
+        "url": "https://www.reddit.com/r/codex/comments/1xj13uj/possible_gpt62_internal_model_reference/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-30T00:29:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7die3ilk1iyh1.jpeg?width=640&crop=smart&auto=webp&s=61ba9c1a0bcc84a55f7e761ce274d897d37e191d"
+      },
+      {
+        "rank": 4,
+        "title": "Limit Clarification",
+        "url": "https://www.reddit.com/r/codex/comments/1xixihf/limit_clarification/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T21:57:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Usage limits being doubled. Well, In Türkiye, we tell this funny little story in situations like this. I'm curious if a similar story exists in other cultures also if it is really funny for a non-turkish...",
+        "url": "https://www.reddit.com/r/codex/comments/1xiwv1r/usage_limits_being_doubled_well_in_türkiye_we/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-29T21:30:57.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -150,105 +247,6 @@
         "publishedAt": "2026-10-30T02:57:01.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/juegvxsuriyh1.png?width=640&crop=smart&auto=webp&s=a8fd7ade21b85f1e682d065c5c2b242c788d65f6"
-      },
-      {
-        "rank": 1,
-        "title": "Meet Claude's standards... or else.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiixew/meet_claudes_standards_or_else/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T12:43:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vztcl9tjjeyh1.png?width=640&crop=smart&auto=webp&s=36a253c2946821a534e8c2946f6a8cfb50e98a47"
-      },
-      {
-        "rank": 2,
-        "title": "We used Claude to get a full PS2 emulator running in a browser tab: TabStationToo",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T10:52:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MTU1OGwzdWh6ZHloMVQcmCS5mMpHTnm2bhAD8W90KwX25in2Oims4u9df0Xa.png?width=640&crop=smart&auto=webp&s=15dad6678e5cade5ce8fb41318b99243ac9b82c7"
-      },
-      {
-        "rank": 3,
-        "title": "👍",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xid1o2/_/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T07:08:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rlrniowuvcyh1.jpeg?width=640&crop=smart&auto=webp&s=23a4c2466f4e0ac6135256899882fb9f4ea100af"
-      },
-      {
-        "rank": 4,
-        "title": "My 6 year old daughter designed a fully-fledged unicorn game and Claude Sonnet built it in under a month. Every sprite, sound and map is made from scratch",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiks9w/my_6_year_old_daughter_designed_a_fullyfledged/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T14:00:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Y2J2bWQycTR4ZXloMbD0kS42mAwDl_pNQQrBbueELQMTqUxAQsIW8ewSWfg7.png?width=640&crop=smart&auto=webp&s=2a2c4c8defc253fd755491d2d82e8a5fb37590d7"
-      },
-      {
-        "rank": 5,
-        "title": "Claude helped me unbrick my friend's Pixel 10 without losing any data (Opus 5.5, Claude Code)",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin15e/claude_helped_me_unbrick_my_friends_pixel_10/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T15:25:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sct59ipdcfyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=b42cde95a7fabaf70c52b575b88ce3bc5da3f581"
-      },
-      {
-        "rank": 1,
-        "title": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.",
-        "url": "https://www.reddit.com/r/codex/comments/1xipj7s/day_25_we_are_doubling_all_usage_limits_for_all/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-29T16:56:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/lp2hrw3ssfyh1.png?width=320&crop=smart&auto=webp&s=dd5041e71f35a5cd5db226211bfc334f7c085a77"
-      },
-      {
-        "rank": 2,
-        "title": "chatgpt chat and work merged",
-        "url": "https://www.reddit.com/r/codex/comments/1xi2e86/chatgpt_chat_and_work_merged/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-28T22:18:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kiw3egyx8ayh1.jpeg?width=640&crop=smart&auto=webp&s=8a4ed428bb8bc6218e9b5a40c52c6180698a956e"
-      },
-      {
-        "rank": 3,
-        "title": "Don't Review Agent Code. Interrogate It.",
-        "url": "https://www.reddit.com/r/codex/comments/1xic8ut/dont_review_agent_code_interrogate_it/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-29T06:18:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "We'll see, I sure hope so",
-        "url": "https://www.reddit.com/r/codex/comments/1xiq3er/well_see_i_sure_hope_so/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-29T17:16:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mmpmprmbwfyh1.png?width=320&crop=smart&auto=webp&s=0347dc56ab5d8be37e0b4834ea5444003dcdcf41"
-      },
-      {
-        "rank": 5,
-        "title": "Sooooooooo… reset?",
-        "url": "https://www.reddit.com/r/codex/comments/1xi4u9p/sooooooooo_reset/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-29T00:00:49.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qonp5fwjrayh1.jpeg?width=640&crop=smart&auto=webp&s=9231c5a579ef18a4305b9e4246fafda726cfa7bb"
       }
     ]
   }

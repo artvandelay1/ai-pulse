@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T08:22:41.445Z",
+  "fetchedAt": "2026-10-30T15:14:46.257Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,24 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Old-school classifiers are still generally better than Jev [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T14:13:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Leaving a job to pursue a PhD [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T09:28:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
         "source": "r/MachineLearning",
@@ -33,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
         "source": "r/MachineLearning",
@@ -42,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
         "source": "r/MachineLearning",
@@ -51,36 +33,36 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "my AI agents after I give them full access and tell them to be careful",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xilser/my_ai_agents_after_i_give_them_full_access_and/",
-        "source": "r/OpenAI",
+        "rank": 4,
+        "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-29T14:38:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cjk2eTE2ajI0ZnloMZRSGm_jFywVT1Ltb6K-kkIi9lH3P4HjrGz8P5-vQk-M.png?width=640&crop=smart&auto=webp&s=1fc0f74a4c24dba59d12f9d1e2af8760076a9c6b"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI now gives ChatGPT Pro and Business subscribers up to $500 a month in API credits",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xifmqv/openai_now_gives_chatgpt_pro_and_business/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T09:53:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/PVYjK381sLluPcDYizKGpIbqXmXUsU5lPBJKvV5pz3o.jpeg?width=640&crop=smart&auto=webp&s=10d34abbfa140571d5d68aab8478a6d6974d0f95"
-      },
-      {
-        "rank": 3,
-        "title": "Ex-Amazon employee dies after ChatGPT allegedly tells her to reduce medication dosage",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xifo3d/examazon_employee_dies_after_chatgpt_allegedly/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T09:55:58.000Z",
+        "publishedAt": "2026-10-29T20:46:25.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "title": "What would you require before calling an inference change “quality-neutral”? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-30T06:59:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o08elco8zjyh1.jpeg?width=320&crop=smart&auto=webp&s=b5138d1b0b3c64d4d9e16aef795efb1a3c60eaed"
+      },
+      {
+        "rank": 1,
+        "title": "What if everything leaked? Every photo, every text",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xjd83r/what_if_everything_leaked_every_photo_every_text/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T11:50:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/M3B1dG5ocTBmbHloMYsB9h30dLUhqp2Mvch01t_5NJMyrAd4biEeQGC0XRZG.png?width=320&crop=smart&auto=webp&s=7062de3916307ef35b188598014ea7d669a40dcb"
+      },
+      {
+        "rank": 2,
         "title": "Usage doubled!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xipr8d/usage_doubled/",
         "source": "r/OpenAI",
@@ -90,7 +72,17 @@
         "thumbnail": "https://preview.redd.it/b5um1j35ufyh1.png?width=640&crop=smart&auto=webp&s=ab52e99050672c638f30cae1375c5ad6e9926372"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "title": "GPT 6.2 Bel ?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xj5rhg/gpt_62_bel/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T04:19:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j727v96l6jyh1.png?width=640&crop=smart&auto=webp&s=fe2fa1bbf186f1c2f69283b6fe72b60a477b0a47"
+      },
+      {
+        "rank": 4,
         "title": "Sources identify OpenAI's reported Bel as GPT-6.2 Betelgeuse",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xizikk/sources_identify_openais_reported_bel_as_gpt62/",
         "source": "r/OpenAI",
@@ -100,17 +92,17 @@
         "thumbnail": "https://external-preview.redd.it/h4JL2aiZS4JHnwc0az6ifSecw1vgv-D0qxtsO61Xm3o.jpeg?width=640&crop=smart&auto=webp&s=89db22d29ab0600e3509325b8e47279919815378"
       },
       {
-        "rank": 1,
-        "title": "Biotech about to go vertical?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xih8qk/biotech_about_to_go_vertical/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "So we Plus users are sidelined?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xit1qw/so_we_plus_users_are_sidelined/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-29T11:21:21.000Z",
+        "publishedAt": "2026-10-29T19:06:09.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tne0x8ny4eyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c76cd21dca3ec526f05a2e2548dbd8725f2c93c0"
+        "thumbnail": "https://preview.redd.it/0lxb8l1wfgyh1.jpeg?width=640&crop=smart&auto=webp&s=f66206f3b4036c3d1a0cdf5ec380b6247c8c8bd2"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "\"$10+ millions of compute on Navier-Stokes. $100+ millions on other discoveries including much more than what we have published\"",
         "url": "https://www.reddit.com/r/singularity/comments/1ximxhx/10_millions_of_compute_on_navierstokes_100/",
         "source": "r/singularity",
@@ -120,7 +112,7 @@
         "thumbnail": "https://external-preview.redd.it/ZGU4dXo3c2tiZnloMSjtBdDT5LcEKbMsMyIso9lIvaSZV8q0DsnBsKAHryk6.png?width=640&crop=smart&auto=webp&s=8c7008b2a0c809bc371c640842d4ddab47f61c2c"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "AI supercomputer up for sale on eBay",
         "url": "https://www.reddit.com/r/singularity/comments/1xin9cx/ai_supercomputer_up_for_sale_on_ebay/",
         "source": "r/singularity",
@@ -128,6 +120,16 @@
         "publishedAt": "2026-10-29T15:33:50.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/du2qajd0efyh1.jpeg?width=640&crop=smart&auto=webp&s=63e3ad61fdbff1766acd8937af56db22c86be5c4"
+      },
+      {
+        "rank": 3,
+        "title": "dgaf?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjanx9/dgaf/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T09:24:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t9zriva2pkyh1.png?width=640&crop=smart&auto=webp&s=5979c530b54e7069d0955550f6a15fca3ac1a6b8"
       },
       {
         "rank": 4,
@@ -141,13 +143,13 @@
       },
       {
         "rank": 5,
-        "title": "\"People threw hardest research problems from their academic career. The model was just knocking out one after the other. Many different fields.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xin6ik/people_threw_hardest_research_problems_from_their/",
+        "title": "Which lab is going to be the first one to do it?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xj462p/which_lab_is_going_to_be_the_first_one_to_do_it/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-29T15:30:50.000Z",
+        "publishedAt": "2026-10-30T02:57:01.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YjRmZ2pkaGVkZnloMaxiVoct1JIhkbL_H6IHnlUqgCTK2OUYqDXCNpHg1cJZ.png?width=640&crop=smart&auto=webp&s=a6083c6eceeb3ade156705bf45c67ceb1a904223"
+        "thumbnail": "https://preview.redd.it/juegvxsuriyh1.png?width=640&crop=smart&auto=webp&s=a8fd7ade21b85f1e682d065c5c2b242c788d65f6"
       },
       {
         "rank": 1,

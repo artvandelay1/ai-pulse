@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T01:45:44.584Z",
+  "fetchedAt": "2026-10-30T08:22:41.445Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,11 +25,11 @@
       },
       {
         "rank": 3,
-        "title": "any fun casual podcasts? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+        "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-29T01:55:38.000Z",
+        "publishedAt": "2026-10-30T07:25:23.000Z",
         "category": "reddit"
       },
       {
@@ -43,11 +43,11 @@
       },
       {
         "rank": 5,
-        "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+        "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-29T08:51:23.000Z",
+        "publishedAt": "2026-10-29T17:53:52.000Z",
         "category": "reddit"
       },
       {
@@ -91,13 +91,13 @@
       },
       {
         "rank": 5,
-        "title": "OpenAI really is dominating the entire Pareto Frontier",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xi8img/openai_really_is_dominating_the_entire_pareto/",
+        "title": "Sources identify OpenAI's reported Bel as GPT-6.2 Betelgeuse",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xizikk/sources_identify_openais_reported_bel_as_gpt62/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-29T02:51:53.000Z",
+        "publishedAt": "2026-10-29T23:19:58.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/em9zor41mbyh1.png?width=640&crop=smart&auto=webp&s=1581b5a782399f48ed78df47f4a14ec44942d32c"
+        "thumbnail": "https://external-preview.redd.it/h4JL2aiZS4JHnwc0az6ifSecw1vgv-D0qxtsO61Xm3o.jpeg?width=640&crop=smart&auto=webp&s=89db22d29ab0600e3509325b8e47279919815378"
       },
       {
         "rank": 1,
@@ -131,16 +131,6 @@
       },
       {
         "rank": 4,
-        "title": "Surely it'll work this time",
-        "url": "https://www.reddit.com/r/singularity/comments/1xibrq4/surely_itll_work_this_time/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-29T05:49:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ogta9xyhhcyh1.png?width=640&crop=smart&auto=webp&s=3b3177d9ee3f7c65de2b9d7f25d59105fe9e72a2"
-      },
-      {
-        "rank": 5,
         "title": "Sam Altman reveals OpenAI barely understood how to scale AI agent swarms even as they tackled some of mathematics' hardest problems. He expects major progress in swarm coordination within 3 months and believes the same approach could automate AI research itself.",
         "url": "https://www.reddit.com/r/singularity/comments/1xiwplq/sam_altman_reveals_openai_barely_understood_how/",
         "source": "r/singularity",
@@ -148,6 +138,16 @@
         "publishedAt": "2026-10-29T21:24:59.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/gf43q2un4hyh1.jpeg?width=640&crop=smart&auto=webp&s=d2682e7c4f37a7bec81f6a462776b81453108fde"
+      },
+      {
+        "rank": 5,
+        "title": "\"People threw hardest research problems from their academic career. The model was just knocking out one after the other. Many different fields.\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1xin6ik/people_threw_hardest_research_problems_from_their/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-29T15:30:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YjRmZ2pkaGVkZnloMaxiVoct1JIhkbL_H6IHnlUqgCTK2OUYqDXCNpHg1cJZ.png?width=640&crop=smart&auto=webp&s=a6083c6eceeb3ade156705bf45c67ceb1a904223"
       },
       {
         "rank": 1,

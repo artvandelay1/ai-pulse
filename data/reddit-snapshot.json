@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-10-29T21:42:15.640Z",
+  "fetchedAt": "2026-10-30T01:45:44.584Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Old-school classifiers are still generally better than Jev [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T14:13:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Leaving a job to pursue a PhD [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T09:28:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "any fun casual podcasts? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T01:55:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T22:51:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-29T08:51:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "my AI agents after I give them full access and tell them to be careful",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xilser/my_ai_agents_after_i_give_them_full_access_and/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T14:38:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cjk2eTE2ajI0ZnloMZRSGm_jFywVT1Ltb6K-kkIi9lH3P4HjrGz8P5-vQk-M.png?width=640&crop=smart&auto=webp&s=1fc0f74a4c24dba59d12f9d1e2af8760076a9c6b"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI now gives ChatGPT Pro and Business subscribers up to $500 a month in API credits",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xifmqv/openai_now_gives_chatgpt_pro_and_business/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T09:53:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/PVYjK381sLluPcDYizKGpIbqXmXUsU5lPBJKvV5pz3o.jpeg?width=640&crop=smart&auto=webp&s=10d34abbfa140571d5d68aab8478a6d6974d0f95"
+      },
+      {
+        "rank": 3,
+        "title": "Ex-Amazon employee dies after ChatGPT allegedly tells her to reduce medication dosage",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xifo3d/examazon_employee_dies_after_chatgpt_allegedly/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T09:55:58.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Usage doubled!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xipr8d/usage_doubled/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T17:04:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b5um1j35ufyh1.png?width=640&crop=smart&auto=webp&s=ab52e99050672c638f30cae1375c5ad6e9926372"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI really is dominating the entire Pareto Frontier",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xi8img/openai_really_is_dominating_the_entire_pareto/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-29T02:51:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/em9zor41mbyh1.png?width=640&crop=smart&auto=webp&s=1581b5a782399f48ed78df47f4a14ec44942d32c"
+      },
+      {
+        "rank": 1,
+        "title": "Biotech about to go vertical?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xih8qk/biotech_about_to_go_vertical/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-29T11:21:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tne0x8ny4eyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c76cd21dca3ec526f05a2e2548dbd8725f2c93c0"
+      },
+      {
+        "rank": 2,
+        "title": "\"$10+ millions of compute on Navier-Stokes. $100+ millions on other discoveries including much more than what we have published\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1ximxhx/10_millions_of_compute_on_navierstokes_100/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-29T15:21:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZGU4dXo3c2tiZnloMSjtBdDT5LcEKbMsMyIso9lIvaSZV8q0DsnBsKAHryk6.png?width=640&crop=smart&auto=webp&s=8c7008b2a0c809bc371c640842d4ddab47f61c2c"
+      },
+      {
+        "rank": 3,
+        "title": "AI supercomputer up for sale on eBay",
+        "url": "https://www.reddit.com/r/singularity/comments/1xin9cx/ai_supercomputer_up_for_sale_on_ebay/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-29T15:33:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/du2qajd0efyh1.jpeg?width=640&crop=smart&auto=webp&s=63e3ad61fdbff1766acd8937af56db22c86be5c4"
+      },
+      {
+        "rank": 4,
+        "title": "Surely it'll work this time",
+        "url": "https://www.reddit.com/r/singularity/comments/1xibrq4/surely_itll_work_this_time/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-29T05:49:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ogta9xyhhcyh1.png?width=640&crop=smart&auto=webp&s=3b3177d9ee3f7c65de2b9d7f25d59105fe9e72a2"
+      },
+      {
+        "rank": 5,
+        "title": "Sam Altman reveals OpenAI barely understood how to scale AI agent swarms even as they tackled some of mathematics' hardest problems. He expects major progress in swarm coordination within 3 months and believes the same approach could automate AI research itself.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xiwplq/sam_altman_reveals_openai_barely_understood_how/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-29T21:24:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gf43q2un4hyh1.jpeg?width=640&crop=smart&auto=webp&s=d2682e7c4f37a7bec81f6a462776b81453108fde"
+      },
       {
         "rank": 1,
         "title": "Meet Claude's standards... or else.",
@@ -57,51 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Old-school classifiers are still generally better than Jev [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T14:13:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Leaving a job to pursue a PhD [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T09:28:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "any fun casual podcasts? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T01:55:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T08:51:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-29T17:53:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.",
         "url": "https://www.reddit.com/r/codex/comments/1xipj7s/day_25_we_are_doubling_all_usage_limits_for_all/",
         "source": "r/codex",
@@ -148,105 +247,6 @@
         "publishedAt": "2026-10-29T00:00:49.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/qonp5fwjrayh1.jpeg?width=640&crop=smart&auto=webp&s=9231c5a579ef18a4305b9e4246fafda726cfa7bb"
-      },
-      {
-        "rank": 1,
-        "title": "my AI agents after I give them full access and tell them to be careful",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xilser/my_ai_agents_after_i_give_them_full_access_and/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T14:38:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cjk2eTE2ajI0ZnloMZRSGm_jFywVT1Ltb6K-kkIi9lH3P4HjrGz8P5-vQk-M.png?width=640&crop=smart&auto=webp&s=1fc0f74a4c24dba59d12f9d1e2af8760076a9c6b"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI now gives ChatGPT Pro and Business subscribers up to $500 a month in API credits",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xifmqv/openai_now_gives_chatgpt_pro_and_business/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T09:53:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/PVYjK381sLluPcDYizKGpIbqXmXUsU5lPBJKvV5pz3o.jpeg?width=640&crop=smart&auto=webp&s=10d34abbfa140571d5d68aab8478a6d6974d0f95"
-      },
-      {
-        "rank": 3,
-        "title": "Ex-Amazon employee dies after ChatGPT allegedly tells her to reduce medication dosage",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xifo3d/examazon_employee_dies_after_chatgpt_allegedly/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T09:55:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI really is dominating the entire Pareto Frontier",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xi8img/openai_really_is_dominating_the_entire_pareto/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T02:51:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/em9zor41mbyh1.png?width=640&crop=smart&auto=webp&s=1581b5a782399f48ed78df47f4a14ec44942d32c"
-      },
-      {
-        "rank": 5,
-        "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xi1g0j/llms_are_significantly_better_at_finding_mistakes/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-28T21:40:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0lu41xbi2ayh1.jpeg?width=640&crop=smart&auto=webp&s=f1e5023787dd471dc48e6ade2f1ccf2c4fa18e8b"
-      },
-      {
-        "rank": 1,
-        "title": "Biotech about to go vertical?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xih8qk/biotech_about_to_go_vertical/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-29T11:21:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tne0x8ny4eyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c76cd21dca3ec526f05a2e2548dbd8725f2c93c0"
-      },
-      {
-        "rank": 2,
-        "title": "Gemini 4 Carbon",
-        "url": "https://www.reddit.com/r/singularity/comments/1xhtwjm/gemini_4_carbon/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-28T17:04:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0b81xu8bp8yh1.jpeg?width=640&crop=smart&auto=webp&s=2c9a584702c7e069430fdb9a2a14474730fcfd43"
-      },
-      {
-        "rank": 3,
-        "title": "Zip it",
-        "url": "https://www.reddit.com/r/singularity/comments/1xi1oid/zip_it/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-28T21:50:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cGU1cGVtdTk0YXloMYeIDv-i3yc6QDMC1qHe9rk6d2tSXyKapf7mYMuUDclI.png?width=320&crop=smart&auto=webp&s=822c80d44134ae1d4aed9cc43fa95bb339384b31"
-      },
-      {
-        "rank": 4,
-        "title": "GPT-6 Astra painted this on a real robot arm, then filmed and edited it, all from one chat",
-        "url": "https://www.reddit.com/r/singularity/comments/1xi0o38/gpt6_astra_painted_this_on_a_real_robot_arm_then/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-28T21:10:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z3Jlc3MyYTN3OXloMQNbq47WgXkAKZMTF00NTAeO5LL4xMuARtE9IqPAEh7z.png?width=640&crop=smart&auto=webp&s=d0d8dc0bd6bf6f155fa4f5501b5a6a8d94d04e7d"
-      },
-      {
-        "rank": 5,
-        "title": "Google is BACK! #1 on Artificial Analysis",
-        "url": "https://www.reddit.com/r/singularity/comments/1xhuuc3/google_is_back_1_on_artificial_analysis/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-28T17:37:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/5934h8yuu8yh1.png?width=320&crop=smart&auto=webp&s=e1062ff12605d0db87a95ef8c857c8255b00af51"
       }
     ]
   }

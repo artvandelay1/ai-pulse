@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-10-31T20:14:08.194Z",
+  "fetchedAt": "2026-10-31T23:36:44.453Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T02:30:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I built a scikit-learn for RSI [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T16:33:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/trkro8qdytyh1.gif?width=640&crop=smart&s=0d668e31132a75d0636098597f27bd70c96122b3"
+      },
+      {
+        "rank": 3,
+        "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T15:21:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Foc2K0YvOCmaWMneoJBOUnuDMwE_D2LL0OrfDB1nOwI.jpeg?width=640&crop=smart&auto=webp&s=dfe059c6be2e4771fbff697cc7af0a3cdd352536"
+      },
+      {
+        "rank": 4,
+        "title": "Is neuro-evolution relevant? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T18:09:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T17:57:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "So, this is how the world manipulates words? (A bit into Sam Altman's statement)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xked68/so_this_is_how_the_world_manipulates_words_a_bit/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T16:18:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ffiew3wwttyh1.png?width=320&crop=smart&auto=webp&s=0b339b4d876270ab06b8acdc346e2123f7567ee9"
+      },
+      {
+        "rank": 2,
+        "title": "Happy Halloween! Make sure to say goodbye to usage!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xkavq6/happy_halloween_make_sure_to_say_goodbye_to_usage/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T13:56:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cabop0yf6tyh1.jpeg?width=640&crop=smart&auto=webp&s=64600f20812dc4e9d9c02a0def2f395688e74504"
+      },
+      {
+        "rank": 3,
+        "title": "Paid $20 just to watch them have twice the fun.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xk0dqk/paid_20_just_to_watch_them_have_twice_the_fun/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T03:59:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/1xj92hl18qyh1.jpeg?width=640&crop=smart&auto=webp&s=b03683285e8fc5190f2031e050cc64182c7b0139"
+      },
+      {
+        "rank": 4,
+        "title": "Sam Altman on RAM",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xk23rj/sam_altman_on_ram/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T05:37:00.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Decided to upload a risky pic",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xkkugt/decided_to_upload_a_risky_pic/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T20:41:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aldiunxs6vyh1.jpeg?width=640&crop=smart&auto=webp&s=3d45c062e7cb4b21a6f0e0881fa80c1d75c8118e"
+      },
+      {
+        "rank": 1,
+        "title": "Every time I visit the antiai sub [wall street apes edition]",
+        "url": "https://www.reddit.com/r/singularity/comments/1xkbjrz/every_time_i_visit_the_antiai_sub_wall_street/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-31T14:24:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aaq6fxaebtyh1.png?width=640&crop=smart&auto=webp&s=5493f55b06895f8c98e40d315a910521155473b4"
+      },
+      {
+        "rank": 2,
+        "title": "Real human brains cells being used for AI. Exciting times",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjwpz8/real_human_brains_cells_being_used_for_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-31T00:55:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/50kaz104bpyh1.jpeg?width=640&crop=smart&auto=webp&s=fb116f0e80d9ad31c0b78b615f390c18aed82586"
+      },
+      {
+        "rank": 3,
+        "title": "The Agentic Economy",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjuynv/the_agentic_economy/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T23:37:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d3drazRmcjR4b3loMWuTQyUR7UBrW6m6iqHTcv457vFaE7qVFcPG19K-U7zw.jpeg?width=320&crop=smart&auto=webp&s=36d8fcc26f551a3431fb9bf53fbfd5c0c5dd998a"
+      },
+      {
+        "rank": 4,
+        "title": "Astra Beats Every Model in Robot Intelligence",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjwqf3/astra_beats_every_model_in_robot_intelligence/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-31T00:55:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zsamgin5bpyh1.jpeg?width=640&crop=smart&auto=webp&s=28e5981217a5c49eb7b9dd0a3b049f2a7bb8f70e"
+      },
+      {
+        "rank": 5,
+        "title": "Take with a grain of salt, but could GPT-6.2 be incoming?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xkes05/take_with_a_grain_of_salt_but_could_gpt62_be/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-31T16:35:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/os5ahvlrytyh1.png?width=640&crop=smart&auto=webp&s=e02fea936daeb0c1db8583fdd8000023c5f6d232"
+      },
       {
         "rank": 1,
         "title": "Claude now watermarks everything it writes, and you're the one who can't check",
@@ -55,53 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T02:30:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T15:21:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Foc2K0YvOCmaWMneoJBOUnuDMwE_D2LL0OrfDB1nOwI.jpeg?width=640&crop=smart&auto=webp&s=dfe059c6be2e4771fbff697cc7af0a3cdd352536"
-      },
-      {
-        "rank": 3,
-        "title": "I built a scikit-learn for RSI [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T16:33:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/trkro8qdytyh1.gif?width=640&crop=smart&s=0d668e31132a75d0636098597f27bd70c96122b3"
-      },
-      {
-        "rank": 4,
-        "title": "Is neuro-evolution relevant? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T18:09:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T17:57:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Tibo - Day 26",
         "url": "https://www.reddit.com/r/codex/comments/1xk289s/tibo_day_26/",
         "source": "r/codex",
@@ -147,105 +246,6 @@
         "score": 0,
         "publishedAt": "2026-10-31T12:10:23.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xjmx70/openai_ceo_says_its_quite_terrible_for_your_pc_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T18:13:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&crop=smart&auto=webp&s=46878b5964fcad0e8127451cd7b6ee44a331ca80"
-      },
-      {
-        "rank": 2,
-        "title": "Paid $20 just to watch them have twice the fun.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xk0dqk/paid_20_just_to_watch_them_have_twice_the_fun/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T03:59:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1xj92hl18qyh1.jpeg?width=640&crop=smart&auto=webp&s=b03683285e8fc5190f2031e050cc64182c7b0139"
-      },
-      {
-        "rank": 3,
-        "title": "Come and Take It Sam",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xjpiz9/come_and_take_it_sam/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T19:53:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mqnw06n4tnyh1.png?width=640&crop=smart&auto=webp&s=78384c9d3145ee5d457c3288e735cfe8ea7a5496"
-      },
-      {
-        "rank": 4,
-        "title": "Happy Halloween! Make sure to say goodbye to usage!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xkavq6/happy_halloween_make_sure_to_say_goodbye_to_usage/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T13:56:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cabop0yf6tyh1.jpeg?width=640&crop=smart&auto=webp&s=64600f20812dc4e9d9c02a0def2f395688e74504"
-      },
-      {
-        "rank": 5,
-        "title": "Sam Altman on RAM",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xk23rj/sam_altman_on_ram/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T05:37:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Every time I visit the antiai sub",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjleej/every_time_i_visit_the_antiai_sub/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-30T17:17:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/amfwbxmf1nyh1.jpeg?width=640&crop=smart&auto=webp&s=bfef2a56037a04c997fb78d24ef0a108300969da"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI MTS/math prof at UC-Berkeley, Tony Feng, deleted tweet about how the results seen from upcoming model don’t represent the limits of its capabilities and world needs to prepare",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjsn25/openai_mtsmath_prof_at_ucberkeley_tony_feng/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-30T21:57:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8vq9g4zafoyh1.jpeg?width=140&height=119&auto=webp&s=ce4a5a86183a528d4c9f8b5e38955dcd96cf62f2"
-      },
-      {
-        "rank": 3,
-        "title": "Real human brains cells being used for AI. Exciting times",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjwpz8/real_human_brains_cells_being_used_for_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T00:55:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/50kaz104bpyh1.jpeg?width=640&crop=smart&auto=webp&s=fb116f0e80d9ad31c0b78b615f390c18aed82586"
-      },
-      {
-        "rank": 4,
-        "title": "Claude now refuses to draw its own logo because of fear of \"copyright infringement.\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjqdlz/claude_now_refuses_to_draw_its_own_logo_because/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-30T20:25:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9g2sr0qwynyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=597e31b50a521ef81bf60434b1193501bbf2247c"
-      },
-      {
-        "rank": 5,
-        "title": "Every time I visit the antiai sub [wall street apes edition]",
-        "url": "https://www.reddit.com/r/singularity/comments/1xkbjrz/every_time_i_visit_the_antiai_sub_wall_street/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T14:24:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aaq6fxaebtyh1.png?width=640&crop=smart&auto=webp&s=5493f55b06895f8c98e40d315a910521155473b4"
       }
     ]
   }

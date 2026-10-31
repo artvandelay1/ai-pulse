@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T16:17:45.662Z",
+  "fetchedAt": "2026-10-31T20:14:08.194Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "Multi-Token Prediction Done Right [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-        "source": "r/MachineLearning",
+        "title": "Claude now watermarks everything it writes, and you're the one who can't check",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/claude_now_watermarks_everything_it_writes_and/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-30T18:53:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pdz8voy3inyh1.png?width=640&crop=smart&auto=webp&s=7d8a2253a12acb1611eeea6bf222da31a425cddf"
+        "publishedAt": "2026-10-30T20:48:43.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
+        "title": "Claude Opus 5.5 can generate images even though it will initially say it can't.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjxl4s/claude_opus_55_can_generate_images_even_though_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T01:36:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gmm66fhbipyh1.jpeg?width=640&crop=smart&auto=webp&s=11aae6a0e19baa307755e30265d28321f8a2a07a"
+      },
+      {
+        "rank": 3,
+        "title": "Security engineer here. The anti-AI hate is getting ridiculous",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkg97u/security_engineer_here_the_antiai_hate_is_getting/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T17:34:29.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdcto/anthropic_updates_claude_to_steer_it_away_from/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T15:38:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/SHUD2KWusTVE6at5RJkfJ2bMDx48LgYu9fy5u1iCRAI.png?width=640&crop=smart&auto=webp&s=f2c818eca8c000b67aecd07297c9db27bfb42dbb"
+      },
+      {
+        "rank": 5,
+        "title": "If you’re letting Claude Code clean up your smart TV, do these things first",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T11:56:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/in2rj4cyksyh1.jpeg?width=640&crop=smart&auto=webp&s=4d15d4fe5e434936aa634c80796a23e41276f4e0"
+      },
+      {
+        "rank": 1,
         "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
         "source": "r/MachineLearning",
@@ -25,7 +63,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
         "source": "r/MachineLearning",
@@ -35,21 +73,79 @@
         "thumbnail": "https://external-preview.redd.it/Foc2K0YvOCmaWMneoJBOUnuDMwE_D2LL0OrfDB1nOwI.jpeg?width=640&crop=smart&auto=webp&s=dfe059c6be2e4771fbff697cc7af0a3cdd352536"
       },
       {
-        "rank": 4,
-        "title": "Advice on dealing with Cold Start forecasting [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
+        "rank": 3,
+        "title": "I built a scikit-learn for RSI [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-30T17:56:26.000Z",
+        "publishedAt": "2026-10-31T16:33:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/trkro8qdytyh1.gif?width=640&crop=smart&s=0d668e31132a75d0636098597f27bd70c96122b3"
+      },
+      {
+        "rank": 4,
+        "title": "Is neuro-evolution relevant? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T18:09:53.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Paid Research Survey for conference papers [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
+        "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-30T22:42:27.000Z",
+        "publishedAt": "2026-10-31T17:57:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo - Day 26",
+        "url": "https://www.reddit.com/r/codex/comments/1xk289s/tibo_day_26/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T05:44:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6d21uxvoqqyh1.jpeg?width=640&crop=smart&auto=webp&s=d99dbc8c5c136f7d24fcb91b90d8e88a5c30087d"
+      },
+      {
+        "rank": 2,
+        "title": "ChatGPT-Codex merge is happening",
+        "url": "https://www.reddit.com/r/codex/comments/1xkc5p1/chatgptcodex_merge_is_happening/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T14:49:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "6.1 Terra max is another level of code reviewer - true example of the \"punching above your weight\" idiom",
+        "url": "https://www.reddit.com/r/codex/comments/1xk6sqo/61_terra_max_is_another_level_of_code_reviewer/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T10:31:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c4a32gtk5syh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f58bf578afa4971d51a758d2068dab5d20c8a85a"
+      },
+      {
+        "rank": 4,
+        "title": "So I tried Terra",
+        "url": "https://www.reddit.com/r/codex/comments/1xk4qx5/so_i_tried_terra/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T08:23:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0mx5vnl0jryh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=00023b2a8645e3ac7891b5e00ce22e3215e1dd14"
+      },
+      {
+        "rank": 5,
+        "title": "The new API credits make ChatGPT Pro a no-brainer for API users",
+        "url": "https://www.reddit.com/r/codex/comments/1xk8l7w/the_new_api_credits_make_chatgpt_pro_a_nobrainer/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T12:10:23.000Z",
         "category": "reddit"
       },
       {
@@ -150,102 +246,6 @@
         "publishedAt": "2026-10-31T14:24:16.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/aaq6fxaebtyh1.png?width=640&crop=smart&auto=webp&s=5493f55b06895f8c98e40d315a910521155473b4"
-      },
-      {
-        "rank": 1,
-        "title": "Anthropic renames Max5 and Max20 and removes 5h limits for Max20",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T17:34:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vw14lxtg4nyh1.png?width=640&crop=smart&auto=webp&s=eeeda2c7b9302687896f0ed1b4b6eb2f547a1352"
-      },
-      {
-        "rank": 2,
-        "title": "Claude now watermarks everything it writes, and you're the one who can't check",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/claude_now_watermarks_everything_it_writes_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T20:48:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Anthropic gave 50 analysts Claude Code with a hidden coin-flip bias. They followed the agent’s lean 86% of the time",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj3qdv/anthropic_gave_50_analysts_claude_code_with_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T02:35:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Working on a real-time 3D Pokémon battle game. The demo is free and open source",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xja4vw/working_on_a_realtime_3d_pokémon_battle_game_the/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T08:51:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/emNib2wxZnhpa3loMY5PQC5qglYxFkYjYPTVQBqfr46VzUhIBqjm9tpDub3C.png?width=640&crop=smart&auto=webp&s=546b858d2957146b25e24dc5428bd975edca6581"
-      },
-      {
-        "rank": 5,
-        "title": "Weekend project: Mario 64 in Mixed Reality!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T16:51:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MjU2YnhodTV3bXloMaYheK4na4Rfz-v0mWHaUcdeWuKpEY4i0QCrtKTwKnz9.png?width=640&crop=smart&auto=webp&s=b84a98a41b69987e3a5519a0852a090f0da56915"
-      },
-      {
-        "rank": 1,
-        "title": "Thoughts?",
-        "url": "https://www.reddit.com/r/codex/comments/1xjpxrx/thoughts/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-30T20:08:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hr0z256wvnyh1.jpeg?width=640&crop=smart&auto=webp&s=348f5e755a15e8b59da3308d200a9bddae129400"
-      },
-      {
-        "rank": 2,
-        "title": "Possible GPT-6.2 internal model reference: “gpt-6.2-betelgeuse” — unverified",
-        "url": "https://www.reddit.com/r/codex/comments/1xj13uj/possible_gpt62_internal_model_reference/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-30T00:29:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7die3ilk1iyh1.jpeg?width=640&crop=smart&auto=webp&s=61ba9c1a0bcc84a55f7e761ce274d897d37e191d"
-      },
-      {
-        "rank": 3,
-        "title": "Plus users should get 2x if the chat is removed",
-        "url": "https://www.reddit.com/r/codex/comments/1xj4pgc/plus_users_should_get_2x_if_the_chat_is_removed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-30T03:24:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Are the frequent Codex usage resets ending with October?",
-        "url": "https://www.reddit.com/r/codex/comments/1xjda2k/are_the_frequent_codex_usage_resets_ending_with/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-30T11:53:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Persistent side chats are coming to Codex",
-        "url": "https://www.reddit.com/r/codex/comments/1xjm29o/persistent_side_chats_are_coming_to_codex/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-30T17:41:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qp3g6k1l5nyh1.png?width=140&height=75&auto=webp&s=1d9ad8531bb7e847f7dd276796a79691acb66653"
       }
     ]
   }

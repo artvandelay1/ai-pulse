@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T20:03:06.952Z",
+  "fetchedAt": "2026-10-31T00:00:09.758Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,16 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Using Claude to put all Global Law into Git",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiz1vy/using_claude_to_put_all_global_law_into_git/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T23:00:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/0KXT1DX6IZ2xf5yZo2X4_kgb4KNwgGgYqks_zFGkogw.png?width=640&crop=smart&auto=webp&s=065e977353a755d10647cc09871e3493d3566f49"
-      },
-      {
-        "rank": 2,
         "title": "Anthropic renames Max5 and Max20 and removes 5h limits for Max20",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/",
         "source": "r/ClaudeAI",
@@ -26,17 +16,16 @@
         "thumbnail": "https://preview.redd.it/vw14lxtg4nyh1.png?width=640&crop=smart&auto=webp&s=eeeda2c7b9302687896f0ed1b4b6eb2f547a1352"
       },
       {
-        "rank": 3,
-        "title": "AI agents (run by Claude Sonnet 5) did brain surgery on a mouse [Spoilers: it recovered]",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xixhv8/ai_agents_run_by_claude_sonnet_5_did_brain/",
+        "rank": 2,
+        "title": "Claude now watermarks everything it writes, and you're the one who can't check",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/claude_now_watermarks_everything_it_writes_and/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-29T21:56:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/d2t44jf7ahyh1.jpeg?width=640&crop=smart&auto=webp&s=5018d852a85c7b3bf1fc115956321f05e357b13f"
+        "publishedAt": "2026-10-30T20:48:43.000Z",
+        "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Anthropic gave 50 analysts Claude Code with a hidden coin-flip bias. They followed the agent’s lean 86% of the time",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xj3qdv/anthropic_gave_50_analysts_claude_code_with_a/",
         "source": "r/ClaudeAI",
@@ -45,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Working on a real-time 3D Pokémon battle game. The demo is free and open source",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xja4vw/working_on_a_realtime_3d_pokémon_battle_game_the/",
         "source": "r/ClaudeAI",
@@ -53,6 +42,16 @@
         "publishedAt": "2026-10-30T08:51:37.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/emNib2wxZnhpa3loMY5PQC5qglYxFkYjYPTVQBqfr46VzUhIBqjm9tpDub3C.png?width=640&crop=smart&auto=webp&s=546b858d2957146b25e24dc5428bd975edca6581"
+      },
+      {
+        "rank": 5,
+        "title": "Weekend project: Mario 64 in Mixed Reality!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T16:51:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MjU2YnhodTV3bXloMaYheK4na4Rfz-v0mWHaUcdeWuKpEY4i0QCrtKTwKnz9.png?width=640&crop=smart&auto=webp&s=b84a98a41b69987e3a5519a0852a090f0da56915"
       },
       {
         "rank": 1,
@@ -65,15 +64,25 @@
       },
       {
         "rank": 2,
-        "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+        "title": "Multi-Token Prediction Done Right [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-29T22:51:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-30T18:53:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pdz8voy3inyh1.png?width=640&crop=smart&auto=webp&s=7d8a2253a12acb1611eeea6bf222da31a425cddf"
       },
       {
         "rank": 3,
+        "title": "My brain is rotting [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjbfhb/my_brain_is_rotting_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-30T10:11:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Advice on dealing with Cold Start forecasting [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
         "source": "r/MachineLearning",
@@ -82,46 +91,26 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+        "rank": 5,
+        "title": "Paid Research Survey for conference papers [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-10-29T20:46:25.000Z",
+        "publishedAt": "2026-10-30T22:42:27.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "What would you require before calling an inference change “quality-neutral”? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-30T06:59:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o08elco8zjyh1.jpeg?width=320&crop=smart&auto=webp&s=b5138d1b0b3c64d4d9e16aef795efb1a3c60eaed"
-      },
-      {
         "rank": 1,
-        "title": "Unified limits are coming in december",
-        "url": "https://www.reddit.com/r/codex/comments/1xiy74i/unified_limits_are_coming_in_december/",
+        "title": "Thoughts?",
+        "url": "https://www.reddit.com/r/codex/comments/1xjpxrx/thoughts/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-29T22:24:20.000Z",
+        "publishedAt": "2026-10-30T20:08:18.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t0j5wj19fhyh1.jpeg?width=640&crop=smart&auto=webp&s=145d8b8c60c384e6012e6f877a70390dc6ec8ee0"
+        "thumbnail": "https://preview.redd.it/hr0z256wvnyh1.jpeg?width=640&crop=smart&auto=webp&s=348f5e755a15e8b59da3308d200a9bddae129400"
       },
       {
         "rank": 2,
-        "title": "Oh well..",
-        "url": "https://www.reddit.com/r/codex/comments/1xiz71x/oh_well/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-29T23:06:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o9mcflirmhyh1.jpeg?width=640&crop=smart&auto=webp&s=88f319c4bf06d26bc316c4d07b3ccc76531a236f"
-      },
-      {
-        "rank": 3,
         "title": "Possible GPT-6.2 internal model reference: “gpt-6.2-betelgeuse” — unverified",
         "url": "https://www.reddit.com/r/codex/comments/1xj13uj/possible_gpt62_internal_model_reference/",
         "source": "r/codex",
@@ -131,22 +120,32 @@
         "thumbnail": "https://preview.redd.it/7die3ilk1iyh1.jpeg?width=640&crop=smart&auto=webp&s=61ba9c1a0bcc84a55f7e761ce274d897d37e191d"
       },
       {
-        "rank": 4,
-        "title": "Limit Clarification",
-        "url": "https://www.reddit.com/r/codex/comments/1xixihf/limit_clarification/",
+        "rank": 3,
+        "title": "Plus users should get 2x if the chat is removed",
+        "url": "https://www.reddit.com/r/codex/comments/1xj4pgc/plus_users_should_get_2x_if_the_chat_is_removed/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-29T21:57:07.000Z",
+        "publishedAt": "2026-10-30T03:24:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Are the frequent Codex usage resets ending with October?",
+        "url": "https://www.reddit.com/r/codex/comments/1xjda2k/are_the_frequent_codex_usage_resets_ending_with/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-30T11:53:18.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Usage limits being doubled. Well, In Türkiye, we tell this funny little story in situations like this. I'm curious if a similar story exists in other cultures also if it is really funny for a non-turkish...",
-        "url": "https://www.reddit.com/r/codex/comments/1xiwv1r/usage_limits_being_doubled_well_in_türkiye_we/",
+        "title": "Persistent side chats are coming to Codex",
+        "url": "https://www.reddit.com/r/codex/comments/1xjm29o/persistent_side_chats_are_coming_to_codex/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-29T21:30:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-10-30T17:41:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qp3g6k1l5nyh1.png?width=140&height=75&auto=webp&s=1d9ad8531bb7e847f7dd276796a79691acb66653"
       },
       {
         "rank": 1,

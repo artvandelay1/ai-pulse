@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-10-31T00:00:09.758Z",
+  "fetchedAt": "2026-10-31T05:22:41.357Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-30T07:25:23.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Multi-Token Prediction Done Right [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-30T18:53:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pdz8voy3inyh1.png?width=640&crop=smart&auto=webp&s=7d8a2253a12acb1611eeea6bf222da31a425cddf"
+      },
+      {
+        "rank": 3,
+        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T02:30:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Advice on dealing with Cold Start forecasting [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-30T17:56:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Paid Research Survey for conference papers [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-30T22:42:27.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "What if everything leaked? Every photo, every text",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xjd83r/what_if_everything_leaked_every_photo_every_text/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T11:50:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/M3B1dG5ocTBmbHloMYsB9h30dLUhqp2Mvch01t_5NJMyrAd4biEeQGC0XRZG.png?width=320&crop=smart&auto=webp&s=7062de3916307ef35b188598014ea7d669a40dcb"
+      },
+      {
+        "rank": 2,
+        "title": "You're not a meat proxy",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xjgyro/youre_not_a_meat_proxy/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T14:31:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gk4b6s7s7myh1.png?width=320&crop=smart&auto=webp&s=c0ee508d7377450a7aac0aece8f5d0e4aa18ad6a"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM — Sam Altman says data centers offer better utilization",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xjmx70/openai_ceo_says_its_quite_terrible_for_your_pc_to/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T18:13:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&crop=smart&auto=webp&s=46878b5964fcad0e8127451cd7b6ee44a331ca80"
+      },
+      {
+        "rank": 4,
+        "title": "Come and Take It Sam",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xjpiz9/come_and_take_it_sam/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T19:53:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mqnw06n4tnyh1.png?width=640&crop=smart&auto=webp&s=78384c9d3145ee5d457c3288e735cfe8ea7a5496"
+      },
+      {
+        "rank": 5,
+        "title": "ChatGPT has a hidden feature for saving permanent character references. Why is nobody talking about this?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xjl336/chatgpt_has_a_hidden_feature_for_saving_permanent/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-30T17:06:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t1otl2w3zmyh1.png?width=140&height=66&auto=webp&s=bee5fc0f84dda20d19cfc5c49e67d2dfa3d0f08b"
+      },
+      {
+        "rank": 1,
+        "title": "Every time I visit the antiai sub",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjleej/every_time_i_visit_the_antiai_sub/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T17:17:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/amfwbxmf1nyh1.jpeg?width=640&crop=smart&auto=webp&s=bfef2a56037a04c997fb78d24ef0a108300969da"
+      },
+      {
+        "rank": 2,
+        "title": "dgaf?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjanx9/dgaf/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T09:24:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/t9zriva2pkyh1.png?width=640&crop=smart&auto=webp&s=5979c530b54e7069d0955550f6a15fca3ac1a6b8"
+      },
+      {
+        "rank": 3,
+        "title": "\"So Larry Page has evidently said internally at Google many times, 'I am willing to go bankrupt rather than lose this race.' So everybody is really focused on this ROI equation, but the people making the decisions are not\" - x.com/GavinSBaker on ILTB",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjhzbi/so_larry_page_has_evidently_said_internally_at/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T15:11:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Anthropic to start blocking game recreations ?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjglg5/anthropic_to_start_blocking_game_recreations/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T14:17:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0dbnx20a5myh1.jpeg?width=640&crop=smart&auto=webp&s=0f20c1a96819f03f066bd7359c04d2c0570f40c1"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI MTS/math prof at UC-Berkeley, Tony Feng, deleted tweet about how the results seen from upcoming model don’t represent the limits of its capabilities and world needs to prepare",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjsn25/openai_mtsmath_prof_at_ucberkeley_tony_feng/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T21:57:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8vq9g4zafoyh1.jpeg?width=140&height=119&auto=webp&s=ce4a5a86183a528d4c9f8b5e38955dcd96cf62f2"
+      },
       {
         "rank": 1,
         "title": "Anthropic renames Max5 and Max20 and removes 5h limits for Max20",
@@ -55,52 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-30T07:25:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Multi-Token Prediction Done Right [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-30T18:53:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/pdz8voy3inyh1.png?width=640&crop=smart&auto=webp&s=7d8a2253a12acb1611eeea6bf222da31a425cddf"
-      },
-      {
-        "rank": 3,
-        "title": "My brain is rotting [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjbfhb/my_brain_is_rotting_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-30T10:11:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Advice on dealing with Cold Start forecasting [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-30T17:56:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Paid Research Survey for conference papers [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-30T22:42:27.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Thoughts?",
         "url": "https://www.reddit.com/r/codex/comments/1xjpxrx/thoughts/",
         "source": "r/codex",
@@ -146,106 +245,6 @@
         "publishedAt": "2026-10-30T17:41:36.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/qp3g6k1l5nyh1.png?width=140&height=75&auto=webp&s=1d9ad8531bb7e847f7dd276796a79691acb66653"
-      },
-      {
-        "rank": 1,
-        "title": "What if everything leaked? Every photo, every text",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xjd83r/what_if_everything_leaked_every_photo_every_text/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T11:50:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/M3B1dG5ocTBmbHloMYsB9h30dLUhqp2Mvch01t_5NJMyrAd4biEeQGC0XRZG.png?width=320&crop=smart&auto=webp&s=7062de3916307ef35b188598014ea7d669a40dcb"
-      },
-      {
-        "rank": 2,
-        "title": "Usage doubled!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xipr8d/usage_doubled/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T17:04:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b5um1j35ufyh1.png?width=640&crop=smart&auto=webp&s=ab52e99050672c638f30cae1375c5ad6e9926372"
-      },
-      {
-        "rank": 3,
-        "title": "GPT 6.2 Bel ?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xj5rhg/gpt_62_bel/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T04:19:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j727v96l6jyh1.png?width=640&crop=smart&auto=webp&s=fe2fa1bbf186f1c2f69283b6fe72b60a477b0a47"
-      },
-      {
-        "rank": 4,
-        "title": "Sources identify OpenAI's reported Bel as GPT-6.2 Betelgeuse",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xizikk/sources_identify_openais_reported_bel_as_gpt62/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T23:19:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/h4JL2aiZS4JHnwc0az6ifSecw1vgv-D0qxtsO61Xm3o.jpeg?width=640&crop=smart&auto=webp&s=89db22d29ab0600e3509325b8e47279919815378"
-      },
-      {
-        "rank": 5,
-        "title": "So we Plus users are sidelined?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xit1qw/so_we_plus_users_are_sidelined/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-29T19:06:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0lxb8l1wfgyh1.jpeg?width=640&crop=smart&auto=webp&s=f66206f3b4036c3d1a0cdf5ec380b6247c8c8bd2"
-      },
-      {
-        "rank": 1,
-        "title": "\"$10+ millions of compute on Navier-Stokes. $100+ millions on other discoveries including much more than what we have published\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1ximxhx/10_millions_of_compute_on_navierstokes_100/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-29T15:21:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZGU4dXo3c2tiZnloMSjtBdDT5LcEKbMsMyIso9lIvaSZV8q0DsnBsKAHryk6.png?width=640&crop=smart&auto=webp&s=8c7008b2a0c809bc371c640842d4ddab47f61c2c"
-      },
-      {
-        "rank": 2,
-        "title": "AI supercomputer up for sale on eBay",
-        "url": "https://www.reddit.com/r/singularity/comments/1xin9cx/ai_supercomputer_up_for_sale_on_ebay/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-29T15:33:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/du2qajd0efyh1.jpeg?width=640&crop=smart&auto=webp&s=63e3ad61fdbff1766acd8937af56db22c86be5c4"
-      },
-      {
-        "rank": 3,
-        "title": "dgaf?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjanx9/dgaf/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-30T09:24:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t9zriva2pkyh1.png?width=640&crop=smart&auto=webp&s=5979c530b54e7069d0955550f6a15fca3ac1a6b8"
-      },
-      {
-        "rank": 4,
-        "title": "Sam Altman reveals OpenAI barely understood how to scale AI agent swarms even as they tackled some of mathematics' hardest problems. He expects major progress in swarm coordination within 3 months and believes the same approach could automate AI research itself.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xiwplq/sam_altman_reveals_openai_barely_understood_how/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-29T21:24:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gf43q2un4hyh1.jpeg?width=640&crop=smart&auto=webp&s=d2682e7c4f37a7bec81f6a462776b81453108fde"
-      },
-      {
-        "rank": 5,
-        "title": "Which lab is going to be the first one to do it?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xj462p/which_lab_is_going_to_be_the_first_one_to_do_it/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-30T02:57:01.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/juegvxsuriyh1.png?width=640&crop=smart&auto=webp&s=a8fd7ade21b85f1e682d065c5c2b242c788d65f6"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T05:22:41.357Z",
+  "fetchedAt": "2026-10-31T11:07:49.164Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-30T07:25:23.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Multi-Token Prediction Done Right [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
         "source": "r/MachineLearning",
@@ -25,7 +16,7 @@
         "thumbnail": "https://preview.redd.it/pdz8voy3inyh1.png?width=640&crop=smart&auto=webp&s=7d8a2253a12acb1611eeea6bf222da31a425cddf"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
         "source": "r/MachineLearning",
@@ -34,7 +25,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Advice on dealing with Cold Start forecasting [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
         "source": "r/MachineLearning",
@@ -43,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Paid Research Survey for conference papers [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
         "source": "r/MachineLearning",
@@ -93,13 +84,13 @@
       },
       {
         "rank": 5,
-        "title": "ChatGPT has a hidden feature for saving permanent character references. Why is nobody talking about this?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xjl336/chatgpt_has_a_hidden_feature_for_saving_permanent/",
+        "title": "Paid $20 just to watch them have twice the fun.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xk0dqk/paid_20_just_to_watch_them_have_twice_the_fun/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-10-30T17:06:06.000Z",
+        "publishedAt": "2026-10-31T03:59:59.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t1otl2w3zmyh1.png?width=140&height=66&auto=webp&s=bee5fc0f84dda20d19cfc5c49e67d2dfa3d0f08b"
+        "thumbnail": "https://preview.redd.it/1xj92hl18qyh1.jpeg?width=640&crop=smart&auto=webp&s=b03683285e8fc5190f2031e050cc64182c7b0139"
       },
       {
         "rank": 1,
@@ -113,16 +104,6 @@
       },
       {
         "rank": 2,
-        "title": "dgaf?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjanx9/dgaf/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-30T09:24:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/t9zriva2pkyh1.png?width=640&crop=smart&auto=webp&s=5979c530b54e7069d0955550f6a15fca3ac1a6b8"
-      },
-      {
-        "rank": 3,
         "title": "\"So Larry Page has evidently said internally at Google many times, 'I am willing to go bankrupt rather than lose this race.' So everybody is really focused on this ROI equation, but the people making the decisions are not\" - x.com/GavinSBaker on ILTB",
         "url": "https://www.reddit.com/r/singularity/comments/1xjhzbi/so_larry_page_has_evidently_said_internally_at/",
         "source": "r/singularity",
@@ -131,7 +112,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Anthropic to start blocking game recreations ?",
         "url": "https://www.reddit.com/r/singularity/comments/1xjglg5/anthropic_to_start_blocking_game_recreations/",
         "source": "r/singularity",
@@ -141,7 +122,7 @@
         "thumbnail": "https://preview.redd.it/0dbnx20a5myh1.jpeg?width=640&crop=smart&auto=webp&s=0f20c1a96819f03f066bd7359c04d2c0570f40c1"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "OpenAI MTS/math prof at UC-Berkeley, Tony Feng, deleted tweet about how the results seen from upcoming model don’t represent the limits of its capabilities and world needs to prepare",
         "url": "https://www.reddit.com/r/singularity/comments/1xjsn25/openai_mtsmath_prof_at_ucberkeley_tony_feng/",
         "source": "r/singularity",
@@ -149,6 +130,15 @@
         "publishedAt": "2026-10-30T21:57:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/8vq9g4zafoyh1.jpeg?width=140&height=119&auto=webp&s=ce4a5a86183a528d4c9f8b5e38955dcd96cf62f2"
+      },
+      {
+        "rank": 5,
+        "title": "Sam Altman says the chip supply chain's invisible hand is failing — and DRAM is why",
+        "url": "https://www.reddit.com/r/singularity/comments/1xjip62/sam_altman_says_the_chip_supply_chains_invisible/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-30T15:38:25.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

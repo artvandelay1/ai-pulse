@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T05:16:08.786Z",
+  "fetchedAt": "2026-11-01T12:00:15.025Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,26 +26,16 @@
       },
       {
         "rank": 3,
-        "title": "If you’re letting Claude Code clean up your smart TV, do these things first",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/",
+        "title": "I gave Claude access to remote telescopes. Now she books the sky every night.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkxsca/i_gave_claude_access_to_remote_telescopes_now_she/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-31T11:56:02.000Z",
+        "publishedAt": "2026-11-01T08:22:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/in2rj4cyksyh1.jpeg?width=640&crop=smart&auto=webp&s=4d15d4fe5e434936aa634c80796a23e41276f4e0"
+        "thumbnail": "https://preview.redd.it/j8afqqp5nyyh1.jpeg?width=140&height=93&auto=webp&s=c892b5d23de6281dde1ce08d9223991cb4080815"
       },
       {
         "rank": 4,
-        "title": "Has Opus 5.5 Been Nerfed? LiveNerf Update: Day 38",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdxwo/has_opus_55_been_nerfed_livenerf_update_day_38/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T16:01:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gs4elr9tstyh1.jpeg?width=640&crop=smart&auto=webp&s=8629808aabfaad8634c5eeb925944a01443da71e"
-      },
-      {
-        "rank": 5,
         "title": "For over a year I've spent a full day writing a Markdown spec before prompting Claude. Google just open-sourced the \"Elephant-Goldfish Model\" that takes this 10x further",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkn61s/for_over_a_year_ive_spent_a_full_day_writing_a/",
         "source": "r/ClaudeAI",
@@ -53,6 +43,16 @@
         "publishedAt": "2026-10-31T22:27:55.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/olsnwjsbovyh1.png?width=140&height=120&auto=webp&s=8c8feef212e1c89e6653e0aca5662ea4828762f6"
+      },
+      {
+        "rank": 5,
+        "title": "Has Opus 5.5 Been Nerfed? LiveNerf Update: Day 38",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdxwo/has_opus_55_been_nerfed_livenerf_update_day_38/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T16:01:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gs4elr9tstyh1.jpeg?width=640&crop=smart&auto=webp&s=8629808aabfaad8634c5eeb925944a01443da71e"
       },
       {
         "rank": 1,
@@ -85,6 +85,15 @@
       },
       {
         "rank": 4,
+        "title": "Best option for local models [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T07:16:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Is neuro-evolution relevant? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
         "source": "r/MachineLearning",
@@ -93,32 +102,23 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T17:57:22.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "Tibo - Day 26",
-        "url": "https://www.reddit.com/r/codex/comments/1xk289s/tibo_day_26/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T05:44:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6d21uxvoqqyh1.jpeg?width=640&crop=smart&auto=webp&s=d99dbc8c5c136f7d24fcb91b90d8e88a5c30087d"
-      },
-      {
-        "rank": 2,
         "title": "ChatGPT-Codex merge is happening",
         "url": "https://www.reddit.com/r/codex/comments/1xkc5p1/chatgptcodex_merge_is_happening/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-10-31T14:49:31.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Banked reset 1/2",
+        "url": "https://www.reddit.com/r/codex/comments/1xkq1f9/banked_reset_12/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-01T00:48:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nuzmtwbpewyh1.jpeg?width=640&crop=smart&auto=webp&s=f6c2ed00ffa1574d74d024c8ec89fdb130a73e1e"
       },
       {
         "rank": 3,
@@ -132,23 +132,23 @@
       },
       {
         "rank": 4,
-        "title": "Banked reset 1/2",
-        "url": "https://www.reddit.com/r/codex/comments/1xkq1f9/banked_reset_12/",
+        "title": "First of the two rests just landed.",
+        "url": "https://www.reddit.com/r/codex/comments/1xkkhl4/first_of_the_two_rests_just_landed/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-01T00:48:00.000Z",
+        "publishedAt": "2026-10-31T20:26:19.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nuzmtwbpewyh1.jpeg?width=640&crop=smart&auto=webp&s=f6c2ed00ffa1574d74d024c8ec89fdb130a73e1e"
+        "thumbnail": "https://preview.redd.it/1zyprkaw3vyh1.png?width=140&height=34&auto=webp&s=0bcdbc844de49927ad7aa7670c41700728d62adb"
       },
       {
         "rank": 5,
-        "title": "6.1 Terra max is another level of code reviewer - true example of the \"punching above your weight\" idiom",
-        "url": "https://www.reddit.com/r/codex/comments/1xk6sqo/61_terra_max_is_another_level_of_code_reviewer/",
+        "title": "OpenAl is merging usage allowances",
+        "url": "https://www.reddit.com/r/codex/comments/1xkjrx8/openal_is_merging_usage_allowances/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-10-31T10:31:09.000Z",
+        "publishedAt": "2026-10-31T19:57:03.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c4a32gtk5syh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f58bf578afa4971d51a758d2068dab5d20c8a85a"
+        "thumbnail": "https://preview.redd.it/zing7kosyuyh1.png?width=640&crop=smart&auto=webp&s=3b4031854966d2488fb40bbf70e31601cf0678fe"
       },
       {
         "rank": 1,

@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-11-01T12:00:15.025Z",
+  "fetchedAt": "2026-11-01T17:54:43.904Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T00:07:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "[D] Simple Questions Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T16:00:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Why do all NN optimizers have weird names? [d]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T16:51:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Best option for local models [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T07:16:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T10:38:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z51fc8e1czyh1.png?width=140&height=61&auto=webp&s=8a2439314561f3d2134aaae4111b25b0a3e9ba0e"
+      },
+      {
+        "rank": 1,
+        "title": "Consent is key",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xkqzgx/consent_is_key/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-01T01:37:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/z0ae25rgnwyh1.jpeg?width=640&crop=smart&auto=webp&s=75ca79e59b68da9cc5e3a5587902ecb2bf13c8a4"
+      },
+      {
+        "rank": 2,
+        "title": "Decided to upload a risky pic",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xkkugt/decided_to_upload_a_risky_pic/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T20:41:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aldiunxs6vyh1.jpeg?width=640&crop=smart&auto=webp&s=3d45c062e7cb4b21a6f0e0881fa80c1d75c8118e"
+      },
+      {
+        "rank": 3,
+        "title": "In Defense is Sam. He's completely right about DRAM",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xl5v0a/in_defense_is_sam_hes_completely_right_about_dram/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-01T15:27:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Hey HBO, PLEASE bring back Silicon Valley. I NEED this. I swear it’ll make more money than Game of Thrones. PLZ 😭😭😭",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xku8j7/hey_hbo_please_bring_back_silicon_valley_i_need/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-01T04:40:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xkvwj8/openai_raises_less_than_half_of_30_billion_target/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-01T06:22:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/GjM7ueVnWoOu6UoGBnsg1Qj03GvZDxRsMFu0qRosnQ0.jpeg?width=640&crop=smart&auto=webp&s=776ff8a54d2dce0b8372f051d9ed35ce64e299ae"
+      },
+      {
+        "rank": 1,
+        "title": "DeepSeek Harness team published the underlying architecture for their Super-agent, an always-on autonomous agent, as an open-source prototype on GitHub.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xkoi9g/deepseek_harness_team_published_the_underlying/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-31T23:32:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/UUztaM82OuolzuiwZdGEzLzYTmtK5ugAaKEW46F6mBA.png?width=640&crop=smart&auto=webp&s=75325d6ac5a91dc83b0c84c90420cc3dd49c3548"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic's growing restrictions are creating a new divide in the AI capabilities race: Gemini 4 Argon recreates Pixar's iconic intro, while Claude Opus 5.5 refuses over copyright and builds a toaster instead—highlighting the gap between what frontier AI can do and what companies allow it to do.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xl6vk8/anthropics_growing_restrictions_are_creating_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-01T16:08:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MWs5Zm80cXV5MHpoMcCE2P6zdHF-Mj2NJ82ameWGO0tDUj5vj2xqYOwYMLeI.png?width=640&crop=smart&auto=webp&s=c5257bb7e4935c01a119fd9f376db31a6cde6da6"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI is testing GPT-6.2 Astra",
+        "url": "https://www.reddit.com/r/singularity/comments/1xl0rs3/openai_is_testing_gpt62_astra/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-01T11:29:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7xx5cc43lzyh1.png?width=640&crop=smart&auto=webp&s=cd7e08ab3039bc492df89d9a01e76ba92491a205"
+      },
+      {
+        "rank": 4,
+        "title": "So Anthropic's Claude AI blocks video game cloning and reverse-engineering, to avoid companies to get out of business, and that's ethical?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xkwvhe/so_anthropics_claude_ai_blocks_video_game_cloning/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-01T07:23:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "New gynoid, this one explicitly intended as a s*xbot, to be debuted this Nov. 3.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xkmeal/new_gynoid_this_one_explicitly_intended_as_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-31T21:52:09.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Security engineer here. The anti-AI hate is getting ridiculous",
@@ -56,53 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-01T00:07:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T15:21:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Foc2K0YvOCmaWMneoJBOUnuDMwE_D2LL0OrfDB1nOwI.jpeg?width=640&crop=smart&auto=webp&s=dfe059c6be2e4771fbff697cc7af0a3cdd352536"
-      },
-      {
-        "rank": 3,
-        "title": "I built a scikit-learn for RSI [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T16:33:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/trkro8qdytyh1.gif?width=640&crop=smart&s=0d668e31132a75d0636098597f27bd70c96122b3"
-      },
-      {
-        "rank": 4,
-        "title": "Best option for local models [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-01T07:16:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is neuro-evolution relevant? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-10-31T18:09:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "ChatGPT-Codex merge is happening",
         "url": "https://www.reddit.com/r/codex/comments/1xkc5p1/chatgptcodex_merge_is_happening/",
         "source": "r/codex",
@@ -149,105 +244,6 @@
         "publishedAt": "2026-10-31T19:57:03.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/zing7kosyuyh1.png?width=640&crop=smart&auto=webp&s=3b4031854966d2488fb40bbf70e31601cf0678fe"
-      },
-      {
-        "rank": 1,
-        "title": "So, this is how the world manipulates words? (A bit into Sam Altman's statement)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xked68/so_this_is_how_the_world_manipulates_words_a_bit/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T16:18:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ffiew3wwttyh1.png?width=320&crop=smart&auto=webp&s=0b339b4d876270ab06b8acdc346e2123f7567ee9"
-      },
-      {
-        "rank": 2,
-        "title": "Happy Halloween! Make sure to say goodbye to usage!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xkavq6/happy_halloween_make_sure_to_say_goodbye_to_usage/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T13:56:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cabop0yf6tyh1.jpeg?width=640&crop=smart&auto=webp&s=64600f20812dc4e9d9c02a0def2f395688e74504"
-      },
-      {
-        "rank": 3,
-        "title": "Paid $20 just to watch them have twice the fun.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xk0dqk/paid_20_just_to_watch_them_have_twice_the_fun/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T03:59:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1xj92hl18qyh1.jpeg?width=640&crop=smart&auto=webp&s=b03683285e8fc5190f2031e050cc64182c7b0139"
-      },
-      {
-        "rank": 4,
-        "title": "Sam Altman on RAM",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xk23rj/sam_altman_on_ram/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T05:37:00.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Decided to upload a risky pic",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xkkugt/decided_to_upload_a_risky_pic/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T20:41:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aldiunxs6vyh1.jpeg?width=640&crop=smart&auto=webp&s=3d45c062e7cb4b21a6f0e0881fa80c1d75c8118e"
-      },
-      {
-        "rank": 1,
-        "title": "Every time I visit the antiai sub [wall street apes edition]",
-        "url": "https://www.reddit.com/r/singularity/comments/1xkbjrz/every_time_i_visit_the_antiai_sub_wall_street/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T14:24:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aaq6fxaebtyh1.png?width=640&crop=smart&auto=webp&s=5493f55b06895f8c98e40d315a910521155473b4"
-      },
-      {
-        "rank": 2,
-        "title": "Real human brains cells being used for AI. Exciting times",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjwpz8/real_human_brains_cells_being_used_for_ai/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T00:55:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/50kaz104bpyh1.jpeg?width=640&crop=smart&auto=webp&s=fb116f0e80d9ad31c0b78b615f390c18aed82586"
-      },
-      {
-        "rank": 3,
-        "title": "The Agentic Economy",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjuynv/the_agentic_economy/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-30T23:37:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/d3drazRmcjR4b3loMWuTQyUR7UBrW6m6iqHTcv457vFaE7qVFcPG19K-U7zw.jpeg?width=320&crop=smart&auto=webp&s=36d8fcc26f551a3431fb9bf53fbfd5c0c5dd998a"
-      },
-      {
-        "rank": 4,
-        "title": "Astra Beats Every Model in Robot Intelligence",
-        "url": "https://www.reddit.com/r/singularity/comments/1xjwqf3/astra_beats_every_model_in_robot_intelligence/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T00:55:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zsamgin5bpyh1.jpeg?width=640&crop=smart&auto=webp&s=28e5981217a5c49eb7b9dd0a3b049f2a7bb8f70e"
-      },
-      {
-        "rank": 5,
-        "title": "Take with a grain of salt, but could GPT-6.2 be incoming?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xkes05/take_with_a_grain_of_salt_but_could_gpt62_be/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T16:35:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/os5ahvlrytyh1.png?width=640&crop=smart&auto=webp&s=e02fea936daeb0c1db8583fdd8000023c5f6d232"
       }
     ]
   }

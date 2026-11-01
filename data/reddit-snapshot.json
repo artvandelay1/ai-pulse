@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T17:54:43.904Z",
+  "fetchedAt": "2026-11-01T21:53:48.887Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,20 +16,20 @@
       },
       {
         "rank": 2,
-        "title": "[D] Simple Questions Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-01T16:00:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Why do all NN optimizers have weird names? [d]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-01T16:51:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "[D] Simple Questions Thread",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T16:00:36.000Z",
         "category": "reddit"
       },
       {
@@ -63,22 +63,22 @@
       },
       {
         "rank": 2,
-        "title": "Decided to upload a risky pic",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xkkugt/decided_to_upload_a_risky_pic/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T20:41:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aldiunxs6vyh1.jpeg?width=640&crop=smart&auto=webp&s=3d45c062e7cb4b21a6f0e0881fa80c1d75c8118e"
-      },
-      {
-        "rank": 3,
         "title": "In Defense is Sam. He's completely right about DRAM",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xl5v0a/in_defense_is_sam_hes_completely_right_about_dram/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-11-01T15:27:26.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Sam Altman is right",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xlen1c/sam_altman_is_right/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-01T21:14:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2trf735gh2zh1.jpeg?width=640&crop=smart&auto=webp&s=09a3bab4e962255f729f181c9966956a7cf25273"
       },
       {
         "rank": 4,
@@ -101,16 +101,6 @@
       },
       {
         "rank": 1,
-        "title": "DeepSeek Harness team published the underlying architecture for their Super-agent, an always-on autonomous agent, as an open-source prototype on GitHub.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xkoi9g/deepseek_harness_team_published_the_underlying/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T23:32:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/UUztaM82OuolzuiwZdGEzLzYTmtK5ugAaKEW46F6mBA.png?width=640&crop=smart&auto=webp&s=75325d6ac5a91dc83b0c84c90420cc3dd49c3548"
-      },
-      {
-        "rank": 2,
         "title": "Anthropic's growing restrictions are creating a new divide in the AI capabilities race: Gemini 4 Argon recreates Pixar's iconic intro, while Claude Opus 5.5 refuses over copyright and builds a toaster instead—highlighting the gap between what frontier AI can do and what companies allow it to do.",
         "url": "https://www.reddit.com/r/singularity/comments/1xl6vk8/anthropics_growing_restrictions_are_creating_a/",
         "source": "r/singularity",
@@ -118,6 +108,16 @@
         "publishedAt": "2026-11-01T16:08:05.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/MWs5Zm80cXV5MHpoMcCE2P6zdHF-Mj2NJ82ameWGO0tDUj5vj2xqYOwYMLeI.png?width=640&crop=smart&auto=webp&s=c5257bb7e4935c01a119fd9f376db31a6cde6da6"
+      },
+      {
+        "rank": 2,
+        "title": "DeepSeek Harness team published the underlying architecture for their Super-agent, an always-on autonomous agent, as an open-source prototype on GitHub.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xkoi9g/deepseek_harness_team_published_the_underlying/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-10-31T23:32:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/UUztaM82OuolzuiwZdGEzLzYTmtK5ugAaKEW46F6mBA.png?width=640&crop=smart&auto=webp&s=75325d6ac5a91dc83b0c84c90420cc3dd49c3548"
       },
       {
         "rank": 3,

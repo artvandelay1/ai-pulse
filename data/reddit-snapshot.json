@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T23:36:44.453Z",
+  "fetchedAt": "2026-11-01T05:16:08.786Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,25 +7,64 @@
     "items": [
       {
         "rank": 1,
-        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xjyo89/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-        "source": "r/MachineLearning",
+        "title": "Security engineer here. The anti-AI hate is getting ridiculous",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkg97u/security_engineer_here_the_antiai_hate_is_getting/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-31T02:30:21.000Z",
+        "publishedAt": "2026-10-31T17:34:29.000Z",
         "category": "reddit"
       },
       {
         "rank": 2,
-        "title": "I built a scikit-learn for RSI [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
-        "source": "r/MachineLearning",
+        "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdcto/anthropic_updates_claude_to_steer_it_away_from/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-10-31T16:33:26.000Z",
+        "publishedAt": "2026-10-31T15:38:03.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/trkro8qdytyh1.gif?width=640&crop=smart&s=0d668e31132a75d0636098597f27bd70c96122b3"
+        "thumbnail": "https://external-preview.redd.it/SHUD2KWusTVE6at5RJkfJ2bMDx48LgYu9fy5u1iCRAI.png?width=640&crop=smart&auto=webp&s=f2c818eca8c000b67aecd07297c9db27bfb42dbb"
       },
       {
         "rank": 3,
+        "title": "If you’re letting Claude Code clean up your smart TV, do these things first",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T11:56:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/in2rj4cyksyh1.jpeg?width=640&crop=smart&auto=webp&s=4d15d4fe5e434936aa634c80796a23e41276f4e0"
+      },
+      {
+        "rank": 4,
+        "title": "Has Opus 5.5 Been Nerfed? LiveNerf Update: Day 38",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdxwo/has_opus_55_been_nerfed_livenerf_update_day_38/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T16:01:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gs4elr9tstyh1.jpeg?width=640&crop=smart&auto=webp&s=8629808aabfaad8634c5eeb925944a01443da71e"
+      },
+      {
+        "rank": 5,
+        "title": "For over a year I've spent a full day writing a Markdown spec before prompting Claude. Google just open-sourced the \"Elephant-Goldfish Model\" that takes this 10x further",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkn61s/for_over_a_year_ive_spent_a_full_day_writing_a/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-10-31T22:27:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/olsnwjsbovyh1.png?width=140&height=120&auto=webp&s=8c8feef212e1c89e6653e0aca5662ea4828762f6"
+      },
+      {
+        "rank": 1,
+        "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T00:07:04.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
         "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
         "source": "r/MachineLearning",
@@ -33,6 +72,16 @@
         "publishedAt": "2026-10-31T15:21:39.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/Foc2K0YvOCmaWMneoJBOUnuDMwE_D2LL0OrfDB1nOwI.jpeg?width=640&crop=smart&auto=webp&s=dfe059c6be2e4771fbff697cc7af0a3cdd352536"
+      },
+      {
+        "rank": 3,
+        "title": "I built a scikit-learn for RSI [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-10-31T16:33:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/trkro8qdytyh1.gif?width=640&crop=smart&s=0d668e31132a75d0636098597f27bd70c96122b3"
       },
       {
         "rank": 4,
@@ -51,6 +100,55 @@
         "score": 0,
         "publishedAt": "2026-10-31T17:57:22.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Tibo - Day 26",
+        "url": "https://www.reddit.com/r/codex/comments/1xk289s/tibo_day_26/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T05:44:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6d21uxvoqqyh1.jpeg?width=640&crop=smart&auto=webp&s=d99dbc8c5c136f7d24fcb91b90d8e88a5c30087d"
+      },
+      {
+        "rank": 2,
+        "title": "ChatGPT-Codex merge is happening",
+        "url": "https://www.reddit.com/r/codex/comments/1xkc5p1/chatgptcodex_merge_is_happening/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T14:49:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Top 10 fastest-growing Codex skill repos • October 2026",
+        "url": "https://www.reddit.com/r/codex/comments/1xkl5dz/top_10_fastestgrowing_codex_skill_repos_october/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T20:55:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/359n5xl19vyh1.png?width=640&crop=smart&auto=webp&s=c46f8920db92c0cbb662927a663655d4eba11375"
+      },
+      {
+        "rank": 4,
+        "title": "Banked reset 1/2",
+        "url": "https://www.reddit.com/r/codex/comments/1xkq1f9/banked_reset_12/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-01T00:48:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nuzmtwbpewyh1.jpeg?width=640&crop=smart&auto=webp&s=f6c2ed00ffa1574d74d024c8ec89fdb130a73e1e"
+      },
+      {
+        "rank": 5,
+        "title": "6.1 Terra max is another level of code reviewer - true example of the \"punching above your weight\" idiom",
+        "url": "https://www.reddit.com/r/codex/comments/1xk6sqo/61_terra_max_is_another_level_of_code_reviewer/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-10-31T10:31:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/c4a32gtk5syh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f58bf578afa4971d51a758d2068dab5d20c8a85a"
       },
       {
         "rank": 1,
@@ -150,102 +248,6 @@
         "publishedAt": "2026-10-31T16:35:33.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/os5ahvlrytyh1.png?width=640&crop=smart&auto=webp&s=e02fea936daeb0c1db8583fdd8000023c5f6d232"
-      },
-      {
-        "rank": 1,
-        "title": "Claude now watermarks everything it writes, and you're the one who can't check",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjqyv2/claude_now_watermarks_everything_it_writes_and/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-30T20:48:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Claude Opus 5.5 can generate images even though it will initially say it can't.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjxl4s/claude_opus_55_can_generate_images_even_though_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T01:36:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gmm66fhbipyh1.jpeg?width=640&crop=smart&auto=webp&s=11aae6a0e19baa307755e30265d28321f8a2a07a"
-      },
-      {
-        "rank": 3,
-        "title": "Security engineer here. The anti-AI hate is getting ridiculous",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkg97u/security_engineer_here_the_antiai_hate_is_getting/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T17:34:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdcto/anthropic_updates_claude_to_steer_it_away_from/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T15:38:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/SHUD2KWusTVE6at5RJkfJ2bMDx48LgYu9fy5u1iCRAI.png?width=640&crop=smart&auto=webp&s=f2c818eca8c000b67aecd07297c9db27bfb42dbb"
-      },
-      {
-        "rank": 5,
-        "title": "If you’re letting Claude Code clean up your smart TV, do these things first",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xk8apo/if_youre_letting_claude_code_clean_up_your_smart/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T11:56:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/in2rj4cyksyh1.jpeg?width=640&crop=smart&auto=webp&s=4d15d4fe5e434936aa634c80796a23e41276f4e0"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo - Day 26",
-        "url": "https://www.reddit.com/r/codex/comments/1xk289s/tibo_day_26/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T05:44:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6d21uxvoqqyh1.jpeg?width=640&crop=smart&auto=webp&s=d99dbc8c5c136f7d24fcb91b90d8e88a5c30087d"
-      },
-      {
-        "rank": 2,
-        "title": "ChatGPT-Codex merge is happening",
-        "url": "https://www.reddit.com/r/codex/comments/1xkc5p1/chatgptcodex_merge_is_happening/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T14:49:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "6.1 Terra max is another level of code reviewer - true example of the \"punching above your weight\" idiom",
-        "url": "https://www.reddit.com/r/codex/comments/1xk6sqo/61_terra_max_is_another_level_of_code_reviewer/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T10:31:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/c4a32gtk5syh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=f58bf578afa4971d51a758d2068dab5d20c8a85a"
-      },
-      {
-        "rank": 4,
-        "title": "So I tried Terra",
-        "url": "https://www.reddit.com/r/codex/comments/1xk4qx5/so_i_tried_terra/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T08:23:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0mx5vnl0jryh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=00023b2a8645e3ac7891b5e00ce22e3215e1dd14"
-      },
-      {
-        "rank": 5,
-        "title": "The new API credits make ChatGPT Pro a no-brainer for API users",
-        "url": "https://www.reddit.com/r/codex/comments/1xk8l7w/the_new_api_credits_make_chatgpt_pro_a_nobrainer/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T12:10:23.000Z",
-        "category": "reddit"
       }
     ]
   }

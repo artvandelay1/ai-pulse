@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-01T21:53:48.887Z",
+  "fetchedAt": "2026-11-02T01:24:47.981Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-01T00:07:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Why do all NN optimizers have weird names? [d]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
         "source": "r/MachineLearning",
@@ -24,7 +15,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "[D] Simple Questions Thread",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xl6og2/d_simple_questions_thread/",
         "source": "r/MachineLearning",
@@ -33,7 +24,7 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Best option for local models [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
         "source": "r/MachineLearning",
@@ -42,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
         "source": "r/MachineLearning",
@@ -50,6 +41,15 @@
         "publishedAt": "2026-11-01T10:38:34.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/z51fc8e1czyh1.png?width=140&height=61&auto=webp&s=8a2439314561f3d2134aaae4111b25b0a3e9ba0e"
+      },
+      {
+        "rank": 5,
+        "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-01T12:28:22.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -63,15 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "In Defense is Sam. He's completely right about DRAM",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xl5v0a/in_defense_is_sam_hes_completely_right_about_dram/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-01T15:27:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "Sam Altman is right",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xlen1c/sam_altman_is_right/",
         "source": "r/OpenAI",
@@ -79,6 +70,15 @@
         "publishedAt": "2026-11-01T21:14:04.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/2trf735gh2zh1.jpeg?width=640&crop=smart&auto=webp&s=09a3bab4e962255f729f181c9966956a7cf25273"
+      },
+      {
+        "rank": 3,
+        "title": "In Defense is Sam. He's completely right about DRAM",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xl5v0a/in_defense_is_sam_hes_completely_right_about_dram/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-01T15:27:26.000Z",
+        "category": "reddit"
       },
       {
         "rank": 4,
@@ -111,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "DeepSeek Harness team published the underlying architecture for their Super-agent, an always-on autonomous agent, as an open-source prototype on GitHub.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xkoi9g/deepseek_harness_team_published_the_underlying/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-10-31T23:32:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/UUztaM82OuolzuiwZdGEzLzYTmtK5ugAaKEW46F6mBA.png?width=640&crop=smart&auto=webp&s=75325d6ac5a91dc83b0c84c90420cc3dd49c3548"
-      },
-      {
-        "rank": 3,
         "title": "OpenAI is testing GPT-6.2 Astra",
         "url": "https://www.reddit.com/r/singularity/comments/1xl0rs3/openai_is_testing_gpt62_astra/",
         "source": "r/singularity",
@@ -130,7 +120,7 @@
         "thumbnail": "https://preview.redd.it/7xx5cc43lzyh1.png?width=640&crop=smart&auto=webp&s=cd7e08ab3039bc492df89d9a01e76ba92491a205"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "So Anthropic's Claude AI blocks video game cloning and reverse-engineering, to avoid companies to get out of business, and that's ethical?",
         "url": "https://www.reddit.com/r/singularity/comments/1xkwvhe/so_anthropics_claude_ai_blocks_video_game_cloning/",
         "source": "r/singularity",
@@ -139,13 +129,24 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "New gynoid, this one explicitly intended as a s*xbot, to be debuted this Nov. 3.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xkmeal/new_gynoid_this_one_explicitly_intended_as_a/",
+        "rank": 4,
+        "title": "Demis Hassabis says AI data centers should be beautiful and we should take their effect on our physical surroundings seriously",
+        "url": "https://www.reddit.com/r/singularity/comments/1xl9hrk/demis_hassabis_says_ai_data_centers_should_be/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-10-31T21:52:09.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-01T17:49:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/czgzZHVtZnlmMXpoMZyU6Xa8xE1S1CjMQpu8uAVmmA0klYtki467ZkDSL412.png?width=640&crop=smart&auto=webp&s=5c0e6836df39ae9e5080e2ef5c9cc84eef9ae477"
+      },
+      {
+        "rank": 5,
+        "title": "Richard Dawkins: ‘I thought AI wouldn’t come in my lifetime but it has – with a vengeance’",
+        "url": "https://www.reddit.com/r/singularity/comments/1xl006d/richard_dawkins_i_thought_ai_wouldnt_come_in_my/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-01T10:44:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/lIpI_RS6xNqVniKabpllRJD5pv3EGtcOPguCrYIk4EM.jpeg?width=640&crop=smart&auto=webp&s=a45b79e6f46504aa68c97a5133dc400722c95836"
       },
       {
         "rank": 1,

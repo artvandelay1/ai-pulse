@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T08:33:10.769Z",
+  "fetchedAt": "2026-11-03T16:56:15.898Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,16 +17,6 @@
       },
       {
         "rank": 2,
-        "title": "The 7.72TB Alleged Anthropic AI Model Is Fake — I Reconstructed Its Generated Weights",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xls4cj/the_772tb_alleged_anthropic_ai_model_is_fake_i/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T08:50:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2pker2kmx5zh1.png?width=640&crop=smart&auto=webp&s=a0a05e107141cb8f46772caae6d6f9cdf42e3c5e"
-      },
-      {
-        "rank": 3,
         "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm2sej/anthropics_internal_ai_use_valued_at_retail/",
         "source": "r/ClaudeAI",
@@ -36,17 +26,7 @@
         "thumbnail": "https://external-preview.redd.it/dQGW_AwJTG19wGQP0Ow5yUKJsiGKc4bL_vXFCXhFVHs.jpeg?width=640&crop=smart&auto=webp&s=1d706deb9af59b0f96d74a0480e97761b897ed88"
       },
       {
-        "rank": 4,
-        "title": "Claude's refusal is getting stricter and annoying each day",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlz6m8/claudes_refusal_is_getting_stricter_and_annoying/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T14:49:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k518c5vbp7zh1.png?width=640&crop=smart&auto=webp&s=90b99b4119c012a63ddaca1e28bac039f2780f44"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "title": "Opus 5.5 medium with blender mcp is insane with the right prompting",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmcwbt/opus_55_medium_with_blender_mcp_is_insane_with/",
         "source": "r/ClaudeAI",
@@ -54,6 +34,26 @@
         "publishedAt": "2026-11-02T23:21:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/95i9r8sp7azh1.jpeg?width=140&height=87&auto=webp&s=11a269cc326ac09b2cf44d88e90c286365d1d432"
+      },
+      {
+        "rank": 4,
+        "title": "A Solo Developer Built This in 4 Days With Opus 5.5 + Godot. This Is Getting Ridiculous",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmdih0/a_solo_developer_built_this_in_4_days_with_opus/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T23:47:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZDY0dDcybDlkYXpoMayc8jaO5cH_nsyVLfq1kjhS9XTATUAyKfSdo-EQwVDm.png?width=640&crop=smart&auto=webp&s=d6f4fc84bc8e07bcb2ac0291b80d487ce0858aeb"
+      },
+      {
+        "rank": 5,
+        "title": "Started a hobby project about the Mongol Invasions of Vietnam. Claude helped turn it into a real game",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7kw7/started_a_hobby_project_about_the_mongol/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T19:53:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/a3QyemRxeXl2OHpoMRMqF-eTw2q-VRZO0bMyyIdm9RmsfAnllafoSW9SSV8N.png?width=640&crop=smart&auto=webp&s=4dd1bb88a9cfd752157940bb57abbf250f352332"
       },
       {
         "rank": 1,
@@ -75,11 +75,11 @@
       },
       {
         "rank": 3,
-        "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
+        "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-02T10:04:25.000Z",
+        "publishedAt": "2026-11-03T05:09:18.000Z",
         "category": "reddit"
       },
       {
@@ -93,21 +93,22 @@
       },
       {
         "rank": 5,
-        "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
+        "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-02T14:32:14.000Z",
+        "publishedAt": "2026-11-02T19:00:24.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Switched from Codex to Claude Code on the same $20 plan, and I'm blown away",
-        "url": "https://www.reddit.com/r/codex/comments/1xlwzs3/switched_from_codex_to_claude_code_on_the_same_20/",
+        "title": "Sol offered to complete a CAPTCHA",
+        "url": "https://www.reddit.com/r/codex/comments/1xmjihc/sol_offered_to_complete_a_captcha/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-02T13:20:41.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-03T04:31:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/te0kq9iprbzh1.jpeg?width=640&crop=smart&auto=webp&s=69f138a3b25bd41ef4646049222e4755629def1b"
       },
       {
         "rank": 2,
@@ -121,30 +122,29 @@
       },
       {
         "rank": 3,
-        "title": "Sol offered to complete a CAPTCHA",
-        "url": "https://www.reddit.com/r/codex/comments/1xmjihc/sol_offered_to_complete_a_captcha/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-03T04:31:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/te0kq9iprbzh1.jpeg?width=640&crop=smart&auto=webp&s=69f138a3b25bd41ef4646049222e4755629def1b"
-      },
-      {
-        "rank": 4,
-        "title": "My ChatGPT Dot suddenly said it was tired of working and wanted to sleep during a 2-hour voice session",
-        "url": "https://www.reddit.com/r/codex/comments/1xlz5gx/my_chatgpt_dot_suddenly_said_it_was_tired_of/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-02T14:48:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "So you're telling me that if my 5h limit is at 0%, then I can't use chat except in Instant mode????",
         "url": "https://www.reddit.com/r/codex/comments/1xmd2ac/so_youre_telling_me_that_if_my_5h_limit_is_at_0/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-11-02T23:28:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Codex keeps filling my c drive with junk",
+        "url": "https://www.reddit.com/r/codex/comments/1xmkj3x/codex_keeps_filling_my_c_drive_with_junk/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-03T05:25:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Just wondering, what the point of resets are, if the weekly reset goes bak to a full week before resetting on its own?",
+        "url": "https://www.reddit.com/r/codex/comments/1xmbf05/just_wondering_what_the_point_of_resets_are_if/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-02T22:19:46.000Z",
         "category": "reddit"
       },
       {

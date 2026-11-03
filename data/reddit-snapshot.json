@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T18:45:45.363Z",
+  "fetchedAt": "2026-11-03T01:30:44.435Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,24 @@
     "items": [
       {
         "rank": 1,
+        "title": "To all ML PhDs, how are you guys doing these days? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-02T18:52:17.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-02T20:18:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
         "source": "r/MachineLearning",
@@ -15,7 +33,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
         "source": "r/MachineLearning",
@@ -25,44 +43,16 @@
         "thumbnail": "https://preview.redd.it/j2humdsjq7zh1.png?width=640&crop=smart&auto=webp&s=433d5e205287b02901f80e5cf2d5b07bbea3df2d"
       },
       {
-        "rank": 3,
-        "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-02T14:32:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "[D] Self-Promotion Thread",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-02T03:15:07.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "Operators Day : 10 founders hiring for founding ML roles - Nov 5 [n]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm3im8/operators_day_10_founders_hiring_for_founding_ml/",
+        "title": "ICLR 2027 review results [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-02T17:28:16.000Z",
+        "publishedAt": "2026-11-02T20:41:35.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Sam Altman is right",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xlen1c/sam_altman_is_right/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-01T21:14:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2trf735gh2zh1.jpeg?width=640&crop=smart&auto=webp&s=09a3bab4e962255f729f181c9966956a7cf25273"
-      },
-      {
-        "rank": 2,
         "title": "Sam Altman's RAM allocation argument, applied to food",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xlqq7b/sam_altmans_ram_allocation_argument_applied_to/",
         "source": "r/OpenAI",
@@ -72,17 +62,7 @@
         "thumbnail": "https://preview.redd.it/z11508g2h5zh1.png?width=640&crop=smart&auto=webp&s=337e7568a5c5c2d29780002330ea42b61d2165da"
       },
       {
-        "rank": 3,
-        "title": "In light of recent words of Sam Altman",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xlhxkd/in_light_of_recent_words_of_sam_altman/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-01T23:37:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y1jmisvo63zh1.png?width=640&crop=smart&auto=webp&s=a15c65910393279b2da3f197f325b8302e286c7d"
-      },
-      {
-        "rank": 4,
+        "rank": 2,
         "title": "How To Trap Sam Altman",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xlvrzj/how_to_trap_sam_altman/",
         "source": "r/OpenAI",
@@ -92,7 +72,7 @@
         "thumbnail": "https://preview.redd.it/d1y5a80mz6zh1.jpeg?width=640&crop=smart&auto=webp&s=ce621739143c3e92ecb0f5a2b43a0bf50a96aa90"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "WHAT YOU SAY!!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xlutkc/what_you_say/",
         "source": "r/OpenAI",
@@ -102,27 +82,36 @@
         "thumbnail": "https://preview.redd.it/28rwja20r6zh1.jpeg?width=640&crop=smart&auto=webp&s=860f9cf2bee00bb92c69c1c932df8abb1e94dd89"
       },
       {
+        "rank": 4,
+        "title": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ — 50-agent teams fail after falling into paralyzing bureaucracy",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xm1wor/ai_agent_swarms_unleashed_in_minecraft_to_build_a/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T16:30:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/IpuJzrkQ16txmT4NYqD7z_ZPmf1LsE6x70RXOoM8a8A.jpeg?width=640&crop=smart&auto=webp&s=5b5c950125f9cdc40554d63f7eefff3d78e195f6"
+      },
+      {
+        "rank": 5,
+        "title": "Insane",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xm2tsb/insane/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T17:04:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/sfbwtggrd8zh1.png?width=640&crop=smart&auto=webp&s=7b6a2ca7d3d530a838f1c4fca26f263a4af8e002"
+      },
+      {
         "rank": 1,
-        "title": "\"When we proved the first Millenium Prize problem, it was 10000 agents of the model that is gonna be released soon, the next GPT, working for about 4 days\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xlyml4/when_we_proved_the_first_millenium_prize_problem/",
+        "title": "MIT researchers say GPT-6 Astra improved a small Qwen model’s math score from 7.9% to 48.1% by directly editing just 0.016% of its weights, without gradient-based training.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xm89o3/mit_researchers_say_gpt6_astra_improved_a_small/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-02T14:27:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cGFpcnltaW5sN3poMT9C6H5-M_0ubbh_SPfmW64-hCvLtdvuYJ4nL-bzlKfZ.png?width=640&crop=smart&auto=webp&s=0fd1f35daa56bd945f98d6d889f072184cdf9ced"
+        "publishedAt": "2026-11-02T20:18:42.000Z",
+        "category": "reddit"
       },
       {
         "rank": 2,
-        "title": "Mythos 5.5 release nears as Anthropic begins preparing their webpage for it",
-        "url": "https://www.reddit.com/r/singularity/comments/1xlikmp/mythos_55_release_nears_as_anthropic_begins/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-02T00:05:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eyab68u3c3zh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=4a1b8ce54c21843938da698597c4055063529234"
-      },
-      {
-        "rank": 3,
         "title": "Sam Altman: \"At the start of this year, AI was mostly not as smart as our smartest scientists, and now it's mostly smarter than them.\" He also says AI can now perform large parts of white-collar jobs that were beyond its capabilities earlier this year.",
         "url": "https://www.reddit.com/r/singularity/comments/1xm44jm/sam_altman_at_the_start_of_this_year_ai_was/",
         "source": "r/singularity",
@@ -132,14 +121,23 @@
         "thumbnail": "https://external-preview.redd.it/cTQ1bnFzcjFtOHpoMX_0vg88jgImEk6X_e_cOFBEwq3R73p_4oiZVe_JEpfR.png?width=640&crop=smart&auto=webp&s=4a69c9f88c2aee356d01a756688af04c02eff6de"
       },
       {
-        "rank": 4,
-        "title": "Singularity-Whitepilled Mathematician. \"I hope AI can help mathematicians break out of the straitjacket of being constrained by the first natural conjecture they cannot prove, and work on unraveling the deeper mysteries woven throughout our subject. \"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xlb3ys/singularitywhitepilled_mathematician_i_hope_ai/",
+        "rank": 3,
+        "title": "\"When we proved the first Millenium Prize problem, it was 10000 agents of the model that is gonna be released soon, the next GPT, working for about 4 days\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1xlyml4/when_we_proved_the_first_millenium_prize_problem/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-01T18:53:00.000Z",
+        "publishedAt": "2026-11-02T14:27:10.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&crop=smart&auto=webp&s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0"
+        "thumbnail": "https://external-preview.redd.it/cGFpcnltaW5sN3poMT9C6H5-M_0ubbh_SPfmW64-hCvLtdvuYJ4nL-bzlKfZ.png?width=640&crop=smart&auto=webp&s=0fd1f35daa56bd945f98d6d889f072184cdf9ced"
+      },
+      {
+        "rank": 4,
+        "title": "If AI replaces nearly all jobs and we’re all living off UBI, how is anyone supposed to improve their financial situation?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xm89fn/if_ai_replaces_nearly_all_jobs_and_were_all/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-02T20:18:28.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

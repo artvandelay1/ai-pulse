@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T16:56:15.898Z",
+  "fetchedAt": "2026-11-03T22:16:46.379Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,26 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "Anthropic confirms new Claude Code limits to prevent game cloning",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm5vdp/anthropic_confirms_new_claude_code_limits_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T18:51:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/3b_-aYvknrqeVVavcbAtLT70Hmc7dKIPPYra4OvHR74.jpeg?width=640&crop=smart&auto=webp&s=b5cc386268077e5a76ee6ca835fb1d6fea17bf39"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm2sej/anthropics_internal_ai_use_valued_at_retail/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T17:02:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dQGW_AwJTG19wGQP0Ow5yUKJsiGKc4bL_vXFCXhFVHs.jpeg?width=640&crop=smart&auto=webp&s=1d706deb9af59b0f96d74a0480e97761b897ed88"
-      },
-      {
-        "rank": 3,
         "title": "Opus 5.5 medium with blender mcp is insane with the right prompting",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmcwbt/opus_55_medium_with_blender_mcp_is_insane_with/",
         "source": "r/ClaudeAI",
@@ -36,7 +16,17 @@
         "thumbnail": "https://preview.redd.it/95i9r8sp7azh1.jpeg?width=140&height=87&auto=webp&s=11a269cc326ac09b2cf44d88e90c286365d1d432"
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "title": "Nobody else seems to have as hard of a time with Claude as I do. I just want to understand why Claude hates me.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmzcjz/nobody_else_seems_to_have_as_hard_of_a_time_with/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T17:32:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l1axtscnnfzh1.png?width=320&crop=smart&auto=webp&s=24c6d1c33cf2e82a58b1b70f1c58aa462d946003"
+      },
+      {
+        "rank": 3,
         "title": "A Solo Developer Built This in 4 Days With Opus 5.5 + Godot. This Is Getting Ridiculous",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmdih0/a_solo_developer_built_this_in_4_days_with_opus/",
         "source": "r/ClaudeAI",
@@ -46,35 +36,26 @@
         "thumbnail": "https://external-preview.redd.it/ZDY0dDcybDlkYXpoMayc8jaO5cH_nsyVLfq1kjhS9XTATUAyKfSdo-EQwVDm.png?width=640&crop=smart&auto=webp&s=d6f4fc84bc8e07bcb2ac0291b80d487ce0858aeb"
       },
       {
-        "rank": 5,
-        "title": "Started a hobby project about the Mongol Invasions of Vietnam. Claude helped turn it into a real game",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm7kw7/started_a_hobby_project_about_the_mongol/",
+        "rank": 4,
+        "title": "What the hel is happening with limits",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmmmte/what_the_hel_is_happening_with_limits/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-02T19:53:45.000Z",
+        "publishedAt": "2026-11-03T07:28:34.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/a3QyemRxeXl2OHpoMRMqF-eTw2q-VRZO0bMyyIdm9RmsfAnllafoSW9SSV8N.png?width=640&crop=smart&auto=webp&s=4dd1bb88a9cfd752157940bb57abbf250f352332"
+        "thumbnail": "https://preview.redd.it/mxne0cnznczh1.jpeg?width=640&crop=smart&auto=webp&s=99e2ca61a8007c648369e551f2ebd7b1f53a78b3"
+      },
+      {
+        "rank": 5,
+        "title": "I'm worried Claude will become less and less useful for what I use it for.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmohxq/im_worried_claude_will_become_less_and_less/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T09:27:33.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-02T20:18:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "To all ML PhDs, how are you guys doing these days? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-02T18:52:17.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
         "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
         "source": "r/MachineLearning",
@@ -83,22 +64,90 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "ICLR 2027 review results [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
+        "rank": 2,
+        "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-02T20:41:35.000Z",
+        "publishedAt": "2026-11-03T19:29:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Paper review question [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmq17q/paper_review_question_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-03T11:01:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "CPU parallelism lessons that carry over to GPU kernels: dependency chains, FP non-associativity, false sharing, memory-bound loops [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmowry/cpu_parallelism_lessons_that_carry_over_to_gpu/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-03T09:53:58.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
+        "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-02T19:00:24.000Z",
+        "publishedAt": "2026-11-03T04:25:52.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "This guy figured out how to leak your exact location from any video with sound using the Doppler curves of nearby airplanes",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmviu5/this_guy_figured_out_how_to_leak_your_exact/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T15:12:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oq3bmagnyezh1.png?width=640&crop=smart&auto=webp&s=eb27ed4fc7640bf03d32c915be9cbe46c486b8a8"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6 successfully performed \"brain surgery\" on another AI to make it smarter",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmt4nj/gpt6_successfully_performed_brain_surgery_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T13:37:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7q1pqguohezh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e304014a256d5015e937d3e11db9b5dcafb9279"
+      },
+      {
+        "rank": 3,
+        "title": "Sorry, my agents accidentally did it",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmx22x/sorry_my_agents_accidentally_did_it/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T16:09:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0zhhqq5w8fzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7ad87f37e7b11a9bbf318bae0c5f291b759c0ed4"
+      },
+      {
+        "rank": 4,
+        "title": "What's the deal with all these RAM memes?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmq2y4/whats_the_deal_with_all_these_ram_memes/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T11:03:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8pbobnjdqdzh1.png?width=640&crop=smart&auto=webp&s=145a9af1b233f7425227528c21405a970c9f5b48"
+      },
+      {
+        "rank": 5,
+        "title": "GPT 6.2 Astra , GPT 6.2 sol",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xn36d1/gpt_62_astra_gpt_62_sol/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T19:50:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vkufdc2ecgzh1.png?width=640&crop=smart&auto=webp&s=9e3155eb4ca2282498f2ae4149ff3636742904ed"
       },
       {
         "rank": 1,
@@ -146,56 +195,6 @@
         "score": 0,
         "publishedAt": "2026-11-02T22:19:46.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Sam Altman's RAM allocation argument, applied to food",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xlqq7b/sam_altmans_ram_allocation_argument_applied_to/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T07:19:08.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z11508g2h5zh1.png?width=640&crop=smart&auto=webp&s=337e7568a5c5c2d29780002330ea42b61d2165da"
-      },
-      {
-        "rank": 2,
-        "title": "How To Trap Sam Altman",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xlvrzj/how_to_trap_sam_altman/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T12:24:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/d1y5a80mz6zh1.jpeg?width=640&crop=smart&auto=webp&s=ce621739143c3e92ecb0f5a2b43a0bf50a96aa90"
-      },
-      {
-        "rank": 3,
-        "title": "WHAT YOU SAY!!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xlutkc/what_you_say/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T11:34:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/28rwja20r6zh1.jpeg?width=640&crop=smart&auto=webp&s=860f9cf2bee00bb92c69c1c932df8abb1e94dd89"
-      },
-      {
-        "rank": 4,
-        "title": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ — 50-agent teams fail after falling into paralyzing bureaucracy",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xm1wor/ai_agent_swarms_unleashed_in_minecraft_to_build_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T16:30:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/IpuJzrkQ16txmT4NYqD7z_ZPmf1LsE6x70RXOoM8a8A.jpeg?width=640&crop=smart&auto=webp&s=5b5c950125f9cdc40554d63f7eefff3d78e195f6"
-      },
-      {
-        "rank": 5,
-        "title": "Insane",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xm2tsb/insane/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T17:04:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/sfbwtggrd8zh1.png?width=640&crop=smart&auto=webp&s=7b6a2ca7d3d530a838f1c4fca26f263a4af8e002"
       },
       {
         "rank": 1,

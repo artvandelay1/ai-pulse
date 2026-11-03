@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T01:30:44.435Z",
+  "fetchedAt": "2026-11-03T08:33:10.769Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,70 @@
     "items": [
       {
         "rank": 1,
-        "title": "To all ML PhDs, how are you guys doing these days? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
-        "source": "r/MachineLearning",
+        "title": "Anthropic confirms new Claude Code limits to prevent game cloning",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm5vdp/anthropic_confirms_new_claude_code_limits_to/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-02T18:52:17.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-02T18:51:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/3b_-aYvknrqeVVavcbAtLT70Hmc7dKIPPYra4OvHR74.jpeg?width=640&crop=smart&auto=webp&s=b5cc386268077e5a76ee6ca835fb1d6fea17bf39"
       },
       {
         "rank": 2,
+        "title": "The 7.72TB Alleged Anthropic AI Model Is Fake — I Reconstructed Its Generated Weights",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xls4cj/the_772tb_alleged_anthropic_ai_model_is_fake_i/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T08:50:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2pker2kmx5zh1.png?width=640&crop=smart&auto=webp&s=a0a05e107141cb8f46772caae6d6f9cdf42e3c5e"
+      },
+      {
+        "rank": 3,
+        "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xm2sej/anthropics_internal_ai_use_valued_at_retail/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T17:02:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dQGW_AwJTG19wGQP0Ow5yUKJsiGKc4bL_vXFCXhFVHs.jpeg?width=640&crop=smart&auto=webp&s=1d706deb9af59b0f96d74a0480e97761b897ed88"
+      },
+      {
+        "rank": 4,
+        "title": "Claude's refusal is getting stricter and annoying each day",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xlz6m8/claudes_refusal_is_getting_stricter_and_annoying/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T14:49:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k518c5vbp7zh1.png?width=640&crop=smart&auto=webp&s=90b99b4119c012a63ddaca1e28bac039f2780f44"
+      },
+      {
+        "rank": 5,
+        "title": "Opus 5.5 medium with blender mcp is insane with the right prompting",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmcwbt/opus_55_medium_with_blender_mcp_is_insane_with/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-02T23:21:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/95i9r8sp7azh1.jpeg?width=140&height=87&auto=webp&s=11a269cc326ac09b2cf44d88e90c286365d1d432"
+      },
+      {
+        "rank": 1,
         "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-02T20:18:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "To all ML PhDs, how are you guys doing these days? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-02T18:52:17.000Z",
         "category": "reddit"
       },
       {
@@ -34,21 +84,67 @@
       },
       {
         "rank": 4,
-        "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-02T15:08:41.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j2humdsjq7zh1.png?width=640&crop=smart&auto=webp&s=433d5e205287b02901f80e5cf2d5b07bbea3df2d"
-      },
-      {
-        "rank": 5,
         "title": "ICLR 2027 review results [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8vik/iclr_2027_review_results_d/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-02T20:41:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-02T14:32:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Switched from Codex to Claude Code on the same $20 plan, and I'm blown away",
+        "url": "https://www.reddit.com/r/codex/comments/1xlwzs3/switched_from_codex_to_claude_code_on_the_same_20/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-02T13:20:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Now that Tibo's 28 day challenge is over, how do you think it went?",
+        "url": "https://www.reddit.com/r/codex/comments/1xm8jsu/now_that_tibos_28_day_challenge_is_over_how_do/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-02T20:29:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ilphtfnxc9zh1.png?width=640&crop=smart&auto=webp&s=a97f86ff290c00771526f639df5a59d3ef69a028"
+      },
+      {
+        "rank": 3,
+        "title": "Sol offered to complete a CAPTCHA",
+        "url": "https://www.reddit.com/r/codex/comments/1xmjihc/sol_offered_to_complete_a_captcha/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-03T04:31:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/te0kq9iprbzh1.jpeg?width=640&crop=smart&auto=webp&s=69f138a3b25bd41ef4646049222e4755629def1b"
+      },
+      {
+        "rank": 4,
+        "title": "My ChatGPT Dot suddenly said it was tired of working and wanted to sleep during a 2-hour voice session",
+        "url": "https://www.reddit.com/r/codex/comments/1xlz5gx/my_chatgpt_dot_suddenly_said_it_was_tired_of/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-02T14:48:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "So you're telling me that if my 5h limit is at 0%, then I can't use chat except in Instant mode????",
+        "url": "https://www.reddit.com/r/codex/comments/1xmd2ac/so_youre_telling_me_that_if_my_5h_limit_is_at_0/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-02T23:28:34.000Z",
         "category": "reddit"
       },
       {
@@ -148,104 +244,6 @@
         "publishedAt": "2026-11-02T07:41:31.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/vuEGXH8p4ViqDtI1V4_h-nmNii9XFbOIm1hsKMpu2Ug.png?width=640&crop=smart&auto=webp&s=dc07a51603f31547f53278ef0a449cc738003ebb"
-      },
-      {
-        "rank": 1,
-        "title": "Security engineer here. The anti-AI hate is getting ridiculous",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkg97u/security_engineer_here_the_antiai_hate_is_getting/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T17:34:29.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdcto/anthropic_updates_claude_to_steer_it_away_from/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T15:38:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/SHUD2KWusTVE6at5RJkfJ2bMDx48LgYu9fy5u1iCRAI.png?width=640&crop=smart&auto=webp&s=f2c818eca8c000b67aecd07297c9db27bfb42dbb"
-      },
-      {
-        "rank": 3,
-        "title": "I gave Claude access to remote telescopes. Now she books the sky every night.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkxsca/i_gave_claude_access_to_remote_telescopes_now_she/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-01T08:22:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j8afqqp5nyyh1.jpeg?width=140&height=93&auto=webp&s=c892b5d23de6281dde1ce08d9223991cb4080815"
-      },
-      {
-        "rank": 4,
-        "title": "For over a year I've spent a full day writing a Markdown spec before prompting Claude. Google just open-sourced the \"Elephant-Goldfish Model\" that takes this 10x further",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkn61s/for_over_a_year_ive_spent_a_full_day_writing_a/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T22:27:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/olsnwjsbovyh1.png?width=140&height=120&auto=webp&s=8c8feef212e1c89e6653e0aca5662ea4828762f6"
-      },
-      {
-        "rank": 5,
-        "title": "Has Opus 5.5 Been Nerfed? LiveNerf Update: Day 38",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xkdxwo/has_opus_55_been_nerfed_livenerf_update_day_38/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-10-31T16:01:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gs4elr9tstyh1.jpeg?width=640&crop=smart&auto=webp&s=8629808aabfaad8634c5eeb925944a01443da71e"
-      },
-      {
-        "rank": 1,
-        "title": "ChatGPT-Codex merge is happening",
-        "url": "https://www.reddit.com/r/codex/comments/1xkc5p1/chatgptcodex_merge_is_happening/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T14:49:31.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Banked reset 1/2",
-        "url": "https://www.reddit.com/r/codex/comments/1xkq1f9/banked_reset_12/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-01T00:48:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nuzmtwbpewyh1.jpeg?width=640&crop=smart&auto=webp&s=f6c2ed00ffa1574d74d024c8ec89fdb130a73e1e"
-      },
-      {
-        "rank": 3,
-        "title": "Top 10 fastest-growing Codex skill repos • October 2026",
-        "url": "https://www.reddit.com/r/codex/comments/1xkl5dz/top_10_fastestgrowing_codex_skill_repos_october/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T20:55:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/359n5xl19vyh1.png?width=640&crop=smart&auto=webp&s=c46f8920db92c0cbb662927a663655d4eba11375"
-      },
-      {
-        "rank": 4,
-        "title": "First of the two rests just landed.",
-        "url": "https://www.reddit.com/r/codex/comments/1xkkhl4/first_of_the_two_rests_just_landed/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T20:26:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/1zyprkaw3vyh1.png?width=140&height=34&auto=webp&s=0bcdbc844de49927ad7aa7670c41700728d62adb"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAl is merging usage allowances",
-        "url": "https://www.reddit.com/r/codex/comments/1xkjrx8/openal_is_merging_usage_allowances/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-10-31T19:57:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zing7kosyuyh1.png?width=640&crop=smart&auto=webp&s=3b4031854966d2488fb40bbf70e31601cf0678fe"
       }
     ]
   }

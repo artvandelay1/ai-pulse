@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T10:41:50.070Z",
+  "fetchedAt": "2026-11-04T18:33:07.309Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,72 @@
     "items": [
       {
         "rank": 1,
+        "title": "I gave every Claude model the exact same prompt since July 2025. 13 models, 14 months, here's the evolution",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6eli/i_gave_every_claude_model_the_exact_same_prompt/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T21:54:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dmNoYnQ2aHV4Z3poMUsBs7Wrl7Hw-us6NCGMt9voisy1BLevD1UqGeNr2Qjn.png?width=640&crop=smart&auto=webp&s=3c1331886495ad464a2e46c9ceabd848c91dbe83"
+      },
+      {
+        "rank": 2,
+        "title": "Anthropic Blocking Reverse Engineer Anything",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn2iq3/anthropic_blocking_reverse_engineer_anything/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T19:26:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "From a notebook sketch to an animated Godot boss — 3D AI + Opus 5.5",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn7jti/from_a_notebook_sketch_to_an_animated_godot_boss/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T22:40:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bmd5aGR3ZGk1aHpoMXPkUATUGVmX00BplUI5h6QuJBgeJO4UfF4mxgl-gNFo.png?width=640&crop=smart&auto=webp&s=bf8760c6701ccdd7cf10915fa4557f1881c5f1e7"
+      },
+      {
+        "rank": 4,
+        "title": "I gave Claude ~700 ransomware encrypted files. It told me upfront it couldn't decrypt them, then got two thirds of them usable again",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6tu3/i_gave_claude_700_ransomware_encrypted_files_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T22:10:39.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tc5sz9ln0hzh1.jpeg?width=140&height=46&auto=webp&s=9583fc1678eca5bb19c8d684772331c6ba81ff8e"
+      },
+      {
+        "rank": 5,
+        "title": "Show me Claude Code projects that DON’T look vibecoded",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnnqkg/show_me_claude_code_projects_that_dont_look/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-04T13:06:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "A message to top tier conferences [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-04T09:55:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-04T16:17:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
         "source": "r/MachineLearning",
@@ -15,7 +81,7 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
         "source": "r/MachineLearning",
@@ -24,7 +90,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
         "source": "r/MachineLearning",
@@ -34,21 +100,51 @@
         "thumbnail": "https://preview.redd.it/ykjgz5i39kzh1.png?width=140&height=105&auto=webp&s=aa9661d9c922aa8d678e519d09f9e1a41bfa221b"
       },
       {
-        "rank": 4,
-        "title": "Paper review question [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmq17q/paper_review_question_d/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "Tibo on coding agents: \"Incredible, yet so frustrating still\"",
+        "url": "https://www.reddit.com/r/codex/comments/1xn7m19/tibo_on_coding_agents_incredible_yet_so/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-03T11:01:06.000Z",
+        "publishedAt": "2026-11-03T22:42:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/to8x7yct6hzh1.png?width=320&crop=smart&auto=webp&s=043853ea6b9fe365233ef2024201f24324222973"
+      },
+      {
+        "rank": 2,
+        "title": "BLT = Bel Launches tomorrow?",
+        "url": "https://www.reddit.com/r/codex/comments/1xnkszi/blt_bel_launches_tomorrow/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-04T10:25:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xszvd7cgokzh1.png?width=640&crop=smart&auto=webp&s=2ea50e37724b584546710e6341fcdf2fbedf917f"
+      },
+      {
+        "rank": 3,
+        "title": "Holy smokes the dot is an amazing middle manager",
+        "url": "https://www.reddit.com/r/codex/comments/1xn92w0/holy_smokes_the_dot_is_an_amazing_middle_manager/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-03T23:46:37.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
-        "source": "r/MachineLearning",
+        "rank": 4,
+        "title": "Do you really think, these benchmarks are legit?",
+        "url": "https://www.reddit.com/r/codex/comments/1xnj7ok/do_you_really_think_these_benchmarks_are_legit/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-04T01:31:50.000Z",
+        "publishedAt": "2026-11-04T08:42:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/zfjokdix5kzh1.png?width=640&crop=smart&auto=webp&s=0e2e3f9b3b74d87bdfd0e446c1c2a3d60ac339bf"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI, please stop pretending that new ways to talk to Dots are meaningful features",
+        "url": "https://www.reddit.com/r/codex/comments/1xnh6gs/openai_please_stop_pretending_that_new_ways_to/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-04T06:34:19.000Z",
         "category": "reddit"
       },
       {
@@ -150,102 +246,6 @@
         "publishedAt": "2026-11-03T15:10:02.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ct0nccitxezh1.png?width=640&crop=smart&auto=webp&s=3b9375528b121506d31d8583cb1699604035e3d1"
-      },
-      {
-        "rank": 1,
-        "title": "Opus 5.5 medium with blender mcp is insane with the right prompting",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmcwbt/opus_55_medium_with_blender_mcp_is_insane_with/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T23:21:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/95i9r8sp7azh1.jpeg?width=140&height=87&auto=webp&s=11a269cc326ac09b2cf44d88e90c286365d1d432"
-      },
-      {
-        "rank": 2,
-        "title": "Nobody else seems to have as hard of a time with Claude as I do. I just want to understand why Claude hates me.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmzcjz/nobody_else_seems_to_have_as_hard_of_a_time_with/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T17:32:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l1axtscnnfzh1.png?width=320&crop=smart&auto=webp&s=24c6d1c33cf2e82a58b1b70f1c58aa462d946003"
-      },
-      {
-        "rank": 3,
-        "title": "A Solo Developer Built This in 4 Days With Opus 5.5 + Godot. This Is Getting Ridiculous",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmdih0/a_solo_developer_built_this_in_4_days_with_opus/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-02T23:47:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZDY0dDcybDlkYXpoMayc8jaO5cH_nsyVLfq1kjhS9XTATUAyKfSdo-EQwVDm.png?width=640&crop=smart&auto=webp&s=d6f4fc84bc8e07bcb2ac0291b80d487ce0858aeb"
-      },
-      {
-        "rank": 4,
-        "title": "What the hel is happening with limits",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmmmte/what_the_hel_is_happening_with_limits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T07:28:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mxne0cnznczh1.jpeg?width=640&crop=smart&auto=webp&s=99e2ca61a8007c648369e551f2ebd7b1f53a78b3"
-      },
-      {
-        "rank": 5,
-        "title": "I'm worried Claude will become less and less useful for what I use it for.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xmohxq/im_worried_claude_will_become_less_and_less/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T09:27:33.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Sol offered to complete a CAPTCHA",
-        "url": "https://www.reddit.com/r/codex/comments/1xmjihc/sol_offered_to_complete_a_captcha/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-03T04:31:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/te0kq9iprbzh1.jpeg?width=640&crop=smart&auto=webp&s=69f138a3b25bd41ef4646049222e4755629def1b"
-      },
-      {
-        "rank": 2,
-        "title": "Now that Tibo's 28 day challenge is over, how do you think it went?",
-        "url": "https://www.reddit.com/r/codex/comments/1xm8jsu/now_that_tibos_28_day_challenge_is_over_how_do/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-02T20:29:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ilphtfnxc9zh1.png?width=640&crop=smart&auto=webp&s=a97f86ff290c00771526f639df5a59d3ef69a028"
-      },
-      {
-        "rank": 3,
-        "title": "So you're telling me that if my 5h limit is at 0%, then I can't use chat except in Instant mode????",
-        "url": "https://www.reddit.com/r/codex/comments/1xmd2ac/so_youre_telling_me_that_if_my_5h_limit_is_at_0/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-02T23:28:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Codex keeps filling my c drive with junk",
-        "url": "https://www.reddit.com/r/codex/comments/1xmkj3x/codex_keeps_filling_my_c_drive_with_junk/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-03T05:25:08.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Just wondering, what the point of resets are, if the weekly reset goes bak to a full week before resetting on its own?",
-        "url": "https://www.reddit.com/r/codex/comments/1xmbf05/just_wondering_what_the_point_of_resets_are_if/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-02T22:19:46.000Z",
-        "category": "reddit"
       }
     ]
   }

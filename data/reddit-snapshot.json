@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T02:37:43.649Z",
+  "fetchedAt": "2026-11-04T10:41:50.070Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,11 +7,11 @@
     "items": [
       {
         "rank": 1,
-        "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
+        "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-03T05:09:18.000Z",
+        "publishedAt": "2026-11-04T06:24:54.000Z",
         "category": "reddit"
       },
       {
@@ -25,6 +25,16 @@
       },
       {
         "rank": 3,
+        "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-04T09:00:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ykjgz5i39kzh1.png?width=140&height=105&auto=webp&s=aa9661d9c922aa8d678e519d09f9e1a41bfa221b"
+      },
+      {
+        "rank": 4,
         "title": "Paper review question [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xmq17q/paper_review_question_d/",
         "source": "r/MachineLearning",
@@ -33,21 +43,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-04T01:31:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-03T04:25:52.000Z",
         "category": "reddit"
       },
       {
@@ -92,13 +93,13 @@
       },
       {
         "rank": 5,
-        "title": "What's the deal with all these RAM memes?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xmq2y4/whats_the_deal_with_all_these_ram_memes/",
+        "title": "How OpenAI Cofounder Greg Brockman’s Wife Anna Became a Trump and MAGA Mega-Donor",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmv551/how_openai_cofounder_greg_brockmans_wife_anna/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-03T11:03:43.000Z",
+        "publishedAt": "2026-11-03T14:57:41.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8pbobnjdqdzh1.png?width=640&crop=smart&auto=webp&s=145a9af1b233f7425227528c21405a970c9f5b48"
+        "thumbnail": "https://external-preview.redd.it/Ebp1h5QrJJTYo8RPjyEaVq8ZTVT8dhnK2Te5jKIllUA.jpeg?width=640&crop=smart&auto=webp&s=fe09fed72c215643df5125fd9d1fb158d33a037c"
       },
       {
         "rank": 1,

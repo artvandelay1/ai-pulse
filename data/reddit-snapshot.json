@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-11-03T22:16:46.379Z",
+  "fetchedAt": "2026-11-04T02:37:43.649Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-03T05:09:18.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-03T19:29:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Paper review question [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmq17q/paper_review_question_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-03T11:01:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-04T01:31:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-03T04:25:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "This guy figured out how to leak your exact location from any video with sound using the Doppler curves of nearby airplanes",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmviu5/this_guy_figured_out_how_to_leak_your_exact/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T15:12:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oq3bmagnyezh1.png?width=640&crop=smart&auto=webp&s=eb27ed4fc7640bf03d32c915be9cbe46c486b8a8"
+      },
+      {
+        "rank": 2,
+        "title": "GPT-6 successfully performed \"brain surgery\" on another AI to make it smarter",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmt4nj/gpt6_successfully_performed_brain_surgery_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T13:37:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7q1pqguohezh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e304014a256d5015e937d3e11db9b5dcafb9279"
+      },
+      {
+        "rank": 3,
+        "title": "Sorry, my agents accidentally did it",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmx22x/sorry_my_agents_accidentally_did_it/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T16:09:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/0zhhqq5w8fzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7ad87f37e7b11a9bbf318bae0c5f291b759c0ed4"
+      },
+      {
+        "rank": 4,
+        "title": "GPT 6.2 Astra , GPT 6.2 sol",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xn36d1/gpt_62_astra_gpt_62_sol/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T19:50:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vkufdc2ecgzh1.png?width=640&crop=smart&auto=webp&s=9e3155eb4ca2282498f2ae4149ff3636742904ed"
+      },
+      {
+        "rank": 5,
+        "title": "What's the deal with all these RAM memes?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xmq2y4/whats_the_deal_with_all_these_ram_memes/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-03T11:03:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8pbobnjdqdzh1.png?width=640&crop=smart&auto=webp&s=145a9af1b233f7425227528c21405a970c9f5b48"
+      },
+      {
+        "rank": 1,
+        "title": "Xiaomi's humanoid robots spotted doing their first 8-hour shift sorting EV parts at a rate of ~ 1 per minute",
+        "url": "https://www.reddit.com/r/singularity/comments/1xn5g1f/xiaomis_humanoid_robots_spotted_doing_their_first/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-03T21:16:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MzByazNqZ21yZ3poMTD2rf77oAGINmNVb1cOKwKUTVtp8WJEEZN2L0D9LTJu.png?width=320&crop=smart&auto=webp&s=f48b346aeef066307b2990055ca7d6f807e1125f"
+      },
+      {
+        "rank": 2,
+        "title": "Im calling this the Altman Trap",
+        "url": "https://www.reddit.com/r/singularity/comments/1xmw7io/im_calling_this_the_altman_trap/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-03T15:37:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vbuspz383fzh1.png?width=640&crop=smart&auto=webp&s=4d271be203bcc9297d01a892386067eb6656cb5e"
+      },
+      {
+        "rank": 3,
+        "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xmxcxl/google_will_turn_off_search_for_schools_that/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-03T16:20:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cJJECU4IRIZxxiirDUtrZXDAC6k1vbpCwdMG45B6B-w.jpeg?width=640&crop=smart&auto=webp&s=073504ce6afd08e64c705bce8cfdcd6d0f664ff9"
+      },
+      {
+        "rank": 4,
+        "title": "This guy figured out how to leak your exact location from any video with sound using the Doppler curves of nearby airplanes",
+        "url": "https://www.reddit.com/r/singularity/comments/1xn26ml/this_guy_figured_out_how_to_leak_your_exact/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-03T19:14:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oq3bmagnyezh1.png?width=640&crop=smart&auto=webp&s=eb27ed4fc7640bf03d32c915be9cbe46c486b8a8"
+      },
+      {
+        "rank": 5,
+        "title": "Fable 5.5 vs GPT 6.2 Astra - SVG of a PS5 Controller",
+        "url": "https://www.reddit.com/r/singularity/comments/1xmvgxx/fable_55_vs_gpt_62_astra_svg_of_a_ps5_controller/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-03T15:10:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ct0nccitxezh1.png?width=640&crop=smart&auto=webp&s=3b9375528b121506d31d8583cb1699604035e3d1"
+      },
       {
         "rank": 1,
         "title": "Opus 5.5 medium with blender mcp is insane with the right prompting",
@@ -56,101 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-03T05:09:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-03T19:29:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Paper review question [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmq17q/paper_review_question_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-03T11:01:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "CPU parallelism lessons that carry over to GPU kernels: dependency chains, FP non-associativity, false sharing, memory-bound loops [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmowry/cpu_parallelism_lessons_that_carry_over_to_gpu/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-03T09:53:58.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-03T04:25:52.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "This guy figured out how to leak your exact location from any video with sound using the Doppler curves of nearby airplanes",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xmviu5/this_guy_figured_out_how_to_leak_your_exact/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T15:12:04.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oq3bmagnyezh1.png?width=640&crop=smart&auto=webp&s=eb27ed4fc7640bf03d32c915be9cbe46c486b8a8"
-      },
-      {
-        "rank": 2,
-        "title": "GPT-6 successfully performed \"brain surgery\" on another AI to make it smarter",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xmt4nj/gpt6_successfully_performed_brain_surgery_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T13:37:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7q1pqguohezh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6e304014a256d5015e937d3e11db9b5dcafb9279"
-      },
-      {
-        "rank": 3,
-        "title": "Sorry, my agents accidentally did it",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xmx22x/sorry_my_agents_accidentally_did_it/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T16:09:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0zhhqq5w8fzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=7ad87f37e7b11a9bbf318bae0c5f291b759c0ed4"
-      },
-      {
-        "rank": 4,
-        "title": "What's the deal with all these RAM memes?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xmq2y4/whats_the_deal_with_all_these_ram_memes/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T11:03:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8pbobnjdqdzh1.png?width=640&crop=smart&auto=webp&s=145a9af1b233f7425227528c21405a970c9f5b48"
-      },
-      {
-        "rank": 5,
-        "title": "GPT 6.2 Astra , GPT 6.2 sol",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xn36d1/gpt_62_astra_gpt_62_sol/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T19:50:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vkufdc2ecgzh1.png?width=640&crop=smart&auto=webp&s=9e3155eb4ca2282498f2ae4149ff3636742904ed"
-      },
-      {
-        "rank": 1,
         "title": "Sol offered to complete a CAPTCHA",
         "url": "https://www.reddit.com/r/codex/comments/1xmjihc/sol_offered_to_complete_a_captcha/",
         "source": "r/codex",
@@ -195,54 +245,6 @@
         "score": 0,
         "publishedAt": "2026-11-02T22:19:46.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "MIT researchers say GPT-6 Astra improved a small Qwen model’s math score from 7.9% to 48.1% by directly editing just 0.016% of its weights, without gradient-based training.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xm89o3/mit_researchers_say_gpt6_astra_improved_a_small/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-02T20:18:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Sam Altman: \"At the start of this year, AI was mostly not as smart as our smartest scientists, and now it's mostly smarter than them.\" He also says AI can now perform large parts of white-collar jobs that were beyond its capabilities earlier this year.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xm44jm/sam_altman_at_the_start_of_this_year_ai_was/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-02T17:50:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cTQ1bnFzcjFtOHpoMX_0vg88jgImEk6X_e_cOFBEwq3R73p_4oiZVe_JEpfR.png?width=640&crop=smart&auto=webp&s=4a69c9f88c2aee356d01a756688af04c02eff6de"
-      },
-      {
-        "rank": 3,
-        "title": "\"When we proved the first Millenium Prize problem, it was 10000 agents of the model that is gonna be released soon, the next GPT, working for about 4 days\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xlyml4/when_we_proved_the_first_millenium_prize_problem/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-02T14:27:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cGFpcnltaW5sN3poMT9C6H5-M_0ubbh_SPfmW64-hCvLtdvuYJ4nL-bzlKfZ.png?width=640&crop=smart&auto=webp&s=0fd1f35daa56bd945f98d6d889f072184cdf9ced"
-      },
-      {
-        "rank": 4,
-        "title": "If AI replaces nearly all jobs and we’re all living off UBI, how is anyone supposed to improve their financial situation?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xm89fn/if_ai_replaces_nearly_all_jobs_and_were_all/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-02T20:18:28.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "New frontier-level, long horizon benchmark GDPx (successor of GDPval). Best models scoring ~12%",
-        "url": "https://www.reddit.com/r/singularity/comments/1xlr2l4/new_frontierlevel_long_horizon_benchmark_gdpx/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-02T07:41:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/vuEGXH8p4ViqDtI1V4_h-nmNii9XFbOIm1hsKMpu2Ug.png?width=640&crop=smart&auto=webp&s=dc07a51603f31547f53278ef0a449cc738003ebb"
       }
     ]
   }

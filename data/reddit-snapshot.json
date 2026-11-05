@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T07:14:50.832Z",
+  "fetchedAt": "2026-11-05T15:44:50.654Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,20 +7,20 @@
     "items": [
       {
         "rank": 1,
-        "title": "A message to top tier conferences [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-04T09:55:50.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-04T16:17:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ICLR 2027 Reviews Discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-05T02:17:59.000Z",
         "category": "reddit"
       },
       {
@@ -34,35 +34,25 @@
       },
       {
         "rank": 4,
-        "title": "ICLR 2027 Reviews Discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+        "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-05T02:17:59.000Z",
+        "publishedAt": "2026-11-05T06:56:48.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+        "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-04T09:00:29.000Z",
+        "publishedAt": "2026-11-04T16:26:12.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ykjgz5i39kzh1.png?width=140&height=105&auto=webp&s=aa9661d9c922aa8d678e519d09f9e1a41bfa221b"
+        "thumbnail": "https://preview.redd.it/h7a0hkamgmzh1.jpeg?width=640&crop=smart&auto=webp&s=c3e61dc14d449c0cdb3608683567cdd297af29bb"
       },
       {
         "rank": 1,
-        "title": "My precious RAM",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xnl35l/my_precious_ram/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-04T10:43:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/78kj87workzh1.png?width=640&crop=smart&auto=webp&s=3c2ec23da18ae3858c7e42b0d8d256b612051505"
-      },
-      {
-        "rank": 2,
         "title": "Sam Altman Pulls Spectacular 180 After Unpopular Comments About RAM: 'It Is F**king Annoying'",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xnta2w/sam_altman_pulls_spectacular_180_after_unpopular/",
         "source": "r/OpenAI",
@@ -72,7 +62,7 @@
         "thumbnail": "https://external-preview.redd.it/h9mL0MLiSpn03SqaoRZOsWaQXeKZbtnD_fefwVw6Z44.jpeg?width=640&crop=smart&auto=webp&s=d35d4bfe3cb833ad1cd796c268c39d697f31da1f"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "imagine showing this video to someone in 2014 and explaining what happens next",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xnz8dw/imagine_showing_this_video_to_someone_in_2014_and/",
         "source": "r/OpenAI",
@@ -82,7 +72,7 @@
         "thumbnail": "https://preview.redd.it/dtb7vqsvpnzh1.png?width=640&crop=smart&auto=webp&s=9f8ff20a4eec561eef2ed4be478700f98ace59ee"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Democratic Arizona Congresswoman: Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xo0c4d/democratic_arizona_congresswoman_top_of_the/",
         "source": "r/OpenAI",
@@ -92,7 +82,7 @@
         "thumbnail": "https://preview.redd.it/cn3hjasmxnzh1.jpeg?width=640&crop=smart&auto=webp&s=ea74c4b75310da37113e36c74aea55b884b07fca"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Americans voted against kleptocracy—and tech CEOs are already changing their tune.",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xo2oed/americans_voted_against_kleptocracyand_tech_ceos/",
         "source": "r/OpenAI",
@@ -102,17 +92,17 @@
         "thumbnail": "https://preview.redd.it/js6687nveozh1.png?width=640&crop=smart&auto=webp&s=e9eed24c3a456e2fe327d9bfe7a9eaaa313a4a61"
       },
       {
-        "rank": 1,
-        "title": "Claude writes a neural network's weights by hand, without training, to detect fake legal citations—achieving 97.8% test accuracy and outperforming a conventionally trained model that scored 94.6%.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xnplmi/claude_writes_a_neural_networks_weights_by_hand/",
-        "source": "r/singularity",
+        "rank": 5,
+        "title": "He is just an old school guy!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xntrbf/he_is_just_an_old_school_guy/",
+        "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-04T14:28:11.000Z",
+        "publishedAt": "2026-11-04T17:10:41.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/da9osrqrvlzh1.jpeg?width=640&crop=smart&auto=webp&s=c91ca8945078f89bc2f58626c581e6eab6a71d71"
+        "thumbnail": "https://preview.redd.it/c2hm5lcbomzh1.png?width=640&crop=smart&auto=webp&s=a4f26f6761858d893a290219c26b967e95baf442"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "OpenAI claims their new security model patched 948 Linux privilege escalation vulnerabilities",
         "url": "https://www.reddit.com/r/singularity/comments/1xo3a2k/openai_claims_their_new_security_model_patched/",
         "source": "r/singularity",
@@ -122,23 +112,33 @@
         "thumbnail": "https://preview.redd.it/96em34akjozh1.png?width=640&crop=smart&auto=webp&s=2fa9c7479f482c17e7bbb7b7854b67885d658ce5"
       },
       {
-        "rank": 3,
-        "title": "Does anybody else feel like, given the Democrats’ landslide victory last night, the AI companies should get busy demonstrating the benefits of AI to the average person… or risk more data center moratoriums?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xnnvgd/does_anybody_else_feel_like_given_the_democrats/",
+        "rank": 2,
+        "title": "Former New York Times and Washington Post tech reporter Taylor Lorenz says she's being offered money to promote an anti-AI campaign—which cited her own investigation into paid anti-AI influence campaigns as the reason for recruiting her.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xo8ykt/former_new_york_times_and_washington_post_tech/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-04T13:13:10.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-05T03:57:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/aawuzry2wpzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=e6f32c442a8e6f12da6193f826917106ff3f7418"
+      },
+      {
+        "rank": 3,
+        "title": "Google DeepMind unveils agentic cheminformatics on Antigravity: compresses multi-day drug design workflows into 1 hour",
+        "url": "https://www.reddit.com/r/singularity/comments/1xo7urk/google_deepmind_unveils_agentic_cheminformatics/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-05T03:01:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/xB1rptic9vuAD33LyBkBUGo2E4BW23jN9qhwhnTvhpM.jpeg?width=640&crop=smart&auto=webp&s=356febf4f966a55c1e016f857f39df1b0309a5a8"
       },
       {
         "rank": 4,
-        "title": "Tencent demonstrates the lead frontier models have",
-        "url": "https://www.reddit.com/r/singularity/comments/1xnqk51/tencent_demonstrates_the_lead_frontier_models_have/",
+        "title": "63% of planned/under construction data centers in the US are in states with governors who have promised to ban or pause new data centers.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xo49pg/63_of_plannedunder_construction_data_centers_in/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-04T15:07:21.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q97bnucp2mzh1.jpeg?width=640&crop=smart&auto=webp&s=2beff953ca3708491126ed1fb9c11548634e1402"
+        "publishedAt": "2026-11-05T00:09:11.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,

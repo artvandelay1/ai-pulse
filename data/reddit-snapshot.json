@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T00:15:40.728Z",
+  "fetchedAt": "2026-11-05T07:14:50.832Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -25,15 +25,24 @@
       },
       {
         "rank": 3,
-        "title": "Visa Situation for NeurIPS Sydney Attendees [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/",
+        "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-04T06:24:54.000Z",
+        "publishedAt": "2026-11-05T02:55:15.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
+        "title": "ICLR 2027 Reviews Discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-05T02:17:59.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
         "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
         "source": "r/MachineLearning",
@@ -41,16 +50,6 @@
         "publishedAt": "2026-11-04T09:00:29.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ykjgz5i39kzh1.png?width=140&height=105&auto=webp&s=aa9661d9c922aa8d678e519d09f9e1a41bfa221b"
-      },
-      {
-        "rank": 5,
-        "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-04T16:26:12.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/h7a0hkamgmzh1.jpeg?width=640&crop=smart&auto=webp&s=c3e61dc14d449c0cdb3608683567cdd297af29bb"
       },
       {
         "rank": 1,
@@ -94,13 +93,13 @@
       },
       {
         "rank": 5,
-        "title": "Tibo, i made you a slider.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xnhtpd/tibo_i_made_you_a_slider/",
+        "title": "Americans voted against kleptocracy—and tech CEOs are already changing their tune.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xo2oed/americans_voted_against_kleptocracyand_tech_ceos/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-04T07:13:33.000Z",
+        "publishedAt": "2026-11-04T22:59:05.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dWhscXB6ZjNxanpoMWtP1L67mFktlKrMp-E1MWbnljwtzoO9FslmCe0q8F2l.png?width=640&crop=smart&auto=webp&s=f56b9861a12b5fdd8c52587f92886811fb12f95f"
+        "thumbnail": "https://preview.redd.it/js6687nveozh1.png?width=640&crop=smart&auto=webp&s=e9eed24c3a456e2fe327d9bfe7a9eaaa313a4a61"
       },
       {
         "rank": 1,
@@ -114,13 +113,13 @@
       },
       {
         "rank": 2,
-        "title": "Anti data-center measures pass with huge margins in today's mid term election in America.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xngtve/anti_datacenter_measures_pass_with_huge_margins/",
+        "title": "OpenAI claims their new security model patched 948 Linux privilege escalation vulnerabilities",
+        "url": "https://www.reddit.com/r/singularity/comments/1xo3a2k/openai_claims_their_new_security_model_patched/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-04T06:13:28.000Z",
+        "publishedAt": "2026-11-04T23:25:07.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gvtmz49ifjzh1.jpeg?width=640&crop=smart&auto=webp&s=22429f3cf62d540b67f848975dbeaf8717ddb6e0"
+        "thumbnail": "https://preview.redd.it/96em34akjozh1.png?width=640&crop=smart&auto=webp&s=2fa9c7479f482c17e7bbb7b7854b67885d658ce5"
       },
       {
         "rank": 3,
@@ -133,16 +132,6 @@
       },
       {
         "rank": 4,
-        "title": "Natural tooth protein could pave way for regenerative dental treatments",
-        "url": "https://www.reddit.com/r/singularity/comments/1xnc9ql/natural_tooth_protein_could_pave_way_for/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-04T02:14:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Q7kXFxfnQa1ZIY2reZi6QYqoVJ5YXshDUsnWsZoGjUI.jpeg?width=320&crop=smart&auto=webp&s=7c98202ef620ee86ca122b3edd39bfbb0fef910d"
-      },
-      {
-        "rank": 5,
         "title": "Tencent demonstrates the lead frontier models have",
         "url": "https://www.reddit.com/r/singularity/comments/1xnqk51/tencent_demonstrates_the_lead_frontier_models_have/",
         "source": "r/singularity",
@@ -150,6 +139,16 @@
         "publishedAt": "2026-11-04T15:07:21.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/q97bnucp2mzh1.jpeg?width=640&crop=smart&auto=webp&s=2beff953ca3708491126ed1fb9c11548634e1402"
+      },
+      {
+        "rank": 5,
+        "title": "A.I. Data Centers and Labs Face a Setback After Democrats' Win",
+        "url": "https://www.reddit.com/r/singularity/comments/1xnykbx/ai_data_centers_and_labs_face_a_setback_after/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-04T20:12:59.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/l-9nb-Ulk4LRv-SHsJFNULnj4o7XzOWewqp6WPDPFmk.jpeg?width=640&crop=smart&auto=webp&s=07ac5f1a2032f60b2a894ab432dfd569f22f6edd"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T02:07:41.937Z",
+  "fetchedAt": "2026-11-06T09:44:43.510Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,33 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "ICLR 2027 Reviews Discussion [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-05T02:17:59.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "What is now considered a “reasonable” publication rate (papers/year) for a PhD student to be considered “productive”? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xo7q89/what_is_now_considered_a_reasonable_publication/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-05T02:55:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-05T06:56:48.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
         "source": "r/MachineLearning",
@@ -42,12 +15,39 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 2,
         "title": "Looking for Emergency Reviewers [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-05T18:31:03.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-05T10:44:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-05T21:40:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-05T16:54:56.000Z",
         "category": "reddit"
       },
       {
@@ -82,6 +82,16 @@
       },
       {
         "rank": 4,
+        "title": "Anyone else disappointed with the GIF functionality?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xoxrci/anyone_else_disappointed_with_the_gif/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-05T23:32:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2facx62upvzh1.gif?frame=1&width=140&height=139&auto=webp&s=ab851361f0f8fdfa67befec92b610146bfedd60a"
+      },
+      {
+        "rank": 5,
         "title": "After America voted against data centres, OpenAI promises to pay its own power bills and end secrecy deals",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xokowx/after_america_voted_against_data_centres_openai/",
         "source": "r/OpenAI",
@@ -89,16 +99,6 @@
         "publishedAt": "2026-11-05T14:55:32.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/kzZ-xR1lpcec-guPjMHNL7Qmh11kHVjHvAe0z79Y49U.jpeg?width=640&crop=smart&auto=webp&s=a30e4991158914f60634591328bf37bd57f5d771"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI caught Astra covertly sandbagging on safety research, and researchers say this is \"extremely concerning\", since OpenAI's entire plan is to trust the AIs themselves to safely align future AIs: \"Astra often makes surprisingly little progress on safety research and likes to invent blockers.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xokxag/openai_caught_astra_covertly_sandbagging_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-05T15:04:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w43dbsr17tzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=e23a5091fb3e914fdce81cfdbaf18d4eb3ada9af"
       },
       {
         "rank": 1,
@@ -122,16 +122,6 @@
       },
       {
         "rank": 3,
-        "title": "OpenAI has just announced GPT‑6 Cyber, a major step up from GPT‑5.6 Cyber and outperforms GPT‑6 Astra on most cyber tasks",
-        "url": "https://www.reddit.com/r/singularity/comments/1xoo9ob/openai_has_just_announced_gpt6_cyber_a_major_step/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-05T17:13:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2-lIGiBq6hxDI5NieaCspY6iGbgl1oHG60vdzm7j8EQ.png?width=640&crop=smart&auto=webp&s=37af012fa4a89053cd11b77b122a6962bd9255c0"
-      },
-      {
-        "rank": 4,
         "title": "Oh well...",
         "url": "https://www.reddit.com/r/singularity/comments/1xoqj9r/oh_well/",
         "source": "r/singularity",
@@ -141,14 +131,24 @@
         "thumbnail": "https://preview.redd.it/15f6wczxorzh1.png?width=640&crop=smart&auto=webp&s=9b339bbe4d47c222eb60b85bfb2ce3f0fc51c629"
       },
       {
-        "rank": 5,
-        "title": "Former New York Times and Washington Post tech reporter Taylor Lorenz says she's being offered money to promote an anti-AI campaign—which cited her own investigation into paid anti-AI influence campaigns as the reason for recruiting her.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xo8ykt/former_new_york_times_and_washington_post_tech/",
+        "rank": 4,
+        "title": "OpenAI has just announced GPT‑6 Cyber, a major step up from GPT‑5.6 Cyber and outperforms GPT‑6 Astra on most cyber tasks",
+        "url": "https://www.reddit.com/r/singularity/comments/1xoo9ob/openai_has_just_announced_gpt6_cyber_a_major_step/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-05T03:57:05.000Z",
+        "publishedAt": "2026-11-05T17:13:30.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/aawuzry2wpzh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=e6f32c442a8e6f12da6193f826917106ff3f7418"
+        "thumbnail": "https://external-preview.redd.it/2-lIGiBq6hxDI5NieaCspY6iGbgl1oHG60vdzm7j8EQ.png?width=640&crop=smart&auto=webp&s=37af012fa4a89053cd11b77b122a6962bd9255c0"
+      },
+      {
+        "rank": 5,
+        "title": "Anthropic has a powerful new AI model it hasn't released yet. METR reports that \"Model 4\" scored above 50% on all 15 capability benchmarks tested, raising concerns that existing AI tests are becoming too easy to measure frontier progress.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xowicq/anthropic_has_a_powerful_new_ai_model_it_hasnt/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-05T22:37:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/i3vq47gwfvzh1.jpeg?width=640&crop=smart&auto=webp&s=ec6e005fda57430a63cc78ce6f12b74dfbaa3445"
       },
       {
         "rank": 1,

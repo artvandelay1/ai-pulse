@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T09:44:43.510Z",
+  "fetchedAt": "2026-11-06T17:17:51.054Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,16 @@
     "items": [
       {
         "rank": 1,
+        "title": "ICLR 2027 Review Scores [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-06T14:37:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/hypo5l1a700i1.png?width=640&crop=smart&auto=webp&s=13880d75663df545236dd1e04bf8239d14f133c8"
+      },
+      {
+        "rank": 2,
         "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
         "source": "r/MachineLearning",
@@ -15,53 +25,34 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
-        "title": "Looking for Emergency Reviewers [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-05T18:31:03.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 3,
-        "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
+        "title": "ICLR 2027 Reviews are out [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-05T10:44:15.000Z",
+        "publishedAt": "2026-11-06T13:03:09.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
+        "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-05T21:40:01.000Z",
+        "publishedAt": "2026-11-06T15:09:18.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
+        "title": "How do you build visibility through open source contributions?[D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-05T16:54:56.000Z",
+        "publishedAt": "2026-11-06T09:55:15.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Linux kernel maintainers",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xohajy/linux_kernel_maintainers/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-05T12:22:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3kw5iabxdszh1.jpeg?width=640&crop=smart&auto=webp&s=e6c9b8951a0abe6b2a4cfc432ba7eb2979206d2d"
-      },
-      {
-        "rank": 2,
         "title": "Abdul El-Sayed is the Pause AI candidate: Abdul El-Sayed supports Bernie's AI pause and calls for an international treaty with China: \"We have to figure out how work together like we have with other humanity-risking technologies like nuclear.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xorzoa/abdul_elsayed_is_the_pause_ai_candidate_abdul/",
         "source": "r/OpenAI",
@@ -71,17 +62,17 @@
         "thumbnail": "https://external-preview.redd.it/d3ZvczBjMzlqdXpoMV1qWidzr7uWxp0GmZAEsXpLKYpph4mqh8r3yLd2Tyhh.png?width=640&crop=smart&auto=webp&s=46d764c4935d3672ec3c9ab7a02a1602cea1f084"
       },
       {
-        "rank": 3,
-        "title": "I tried the new image 2.6 gif feature",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xoh2u0/i_tried_the_new_image_26_gif_feature/",
+        "rank": 2,
+        "title": "I guess I'm an LLM",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xp5160/i_guess_im_an_llm/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-05T12:11:09.000Z",
+        "publishedAt": "2026-11-06T05:38:37.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/smnyo808cszh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=4df7bd80fa3b6a43f25741ecefbc2b6b25670d10"
+        "thumbnail": "https://preview.redd.it/73hclu33jxzh1.png?width=640&crop=smart&auto=webp&s=6c2791d9fa914015c0ce63a79cbb7d3f61625ae2"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Anyone else disappointed with the GIF functionality?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xoxrci/anyone_else_disappointed_with_the_gif/",
         "source": "r/OpenAI",
@@ -91,14 +82,24 @@
         "thumbnail": "https://preview.redd.it/2facx62upvzh1.gif?frame=1&width=140&height=139&auto=webp&s=ab851361f0f8fdfa67befec92b610146bfedd60a"
       },
       {
-        "rank": 5,
-        "title": "After America voted against data centres, OpenAI promises to pay its own power bills and end secrecy deals",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xokowx/after_america_voted_against_data_centres_openai/",
+        "rank": 4,
+        "title": "METR's Ryan Greenblatt estimates AI is now speeding up AI by 4.5x. This is 5 months earlier than even AI 2027 predicted. \"I was seriously wrong about RSI speed up ... This is a big update towards ASI within 1-2 years.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xpcezu/metrs_ryan_greenblatt_estimates_ai_is_now/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-05T14:55:32.000Z",
+        "publishedAt": "2026-11-06T13:10:18.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/kzZ-xR1lpcec-guPjMHNL7Qmh11kHVjHvAe0z79Y49U.jpeg?width=640&crop=smart&auto=webp&s=a30e4991158914f60634591328bf37bd57f5d771"
+        "thumbnail": "https://preview.redd.it/doe9yiymrzzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=97992dfa4135ff6c6d9b2312ffc92eba820b1572"
+      },
+      {
+        "rank": 5,
+        "title": "Godfather of AI warns humanity: It’s all hurtling out of control",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xoqq49/godfather_of_ai_warns_humanity_its_all_hurtling/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-05T18:45:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/uBTYdLM_H0_xiXcTJD_up8-orfdlQWlBNqprauAXwpA.jpeg?width=640&crop=smart&auto=webp&s=b39cbd4558269edebd03ba46bf5854247cf216a3"
       },
       {
         "rank": 1,
@@ -112,6 +113,16 @@
       },
       {
         "rank": 2,
+        "title": "Stanford researchers develop a new AI memory system that recalls information from entire conversation histories using just 16 memory tokens. It reduces document-token usage by up to 4,212×, runs 27× faster in a 512-document test, and outperforms existing approaches on 5 of 8 benchmarks.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xpabzx/stanford_researchers_develop_a_new_ai_memory/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-06T11:17:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eWZjdHg1bmo3enpoMXm__5OkPtUHl2Kx4wXgRtTeXpDYTF_f07ramPcFZo16.png?width=640&crop=smart&auto=webp&s=0853a31b921cc72dce79504bd184e81bd567e4d5"
+      },
+      {
+        "rank": 3,
         "title": "METR reveals Anthropic's unreleased Model 4, trained in September–October 2026, scored 178.6 on the AI capability index, a jump nearly 90% as large as the entire improvement from Opus 4.6 to Mythos 5.",
         "url": "https://www.reddit.com/r/singularity/comments/1xorf5c/metr_reveals_anthropics_unreleased_model_4/",
         "source": "r/singularity",
@@ -121,7 +132,7 @@
         "thumbnail": "https://preview.redd.it/a2g89bkwduzh1.png?width=640&crop=smart&auto=webp&s=e3720705b5f71d7df505bbb9124feb6234812154"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Oh well...",
         "url": "https://www.reddit.com/r/singularity/comments/1xoqj9r/oh_well/",
         "source": "r/singularity",
@@ -131,24 +142,14 @@
         "thumbnail": "https://preview.redd.it/15f6wczxorzh1.png?width=640&crop=smart&auto=webp&s=9b339bbe4d47c222eb60b85bfb2ce3f0fc51c629"
       },
       {
-        "rank": 4,
-        "title": "OpenAI has just announced GPT‑6 Cyber, a major step up from GPT‑5.6 Cyber and outperforms GPT‑6 Astra on most cyber tasks",
-        "url": "https://www.reddit.com/r/singularity/comments/1xoo9ob/openai_has_just_announced_gpt6_cyber_a_major_step/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-05T17:13:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/2-lIGiBq6hxDI5NieaCspY6iGbgl1oHG60vdzm7j8EQ.png?width=640&crop=smart&auto=webp&s=37af012fa4a89053cd11b77b122a6962bd9255c0"
-      },
-      {
         "rank": 5,
-        "title": "Anthropic has a powerful new AI model it hasn't released yet. METR reports that \"Model 4\" scored above 50% on all 15 capability benchmarks tested, raising concerns that existing AI tests are becoming too easy to measure frontier progress.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xowicq/anthropic_has_a_powerful_new_ai_model_it_hasnt/",
+        "title": "I can't imagine how hilarious it will be to revisit posts like this 5 years later",
+        "url": "https://www.reddit.com/r/singularity/comments/1xp0uhp/i_cant_imagine_how_hilarious_it_will_be_to/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-05T22:37:03.000Z",
+        "publishedAt": "2026-11-06T01:58:18.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i3vq47gwfvzh1.jpeg?width=640&crop=smart&auto=webp&s=ec6e005fda57430a63cc78ce6f12b74dfbaa3445"
+        "thumbnail": "https://preview.redd.it/z391nm12fwzh1.png?width=640&crop=smart&auto=webp&s=ba4815d4edc2357c5f534e3a13dd1687748bfcd2"
       },
       {
         "rank": 1,

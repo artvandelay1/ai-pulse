@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T09:07:45.338Z",
+  "fetchedAt": "2026-11-07T15:53:12.122Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,21 +7,68 @@
     "items": [
       {
         "rank": 1,
-        "title": "ICLR 2027 Review Scores [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpedgc/iclr_2027_review_scores_n/",
-        "source": "r/MachineLearning",
+        "title": "I built a sailing sim with Claude Code and made the frontier models race each other in it",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/i_built_a_sailing_sim_with_claude_code_and_made/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-06T14:37:41.000Z",
+        "publishedAt": "2026-11-06T17:22:13.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hypo5l1a700i1.png?width=640&crop=smart&auto=webp&s=13880d75663df545236dd1e04bf8239d14f133c8"
+        "thumbnail": "https://external-preview.redd.it/Ymg0NDBidmwwMTBpMT4dPxwKKXfrXb5saNhRZZ9xeczcQjnDhr44bz1ArkQU.png?width=640&crop=smart&auto=webp&s=def782f84d1e3f16a239207f26e867821707a3eb"
       },
       {
         "rank": 2,
+        "title": "A judge says Claude Max’s “20x more usage” promise could mislead paying subscribers",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq12am/a_judge_says_claude_maxs_20x_more_usage_promise/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T08:02:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/CEIc6Jzq9mMDuO2Lmn70wGrtcrGzjKl0Nv1ELxY5ohI.jpeg?width=640&crop=smart&auto=webp&s=2edb9db5a657483090f12c0c12ae3e6afb287ac2"
+      },
+      {
+        "rank": 3,
+        "title": "False positive: debugging my own software flagged as reverse engineering",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxotw/false_positive_debugging_my_own_software_flagged/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T04:42:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xrjweaijd40i1.gif?width=640&crop=smart&s=0bb545e9036ee16ec3b4a138b6651df4a9e08c65"
+      },
+      {
+        "rank": 4,
+        "title": "Anyone else being driven by people who pretend this doesn't exist?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpshux/anyone_else_being_driven_by_people_who_pretend/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T00:16:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Stanford researchers develop a new AI memory system that recalls information from entire conversation histories using just 16 memory tokens. It reduces document-token usage by up to 4,212×, runs 27× faster in a 512-document test, and outperforms existing approaches on 5 of 8 benchmarks.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpvvg3/stanford_researchers_develop_a_new_ai_memory/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T03:04:25.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
         "title": "The most scathing reviewer 2 review I have ever read",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-07T01:30:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-07T07:08:01.000Z",
         "category": "reddit"
       },
       {
@@ -35,20 +82,69 @@
       },
       {
         "rank": 4,
-        "title": "ICLR 2027 Reviews are out [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
+        "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-06T13:03:09.000Z",
+        "publishedAt": "2026-11-06T20:23:53.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+        "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-07T07:08:01.000Z",
+        "publishedAt": "2026-11-07T08:25:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "How are we surviving without resets brothers and sisters?",
+        "url": "https://www.reddit.com/r/codex/comments/1xpsvqu/how_are_we_surviving_without_resets_brothers_and/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-07T00:34:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qczy6dsq530i1.jpeg?width=640&crop=smart&auto=webp&s=7f68df904eadf7b8149f8df9a9dc893e165fd7ed"
+      },
+      {
+        "rank": 2,
+        "title": "No new models Tibo :- Here o will larp about dots even more",
+        "url": "https://www.reddit.com/r/codex/comments/1xpuvar/no_new_models_tibo_here_o_will_larp_about_dots/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-07T02:12:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m37y27kbn30i1.jpeg?width=640&crop=smart&auto=webp&s=04d5eccbdaa942a09838a51fba09c327a0103f02"
+      },
+      {
+        "rank": 3,
+        "title": "I used Codex to revive Pro Pinball - The Web (1995)",
+        "url": "https://www.reddit.com/r/codex/comments/1xpochp/i_used_codex_to_revive_pro_pinball_the_web_1995/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-06T21:13:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/waskrpwh520i1.jpeg?width=640&crop=smart&auto=webp&s=0dbfb7fe17e29368681b89c45bbbcf988ff7a01a"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI hid GPT Astra 6.2 in newest biology post (see all images)",
+        "url": "https://www.reddit.com/r/codex/comments/1xprccq/openai_hid_gpt_astra_62_in_newest_biology_post/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-06T23:22:42.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2fevwenus20i1.png?width=140&height=103&auto=webp&s=acffd7c1e883ca514744633d0d9a1db1269b5f77"
+      },
+      {
+        "rank": 5,
+        "title": "Stayed up until 3 AM grinding, only to forget the most important part",
+        "url": "https://www.reddit.com/r/codex/comments/1xpuys8/stayed_up_until_3_am_grinding_only_to_forget_the/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-07T02:17:44.000Z",
         "category": "reddit"
       },
       {
@@ -147,102 +243,6 @@
         "publishedAt": "2026-11-06T22:20:45.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cHJpZjN4cDJoMjBpMSzV_cNcbV2HbhExYb7_CZs_XqFsJSpHEzDl5e4iZTLB.png?width=640&crop=smart&auto=webp&s=0d5dbbd4fe8a2f0de73b7bcec6faed75cf8cfb6b"
-      },
-      {
-        "rank": 1,
-        "title": "I gave every Claude model the exact same prompt since July 2025. 13 models, 14 months, here's the evolution",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6eli/i_gave_every_claude_model_the_exact_same_prompt/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T21:54:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dmNoYnQ2aHV4Z3poMUsBs7Wrl7Hw-us6NCGMt9voisy1BLevD1UqGeNr2Qjn.png?width=640&crop=smart&auto=webp&s=3c1331886495ad464a2e46c9ceabd848c91dbe83"
-      },
-      {
-        "rank": 2,
-        "title": "Anthropic Blocking Reverse Engineer Anything",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn2iq3/anthropic_blocking_reverse_engineer_anything/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T19:26:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "From a notebook sketch to an animated Godot boss — 3D AI + Opus 5.5",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn7jti/from_a_notebook_sketch_to_an_animated_godot_boss/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T22:40:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bmd5aGR3ZGk1aHpoMXPkUATUGVmX00BplUI5h6QuJBgeJO4UfF4mxgl-gNFo.png?width=640&crop=smart&auto=webp&s=bf8760c6701ccdd7cf10915fa4557f1881c5f1e7"
-      },
-      {
-        "rank": 4,
-        "title": "I gave Claude ~700 ransomware encrypted files. It told me upfront it couldn't decrypt them, then got two thirds of them usable again",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xn6tu3/i_gave_claude_700_ransomware_encrypted_files_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-03T22:10:39.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tc5sz9ln0hzh1.jpeg?width=140&height=46&auto=webp&s=9583fc1678eca5bb19c8d684772331c6ba81ff8e"
-      },
-      {
-        "rank": 5,
-        "title": "Show me Claude Code projects that DON’T look vibecoded",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xnnqkg/show_me_claude_code_projects_that_dont_look/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-04T13:06:41.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Tibo on coding agents: \"Incredible, yet so frustrating still\"",
-        "url": "https://www.reddit.com/r/codex/comments/1xn7m19/tibo_on_coding_agents_incredible_yet_so/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-03T22:42:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/to8x7yct6hzh1.png?width=320&crop=smart&auto=webp&s=043853ea6b9fe365233ef2024201f24324222973"
-      },
-      {
-        "rank": 2,
-        "title": "BLT = Bel Launches tomorrow?",
-        "url": "https://www.reddit.com/r/codex/comments/1xnkszi/blt_bel_launches_tomorrow/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-04T10:25:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xszvd7cgokzh1.png?width=640&crop=smart&auto=webp&s=2ea50e37724b584546710e6341fcdf2fbedf917f"
-      },
-      {
-        "rank": 3,
-        "title": "Holy smokes the dot is an amazing middle manager",
-        "url": "https://www.reddit.com/r/codex/comments/1xn92w0/holy_smokes_the_dot_is_an_amazing_middle_manager/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-03T23:46:37.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Do you really think, these benchmarks are legit?",
-        "url": "https://www.reddit.com/r/codex/comments/1xnj7ok/do_you_really_think_these_benchmarks_are_legit/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-04T08:42:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/zfjokdix5kzh1.png?width=640&crop=smart&auto=webp&s=0e2e3f9b3b74d87bdfd0e446c1c2a3d60ac339bf"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI, please stop pretending that new ways to talk to Dots are meaningful features",
-        "url": "https://www.reddit.com/r/codex/comments/1xnh6gs/openai_please_stop_pretending_that_new_ways_to/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-04T06:34:19.000Z",
-        "category": "reddit"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T22:17:51.659Z",
+  "fetchedAt": "2026-11-07T02:15:42.894Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,20 +26,20 @@
       },
       {
         "rank": 3,
-        "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-06T15:09:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-06T21:25:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-06T15:09:18.000Z",
         "category": "reddit"
       },
       {
@@ -63,16 +63,6 @@
       },
       {
         "rank": 2,
-        "title": "Anyone else disappointed with the GIF functionality?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xoxrci/anyone_else_disappointed_with_the_gif/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-05T23:32:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2facx62upvzh1.gif?frame=1&width=140&height=139&auto=webp&s=ab851361f0f8fdfa67befec92b610146bfedd60a"
-      },
-      {
-        "rank": 3,
         "title": "METR's Ryan Greenblatt estimates AI is now speeding up AI by 4.5x. This is 5 months earlier than even AI 2027 predicted. \"I was seriously wrong about RSI speed up ... This is a big update towards ASI within 1-2 years.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xpcezu/metrs_ryan_greenblatt_estimates_ai_is_now/",
         "source": "r/OpenAI",
@@ -82,7 +72,7 @@
         "thumbnail": "https://preview.redd.it/doe9yiymrzzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=97992dfa4135ff6c6d9b2312ffc92eba820b1572"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "OpenAI finds 948 local privilege escalation bugs in the Linux kernel",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xp9xau/openai_finds_948_local_privilege_escalation_bugs/",
         "source": "r/OpenAI",
@@ -92,7 +82,7 @@
         "thumbnail": "https://external-preview.redd.it/0ln2vsn7EQKrnfGWZXpIIGtYkoYzVll6wHf2SgQTud8.jpeg?width=640&crop=smart&auto=webp&s=08c0c37f3dac9ad2420f222b7ca3840f3bea1bf9"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "This AI 2027 tracker is currently 19 for 24. Are we actually hitting an alignment crisis next year?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xpaq50/this_ai_2027_tracker_is_currently_19_for_24_are/",
         "source": "r/OpenAI",
@@ -100,6 +90,15 @@
         "publishedAt": "2026-11-06T11:41:14.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/cz0yl6xsbzzh1.png?width=640&crop=smart&auto=webp&s=0b399cdcf49792e6841d184cec68f5c88a2071cb"
+      },
+      {
+        "rank": 5,
+        "title": "Come on, Open AI, Standard Voice mode is a important, fundamental tool. Why remove it?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xpgife/come_on_open_ai_standard_voice_mode_is_a/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-06T16:04:22.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -123,13 +122,13 @@
       },
       {
         "rank": 3,
-        "title": "I can't imagine how hilarious it will be to revisit posts like this 5 years later",
-        "url": "https://www.reddit.com/r/singularity/comments/1xp0uhp/i_cant_imagine_how_hilarious_it_will_be_to/",
+        "title": "No GPT-6.2, no Fable 5.5, no Qwen 4",
+        "url": "https://www.reddit.com/r/singularity/comments/1xpo0j3/no_gpt62_no_fable_55_no_qwen_4/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-06T01:58:18.000Z",
+        "publishedAt": "2026-11-06T20:59:44.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/z391nm12fwzh1.png?width=640&crop=smart&auto=webp&s=ba4815d4edc2357c5f534e3a13dd1687748bfcd2"
+        "thumbnail": "https://preview.redd.it/k60swf0k220i1.png?width=320&crop=smart&auto=webp&s=ae1603ce684b2d55e3b5fe2cb4e01ef5f4f70114"
       },
       {
         "rank": 4,
@@ -143,13 +142,12 @@
       },
       {
         "rank": 5,
-        "title": "Anthropic has a powerful new AI model it hasn't released yet. METR reports that \"Model 4\" scored above 50% on all 15 capability benchmarks tested, raising concerns that existing AI tests are becoming too easy to measure frontier progress.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xowicq/anthropic_has_a_powerful_new_ai_model_it_hasnt/",
+        "title": "Looks like the future is just around the corner... What do you think about this?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xph3ur/looks_like_the_future_is_just_around_the_corner/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-05T22:37:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/i3vq47gwfvzh1.jpeg?width=640&crop=smart&auto=webp&s=ec6e005fda57430a63cc78ce6f12b74dfbaa3445"
+        "publishedAt": "2026-11-06T16:27:32.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

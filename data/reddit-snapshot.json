@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-11-07T15:53:12.122Z",
+  "fetchedAt": "2026-11-07T20:02:44.205Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "The most scathing reviewer 2 review I have ever read",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-07T01:30:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-07T07:08:01.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-06T21:25:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-06T20:23:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-07T08:25:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I gave Astra \"Extra High\" 10 minutes of \"free time\" on a computer with full access as a reward, here's what it did",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xpzuce/i_gave_astra_extra_high_10_minutes_of_free_time/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T06:46:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/emt4im8uz40i1.png?width=320&crop=smart&auto=webp&s=1e17ee6a9cfb470913a15651dc3a255c6be031bf"
+      },
+      {
+        "rank": 2,
+        "title": "Unlimited chat is going away, what are you doing?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xq1qtj/unlimited_chat_is_going_away_what_are_you_doing/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T08:46:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Israeli researchers develop method letting AI teach itself without human-generated data",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xqayzn/israeli_researchers_develop_method_letting_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T16:51:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/zm481q0BtUSIUdUpnurrD7cQ9rz5-9Ys3CcIuREJnyg.jpeg?width=640&crop=smart&auto=webp&s=bb02660ebb6f64a3e9810832503466ad097b9f59"
+      },
+      {
+        "rank": 4,
+        "title": "what is this fake free trial that never goes away???",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xpyhrp/what_is_this_fake_free_trial_that_never_goes_away/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T05:26:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ufwmpguvl40i1.jpeg?width=640&crop=smart&auto=webp&s=3a4de393489c8087d9b9c543dd0cf6eebbdc2f3a"
+      },
+      {
+        "rank": 5,
+        "title": "I Fixed my Dot!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xpx9uw/i_fixed_my_dot/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T04:19:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "No GPT-6.2, no Fable 5.5, no Qwen 4",
+        "url": "https://www.reddit.com/r/singularity/comments/1xpo0j3/no_gpt62_no_fable_55_no_qwen_4/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-06T20:59:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/k60swf0k220i1.png?width=320&crop=smart&auto=webp&s=ae1603ce684b2d55e3b5fe2cb4e01ef5f4f70114"
+      },
+      {
+        "rank": 2,
+        "title": "Figure.AI more humanoid robots than humans",
+        "url": "https://www.reddit.com/r/singularity/comments/1xpu6bv/figureai_more_humanoid_robots_than_humans/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-07T01:37:53.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dW1qbGFiZTFoMzBpMWKP4ePmT6tohbq1dYlrwm-NyjrNrXEMiw12qsrj6HaA.png?width=320&crop=smart&auto=webp&s=6f5e52350b10d9c945e0ba31503ca7ace63668ec"
+      },
+      {
+        "rank": 3,
+        "title": "Claude paints a watercolor tree with a robotic arm in 4.5 hours, and mixes its own custom colors along the way",
+        "url": "https://www.reddit.com/r/singularity/comments/1xppyfh/claude_paints_a_watercolor_tree_with_a_robotic/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-06T22:20:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHJpZjN4cDJoMjBpMSzV_cNcbV2HbhExYb7_CZs_XqFsJSpHEzDl5e4iZTLB.png?width=640&crop=smart&auto=webp&s=0d5dbbd4fe8a2f0de73b7bcec6faed75cf8cfb6b"
+      },
+      {
+        "rank": 4,
+        "title": "Virginia's \"Data Center Alley\" generates $1.2 billion in annual tax revenue—40% of Loudoun County's entire tax revenue from just 3% of its land, according to the county's economic development chief.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xq4hp4/virginias_data_center_alley_generates_12_billion/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-07T11:46:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bm9xcmhzOGxjNjBpMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=81e7190a9d13a9213620d23feb3c7c4bc70e6d0f"
+      },
+      {
+        "rank": 5,
+        "title": "Silicon Valley was so ahead of its time",
+        "url": "https://www.reddit.com/r/singularity/comments/1xpv91b/silicon_valley_was_so_ahead_of_its_time/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-07T02:32:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ny85pgzq830i1.jpeg?width=640&crop=smart&auto=webp&s=e40249d33e683b23e03b0f9eda6395bdab992cb1"
+      },
       {
         "rank": 1,
         "title": "I built a sailing sim with Claude Code and made the frontier models race each other in it",
@@ -55,51 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "The most scathing reviewer 2 review I have ever read",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T01:30:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T07:08:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-06T21:25:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-06T20:23:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T08:25:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "How are we surviving without resets brothers and sisters?",
         "url": "https://www.reddit.com/r/codex/comments/1xpsvqu/how_are_we_surviving_without_resets_brothers_and/",
         "source": "r/codex",
@@ -146,103 +244,6 @@
         "score": 0,
         "publishedAt": "2026-11-07T02:17:44.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "METR's Ryan Greenblatt estimates AI is now speeding up AI by 4.5x. This is 5 months earlier than even AI 2027 predicted. \"I was seriously wrong about RSI speed up ... This is a big update towards ASI within 1-2 years.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpcezu/metrs_ryan_greenblatt_estimates_ai_is_now/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-06T13:10:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/doe9yiymrzzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=97992dfa4135ff6c6d9b2312ffc92eba820b1572"
-      },
-      {
-        "rank": 2,
-        "title": "I gave Astra \"Extra High\" 10 minutes of \"free time\" on a computer with full access as a reward, here's what it did",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpzuce/i_gave_astra_extra_high_10_minutes_of_free_time/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T06:46:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/emt4im8uz40i1.png?width=320&crop=smart&auto=webp&s=1e17ee6a9cfb470913a15651dc3a255c6be031bf"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI finds 948 local privilege escalation bugs in the Linux kernel",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xp9xau/openai_finds_948_local_privilege_escalation_bugs/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-06T10:52:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/0ln2vsn7EQKrnfGWZXpIIGtYkoYzVll6wHf2SgQTud8.jpeg?width=640&crop=smart&auto=webp&s=08c0c37f3dac9ad2420f222b7ca3840f3bea1bf9"
-      },
-      {
-        "rank": 4,
-        "title": "Come on, Open AI, Standard Voice mode is a important, fundamental tool. Why remove it?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpgife/come_on_open_ai_standard_voice_mode_is_a/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-06T16:04:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I Fixed my Dot!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpx9uw/i_fixed_my_dot/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T04:19:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Stanford researchers develop a new AI memory system that recalls information from entire conversation histories using just 16 memory tokens. It reduces document-token usage by up to 4,212×, runs 27× faster in a 512-document test, and outperforms existing approaches on 5 of 8 benchmarks.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xpabzx/stanford_researchers_develop_a_new_ai_memory/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-06T11:17:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eWZjdHg1bmo3enpoMXm__5OkPtUHl2Kx4wXgRtTeXpDYTF_f07ramPcFZo16.png?width=640&crop=smart&auto=webp&s=0853a31b921cc72dce79504bd184e81bd567e4d5"
-      },
-      {
-        "rank": 2,
-        "title": "No GPT-6.2, no Fable 5.5, no Qwen 4",
-        "url": "https://www.reddit.com/r/singularity/comments/1xpo0j3/no_gpt62_no_fable_55_no_qwen_4/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-06T20:59:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/k60swf0k220i1.png?width=320&crop=smart&auto=webp&s=ae1603ce684b2d55e3b5fe2cb4e01ef5f4f70114"
-      },
-      {
-        "rank": 3,
-        "title": "An unreleased Anthropic AI model reportedly solves an 18-year-old quantum computing conjecture in just 3 days. Researchers at Physical Superintelligence say the proof establishes a fundamental limit on quantum speedups and has been formally verified using Lean.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xpgl2k/an_unreleased_anthropic_ai_model_reportedly/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-06T16:07:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3pwp1qw9n00i1.jpeg?width=640&crop=smart&auto=webp&s=726765164bef4b1d093397ae8109828a23b48f57"
-      },
-      {
-        "rank": 4,
-        "title": "Looks like the future is just around the corner... What do you think about this?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xph3ur/looks_like_the_future_is_just_around_the_corner/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-06T16:27:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Claude paints a watercolor tree with a robotic arm in 4.5 hours, and mixes its own custom colors along the way",
-        "url": "https://www.reddit.com/r/singularity/comments/1xppyfh/claude_paints_a_watercolor_tree_with_a_robotic/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-06T22:20:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHJpZjN4cDJoMjBpMSzV_cNcbV2HbhExYb7_CZs_XqFsJSpHEzDl5e4iZTLB.png?width=640&crop=smart&auto=webp&s=0d5dbbd4fe8a2f0de73b7bcec6faed75cf8cfb6b"
       }
     ]
   }

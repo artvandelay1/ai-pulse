@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T02:15:42.894Z",
+  "fetchedAt": "2026-11-07T09:07:45.338Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,11 +17,11 @@
       },
       {
         "rank": 2,
-        "title": "ICLR 2027 Reviews are out [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
+        "title": "The most scathing reviewer 2 review I have ever read",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-06T13:03:09.000Z",
+        "publishedAt": "2026-11-07T01:30:53.000Z",
         "category": "reddit"
       },
       {
@@ -35,34 +35,24 @@
       },
       {
         "rank": 4,
-        "title": "ICLR27: Reviewer says my paper is too close to the same paper that I previously had in a workshop. [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpf4t6/iclr27_reviewer_says_my_paper_is_too_close_to_the/",
+        "title": "ICLR 2027 Reviews are out [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-06T15:09:18.000Z",
+        "publishedAt": "2026-11-06T13:03:09.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+        "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-06T20:23:53.000Z",
+        "publishedAt": "2026-11-07T07:08:01.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "I guess I'm an LLM",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xp5160/i_guess_im_an_llm/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-06T05:38:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/73hclu33jxzh1.png?width=640&crop=smart&auto=webp&s=6c2791d9fa914015c0ce63a79cbb7d3f61625ae2"
-      },
-      {
-        "rank": 2,
         "title": "METR's Ryan Greenblatt estimates AI is now speeding up AI by 4.5x. This is 5 months earlier than even AI 2027 predicted. \"I was seriously wrong about RSI speed up ... This is a big update towards ASI within 1-2 years.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xpcezu/metrs_ryan_greenblatt_estimates_ai_is_now/",
         "source": "r/OpenAI",
@@ -70,6 +60,16 @@
         "publishedAt": "2026-11-06T13:10:18.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/doe9yiymrzzh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=97992dfa4135ff6c6d9b2312ffc92eba820b1572"
+      },
+      {
+        "rank": 2,
+        "title": "I gave Astra \"Extra High\" 10 minutes of \"free time\" on a computer with full access as a reward, here's what it did",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xpzuce/i_gave_astra_extra_high_10_minutes_of_free_time/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T06:46:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/emt4im8uz40i1.png?width=320&crop=smart&auto=webp&s=1e17ee6a9cfb470913a15651dc3a255c6be031bf"
       },
       {
         "rank": 3,
@@ -83,21 +83,20 @@
       },
       {
         "rank": 4,
-        "title": "This AI 2027 tracker is currently 19 for 24. Are we actually hitting an alignment crisis next year?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpaq50/this_ai_2027_tracker_is_currently_19_for_24_are/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-06T11:41:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cz0yl6xsbzzh1.png?width=640&crop=smart&auto=webp&s=0b399cdcf49792e6841d184cec68f5c88a2071cb"
-      },
-      {
-        "rank": 5,
         "title": "Come on, Open AI, Standard Voice mode is a important, fundamental tool. Why remove it?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xpgife/come_on_open_ai_standard_voice_mode_is_a/",
         "source": "r/OpenAI",
         "score": 0,
         "publishedAt": "2026-11-06T16:04:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I Fixed my Dot!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xpx9uw/i_fixed_my_dot/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T04:19:21.000Z",
         "category": "reddit"
       },
       {
@@ -112,16 +111,6 @@
       },
       {
         "rank": 2,
-        "title": "An unreleased Anthropic AI model reportedly solves an 18-year-old quantum computing conjecture in just 3 days. Researchers at Physical Superintelligence say the proof establishes a fundamental limit on quantum speedups and has been formally verified using Lean.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xpgl2k/an_unreleased_anthropic_ai_model_reportedly/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-06T16:07:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3pwp1qw9n00i1.jpeg?width=640&crop=smart&auto=webp&s=726765164bef4b1d093397ae8109828a23b48f57"
-      },
-      {
-        "rank": 3,
         "title": "No GPT-6.2, no Fable 5.5, no Qwen 4",
         "url": "https://www.reddit.com/r/singularity/comments/1xpo0j3/no_gpt62_no_fable_55_no_qwen_4/",
         "source": "r/singularity",
@@ -131,23 +120,33 @@
         "thumbnail": "https://preview.redd.it/k60swf0k220i1.png?width=320&crop=smart&auto=webp&s=ae1603ce684b2d55e3b5fe2cb4e01ef5f4f70114"
       },
       {
-        "rank": 4,
-        "title": "Every tech bro rn",
-        "url": "https://www.reddit.com/r/singularity/comments/1xp35e7/every_tech_bro_rn/",
+        "rank": 3,
+        "title": "An unreleased Anthropic AI model reportedly solves an 18-year-old quantum computing conjecture in just 3 days. Researchers at Physical Superintelligence say the proof establishes a fundamental limit on quantum speedups and has been formally verified using Lean.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xpgl2k/an_unreleased_anthropic_ai_model_reportedly/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-06T03:54:28.000Z",
+        "publishedAt": "2026-11-06T16:07:17.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9nic0kabmmzh1.png?width=640&crop=smart&auto=webp&s=5aad10ca7e88f358d0c2391be477f019d9e96458"
+        "thumbnail": "https://preview.redd.it/3pwp1qw9n00i1.jpeg?width=640&crop=smart&auto=webp&s=726765164bef4b1d093397ae8109828a23b48f57"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Looks like the future is just around the corner... What do you think about this?",
         "url": "https://www.reddit.com/r/singularity/comments/1xph3ur/looks_like_the_future_is_just_around_the_corner/",
         "source": "r/singularity",
         "score": 0,
         "publishedAt": "2026-11-06T16:27:32.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Claude paints a watercolor tree with a robotic arm in 4.5 hours, and mixes its own custom colors along the way",
+        "url": "https://www.reddit.com/r/singularity/comments/1xppyfh/claude_paints_a_watercolor_tree_with_a_robotic/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-06T22:20:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHJpZjN4cDJoMjBpMSzV_cNcbV2HbhExYb7_CZs_XqFsJSpHEzDl5e4iZTLB.png?width=640&crop=smart&auto=webp&s=0d5dbbd4fe8a2f0de73b7bcec6faed75cf8cfb6b"
       },
       {
         "rank": 1,

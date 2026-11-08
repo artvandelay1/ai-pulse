@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-08T18:03:51.279Z",
+  "fetchedAt": "2026-11-08T22:23:45.275Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -17,6 +17,15 @@
       },
       {
         "rank": 2,
+        "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T17:43:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "NeurIPS SlidesLive [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
         "source": "r/MachineLearning",
@@ -25,7 +34,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "NeurIPS 2026 Camera-Ready Deadline Extended? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xqk48t/neurips_2026_cameraready_deadline_extended_d/",
         "source": "r/MachineLearning",
@@ -34,24 +43,14 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-08T05:13:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/CBjLI7z4IBibBMmwWZe5G7XOiBU6blkufzCWCPtgQa4.png?width=640&crop=smart&auto=webp&s=ef928e52a47cd6f2831af5119efd31a1c0248026"
-      },
-      {
         "rank": 5,
-        "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
+        "title": "Continual retention across 6 streams [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xr9d9y/continual_retention_across_6_streams_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-08T06:31:08.000Z",
+        "publishedAt": "2026-11-08T21:16:07.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cHcybXRrdHZvNTBpMVNRcYMajU3_qr-rOaYVVSQAyga9PAsdFI76-vR2-S5i.png?width=640&crop=smart&auto=webp&s=b0a3c0085a44f24de46c09224b2a5e76c8de3888"
+        "thumbnail": "https://preview.redd.it/ku17e476gg0i1.jpeg?width=640&crop=smart&auto=webp&s=8cc3994dc86ceadbc8e1d50921f3898df9daed6c"
       },
       {
         "rank": 1,
@@ -65,6 +64,16 @@
       },
       {
         "rank": 2,
+        "title": "If AI companies won't trust their model to operate gun drones in their office, can they trust it to scale up RSI to superintelligence?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xr63ft/if_ai_companies_wont_trust_their_model_to_operate/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-08T19:00:19.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b25sf3zxrf0i1.png?width=640&crop=smart&auto=webp&s=ff598c46368a250e8d0440705d2662e376beb00f"
+      },
+      {
+        "rank": 3,
         "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist — <looksInAltmansDirection> ¡Bruh, come on, We Know™!",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xqrzt1/six_pallets_of_nvidia_gpus_worth_114_million/",
         "source": "r/OpenAI",
@@ -72,16 +81,6 @@
         "publishedAt": "2026-11-08T06:42:40.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/_Jnuvjn8wG3r2qZAftZlOKd2PDSWwz1U8agD-A3Vvw8.jpeg?width=640&crop=smart&auto=webp&s=a5c0d370f6246070a4d4ae34ee89d01165eabbd7"
-      },
-      {
-        "rank": 3,
-        "title": "OpenAI has a mighty dominion on image generation. And it shows in real life work",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xqdq25/openai_has_a_mighty_dominion_on_image_generation/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T18:46:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/gjye8u6ok80i1.jpeg?width=640&crop=smart&auto=webp&s=a6cf5511b71b8048fa8357bfe9286be9a1a4f74a"
       },
       {
         "rank": 4,
@@ -114,13 +113,13 @@
       },
       {
         "rank": 2,
-        "title": "Meanwhile Chinese Internet: Turn AI into cute girls and ship them",
-        "url": "https://www.reddit.com/r/singularity/comments/1xqlkli/meanwhile_chinese_internet_turn_ai_into_cute/",
+        "title": "Apple researchers use a Mac mini running Qwen locally to control a Unitree G1 humanoid robot. Trained on 1,000 simulated homes, it autonomously sits, crawls under tables and navigates unfamiliar rooms, achieving 91% success across 360 real-world trials.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xr6w6w/apple_researchers_use_a_mac_mini_running_qwen/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-08T00:44:20.000Z",
+        "publishedAt": "2026-11-08T19:32:25.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZG9vanQ1ZWZjYTBpMeImFvoecKYxhigsp3vFk8SFeKOu8KMSq6w1oWyLYT7N.png?width=640&crop=smart&auto=webp&s=ada4ba01e803ad3b5dfd471fc872c758893a41c1"
+        "thumbnail": "https://external-preview.redd.it/dnhtcGU3dG94ZjBpMcHPkqOwmOunrjMYdt1FbCPojTzhLgvDOPd-t3jYC9sN.png?width=640&crop=smart&auto=webp&s=15af047d1097babbcda2a0116ab9a097bd5bb33c"
       },
       {
         "rank": 3,
@@ -134,21 +133,23 @@
       },
       {
         "rank": 4,
-        "title": "How long until gta 6 gets ported to pc after launch by vibe coding",
-        "url": "https://www.reddit.com/r/singularity/comments/1xquay6/how_long_until_gta_6_gets_ported_to_pc_after/",
+        "title": "Meanwhile Chinese Internet: Turn AI into cute girls and ship them",
+        "url": "https://www.reddit.com/r/singularity/comments/1xqlkli/meanwhile_chinese_internet_turn_ai_into_cute/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-08T09:14:15.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-08T00:44:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZG9vanQ1ZWZjYTBpMeImFvoecKYxhigsp3vFk8SFeKOu8KMSq6w1oWyLYT7N.png?width=640&crop=smart&auto=webp&s=ada4ba01e803ad3b5dfd471fc872c758893a41c1"
       },
       {
         "rank": 5,
-        "title": "Thoughts on AI progress?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xqcruq/thoughts_on_ai_progress/",
+        "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+        "url": "https://www.reddit.com/r/singularity/comments/1xr7wb5/nvidia_opens_investigation_into_jensen_huangs/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-07T18:06:58.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-08T20:13:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N2KzpdFruhEgdbWOfx-IrElrP_H9MwRJ_5qQGpjCNQY.jpeg?width=640&crop=smart&auto=webp&s=025953c47d542f3208f0b4e9e5bbc353058f6cb5"
       },
       {
         "rank": 1,

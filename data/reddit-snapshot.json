@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-11-08T05:20:14.416Z",
+  "fetchedAt": "2026-11-08T12:08:44.889Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T07:20:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kje7wxpkac0i1.png?width=140&height=115&auto=webp&s=49f5f034f5b6834b669298ea481ac5f0b14f65ce"
+      },
+      {
+        "rank": 2,
+        "title": "NeurIPS SlidesLive [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T11:12:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T06:31:08.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cHcybXRrdHZvNTBpMVNRcYMajU3_qr-rOaYVVSQAyga9PAsdFI76-vR2-S5i.png?width=640&crop=smart&auto=webp&s=b0a3c0085a44f24de46c09224b2a5e76c8de3888"
+      },
+      {
+        "rank": 4,
+        "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T05:13:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/CBjLI7z4IBibBMmwWZe5G7XOiBU6blkufzCWCPtgQa4.png?width=640&crop=smart&auto=webp&s=ef928e52a47cd6f2831af5119efd31a1c0248026"
+      },
+      {
+        "rank": 5,
+        "title": "Advice needed regarding classical ML conference submission [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T05:26:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Israeli researchers develop method letting AI teach itself without human-generated data",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xqayzn/israeli_researchers_develop_method_letting_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T16:51:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/zm481q0BtUSIUdUpnurrD7cQ9rz5-9Ys3CcIuREJnyg.jpeg?width=640&crop=smart&auto=webp&s=bb02660ebb6f64a3e9810832503466ad097b9f59"
+      },
+      {
+        "rank": 2,
+        "title": "Pro Tier at $50 Coming Soon?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xqst31/pro_tier_at_50_coming_soon/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-08T07:34:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/b8dkeclgdc0i1.png?width=320&crop=smart&auto=webp&s=997370bd1af36b5122edc5ac84d5c02d68efcbc5"
+      },
+      {
+        "rank": 3,
+        "title": "OpenAI has a mighty dominion on image generation. And it shows in real life work",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xqdq25/openai_has_a_mighty_dominion_on_image_generation/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T18:46:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/gjye8u6ok80i1.jpeg?width=640&crop=smart&auto=webp&s=a6cf5511b71b8048fa8357bfe9286be9a1a4f74a"
+      },
+      {
+        "rank": 4,
+        "title": "Hollywood Has Flipped on GenAI, Says ‘Avatar’ VFX House Weta FX Chief",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xqaqzz/hollywood_has_flipped_on_genai_says_avatar_vfx/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T16:42:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Hy6lYEtIrKB9CbOqfF2QQUVE4uYAYenycuePYHAKc-I.jpeg?width=640&crop=smart&auto=webp&s=5cfde55b291b67465809c43be68c3461ded98ee2"
+      },
+      {
+        "rank": 5,
+        "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist — <looksInAltmansDirection> ¡Bruh, come on, We Know™!",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xqrzt1/six_pallets_of_nvidia_gpus_worth_114_million/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-08T06:42:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_Jnuvjn8wG3r2qZAftZlOKd2PDSWwz1U8agD-A3Vvw8.jpeg?width=640&crop=smart&auto=webp&s=a5c0d370f6246070a4d4ae34ee89d01165eabbd7"
+      },
+      {
+        "rank": 1,
+        "title": "AI Progress Is Now Six Weeks Ahead of the AI 2027 Timeline",
+        "url": "https://www.reddit.com/r/singularity/comments/1xq9o88/ai_progress_is_now_six_weeks_ahead_of_the_ai_2027/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-07T15:57:03.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w8vcxg76q70i1.jpeg?width=640&crop=smart&auto=webp&s=914870f1d6c5520b28fbf850fe083432090346c9"
+      },
+      {
+        "rank": 2,
+        "title": "Theo, a wheeled humanoid robot, now works at a Zurich supermarket; at night in the dark it can restock 400 items an hour while handling online orders and other tasks by day",
+        "url": "https://www.reddit.com/r/singularity/comments/1xqjk2e/theo_a_wheeled_humanoid_robot_now_works_at_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-07T23:07:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZWhtdTE1NTR2OTBpMdkg1oclRR3VFaE_HUgodXTHBAGs5v1JSqKAZ_qOTdff.png?width=640&crop=smart&auto=webp&s=2d2247f8492a432cd2bd2a3b739bea5d6390259d"
+      },
+      {
+        "rank": 3,
+        "title": "Meanwhile Chinese Internet: Turn AI into cute girls and ship them",
+        "url": "https://www.reddit.com/r/singularity/comments/1xqlkli/meanwhile_chinese_internet_turn_ai_into_cute/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-08T00:44:20.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZG9vanQ1ZWZjYTBpMeImFvoecKYxhigsp3vFk8SFeKOu8KMSq6w1oWyLYT7N.png?width=640&crop=smart&auto=webp&s=ada4ba01e803ad3b5dfd471fc872c758893a41c1"
+      },
+      {
+        "rank": 4,
+        "title": "Banning rsi is stupid",
+        "url": "https://www.reddit.com/r/singularity/comments/1xqbjy4/banning_rsi_is_stupid/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-07T17:15:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Model 4’s ECI is around 182.5",
+        "url": "https://www.reddit.com/r/singularity/comments/1xqaxgk/model_4s_eci_is_around_1825/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-07T16:49:42.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "A judge says Claude Max’s “20x more usage” promise could mislead paying subscribers",
@@ -55,52 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T07:08:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T08:25:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T06:40:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T05:21:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w1848clxk40i1.jpeg?width=640&crop=smart&auto=webp&s=83f3c4ff3352971e08d608ef0a32750c4ab588ea"
-      },
-      {
-        "rank": 5,
-        "title": "Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-07T20:44:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Is the Pro 500 plan now 50X usage? I know they “doubled” to bring 200 back to 20X. I’m wondering what that means for the 500 plan.",
         "url": "https://www.reddit.com/r/codex/comments/1xq84zq/is_the_pro_500_plan_now_50x_usage_i_know_they/",
         "source": "r/codex",
@@ -145,104 +245,6 @@
         "publishedAt": "2026-11-07T14:54:35.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/pqi3hrmrd70i1.png?width=640&crop=smart&auto=webp&s=cbf7d0ee7bbb8bfbda11fd1b72de5b1acc4cb665"
-      },
-      {
-        "rank": 1,
-        "title": "I gave Astra \"Extra High\" 10 minutes of \"free time\" on a computer with full access as a reward, here's what it did",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpzuce/i_gave_astra_extra_high_10_minutes_of_free_time/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T06:46:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/emt4im8uz40i1.png?width=320&crop=smart&auto=webp&s=1e17ee6a9cfb470913a15651dc3a255c6be031bf"
-      },
-      {
-        "rank": 2,
-        "title": "Unlimited chat is going away, what are you doing?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xq1qtj/unlimited_chat_is_going_away_what_are_you_doing/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T08:46:57.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Israeli researchers develop method letting AI teach itself without human-generated data",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xqayzn/israeli_researchers_develop_method_letting_ai/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T16:51:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/zm481q0BtUSIUdUpnurrD7cQ9rz5-9Ys3CcIuREJnyg.jpeg?width=640&crop=smart&auto=webp&s=bb02660ebb6f64a3e9810832503466ad097b9f59"
-      },
-      {
-        "rank": 4,
-        "title": "what is this fake free trial that never goes away???",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpyhrp/what_is_this_fake_free_trial_that_never_goes_away/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T05:26:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ufwmpguvl40i1.jpeg?width=640&crop=smart&auto=webp&s=3a4de393489c8087d9b9c543dd0cf6eebbdc2f3a"
-      },
-      {
-        "rank": 5,
-        "title": "I Fixed my Dot!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xpx9uw/i_fixed_my_dot/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T04:19:21.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Figure.AI more humanoid robots than humans",
-        "url": "https://www.reddit.com/r/singularity/comments/1xpu6bv/figureai_more_humanoid_robots_than_humans/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-07T01:37:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dW1qbGFiZTFoMzBpMWKP4ePmT6tohbq1dYlrwm-NyjrNrXEMiw12qsrj6HaA.png?width=320&crop=smart&auto=webp&s=6f5e52350b10d9c945e0ba31503ca7ace63668ec"
-      },
-      {
-        "rank": 2,
-        "title": "AI Progress Is Now Six Weeks Ahead of the AI 2027 Timeline",
-        "url": "https://www.reddit.com/r/singularity/comments/1xq9o88/ai_progress_is_now_six_weeks_ahead_of_the_ai_2027/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-07T15:57:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w8vcxg76q70i1.jpeg?width=640&crop=smart&auto=webp&s=914870f1d6c5520b28fbf850fe083432090346c9"
-      },
-      {
-        "rank": 3,
-        "title": "Virginia's \"Data Center Alley\" generates $1.2 billion in annual tax revenue—40% of Loudoun County's entire tax revenue from just 3% of its land, according to the county's economic development chief.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xq4hp4/virginias_data_center_alley_generates_12_billion/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-07T11:46:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bm9xcmhzOGxjNjBpMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=81e7190a9d13a9213620d23feb3c7c4bc70e6d0f"
-      },
-      {
-        "rank": 4,
-        "title": "The author of AI 2027 agrees to a ban on RSI.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xq1m8w/the_author_of_ai_2027_agrees_to_a_ban_on_rsi/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-07T08:38:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rbi10qi5k50i1.png?width=640&crop=smart&auto=webp&s=ec5f14222240efcb5ab401ab490685574dedd0d8"
-      },
-      {
-        "rank": 5,
-        "title": "Silicon Valley was so ahead of its time",
-        "url": "https://www.reddit.com/r/singularity/comments/1xpv91b/silicon_valley_was_so_ahead_of_its_time/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-07T02:32:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ny85pgzq830i1.jpeg?width=640&crop=smart&auto=webp&s=e40249d33e683b23e03b0f9eda6395bdab992cb1"
       }
     ]
   }

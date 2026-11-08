@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T23:38:47.140Z",
+  "fetchedAt": "2026-11-08T05:20:14.416Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,54 @@
     "items": [
       {
         "rank": 1,
-        "title": "The most scathing reviewer 2 review I have ever read",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
-        "source": "r/MachineLearning",
+        "title": "A judge says Claude Max’s “20x more usage” promise could mislead paying subscribers",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq12am/a_judge_says_claude_maxs_20x_more_usage_promise/",
+        "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-07T01:30:53.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-07T08:02:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/CEIc6Jzq9mMDuO2Lmn70wGrtcrGzjKl0Nv1ELxY5ohI.jpeg?width=640&crop=smart&auto=webp&s=2edb9db5a657483090f12c0c12ae3e6afb287ac2"
       },
       {
         "rank": 2,
+        "title": "Refusals to do work are going way too far.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq95sa/refusals_to_do_work_are_going_way_too_far/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T15:34:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Multiple Emails Allowed Now!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq73lm/multiple_emails_allowed_now/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T14:03:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2ibp1zkv570i1.png?width=640&crop=smart&auto=webp&s=e07a0ccb6f1b24017d6e4290358fb8e19a7952c2"
+      },
+      {
+        "rank": 4,
+        "title": "As a GPT user, I used Opus 5.5 once and i feel incredibly lied to by benchmarks",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqfqjl/as_a_gpt_user_i_used_opus_55_once_and_i_feel/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T20:13:02.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Did Anthropic get hacked?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq4d3u/did_anthropic_get_hacked/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-07T11:38:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/syihubpvf60i1.png?width=140&height=110&auto=webp&s=26718c757a02efa1e7b7d19645c97c20a38a4ccb"
+      },
+      {
+        "rank": 1,
         "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
         "source": "r/MachineLearning",
@@ -24,7 +63,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
         "source": "r/MachineLearning",
@@ -33,22 +72,79 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+        "rank": 3,
+        "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-07T00:03:35.000Z",
+        "publishedAt": "2026-11-07T06:40:14.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Ant Ling introduces Ling-3.2-flash: 560B/25B native multimodal MoE with 1M context [N]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-07T05:21:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w1848clxk40i1.jpeg?width=640&crop=smart&auto=webp&s=83f3c4ff3352971e08d608ef0a32750c4ab588ea"
+      },
+      {
+        "rank": 5,
+        "title": "Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-07T20:44:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Is the Pro 500 plan now 50X usage? I know they “doubled” to bring 200 back to 20X. I’m wondering what that means for the 500 plan.",
+        "url": "https://www.reddit.com/r/codex/comments/1xq84zq/is_the_pro_500_plan_now_50x_usage_i_know_they/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-07T14:50:28.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Codex reliability fallen off a cliff",
+        "url": "https://www.reddit.com/r/codex/comments/1xq6m11/codex_reliability_fallen_off_a_cliff/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-07T13:39:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Codex Desktop Update: Switching Accounts Now Clears Your Project List",
+        "url": "https://www.reddit.com/r/codex/comments/1xq5hip/codex_desktop_update_switching_accounts_now/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-07T12:42:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oack9x3or60i1.png?width=216&crop=smart&auto=webp&s=40fd77ee06ef83b99c4c7f07091c5b3a94a820c0"
+      },
+      {
+        "rank": 4,
+        "title": "I just let a banked reset expire I feel so guilty",
+        "url": "https://www.reddit.com/r/codex/comments/1xqct8w/i_just_let_a_banked_reset_expire_i_feel_so_guilty/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-07T18:08:41.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "ICLR27 math and stats paper review experience [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
-        "source": "r/MachineLearning",
+        "title": "1.73 GB of RAM just for the “Aperitif.” Sam, what’s for dinner?",
+        "url": "https://www.reddit.com/r/codex/comments/1xq8867/173_gb_of_ram_just_for_the_aperitif_sam_whats_for/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-07T03:02:10.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-07T14:54:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/pqi3hrmrd70i1.png?width=640&crop=smart&auto=webp&s=cbf7d0ee7bbb8bfbda11fd1b72de5b1acc4cb665"
       },
       {
         "rank": 1,
@@ -147,103 +243,6 @@
         "publishedAt": "2026-11-07T02:32:06.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/ny85pgzq830i1.jpeg?width=640&crop=smart&auto=webp&s=e40249d33e683b23e03b0f9eda6395bdab992cb1"
-      },
-      {
-        "rank": 1,
-        "title": "I built a sailing sim with Claude Code and made the frontier models race each other in it",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/i_built_a_sailing_sim_with_claude_code_and_made/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-06T17:22:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Ymg0NDBidmwwMTBpMT4dPxwKKXfrXb5saNhRZZ9xeczcQjnDhr44bz1ArkQU.png?width=640&crop=smart&auto=webp&s=def782f84d1e3f16a239207f26e867821707a3eb"
-      },
-      {
-        "rank": 2,
-        "title": "A judge says Claude Max’s “20x more usage” promise could mislead paying subscribers",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xq12am/a_judge_says_claude_maxs_20x_more_usage_promise/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T08:02:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/CEIc6Jzq9mMDuO2Lmn70wGrtcrGzjKl0Nv1ELxY5ohI.jpeg?width=640&crop=smart&auto=webp&s=2edb9db5a657483090f12c0c12ae3e6afb287ac2"
-      },
-      {
-        "rank": 3,
-        "title": "False positive: debugging my own software flagged as reverse engineering",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpxotw/false_positive_debugging_my_own_software_flagged/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T04:42:22.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xrjweaijd40i1.gif?width=640&crop=smart&s=0bb545e9036ee16ec3b4a138b6651df4a9e08c65"
-      },
-      {
-        "rank": 4,
-        "title": "Anyone else being driven by people who pretend this doesn't exist?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpshux/anyone_else_being_driven_by_people_who_pretend/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T00:16:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Stanford researchers develop a new AI memory system that recalls information from entire conversation histories using just 16 memory tokens. It reduces document-token usage by up to 4,212×, runs 27× faster in a 512-document test, and outperforms existing approaches on 5 of 8 benchmarks.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xpvvg3/stanford_researchers_develop_a_new_ai_memory/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-07T03:04:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "How are we surviving without resets brothers and sisters?",
-        "url": "https://www.reddit.com/r/codex/comments/1xpsvqu/how_are_we_surviving_without_resets_brothers_and/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-07T00:34:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qczy6dsq530i1.jpeg?width=640&crop=smart&auto=webp&s=7f68df904eadf7b8149f8df9a9dc893e165fd7ed"
-      },
-      {
-        "rank": 2,
-        "title": "No new models Tibo :- Here o will larp about dots even more",
-        "url": "https://www.reddit.com/r/codex/comments/1xpuvar/no_new_models_tibo_here_o_will_larp_about_dots/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-07T02:12:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m37y27kbn30i1.jpeg?width=640&crop=smart&auto=webp&s=04d5eccbdaa942a09838a51fba09c327a0103f02"
-      },
-      {
-        "rank": 3,
-        "title": "I used Codex to revive Pro Pinball - The Web (1995)",
-        "url": "https://www.reddit.com/r/codex/comments/1xpochp/i_used_codex_to_revive_pro_pinball_the_web_1995/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-06T21:13:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/waskrpwh520i1.jpeg?width=640&crop=smart&auto=webp&s=0dbfb7fe17e29368681b89c45bbbcf988ff7a01a"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI hid GPT Astra 6.2 in newest biology post (see all images)",
-        "url": "https://www.reddit.com/r/codex/comments/1xprccq/openai_hid_gpt_astra_62_in_newest_biology_post/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-06T23:22:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2fevwenus20i1.png?width=140&height=103&auto=webp&s=acffd7c1e883ca514744633d0d9a1db1269b5f77"
-      },
-      {
-        "rank": 5,
-        "title": "Stayed up until 3 AM grinding, only to forget the most important part",
-        "url": "https://www.reddit.com/r/codex/comments/1xpuys8/stayed_up_until_3_am_grinding_only_to_forget_the/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-07T02:17:44.000Z",
-        "category": "reddit"
       }
     ]
   }

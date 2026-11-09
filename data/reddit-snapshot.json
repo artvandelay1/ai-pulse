@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-09T09:27:43.136Z",
+  "fetchedAt": "2026-11-09T20:00:44.620Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-08T17:43:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Amazon applied science intern interview next week - EU based [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
         "source": "r/MachineLearning",
@@ -24,12 +15,21 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "NeurIPS SlidesLive [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+        "rank": 2,
+        "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-08T11:12:05.000Z",
+        "publishedAt": "2026-11-09T09:22:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-09T03:41:21.000Z",
         "category": "reddit"
       },
       {
@@ -43,25 +43,45 @@
       },
       {
         "rank": 5,
-        "title": "Have MLSys 2027 reviewers received their paper assignments yet? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrj2ld/have_mlsys_2027_reviewers_received_their_paper/",
+        "title": "EACL 2027 Decisions Thread [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-09T05:09:22.000Z",
+        "publishedAt": "2026-11-09T15:52:24.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "This is what it looks like when you finish the OpenAI snake game",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xr0m2d/this_is_what_it_looks_like_when_you_finish_the/",
+        "title": "I am sorry everyone.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xrsmch/i_am_sorry_everyone/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-08T15:11:00.000Z",
+        "publishedAt": "2026-11-09T14:10:13.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w8m5gi2ume0i1.gif?width=640&crop=smart&s=be07b9cc7c551fdfb3aae148b1e8ece20048260a"
+        "thumbnail": "https://preview.redd.it/kzg5cwc4hl0i1.jpeg?width=320&crop=smart&auto=webp&s=17068e6fe8416ec0b281cc536da770ad20b57408"
       },
       {
         "rank": 2,
+        "title": "We're only Human... for now.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xrr0a0/were_only_human_for_now/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T12:58:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r3oh5v8d4l0i1.png?width=640&crop=smart&auto=webp&s=fbb33cae697a20ecede3f144ed6ded846926f75e"
+      },
+      {
+        "rank": 3,
+        "title": "The last time a superintelligent species arrived on Earth (humans), it was a disaster for most other species",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xrr0ei/the_last_time_a_superintelligent_species_arrived/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T12:58:56.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qfpm89rd4l0i1.png?width=640&crop=smart&auto=webp&s=84d4fcc1660b84c356cf1c2c1022e22310e02657"
+      },
+      {
+        "rank": 4,
         "title": "Received a \"Cyber Abuse\" warning, and it was Astra's doing",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xrfi1j/received_a_cyber_abuse_warning_and_it_was_astras/",
         "source": "r/OpenAI",
@@ -70,42 +90,23 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "After the update yesterday ChatGPT can't do anything in Unreal Engine",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xr363g/after_the_update_yesterday_chatgpt_cant_do/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T17:00:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "The Codex has started using quite a lot of limits—is it just me?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xqzh25/the_codex_has_started_using_quite_a_lot_of/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T14:19:07.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "Thinking of merging all your chats into one big ChatGPT project to clean up? OpenAI's help page says a moved chat takes on that project's instructions and files",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xrm6ah/thinking_of_merging_all_your_chats_into_one_big/",
+        "title": "Is it me or during the last 2-3 days models got dumber?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xro8vq/is_it_me_or_during_the_last_23_days_models_got/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-09T08:14:43.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r806qsqopj0i1.png?width=140&height=64&auto=webp&s=1fe2d20d8cb0f02473fe45ade05f4ba889b53b23"
+        "publishedAt": "2026-11-09T10:26:51.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Apple researchers use a Mac mini running Qwen locally to control a Unitree G1 humanoid robot. Trained on 1,000 simulated homes, it autonomously sits, crawls under tables and navigates unfamiliar rooms, achieving 91% success across 360 real-world trials.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xr6w6w/apple_researchers_use_a_mac_mini_running_qwen/",
+        "title": "Jensen does not run his personal life in single thread",
+        "url": "https://www.reddit.com/r/singularity/comments/1xrr40n/jensen_does_not_run_his_personal_life_in_single/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-08T19:32:25.000Z",
+        "publishedAt": "2026-11-09T13:03:13.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dnhtcGU3dG94ZjBpMcHPkqOwmOunrjMYdt1FbCPojTzhLgvDOPd-t3jYC9sN.png?width=640&crop=smart&auto=webp&s=15af047d1097babbcda2a0116ab9a097bd5bb33c"
+        "thumbnail": "https://preview.redd.it/ittkz4165l0i1.jpeg?width=640&crop=smart&auto=webp&s=af9817adb1128dcc3dce2e46863cf3959a7c355d"
       },
       {
         "rank": 2,
@@ -119,13 +120,13 @@
       },
       {
         "rank": 3,
-        "title": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
+        "title": "Skyrim modder uses AI to help reverse-engineer the game's 15-year-old engine, adding real-time terrain editing, modular construction, and NPC navigation to player-built structures.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xrvqoo/skyrim_modder_uses_ai_to_help_reverseengineer_the/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-08T14:29:57.000Z",
+        "publishedAt": "2026-11-09T16:10:46.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qxnbipskee0i1.png?width=640&crop=smart&auto=webp&s=8e99589b7064ae2c2ac69bbe1d73ed9bdccb34f8"
+        "thumbnail": "https://external-preview.redd.it/dWFlYjd1cGsybTBpMRMbYhan0gDfXxf633hhB1t5SkRq3W-Oh_TQUza65J-b.png?width=320&crop=smart&auto=webp&s=bb3387a0e08e37c2c06ecebc24c3b760ab3134b6"
       },
       {
         "rank": 4,
@@ -139,13 +140,13 @@
       },
       {
         "rank": 5,
-        "title": "Developer Meng To uses Claude Opus 5.5 and Three.js to build a Baldur’s Gate 3-inspired turn-based RPG, complete with character creation, tactical combat, spells, and a fully rendered 3D world.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xrentf/developer_meng_to_uses_claude_opus_55_and_threejs/",
+        "title": "Boston Dynamics demos Atlas over wheels",
+        "url": "https://www.reddit.com/r/singularity/comments/1xrxbul/boston_dynamics_demos_atlas_over_wheels/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-09T01:19:41.000Z",
+        "publishedAt": "2026-11-09T17:08:25.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eGtteG1lNGZuaDBpMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=726902be79210747036e71b3327a8a684ab48d11"
+        "thumbnail": "https://external-preview.redd.it/cnU3ZGhrcXZjbTBpMXs2awgOKpCV-aijv4ecxzwWlf4NjOTA2QV9EelnriuE.png?width=640&crop=smart&auto=webp&s=97c6ad2930bcf83809f9d82f4239114e7b23f7d4"
       },
       {
         "rank": 1,

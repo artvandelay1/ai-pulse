@@ -1,10 +1,152 @@
 {
-  "fetchedAt": "2026-11-09T01:53:15.503Z",
+  "fetchedAt": "2026-11-09T09:27:43.136Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T17:43:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Amazon applied science intern interview next week - EU based [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-09T06:31:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "NeurIPS SlidesLive [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-08T11:12:05.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-09T00:30:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Have MLSys 2027 reviewers received their paper assignments yet? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrj2ld/have_mlsys_2027_reviewers_received_their_paper/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-09T05:09:22.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "This is what it looks like when you finish the OpenAI snake game",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xr0m2d/this_is_what_it_looks_like_when_you_finish_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-08T15:11:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/w8m5gi2ume0i1.gif?width=640&crop=smart&s=be07b9cc7c551fdfb3aae148b1e8ece20048260a"
+      },
+      {
+        "rank": 2,
+        "title": "Received a \"Cyber Abuse\" warning, and it was Astra's doing",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xrfi1j/received_a_cyber_abuse_warning_and_it_was_astras/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T02:02:06.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "After the update yesterday ChatGPT can't do anything in Unreal Engine",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xr363g/after_the_update_yesterday_chatgpt_cant_do/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-08T17:00:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "The Codex has started using quite a lot of limits—is it just me?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xqzh25/the_codex_has_started_using_quite_a_lot_of/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-08T14:19:07.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Thinking of merging all your chats into one big ChatGPT project to clean up? OpenAI's help page says a moved chat takes on that project's instructions and files",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xrm6ah/thinking_of_merging_all_your_chats_into_one_big/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T08:14:43.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/r806qsqopj0i1.png?width=140&height=64&auto=webp&s=1fe2d20d8cb0f02473fe45ade05f4ba889b53b23"
+      },
+      {
+        "rank": 1,
+        "title": "Apple researchers use a Mac mini running Qwen locally to control a Unitree G1 humanoid robot. Trained on 1,000 simulated homes, it autonomously sits, crawls under tables and navigates unfamiliar rooms, achieving 91% success across 360 real-world trials.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xr6w6w/apple_researchers_use_a_mac_mini_running_qwen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-08T19:32:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dnhtcGU3dG94ZjBpMcHPkqOwmOunrjMYdt1FbCPojTzhLgvDOPd-t3jYC9sN.png?width=640&crop=smart&auto=webp&s=15af047d1097babbcda2a0116ab9a097bd5bb33c"
+      },
+      {
+        "rank": 2,
+        "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+        "url": "https://www.reddit.com/r/singularity/comments/1xr7wb5/nvidia_opens_investigation_into_jensen_huangs/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-08T20:13:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/N2KzpdFruhEgdbWOfx-IrElrP_H9MwRJ_5qQGpjCNQY.jpeg?width=640&crop=smart&auto=webp&s=025953c47d542f3208f0b4e9e5bbc353058f6cb5"
+      },
+      {
+        "rank": 3,
+        "title": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-08T14:29:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/qxnbipskee0i1.png?width=640&crop=smart&auto=webp&s=8e99589b7064ae2c2ac69bbe1d73ed9bdccb34f8"
+      },
+      {
+        "rank": 4,
+        "title": "Trump claims that he threatened to arrest a major lab CEO who was \"doing something bad with AI\" that \"could've been malicious\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1xrhqeh/trump_claims_that_he_threatened_to_arrest_a_major/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-09T03:56:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OXphNjU4M2JmaTBpMZoYlzUENV_o-C1QkgWRzf-x72THU5cGhn8kmv-2-sv-.png?width=640&crop=smart&auto=webp&s=688823082f3ac724d8d97dc575279736a470f7a0"
+      },
+      {
+        "rank": 5,
+        "title": "Developer Meng To uses Claude Opus 5.5 and Three.js to build a Baldur’s Gate 3-inspired turn-based RPG, complete with character creation, tactical combat, spells, and a fully rendered 3D world.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xrentf/developer_meng_to_uses_claude_opus_55_and_threejs/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-09T01:19:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eGtteG1lNGZuaDBpMYtGnNfG1x8Z6d8tmgZHhODe7fvXaFFxf6MF8lPz8Vl6.png?width=640&crop=smart&auto=webp&s=726902be79210747036e71b3327a8a684ab48d11"
+      },
       {
         "rank": 1,
         "title": "claudism",
@@ -56,53 +198,6 @@
       },
       {
         "rank": 1,
-        "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-08T07:20:37.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kje7wxpkac0i1.png?width=140&height=115&auto=webp&s=49f5f034f5b6834b669298ea481ac5f0b14f65ce"
-      },
-      {
-        "rank": 2,
-        "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-08T17:43:26.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "NeurIPS SlidesLive [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-08T11:12:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-09T00:30:07.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-08T05:13:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/CBjLI7z4IBibBMmwWZe5G7XOiBU6blkufzCWCPtgQa4.png?width=640&crop=smart&auto=webp&s=ef928e52a47cd6f2831af5119efd31a1c0248026"
-      },
-      {
-        "rank": 1,
         "title": "That's a bold strategy for building customer loyalty. 😂",
         "url": "https://www.reddit.com/r/codex/comments/1xr3bzo/thats_a_bold_strategy_for_building_customer/",
         "source": "r/codex",
@@ -148,105 +243,6 @@
         "publishedAt": "2026-11-08T19:43:40.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/tj6miwapzf0i1.jpeg?width=640&crop=smart&auto=webp&s=9b51d514855f386a7dac93a27c24f8c9ad5a6ed6"
-      },
-      {
-        "rank": 1,
-        "title": "Pro Tier at $50 Coming Soon?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xqst31/pro_tier_at_50_coming_soon/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T07:34:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b8dkeclgdc0i1.png?width=320&crop=smart&auto=webp&s=997370bd1af36b5122edc5ac84d5c02d68efcbc5"
-      },
-      {
-        "rank": 2,
-        "title": "If AI companies won't trust their model to operate gun drones in their office, can they trust it to scale up RSI to superintelligence?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xr63ft/if_ai_companies_wont_trust_their_model_to_operate/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T19:00:19.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/b25sf3zxrf0i1.png?width=640&crop=smart&auto=webp&s=ff598c46368a250e8d0440705d2662e376beb00f"
-      },
-      {
-        "rank": 3,
-        "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist — <looksInAltmansDirection> ¡Bruh, come on, We Know™!",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xqrzt1/six_pallets_of_nvidia_gpus_worth_114_million/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T06:42:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/_Jnuvjn8wG3r2qZAftZlOKd2PDSWwz1U8agD-A3Vvw8.jpeg?width=640&crop=smart&auto=webp&s=a5c0d370f6246070a4d4ae34ee89d01165eabbd7"
-      },
-      {
-        "rank": 4,
-        "title": "This is what it looks like when you finish the OpenAI snake game",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xr0m2d/this_is_what_it_looks_like_when_you_finish_the/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T15:11:00.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/w8m5gi2ume0i1.gif?width=640&crop=smart&s=be07b9cc7c551fdfb3aae148b1e8ece20048260a"
-      },
-      {
-        "rank": 5,
-        "title": "The amount of vamping, hallucinating, flip flopping its opinions of things, syncophantic behavior etc is OUTRAGEOUS with this thing lately. It feels like it's reggresed to the 3.5 model at times",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xqqvvh/the_amount_of_vamping_hallucinating_flip_flopping/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T05:33:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Theo, a wheeled humanoid robot, now works at a Zurich supermarket; at night in the dark it can restock 400 items an hour while handling online orders and other tasks by day",
-        "url": "https://www.reddit.com/r/singularity/comments/1xqjk2e/theo_a_wheeled_humanoid_robot_now_works_at_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-07T23:07:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZWhtdTE1NTR2OTBpMdkg1oclRR3VFaE_HUgodXTHBAGs5v1JSqKAZ_qOTdff.png?width=640&crop=smart&auto=webp&s=2d2247f8492a432cd2bd2a3b739bea5d6390259d"
-      },
-      {
-        "rank": 2,
-        "title": "Apple researchers use a Mac mini running Qwen locally to control a Unitree G1 humanoid robot. Trained on 1,000 simulated homes, it autonomously sits, crawls under tables and navigates unfamiliar rooms, achieving 91% success across 360 real-world trials.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xr6w6w/apple_researchers_use_a_mac_mini_running_qwen/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-08T19:32:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dnhtcGU3dG94ZjBpMcHPkqOwmOunrjMYdt1FbCPojTzhLgvDOPd-t3jYC9sN.png?width=640&crop=smart&auto=webp&s=15af047d1097babbcda2a0116ab9a097bd5bb33c"
-      },
-      {
-        "rank": 3,
-        "title": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
-        "url": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-08T14:29:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qxnbipskee0i1.png?width=640&crop=smart&auto=webp&s=8e99589b7064ae2c2ac69bbe1d73ed9bdccb34f8"
-      },
-      {
-        "rank": 4,
-        "title": "Meanwhile Chinese Internet: Turn AI into cute girls and ship them",
-        "url": "https://www.reddit.com/r/singularity/comments/1xqlkli/meanwhile_chinese_internet_turn_ai_into_cute/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-08T00:44:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZG9vanQ1ZWZjYTBpMeImFvoecKYxhigsp3vFk8SFeKOu8KMSq6w1oWyLYT7N.png?width=640&crop=smart&auto=webp&s=ada4ba01e803ad3b5dfd471fc872c758893a41c1"
-      },
-      {
-        "rank": 5,
-        "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-        "url": "https://www.reddit.com/r/singularity/comments/1xr7wb5/nvidia_opens_investigation_into_jensen_huangs/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-08T20:13:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N2KzpdFruhEgdbWOfx-IrElrP_H9MwRJ_5qQGpjCNQY.jpeg?width=640&crop=smart&auto=webp&s=025953c47d542f3208f0b4e9e5bbc353058f6cb5"
       }
     ]
   }

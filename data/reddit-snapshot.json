@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T02:41:10.554Z",
+  "fetchedAt": "2026-11-10T10:55:06.163Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -16,26 +16,6 @@
       },
       {
         "rank": 2,
-        "title": "15 weeks of making game with Claude Opus in Godot",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrkks4/15_weeks_of_making_game_with_claude_opus_in_godot/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T06:35:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ZmQ3djM3MTc0ajBpMXjHMKpJrkinbpSHK3wrlbOhlFNet788SbxWYX3z1byx.png?width=640&crop=smart&auto=webp&s=62ef27f12a9fa1f94a96c1ed72758185c74a6695"
-      },
-      {
-        "rank": 3,
-        "title": "Has Anthropic Nerfed Opus 5.5? LiveNerf Day 47 Update",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xriv9l/has_anthropic_nerfed_opus_55_livenerf_day_47/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T04:58:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/si6kvg0qqi0i1.jpeg?width=640&crop=smart&auto=webp&s=a8692a614ff0bfcadcf3669c0ca2002415d4d484"
-      },
-      {
-        "rank": 4,
         "title": "GUYS I DID IT",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs3e2p/guys_i_did_it/",
         "source": "r/ClaudeAI",
@@ -45,7 +25,17 @@
         "thumbnail": "https://preview.redd.it/wiabr3gugn0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7147f054961b69b72451ceec20c2de7c3b8079de"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "title": "HUGE Fable 5.2 Issue",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xscs0g/huge_fable_52_issue/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T03:43:50.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/q4cumo6aip0i1.jpeg?width=640&crop=smart&auto=webp&s=5d177d68857c10223585de21ab3e307115afbea5"
+      },
+      {
+        "rank": 4,
         "title": "WTF Fable 5.2 Cost per task is Insane It's not cheaper than Fable 5.1 as they are claiming.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs292a/wtf_fable_52_cost_per_task_is_insane_its_not/",
         "source": "r/ClaudeAI",
@@ -55,34 +45,25 @@
         "thumbnail": "https://preview.redd.it/o0m0yotu8n0i1.png?width=640&crop=smart&auto=webp&s=6a26dfb60fad73ca182116ddbf2c4a6905a968f1"
       },
       {
+        "rank": 5,
+        "title": "Fable 5.2",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs25gb/fable_52/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T20:04:53.000Z",
+        "category": "reddit"
+      },
+      {
         "rank": 1,
-        "title": "Amazon applied science intern interview next week - EU based [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrkiaw/amazon_applied_science_intern_interview_next_week/",
+        "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-09T06:31:34.000Z",
+        "publishedAt": "2026-11-10T02:07:04.000Z",
         "category": "reddit"
       },
       {
         "rank": 2,
-        "title": "Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 \"newspapers\"[P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-09T22:39:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-09T09:22:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
         "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
         "source": "r/MachineLearning",
@@ -91,12 +72,30 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "title": "Using latent-agent swarms for math discovery and optimization [R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-09T15:30:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-09T21:34:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-09T17:50:57.000Z",
         "category": "reddit"
       },
       {
@@ -121,6 +120,15 @@
       },
       {
         "rank": 3,
+        "title": "I missed Codex (switched 2 months ago) and decided to boot up my old pal for coding again. I was surprised!!",
+        "url": "https://www.reddit.com/r/codex/comments/1xs0t14/i_missed_codex_switched_2_months_ago_and_decided/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-09T19:15:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "Is OpenAI cracking down on reverse engineering like Anthropic?",
         "url": "https://www.reddit.com/r/codex/comments/1xrpe62/is_openai_cracking_down_on_reverse_engineering/",
         "source": "r/codex",
@@ -129,21 +137,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "Claude or ChatGPT?",
         "url": "https://www.reddit.com/r/codex/comments/1xrwexu/claude_or_chatgpt/",
         "source": "r/codex",
         "score": 0,
         "publishedAt": "2026-11-09T16:35:44.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "I missed Codex (switched 2 months ago) and decided to boot up my old pal for coding again. I was surprised!!",
-        "url": "https://www.reddit.com/r/codex/comments/1xs0t14/i_missed_codex_switched_2_months_ago_and_decided/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-09T19:15:45.000Z",
         "category": "reddit"
       },
       {

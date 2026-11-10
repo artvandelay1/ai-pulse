@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T18:34:08.808Z",
+  "fetchedAt": "2026-11-10T23:59:09.237Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,16 @@
     "items": [
       {
         "rank": 1,
+        "title": "it’s getting smarter frfr",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsrfcl/its_getting_smarter_frfr/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T16:30:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vnnou6n0bt0i1.jpeg?width=640&crop=smart&auto=webp&s=5a5ddf4ae2ebb86c82b731a1ba97f037886c9e9b"
+      },
+      {
+        "rank": 2,
         "title": "Instead of collecting dust, Claude makes your old Kindle useful again",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsk5k9/instead_of_collecting_dust_claude_makes_your_old/",
         "source": "r/ClaudeAI",
@@ -16,16 +26,17 @@
         "thumbnail": "https://preview.redd.it/ix59vxp9pr0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=aa2da63a6ca37afcd5720d6fb1f3b86b3c894c04"
       },
       {
-        "rank": 2,
-        "title": "Fable 5.2 just landed.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0dct/fable_52_just_landed/",
+        "rank": 3,
+        "title": "I built a webcam X-ray mirror with Claude Fable 5.2",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xstews/i_built_a_webcam_xray_mirror_with_claude_fable_52/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-09T18:59:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-10T17:44:48.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/bWs2aGJ1cjJudDBpMadVf9ZyolSlM9HT-Wdp5UpsCn0O4T7savA_slmXS5-Z.png?width=640&crop=smart&auto=webp&s=aff9ab6c21fa901f595d474eb3eb860ec590b486"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "Fable 51.8 is UNUSABLE on Pro. Hit my limit after ONE (1) prompt. Cancelled.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsjwqc/fable_518_is_unusable_on_pro_hit_my_limit_after/",
         "source": "r/ClaudeAI",
@@ -34,24 +45,14 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "GUYS I DID IT",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs3e2p/guys_i_did_it/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T20:52:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/wiabr3gugn0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7147f054961b69b72451ceec20c2de7c3b8079de"
-      },
-      {
         "rank": 5,
-        "title": "it’s getting smarter frfr",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsrfcl/its_getting_smarter_frfr/",
+        "title": "HUGE Fable 5.2 Issue",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xscs0g/huge_fable_52_issue/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-10T16:30:15.000Z",
+        "publishedAt": "2026-11-10T03:43:50.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vnnou6n0bt0i1.jpeg?width=640&crop=smart&auto=webp&s=5a5ddf4ae2ebb86c82b731a1ba97f037886c9e9b"
+        "thumbnail": "https://preview.redd.it/q4cumo6aip0i1.jpeg?width=640&crop=smart&auto=webp&s=5d177d68857c10223585de21ab3e307115afbea5"
       },
       {
         "rank": 1,
@@ -74,24 +75,16 @@
       },
       {
         "rank": 3,
-        "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
+        "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-09T18:52:05.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-10T18:35:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jckgu5u9wt0i1.png?width=140&height=76&auto=webp&s=66022f792f9b159f71eb869e79c8e4b08876ee01"
       },
       {
         "rank": 4,
-        "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-09T21:34:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
         "source": "r/MachineLearning",
@@ -101,16 +94,6 @@
       },
       {
         "rank": 1,
-        "title": "Fable 5.2 released",
-        "url": "https://www.reddit.com/r/codex/comments/1xs0nrz/fable_52_released/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-09T19:10:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ihb5qzgoym0i1.png?width=640&crop=smart&auto=webp&s=697c4d3645d37c0993ab4054f707283182d157d5"
-      },
-      {
-        "rank": 2,
         "title": "anti-anti-REA: A tool that undoes BLA hardening so coding agents can read the code again",
         "url": "https://www.reddit.com/r/codex/comments/1xsjiq4/antiantirea_a_tool_that_undoes_bla_hardening_so/",
         "source": "r/codex",
@@ -120,7 +103,7 @@
         "thumbnail": "https://preview.redd.it/5yqn7hkfir0i1.png?width=640&crop=smart&auto=webp&s=c4d4056111da4382763cf583ce3404c8d56e5a6a"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "OpenAI last month feels like that. it's quiet... too quiet",
         "url": "https://www.reddit.com/r/codex/comments/1xsqshx/openai_last_month_feels_like_that_its_quiet_too/",
         "source": "r/codex",
@@ -130,22 +113,33 @@
         "thumbnail": "https://preview.redd.it/eeo88gqd6t0i1.gif?width=320&crop=smart&s=f48fd219d32208f1cc9656d2a63d8060dc4743a9"
       },
       {
-        "rank": 4,
-        "title": "I missed Codex (switched 2 months ago) and decided to boot up my old pal for coding again. I was surprised!!",
-        "url": "https://www.reddit.com/r/codex/comments/1xs0t14/i_missed_codex_switched_2_months_ago_and_decided/",
+        "rank": 3,
+        "title": "I don’t think GPT 6.2 is anywhere close to being released",
+        "url": "https://www.reddit.com/r/codex/comments/1xsxjtw/i_dont_think_gpt_62_is_anywhere_close_to_being/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-09T19:15:45.000Z",
+        "publishedAt": "2026-11-10T20:21:06.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "6.1 Sol over engineering and over prudent",
-        "url": "https://www.reddit.com/r/codex/comments/1xskku2/61_sol_over_engineering_and_over_prudent/",
+        "rank": 4,
+        "title": "Tibo is apparently working at Boston University",
+        "url": "https://www.reddit.com/r/codex/comments/1xswj2a/tibo_is_apparently_working_at_boston_university/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-10T11:31:57.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-10T19:41:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y3wp4l649u0i1.jpeg?width=640&crop=smart&auto=webp&s=42379723233a91c0383446d319597dce9f6026aa"
+      },
+      {
+        "rank": 5,
+        "title": "GPT-6.2 JUST GOT AN OFFICIAL DOCUMENTATION REFERENCE?",
+        "url": "https://www.reddit.com/r/codex/comments/1xsw01b/gpt62_just_got_an_official_documentation_reference/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-10T19:21:12.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kc7twqhi5u0i1.png?width=640&crop=smart&auto=webp&s=05fa0c34adf163bd76d495321305fb5e0d961373"
       },
       {
         "rank": 1,

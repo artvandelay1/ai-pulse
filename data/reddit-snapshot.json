@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-11-09T20:00:44.620Z",
+  "fetchedAt": "2026-11-10T02:41:10.554Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Fable 5.2 just landed.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0dct/fable_52_just_landed/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T18:59:57.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "15 weeks of making game with Claude Opus in Godot",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xrkks4/15_weeks_of_making_game_with_claude_opus_in_godot/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T06:35:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZmQ3djM3MTc0ajBpMXjHMKpJrkinbpSHK3wrlbOhlFNet788SbxWYX3z1byx.png?width=640&crop=smart&auto=webp&s=62ef27f12a9fa1f94a96c1ed72758185c74a6695"
+      },
+      {
+        "rank": 3,
+        "title": "Has Anthropic Nerfed Opus 5.5? LiveNerf Day 47 Update",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xriv9l/has_anthropic_nerfed_opus_55_livenerf_day_47/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T04:58:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/si6kvg0qqi0i1.jpeg?width=640&crop=smart&auto=webp&s=a8692a614ff0bfcadcf3669c0ca2002415d4d484"
+      },
+      {
+        "rank": 4,
+        "title": "GUYS I DID IT",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs3e2p/guys_i_did_it/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T20:52:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wiabr3gugn0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7147f054961b69b72451ceec20c2de7c3b8079de"
+      },
+      {
+        "rank": 5,
+        "title": "WTF Fable 5.2 Cost per task is Insane It's not cheaper than Fable 5.1 as they are claiming.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs292a/wtf_fable_52_cost_per_task_is_insane_its_not/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-09T20:08:31.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/o0m0yotu8n0i1.png?width=640&crop=smart&auto=webp&s=6a26dfb60fad73ca182116ddbf2c4a6905a968f1"
+      },
       {
         "rank": 1,
         "title": "Amazon applied science intern interview next week - EU based [D]",
@@ -16,6 +65,15 @@
       },
       {
         "rank": 2,
+        "title": "Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 \"newspapers\"[P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-09T22:39:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
         "source": "r/MachineLearning",
@@ -24,30 +82,68 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
-        "title": "Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-09T03:41:21.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 4,
-        "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+        "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-09T00:30:07.000Z",
+        "publishedAt": "2026-11-09T18:52:05.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "EACL 2027 Decisions Thread [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
+        "title": "Using latent-agent swarms for math discovery and optimization [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-09T15:52:24.000Z",
+        "publishedAt": "2026-11-09T15:30:50.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Fable 5.2 released",
+        "url": "https://www.reddit.com/r/codex/comments/1xs0nrz/fable_52_released/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-09T19:10:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ihb5qzgoym0i1.png?width=640&crop=smart&auto=webp&s=697c4d3645d37c0993ab4054f707283182d157d5"
+      },
+      {
+        "rank": 2,
+        "title": "I built a Mac app that beeps before I bite my nails",
+        "url": "https://www.reddit.com/r/codex/comments/1xrx619/i_built_a_mac_app_that_beeps_before_i_bite_my/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-09T17:02:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6lpmzf8vbm0i1.png?width=640&crop=smart&auto=webp&s=e07ddbc9ece5f983e40659f355a4a4aaa1d0f78c"
+      },
+      {
+        "rank": 3,
+        "title": "Is OpenAI cracking down on reverse engineering like Anthropic?",
+        "url": "https://www.reddit.com/r/codex/comments/1xrpe62/is_openai_cracking_down_on_reverse_engineering/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-09T11:34:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Claude or ChatGPT?",
+        "url": "https://www.reddit.com/r/codex/comments/1xrwexu/claude_or_chatgpt/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-09T16:35:44.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "I missed Codex (switched 2 months ago) and decided to boot up my old pal for coding again. I was surprised!!",
+        "url": "https://www.reddit.com/r/codex/comments/1xs0t14/i_missed_codex_switched_2_months_ago_and_decided/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-09T19:15:45.000Z",
         "category": "reddit"
       },
       {
@@ -147,103 +243,6 @@
         "publishedAt": "2026-11-09T17:08:25.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/cnU3ZGhrcXZjbTBpMXs2awgOKpCV-aijv4ecxzwWlf4NjOTA2QV9EelnriuE.png?width=640&crop=smart&auto=webp&s=97c6ad2930bcf83809f9d82f4239114e7b23f7d4"
-      },
-      {
-        "rank": 1,
-        "title": "claudism",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqtwu0/claudism/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T08:48:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ugolw8isqc0i1.jpeg?width=640&crop=smart&auto=webp&s=db9a9a56055c8ee3b3b4d63a0eec9006b345e126"
-      },
-      {
-        "rank": 2,
-        "title": "I built an infinite, self-evolving Backrooms with Opus 5.5. Even I don’t know what’s in it anymore",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqp0p0/i_built_an_infinite_selfevolving_backrooms_with/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T03:46:59.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bjU2enBoYmM4YjBpMQ5tC54ykbnPKKlcSm1anYW5ziIHpZaXTmlaBVatTEnb.png?width=640&crop=smart&auto=webp&s=c352e1bc5d3bb8a4d37a0d8116a5bc4bab73c621"
-      },
-      {
-        "rank": 3,
-        "title": "What's the one prompt you keep coming back to?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr0drc/whats_the_one_prompt_you_keep_coming_back_to/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T15:01:02.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "I built an MCP with Claude Code that lets Claude play PC games in the background. Here it is driving, flying a heli and walking in GTA on its own",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xr3gbs/i_built_an_mcp_with_claude_code_that_lets_claude/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T17:11:53.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bWg0NzVkc3c3ZjBpMeyppUDmdDRujkCxftTdneo72Z7W5igpVGtQKsPGpJo7.png?width=640&crop=smart&auto=webp&s=5f93b67e50d3756d6e9732b2c878f074d9bac6e7"
-      },
-      {
-        "rank": 5,
-        "title": "Opus 5.5 goes UP on Benchmaxxing Bench",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xqohti/opus_55_goes_up_on_benchmaxxing_bench/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-08T03:18:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/249nok0w3b0i1.jpeg?width=640&crop=smart&auto=webp&s=c6f6bb9c0250d1b62cc0304db2b9cae2019c8470"
-      },
-      {
-        "rank": 1,
-        "title": "That's a bold strategy for building customer loyalty. 😂",
-        "url": "https://www.reddit.com/r/codex/comments/1xr3bzo/thats_a_bold_strategy_for_building_customer/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-08T17:06:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/waqhsc3h7f0i1.jpeg?width=640&crop=smart&auto=webp&s=ab759be8a65f84a03f32c7fe8693581de62d06e0"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI using C:\\Program Files\\WindowsApps for their desktop app is pure engineering incompetence",
-        "url": "https://www.reddit.com/r/codex/comments/1xqut3z/openai_using_cprogram_fileswindowsapps_for_their/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-08T09:49:01.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "I got tired of codex getting bloated, so i stripped out all the telemetry, ads , work mode, slides, pets, docs, promotion popups and it improved speed massively.",
-        "url": "https://www.reddit.com/r/codex/comments/1xr967n/i_got_tired_of_codex_getting_bloated_so_i/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-08T21:07:34.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4ukfs3j8dg0i1.png?width=640&crop=smart&auto=webp&s=0ede14ac7f6d6e463e87a3538dd6073be3583c00"
-      },
-      {
-        "rank": 4,
-        "title": "I got a new smart watch and I'm making an AI deploy custom apps to it completely wirelessly",
-        "url": "https://www.reddit.com/r/codex/comments/1xqpczf/i_got_a_new_smart_watch_and_im_making_an_ai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-08T04:06:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "How to tell if your account has GPT-6.2 Sol. (6.1 Sol doesn’t know the answer.)",
-        "url": "https://www.reddit.com/r/codex/comments/1xr760c/how_to_tell_if_your_account_has_gpt62_sol_61_sol/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-08T19:43:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tj6miwapzf0i1.jpeg?width=640&crop=smart&auto=webp&s=9b51d514855f386a7dac93a27c24f8c9ad5a6ed6"
       }
     ]
   }

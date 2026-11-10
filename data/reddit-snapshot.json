@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T10:55:06.163Z",
+  "fetchedAt": "2026-11-10T18:34:08.808Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,6 +7,16 @@
     "items": [
       {
         "rank": 1,
+        "title": "Instead of collecting dust, Claude makes your old Kindle useful again",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsk5k9/instead_of_collecting_dust_claude_makes_your_old/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T11:06:35.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ix59vxp9pr0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=aa2da63a6ca37afcd5720d6fb1f3b86b3c894c04"
+      },
+      {
+        "rank": 2,
         "title": "Fable 5.2 just landed.",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs0dct/fable_52_just_landed/",
         "source": "r/ClaudeAI",
@@ -15,7 +25,16 @@
         "category": "reddit"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "title": "Fable 51.8 is UNUSABLE on Pro. Hit my limit after ONE (1) prompt. Cancelled.",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsjwqc/fable_518_is_unusable_on_pro_hit_my_limit_after/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T10:52:08.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "GUYS I DID IT",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs3e2p/guys_i_did_it/",
         "source": "r/ClaudeAI",
@@ -25,33 +44,14 @@
         "thumbnail": "https://preview.redd.it/wiabr3gugn0i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=7147f054961b69b72451ceec20c2de7c3b8079de"
       },
       {
-        "rank": 3,
-        "title": "HUGE Fable 5.2 Issue",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xscs0g/huge_fable_52_issue/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-10T03:43:50.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q4cumo6aip0i1.jpeg?width=640&crop=smart&auto=webp&s=5d177d68857c10223585de21ab3e307115afbea5"
-      },
-      {
-        "rank": 4,
-        "title": "WTF Fable 5.2 Cost per task is Insane It's not cheaper than Fable 5.1 as they are claiming.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs292a/wtf_fable_52_cost_per_task_is_insane_its_not/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T20:08:31.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/o0m0yotu8n0i1.png?width=640&crop=smart&auto=webp&s=6a26dfb60fad73ca182116ddbf2c4a6905a968f1"
-      },
-      {
         "rank": 5,
-        "title": "Fable 5.2",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xs25gb/fable_52/",
+        "title": "it’s getting smarter frfr",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsrfcl/its_getting_smarter_frfr/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-09T20:04:53.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-10T16:30:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vnnou6n0bt0i1.jpeg?width=640&crop=smart&auto=webp&s=5a5ddf4ae2ebb86c82b731a1ba97f037886c9e9b"
       },
       {
         "rank": 1,
@@ -64,20 +64,21 @@
       },
       {
         "rank": 2,
+        "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-10T16:14:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YuMyj5bf8Pyu4p1ewXGDUTymXePwnH6SojCaCi3coy4.png?width=140&height=70&auto=webp&s=1518d467c7d6a5325799e31f1a3d2326faa84dae"
+      },
+      {
+        "rank": 3,
         "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
         "source": "r/MachineLearning",
         "score": 0,
         "publishedAt": "2026-11-09T18:52:05.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Using latent-agent swarms for math discovery and optimization [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-09T15:30:50.000Z",
         "category": "reddit"
       },
       {
@@ -91,11 +92,11 @@
       },
       {
         "rank": 5,
-        "title": "Twindex: exact, replayable proofs that your data can't tell two parameter sets apart (ODEs, PDEs, PINNs) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xryhhg/twindex_exact_replayable_proofs_that_your_data/",
+        "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-09T17:50:57.000Z",
+        "publishedAt": "2026-11-10T13:15:51.000Z",
         "category": "reddit"
       },
       {
@@ -110,16 +111,26 @@
       },
       {
         "rank": 2,
-        "title": "I built a Mac app that beeps before I bite my nails",
-        "url": "https://www.reddit.com/r/codex/comments/1xrx619/i_built_a_mac_app_that_beeps_before_i_bite_my/",
+        "title": "anti-anti-REA: A tool that undoes BLA hardening so coding agents can read the code again",
+        "url": "https://www.reddit.com/r/codex/comments/1xsjiq4/antiantirea_a_tool_that_undoes_bla_hardening_so/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-09T17:02:38.000Z",
+        "publishedAt": "2026-11-10T10:28:41.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6lpmzf8vbm0i1.png?width=640&crop=smart&auto=webp&s=e07ddbc9ece5f983e40659f355a4a4aaa1d0f78c"
+        "thumbnail": "https://preview.redd.it/5yqn7hkfir0i1.png?width=640&crop=smart&auto=webp&s=c4d4056111da4382763cf583ce3404c8d56e5a6a"
       },
       {
         "rank": 3,
+        "title": "OpenAI last month feels like that. it's quiet... too quiet",
+        "url": "https://www.reddit.com/r/codex/comments/1xsqshx/openai_last_month_feels_like_that_its_quiet_too/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-10T16:06:34.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eeo88gqd6t0i1.gif?width=320&crop=smart&s=f48fd219d32208f1cc9656d2a63d8060dc4743a9"
+      },
+      {
+        "rank": 4,
         "title": "I missed Codex (switched 2 months ago) and decided to boot up my old pal for coding again. I was surprised!!",
         "url": "https://www.reddit.com/r/codex/comments/1xs0t14/i_missed_codex_switched_2_months_ago_and_decided/",
         "source": "r/codex",
@@ -128,21 +139,12 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "Is OpenAI cracking down on reverse engineering like Anthropic?",
-        "url": "https://www.reddit.com/r/codex/comments/1xrpe62/is_openai_cracking_down_on_reverse_engineering/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-09T11:34:38.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 5,
-        "title": "Claude or ChatGPT?",
-        "url": "https://www.reddit.com/r/codex/comments/1xrwexu/claude_or_chatgpt/",
+        "title": "6.1 Sol over engineering and over prudent",
+        "url": "https://www.reddit.com/r/codex/comments/1xskku2/61_sol_over_engineering_and_over_prudent/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-09T16:35:44.000Z",
+        "publishedAt": "2026-11-10T11:31:57.000Z",
         "category": "reddit"
       },
       {

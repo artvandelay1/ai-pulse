@@ -1,10 +1,154 @@
 {
-  "fetchedAt": "2026-11-11T05:55:15.780Z",
+  "fetchedAt": "2026-11-11T13:52:44.856Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Can we talk about the ML research coming from China? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T11:02:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-10T16:14:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YuMyj5bf8Pyu4p1ewXGDUTymXePwnH6SojCaCi3coy4.png?width=140&height=70&auto=webp&s=1518d467c7d6a5325799e31f1a3d2326faa84dae"
+      },
+      {
+        "rank": 3,
+        "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T02:22:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2guskt0n8w0i1.png?width=640&crop=smart&auto=webp&s=c237aae52dc3cf63118047da5321f18889ce01fc"
+      },
+      {
+        "rank": 4,
+        "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-10T18:35:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jckgu5u9wt0i1.png?width=140&height=76&auto=webp&s=66022f792f9b159f71eb869e79c8e4b08876ee01"
+      },
+      {
+        "rank": 5,
+        "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T05:25:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Reverse Engineer Anything - AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xsop6i/reverse_engineer_anything_ai_companies_crack_down/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T14:45:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/FlU0WdJ1Vlk7E5qJ11bQAVTUcO5fudFob9QAVEP7WFg.png?width=640&crop=smart&auto=webp&s=53d08faa79d046008a5a7bd1459bc3ea7d45a038"
+      },
+      {
+        "rank": 2,
+        "title": "OpenAI is getting left in the dust right now",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xsq1xj/openai_is_getting_left_in_the_dust_right_now/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T15:38:49.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Jensen actually means this.....",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xsssqd/jensen_actually_means_this/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T17:21:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/j3xr2pnzjt0i1.jpeg?width=640&crop=smart&auto=webp&s=0033a836010de252b292fc6858cdf30c98a7d7d3"
+      },
+      {
+        "rank": 4,
+        "title": "We have to talk about the new image model (GPT Image 2.6 Extra High)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xt32wr/we_have_to_talk_about_the_new_image_model_gpt/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T00:09:30.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/kwg895sxkv0i1.png?width=640&crop=smart&auto=webp&s=09bd3c77ee74e465d3835543c0f9fa862befc380"
+      },
+      {
+        "rank": 5,
+        "title": "Chatgpt 6.1 sol dissapeared",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xt0tyd/chatgpt_61_sol_dissapeared/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-10T22:33:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/niwsxzeq3v0i1.png?width=320&crop=smart&auto=webp&s=8bbdb32e8e21fad4f80822ac7df3e512fcbacc2d"
+      },
+      {
+        "rank": 1,
+        "title": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
+        "url": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-10T18:19:20.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "This entire sub, any time a model drops",
+        "url": "https://www.reddit.com/r/singularity/comments/1xt08xh/this_entire_sub_any_time_a_model_drops/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-10T22:08:36.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/jn44serdzu0i1.png?width=640&crop=smart&auto=webp&s=ee592c0530c34cba739f2226b844c5bf04a9f603"
+      },
+      {
+        "rank": 3,
+        "title": "Dario Amodei Says Cancer, Alzheimer’s, Heart Disease, and Mental Illness Will Be Relics of the Past in Less Than a Decade, and That “We Can Create an Age of Miracles”",
+        "url": "https://www.reddit.com/r/singularity/comments/1xst0g2/dario_amodei_says_cancer_alzheimers_heart_disease/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-10T17:29:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "This is *so* much more impressive than any dancing or acrobatic feat, because the skateboard can have countless variable states to account for *outside* the system (and it doesn’t appear to have any trackers, gyro/accelerometer/imu on it either) … I genuinely thought this was 3-5 years away…",
+        "url": "https://www.reddit.com/r/singularity/comments/1xt77bh/this_is_so_much_more_impressive_than_any_dancing/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-11T03:25:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Gemini 4 Carbon is now available",
+        "url": "https://www.reddit.com/r/singularity/comments/1xsqvmn/gemini_4_carbon_is_now_available/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-10T16:09:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/phxhdRm1Z-jxiJGdhbqZviQwA_NJQ1FLMiA9giZzOcg.jpeg?width=640&crop=smart&auto=webp&s=f8f30c6bd1ef3140c8f7e20ad59388b93f9f5221"
+      },
       {
         "rank": 1,
         "title": "it’s getting smarter frfr",
@@ -56,35 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-10T16:14:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YuMyj5bf8Pyu4p1ewXGDUTymXePwnH6SojCaCi3coy4.png?width=140&height=70&auto=webp&s=1518d467c7d6a5325799e31f1a3d2326faa84dae"
-      },
-      {
-        "rank": 2,
-        "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-10T18:35:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jckgu5u9wt0i1.png?width=140&height=76&auto=webp&s=66022f792f9b159f71eb869e79c8e4b08876ee01"
-      },
-      {
-        "rank": 3,
-        "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-10T13:15:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "anti-anti-REA: A tool that undoes BLA hardening so coding agents can read the code again",
         "url": "https://www.reddit.com/r/codex/comments/1xsjiq4/antiantirea_a_tool_that_undoes_bla_hardening_so/",
         "source": "r/codex",
@@ -131,104 +246,6 @@
         "publishedAt": "2026-11-10T19:21:12.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/kc7twqhi5u0i1.png?width=640&crop=smart&auto=webp&s=05fa0c34adf163bd76d495321305fb5e0d961373"
-      },
-      {
-        "rank": 1,
-        "title": "I am sorry everyone.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xrsmch/i_am_sorry_everyone/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T14:10:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kzg5cwc4hl0i1.jpeg?width=320&crop=smart&auto=webp&s=17068e6fe8416ec0b281cc536da770ad20b57408"
-      },
-      {
-        "rank": 2,
-        "title": "We're only Human... for now.",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xrr0a0/were_only_human_for_now/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T12:58:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r3oh5v8d4l0i1.png?width=640&crop=smart&auto=webp&s=fbb33cae697a20ecede3f144ed6ded846926f75e"
-      },
-      {
-        "rank": 3,
-        "title": "The last time a superintelligent species arrived on Earth (humans), it was a disaster for most other species",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xrr0ei/the_last_time_a_superintelligent_species_arrived/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T12:58:56.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/qfpm89rd4l0i1.png?width=640&crop=smart&auto=webp&s=84d4fcc1660b84c356cf1c2c1022e22310e02657"
-      },
-      {
-        "rank": 4,
-        "title": "Received a \"Cyber Abuse\" warning, and it was Astra's doing",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xrfi1j/received_a_cyber_abuse_warning_and_it_was_astras/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T02:02:06.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Is it me or during the last 2-3 days models got dumber?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xro8vq/is_it_me_or_during_the_last_23_days_models_got/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-09T10:26:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Jensen does not run his personal life in single thread",
-        "url": "https://www.reddit.com/r/singularity/comments/1xrr40n/jensen_does_not_run_his_personal_life_in_single/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-09T13:03:13.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ittkz4165l0i1.jpeg?width=640&crop=smart&auto=webp&s=af9817adb1128dcc3dce2e46863cf3959a7c355d"
-      },
-      {
-        "rank": 2,
-        "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
-        "url": "https://www.reddit.com/r/singularity/comments/1xr7wb5/nvidia_opens_investigation_into_jensen_huangs/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-08T20:13:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/N2KzpdFruhEgdbWOfx-IrElrP_H9MwRJ_5qQGpjCNQY.jpeg?width=640&crop=smart&auto=webp&s=025953c47d542f3208f0b4e9e5bbc353058f6cb5"
-      },
-      {
-        "rank": 3,
-        "title": "Skyrim modder uses AI to help reverse-engineer the game's 15-year-old engine, adding real-time terrain editing, modular construction, and NPC navigation to player-built structures.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xrvqoo/skyrim_modder_uses_ai_to_help_reverseengineer_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-09T16:10:46.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/dWFlYjd1cGsybTBpMRMbYhan0gDfXxf633hhB1t5SkRq3W-Oh_TQUza65J-b.png?width=320&crop=smart&auto=webp&s=bb3387a0e08e37c2c06ecebc24c3b760ab3134b6"
-      },
-      {
-        "rank": 4,
-        "title": "Trump claims that he threatened to arrest a major lab CEO who was \"doing something bad with AI\" that \"could've been malicious\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xrhqeh/trump_claims_that_he_threatened_to_arrest_a_major/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-09T03:56:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/OXphNjU4M2JmaTBpMZoYlzUENV_o-C1QkgWRzf-x72THU5cGhn8kmv-2-sv-.png?width=640&crop=smart&auto=webp&s=688823082f3ac724d8d97dc575279736a470f7a0"
-      },
-      {
-        "rank": 5,
-        "title": "Boston Dynamics demos Atlas over wheels",
-        "url": "https://www.reddit.com/r/singularity/comments/1xrxbul/boston_dynamics_demos_atlas_over_wheels/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-09T17:08:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cnU3ZGhrcXZjbTBpMXs2awgOKpCV-aijv4ecxzwWlf4NjOTA2QV9EelnriuE.png?width=640&crop=smart&auto=webp&s=97c6ad2930bcf83809f9d82f4239114e7b23f7d4"
       }
     ]
   }

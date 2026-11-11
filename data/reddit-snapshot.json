@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T23:59:09.237Z",
+  "fetchedAt": "2026-11-11T05:55:15.780Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -46,25 +46,16 @@
       },
       {
         "rank": 5,
-        "title": "HUGE Fable 5.2 Issue",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xscs0g/huge_fable_52_issue/",
+        "title": "Pretty insane video from Fable 5.2 with 1 single short prompt",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsftbq/pretty_insane_video_from_fable_52_with_1_single/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-10T03:43:50.000Z",
+        "publishedAt": "2026-11-10T06:31:53.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/q4cumo6aip0i1.jpeg?width=640&crop=smart&auto=webp&s=5d177d68857c10223585de21ab3e307115afbea5"
+        "thumbnail": "https://external-preview.redd.it/YjN0dWUwNXpicTBpMcRLxmWgnByZcZfWFzqaXSSoCb8HmbpOLDBuGe1JFdIp.png?width=640&crop=smart&auto=webp&s=06e1263b48ea0282a1ce8d27152c4f4ab281ec74"
       },
       {
         "rank": 1,
-        "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-10T02:07:04.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
         "source": "r/MachineLearning",
@@ -74,7 +65,7 @@
         "thumbnail": "https://external-preview.redd.it/YuMyj5bf8Pyu4p1ewXGDUTymXePwnH6SojCaCi3coy4.png?width=140&height=70&auto=webp&s=1518d467c7d6a5325799e31f1a3d2326faa84dae"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
         "source": "r/MachineLearning",
@@ -84,7 +75,7 @@
         "thumbnail": "https://preview.redd.it/jckgu5u9wt0i1.png?width=140&height=76&auto=webp&s=66022f792f9b159f71eb869e79c8e4b08876ee01"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
         "source": "r/MachineLearning",

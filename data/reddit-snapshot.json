@@ -1,10 +1,58 @@
 {
-  "fetchedAt": "2026-11-12T02:26:49.897Z",
+  "fetchedAt": "2026-11-12T10:09:15.257Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built a tiny Windows taskbar widget with Claude Code that shows your Claude 5h and weekly usage next to the clock",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xte9be/i_built_a_tiny_windows_taskbar_widget_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T10:20:10.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/h17djcwuly0i1.png?width=320&crop=smart&auto=webp&s=7e03aeeea596c5ec9da6b7748633fc0c7b995a09"
+      },
+      {
+        "rank": 2,
+        "title": "Getting 3 free fable rst for anniversary",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtle19/getting_3_free_fable_rst_for_anniversary/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T15:57:13.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/ev18ogmx901i1.png?width=216&crop=smart&auto=webp&s=0cbc52cb4421ea060280b84357c75fb5d329eb00"
+      },
+      {
+        "rank": 3,
+        "title": "Show us what you've created with Claude!",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtv0sh/show_us_what_youve_created_with_claude/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T22:00:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Fable 5.2 built this scene in Blender",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xu4r5m/fable_52_built_this_scene_in_blender/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-12T05:44:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/OGVsa2x0OXhiNDFpMWiR-MDGxox9_vEFTonys6A438cUD5HbbbFHa0rpSojc.png?width=640&crop=smart&auto=webp&s=1d49702efedb06f87571e219f2fbbb63b7dfacec"
+      },
+      {
+        "rank": 5,
+        "title": "Heads up: Claude Code's \"don't ask again\" has been leaking secrets into public repos",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xtx4ik/heads_up_claude_codes_dont_ask_again_has_been/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T23:29:02.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "Can we talk about the ML research coming from China? [D]",
@@ -25,6 +73,15 @@
       },
       {
         "rank": 3,
+        "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-12T04:42:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
         "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
         "source": "r/MachineLearning",
@@ -33,21 +90,61 @@
         "category": "reddit"
       },
       {
-        "rank": 4,
-        "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+        "rank": 5,
+        "title": "Missed Presentation [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1szu/missed_presentation_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-11T21:42:54.000Z",
+        "publishedAt": "2026-11-12T03:08:20.000Z",
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
-        "source": "r/MachineLearning",
+        "rank": 1,
+        "title": "couldn't be more happy this morning",
+        "url": "https://www.reddit.com/r/codex/comments/1xtf17k/couldnt_be_more_happy_this_morning/",
+        "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-11T05:25:43.000Z",
+        "publishedAt": "2026-11-11T11:06:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/vcc7shp1uy0i1.png?width=640&crop=smart&auto=webp&s=a3b1dd73c9c946d2197de29d027a93bf3135cba8"
+      },
+      {
+        "rank": 2,
+        "title": "\"I got tired/sick, so I built/made\"",
+        "url": "https://www.reddit.com/r/codex/comments/1xtqmxg/i_got_tiredsick_so_i_builtmade/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-11T19:09:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/06wlw9xs611i1.png?width=140&height=49&auto=webp&s=62e317bd1b56fbfb26a4dee2eaf8956fffc60225"
+      },
+      {
+        "rank": 3,
+        "title": "Banked reset soon",
+        "url": "https://www.reddit.com/r/codex/comments/1xthn50/banked_reset_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-11T13:23:45.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/uap4rjghiz0i1.png?width=140&height=29&auto=webp&s=c764423ee96be3331cddc13883d150a55ed393ab"
+      },
+      {
+        "rank": 4,
+        "title": "Same game prompt, no testing allowed: GPT-6.1 Sol finished in 4 min on 26K tokens. Opus 5.5 took 21 min and 826K.",
+        "url": "https://www.reddit.com/r/codex/comments/1xtgbs7/same_game_prompt_no_testing_allowed_gpt61_sol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-11T12:19:41.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/d2RzZWxjYTY3ejBpMQgQgCXwSdaiI4xVgHGPcrlQhNIMAbdJBfNw07ZVkEm2.png?width=640&crop=smart&auto=webp&s=0950db13049c18576aad8f33a7f2d82856b2e779"
+      },
+      {
+        "rank": 5,
+        "title": "GPT 6.1 Sol still seems worse than 5.6 Sol.",
+        "url": "https://www.reddit.com/r/codex/comments/1xtptls/gpt_61_sol_still_seems_worse_than_56_sol/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-11T18:39:25.000Z",
         "category": "reddit"
       },
       {
@@ -147,106 +244,6 @@
         "publishedAt": "2026-11-11T18:24:44.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/s8kzqnha011i1.jpeg?width=640&crop=smart&auto=webp&s=165d0e18999489625ad1669b889bc19e8713aa96"
-      },
-      {
-        "rank": 1,
-        "title": "Guys Fable 5.2 is INSANE",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt4fap/guys_fable_52_is_insane/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T01:10:42.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/760b1wbjvv0i1.png?width=140&height=86&auto=webp&s=4d57724bd7b9f94ecb4cb0169e001c284e085f5b"
-      },
-      {
-        "rank": 2,
-        "title": "Fable 5.2 maxed its usage to make this video",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt3m47/fable_52_maxed_its_usage_to_make_this_video/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T00:33:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YnkzMDdjbDFwdjBpMWZSFvP1ktW8tHVZzbx2KvCpEsmxV95jxTU6Y38f4CSa.png?width=640&crop=smart&auto=webp&s=056435bd4f456bd6157ed737cc2ca6fbcca901bf"
-      },
-      {
-        "rank": 3,
-        "title": "Claude helped me organize my legal database into a public archive with 300,000 searchable military board decisions, and this morning that work became evidence in a federal lawsuit.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt44ar/claude_helped_me_organize_my_legal_database_into/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T00:56:48.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/keaj87swpv0i1.jpeg?width=140&height=81&auto=webp&s=d5af83ea828aecd9e6780fc9d76dc123757a6a08"
-      },
-      {
-        "rank": 4,
-        "title": "Fable 5.2 is a competent Electrical Engineer",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt1dfp/fable_52_is_a_competent_electrical_engineer/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-10T22:56:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m29v5rto7v0i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=df75db63614b64b910c1872cd4a67071d11a1ef9"
-      },
-      {
-        "rank": 5,
-        "title": "another reset? fyyyyeah!",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xt02m7/another_reset_fyyyyeah/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-10T22:01:20.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3vozwk03yu0i1.jpeg?width=640&crop=smart&auto=webp&s=d07974b1b7b58b91347fc969d9b8feeb66c56b36"
-      },
-      {
-        "rank": 1,
-        "title": "Maybe reset coming soon?",
-        "url": "https://www.reddit.com/r/codex/comments/1xtb1eq/maybe_reset_coming_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-11T06:56:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cqlnforjlx0i1.jpeg?width=640&crop=smart&auto=webp&s=f1b0dc5ec65681097075ffe89a78555738a34406"
-      },
-      {
-        "rank": 2,
-        "title": "couldn't be more happy this morning",
-        "url": "https://www.reddit.com/r/codex/comments/1xtf17k/couldnt_be_more_happy_this_morning/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-11T11:06:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/vcc7shp1uy0i1.png?width=640&crop=smart&auto=webp&s=a3b1dd73c9c946d2197de29d027a93bf3135cba8"
-      },
-      {
-        "rank": 3,
-        "title": "Banked reset soon",
-        "url": "https://www.reddit.com/r/codex/comments/1xthn50/banked_reset_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-11T13:23:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/uap4rjghiz0i1.png?width=140&height=29&auto=webp&s=c764423ee96be3331cddc13883d150a55ed393ab"
-      },
-      {
-        "rank": 4,
-        "title": "When we have seen the last update from OpenAI? Feels like nothing for 1 month",
-        "url": "https://www.reddit.com/r/codex/comments/1xt37ha/when_we_have_seen_the_last_update_from_openai/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-11T00:15:10.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/br92io2wlv0i1.png?width=320&crop=smart&auto=webp&s=5d608ea8df2595e45253c11e230ab4e1cdf66e79"
-      },
-      {
-        "rank": 5,
-        "title": "WTF DID GPT 6.1 SOL GO?",
-        "url": "https://www.reddit.com/r/codex/comments/1xt0bka/wtf_did_gpt_61_sol_go/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-10T22:11:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/hl5vpklszu0i1.png?width=640&crop=smart&auto=webp&s=a1082da70e9a97f6b32ab694754a2cad202dc057"
       }
     ]
   }

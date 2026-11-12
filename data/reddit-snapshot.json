@@ -1,10 +1,153 @@
 {
-  "fetchedAt": "2026-11-11T21:10:12.806Z",
+  "fetchedAt": "2026-11-12T02:26:49.897Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "Can we talk about the ML research coming from China? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T11:02:38.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Have people given up on ICLR reviews? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T20:40:40.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T22:20:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T21:42:54.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-11T05:25:43.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "I will never get over the fact",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xtl8hm/i_will_never_get_over_the_fact/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T15:51:06.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/19mffbrw801i1.png?width=640&crop=smart&auto=webp&s=e4462c33c49a288601abde8ed2dd763580cc813b"
+      },
+      {
+        "rank": 2,
+        "title": "Paul Christiano (OpenAI board member) - \"For most people in this room, the most likely reason they will die is because of an AI accident.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xti670/paul_christiano_openai_board_member_for_most/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T13:47:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/eWkwdjU1N3htejBpMVIuNs-DU6JyP-NRlT2NcCORTHe28Wy8Q6Cj1sgKtZ4w.png?width=640&crop=smart&auto=webp&s=3427f797759ffb94d20719bbec9e7419eac9b311"
+      },
+      {
+        "rank": 3,
+        "title": "How it all started",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xtdhta/how_it_all_started/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T09:30:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MzNvbTVyazFkeTBpMREfTPg9_IsTWEb0kHnKDbYldiqihkBhPtkBxIAIOIw_.png?width=320&crop=smart&auto=webp&s=229484a96666f941ef0ea9812e5975d62a258955"
+      },
+      {
+        "rank": 4,
+        "title": "How to ride him",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xtfjo0/how_to_ride_him/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-11T11:37:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/oq5jmkmmzy0i1.png?width=640&crop=smart&auto=webp&s=5da310e5e4420b76727bd921f8b479784834de5d"
+      },
+      {
+        "rank": 5,
+        "title": "50,000 open-source 3D assets and game systems that Codex can use for games/websites",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xtyci9/50000_opensource_3d_assets_and_game_systems_that/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-12T00:22:51.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/MGFiMHYyMHlyMjFpMbTXaYf_k57NyvCl7E8zyp1mXiw5dsSHXIaaJb-xCYT9.png?width=640&crop=smart&auto=webp&s=c739a3bbe493ebbdafc0ca1e174b6e721b68745e"
+      },
+      {
+        "rank": 1,
+        "title": "Ts is too funny",
+        "url": "https://www.reddit.com/r/singularity/comments/1xtjj5g/ts_is_too_funny/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-11T14:44:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/y7eqt08f0w0i1.jpeg?width=640&crop=smart&auto=webp&s=4e0871cf1a8068ee08a842ce6b1695def1d0fd0c"
+      },
+      {
+        "rank": 2,
+        "title": "This is *so* much more impressive than any dancing or acrobatic feat, because the skateboard can have countless variable states to account for *outside* the system (and it doesn’t appear to have any trackers, gyro/accelerometer/imu on it either) … I genuinely thought this was 3-5 years away…",
+        "url": "https://www.reddit.com/r/singularity/comments/1xt77bh/this_is_so_much_more_impressive_than_any_dancing/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-11T03:25:16.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "A second affair has hit the Jensen",
+        "url": "https://www.reddit.com/r/singularity/comments/1xtvbqj/a_second_affair_has_hit_the_jensen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-11T22:12:40.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/l31g7yrr421i1.png?width=640&crop=smart&auto=webp&s=8edf15bd0d4d38362c14e4b671376bbdfe2aed05"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI Yang Mills Existence Lean Proof Released and Verified",
+        "url": "https://www.reddit.com/r/singularity/comments/1xt9sa5/openai_yang_mills_existence_lean_proof_released/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-11T05:42:51.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Google Launches Gemini Decision-1 Model for Fast Structured Outputs",
+        "url": "https://www.reddit.com/r/singularity/comments/1xtpfrg/google_launches_gemini_decision1_model_for_fast/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-11T18:24:44.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/s8kzqnha011i1.jpeg?width=640&crop=smart&auto=webp&s=165d0e18999489625ad1669b889bc19e8713aa96"
+      },
       {
         "rank": 1,
         "title": "Guys Fable 5.2 is INSANE",
@@ -57,52 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Can we talk about the ML research coming from China? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-11T11:02:38.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-11T02:22:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/2guskt0n8w0i1.png?width=640&crop=smart&auto=webp&s=c237aae52dc3cf63118047da5321f18889ce01fc"
-      },
-      {
-        "rank": 3,
-        "title": "Have people given up on ICLR reviews? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-11T20:40:40.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-11T05:25:43.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "AI ‘slop’ is a social judgement [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-11T18:03:18.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Maybe reset coming soon?",
         "url": "https://www.reddit.com/r/codex/comments/1xtb1eq/maybe_reset_coming_soon/",
         "source": "r/codex",
@@ -150,102 +247,6 @@
         "publishedAt": "2026-11-10T22:11:38.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/hl5vpklszu0i1.png?width=640&crop=smart&auto=webp&s=a1082da70e9a97f6b32ab694754a2cad202dc057"
-      },
-      {
-        "rank": 1,
-        "title": "Reverse Engineer Anything - AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xsop6i/reverse_engineer_anything_ai_companies_crack_down/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-10T14:45:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/FlU0WdJ1Vlk7E5qJ11bQAVTUcO5fudFob9QAVEP7WFg.png?width=640&crop=smart&auto=webp&s=53d08faa79d046008a5a7bd1459bc3ea7d45a038"
-      },
-      {
-        "rank": 2,
-        "title": "OpenAI is getting left in the dust right now",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xsq1xj/openai_is_getting_left_in_the_dust_right_now/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-10T15:38:49.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Jensen actually means this.....",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xsssqd/jensen_actually_means_this/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-10T17:21:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/j3xr2pnzjt0i1.jpeg?width=640&crop=smart&auto=webp&s=0033a836010de252b292fc6858cdf30c98a7d7d3"
-      },
-      {
-        "rank": 4,
-        "title": "We have to talk about the new image model (GPT Image 2.6 Extra High)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xt32wr/we_have_to_talk_about_the_new_image_model_gpt/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T00:09:30.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/kwg895sxkv0i1.png?width=640&crop=smart&auto=webp&s=09bd3c77ee74e465d3835543c0f9fa862befc380"
-      },
-      {
-        "rank": 5,
-        "title": "Chatgpt 6.1 sol dissapeared",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xt0tyd/chatgpt_61_sol_dissapeared/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-10T22:33:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/niwsxzeq3v0i1.png?width=320&crop=smart&auto=webp&s=8bbdb32e8e21fad4f80822ac7df3e512fcbacc2d"
-      },
-      {
-        "rank": 1,
-        "title": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-10T18:19:20.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "This entire sub, any time a model drops",
-        "url": "https://www.reddit.com/r/singularity/comments/1xt08xh/this_entire_sub_any_time_a_model_drops/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-10T22:08:36.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/jn44serdzu0i1.png?width=640&crop=smart&auto=webp&s=ee592c0530c34cba739f2226b844c5bf04a9f603"
-      },
-      {
-        "rank": 3,
-        "title": "Dario Amodei Says Cancer, Alzheimer’s, Heart Disease, and Mental Illness Will Be Relics of the Past in Less Than a Decade, and That “We Can Create an Age of Miracles”",
-        "url": "https://www.reddit.com/r/singularity/comments/1xst0g2/dario_amodei_says_cancer_alzheimers_heart_disease/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-10T17:29:32.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "This is *so* much more impressive than any dancing or acrobatic feat, because the skateboard can have countless variable states to account for *outside* the system (and it doesn’t appear to have any trackers, gyro/accelerometer/imu on it either) … I genuinely thought this was 3-5 years away…",
-        "url": "https://www.reddit.com/r/singularity/comments/1xt77bh/this_is_so_much_more_impressive_than_any_dancing/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-11T03:25:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Gemini 4 Carbon is now available",
-        "url": "https://www.reddit.com/r/singularity/comments/1xsqvmn/gemini_4_carbon_is_now_available/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-10T16:09:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/phxhdRm1Z-jxiJGdhbqZviQwA_NJQ1FLMiA9giZzOcg.jpeg?width=640&crop=smart&auto=webp&s=f8f30c6bd1ef3140c8f7e20ad59388b93f9f5221"
       }
     ]
   }

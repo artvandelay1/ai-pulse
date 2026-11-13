@@ -1,10 +1,156 @@
 {
-  "fetchedAt": "2026-11-13T00:02:10.288Z",
+  "fetchedAt": "2026-11-13T06:28:47.615Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-12T13:51:58.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/nial14ybr61i1.png?width=140&height=78&auto=webp&s=9a8c42ba234b22f94e529cce49993dbca3427464"
+      },
+      {
+        "rank": 2,
+        "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-12T18:55:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "CVPR 2027 Author enrollment form [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-12T14:30:15.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-12T16:02:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-12T17:16:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Atleast He Is Consistent",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xu85at/atleast_he_is_consistent/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-12T09:12:09.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/eks88k0le51i1.jpeg?width=640&crop=smart&auto=webp&s=ba520ea0397aac576b41d62de080489e6541c94c"
+      },
+      {
+        "rank": 2,
+        "title": "Huang's 3rd Affair",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xunf7r/huangs_3rd_affair/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-12T20:14:54.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6gk9lnzwo81i1.jpeg?width=640&crop=smart&auto=webp&s=4559b59130f2b7fdd7d45c689c395c8fe6e74a78"
+      },
+      {
+        "rank": 3,
+        "title": "The Funniest Thing I Saw Today",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xu70bz/the_funniest_thing_i_saw_today/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-12T07:59:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/em84irvq151i1.jpeg?width=640&crop=smart&auto=webp&s=5817a6f7c8557100cabc2add9fd6e5eaff6f0a87"
+      },
+      {
+        "rank": 4,
+        "title": "Meirl",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xupsa7/meirl/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-12T21:48:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8xubdtcl591i1.png?width=640&crop=smart&auto=webp&s=f71475b326e8629e339fbc0fd67c4965bfe6cf31"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI’s internal cyber model hit 77.0% on ExploitGym — nearly double Anthropic’s Mythos 5.2 (39.2%)",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xurxd4/openais_internal_cyber_model_hit_770_on/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-12T23:18:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/3ny7vbfnl91i1.jpeg?width=640&crop=smart&auto=webp&s=18962ccb700e0f3cdde421ce1b40001aa66b7605"
+      },
+      {
+        "rank": 1,
+        "title": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December. We are not ready for what's coming",
+        "url": "https://www.reddit.com/r/singularity/comments/1xuqlkb/judging_by_the_current_exponential_rate_jensen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-12T22:21:15.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/n5h6nr60b91i1.png?width=640&crop=smart&auto=webp&s=557efa7ba089e231af1435c6d946c353d0ff5aae"
+      },
+      {
+        "rank": 2,
+        "title": "Jensen Huang Resigns",
+        "url": "https://www.reddit.com/r/singularity/comments/1xudfv3/jensen_huang_resigns/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-12T13:58:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/m240ptrqt61i1.png?width=640&crop=smart&auto=webp&s=1c27feace847282253132b1b32275fed38da0845"
+      },
+      {
+        "rank": 3,
+        "title": "China offers Jensen new opportunities",
+        "url": "https://www.reddit.com/r/singularity/comments/1xuhhvn/china_offers_jensen_new_opportunities/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-12T16:36:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/g2jvndlnl71i1.png?width=640&crop=smart&auto=webp&s=d6e514af5002f6970eecb7562b3e8b330c4bbf37"
+      },
+      {
+        "rank": 4,
+        "title": "Google releases Gemini 4 Hydrogen, its new fast model, at $1.50/$7.50 per million tokens. Compared to 3.8 Flash, it finishes tasks 2.5x faster. 4 thinking levels",
+        "url": "https://www.reddit.com/r/singularity/comments/1xujwqq/google_releases_gemini_4_hydrogen_its_new_fast/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-12T18:04:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/7l6yo3rk181i1.png?width=640&crop=smart&auto=webp&s=bc488e3fee9fed7cf334b026238e014ee553f3bd"
+      },
+      {
+        "rank": 5,
+        "title": "Jensen at Nvidia’s board meeting today",
+        "url": "https://www.reddit.com/r/singularity/comments/1xumnmk/jensen_at_nvidias_board_meeting_today/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-12T19:46:02.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cnI0cXFpaXJqODFpMeHzCKFvy6os1yex9QKi-6XTUhtgcTPK00fnc_cGn7EO.jpeg?width=640&crop=smart&auto=webp&s=5daa1b6bd90e30df04dc2945598d80843bf4615e"
+      },
       {
         "rank": 1,
         "title": "My game got removed from gamedev subs for using AI, so here’s exactly how I made it with Claude",
@@ -56,52 +202,6 @@
       },
       {
         "rank": 1,
-        "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-12T13:51:58.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/nial14ybr61i1.png?width=140&height=78&auto=webp&s=9a8c42ba234b22f94e529cce49993dbca3427464"
-      },
-      {
-        "rank": 2,
-        "title": "How much does reviewer confidence matter in ICLR decisions? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xu3n5f/how_much_does_reviewer_confidence_matter_in_iclr/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-12T04:42:54.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "CVPR 2027 Author enrollment form [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-12T14:30:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What if NeurIPS, ICML, and ICLR capped accepted papers at 1,000 each? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xugl6c/what_if_neurips_icml_and_iclr_capped_accepted/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-12T16:02:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-12T18:55:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Almost 2 months since Opus 5.5 released and still OpenAI has no answer?",
         "url": "https://www.reddit.com/r/codex/comments/1xuka2x/almost_2_months_since_opus_55_released_and_still/",
         "source": "r/codex",
@@ -147,104 +247,6 @@
         "publishedAt": "2026-11-12T22:00:44.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/yxkx4ets791i1.jpeg?width=640&crop=smart&auto=webp&s=d730fef9697221ac21abe30aef721d0097486d75"
-      },
-      {
-        "rank": 1,
-        "title": "I will never get over the fact",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xtl8hm/i_will_never_get_over_the_fact/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T15:51:06.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/19mffbrw801i1.png?width=640&crop=smart&auto=webp&s=e4462c33c49a288601abde8ed2dd763580cc813b"
-      },
-      {
-        "rank": 2,
-        "title": "Paul Christiano (OpenAI board member) - \"For most people in this room, the most likely reason they will die is because of an AI accident.\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xti670/paul_christiano_openai_board_member_for_most/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T13:47:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/eWkwdjU1N3htejBpMVIuNs-DU6JyP-NRlT2NcCORTHe28Wy8Q6Cj1sgKtZ4w.png?width=640&crop=smart&auto=webp&s=3427f797759ffb94d20719bbec9e7419eac9b311"
-      },
-      {
-        "rank": 3,
-        "title": "How it all started",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xtdhta/how_it_all_started/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T09:30:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MzNvbTVyazFkeTBpMREfTPg9_IsTWEb0kHnKDbYldiqihkBhPtkBxIAIOIw_.png?width=320&crop=smart&auto=webp&s=229484a96666f941ef0ea9812e5975d62a258955"
-      },
-      {
-        "rank": 4,
-        "title": "How to ride him",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xtfjo0/how_to_ride_him/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-11T11:37:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/oq5jmkmmzy0i1.png?width=640&crop=smart&auto=webp&s=5da310e5e4420b76727bd921f8b479784834de5d"
-      },
-      {
-        "rank": 5,
-        "title": "50,000 open-source 3D assets and game systems that Codex can use for games/websites",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xtyci9/50000_opensource_3d_assets_and_game_systems_that/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-12T00:22:51.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/MGFiMHYyMHlyMjFpMbTXaYf_k57NyvCl7E8zyp1mXiw5dsSHXIaaJb-xCYT9.png?width=640&crop=smart&auto=webp&s=c739a3bbe493ebbdafc0ca1e174b6e721b68745e"
-      },
-      {
-        "rank": 1,
-        "title": "Ts is too funny",
-        "url": "https://www.reddit.com/r/singularity/comments/1xtjj5g/ts_is_too_funny/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-11T14:44:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/y7eqt08f0w0i1.jpeg?width=640&crop=smart&auto=webp&s=4e0871cf1a8068ee08a842ce6b1695def1d0fd0c"
-      },
-      {
-        "rank": 2,
-        "title": "This is *so* much more impressive than any dancing or acrobatic feat, because the skateboard can have countless variable states to account for *outside* the system (and it doesn’t appear to have any trackers, gyro/accelerometer/imu on it either) … I genuinely thought this was 3-5 years away…",
-        "url": "https://www.reddit.com/r/singularity/comments/1xt77bh/this_is_so_much_more_impressive_than_any_dancing/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-11T03:25:16.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "A second affair has hit the Jensen",
-        "url": "https://www.reddit.com/r/singularity/comments/1xtvbqj/a_second_affair_has_hit_the_jensen/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-11T22:12:40.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l31g7yrr421i1.png?width=640&crop=smart&auto=webp&s=8edf15bd0d4d38362c14e4b671376bbdfe2aed05"
-      },
-      {
-        "rank": 4,
-        "title": "OpenAI Yang Mills Existence Lean Proof Released and Verified",
-        "url": "https://www.reddit.com/r/singularity/comments/1xt9sa5/openai_yang_mills_existence_lean_proof_released/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-11T05:42:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Google Launches Gemini Decision-1 Model for Fast Structured Outputs",
-        "url": "https://www.reddit.com/r/singularity/comments/1xtpfrg/google_launches_gemini_decision1_model_for_fast/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-11T18:24:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/s8kzqnha011i1.jpeg?width=640&crop=smart&auto=webp&s=165d0e18999489625ad1669b889bc19e8713aa96"
       }
     ]
   }

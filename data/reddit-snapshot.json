@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T21:20:06.560Z",
+  "fetchedAt": "2026-11-14T01:40:09.485Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,15 +7,6 @@
     "items": [
       {
         "rank": 1,
-        "title": "hopital",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv3qfi/hopital/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T09:46:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
         "title": "Fable 5.2 painting in MS Paint",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvghd1/fable_52_painting_in_ms_paint/",
         "source": "r/ClaudeAI",
@@ -25,16 +16,16 @@
         "thumbnail": "https://external-preview.redd.it/b3NrbzlzdDRnZjFpMU6Pmu-wFRkU0dCAgkgKsMTuY178b-iPwVz8TMB-jVWl.png?width=640&crop=smart&auto=webp&s=a13d8c53ef290f9803ba534813ad93323bedcefd"
       },
       {
-        "rank": 3,
-        "title": "I disclosed every AI-made part of my solo game on Steam. The disclaimer is one of the main things people comment on.",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xus0wz/i_disclosed_every_aimade_part_of_my_solo_game_on/",
+        "rank": 2,
+        "title": "hopital",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv3qfi/hopital/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-12T23:22:49.000Z",
+        "publishedAt": "2026-11-13T09:46:30.000Z",
         "category": "reddit"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Dumbest way to burn credits",
         "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv0vte/dumbest_way_to_burn_credits/",
         "source": "r/ClaudeAI",
@@ -44,14 +35,23 @@
         "thumbnail": "https://preview.redd.it/r5jaqrbstb1i1.jpeg?width=140&height=109&auto=webp&s=a9066041dde15d3c01a92562f88e626e302b29a7"
       },
       {
-        "rank": 5,
-        "title": "Anthropic are discouraging using Fable as a coordinator for Projects",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuuabz/anthropic_are_discouraging_using_fable_as_a/",
+        "rank": 4,
+        "title": "PSA: Using Fable as an advisor doesn’t touch your Fable weekly limit",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnq0t/psa_using_fable_as_an_advisor_doesnt_touch_your/",
         "source": "r/ClaudeAI",
         "score": 0,
-        "publishedAt": "2026-11-13T01:04:53.000Z",
+        "publishedAt": "2026-11-13T23:54:29.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/siy58nla4a1i1.png?width=216&crop=smart&auto=webp&s=4e7cecc92edd2f24dc5ada2f79405e6f7bb0224e"
+        "thumbnail": "https://preview.redd.it/mxgnvoznwg1i1.png?width=320&crop=smart&auto=webp&s=e583b93bdee7892b16be784d75285c0ec81486b4"
+      },
+      {
+        "rank": 5,
+        "title": "What would you do if there's a Claude outage?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuzlpu/what_would_you_do_if_theres_a_claude_outage/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-13T05:33:30.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -64,6 +64,15 @@
       },
       {
         "rank": 2,
+        "title": "ICML 2027 Changes [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-13T21:53:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
         "title": "Scaling to 1T MoE on TorchTitan [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
         "source": "r/MachineLearning",
@@ -72,7 +81,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
         "source": "r/MachineLearning",
@@ -82,7 +91,7 @@
         "thumbnail": "https://preview.redd.it/stfbatowib1i1.gif?width=640&crop=smart&s=a0b9caca2cbc246254c8178860f2faf067609a80"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "title": "I have trained a model to predict my blood sugar [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
         "source": "r/MachineLearning",
@@ -92,26 +101,7 @@
         "thumbnail": "https://preview.redd.it/atpxfrf2uf1i1.png?width=140&height=96&auto=webp&s=6f880a1b98ac33fb1f1a592e19e02ce8ac3ae5b2"
       },
       {
-        "rank": 5,
-        "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-13T02:23:51.000Z",
-        "category": "reddit"
-      },
-      {
         "rank": 1,
-        "title": "New features + banked reset hitting soon",
-        "url": "https://www.reddit.com/r/codex/comments/1xuq3g6/new_features_banked_reset_hitting_soon/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-12T22:00:44.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/yxkx4ets791i1.jpeg?width=640&crop=smart&auto=webp&s=d730fef9697221ac21abe30aef721d0097486d75"
-      },
-      {
-        "rank": 2,
         "title": "OpenAI you alive? Please ship ;)",
         "url": "https://www.reddit.com/r/codex/comments/1xv6kps/openai_you_alive_please_ship/",
         "source": "r/codex",
@@ -120,7 +110,7 @@
         "category": "reddit"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "can someone remind them",
         "url": "https://www.reddit.com/r/codex/comments/1xvd11u/can_someone_remind_them/",
         "source": "r/codex",
@@ -130,7 +120,7 @@
         "thumbnail": "https://preview.redd.it/l2ywv47hte1i1.png?width=140&height=105&auto=webp&s=d5248460663c2f34ecdb3e9f221ae2b411b01d0c"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Sol 6.1 max",
         "url": "https://www.reddit.com/r/codex/comments/1xvg08v/sol_61_max/",
         "source": "r/codex",
@@ -139,14 +129,22 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "I know we just got a banked reset but what changed after October",
-        "url": "https://www.reddit.com/r/codex/comments/1xuuyxt/i_know_we_just_got_a_banked_reset_but_what/",
+        "rank": 4,
+        "title": "What model do you use most for general coding?",
+        "url": "https://www.reddit.com/r/codex/comments/1xv6cp2/what_model_do_you_use_most_for_general_coding/",
         "source": "r/codex",
         "score": 0,
-        "publishedAt": "2026-11-13T01:37:03.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/ac0lip7eaa1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c86e65b6811fa3ffe6b8369c1690f092888e1abc"
+        "publishedAt": "2026-11-13T12:15:53.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "What if Codex's usage is generous, but 6-era models waste it on overengineering?",
+        "url": "https://www.reddit.com/r/codex/comments/1xv0x7m/what_if_codexs_usage_is_generous_but_6era_models/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-13T06:49:53.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,

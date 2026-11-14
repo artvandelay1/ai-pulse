@@ -1,10 +1,59 @@
 {
-  "fetchedAt": "2026-11-14T15:41:44.864Z",
+  "fetchedAt": "2026-11-14T20:33:06.728Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "I built a swimmable underwater world in one 97 KB HTML file with Fable 5.2",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-14T14:05:14.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Nm81Z3FxZTc0bDFpMQsrYUxvGXUsXTj4cXcIQUahFAQPUqHpMBJtfcqWglVx.png?width=640&crop=smart&auto=webp&s=2a4fa7587e012d896d31da06b38804efda4d2cec"
+      },
+      {
+        "rank": 2,
+        "title": "Imagine",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw0pbo/imagine/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-14T11:59:05.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/28ky25u8ik1i1.png?width=640&crop=smart&auto=webp&s=b68f79b77cb0be0c09f59e5bc77a88c0497c1175"
+      },
+      {
+        "rank": 3,
+        "title": "PSA: Using Fable as an advisor doesn’t touch your Fable weekly limit",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnq0t/psa_using_fable_as_an_advisor_doesnt_touch_your/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-13T23:54:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mxgnvoznwg1i1.png?width=320&crop=smart&auto=webp&s=e583b93bdee7892b16be784d75285c0ec81486b4"
+      },
+      {
+        "rank": 4,
+        "title": "Another Claude Painting",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvzair/another_claude_painting/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-14T10:33:24.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YWd6bmh1a3gyazFpMd4JVPLSF8dsycsHy-Kuly2XqusLdo6Z6M-BfCUdOwU3.png?width=640&crop=smart&auto=webp&s=93638ed90887123653fe38f2e20986c45e394c6d"
+      },
+      {
+        "rank": 5,
+        "title": "Is it just me or is Claude really bad at researching online?",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnjsb/is_it_just_me_or_is_claude_really_bad_at/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-13T23:46:34.000Z",
+        "category": "reddit"
+      },
       {
         "rank": 1,
         "title": "ICML 2027 Changes [D]",
@@ -35,21 +84,67 @@
       },
       {
         "rank": 4,
-        "title": "Scaling to 1T MoE on TorchTitan [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
+        "title": "ICLR 2027 Rebuttal [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-13T16:28:36.000Z",
+        "publishedAt": "2026-11-14T16:00:01.000Z",
         "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Back Propagation [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/",
+        "title": "Is it compulsory to upload neurips poster by 15th Nov? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xw3q5f/is_it_compulsory_to_upload_neurips_poster_by_15th/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-13T23:52:21.000Z",
+        "publishedAt": "2026-11-14T14:28:42.000Z",
         "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "More time reviewing than creating?",
+        "url": "https://www.reddit.com/r/codex/comments/1xvq4kx/more_time_reviewing_than_creating/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-14T01:48:35.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Dots - I don't get it",
+        "url": "https://www.reddit.com/r/codex/comments/1xw8jiu/dots_i_dont_get_it/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-14T17:48:24.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "GPT Sol 6.1 vs Opus 5.5: My Surprising Experience",
+        "url": "https://www.reddit.com/r/codex/comments/1xwamla/gpt_sol_61_vs_opus_55_my_surprising_experience/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-14T19:12:13.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "My 10 favorite codex skills of this week, DROP YOURS here",
+        "url": "https://www.reddit.com/r/codex/comments/1xwbaex/my_10_favorite_codex_skills_of_this_week_drop/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-14T19:39:34.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Nightshift: a plugin for long-running coding agents claude , codex and cursor",
+        "url": "https://www.reddit.com/r/codex/comments/1xvp9b3/nightshift_a_plugin_for_longrunning_coding_agents/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-14T01:05:11.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/4ic1ued14h1i1.png?width=640&crop=smart&auto=webp&s=da0cefb7c10a6d3f79de8f779972de486ea70e6b"
       },
       {
         "rank": 1,
@@ -149,100 +244,6 @@
         "publishedAt": "2026-11-14T12:01:52.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/NXQ5dDJlc3JpazFpMQT18-fAMeKlBvImrg3gxG1zgMJX1veDC4XCWEC54BqT.jpeg?width=640&crop=smart&auto=webp&s=b114155296885f2020a0ce334baae78afbf0639f"
-      },
-      {
-        "rank": 1,
-        "title": "Fable 5.2 painting in MS Paint",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvghd1/fable_52_painting_in_ms_paint/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T19:00:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/b3NrbzlzdDRnZjFpMU6Pmu-wFRkU0dCAgkgKsMTuY178b-iPwVz8TMB-jVWl.png?width=640&crop=smart&auto=webp&s=a13d8c53ef290f9803ba534813ad93323bedcefd"
-      },
-      {
-        "rank": 2,
-        "title": "hopital",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv3qfi/hopital/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T09:46:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Dumbest way to burn credits",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xv0vte/dumbest_way_to_burn_credits/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T06:47:33.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/r5jaqrbstb1i1.jpeg?width=140&height=109&auto=webp&s=a9066041dde15d3c01a92562f88e626e302b29a7"
-      },
-      {
-        "rank": 4,
-        "title": "PSA: Using Fable as an advisor doesn’t touch your Fable weekly limit",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnq0t/psa_using_fable_as_an_advisor_doesnt_touch_your/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T23:54:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mxgnvoznwg1i1.png?width=320&crop=smart&auto=webp&s=e583b93bdee7892b16be784d75285c0ec81486b4"
-      },
-      {
-        "rank": 5,
-        "title": "What would you do if there's a Claude outage?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xuzlpu/what_would_you_do_if_theres_a_claude_outage/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T05:33:30.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "OpenAI you alive? Please ship ;)",
-        "url": "https://www.reddit.com/r/codex/comments/1xv6kps/openai_you_alive_please_ship/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-13T12:27:42.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "can someone remind them",
-        "url": "https://www.reddit.com/r/codex/comments/1xvd11u/can_someone_remind_them/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-13T16:52:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/l2ywv47hte1i1.png?width=140&height=105&auto=webp&s=d5248460663c2f34ecdb3e9f221ae2b411b01d0c"
-      },
-      {
-        "rank": 3,
-        "title": "Sol 6.1 max",
-        "url": "https://www.reddit.com/r/codex/comments/1xvg08v/sol_61_max/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-13T18:42:14.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "What model do you use most for general coding?",
-        "url": "https://www.reddit.com/r/codex/comments/1xv6cp2/what_model_do_you_use_most_for_general_coding/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-13T12:15:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "What if Codex's usage is generous, but 6-era models waste it on overengineering?",
-        "url": "https://www.reddit.com/r/codex/comments/1xv0x7m/what_if_codexs_usage_is_generous_but_6era_models/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-13T06:49:53.000Z",
-        "category": "reddit"
       }
     ]
   }

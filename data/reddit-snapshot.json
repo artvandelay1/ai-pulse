@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-11-14T01:40:09.485Z",
+  "fetchedAt": "2026-11-14T08:48:48.266Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "ICML 2027 Changes [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-13T21:53:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-13T10:50:10.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "I have trained a model to predict my blood sugar [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-13T20:48:25.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/atpxfrf2uf1i1.png?width=140&height=96&auto=webp&s=6f880a1b98ac33fb1f1a592e19e02ce8ac3ae5b2"
+      },
+      {
+        "rank": 4,
+        "title": "Scaling to 1T MoE on TorchTitan [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-13T16:28:36.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Back Propagation [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-13T23:52:21.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Investigators have discovered that the top 4 Chinese AI labs all built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xv9pff/investigators_have_discovered_that_the_top_4/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-13T14:44:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/29j2726n6e1i1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=5e7f41e98e5a091706eb20634bbcda2db83c6884"
+      },
+      {
+        "rank": 2,
+        "title": "The next generation will never see a real video",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xvfehk/the_next_generation_will_never_see_a_real_video/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-13T18:19:33.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZjVhYWFiNTg5ZjFpMautkzpRbCfsX_Rj7Bsda9MTYDrZz_0MRztFYa_TN4at.png?width=640&crop=smart&auto=webp&s=8c423cd0bdaa54eb2dfd12bd9ab5f1b316320a25"
+      },
+      {
+        "rank": 3,
+        "title": "Worth a Shot 💔🥀",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xvc5qe/worth_a_shot/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-13T16:19:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/8tbowhntne1i1.jpeg?width=640&crop=smart&auto=webp&s=6a0f4469019449f5e209aed44408dfa3d28f2a3b"
+      },
+      {
+        "rank": 4,
+        "title": "OpenAI introduces ChatGPT Wallet so agents can complete purchases with user approval",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xvd1ci/openai_introduces_chatgpt_wallet_so_agents_can/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-13T16:52:52.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "OpenAI is behind 3 labs in coding capability at #7. Astra 6.1 or .2 is kinda overdue",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xvqp23/openai_is_behind_3_labs_in_coding_capability_at_7/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-14T02:17:37.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/wc8rxqmjmh1i1.jpeg?width=640&crop=smart&auto=webp&s=cfe375e82aef11f7048b859490c1b951135ebe7a"
+      },
+      {
+        "rank": 1,
+        "title": "Huang: The Game",
+        "url": "https://www.reddit.com/r/singularity/comments/1xva8yj/huang_the_game/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-13T15:06:04.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ZGN6eXlmeXBhZTFpMR09D8Ij8CZHpQiDcDt27ZnlzfceXhxw-W41hrzUxk8e.png?width=640&crop=smart&auto=webp&s=a1b5fa8a5745c68e47cd90528e17192fea1743cf"
+      },
+      {
+        "rank": 2,
+        "title": "The FAA rolled out its $875 million AI Air Traffic tool today with reassurances it would not affect safety",
+        "url": "https://www.reddit.com/r/singularity/comments/1xvl00y/the_faa_rolled_out_its_875_million_ai_air_traffic/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-13T21:56:46.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/iIqDnDIczJIo1Lmns0nBgSz0bEkCQPDmfbsF4skhKvM.jpeg?width=640&crop=smart&auto=webp&s=766a32a41e51d70f02ab7c76bcbe385b6b51a662"
+      },
+      {
+        "rank": 3,
+        "title": "Nvidia should hire Lisa. AMD should hire Jensen. Both win. We all win. AI bubble cancelled.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xvf4gd/nvidia_should_hire_lisa_amd_should_hire_jensen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-13T18:09:07.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/xyqsker87f1i1.jpeg?width=640&crop=smart&auto=webp&s=a903ccc968eec09f1356495b22243eb5d8baca88"
+      },
+      {
+        "rank": 4,
+        "title": "Pangram CEO: We ask for their favourite snack in our job application, and it cuts down on our application review by 60%",
+        "url": "https://www.reddit.com/r/singularity/comments/1xvizxy/pangram_ceo_we_ask_for_their_favourite_snack_in/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-13T20:37:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/js1os4zmxf1i1.png?width=640&crop=smart&auto=webp&s=8ba552c5c01b02a05a84a58085f0624646005126"
+      },
+      {
+        "rank": 5,
+        "title": "Jensen distracted by the Woman in Red while Trump explains the Matrix",
+        "url": "https://www.reddit.com/r/singularity/comments/1xv4qvh/jensen_distracted_by_the_woman_in_red_while_trump/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-13T10:49:01.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/dWg1cTNnaHYwZDFpMZhozd6QlKToKl8FSE2vkJ-RUZU8UquHpWrwlpT22VbT.png?width=640&crop=smart&auto=webp&s=71a33c598157471d03edbe07713cf089b8c93ea4"
+      },
       {
         "rank": 1,
         "title": "Fable 5.2 painting in MS Paint",
@@ -55,53 +200,6 @@
       },
       {
         "rank": 1,
-        "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-13T10:50:10.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "ICML 2027 Changes [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-13T21:53:39.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "Scaling to 1T MoE on TorchTitan [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-13T16:28:36.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-13T05:48:17.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/stfbatowib1i1.gif?width=640&crop=smart&s=a0b9caca2cbc246254c8178860f2faf067609a80"
-      },
-      {
-        "rank": 5,
-        "title": "I have trained a model to predict my blood sugar [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-13T20:48:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/atpxfrf2uf1i1.png?width=140&height=96&auto=webp&s=6f880a1b98ac33fb1f1a592e19e02ce8ac3ae5b2"
-      },
-      {
-        "rank": 1,
         "title": "OpenAI you alive? Please ship ;)",
         "url": "https://www.reddit.com/r/codex/comments/1xv6kps/openai_you_alive_please_ship/",
         "source": "r/codex",
@@ -145,106 +243,6 @@
         "score": 0,
         "publishedAt": "2026-11-13T06:49:53.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Atleast He Is Consistent",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xu85at/atleast_he_is_consistent/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-12T09:12:09.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/eks88k0le51i1.jpeg?width=640&crop=smart&auto=webp&s=ba520ea0397aac576b41d62de080489e6541c94c"
-      },
-      {
-        "rank": 2,
-        "title": "Huang's 3rd Affair",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xunf7r/huangs_3rd_affair/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-12T20:14:54.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6gk9lnzwo81i1.jpeg?width=640&crop=smart&auto=webp&s=4559b59130f2b7fdd7d45c689c395c8fe6e74a78"
-      },
-      {
-        "rank": 3,
-        "title": "The Funniest Thing I Saw Today",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xu70bz/the_funniest_thing_i_saw_today/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-12T07:59:47.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/em84irvq151i1.jpeg?width=640&crop=smart&auto=webp&s=5817a6f7c8557100cabc2add9fd6e5eaff6f0a87"
-      },
-      {
-        "rank": 4,
-        "title": "Meirl",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xupsa7/meirl/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-12T21:48:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/8xubdtcl591i1.png?width=640&crop=smart&auto=webp&s=f71475b326e8629e339fbc0fd67c4965bfe6cf31"
-      },
-      {
-        "rank": 5,
-        "title": "OpenAI’s internal cyber model hit 77.0% on ExploitGym — nearly double Anthropic’s Mythos 5.2 (39.2%)",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xurxd4/openais_internal_cyber_model_hit_770_on/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-12T23:18:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/3ny7vbfnl91i1.jpeg?width=640&crop=smart&auto=webp&s=18962ccb700e0f3cdde421ce1b40001aa66b7605"
-      },
-      {
-        "rank": 1,
-        "title": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December. We are not ready for what's coming",
-        "url": "https://www.reddit.com/r/singularity/comments/1xuqlkb/judging_by_the_current_exponential_rate_jensen/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-12T22:21:15.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/n5h6nr60b91i1.png?width=640&crop=smart&auto=webp&s=557efa7ba089e231af1435c6d946c353d0ff5aae"
-      },
-      {
-        "rank": 2,
-        "title": "Jensen Huang Resigns",
-        "url": "https://www.reddit.com/r/singularity/comments/1xudfv3/jensen_huang_resigns/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-12T13:58:25.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/m240ptrqt61i1.png?width=640&crop=smart&auto=webp&s=1c27feace847282253132b1b32275fed38da0845"
-      },
-      {
-        "rank": 3,
-        "title": "China offers Jensen new opportunities",
-        "url": "https://www.reddit.com/r/singularity/comments/1xuhhvn/china_offers_jensen_new_opportunities/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-12T16:36:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/g2jvndlnl71i1.png?width=640&crop=smart&auto=webp&s=d6e514af5002f6970eecb7562b3e8b330c4bbf37"
-      },
-      {
-        "rank": 4,
-        "title": "Google releases Gemini 4 Hydrogen, its new fast model, at $1.50/$7.50 per million tokens. Compared to 3.8 Flash, it finishes tasks 2.5x faster. 4 thinking levels",
-        "url": "https://www.reddit.com/r/singularity/comments/1xujwqq/google_releases_gemini_4_hydrogen_its_new_fast/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-12T18:04:55.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/7l6yo3rk181i1.png?width=640&crop=smart&auto=webp&s=bc488e3fee9fed7cf334b026238e014ee553f3bd"
-      },
-      {
-        "rank": 5,
-        "title": "Jensen at Nvidia’s board meeting today",
-        "url": "https://www.reddit.com/r/singularity/comments/1xumnmk/jensen_at_nvidias_board_meeting_today/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-12T19:46:02.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/cnI0cXFpaXJqODFpMeHzCKFvy6os1yex9QKi-6XTUhtgcTPK00fnc_cGn7EO.jpeg?width=640&crop=smart&auto=webp&s=5daa1b6bd90e30df04dc2945598d80843bf4615e"
       }
     ]
   }

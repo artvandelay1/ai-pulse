@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T15:31:45.209Z",
+  "fetchedAt": "2026-11-15T20:33:46.332Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -26,24 +26,16 @@
       },
       {
         "rank": 3,
-        "title": "ICLR 2027 Rebuttal [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
+        "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-14T16:00:01.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-15T17:38:16.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/rcfmbufjbt1i1.png?width=640&crop=smart&auto=webp&s=bb94cd5c7154432ca325d4a90c7f47f572c063c3"
       },
       {
         "rank": 4,
-        "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-14T16:23:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
         "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
         "source": "r/MachineLearning",
@@ -52,17 +44,17 @@
         "category": "reddit"
       },
       {
-        "rank": 1,
-        "title": "Indie hacker life",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwusyd/indie_hacker_life/",
-        "source": "r/OpenAI",
+        "rank": 5,
+        "title": "Making cudaMemcpy 5x faster on a B300 [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
+        "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-15T12:55:03.000Z",
+        "publishedAt": "2026-11-15T18:20:27.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/9liqymd3xr1i1.jpeg?width=640&crop=smart&auto=webp&s=e135dc1d13c8f6086029024409845fa296151bbb"
+        "thumbnail": "https://preview.redd.it/cjz9xy3rht1i1.png?width=140&height=96&auto=webp&s=57d74f4d514161ef2e579397451db883b157cb47"
       },
       {
-        "rank": 2,
+        "rank": 1,
         "title": "built a fact-checker that catches politicians lying in real-time",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xwmzgl/built_a_factchecker_that_catches_politicians/",
         "source": "r/OpenAI",
@@ -72,17 +64,17 @@
         "thumbnail": "https://external-preview.redd.it/czBmNnQ3cjhscDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=dd98ab58721630a7e58017978e2f0583fb7ea90c"
       },
       {
-        "rank": 3,
-        "title": "Apparently after Argon Carbon and Hydrogen Google is about to release Krypton Oxygen and the rest of the Periodic Table. Tibo got his wish, joke is over LOL",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwbtcb/apparently_after_argon_carbon_and_hydrogen_google/",
+        "rank": 2,
+        "title": "Whistleblower Jacob Coxon pledged to donate 100% of his OpenAI equity to charity after the IPO. It's estimated to be worth $30 million. He calls the shares \"blood money\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xwy796/whistleblower_jacob_coxon_pledged_to_donate_100/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-14T20:01:37.000Z",
+        "publishedAt": "2026-11-15T15:25:28.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/0sbte7gdwm1i1.jpeg?width=640&crop=smart&auto=webp&s=e81052186fbecb788536d18e558baf4d4126d195"
+        "thumbnail": "https://preview.redd.it/xrym0q30os1i1.png?width=640&crop=smart&auto=webp&s=d842a145e5d40c5057bc533244bcf08d722a8778"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Should unused Codex usage roll over to the next week?",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xwv17o/should_unused_codex_usage_roll_over_to_the_next/",
         "source": "r/OpenAI",
@@ -91,27 +83,26 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "I built an AI frog and it's my favorite project I've ever built",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwbus0/i_built_an_ai_frog_and_its_my_favorite_project/",
+        "rank": 4,
+        "title": "Former top national security advisor, Susan Rice, at a protest yesterday - \"there is nothing more urgent than stopping Al from achieving super intelligence and causing human extinction\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xwzf12/former_top_national_security_advisor_susan_rice/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-14T20:03:15.000Z",
+        "publishedAt": "2026-11-15T16:15:23.000Z",
         "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/ryRMxIImXn4VSlwMCCB5a5KVzdu-1egu8i24tJFvX0Q.png?width=640&crop=smart&auto=webp&s=69361dbf813e050551f83b9a1caa03137308de1e"
+        "thumbnail": "https://external-preview.redd.it/Zm9icjhzbXd3czFpMcfk2ULzy1XXjCon9899JsfovkEIvFbCMZnqkDXQXjXl.png?width=640&crop=smart&auto=webp&s=40decb3fd03feebacaac4753e830290ee63a0cf8"
+      },
+      {
+        "rank": 5,
+        "title": "When will a new model be launched?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xwrf6v/when_will_a_new_model_be_launched/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-15T09:35:51.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "Debunked: Ancient Maya Site claimed to have been discovered by AI agents was in fact already discovered by humans in 2025 (the guy who made the claim recognized he was wrong)",
-        "url": "https://www.reddit.com/r/singularity/comments/1xw76xz/debunked_ancient_maya_site_claimed_to_have_been/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-14T16:54:35.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/43RF1u6WqYFVRWfujWIJlButKBNq4oss0cC8qVwcDAA.jpeg?width=640&crop=smart&auto=webp&s=94d7f23e316fef63ff6938df370715a24f9d9f06"
-      },
-      {
-        "rank": 2,
         "title": "Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all other models in the latest benchmark.",
         "url": "https://www.reddit.com/r/singularity/comments/1xwvg9b/gemini_4_hydrogen_just_destroyed_claude_fable_52/",
         "source": "r/singularity",
@@ -121,7 +112,7 @@
         "thumbnail": "https://preview.redd.it/tie5rcqn2s1i1.jpeg?width=640&crop=smart&auto=webp&s=434ec541572b73be865891f71ec9d2893a403277"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "TAU the teleoperated cleaning robot spotted running into some issues",
         "url": "https://www.reddit.com/r/singularity/comments/1xwh0kg/tau_the_teleoperated_cleaning_robot_spotted/",
         "source": "r/singularity",
@@ -131,7 +122,7 @@
         "thumbnail": "https://external-preview.redd.it/bGVyZXMxdzAybzFpMR2WVs1QgSEZNsS5sg2khb8d3zdx4ztcl_IansZhsEE8.png?width=320&crop=smart&auto=webp&s=8356b564c852af0a594c113276b8f5422b5cee44"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Starship 42 successfully CAUGHT by the Mechazilla chopsticks after a day in orbit — becoming the first time in history an orbital rocket has ever been fully recovered",
         "url": "https://www.reddit.com/r/singularity/comments/1xwfwlz/starship_42_successfully_caught_by_the_mechazilla/",
         "source": "r/singularity",
@@ -140,13 +131,24 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
-        "title": "Swimmable underwater world in one 97 KB HTML file made with Fable 5.2",
-        "url": "https://www.reddit.com/r/singularity/comments/1xw93rd/swimmable_underwater_world_in_one_97_kb_html_file/",
+        "rank": 4,
+        "title": "Three weeks ago Jensen bragged that he saved the world",
+        "url": "https://www.reddit.com/r/singularity/comments/1xwe035/three_weeks_ago_jensen_bragged_that_he_saved_the/",
         "source": "r/singularity",
         "score": 0,
-        "publishedAt": "2026-11-14T18:10:51.000Z",
-        "category": "reddit"
+        "publishedAt": "2026-11-14T21:36:52.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YmpuZjRrOWRkbjFpMUlp2K6SyoNhL3qF1PFKzxfDtGyIwtniVJmVFNcmWCMH.png?width=640&crop=smart&auto=webp&s=aedc37ae850ab162a0190537e4d488c2eea05ab0"
+      },
+      {
+        "rank": 5,
+        "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+        "url": "https://www.reddit.com/r/singularity/comments/1xwmeh4/q35_timelines_update_looks_like_the_intelligence/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-15T04:32:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/hXMdvMHNV4u8TfRSSRnkiB9E5z4cHM9ylfTS9RpCZDg.jpeg?width=640&crop=smart&auto=webp&s=e69eb765a2f0553805120b892bbc40bcaee29cf3"
       },
       {
         "rank": 1,

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T20:33:46.332Z",
+  "fetchedAt": "2026-11-16T00:54:07.052Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,13 +7,63 @@
     "items": [
       {
         "rank": 1,
-        "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+        "title": "Claude wrote and trained a language model for DOS that fits on a floppy disk",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwpenj/claude_wrote_and_trained_a_language_model_for_dos/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-15T07:28:00.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/NGlidHAxdnk1cTFpMZQSaU7yGMLpoMUcg5-RYio5f9BVEb6FxdDDZTUnYqh4.png?width=640&crop=smart&auto=webp&s=e123650b63af63fa05672fae78c76c8684dc1960"
+      },
+      {
+        "rank": 2,
+        "title": "This new benchmark is crazy",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwz9yf/this_new_benchmark_is_crazy/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-15T16:09:47.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/loi5an6pvs1i1.jpeg?width=640&crop=smart&auto=webp&s=4695788aee3da960fcd3dd9d3dc7e75e46cf7e23"
+      },
+      {
+        "rank": 3,
+        "title": "The latest Claude Desktop update in one picture",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xx5iam/the_latest_claude_desktop_update_in_one_picture/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-15T20:14:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/tw4roerj3u1i1.jpeg?width=640&crop=smart&auto=webp&s=82ecf869996516fd3e94d8d4f4ffde1ea9a67b4e"
+      },
+      {
+        "rank": 4,
+        "title": "For those who asked",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwlfsn/for_those_who_asked/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-15T03:40:17.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/cnV3dHp5bHM1cDFpMbHRYAHXDAFgnPGHTXhC_QRNq7ke8IIZG29DxbLEySVU.png?width=640&crop=smart&auto=webp&s=c13136d57e0408abcaf17300337c85e1573c8293"
+      },
+      {
+        "rank": 5,
+        "title": "I couldn’t even grow parsley. So I asked Claude for help… and things got a little out of hand !",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwvzv1/i_couldnt_even_grow_parsley_so_i_asked_claude_for/",
+        "source": "r/ClaudeAI",
+        "score": 0,
+        "publishedAt": "2026-11-15T13:51:22.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/yj9dez387s1i1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=d2e6fb6746dc71f5f2846114aefaf3732b56ce35"
+      },
+      {
+        "rank": 1,
+        "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-14T20:33:14.000Z",
+        "publishedAt": "2026-11-15T17:38:16.000Z",
         "category": "reddit",
-        "thumbnail": "https://preview.redd.it/di5zcerz1n1i1.png?width=640&crop=smart&auto=webp&s=46a81a176d2616ca2d788ea0bbfc40a3b0b25e4d"
+        "thumbnail": "https://preview.redd.it/rcfmbufjbt1i1.png?width=640&crop=smart&auto=webp&s=bb94cd5c7154432ca325d4a90c7f47f572c063c3"
       },
       {
         "rank": 2,
@@ -26,16 +76,6 @@
       },
       {
         "rank": 3,
-        "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-15T17:38:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rcfmbufjbt1i1.png?width=640&crop=smart&auto=webp&s=bb94cd5c7154432ca325d4a90c7f47f572c063c3"
-      },
-      {
-        "rank": 4,
         "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
         "source": "r/MachineLearning",
@@ -44,7 +84,7 @@
         "category": "reddit"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "title": "Making cudaMemcpy 5x faster on a B300 [P]",
         "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
         "source": "r/MachineLearning",
@@ -52,6 +92,60 @@
         "publishedAt": "2026-11-15T18:20:27.000Z",
         "category": "reddit",
         "thumbnail": "https://preview.redd.it/cjz9xy3rht1i1.png?width=140&height=96&auto=webp&s=57d74f4d514161ef2e579397451db883b157cb47"
+      },
+      {
+        "rank": 5,
+        "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-15T23:25:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Looks Like GPT-6 Series Has Ended Very Soon",
+        "url": "https://www.reddit.com/r/codex/comments/1xx1bkd/looks_like_gpt6_series_has_ended_very_soon/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-15T17:29:12.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "I wish the next model would respond a bit faster. 6.1sol is too slow.",
+        "url": "https://www.reddit.com/r/codex/comments/1xwj3e1/i_wish_the_next_model_would_respond_a_bit_faster/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-15T01:37:26.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Is Claude actually cheaper than Codex?",
+        "url": "https://www.reddit.com/r/codex/comments/1xx4xld/is_claude_actually_cheaper_than_codex/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-15T19:51:41.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Does anyone notice that Codex explains things much better in chat than in Markdown files?",
+        "url": "https://www.reddit.com/r/codex/comments/1xwqatm/does_anyone_notice_that_codex_explains_things/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-15T08:23:48.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anyone running Codex on a remote VM instead of locally?",
+        "url": "https://www.reddit.com/r/codex/comments/1xwy5om/anyone_running_codex_on_a_remote_vm_instead_of/",
+        "source": "r/codex",
+        "score": 0,
+        "publishedAt": "2026-11-15T15:23:38.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -149,101 +243,6 @@
         "publishedAt": "2026-11-15T04:32:32.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/hXMdvMHNV4u8TfRSSRnkiB9E5z4cHM9ylfTS9RpCZDg.jpeg?width=640&crop=smart&auto=webp&s=e69eb765a2f0553805120b892bbc40bcaee29cf3"
-      },
-      {
-        "rank": 1,
-        "title": "I built a swimmable underwater world in one 97 KB HTML file with Fable 5.2",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw376f/i_built_a_swimmable_underwater_world_in_one_97_kb/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-14T14:05:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Nm81Z3FxZTc0bDFpMQsrYUxvGXUsXTj4cXcIQUahFAQPUqHpMBJtfcqWglVx.png?width=640&crop=smart&auto=webp&s=2a4fa7587e012d896d31da06b38804efda4d2cec"
-      },
-      {
-        "rank": 2,
-        "title": "Imagine",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw0pbo/imagine/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-14T11:59:05.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/28ky25u8ik1i1.png?width=640&crop=smart&auto=webp&s=b68f79b77cb0be0c09f59e5bc77a88c0497c1175"
-      },
-      {
-        "rank": 3,
-        "title": "PSA: Using Fable as an advisor doesn’t touch your Fable weekly limit",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnq0t/psa_using_fable_as_an_advisor_doesnt_touch_your/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T23:54:29.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/mxgnvoznwg1i1.png?width=320&crop=smart&auto=webp&s=e583b93bdee7892b16be784d75285c0ec81486b4"
-      },
-      {
-        "rank": 4,
-        "title": "Another Claude Painting",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvzair/another_claude_painting/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-14T10:33:24.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YWd6bmh1a3gyazFpMd4JVPLSF8dsycsHy-Kuly2XqusLdo6Z6M-BfCUdOwU3.png?width=640&crop=smart&auto=webp&s=93638ed90887123653fe38f2e20986c45e394c6d"
-      },
-      {
-        "rank": 5,
-        "title": "Is it just me or is Claude really bad at researching online?",
-        "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvnjsb/is_it_just_me_or_is_claude_really_bad_at/",
-        "source": "r/ClaudeAI",
-        "score": 0,
-        "publishedAt": "2026-11-13T23:46:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "More time reviewing than creating?",
-        "url": "https://www.reddit.com/r/codex/comments/1xvq4kx/more_time_reviewing_than_creating/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-14T01:48:35.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 2,
-        "title": "Dots - I don't get it",
-        "url": "https://www.reddit.com/r/codex/comments/1xw8jiu/dots_i_dont_get_it/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-14T17:48:24.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "GPT Sol 6.1 vs Opus 5.5: My Surprising Experience",
-        "url": "https://www.reddit.com/r/codex/comments/1xwamla/gpt_sol_61_vs_opus_55_my_surprising_experience/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-14T19:12:13.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "My 10 favorite codex skills of this week, DROP YOURS here",
-        "url": "https://www.reddit.com/r/codex/comments/1xwbaex/my_10_favorite_codex_skills_of_this_week_drop/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-14T19:39:34.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 5,
-        "title": "Nightshift: a plugin for long-running coding agents claude , codex and cursor",
-        "url": "https://www.reddit.com/r/codex/comments/1xvp9b3/nightshift_a_plugin_for_longrunning_coding_agents/",
-        "source": "r/codex",
-        "score": 0,
-        "publishedAt": "2026-11-14T01:05:11.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/4ic1ued14h1i1.png?width=640&crop=smart&auto=webp&s=da0cefb7c10a6d3f79de8f779972de486ea70e6b"
       }
     ]
   }

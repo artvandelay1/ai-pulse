@@ -1,10 +1,155 @@
 {
-  "fetchedAt": "2026-11-16T07:48:09.035Z",
+  "fetchedAt": "2026-11-16T18:10:47.461Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
     "ok": true,
     "items": [
+      {
+        "rank": 1,
+        "title": "AISTATS 2027 paper discussion [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-16T14:09:31.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 2,
+        "title": "ICLR did you post reminder of rebuttal response? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-16T00:42:45.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 3,
+        "title": "Making cudaMemcpy 5x faster on a B300 [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-15T18:20:27.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cjz9xy3rht1i1.png?width=140&height=96&auto=webp&s=57d74f4d514161ef2e579397451db883b157cb47"
+      },
+      {
+        "rank": 4,
+        "title": "Serious spaces? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-16T17:23:56.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
+        "source": "r/MachineLearning",
+        "score": 0,
+        "publishedAt": "2026-11-15T23:25:39.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "CEOs are getting paranoid",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xxkwuq/ceos_are_getting_paranoid/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-16T09:16:57.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/Z2FnZWZiaDZ6eDFpMVPyNBaAguJUvd1iTzgej47gvu7yd-FpzQA0rcmbRxfx.png?width=320&crop=smart&auto=webp&s=fd72443ca34258b91763792011525a8b60b3e5bb"
+      },
+      {
+        "rank": 2,
+        "title": "It's so over",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xxmkyl/its_so_over/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-16T11:01:23.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/2xnsikurhy1i1.png?width=640&crop=smart&auto=webp&s=bad3d84dfe6c91913bdfe162ec9ba0cea5711c3e"
+      },
+      {
+        "rank": 3,
+        "title": "Barack Obama: “The machines are starting to teach themselves. We're now hitting the hockey stick where the models are getting smarter and smarter at an exponential pace.\" ... \"If they start setting their own agendas, you may get misalignment between what they want to do vs what we want them to do.\"",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xxt2il/barack_obama_the_machines_are_starting_to_teach/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-16T16:00:18.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/ODM5Zm02bzN6ejFpMaOJGW7BPLA6ohrLi4VN7TdcDVRG1A6aq_VOVj6IoDPR.png?width=640&crop=smart&auto=webp&s=26e0d49bf0f7ec6d196d022d1dc8e4c9c4b88e7e"
+      },
+      {
+        "rank": 4,
+        "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xxh1tf/nvidias_problem_openai_is_90_plus_percent_nvidia/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-16T05:18:26.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/IEetB_E3Tav1FyS-ZuJDhBTJs13vJf0jphIYjbGLsHc.jpeg?width=640&crop=smart&auto=webp&s=603dabbacffd42f15dae11d14ed96d06df343a70"
+      },
+      {
+        "rank": 5,
+        "title": "“If we don’t build it, China will” they said, as the US didn’t blacklist a single Chinese company in more than a year and knew about a potential spy and did nothing…",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xxanjc/if_we_dont_build_it_china_will_they_said_as_the/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-15T23:56:46.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 1,
+        "title": "Claude Fable 5.2 wrote a working Transformer AI, while Opus 5.5 generated its training data. The result: a 367,000-parameter language model that fits on a floppy disk and runs on a 1990s Pentium PC with just 540 KB of RAM.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xx8w9q/claude_fable_52_wrote_a_working_transformer_ai/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-15T22:37:29.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/YXdjejBmYzN0dTFpMZ4mRCal5Zi8ebrkfET3BcjxOxZv54TqgOT0aJlDtKNv.png?width=640&crop=smart&auto=webp&s=86ceacce537ab48a9b9e602aa3299133c1c348b5"
+      },
+      {
+        "rank": 2,
+        "title": "Highly anticipated Qwen4 Max scores a disappointing 43 on Artificial Analysis.",
+        "url": "https://www.reddit.com/r/singularity/comments/1xxe7en/highly_anticipated_qwen4_max_scores_a/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-16T02:47:28.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/475hbiui1w1i1.png?width=640&crop=smart&auto=webp&s=48fb9d7a7ced6cd06bc7f1942058381e0907852a"
+      },
+      {
+        "rank": 3,
+        "title": "Increase Productivity",
+        "url": "https://www.reddit.com/r/singularity/comments/1xxolvw/increase_productivity/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-16T12:53:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/cxsqc1mt1z1i1.jpeg?width=320&crop=smart&auto=webp&s=4c645aee4db039e8edf847a535ee047dfa1e42cc"
+      },
+      {
+        "rank": 4,
+        "title": "Gemini models at the end of the year:",
+        "url": "https://www.reddit.com/r/singularity/comments/1xxhlxf/gemini_models_at_the_end_of_the_year/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-16T05:50:38.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/6dh8bdedyw1i1.jpeg?width=640&crop=smart&auto=webp&s=a930812e61cfffb67273f2a8196a259473358fbd"
+      },
+      {
+        "rank": 5,
+        "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+        "url": "https://www.reddit.com/r/singularity/comments/1xx83bk/jensen_huang_discusses_comeback_as_nvidia_ceo/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-15T22:02:32.000Z",
+        "category": "reddit",
+        "thumbnail": "https://external-preview.redd.it/_0cGXgGSNWztI6HKBJevgDHn4mOtn4c9K8_nu3KPZAE.jpeg?width=640&crop=smart&auto=webp&s=7e064e4c829a226763e131d4bb13277563d68b92"
+      },
       {
         "rank": 1,
         "title": "This new benchmark is crazy",
@@ -56,53 +201,6 @@
       },
       {
         "rank": 1,
-        "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-15T17:38:16.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/rcfmbufjbt1i1.png?width=640&crop=smart&auto=webp&s=bb94cd5c7154432ca325d4a90c7f47f572c063c3"
-      },
-      {
-        "rank": 2,
-        "title": "I don't think double-blind review systems work [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-15T13:00:15.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 3,
-        "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-15T09:05:22.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Making cudaMemcpy 5x faster on a B300 [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-15T18:20:27.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/cjz9xy3rht1i1.png?width=140&height=96&auto=webp&s=57d74f4d514161ef2e579397451db883b157cb47"
-      },
-      {
-        "rank": 5,
-        "title": "ICLR did you post reminder of rebuttal response? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxbo56/iclr_did_you_post_reminder_of_rebuttal_response_d/",
-        "source": "r/MachineLearning",
-        "score": 0,
-        "publishedAt": "2026-11-16T00:42:45.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
         "title": "Looks Like GPT-6 Series Has Ended Very Soon",
         "url": "https://www.reddit.com/r/codex/comments/1xx1bkd/looks_like_gpt6_series_has_ended_very_soon/",
         "source": "r/codex",
@@ -147,103 +245,6 @@
         "score": 0,
         "publishedAt": "2026-11-15T19:51:41.000Z",
         "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "built a fact-checker that catches politicians lying in real-time",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwmzgl/built_a_factchecker_that_catches_politicians/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-15T05:05:14.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/czBmNnQ3cjhscDFpMcpzDhl8bRN0zlXsgkiLQLRuyTuvB_rAh87TQk0U7O4i.png?width=640&crop=smart&auto=webp&s=dd98ab58721630a7e58017978e2f0583fb7ea90c"
-      },
-      {
-        "rank": 2,
-        "title": "Whistleblower Jacob Coxon pledged to donate 100% of his OpenAI equity to charity after the IPO. It's estimated to be worth $30 million. He calls the shares \"blood money\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwy796/whistleblower_jacob_coxon_pledged_to_donate_100/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-15T15:25:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/xrym0q30os1i1.png?width=640&crop=smart&auto=webp&s=d842a145e5d40c5057bc533244bcf08d722a8778"
-      },
-      {
-        "rank": 3,
-        "title": "Should unused Codex usage roll over to the next week?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwv17o/should_unused_codex_usage_roll_over_to_the_next/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-15T13:05:53.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Former top national security advisor, Susan Rice, at a protest yesterday - \"there is nothing more urgent than stopping Al from achieving super intelligence and causing human extinction\"",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwzf12/former_top_national_security_advisor_susan_rice/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-15T16:15:23.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Zm9icjhzbXd3czFpMcfk2ULzy1XXjCon9899JsfovkEIvFbCMZnqkDXQXjXl.png?width=640&crop=smart&auto=webp&s=40decb3fd03feebacaac4753e830290ee63a0cf8"
-      },
-      {
-        "rank": 5,
-        "title": "When will a new model be launched?",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xwrf6v/when_will_a_new_model_be_launched/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-15T09:35:51.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 1,
-        "title": "Gemini 4 Hydrogen just DESTROYED Claude Fable 5.2 & all other models in the latest benchmark.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xwvg9b/gemini_4_hydrogen_just_destroyed_claude_fable_52/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-15T13:25:45.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/tie5rcqn2s1i1.jpeg?width=640&crop=smart&auto=webp&s=434ec541572b73be865891f71ec9d2893a403277"
-      },
-      {
-        "rank": 2,
-        "title": "TAU the teleoperated cleaning robot spotted running into some issues",
-        "url": "https://www.reddit.com/r/singularity/comments/1xwh0kg/tau_the_teleoperated_cleaning_robot_spotted/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-14T23:55:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/bGVyZXMxdzAybzFpMR2WVs1QgSEZNsS5sg2khb8d3zdx4ztcl_IansZhsEE8.png?width=320&crop=smart&auto=webp&s=8356b564c852af0a594c113276b8f5422b5cee44"
-      },
-      {
-        "rank": 3,
-        "title": "Starship 42 successfully CAUGHT by the Mechazilla chopsticks after a day in orbit — becoming the first time in history an orbital rocket has ever been fully recovered",
-        "url": "https://www.reddit.com/r/singularity/comments/1xwfwlz/starship_42_successfully_caught_by_the_mechazilla/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-14T23:03:25.000Z",
-        "category": "reddit"
-      },
-      {
-        "rank": 4,
-        "title": "Three weeks ago Jensen bragged that he saved the world",
-        "url": "https://www.reddit.com/r/singularity/comments/1xwe035/three_weeks_ago_jensen_bragged_that_he_saved_the/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-14T21:36:52.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/YmpuZjRrOWRkbjFpMUlp2K6SyoNhL3qF1PFKzxfDtGyIwtniVJmVFNcmWCMH.png?width=640&crop=smart&auto=webp&s=aedc37ae850ab162a0190537e4d488c2eea05ab0"
-      },
-      {
-        "rank": 5,
-        "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-        "url": "https://www.reddit.com/r/singularity/comments/1xwmeh4/q35_timelines_update_looks_like_the_intelligence/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-15T04:32:32.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/hXMdvMHNV4u8TfRSSRnkiB9E5z4cHM9ylfTS9RpCZDg.jpeg?width=640&crop=smart&auto=webp&s=e69eb765a2f0553805120b892bbc40bcaee29cf3"
       }
     ]
   }

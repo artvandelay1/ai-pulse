@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T02:00:50.887Z",
+  "fetchedAt": "2026-11-17T10:33:48.082Z",
   "result": {
     "category": "reddit",
     "label": "Reddit",
@@ -7,11 +7,11 @@
     "items": [
       {
         "rank": 1,
-        "title": "Serious spaces? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
+        "title": "Why are ViTs so popular? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-16T17:23:56.000Z",
+        "publishedAt": "2026-11-17T04:37:17.000Z",
         "category": "reddit"
       },
       {
@@ -25,44 +25,33 @@
       },
       {
         "rank": 3,
-        "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
+        "title": "ICLR 2027: PCs ran an AI detector on reviews, peer review is cooked [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xyf1tq/iclr_2027_pcs_ran_an_ai_detector_on_reviews_peer/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-16T09:19:43.000Z",
+        "publishedAt": "2026-11-17T08:22:41.000Z",
         "category": "reddit"
       },
       {
         "rank": 4,
-        "title": "Marimba: A System One Model for Speech. [R]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
+        "title": "Serious spaces? [D]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-16T15:47:18.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/dqrtv63qwz1i1.gif?frame=1&width=140&height=90&auto=webp&s=6d707cf8bcf86324e49efae4a1466a6ba2783f92"
+        "publishedAt": "2026-11-16T17:23:56.000Z",
+        "category": "reddit"
       },
       {
         "rank": 5,
-        "title": "Is anyone's AC playing the role of \"discussion moderator\" for ICLR? [D]",
-        "url": "https://www.reddit.com/r/MachineLearning/comments/1xy6t7g/is_anyones_ac_playing_the_role_of_discussion/",
+        "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
         "source": "r/MachineLearning",
         "score": 0,
-        "publishedAt": "2026-11-17T00:59:53.000Z",
+        "publishedAt": "2026-11-17T05:11:48.000Z",
         "category": "reddit"
       },
       {
         "rank": 1,
-        "title": "CEOs are getting paranoid",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xxkwuq/ceos_are_getting_paranoid/",
-        "source": "r/OpenAI",
-        "score": 0,
-        "publishedAt": "2026-11-16T09:16:57.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/Z2FnZWZiaDZ6eDFpMVPyNBaAguJUvd1iTzgej47gvu7yd-FpzQA0rcmbRxfx.png?width=320&crop=smart&auto=webp&s=fd72443ca34258b91763792011525a8b60b3e5bb"
-      },
-      {
-        "rank": 2,
         "title": "Barack Obama: “The machines are starting to teach themselves. We're now hitting the hockey stick where the models are getting smarter and smarter at an exponential pace.\" ... \"If they start setting their own agendas, you may get misalignment between what they want to do vs what we want them to do.\"",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xxt2il/barack_obama_the_machines_are_starting_to_teach/",
         "source": "r/OpenAI",
@@ -72,7 +61,7 @@
         "thumbnail": "https://external-preview.redd.it/ODM5Zm02bzN6ejFpMaOJGW7BPLA6ohrLi4VN7TdcDVRG1A6aq_VOVj6IoDPR.png?width=640&crop=smart&auto=webp&s=26e0d49bf0f7ec6d196d022d1dc8e4c9c4b88e7e"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "title": "It's so over",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xxmkyl/its_so_over/",
         "source": "r/OpenAI",
@@ -82,7 +71,7 @@
         "thumbnail": "https://preview.redd.it/2xnsikurhy1i1.png?width=640&crop=smart&auto=webp&s=bad3d84dfe6c91913bdfe162ec9ba0cea5711c3e"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "title": "Vibe on reddit: AI is fake. Vibe on twitter:",
         "url": "https://www.reddit.com/r/OpenAI/comments/1xxpk7s/vibe_on_reddit_ai_is_fake_vibe_on_twitter/",
         "source": "r/OpenAI",
@@ -92,14 +81,22 @@
         "thumbnail": "https://preview.redd.it/lulj504r9z1i1.png?width=640&crop=smart&auto=webp&s=d945530f0e66305cd22cc844dee4093bc98725a1"
       },
       {
-        "rank": 5,
-        "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
-        "url": "https://www.reddit.com/r/OpenAI/comments/1xxh1tf/nvidias_problem_openai_is_90_plus_percent_nvidia/",
+        "rank": 4,
+        "title": "Google confirms an \"era of autonomous attacks has arrived\" as 178 companies including banks, airlines and more are hit",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xyee33/google_confirms_an_era_of_autonomous_attacks_has/",
         "source": "r/OpenAI",
         "score": 0,
-        "publishedAt": "2026-11-16T05:18:26.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/IEetB_E3Tav1FyS-ZuJDhBTJs13vJf0jphIYjbGLsHc.jpeg?width=640&crop=smart&auto=webp&s=603dabbacffd42f15dae11d14ed96d06df343a70"
+        "publishedAt": "2026-11-17T07:40:09.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 5,
+        "title": "Do we need another device just to talk to AI?",
+        "url": "https://www.reddit.com/r/OpenAI/comments/1xy1dim/do_we_need_another_device_just_to_talk_to_ai/",
+        "source": "r/OpenAI",
+        "score": 0,
+        "publishedAt": "2026-11-16T21:10:27.000Z",
+        "category": "reddit"
       },
       {
         "rank": 1,
@@ -113,36 +110,6 @@
       },
       {
         "rank": 2,
-        "title": "Highly anticipated Qwen4 Max scores a disappointing 43 on Artificial Analysis.",
-        "url": "https://www.reddit.com/r/singularity/comments/1xxe7en/highly_anticipated_qwen4_max_scores_a/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-16T02:47:28.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/475hbiui1w1i1.png?width=640&crop=smart&auto=webp&s=48fb9d7a7ced6cd06bc7f1942058381e0907852a"
-      },
-      {
-        "rank": 3,
-        "title": "Gemini models at the end of the year:",
-        "url": "https://www.reddit.com/r/singularity/comments/1xxhlxf/gemini_models_at_the_end_of_the_year/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-16T05:50:38.000Z",
-        "category": "reddit",
-        "thumbnail": "https://preview.redd.it/6dh8bdedyw1i1.jpeg?width=640&crop=smart&auto=webp&s=a930812e61cfffb67273f2a8196a259473358fbd"
-      },
-      {
-        "rank": 4,
-        "title": "Anthropic Researcher: \"Pretty Much All Humans Will Become Permanently Unemployable\"",
-        "url": "https://www.reddit.com/r/singularity/comments/1xxi8az/anthropic_researcher_pretty_much_all_humans_will/",
-        "source": "r/singularity",
-        "score": 0,
-        "publishedAt": "2026-11-16T06:27:07.000Z",
-        "category": "reddit",
-        "thumbnail": "https://external-preview.redd.it/XK7ig1oQBtaBlkBNHEARD7B2jkEv3KChE0pw6SQo1Pw.jpeg?width=320&crop=smart&auto=webp&s=3a1e8783199ebc1a13ba14133230aca89ca7d6ff"
-      },
-      {
-        "rank": 5,
         "title": "Altman: \"If the sales pitch is ... we are going to offer you a cure to cancer and cheap stuff, and the price of that is you are going to lose all agency and control and voice in the future. You are going to live like a Labrador... I think it's a terrible sales pitch. I don't want that world.\"",
         "url": "https://www.reddit.com/r/singularity/comments/1xy1q6z/altman_if_the_sales_pitch_is_we_are_going_to/",
         "source": "r/singularity",
@@ -150,6 +117,35 @@
         "publishedAt": "2026-11-16T21:23:52.000Z",
         "category": "reddit",
         "thumbnail": "https://external-preview.redd.it/bGhkbDlzNHNnMTJpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=6249bc3c92ee579bd3bc52a5dcb257c2c3438786"
+      },
+      {
+        "rank": 3,
+        "title": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
+        "url": "https://www.reddit.com/r/singularity/comments/1xxwerg/silicon_valley_leaders_back_call_for_jensen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-16T18:04:32.000Z",
+        "category": "reddit"
+      },
+      {
+        "rank": 4,
+        "title": "Just release the Bel model bro 💔",
+        "url": "https://www.reddit.com/r/singularity/comments/1xxm9br/just_release_the_bel_model_bro/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-16T10:41:55.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/mnjy0jv9ey1i1.png?width=640&crop=smart&auto=webp&s=b2edddb5d8332a04388b7f5cebfea56c69e9dd31"
+      },
+      {
+        "rank": 5,
+        "title": "How long do you expect this transition to happen for AI datacenters?",
+        "url": "https://www.reddit.com/r/singularity/comments/1xy9rkk/how_long_do_you_expect_this_transition_to_happen/",
+        "source": "r/singularity",
+        "score": 0,
+        "publishedAt": "2026-11-17T03:21:21.000Z",
+        "category": "reddit",
+        "thumbnail": "https://preview.redd.it/9gr5q2qhc32i1.png?width=640&crop=smart&auto=webp&s=91e83ed2e35eeafafdb57785e93400fe492151d6"
       },
       {
         "rank": 1,
